@@ -28,12 +28,7 @@
       margin:0;
       color:var(--text);
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-      background:
-        radial-gradient(1000px 600px at 18% 12%, rgba(58,160,255,.14), transparent 60%),
-        radial-gradient(900px 520px at 82% 16%, rgba(255,228,77,.12), transparent 62%),
-        radial-gradient(900px 520px at 70% 82%, rgba(44,255,154,.10), transparent 60%),
-        radial-gradient(900px 520px at 20% 84%, rgba(255,53,94,.12), transparent 62%),
-        linear-gradient(180deg, var(--bg0), var(--bg1));
+      background:#12113d;
       overflow:hidden;
     }
 
@@ -44,7 +39,7 @@
     }
 
     header{
-      padding:18px 18px 12px;
+      padding:18px 25px 12px;
       border-bottom:1px solid rgba(255,255,255,.10);
       background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,0));
       backdrop-filter: blur(10px);
@@ -55,9 +50,10 @@
       align-items:center;
       justify-content:space-between;
       gap:14px;
-      max-width:1200px;
-      margin:0 auto;
-    }
+      width:100%;
+      max-width:none;
+      margin:0;
+      }
 
     .brand{
       display:flex;
@@ -164,12 +160,12 @@
     }
 
     main{
-      max-width:1200px;
+      max-width:none;
       width:100%;
-      margin:0 auto;
-      padding:14px 18px 18px;
+      margin:0;
+      padding:14px 25px 18px;
       display:grid;
-      grid-template-columns: 420px 1fr;
+      grid-template-columns: 360px 1fr;
       gap:14px;
       height:100%;
       min-height:0;
@@ -394,7 +390,6 @@
 
 
     .grid{
-      grid-template-columns: 1fr;
       display: flex;
       flex-direction: column;
       gap: 12px;
@@ -505,82 +500,83 @@
       .panel{min-height: 520px}
       input[type="search"]{width:min(640px, 70vw)}
     }
-  
+
+
     .bioOverlay{
       position: fixed;
       inset: 0;
       z-index: 999;
       display: none;
-      padding: 18px;
-      background: rgba(0,0,0,.72);
+      padding: 25px;
+      background: rgba(18,17,61,.96);
       backdrop-filter: blur(10px);
     }
     .bioOverlay.show{ display: block; }
+
     .bioShell{
       height: 100%;
-      max-width: 1200px;
-      margin: 0 auto;
-      border-radius: 26px;
+      width: 100%;
+      margin: 0;
+      border-radius: var(--radius2);
       border: 1px solid rgba(255,255,255,.12);
-      box-shadow: 0 28px 100px rgba(0,0,0,.70);
+      box-shadow: var(--shadow);
       overflow: hidden;
-      background:
-        radial-gradient(1000px 600px at 18% 12%, rgba(58,160,255,.14), transparent 60%),
-        radial-gradient(900px 520px at 82% 16%, rgba(255,228,77,.12), transparent 62%),
-        radial-gradient(900px 520px at 70% 82%, rgba(44,255,154,.10), transparent 60%),
-        radial-gradient(900px 520px at 20% 84%, rgba(255,53,94,.12), transparent 62%),
-        linear-gradient(180deg, #07070a, #101018);
+      display: grid;
+      grid-template-rows: auto 1fr;
+      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.05));
     }
+
     .bioHeader{
-      position: sticky;
-      top: 0;
-      z-index: 5;
-      padding: 16px 16px 12px;
+      padding: 18px 25px 12px;
       display:flex;
       align-items:flex-start;
       justify-content: space-between;
       gap: 12px;
       border-bottom: 1px solid rgba(255,255,255,.10);
-      background: linear-gradient(180deg, rgba(0,0,0,.50), rgba(0,0,0,.18));
+      background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,0));
       backdrop-filter: blur(10px);
     }
+
     .bioTitle{
-      font-size: 26px;
-      font-weight: 900;
-      letter-spacing: .6px;
-      line-height: 1.1;
+      margin:0;
+      font-size:22px;
+      letter-spacing:.6px;
+      line-height:1.1;
+      font-weight:800;
       background: linear-gradient(90deg, var(--yellow), var(--red), var(--blue), var(--green));
       -webkit-background-clip:text;
       background-clip:text;
-      color: transparent;
+      color:transparent;
       text-shadow: 0 6px 30px rgba(0,0,0,.45);
     }
-    .bioSub{ margin-top: 6px; font-size: 13px; color: rgba(242,242,247,.72); }
+    .bioSub{ margin-top:6px; font-size:13px; color: rgba(242,242,247,.72); }
+
     .bioBody{
-      height: calc(100% - 72px);
       overflow: auto;
-      padding: 16px;
+      padding: 14px 25px 18px;
+      min-height:0;
     }
+
     .bioHero{
-      border-radius: 24px;
+      border-radius: var(--radius2);
       border: 1px solid rgba(255,255,255,.12);
-      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.05));
-      box-shadow: 0 18px 60px rgba(0,0,0,.45);
+      background: rgba(255,255,255,.06);
+      box-shadow: var(--shadow);
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
       padding: 16px;
       margin-bottom: 12px;
     }
-    .bioHero h2{
-      margin:0;
-      font-size: 22px;
-      font-weight: 900;
-      letter-spacing: .3px;
+
+    .bioPhoto{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display:block;
     }
-    .bioHero p{
-      margin: 10px 0 0;
-      color: rgba(242,242,247,.78);
-      line-height: 1.55;
-      white-space: pre-wrap;
-    }
+    .bioHeroText{ min-width: 0; flex: 1 1 auto; }
+
     .bioGrid{
       display:flex;
       flex-direction: column;
@@ -629,18 +625,7 @@
             <span style="color:rgba(242,242,247,.75);font-size:14px">🔎</span>
             <input id="search" type="search" placeholder="Search artists…" autocomplete="off" />
           </div>
-
-          <div class="pill">
-            <span style="color:rgba(242,242,247,.75);font-size:13px">Sort</span>
-            <div class="selectWrap">
-              <select id="sort">
-                <option value="az">A → Z</option>
-                <option value="za">Z → A</option>
-                <option value="full">Filled first</option>
-              </select>
-            </div>
-          </div>
-        </div>
+</div>
       </div>
     </header>
 
@@ -659,7 +644,7 @@
         <div class="detail" id="detail">
           <div class="empty">
             <h2>Pick an artist</h2>
-            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are name-only placeholders.</p>
+            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are placeholders we’ll fill in later.</p>
             <div class="status" id="status"></div>
           </div>
         </div>
@@ -668,7 +653,7 @@
   </div>
 
   <script>
-    const state = {
+const state = {
       raw: null,
       artists: [],
       filtered: [],
@@ -676,13 +661,40 @@
       bios: null
     };
 
+    const qs = new URLSearchParams(window.location.search);
+    const CACHE_BUST = qs.get("cb") === "1";
+    const CACHE_BUST_TOKEN = CACHE_BUST ? String(Date.now()) : "";
+
+    const cacheBustAssetUrl = (rawUrl) => {
+      const u0 = (rawUrl ?? "").toString();
+      if (!CACHE_BUST || !u0) return u0;
+
+      let u;
+      try {
+        u = new URL(u0, window.location.href);
+      } catch {
+        return u0;
+      }
+
+      const isSameOrigin = u.origin === window.location.origin;
+      const isRepoRaw = u.hostname === "raw.githubusercontent.com" && u.pathname.includes("/BigBird7827/Rock-Music-Database/");
+      const isRepoPages = u.hostname === "bigbird7827.github.io" && u.pathname.startsWith("/Rock-Music-Database/");
+      const isBustable = isSameOrigin || isRepoRaw || isRepoPages;
+
+      if (!isBustable) return u0;
+
+      u.searchParams.set("v", CACHE_BUST_TOKEN);
+      return u.href;
+    };
+
+    const ARTISTS_URL = cacheBustAssetUrl("https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json");
+
     const el = {
       list: document.getElementById("list"),
       detail: document.getElementById("detail"),
       count: document.getElementById("count"),
       search: document.getElementById("search"),
-      sort: document.getElementById("sort"),
-      status: document.getElementById("status")
+status: document.getElementById("status")
     };
 
     const safe = (v) => (v == null ? "" : String(v));
@@ -716,19 +728,6 @@
       return t.trim();
     };
 
-    const loadBios = async () => {
-      if (state.bios) return state.bios;
-      const res = await fetch(BIOS_URL, { cache: "no-store" });
-      if (!res.ok) throw new Error("HTTP " + res.status);
-      const text = await res.text();
-      let json;
-      try { json = JSON.parse(text); } catch (e) { json = JSON.parse(repairJsonText(text)); }
-      const list = Array.isArray(json) ? json : (Array.isArray(json.Biographies) ? json.Biographies : []);
-      state.bios = list;
-      return list;
-    };
-
-
     const escapeHtml = (s) => safe(s)
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
@@ -738,14 +737,7 @@
 
     const isFilled = (a) => a && (a.Overview || a.NotableAlbums || a.Genres || a.YearsActive || a.ExternalLinks);
 
-    const sortArtists = (arr) => {
-      const mode = el.sort.value;
-      const copy = [...arr];
-      if (mode === "az") copy.sort((a,b)=>safe(a.Name).localeCompare(safe(b.Name)));
-      if (mode === "za") copy.sort((a,b)=>safe(b.Name).localeCompare(safe(a.Name)));
-      if (mode === "full") copy.sort((a,b)=>(isFilled(b) - isFilled(a)) || safe(a.Name).localeCompare(safe(b.Name)));
-      return copy;
-    };
+    const sortArtists = (arr) => [...arr].sort((a, b) => safe(a.Name).localeCompare(safe(b.Name)));
 
     const matches = (a, q) => {
       if (!q) return true;
@@ -836,6 +828,7 @@
             const replacing = (m.Replacing && m.Replacing.length) ? m.Replacing.join(", ") : "";
             const replacedBy = (m.ReplacedBy && m.ReplacedBy.length) ? m.ReplacedBy.join(", ") : "";
             const overview = m.Overview ? safe(m.Overview) : "";
+            const hasBio = !!(m && m.Bio && ((Array.isArray(m.Bio.Biography) && m.Bio.Biography.filter(Boolean).length) || (typeof m.Bio.Biography === "string" && m.Bio.Biography.trim())));
             const row = (label, value) => value ? `<div style="margin-top:6px;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">${label}</span><div style="margin-top:4px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;">${value}</div></div>` : "";
             const albumsHtml = albums.length ? `<ul style="margin:6px 0 0 18px;">${albums.map(a=>`<li>${safe(a)}</li>`).join("")}</ul>` : "";
             return `
@@ -845,7 +838,7 @@
                     <div style="font-weight:800;letter-spacing:.2px;">${name}</div>
                     ${years ? `<span class="badge" style="opacity:.9;">${years}</span>` : ``}
                   </div>
-                  ${isCore ? `<button class="bioBtn" data-member="${escapeHtmlAttr(name)}">Biography</button>` : ``}
+                  ${(isCore && hasBio) ? `<button class="bioBtn" data-member="${escapeHtmlAttr(name)}">Biography</button>` : ``}
                 </div>
                 ${roles ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Roles</span><div style="margin-top:4px;">${safe(roles)}</div></div>` : ``}
                 ${instruments ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Instruments</span><div style="margin-top:4px;">${safe(instruments)}</div></div>` : ``}
@@ -884,7 +877,7 @@
               <h2 class="artistTitle">${name}</h2>
               <div class="subline"><span>${sub}</span></div>
             </div>
-            <div class="chipRow"><button class="returnBtn" id="returnToList">Return</button>${chips(a)}</div>
+            <div class="chipRow">${chips(a)}</div>
           </div>
 
           <div class="card">
@@ -904,7 +897,7 @@
               <span>${badgeHTML(a)}</span>
             </div>
           </div>
-          <div class="chipRow"><button class="returnBtn" id="returnToList">Return</button>${chips(a)}</div>
+          <div class="chipRow">${chips(a)}</div>
         </div>
 
         <div class="grid">
@@ -1018,9 +1011,6 @@
 
     const wireDetailClicks = () => {
       el.detail.addEventListener("click", (e) => {
-        const ret = e.target.closest("#returnToList");
-        if (ret) { clearSelection(); return; }
-
         const btn = e.target.closest(".bioBtn");
         if (!btn) return;
         const memberName = btn.getAttribute("data-member");
@@ -1053,18 +1043,22 @@
         </div>
       `;
 
-      let bio = null;
+            let bio = null;
       let errorMsg = "";
-      try {
-        const bios = await loadBios();
-        const pick = bios.find(b => normKey(b.ArtistID) === normKey(artistId) && normKey(b.MemberName) === normKey(memberName));
-        if (pick) bio = pick;
-        if (!bio) {
-          const pick2 = bios.find(b => normKey(b.ArtistName) === normKey(artistName) && normKey(b.MemberName) === normKey(memberName));
-          if (pick2) bio = pick2;
-        }
-      } catch (e) {
-        errorMsg = safe(e && (e.message || e));
+
+      const a = state.artists.find(x =>
+        normKey(safe(x.ArtistID)) === normKey(artistId) ||
+        normKey(safe(x.Name)) === normKey(artistName)
+      );
+
+      const member = a && Array.isArray(a.CoreMembers)
+        ? a.CoreMembers.find(m => normKey(safe(m.Name)) === normKey(memberName))
+        : null;
+
+      bio = member && member.Bio ? member.Bio : null;
+
+      if (!bio) {
+        errorMsg = "Biography not found in Artists.json.";
       }
 
       const bioText = bio && Array.isArray(bio.Biography)
@@ -1108,11 +1102,20 @@
         ? `<div class="bioCard"><h3><span class="accent"></span>Error</h3><p style="margin:0;color:rgba(242,242,247,.78);">${escapeHtml(errorMsg)}</p></div>`
         : ``;
 
+
+      const photoUrl = bio && bio.Photo ? safe(bio.Photo.Url || bio.Photo.url || "") : "";
+      const photoHTML = photoUrl
+        ? `<div class="bioPhotoWrap"><img class="bioPhoto" src="${cacheBustAssetUrl(photoUrl)}" alt="${escapeHtml(memberName || artistName || "Photo")}" loading="lazy"></div>`
+        : ``;
+
       body.innerHTML = `
         <div class="bioHero">
-          <h2>${memberName || "Biography"}</h2>
-          <p>${bioText ? escapeHtml(bioText) : (errorMsg ? "Couldn’t load biographies." : ("No biography found." + (lookupInfo ? " " + lookupInfo : "")))}</p>
-          ${chips}
+          ${photoHTML}
+          <div class="bioHeroText">
+            <h2>${memberName || "Biography"}</h2>
+            <p>${bioText ? escapeHtml(bioText) : (errorMsg ? "Couldn’t load biographies." : ("No biography found." + (lookupInfo ? " " + lookupInfo : "")))}</p>
+            ${chips}
+          </div>
         </div>
 
         <div class="bioGrid">
@@ -1164,6 +1167,8 @@
       if (!overlay) return;
       overlay.classList.add("show");
       overlay.setAttribute("aria-hidden", "false");
+      const body = document.getElementById("bioBody");
+      if (body) body.scrollTop = 0;
 
       Promise.resolve(renderBioPage())
         .catch((e) => {
@@ -1199,7 +1204,7 @@
 
     const init = async () => {
       try{
-        const res = await fetch("https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json", { cache: "no-store" });
+        const res = await fetch(ARTISTS_URL, { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
         state.raw = json;
@@ -1224,9 +1229,7 @@
     };
 
     el.search.addEventListener("input", () => renderList());
-    el.sort.addEventListener("change", () => renderList());
-
-    init();
+init();
 
     window.addEventListener("DOMContentLoaded", () => {
       const btn = document.getElementById("bioReturnBtn");
@@ -1244,12 +1247,13 @@
     });
   </script>
 
+
   <div class="bioOverlay" id="bioOverlay" aria-hidden="true">
     <div class="bioShell">
       <div class="bioHeader">
         <div>
           <div class="bioTitle">Artist Biographies</div>
-          
+          <div class="bioSub">Core member details • click outside or Return to close</div>
         </div>
         <button class="returnBtn" id="bioReturnBtn">Return</button>
       </div>
