@@ -20,7 +20,8 @@
           "composer",
           "musician"
         ],
-        "Years": "1975–1990"
+        "Years": "1975–1990",
+        "Overview": "English audio engineer, producer, and musician who began his career at Abbey Road Studios and is closely associated with engineering landmark recordings such as The Beatles’ Abbey Road/Let It Be-era work and Pink Floyd’s The Dark Side of the Moon; later co-founded The Alan Parsons Project and pursued solo releases and touring."
       },
       {
         "Name": "Eric Woolfson",
@@ -31,7 +32,139 @@
           "vocalist",
           "executive producer"
         ],
-        "Years": "1975–1990"
+        "Years": "1975–1990",
+        "Overview": "Scottish songwriter, lyricist, pianist, and vocalist who co-created The Alan Parsons Project with Alan Parsons, shaping its concept-album approach and writing/lyric work across the group’s classic run; later focused heavily on musical-theatre projects."
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Ian Bairnson",
+        "Roles": [
+          "guitars"
+        ],
+        "Years": "1975–1990",
+        "Instruments": [
+          "guitars"
+        ],
+        "Albums": [
+          "All Alan Parsons Project studio albums (1976–1990)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Scottish guitarist and session player, also known for work with Pilot, who became a defining “studio band” presence in The Alan Parsons Project—appearing across the catalog and contributing signature guitar parts (including prominent solos) while also collaborating widely with other major artists."
+      },
+      {
+        "Name": "David Paton",
+        "Roles": [
+          "bass",
+          "vocals"
+        ],
+        "Years": "1975–1985 (regular); later appearances",
+        "Instruments": [
+          "bass guitar",
+          "vocals"
+        ],
+        "Albums": [
+          "Regular on classic-era albums (1970s–mid 1980s); appeared across much of the catalog"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Scottish bassist, guitarist, and singer best known as a founding member and lead voice of Pilot; he became a key Alan Parsons Project contributor (bass and vocals) during the group’s classic run and also worked extensively as a session musician with a range of artists."
+      },
+      {
+        "Name": "Stuart Tosh",
+        "Roles": [
+          "drums",
+          "percussion"
+        ],
+        "Years": "1975–1978",
+        "Instruments": [
+          "drums",
+          "percussion"
+        ],
+        "Albums": [
+          "Tales of Mystery and Imagination (1976)",
+          "I Robot (1977)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [
+          "Stuart Elliott (replaced Tosh starting with Pyramid (1978))"
+        ],
+        "Overview": "Scottish drummer and founding member of Pilot who played drums and percussion on the first two Alan Parsons Project albums (Tales of Mystery and Imagination and I Robot) before moving on to other prominent rock acts, including 10cc."
+      },
+      {
+        "Name": "Stuart Elliott",
+        "Roles": [
+          "drums",
+          "percussion"
+        ],
+        "Years": "1978–1990",
+        "Instruments": [
+          "drums",
+          "percussion"
+        ],
+        "Albums": [
+          "Pyramid (1978) onward (regular drummer)"
+        ],
+        "Replacing": [
+          "Stuart Tosh"
+        ],
+        "ReplacedBy": [],
+        "Overview": "English drummer recognized for both band and high-profile session work; he joined the Alan Parsons Project starting with Pyramid and became the long-running drummer through the remainder of the Project era, later contributing to live presentations of the music and Parsons’ post-Project releases."
+      },
+      {
+        "Name": "Billy Lyall",
+        "Roles": [
+          "keyboards"
+        ],
+        "Years": "mid-1970s (contributor)",
+        "Instruments": [
+          "keyboards"
+        ],
+        "Albums": [
+          "Early Project sessions (contributor)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Scottish keyboardist and vocalist, a founding member of Pilot, who contributed to early Alan Parsons Project work and later pursued session and solo projects; his career was cut short by his death in 1989."
+      },
+      {
+        "Name": "Andrew Powell",
+        "Roles": [
+          "orchestral arrangements",
+          "composition"
+        ],
+        "Years": "1976–1987 (regular arranger)",
+        "Instruments": [
+          "orchestral arrangements",
+          "composition"
+        ],
+        "Albums": [
+          "All studio albums except Vulture Culture (1985) — orchestra/choir arrangements"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "British arranger, conductor, and producer closely associated with The Alan Parsons Project’s orchestral sound—credited from the debut onward and arranging/conducting on most Project albums; he also produced early Kate Bush recordings and composed music for film and television."
+      },
+      {
+        "Name": "Richard Cottle",
+        "Roles": [
+          "synthesizers",
+          "keyboards",
+          "saxophone"
+        ],
+        "Years": "1985–1990 (regular contributor)",
+        "Instruments": [
+          "synthesizers",
+          "keyboards",
+          "saxophone"
+        ],
+        "Albums": [
+          "Vulture Culture (1985) and later studio albums — regular contributor"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Welsh session musician known for keyboards/synths and saxophone; he became a prominent contributor to later Alan Parsons Project albums beginning in the mid-1980s, and is credited on Project-era material as well as related Alan Parsons productions."
       }
     ],
     "Genres": [
@@ -88,12 +221,12 @@
     "Achievements": [
       {
         "Type": "Grammy nomination",
-        "Year": 1983,
+        "Year": "1983",
         "Detail": "Eye in the Sky nominated for Best Engineered Album (Non-Classical)."
       },
       {
         "Type": "Grammy win (immersive audio)",
-        "Year": 2019,
+        "Year": "2019",
         "Detail": "Eye in the Sky – 35th Anniversary Edition won Best Immersive Audio Album (credited to Alan Parsons / The Alan Parsons Project release)."
       }
     ],
@@ -130,7 +263,8 @@
           "guitar",
           "songwriting"
         ],
-        "Years": "1960–1970"
+        "Years": "1960–1970",
+        "Overview": "English musician, singer, and songwriter who co-led The Beatles as a primary vocalist and rhythm guitarist, and later became a prominent solo artist and activist whose work with Yoko Ono broadened his public profile."
       },
       {
         "Name": "Paul McCartney",
@@ -139,7 +273,8 @@
           "bass",
           "songwriting"
         ],
-        "Years": "1960–1970"
+        "Years": "1960–1970",
+        "Overview": "English vocalist, songwriter, and multi-instrumentalist who co-led The Beatles and formed one half of the Lennon–McCartney partnership; later led Wings and built a long-running solo career as one of the most commercially successful performers in popular music."
       },
       {
         "Name": "George Harrison",
@@ -148,7 +283,8 @@
           "vocals",
           "songwriting"
         ],
-        "Years": "1960–1970"
+        "Years": "1960–1970",
+        "Overview": "English guitarist and songwriter best known as The Beatles’ lead guitarist; later emerged as a major solo artist and was widely associated with bringing Indian musical influences and spiritual interests into mainstream rock."
       },
       {
         "Name": "Ringo Starr",
@@ -156,7 +292,44 @@
           "drums",
           "vocals"
         ],
-        "Years": "1962–1970"
+        "Years": "1962–1970",
+        "Overview": "English drummer, singer, and songwriter who joined The Beatles in 1962 and became known for his steady backbeat and distinctive feel; also released successful solo recordings and worked as an actor."
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Pete Best",
+        "Roles": [
+          "drums"
+        ],
+        "Years": "1960–1962",
+        "Instruments": [
+          "drums"
+        ],
+        "Albums": [
+          "Anthology 1 (1995) — archival early recordings (drums on 10 tracks)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [
+          "Ringo Starr"
+        ],
+        "Overview": "British drummer who served as The Beatles’ drummer during their formative years (1960–1962), including key residencies in Hamburg, before being replaced by Ringo Starr shortly before the band’s breakthrough; later led his own groups and made occasional public appearances tied to early-Beatles history."
+      },
+      {
+        "Name": "Stuart Sutcliffe",
+        "Roles": [
+          "bass"
+        ],
+        "Years": "1960–1961",
+        "Instruments": [
+          "bass guitar"
+        ],
+        "Albums": [],
+        "Replacing": [],
+        "ReplacedBy": [
+          "Paul McCartney (switched to bass after Sutcliffe left)"
+        ],
+        "Overview": "Scottish painter and musician who was The Beatles’ original bassist (1960–1961) and a close friend of John Lennon; he left the group in Hamburg to pursue art and remained associated with the early Beatles scene before his death in 1962."
       }
     ],
     "Genres": [
@@ -217,15 +390,15 @@
     ],
     "Achievements": [
       {
-        "Type": "GRAMMY recognition",
+        "Type": "Recording Academy awards",
         "Year": "multiple",
-        "Detail": "Multiple GRAMMY nominations and wins across their catalog and legacy releases (Recording Academy listing)."
+        "Detail": "Multiple GRAMMY nominations and wins across their catalog and legacy releases (see Recording Academy artist listing)."
       }
     ],
     "KeyFacts": [
       "Formed in 1960 in Liverpool; split in 1970.",
       "Core lineup solidified when Ringo Starr joined in 1962.",
-      "Early albums released on Parlophone; later albums released on Apple (as described in albums discography sources)."
+      "One of the most influential bands in popular music, spanning early rock/pop through psychedelia and studio-era experimentation."
     ],
     "ExternalLinks": {
       "OfficialSite": "https://www.thebeatles.com/",
@@ -236,395 +409,591 @@
     }
   },
   {
+    "ArtistID": "ac-dc",
     "Name": "AC/DC",
-    "ArtistID": "ac-dc"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "aerosmith",
     "Name": "Aerosmith",
-    "ArtistID": "aerosmith"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "america",
     "Name": "America",
-    "ArtistID": "america"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-allman-brothers-band",
     "Name": "The Allman Brothers Band",
-    "ArtistID": "the-allman-brothers-band"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-animals",
     "Name": "The Animals",
-    "ArtistID": "the-animals"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "asia",
     "Name": "Asia",
-    "ArtistID": "asia"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "bad-company",
     "Name": "Bad Company",
-    "ArtistID": "bad-company"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "badfinger",
     "Name": "Badfinger",
-    "ArtistID": "badfinger"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "bachman-turner-overdrive",
     "Name": "Bachman-Turner Overdrive",
-    "ArtistID": "bachman-turner-overdrive"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-band",
     "Name": "The Band",
-    "ArtistID": "the-band"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-beach-boys",
     "Name": "The Beach Boys",
-    "ArtistID": "the-beach-boys"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "big-brother-and-the-holding-company",
     "Name": "Big Brother and the Holding Company",
-    "ArtistID": "big-brother-and-the-holding-company"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "billy-joel",
     "Name": "Billy Joel",
-    "ArtistID": "billy-joel"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "black-sabbath",
     "Name": "Black Sabbath",
-    "ArtistID": "black-sabbath"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "blondie",
     "Name": "Blondie",
-    "ArtistID": "blondie"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "blue-oyster-cult",
     "Name": "Blue Öyster Cult",
-    "ArtistID": "blue-yster-cult"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "bob-dylan",
     "Name": "Bob Dylan",
-    "ArtistID": "bob-dylan"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "boston",
     "Name": "Boston",
-    "ArtistID": "boston"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "bread",
     "Name": "Bread",
-    "ArtistID": "bread"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "bruce-springsteen",
     "Name": "Bruce Springsteen",
-    "ArtistID": "bruce-springsteen"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "buffalo-springfield",
     "Name": "Buffalo Springfield",
-    "ArtistID": "buffalo-springfield"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-byrds",
     "Name": "The Byrds",
-    "ArtistID": "the-byrds"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-cars",
     "Name": "The Cars",
-    "ArtistID": "the-cars"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "cat-stevens",
     "Name": "Cat Stevens",
-    "ArtistID": "cat-stevens"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "cheap-trick",
     "Name": "Cheap Trick",
-    "ArtistID": "cheap-trick"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "chicago",
     "Name": "Chicago",
-    "ArtistID": "chicago"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-clash",
     "Name": "The Clash",
-    "ArtistID": "the-clash"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "cream",
     "Name": "Cream",
-    "ArtistID": "cream"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "creedence-clearwater-revival",
     "Name": "Creedence Clearwater Revival",
-    "ArtistID": "creedence-clearwater-revival"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "crosby-stills-nash-young",
     "Name": "Crosby, Stills, Nash & Young",
-    "ArtistID": "crosby-stills-nash-and-young"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "david-bowie",
     "Name": "David Bowie",
-    "ArtistID": "david-bowie"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "deep-purple",
     "Name": "Deep Purple",
-    "ArtistID": "deep-purple"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "def-leppard",
     "Name": "Def Leppard",
-    "ArtistID": "def-leppard"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "derek-and-the-dominos",
     "Name": "Derek and the Dominos",
-    "ArtistID": "derek-and-the-dominos"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "dire-straits",
     "Name": "Dire Straits",
-    "ArtistID": "dire-straits"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-doobie-brothers",
     "Name": "The Doobie Brothers",
-    "ArtistID": "the-doobie-brothers"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-doors",
     "Name": "The Doors",
-    "ArtistID": "the-doors"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "electric-light-orchestra",
     "Name": "Electric Light Orchestra",
-    "ArtistID": "electric-light-orchestra"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "eagles",
     "Name": "Eagles",
-    "ArtistID": "eagles"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "emerson-lake-palmer",
     "Name": "Emerson, Lake & Palmer",
-    "ArtistID": "emerson-lake-and-palmer"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "eric-clapton",
     "Name": "Eric Clapton",
-    "ArtistID": "eric-clapton"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "fleetwood-mac",
     "Name": "Fleetwood Mac",
-    "ArtistID": "fleetwood-mac"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "foreigner",
     "Name": "Foreigner",
-    "ArtistID": "foreigner"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "frank-zappa",
     "Name": "Frank Zappa",
-    "ArtistID": "frank-zappa"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "genesis",
     "Name": "Genesis",
-    "ArtistID": "genesis"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "golden-earring",
     "Name": "Golden Earring",
-    "ArtistID": "golden-earring"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "grand-funk-railroad",
     "Name": "Grand Funk Railroad",
-    "ArtistID": "grand-funk-railroad"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "grateful-dead",
     "Name": "Grateful Dead",
-    "ArtistID": "grateful-dead"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "heart",
     "Name": "Heart",
-    "ArtistID": "heart"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "iron-maiden",
     "Name": "Iron Maiden",
-    "ArtistID": "iron-maiden"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "jackson-browne",
     "Name": "Jackson Browne",
-    "ArtistID": "jackson-browne"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "james-taylor",
     "Name": "James Taylor",
-    "ArtistID": "james-taylor"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "janis-joplin",
     "Name": "Janis Joplin",
-    "ArtistID": "janis-joplin"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "jefferson-airplane",
     "Name": "Jefferson Airplane",
-    "ArtistID": "jefferson-airplane"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "jethro-tull",
     "Name": "Jethro Tull",
-    "ArtistID": "jethro-tull"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "jimi-hendrix",
     "Name": "Jimi Hendrix",
-    "ArtistID": "jimi-hendrix"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "journey",
     "Name": "Journey",
-    "ArtistID": "journey"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "judas-priest",
     "Name": "Judas Priest",
-    "ArtistID": "judas-priest"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "kansas",
     "Name": "Kansas",
-    "ArtistID": "kansas"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "king-crimson",
     "Name": "King Crimson",
-    "ArtistID": "king-crimson"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "kiss",
     "Name": "Kiss",
-    "ArtistID": "kiss"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-kinks",
     "Name": "The Kinks",
-    "ArtistID": "the-kinks"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "led-zeppelin",
     "Name": "Led Zeppelin",
-    "ArtistID": "led-zeppelin"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "little-feat",
     "Name": "Little Feat",
-    "ArtistID": "little-feat"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "lynyrd-skynyrd",
     "Name": "Lynyrd Skynyrd",
-    "ArtistID": "lynyrd-skynyrd"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "meat-loaf",
     "Name": "Meat Loaf",
-    "ArtistID": "meat-loaf"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-moody-blues",
     "Name": "The Moody Blues",
-    "ArtistID": "the-moody-blues"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "motorhead",
     "Name": "Motörhead",
-    "ArtistID": "mot-rhead"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "mountain",
     "Name": "Mountain",
-    "ArtistID": "mountain"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "nazareth",
     "Name": "Nazareth",
-    "ArtistID": "nazareth"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "neil-young",
     "Name": "Neil Young",
-    "ArtistID": "neil-young"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-police",
     "Name": "The Police",
-    "ArtistID": "the-police"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-pretenders",
     "Name": "The Pretenders",
-    "ArtistID": "the-pretenders"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "queen",
     "Name": "Queen",
-    "ArtistID": "queen"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "rainbow",
     "Name": "Rainbow",
-    "ArtistID": "rainbow"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "ramones",
     "Name": "Ramones",
-    "ArtistID": "ramones"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "r-e-m",
     "Name": "R.E.M.",
-    "ArtistID": "r-e-m"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "reo-speedwagon",
     "Name": "REO Speedwagon",
-    "ArtistID": "reo-speedwagon"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "rod-stewart",
     "Name": "Rod Stewart",
-    "ArtistID": "rod-stewart"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "roxy-music",
     "Name": "Roxy Music",
-    "ArtistID": "roxy-music"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "rush",
     "Name": "Rush",
-    "ArtistID": "rush"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "santana",
     "Name": "Santana",
-    "ArtistID": "santana"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "scorpions",
     "Name": "Scorpions",
-    "ArtistID": "scorpions"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "sex-pistols",
     "Name": "Sex Pistols",
-    "ArtistID": "sex-pistols"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "simon-garfunkel",
     "Name": "Simon & Garfunkel",
-    "ArtistID": "simon-and-garfunkel"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "steely-dan",
     "Name": "Steely Dan",
-    "ArtistID": "steely-dan"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "steve-miller-band",
     "Name": "Steve Miller Band",
-    "ArtistID": "steve-miller-band"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "steppenwolf",
     "Name": "Steppenwolf",
-    "ArtistID": "steppenwolf"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "styx",
     "Name": "Styx",
-    "ArtistID": "styx"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "supertramp",
     "Name": "Supertramp",
-    "ArtistID": "supertramp"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "t-rex",
     "Name": "T. Rex",
-    "ArtistID": "t-rex"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "talking-heads",
     "Name": "Talking Heads",
-    "ArtistID": "talking-heads"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "thin-lizzy",
     "Name": "Thin Lizzy",
-    "ArtistID": "thin-lizzy"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "tom-petty-and-the-heartbreakers",
     "Name": "Tom Petty and the Heartbreakers",
-    "ArtistID": "tom-petty-and-the-heartbreakers"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "van-halen",
     "Name": "Van Halen",
-    "ArtistID": "van-halen"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "the-who",
     "Name": "The Who",
-    "ArtistID": "the-who"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "yes",
     "Name": "Yes",
-    "ArtistID": "yes"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   },
   {
+    "ArtistID": "zz-top",
     "Name": "ZZ Top",
-    "ArtistID": "zz-top"
+    "CoreMembers": [],
+    "NonCoreMembers": []
   }
 ]
