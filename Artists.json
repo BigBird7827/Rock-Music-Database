@@ -20,7 +20,8 @@
           "composer",
           "musician"
         ],
-        "Years": "1975–1990"
+        "Years": "1975–1990",
+        "Overview": "English audio engineer, producer, and musician who began his career at Abbey Road Studios and is closely associated with engineering landmark recordings such as The Beatles’ Abbey Road/Let It Be-era work and Pink Floyd’s The Dark Side of the Moon; later co-founded The Alan Parsons Project and pursued solo releases and touring."
       },
       {
         "Name": "Eric Woolfson",
@@ -31,10 +32,141 @@
           "vocalist",
           "executive producer"
         ],
-        "Years": "1975–1990"
+        "Years": "1975–1990",
+        "Overview": "Scottish songwriter, lyricist, pianist, and vocalist who co-created The Alan Parsons Project with Alan Parsons, shaping its concept-album approach and writing/lyric work across the group’s classic run; later focused heavily on musical-theatre projects."
       }
     ],
-    "NonCoreMembers": [],
+    "NonCoreMembers": [
+      {
+        "Name": "Ian Bairnson",
+        "Roles": [
+          "guitars"
+        ],
+        "Years": "1975–1990",
+        "Instruments": [
+          "guitars"
+        ],
+        "Albums": [
+          "All Alan Parsons Project studio albums (1976–1990)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Scottish guitarist and session player, also known for work with Pilot, who became a defining “studio band” presence in The Alan Parsons Project—appearing across the catalog and contributing signature guitar parts (including prominent solos) while also collaborating widely with other major artists."
+      },
+      {
+        "Name": "David Paton",
+        "Roles": [
+          "bass",
+          "vocals"
+        ],
+        "Years": "1975–1985 (regular); later appearances",
+        "Instruments": [
+          "bass guitar",
+          "vocals"
+        ],
+        "Albums": [
+          "Regular on classic-era albums (1970s–mid 1980s); appeared across much of the catalog"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Scottish bassist, guitarist, and singer best known as a founding member and lead voice of Pilot; he became a key Alan Parsons Project contributor (bass and vocals) during the group’s classic run and also worked extensively as a session musician with a range of artists."
+      },
+      {
+        "Name": "Stuart Tosh",
+        "Roles": [
+          "drums",
+          "percussion"
+        ],
+        "Years": "1975–1978",
+        "Instruments": [
+          "drums",
+          "percussion"
+        ],
+        "Albums": [
+          "Tales of Mystery and Imagination (1976)",
+          "I Robot (1977)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [
+          "Stuart Elliott (replaced Tosh starting with Pyramid (1978))"
+        ],
+        "Overview": "Scottish drummer and founding member of Pilot who played drums and percussion on the first two Alan Parsons Project albums (Tales of Mystery and Imagination and I Robot) before moving on to other prominent rock acts, including 10cc."
+      },
+      {
+        "Name": "Stuart Elliott",
+        "Roles": [
+          "drums",
+          "percussion"
+        ],
+        "Years": "1978–1990",
+        "Instruments": [
+          "drums",
+          "percussion"
+        ],
+        "Albums": [
+          "Pyramid (1978) onward (regular drummer)"
+        ],
+        "Replacing": [
+          "Stuart Tosh"
+        ],
+        "ReplacedBy": [],
+        "Overview": "English drummer recognized for both band and high-profile session work; he joined the Alan Parsons Project starting with Pyramid and became the long-running drummer through the remainder of the Project era, later contributing to live presentations of the music and Parsons’ post-Project releases."
+      },
+      {
+        "Name": "Billy Lyall",
+        "Roles": [
+          "keyboards"
+        ],
+        "Years": "mid-1970s (contributor)",
+        "Instruments": [
+          "keyboards"
+        ],
+        "Albums": [
+          "Early Project sessions (contributor)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Scottish keyboardist and vocalist, a founding member of Pilot, who contributed to early Alan Parsons Project work and later pursued session and solo projects; his career was cut short by his death in 1989."
+      },
+      {
+        "Name": "Andrew Powell",
+        "Roles": [
+          "orchestral arrangements",
+          "composition"
+        ],
+        "Years": "1976–1987 (regular arranger)",
+        "Instruments": [
+          "orchestral arrangements",
+          "composition"
+        ],
+        "Albums": [
+          "All studio albums except Vulture Culture (1985) — orchestra/choir arrangements"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "British arranger, conductor, and producer closely associated with The Alan Parsons Project’s orchestral sound—credited from the debut onward and arranging/conducting on most Project albums; he also produced early Kate Bush recordings and composed music for film and television."
+      },
+      {
+        "Name": "Richard Cottle",
+        "Roles": [
+          "synthesizers",
+          "keyboards",
+          "saxophone"
+        ],
+        "Years": "1985–1990 (regular contributor)",
+        "Instruments": [
+          "synthesizers",
+          "keyboards",
+          "saxophone"
+        ],
+        "Albums": [
+          "Vulture Culture (1985) and later studio albums — regular contributor"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "Welsh session musician known for keyboards/synths and saxophone; he became a prominent contributor to later Alan Parsons Project albums beginning in the mid-1980s, and is credited on Project-era material as well as related Alan Parsons productions."
+      }
+    ],
     "Genres": [
       "progressive rock",
       "art rock",
@@ -131,7 +263,8 @@
           "guitar",
           "songwriting"
         ],
-        "Years": "1960–1970"
+        "Years": "1960–1970",
+        "Overview": "English musician, singer, and songwriter who co-led The Beatles as a primary vocalist and rhythm guitarist, and later became a prominent solo artist and activist whose work with Yoko Ono broadened his public profile."
       },
       {
         "Name": "Paul McCartney",
@@ -140,7 +273,8 @@
           "bass",
           "songwriting"
         ],
-        "Years": "1960–1970"
+        "Years": "1960–1970",
+        "Overview": "English vocalist, songwriter, and multi-instrumentalist who co-led The Beatles and formed one half of the Lennon–McCartney partnership; later led Wings and built a long-running solo career as one of the most commercially successful performers in popular music."
       },
       {
         "Name": "George Harrison",
@@ -149,7 +283,8 @@
           "vocals",
           "songwriting"
         ],
-        "Years": "1960–1970"
+        "Years": "1960–1970",
+        "Overview": "English guitarist and songwriter best known as The Beatles’ lead guitarist; later emerged as a major solo artist and was widely associated with bringing Indian musical influences and spiritual interests into mainstream rock."
       },
       {
         "Name": "Ringo Starr",
@@ -157,10 +292,46 @@
           "drums",
           "vocals"
         ],
-        "Years": "1962–1970"
+        "Years": "1962–1970",
+        "Overview": "English drummer, singer, and songwriter who joined The Beatles in 1962 and became known for his steady backbeat and distinctive feel; also released successful solo recordings and worked as an actor."
       }
     ],
-    "NonCoreMembers": [],
+    "NonCoreMembers": [
+      {
+        "Name": "Pete Best",
+        "Roles": [
+          "drums"
+        ],
+        "Years": "1960–1962",
+        "Instruments": [
+          "drums"
+        ],
+        "Albums": [
+          "Anthology 1 (1995) — archival early recordings (drums on 10 tracks)"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [
+          "Ringo Starr"
+        ],
+        "Overview": "British drummer who served as The Beatles’ drummer during their formative years (1960–1962), including key residencies in Hamburg, before being replaced by Ringo Starr shortly before the band’s breakthrough; later led his own groups and made occasional public appearances tied to early-Beatles history."
+      },
+      {
+        "Name": "Stuart Sutcliffe",
+        "Roles": [
+          "bass"
+        ],
+        "Years": "1960–1961",
+        "Instruments": [
+          "bass guitar"
+        ],
+        "Albums": [],
+        "Replacing": [],
+        "ReplacedBy": [
+          "Paul McCartney (switched to bass after Sutcliffe left)"
+        ],
+        "Overview": "Scottish painter and musician who was The Beatles’ original bassist (1960–1961) and a close friend of John Lennon; he left the group in Hamburg to pursue art and remained associated with the early Beatles scene before his death in 1962."
+      }
+    ],
     "Genres": [
       "rock",
       "pop",
