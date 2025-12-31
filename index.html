@@ -9,6 +9,7 @@
       --bg0:#07070a;
       --bg1:#101018;
       --panel:rgba(255,255,255,.06);
+      --detailBg:#12113d;
       --panel2:rgba(255,255,255,.09);
       --stroke:rgba(255,255,255,.14);
       --text:#f2f2f7;
@@ -181,7 +182,10 @@
       box-shadow: var(--shadow);
       overflow:hidden;
       min-height:0;
+    }    section.panel:nth-of-type(2){
+      background: linear-gradient(180deg, rgba(255,255,255,.10), rgba(255,255,255,.06)), var(--detailBg);
     }
+
 
     .listHeader{
       padding:14px 14px 12px;
@@ -513,7 +517,7 @@
         <div class="detail" id="detail">
           <div class="empty">
             <h2>Pick an artist</h2>
-            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are name-only placeholders.</p>
+            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are placeholders we’ll fill in later.</p>
             <div class="status" id="status"></div>
           </div>
         </div>
@@ -539,6 +543,13 @@
     };
 
     const safe = (v) => (v == null ? "" : String(v));
+
+    const escapeHtml = (s) => safe(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
 
     const isFilled = (a) => a && (a.Overview || a.NotableAlbums || a.Genres || a.YearsActive || a.ExternalLinks);
 
@@ -611,6 +622,9 @@
       if (origin) out.push(`<span class="chip blue">${origin}</span>`);
       if (a.YearsActive && a.YearsActive.length) out.push(`<span class="chip yellow">${safe(a.YearsActive.join(", "))}</span>`);
       if (a.Genres && a.Genres.length) out.push(`<span class="chip green">${safe(a.Genres.slice(0,3).join(" • "))}${a.Genres.length>3?"…":""}</span>`);
+      const coreN = (a.CoreMembers && a.CoreMembers.length) ? a.CoreMembers.length : 0;
+      const nonCoreN = (a.NonCoreMembers && a.NonCoreMembers.length) ? a.NonCoreMembers.length : 0;
+      if (coreN || nonCoreN) out.push(`<span class="chip blue">${coreN} core • ${nonCoreN} non-core</span>`);
       return out.join("");
     };
 
@@ -626,11 +640,36 @@
 
     const membersHTML = (members) => {
       if (!members || !members.length) return `<p>—</p>`;
-      return `<ul>${members.map(m=>{
-        const roles = (m.Roles && m.Roles.length) ? m.Roles.join(", ") : "";
-        const years = m.Years ? ` • ${safe(m.Years)}` : "";
-        return `<li><b>${safe(m.Name)}</b>${roles?` — ${safe(roles)}`:""}${years}</li>`;
-      }).join("")}</ul>`;
+      return `
+        <div style="display:flex;flex-direction:column;gap:10px;">
+          ${members.map(m=>{
+            const name = safe(m.Name);
+            const years = m.Years ? safe(m.Years) : "";
+            const roles = (m.Roles && m.Roles.length) ? m.Roles.join(", ") : "";
+            const instruments = (m.Instruments && m.Instruments.length) ? m.Instruments.join(", ") : "";
+            const albums = (m.Albums && m.Albums.length) ? m.Albums : [];
+            const replacing = (m.Replacing && m.Replacing.length) ? m.Replacing.join(", ") : "";
+            const replacedBy = (m.ReplacedBy && m.ReplacedBy.length) ? m.ReplacedBy.join(", ") : "";
+            const overview = m.Overview ? safe(m.Overview) : "";
+            const row = (label, value) => value ? `<div style="margin-top:6px;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">${label}</span><div style="margin-top:4px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;">${value}</div></div>` : "";
+            const albumsHtml = albums.length ? `<ul style="margin:6px 0 0 18px;">${albums.map(a=>`<li>${safe(a)}</li>`).join("")}</ul>` : "";
+            return `
+              <div style="border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.18);border-radius:14px;padding:10px 12px;">
+                <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;">
+                  <div style="font-weight:800;letter-spacing:.2px;">${name}</div>
+                  ${years ? `<span class="badge" style="opacity:.9;">${years}</span>` : ``}
+                </div>
+                ${roles ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Roles</span><div style="margin-top:4px;">${safe(roles)}</div></div>` : ``}
+                ${instruments ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Instruments</span><div style="margin-top:4px;">${safe(instruments)}</div></div>` : ``}
+                ${albums.length ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Albums<\/span>${albumsHtml}<\/div>` : ``}
+                ${replacing ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Replacing</span><div style="margin-top:4px;">${safe(replacing)}</div></div>` : ``}
+                ${replacedBy ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Replaced By</span><div style="margin-top:4px;">${safe(replacedBy)}</div></div>` : ``}
+                ${overview ? `<div style="margin-top:8px;color:rgba(242,242,247,.78);font-size:14px;line-height:1.55;white-space:pre-wrap;">${safe(overview)}</div>` : ``}
+              </div>
+            `;
+          }).join("")}
+        </div>
+      `;
     };
 
     const linksHTML = (links) => {
@@ -683,8 +722,19 @@
         <div class="grid">
           <div class="card" style="grid-column: 1 / -1;">
             <h3><span class="accent"></span>Overview</h3>
-            <p>${safe(a.Overview)}</p>
+            <p>${Array.isArray(a.Overview) ? safe(a.Overview.join("\n\n")) : safe(a.Overview)}</p>
           </div>
+          <div class="card" style="grid-column: 1 / -1;">
+            <h3><span class="accent"></span>Profile</h3>
+            <ul>
+              <li><b>Type:</b> ${a.Type ? safe(a.Type) : "—"}</li>
+              <li><b>Origin:</b> ${[a.Origin?.City, a.Origin?.Region, a.Origin?.Country].filter(Boolean).join(", ") || "—"}</li>
+              <li><b>Years Active:</b> ${(a.YearsActive && a.YearsActive.length) ? safe(a.YearsActive.join(", ")) : "—"}</li>
+              <li><b>Genres:</b> ${(a.Genres && a.Genres.length) ? safe(a.Genres.join(", ")) : "—"}</li>
+              <li><b>Labels:</b> ${(a.Labels && a.Labels.length) ? safe(a.Labels.join(", ")) : "—"}</li>
+            </ul>
+          </div>
+
 
           <div class="card">
             <h3><span class="accent"></span>Key Facts</h3>
@@ -694,6 +744,11 @@
           <div class="card">
             <h3><span class="accent"></span>Core Members</h3>
             ${membersHTML(a.CoreMembers)}
+          </div>
+
+          <div class="card">
+            <h3><span class="accent"></span>Non-Core Members</h3>
+            ${membersHTML(a.NonCoreMembers)}
           </div>
 
           <div class="card">
@@ -754,12 +809,12 @@
 
     const init = async () => {
       try{
-        const res = await fetch("Artists.json", { cache: "no-store" });
+        const res = await fetch("https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json", { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
         state.raw = json;
-        state.artists = Array.isArray(json.Artists) ? json.Artists : [];
-        if (!state.artists.length) throw new Error("No Artists[] found.");
+        state.artists = Array.isArray(json) ? json : (Array.isArray(json.Artists) ? json.Artists : []);
+        if (!state.artists.length) throw new Error("No artist objects found.");
         renderList();
         wireListClicks();
         setCount();
