@@ -344,6 +344,22 @@
       justify-content:flex-end;
       padding-top:4px;
     }
+    .returnBtn{
+      appearance:none;
+      border:1px solid rgba(255,255,255,.16);
+      background: rgba(0,0,0,.22);
+      color: rgba(242,242,247,.90);
+      border-radius: 999px;
+      padding: 10px 12px;
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: .35px;
+      cursor: pointer;
+      transition: transform .12s ease, border-color .12s ease, background .12s ease;
+    }
+    .returnBtn:hover{transform: translateY(-1px); background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.22);}
+    .returnBtn:active{transform: translateY(0px);}
+
     .chip{
       font-size:12px;
       padding:8px 10px;
@@ -357,11 +373,32 @@
     .chip.green{border-color: rgba(44,255,154,.24); box-shadow: 0 12px 30px rgba(44,255,154,.10)}
     .chip.yellow{border-color: rgba(255,228,77,.24); box-shadow: 0 12px 30px rgba(255,228,77,.10)}
 
+    .bioBtn{
+      appearance:none;
+      border:1px solid rgba(255,255,255,.16);
+      background: linear-gradient(180deg, rgba(255,228,77,.22), rgba(255,53,94,.14));
+      color: rgba(242,242,247,.92);
+      border-radius: 999px;
+      padding: 8px 10px;
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: .35px;
+      cursor: pointer;
+      box-shadow: 0 12px 30px rgba(0,0,0,.25);
+      transition: transform .12s ease, border-color .12s ease, background .12s ease;
+      flex-shrink: 0;
+    }
+    .bioBtn:hover{transform: translateY(-1px); border-color: rgba(255,255,255,.24);}
+    .bioBtn:active{transform: translateY(0px);}
+    .bioBtn:focus{outline:none; box-shadow: 0 0 0 3px rgba(58,160,255,.25), 0 12px 30px rgba(0,0,0,.25);}
+
+
     .grid{
-      display:grid;
-      grid-template-columns: 1fr 1fr;
-      gap:12px;
-      margin-top:14px;
+      grid-template-columns: 1fr;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 14px;
     }
     .card{
       border-radius:var(--radius);
@@ -468,7 +505,112 @@
       .panel{min-height: 520px}
       input[type="search"]{width:min(640px, 70vw)}
     }
-  </style>
+  
+    .bioOverlay{
+      position: fixed;
+      inset: 0;
+      z-index: 999;
+      display: none;
+      padding: 18px;
+      background: rgba(0,0,0,.72);
+      backdrop-filter: blur(10px);
+    }
+    .bioOverlay.show{ display: block; }
+    .bioShell{
+      height: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      border-radius: 26px;
+      border: 1px solid rgba(255,255,255,.12);
+      box-shadow: 0 28px 100px rgba(0,0,0,.70);
+      overflow: hidden;
+      background:
+        radial-gradient(1000px 600px at 18% 12%, rgba(58,160,255,.14), transparent 60%),
+        radial-gradient(900px 520px at 82% 16%, rgba(255,228,77,.12), transparent 62%),
+        radial-gradient(900px 520px at 70% 82%, rgba(44,255,154,.10), transparent 60%),
+        radial-gradient(900px 520px at 20% 84%, rgba(255,53,94,.12), transparent 62%),
+        linear-gradient(180deg, #07070a, #101018);
+    }
+    .bioHeader{
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      padding: 16px 16px 12px;
+      display:flex;
+      align-items:flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      border-bottom: 1px solid rgba(255,255,255,.10);
+      background: linear-gradient(180deg, rgba(0,0,0,.50), rgba(0,0,0,.18));
+      backdrop-filter: blur(10px);
+    }
+    .bioTitle{
+      font-size: 26px;
+      font-weight: 900;
+      letter-spacing: .6px;
+      line-height: 1.1;
+      background: linear-gradient(90deg, var(--yellow), var(--red), var(--blue), var(--green));
+      -webkit-background-clip:text;
+      background-clip:text;
+      color: transparent;
+      text-shadow: 0 6px 30px rgba(0,0,0,.45);
+    }
+    .bioSub{ margin-top: 6px; font-size: 13px; color: rgba(242,242,247,.72); }
+    .bioBody{
+      height: calc(100% - 72px);
+      overflow: auto;
+      padding: 16px;
+    }
+    .bioHero{
+      border-radius: 24px;
+      border: 1px solid rgba(255,255,255,.12);
+      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.05));
+      box-shadow: 0 18px 60px rgba(0,0,0,.45);
+      padding: 16px;
+      margin-bottom: 12px;
+    }
+    .bioHero h2{
+      margin:0;
+      font-size: 22px;
+      font-weight: 900;
+      letter-spacing: .3px;
+    }
+    .bioHero p{
+      margin: 10px 0 0;
+      color: rgba(242,242,247,.78);
+      line-height: 1.55;
+      white-space: pre-wrap;
+    }
+    .bioGrid{
+      display:flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 12px;
+    }
+    .bioCard{
+      border-radius: var(--radius);
+      border: 1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.06);
+      padding: 14px 14px 12px;
+    }
+    .bioCard h3{
+      margin: 0 0 10px;
+      font-size: 14px;
+      letter-spacing: .6px;
+      text-transform: uppercase;
+      color: rgba(242,242,247,.78);
+    }
+    .bioCard .accent{
+      display:inline-block;
+      width:10px;
+      height:10px;
+      border-radius:999px;
+      margin-right:10px;
+      background: linear-gradient(135deg,var(--yellow),var(--red),var(--blue),var(--green));
+      box-shadow: 0 10px 28px rgba(0,0,0,.35);
+      vertical-align: middle;
+    }
+</style>
 </head>
 <body>
   <div class="wrap">
@@ -517,7 +659,7 @@
         <div class="detail" id="detail">
           <div class="empty">
             <h2>Pick an artist</h2>
-            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are placeholders we’ll fill in later.</p>
+            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are name-only placeholders.</p>
             <div class="status" id="status"></div>
           </div>
         </div>
@@ -530,7 +672,8 @@
       raw: null,
       artists: [],
       filtered: [],
-      selectedId: null
+      selectedId: null,
+      bios: null
     };
 
     const el = {
@@ -543,6 +686,48 @@
     };
 
     const safe = (v) => (v == null ? "" : String(v));
+
+    const slugify = (s) => safe(s)
+      .toLowerCase()
+      .replace(/&/g, "and")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+
+    const escapeHtmlAttr = (s) => safe(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/\x27/g, "&#039;");
+
+
+    const normKey = (s) => safe(s)
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, " ")
+      .replace(/[’‘]/g, "'")
+      .replace(/[“”]/g, '"');
+
+    const repairJsonText = (text) => {
+      let t = String(text || "");
+      t = t.replace(/^[^\[{]*/s, "");
+      t = t.replace(/\uFEFF/g, "");
+      t = t.replace(/,\s*(\]|\})/g, "$1");
+      return t.trim();
+    };
+
+    const loadBios = async () => {
+      if (state.bios) return state.bios;
+      const res = await fetch(BIOS_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const text = await res.text();
+      let json;
+      try { json = JSON.parse(text); } catch (e) { json = JSON.parse(repairJsonText(text)); }
+      const list = Array.isArray(json) ? json : (Array.isArray(json.Biographies) ? json.Biographies : []);
+      state.bios = list;
+      return list;
+    };
+
 
     const escapeHtml = (s) => safe(s)
       .replace(/&/g, "&amp;")
@@ -638,7 +823,7 @@
       return `<ul>${albums.map(a=>`<li><b>${safe(a.Title)}</b> (${safe(a.Year)})${a.Notes?` — ${safe(a.Notes)}`:""}</li>`).join("")}</ul>`;
     };
 
-    const membersHTML = (members) => {
+    const membersHTML = (members, isCore) => {
       if (!members || !members.length) return `<p>—</p>`;
       return `
         <div style="display:flex;flex-direction:column;gap:10px;">
@@ -655,9 +840,12 @@
             const albumsHtml = albums.length ? `<ul style="margin:6px 0 0 18px;">${albums.map(a=>`<li>${safe(a)}</li>`).join("")}</ul>` : "";
             return `
               <div style="border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.18);border-radius:14px;padding:10px 12px;">
-                <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;">
-                  <div style="font-weight:800;letter-spacing:.2px;">${name}</div>
-                  ${years ? `<span class="badge" style="opacity:.9;">${years}</span>` : ``}
+                <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between;">
+                  <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;">
+                    <div style="font-weight:800;letter-spacing:.2px;">${name}</div>
+                    ${years ? `<span class="badge" style="opacity:.9;">${years}</span>` : ``}
+                  </div>
+                  ${isCore ? `<button class="bioBtn" data-member="${escapeHtmlAttr(name)}">Biography</button>` : ``}
                 </div>
                 ${roles ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Roles</span><div style="margin-top:4px;">${safe(roles)}</div></div>` : ``}
                 ${instruments ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Instruments</span><div style="margin-top:4px;">${safe(instruments)}</div></div>` : ``}
@@ -696,12 +884,12 @@
               <h2 class="artistTitle">${name}</h2>
               <div class="subline"><span>${sub}</span></div>
             </div>
-            <div class="chipRow">${chips(a)}</div>
+            <div class="chipRow"><button class="returnBtn" id="returnToList">Return</button>${chips(a)}</div>
           </div>
 
           <div class="card">
             <h3><span class="accent"></span>Details</h3>
-            <p>This entry is a placeholder right now. We’ll fill it in later.</p>
+            <p>This entry is a placeholder right now.</p>
           </div>
         `;
       }
@@ -716,15 +904,15 @@
               <span>${badgeHTML(a)}</span>
             </div>
           </div>
-          <div class="chipRow">${chips(a)}</div>
+          <div class="chipRow"><button class="returnBtn" id="returnToList">Return</button>${chips(a)}</div>
         </div>
 
         <div class="grid">
-          <div class="card" style="grid-column: 1 / -1;">
+          <div class="card full">
             <h3><span class="accent"></span>Overview</h3>
             <p>${Array.isArray(a.Overview) ? safe(a.Overview.join("\n\n")) : safe(a.Overview)}</p>
           </div>
-          <div class="card" style="grid-column: 1 / -1;">
+          <div class="card full">
             <h3><span class="accent"></span>Profile</h3>
             <ul>
               <li><b>Type:</b> ${a.Type ? safe(a.Type) : "—"}</li>
@@ -743,12 +931,12 @@
 
           <div class="card">
             <h3><span class="accent"></span>Core Members</h3>
-            ${membersHTML(a.CoreMembers)}
+            ${membersHTML(a.CoreMembers, true)}
           </div>
 
           <div class="card">
             <h3><span class="accent"></span>Non-Core Members</h3>
-            ${membersHTML(a.NonCoreMembers)}
+            ${membersHTML(a.NonCoreMembers, false)}
           </div>
 
           <div class="card">
@@ -761,7 +949,7 @@
             ${listOrEmpty(a.SignatureSongs)}
           </div>
 
-          <div class="card" style="grid-column: 1 / -1;">
+          <div class="card full">
             <h3><span class="accent"></span>Achievements</h3>
             ${a.Achievements && a.Achievements.length
               ? `<ul>${a.Achievements.map(x=>`<li><b>${safe(x.Type)}</b>${x.Year?` (${safe(x.Year)})`:""} — ${safe(x.Detail)}</li>`).join("")}</ul>`
@@ -769,7 +957,7 @@
             }
           </div>
 
-          <div class="card" style="grid-column: 1 / -1;">
+          <div class="card full">
             <h3><span class="accent"></span>Links</h3>
             ${linksHTML(a.ExternalLinks)}
           </div>
@@ -786,6 +974,33 @@
       el.detail.innerHTML = detailHTML(a);
     };
 
+
+
+    const openBiography = (artist, memberName) => {
+      const artistKey = safe(artist.ArtistID) ? safe(artist.ArtistID) : slugify(artist.Name);
+      state.bio = {
+        artistId: artistKey,
+        artistName: safe(artist.Name),
+        memberName: safe(memberName).trim()
+      };
+      showBioPage();
+    };
+
+    const clearSelection = () => {
+      state.selectedId = null;
+      renderList();
+      el.detail.scrollTop = 0;
+      el.detail.innerHTML = `
+        <div class="empty">
+          <h2>Pick an artist</h2>
+          <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are name-only placeholders.</p>
+          <div class="status" id="status"></div>
+        </div>
+      `;
+    };
+
+
+
     const wireListClicks = () => {
       el.list.addEventListener("click", (e) => {
         const item = e.target.closest(".item");
@@ -800,6 +1015,181 @@
         selectArtist(item.dataset.id);
       });
     };
+
+    const wireDetailClicks = () => {
+      el.detail.addEventListener("click", (e) => {
+        const ret = e.target.closest("#returnToList");
+        if (ret) { clearSelection(); return; }
+
+        const btn = e.target.closest(".bioBtn");
+        if (!btn) return;
+        const memberName = btn.getAttribute("data-member");
+        const a = state.artists.find(x => (safe(x.ArtistID) || safe(x.Name)) === state.selectedId);
+        if (!a) return;
+        openBiography(a, memberName);
+      });
+    };
+
+
+    const renderBioPage = async () => {
+      const overlay = document.getElementById("bioOverlay");
+      const body = document.getElementById("bioBody");
+      const artistName = safe(state.bio.artistName);
+      const memberName = safe(state.bio.memberName);
+      const artistId = safe(state.bio.artistId);
+
+      const chips = `
+        <div class="chipRow" style="margin-top:12px;">
+          ${artistName ? `<span class="chip blue">${safe(artistName)}</span>` : ``}
+          ${memberName ? `<span class="chip yellow">${safe(memberName)}</span>` : ``}
+        </div>
+      `;
+
+      body.innerHTML = `
+        <div class="bioHero">
+          <h2>${memberName || "Biography"}</h2>
+          <p>Loading…</p>
+          ${chips}
+        </div>
+      `;
+
+      let bio = null;
+      let errorMsg = "";
+      try {
+        const bios = await loadBios();
+        const pick = bios.find(b => normKey(b.ArtistID) === normKey(artistId) && normKey(b.MemberName) === normKey(memberName));
+        if (pick) bio = pick;
+        if (!bio) {
+          const pick2 = bios.find(b => normKey(b.ArtistName) === normKey(artistName) && normKey(b.MemberName) === normKey(memberName));
+          if (pick2) bio = pick2;
+        }
+      } catch (e) {
+        errorMsg = safe(e && (e.message || e));
+      }
+
+      const bioText = bio && Array.isArray(bio.Biography)
+        ? bio.Biography.map(safe).filter(Boolean).join("\n\n")
+        : (bio && bio.Biography ? safe(bio.Biography) : "");
+
+      const lookupInfo = (!bio)
+        ? `Lookup key: ArtistID="${escapeHtml(artistId)}" • MemberName="${escapeHtml(memberName)}"`
+        : "";
+
+      const birth = bio && bio.Birth ? bio.Birth : null;
+      const death = bio && bio.Death ? bio.Death : null;
+
+      const birthLine = birth ? [safe(birth.Date), safe(birth.City), safe(birth.Region), safe(birth.Country)].filter(Boolean).join(" • ") : "";
+      const deathLine = death ? [safe(death.Date), safe(death.City), safe(death.Region), safe(death.Country)].filter(Boolean).join(" • ") : "";
+
+      const years = bio && Array.isArray(bio.ActiveYears) ? bio.ActiveYears.map(safe).filter(Boolean) : [];
+      const acts = bio && Array.isArray(bio.AssociatedActs) ? bio.AssociatedActs.map(safe).filter(Boolean) : [];
+      const albums = bio && Array.isArray(bio.KeyAlbums) ? bio.KeyAlbums : [];
+      const songs = bio && Array.isArray(bio.KeySongs) ? bio.KeySongs.map(safe).filter(Boolean) : [];
+      const ach = bio && Array.isArray(bio.Achievements) ? bio.Achievements : [];
+      const links = bio && bio.ExternalLinks ? bio.ExternalLinks : null;
+
+      const albumsHTML = albums.length
+        ? `<ul style="margin:0;padding-left:18px;">${albums.map(a => {
+            const t = safe(a.Title);
+            const y = a.Year != null && a.Year !== "" ? safe(a.Year) : "";
+            const n = safe(a.Notes);
+            return `<li><b>${t}</b>${y ? ` (${y})` : ``}${n ? ` — ${n}` : ``}</li>`;
+          }).join("")}</ul>`
+        : `<div class="sub" style="margin:0;">—</div>`;
+
+      const linksHTML = links
+        ? Object.entries(links).filter(([k,v]) => safe(v).trim()).map(([k,v]) => {
+            const url = safe(v);
+            return `<a class="link" href="${url}" target="_blank" rel="noopener">${safe(k)}</a>`;
+          }).join(" ")
+        : "";
+
+      const errCard = errorMsg
+        ? `<div class="bioCard"><h3><span class="accent"></span>Error</h3><p style="margin:0;color:rgba(242,242,247,.78);">${escapeHtml(errorMsg)}</p></div>`
+        : ``;
+
+      body.innerHTML = `
+        <div class="bioHero">
+          <h2>${memberName || "Biography"}</h2>
+          <p>${bioText ? escapeHtml(bioText) : (errorMsg ? "Couldn’t load biographies." : ("No biography found." + (lookupInfo ? " " + lookupInfo : "")))}</p>
+          ${chips}
+        </div>
+
+        <div class="bioGrid">
+          <div class="bioCard">
+            <h3><span class="accent"></span>Artist</h3>
+            <p style="margin:0;color:rgba(242,242,247,.82);">${artistName || "—"}</p>
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Birth</h3>
+            <p style="margin:0;color:rgba(242,242,247,.78);">${birthLine || "—"}</p>
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Death</h3>
+            <p style="margin:0;color:rgba(242,242,247,.78);">${deathLine || "—"}</p>
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Active Years</h3>
+            <p style="margin:0;color:rgba(242,242,247,.78);">${years.length ? escapeHtml(years.join(", ")) : "—"}</p>
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Associated Acts</h3>
+            <p style="margin:0;color:rgba(242,242,247,.78);">${acts.length ? escapeHtml(acts.join(", ")) : "—"}</p>
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Key Albums</h3>
+            ${albumsHTML}
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Key Songs</h3>
+            <p style="margin:0;color:rgba(242,242,247,.78);">${songs.length ? escapeHtml(songs.join(", ")) : "—"}</p>
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Achievements</h3>
+            <ul style="margin:0;padding-left:18px;">${ach.length ? ach.map(x => `<li>${escapeHtml(safe(x.Type))}${x.Year ? ` (${escapeHtml(safe(x.Year))})` : ``}${x.Detail ? ` — ${escapeHtml(safe(x.Detail))}` : ``}</li>`).join("") : `<li>—</li>`}</ul>
+          </div>
+          <div class="bioCard">
+            <h3><span class="accent"></span>Links</h3>
+            <div style="display:flex;flex-wrap:wrap;gap:10px;">${linksHTML || `<span class="sub" style="margin:0;">—</span>`}</div>
+          </div>
+          ${errCard}
+        </div>
+      `;
+
+      overlay.setAttribute("aria-hidden", "false");
+    };
+
+    const showBioPage = () => {
+      const overlay = document.getElementById("bioOverlay");
+      if (!overlay) return;
+      overlay.classList.add("show");
+      overlay.setAttribute("aria-hidden", "false");
+
+      Promise.resolve(renderBioPage())
+        .catch((e) => {
+          const body = document.getElementById("bioBody");
+          if (body) {
+            const msg = safe(e && (e.message || e));
+            body.innerHTML = `
+              <div class="bioHero">
+                <h2>Biography</h2>
+                <p>Couldn’t render biography.</p>
+                <div class="chipRow" style="margin-top:12px;">
+                  <span class="chip red">${escapeHtml(msg || "Unknown error")}</span>
+                </div>
+              </div>
+            `;
+          }
+        });
+    };
+
+    const hideBioPage = () => {
+      const overlay = document.getElementById("bioOverlay");
+      overlay.classList.remove("show");
+      overlay.setAttribute("aria-hidden", "true");
+    };
+
+
 
     const showStatus = (msg) => {
       if (!el.status) return;
@@ -817,6 +1207,7 @@
         if (!state.artists.length) throw new Error("No artist objects found.");
         renderList();
         wireListClicks();
+        wireDetailClicks();
         setCount();
 
         const firstFilled = state.artists.find(a => isFilled(a));
@@ -836,6 +1227,40 @@
     el.sort.addEventListener("change", () => renderList());
 
     init();
+
+    window.addEventListener("DOMContentLoaded", () => {
+      const btn = document.getElementById("bioReturnBtn");
+      if (btn) {
+        btn.addEventListener("click", () => {
+          hideBioPage();
+        });
+      }
+      const ov = document.getElementById("bioOverlay");
+      if (ov) {
+        ov.addEventListener("click", (e) => {
+          if (e.target && e.target.id === "bioOverlay") hideBioPage();
+        });
+      }
+    });
   </script>
+
+  <div class="bioOverlay" id="bioOverlay" aria-hidden="true">
+    <div class="bioShell">
+      <div class="bioHeader">
+        <div>
+          <div class="bioTitle">Artist Biographies</div>
+          
+        </div>
+        <button class="returnBtn" id="bioReturnBtn">Return</button>
+      </div>
+      <div class="bioBody" id="bioBody">
+        <div class="empty">
+          <h2>Artist Biographies</h2>
+          <p>Select a core member to view biography details here.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>
