@@ -1,0 +1,786 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Artists</title>
+  <style>
+    :root{
+      --bg0:#07070a;
+      --bg1:#101018;
+      --panel:rgba(255,255,255,.06);
+      --panel2:rgba(255,255,255,.09);
+      --stroke:rgba(255,255,255,.14);
+      --text:#f2f2f7;
+      --muted:rgba(242,242,247,.72);
+      --red:#ff355e;
+      --blue:#3aa0ff;
+      --green:#2cff9a;
+      --yellow:#ffe44d;
+      --shadow:0 18px 60px rgba(0,0,0,.55);
+      --radius:18px;
+      --radius2:24px;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      color:var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      background:
+        radial-gradient(1000px 600px at 18% 12%, rgba(58,160,255,.14), transparent 60%),
+        radial-gradient(900px 520px at 82% 16%, rgba(255,228,77,.12), transparent 62%),
+        radial-gradient(900px 520px at 70% 82%, rgba(44,255,154,.10), transparent 60%),
+        radial-gradient(900px 520px at 20% 84%, rgba(255,53,94,.12), transparent 62%),
+        linear-gradient(180deg, var(--bg0), var(--bg1));
+      overflow:hidden;
+    }
+
+    .wrap{
+      height:100%;
+      display:grid;
+      grid-template-rows:auto 1fr;
+    }
+
+    header{
+      padding:18px 18px 12px;
+      border-bottom:1px solid rgba(255,255,255,.10);
+      background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,0));
+      backdrop-filter: blur(10px);
+    }
+
+    .top{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:14px;
+      max-width:1200px;
+      margin:0 auto;
+    }
+
+    .brand{
+      display:flex;
+      align-items:center;
+      gap:14px;
+      min-width:280px;
+    }
+
+    .logo{
+      width:44px;
+      height:44px;
+      border-radius:14px;
+      background:
+        linear-gradient(135deg, rgba(255,53,94,.95), rgba(58,160,255,.95)),
+        radial-gradient(20px 20px at 30% 30%, rgba(255,255,255,.45), transparent 55%);
+      box-shadow: 0 18px 45px rgba(0,0,0,.55), 0 0 0 1px rgba(255,255,255,.14) inset;
+      position:relative;
+      overflow:hidden;
+    }
+    .logo:before{
+      content:"";
+      position:absolute;
+      inset:-35%;
+      background: repeating-linear-gradient(90deg, rgba(255,255,255,.18) 0 8px, transparent 8px 18px);
+      transform: rotate(12deg);
+      opacity:.35;
+    }
+
+    h1{
+      margin:0;
+      font-size:22px;
+      letter-spacing:.6px;
+      line-height:1.1;
+      font-weight:800;
+      background: linear-gradient(90deg, var(--yellow), var(--red), var(--blue), var(--green));
+      -webkit-background-clip:text;
+      background-clip:text;
+      color:transparent;
+      text-shadow: 0 6px 30px rgba(0,0,0,.45);
+    }
+
+    .tag{
+      margin-top:3px;
+      font-size:13px;
+      color:var(--muted);
+      letter-spacing:.2px;
+    }
+
+    .controls{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      flex-wrap:wrap;
+      justify-content:flex-end;
+    }
+
+    .pill{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding:10px 12px;
+      border-radius:999px;
+      background:rgba(255,255,255,.06);
+      border:1px solid rgba(255,255,255,.12);
+      box-shadow: 0 10px 30px rgba(0,0,0,.35);
+    }
+
+    input[type="search"]{
+      width:min(420px, 52vw);
+      appearance:none;
+      border:none;
+      outline:none;
+      background:transparent;
+      color:var(--text);
+      font-size:14px;
+      letter-spacing:.2px;
+    }
+    input[type="search"]::placeholder{color:rgba(242,242,247,.55)}
+
+    select{
+      appearance:none;
+      border:none;
+      outline:none;
+      background:transparent;
+      color:var(--text);
+      font-size:13px;
+      letter-spacing:.2px;
+      padding-right:18px;
+      cursor:pointer;
+    }
+    .selectWrap{
+      position:relative;
+      padding-right:6px;
+    }
+    .selectWrap:after{
+      content:"▾";
+      position:absolute;
+      right:2px;
+      top:50%;
+      transform:translateY(-50%);
+      color:rgba(242,242,247,.70);
+      font-size:12px;
+      pointer-events:none;
+    }
+
+    main{
+      max-width:1200px;
+      width:100%;
+      margin:0 auto;
+      padding:14px 18px 18px;
+      display:grid;
+      grid-template-columns: 420px 1fr;
+      gap:14px;
+      height:100%;
+      min-height:0;
+    }
+
+    .panel{
+      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.05));
+      border:1px solid rgba(255,255,255,.12);
+      border-radius:var(--radius2);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+      min-height:0;
+    }
+
+    .listHeader{
+      padding:14px 14px 12px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:10px;
+      border-bottom:1px solid rgba(255,255,255,.10);
+      background: linear-gradient(180deg, rgba(0,0,0,.28), rgba(0,0,0,0));
+    }
+
+    .count{
+      font-size:12px;
+      color:rgba(242,242,247,.72);
+      letter-spacing:.35px;
+    }
+
+    .spark{
+      display:flex;
+      gap:6px;
+      align-items:flex-end;
+      height:18px;
+    }
+    .bar{
+      width:4px;
+      border-radius:10px;
+      background: linear-gradient(180deg, var(--yellow), var(--red));
+      opacity:.9;
+      animation: bounce 1.2s infinite ease-in-out;
+      box-shadow: 0 10px 26px rgba(255,53,94,.22);
+    }
+    .bar:nth-child(2){background: linear-gradient(180deg, var(--green), var(--blue)); animation-delay:.12s}
+    .bar:nth-child(3){background: linear-gradient(180deg, var(--blue), var(--yellow)); animation-delay:.24s}
+    .bar:nth-child(4){background: linear-gradient(180deg, var(--red), var(--green)); animation-delay:.36s}
+    @keyframes bounce{
+      0%,100%{height:6px; opacity:.65}
+      50%{height:18px; opacity:1}
+    }
+
+    .list{
+      height:100%;
+      overflow:auto;
+      padding:10px;
+    }
+
+    .item{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:10px;
+      padding:10px 12px;
+      border-radius:14px;
+      border:1px solid rgba(255,255,255,.10);
+      background: rgba(0,0,0,.18);
+      cursor:pointer;
+      transition: transform .12s ease, background .12s ease, border-color .12s ease;
+      margin-bottom:8px;
+    }
+    .item:hover{
+      transform: translateY(-1px);
+      background: rgba(255,255,255,.06);
+      border-color: rgba(255,255,255,.18);
+    }
+    .item.active{
+      background:
+        radial-gradient(400px 120px at 20% 20%, rgba(255,228,77,.20), transparent 60%),
+        radial-gradient(400px 120px at 80% 80%, rgba(58,160,255,.18), transparent 60%),
+        rgba(255,255,255,.06);
+      border-color: rgba(255,255,255,.22);
+    }
+
+    .itemName{
+      font-size:14px;
+      letter-spacing:.2px;
+      font-weight:700;
+      line-height:1.2;
+    }
+    .itemMeta{
+      display:flex;
+      align-items:center;
+      gap:8px;
+      flex-shrink:0;
+    }
+    .badge{
+      font-size:11px;
+      letter-spacing:.4px;
+      padding:5px 8px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.16);
+      background: rgba(255,255,255,.06);
+      color: rgba(242,242,247,.85);
+      text-transform:uppercase;
+    }
+    .badge.full{
+      border-color: rgba(44,255,154,.28);
+      background: rgba(44,255,154,.10);
+      color: rgba(205,255,232,.95);
+    }
+    .badge.todo{
+      border-color: rgba(255,228,77,.25);
+      background: rgba(255,228,77,.10);
+      color: rgba(255,246,196,.95);
+    }
+
+    .detail{
+      height:100%;
+      overflow:auto;
+      padding:18px 18px 22px;
+    }
+
+    .hero{
+      display:flex;
+      align-items:flex-start;
+      justify-content:space-between;
+      gap:12px;
+      flex-wrap:wrap;
+      padding-bottom:14px;
+      border-bottom:1px solid rgba(255,255,255,.10);
+      margin-bottom:14px;
+    }
+    .titleBlock{
+      min-width:260px;
+      max-width:760px;
+    }
+    .artistTitle{
+      margin:0;
+      font-size:30px;
+      line-height:1.05;
+      font-weight:900;
+      letter-spacing:.4px;
+      background: linear-gradient(90deg, var(--yellow), var(--red), var(--blue));
+      -webkit-background-clip:text;
+      background-clip:text;
+      color:transparent;
+    }
+    .subline{
+      margin-top:8px;
+      font-size:13px;
+      color:rgba(242,242,247,.78);
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+    }
+    .dot{
+      width:5px;height:5px;border-radius:50%;
+      background: rgba(242,242,247,.35);
+      display:inline-block;
+    }
+
+    .chipRow{
+      display:flex;
+      gap:8px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:flex-end;
+      padding-top:4px;
+    }
+    .chip{
+      font-size:12px;
+      padding:8px 10px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.14);
+      background: rgba(0,0,0,.22);
+      color: rgba(242,242,247,.86);
+    }
+    .chip.red{border-color: rgba(255,53,94,.28); box-shadow: 0 12px 30px rgba(255,53,94,.12)}
+    .chip.blue{border-color: rgba(58,160,255,.26); box-shadow: 0 12px 30px rgba(58,160,255,.12)}
+    .chip.green{border-color: rgba(44,255,154,.24); box-shadow: 0 12px 30px rgba(44,255,154,.10)}
+    .chip.yellow{border-color: rgba(255,228,77,.24); box-shadow: 0 12px 30px rgba(255,228,77,.10)}
+
+    .grid{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap:12px;
+      margin-top:14px;
+    }
+    .card{
+      border-radius:var(--radius);
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.06);
+      padding:14px 14px 12px;
+      min-height:0;
+    }
+    .card h3{
+      margin:0 0 10px 0;
+      font-size:13px;
+      letter-spacing:.6px;
+      text-transform:uppercase;
+      color: rgba(242,242,247,.86);
+      display:flex;
+      align-items:center;
+      gap:10px;
+    }
+    .accent{
+      width:10px;height:10px;border-radius:3px;
+      background: linear-gradient(135deg, var(--yellow), var(--red));
+      box-shadow: 0 10px 20px rgba(255,53,94,.18);
+      flex-shrink:0;
+    }
+    .card p{
+      margin:0;
+      color: rgba(242,242,247,.78);
+      line-height:1.55;
+      font-size:14px;
+      white-space:pre-wrap;
+    }
+    ul{
+      margin:0;
+      padding-left:18px;
+      color: rgba(242,242,247,.78);
+      line-height:1.55;
+      font-size:14px;
+    }
+    li{margin:6px 0}
+
+    .links{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+    }
+    a.link{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 12px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.14);
+      background: rgba(0,0,0,.20);
+      color: rgba(242,242,247,.90);
+      text-decoration:none;
+      font-size:13px;
+      transition: transform .12s ease, border-color .12s ease, background .12s ease;
+    }
+    a.link:hover{
+      transform: translateY(-1px);
+      background: rgba(255,255,255,.06);
+      border-color: rgba(255,255,255,.22);
+    }
+    .k{
+      display:inline-block;
+      width:10px;height:10px;border-radius:3px;
+      background: var(--blue);
+      box-shadow: 0 10px 20px rgba(58,160,255,.16);
+    }
+
+    .empty{
+      padding:28px 18px;
+      color: rgba(242,242,247,.80);
+    }
+    .empty h2{
+      margin:0 0 8px 0;
+      font-size:18px;
+      letter-spacing:.4px;
+    }
+    .empty p{
+      margin:0;
+      color: rgba(242,242,247,.70);
+      line-height:1.55;
+    }
+
+    .status{
+      padding:10px 12px;
+      border-radius:14px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(0,0,0,.20);
+      color: rgba(242,242,247,.78);
+      font-size:13px;
+      margin-top:10px;
+      display:none;
+    }
+    .status.show{display:block}
+
+    @media (max-width: 980px){
+      body{overflow:auto}
+      main{
+        grid-template-columns: 1fr;
+        height:auto;
+      }
+      .panel{min-height: 520px}
+      input[type="search"]{width:min(640px, 70vw)}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="top">
+        <div class="brand">
+          <div class="logo" aria-hidden="true"></div>
+          <div>
+            <h1>Classic Rock Artists</h1>
+            <div class="tag">Browse the library • click an artist to view details</div>
+          </div>
+        </div>
+
+        <div class="controls">
+          <div class="pill" title="Search artists">
+            <span style="color:rgba(242,242,247,.75);font-size:14px">🔎</span>
+            <input id="search" type="search" placeholder="Search artists…" autocomplete="off" />
+          </div>
+
+          <div class="pill">
+            <span style="color:rgba(242,242,247,.75);font-size:13px">Sort</span>
+            <div class="selectWrap">
+              <select id="sort">
+                <option value="az">A → Z</option>
+                <option value="za">Z → A</option>
+                <option value="full">Filled first</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="panel" aria-label="Artist list">
+        <div class="listHeader">
+          <div class="count" id="count">Loading…</div>
+          <div class="spark" aria-hidden="true">
+            <div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div>
+          </div>
+        </div>
+        <div class="list" id="list"></div>
+      </section>
+
+      <section class="panel" aria-label="Artist details">
+        <div class="detail" id="detail">
+          <div class="empty">
+            <h2>Pick an artist</h2>
+            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are name-only placeholders.</p>
+            <div class="status" id="status"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const state = {
+      raw: null,
+      artists: [],
+      filtered: [],
+      selectedId: null
+    };
+
+    const el = {
+      list: document.getElementById("list"),
+      detail: document.getElementById("detail"),
+      count: document.getElementById("count"),
+      search: document.getElementById("search"),
+      sort: document.getElementById("sort"),
+      status: document.getElementById("status")
+    };
+
+    const safe = (v) => (v == null ? "" : String(v));
+
+    const isFilled = (a) => a && (a.Overview || a.NotableAlbums || a.Genres || a.YearsActive || a.ExternalLinks);
+
+    const sortArtists = (arr) => {
+      const mode = el.sort.value;
+      const copy = [...arr];
+      if (mode === "az") copy.sort((a,b)=>safe(a.Name).localeCompare(safe(b.Name)));
+      if (mode === "za") copy.sort((a,b)=>safe(b.Name).localeCompare(safe(a.Name)));
+      if (mode === "full") copy.sort((a,b)=>(isFilled(b) - isFilled(a)) || safe(a.Name).localeCompare(safe(b.Name)));
+      return copy;
+    };
+
+    const matches = (a, q) => {
+      if (!q) return true;
+      const s = q.toLowerCase().trim();
+      if (!s) return true;
+      const fields = [
+        a.Name,
+        a.Type,
+        a.Origin?.City,
+        a.Origin?.Region,
+        a.Origin?.Country,
+        ...(a.Genres || [])
+      ].filter(Boolean).join(" • ").toLowerCase();
+      return fields.includes(s);
+    };
+
+    const badgeHTML = (a) => {
+      const filled = isFilled(a);
+      const cls = filled ? "badge full" : "badge todo";
+      const txt = filled ? "FULL" : "TODO";
+      return `<span class="${cls}">${txt}</span>`;
+    };
+
+    const itemHTML = (a) => {
+      const name = safe(a.Name);
+      const id = safe(a.ArtistID) || name;
+      const active = state.selectedId === id ? "active" : "";
+      return `
+        <div class="item ${active}" role="button" tabindex="0" data-id="${id}">
+          <div>
+            <div class="itemName">${name}</div>
+          </div>
+          <div class="itemMeta">
+            ${badgeHTML(a)}
+          </div>
+        </div>
+      `;
+    };
+
+    const setCount = () => {
+      const total = state.artists.length;
+      const shown = state.filtered.length;
+      const filled = state.artists.filter(isFilled).length;
+      el.count.textContent = `${shown} shown • ${total} total • ${filled} filled`;
+    };
+
+    const renderList = () => {
+      const q = safe(el.search.value);
+      const filtered = state.artists.filter(a => matches(a, q));
+      state.filtered = sortArtists(filtered);
+      setCount();
+      el.list.innerHTML = state.filtered.map(itemHTML).join("");
+    };
+
+    const chips = (a) => {
+      const out = [];
+      if (a.Type) out.push(`<span class="chip red">${safe(a.Type)}</span>`);
+      const origin = [a.Origin?.City, a.Origin?.Region, a.Origin?.Country].filter(Boolean).join(", ");
+      if (origin) out.push(`<span class="chip blue">${origin}</span>`);
+      if (a.YearsActive && a.YearsActive.length) out.push(`<span class="chip yellow">${safe(a.YearsActive.join(", "))}</span>`);
+      if (a.Genres && a.Genres.length) out.push(`<span class="chip green">${safe(a.Genres.slice(0,3).join(" • "))}${a.Genres.length>3?"…":""}</span>`);
+      return out.join("");
+    };
+
+    const listOrEmpty = (arr) => {
+      if (!arr || !arr.length) return `<p>—</p>`;
+      return `<ul>${arr.map(x=>`<li>${safe(x)}</li>`).join("")}</ul>`;
+    };
+
+    const albumsHTML = (albums) => {
+      if (!albums || !albums.length) return `<p>—</p>`;
+      return `<ul>${albums.map(a=>`<li><b>${safe(a.Title)}</b> (${safe(a.Year)})${a.Notes?` — ${safe(a.Notes)}`:""}</li>`).join("")}</ul>`;
+    };
+
+    const membersHTML = (members) => {
+      if (!members || !members.length) return `<p>—</p>`;
+      return `<ul>${members.map(m=>{
+        const roles = (m.Roles && m.Roles.length) ? m.Roles.join(", ") : "";
+        const years = m.Years ? ` • ${safe(m.Years)}` : "";
+        return `<li><b>${safe(m.Name)}</b>${roles?` — ${safe(roles)}`:""}${years}</li>`;
+      }).join("")}</ul>`;
+    };
+
+    const linksHTML = (links) => {
+      if (!links) return `<p>—</p>`;
+      const items = Object.entries(links).filter(([,v]) => !!v);
+      if (!items.length) return `<p>—</p>`;
+      return `<div class="links">${items.map(([k,v])=>`<a class="link" href="${safe(v)}" target="_blank" rel="noopener"><span class="k"></span>${safe(k)}</a>`).join("")}</div>`;
+    };
+
+    const detailHTML = (a) => {
+      const name = safe(a.Name);
+      const subBits = [];
+      const origin = [a.Origin?.City, a.Origin?.Region, a.Origin?.Country].filter(Boolean).join(", ");
+      if (origin) subBits.push(origin);
+      if (a.Type) subBits.push(a.Type);
+      if (a.YearsActive && a.YearsActive.length) subBits.push(a.YearsActive.join(", "));
+      const sub = subBits.length ? subBits.join("  ") : "—";
+      const filled = isFilled(a);
+
+      if (!filled){
+        return `
+          <div class="hero">
+            <div class="titleBlock">
+              <h2 class="artistTitle">${name}</h2>
+              <div class="subline"><span>${sub}</span></div>
+            </div>
+            <div class="chipRow">${chips(a)}</div>
+          </div>
+
+          <div class="card">
+            <h3><span class="accent"></span>Details</h3>
+            <p>This entry is a placeholder right now. We’ll fill it in later.</p>
+          </div>
+        `;
+      }
+
+      return `
+        <div class="hero">
+          <div class="titleBlock">
+            <h2 class="artistTitle">${name}</h2>
+            <div class="subline">
+              <span>${sub}</span>
+              <span class="dot"></span>
+              <span>${badgeHTML(a)}</span>
+            </div>
+          </div>
+          <div class="chipRow">${chips(a)}</div>
+        </div>
+
+        <div class="grid">
+          <div class="card" style="grid-column: 1 / -1;">
+            <h3><span class="accent"></span>Overview</h3>
+            <p>${safe(a.Overview)}</p>
+          </div>
+
+          <div class="card">
+            <h3><span class="accent"></span>Key Facts</h3>
+            ${listOrEmpty(a.KeyFacts)}
+          </div>
+
+          <div class="card">
+            <h3><span class="accent"></span>Core Members</h3>
+            ${membersHTML(a.CoreMembers)}
+          </div>
+
+          <div class="card">
+            <h3><span class="accent"></span>Notable Albums</h3>
+            ${albumsHTML(a.NotableAlbums)}
+          </div>
+
+          <div class="card">
+            <h3><span class="accent"></span>Signature Songs</h3>
+            ${listOrEmpty(a.SignatureSongs)}
+          </div>
+
+          <div class="card" style="grid-column: 1 / -1;">
+            <h3><span class="accent"></span>Achievements</h3>
+            ${a.Achievements && a.Achievements.length
+              ? `<ul>${a.Achievements.map(x=>`<li><b>${safe(x.Type)}</b>${x.Year?` (${safe(x.Year)})`:""} — ${safe(x.Detail)}</li>`).join("")}</ul>`
+              : `<p>—</p>`
+            }
+          </div>
+
+          <div class="card" style="grid-column: 1 / -1;">
+            <h3><span class="accent"></span>Links</h3>
+            ${linksHTML(a.ExternalLinks)}
+          </div>
+        </div>
+      `;
+    };
+
+    const selectArtist = (id) => {
+      state.selectedId = id;
+      renderList();
+      const a = state.artists.find(x => (safe(x.ArtistID) || safe(x.Name)) === id);
+      if (!a) return;
+      el.detail.scrollTop = 0;
+      el.detail.innerHTML = detailHTML(a);
+    };
+
+    const wireListClicks = () => {
+      el.list.addEventListener("click", (e) => {
+        const item = e.target.closest(".item");
+        if (!item) return;
+        selectArtist(item.dataset.id);
+      });
+      el.list.addEventListener("keydown", (e) => {
+        if (e.key !== "Enter" && e.key !== " ") return;
+        const item = e.target.closest(".item");
+        if (!item) return;
+        e.preventDefault();
+        selectArtist(item.dataset.id);
+      });
+    };
+
+    const showStatus = (msg) => {
+      if (!el.status) return;
+      el.status.textContent = msg;
+      el.status.classList.add("show");
+    };
+
+    const init = async () => {
+      try{
+        const res = await fetch("Artists.json", { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const json = await res.json();
+        state.raw = json;
+        state.artists = Array.isArray(json.Artists) ? json.Artists : [];
+        if (!state.artists.length) throw new Error("No Artists[] found.");
+        renderList();
+        wireListClicks();
+        setCount();
+
+        const firstFilled = state.artists.find(a => isFilled(a));
+        if (firstFilled){
+          selectArtist(safe(firstFilled.ArtistID) || safe(firstFilled.Name));
+        } else {
+          selectArtist(safe(state.artists[0].ArtistID) || safe(state.artists[0].Name));
+        }
+      } catch(err){
+        el.count.textContent = "Failed to load Artists.json";
+        el.list.innerHTML = "";
+        showStatus("Couldn’t load Artists.json. Put this HTML file in the same folder as Artists.json (or update the fetch path).");
+      }
+    };
+
+    el.search.addEventListener("input", () => renderList());
+    el.sort.addEventListener("change", () => renderList());
+
+    init();
+  </script>
+</body>
+</html>
