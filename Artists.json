@@ -39,13 +39,17 @@
             "Date": "1948-12-20",
             "City": "Willesden (London)",
             "Region": "England",
-            "Country": "United Kingdom"
+            "Country": "United Kingdom",
+            "Place": "Willesden, Middlesex, England"
           },
           "Death": {
             "Date": "",
             "City": "",
             "Region": "",
-            "Country": ""
+            "Country": "",
+            "Cause": "",
+            "Place": "",
+            "Age": ""
           },
           "ActiveYears": [
             "1967–present"
@@ -73,9 +77,14 @@
           ],
           "Achievements": [
             {
-              "Type": "Grammy nomination (engineering)",
-              "Year": 1983,
-              "Detail": "Eye in the Sky was nominated for Best Engineered Album at the 25th Grammy Awards."
+              "Type": "Grammy nomination",
+              "Year": 1973,
+              "Detail": "Grammy nomination for Best Engineered Album, Non-Classical (Pink Floyd – The Dark Side of the Moon)."
+            },
+            {
+              "Type": "Royal honour (OBE)",
+              "Year": 2021,
+              "Detail": "Appointed Officer of the Order of the British Empire (OBE) for services to music and music production."
             }
           ],
           "ExternalLinks": {
@@ -84,36 +93,39 @@
             "Wikipedia": "https://en.wikipedia.org/wiki/Alan_Parsons",
             "Discogs": "https://www.discogs.com/artist/10881-Alan-Parsons"
           },
-          "Summary": "Alan Parsons (born 20 December 1948) is an English audio engineer, producer, and musician whose career bridges the craft of studio recording and the creation of polished, concept‑driven rock albums.",
-          "ReadingTimeMinutes": 1,
+          "FullName": "Alan Parsons",
+          "PrimaryInstruments": [
+            "Keyboards",
+            "Guitar",
+            "Vocals"
+          ],
+          "Occupations": [
+            "Audio engineer",
+            "Record producer",
+            "Musician",
+            "Composer"
+          ],
+          "Genres": [
+            "Progressive rock",
+            "Rock"
+          ],
           "Sources": [
             {
-              "Label": "OfficialSite",
-              "Url": "https://alanparsons.com/"
+              "Title": "Abbey Road: Alan Parsons career overview",
+              "Url": "https://www.abbeyroad.com/news/the-genius-of-alan-parsons-as-told-by-abbey-roads-cameron-colbeck-2716",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/alan-parsons-mn0000031274"
+              "Title": "Wikipedia: Alan Parsons (birth, honours, nominations)",
+              "Url": "https://en.wikipedia.org/wiki/Alan_Parsons",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Alan_Parsons"
-            },
-            {
-              "Label": "Discogs",
-              "Url": "https://www.discogs.com/artist/10881-Alan-Parsons"
+              "Title": "The Alan Parsons Project site: Alan Parsons",
+              "Url": "https://www.the-alan-parsons-project.com/alan-parsons",
+              "Accessed": "2025-12-31"
             }
-          ],
-          "Photo": {
-            "Url": "",
-            "Credit": "",
-            "License": "",
-            "Source": ""
-          },
-          "LastUpdated": "2025-12-31",
-          "Pronouns": "",
-          "NotableInstruments": [],
-          "PrimaryGenres": []
+          ]
         }
       },
       {
@@ -144,13 +156,16 @@
             "Date": "1945-03-18",
             "City": "Glasgow",
             "Region": "Scotland",
-            "Country": "United Kingdom"
+            "Country": "United Kingdom",
+            "Place": "Charing Cross, Glasgow, Scotland"
           },
           "Death": {
             "Date": "2009-12-02",
             "City": "London",
             "Region": "England",
-            "Country": "United Kingdom"
+            "Country": "United Kingdom",
+            "Cause": "Kidney cancer",
+            "Age": 64
           },
           "ActiveYears": [
             "1960s–2009"
@@ -176,38 +191,53 @@
             "Games People Play",
             "Old and Wise"
           ],
-          "Achievements": [],
+          "Achievements": [
+            {
+              "Type": "Co-founder",
+              "Year": 1975,
+              "Detail": "Co-founded The Alan Parsons Project and served as its primary songwriter/lyricist and a lead vocalist on many recordings."
+            }
+          ],
           "ExternalLinks": {
             "OfficialSite": "https://www.ericwoolfsonmusic.com/biography",
             "Wikipedia": "https://en.wikipedia.org/wiki/Eric_Woolfson",
             "Discogs": "https://www.discogs.com/artist/194052-Eric-Woolfson"
           },
-          "Summary": "Eric Woolfson (18 March 1945 – 2 December 2009) was a Scottish songwriter, lyricist, vocalist, and producer who co-created the Alan Parsons Project and helped shape its identity as a concept‑album act built around strong hooks and narrative themes.",
-          "ReadingTimeMinutes": 1,
+          "FullName": "Eric Norman Woolfson",
+          "PrimaryInstruments": [
+            "Piano",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Occupations": [
+            "Songwriter",
+            "Lyricist",
+            "Vocalist",
+            "Pianist",
+            "Executive producer"
+          ],
+          "Genres": [
+            "Progressive rock",
+            "Soft rock",
+            "Musical theatre"
+          ],
           "Sources": [
             {
-              "Label": "OfficialSite",
-              "Url": "https://www.ericwoolfsonmusic.com/biography"
+              "Title": "Wikipedia: Eric Woolfson (bio, death cause)",
+              "Url": "https://en.wikipedia.org/wiki/Eric_Woolfson",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Eric_Woolfson"
+              "Title": "The Alan Parsons Project site: Eric Woolfson",
+              "Url": "https://www.the-alan-parsons-project.com/eric-woolfson",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Discogs",
-              "Url": "https://www.discogs.com/artist/194052-Eric-Woolfson"
+              "Title": "The Guardian: Eric Woolfson obituary",
+              "Url": "https://www.theguardian.com/music/2009/dec/08/eric-woolfson-obituary",
+              "Accessed": "2025-12-31"
             }
-          ],
-          "Photo": {
-            "Url": "",
-            "Credit": "",
-            "License": "",
-            "Source": ""
-          },
-          "LastUpdated": "2025-12-31",
-          "Pronouns": "",
-          "NotableInstruments": [],
-          "PrimaryGenres": []
+          ]
         }
       }
     ],
@@ -459,13 +489,18 @@
             "Date": "1940-10-09",
             "City": "Liverpool",
             "Region": "England",
-            "Country": "United Kingdom"
+            "Country": "United Kingdom",
+            "Place": "Liverpool, England",
+            "Notes": "Born in Liverpool; rose to prominence as a co-founder of The Beatles."
           },
           "Death": {
             "Date": "1980-12-08",
             "City": "New York City",
             "Region": "New York",
-            "Country": "United States"
+            "Country": "United States",
+            "Cause": "Gunshot wounds (assassinated)",
+            "Place": "New York City, New York, U.S.",
+            "Age": 40
           },
           "ActiveYears": [
             "1956–1980"
@@ -502,9 +537,19 @@
           ],
           "Achievements": [
             {
+              "Type": "Rock & Roll Hall of Fame (The Beatles)",
+              "Year": 1988,
+              "Detail": "Inducted with The Beatles (Category: Performer)."
+            },
+            {
+              "Type": "Royal honour (MBE)",
+              "Year": 1965,
+              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+            },
+            {
               "Type": "Rock & Roll Hall of Fame (solo)",
               "Year": 1994,
-              "Detail": "Inducted as a solo performer."
+              "Detail": "Inducted as a solo performer (Category: Performer)."
             }
           ],
           "ExternalLinks": {
@@ -514,40 +559,53 @@
             "Wikipedia": "https://en.wikipedia.org/wiki/John_Lennon",
             "Discogs": "https://www.discogs.com/artist/46439-John-Lennon"
           },
-          "Summary": "John Lennon (9 October 1940 – 8 December 1980) was a Liverpool-born songwriter, singer, and artist who became one of the central figures in 20th‑century popular music as a co-founder of the Beatles.",
-          "ReadingTimeMinutes": 2,
+          "FullName": "John Winston Ono Lennon",
+          "PrimaryInstruments": [
+            "Vocals",
+            "Guitar",
+            "Keyboards",
+            "Harmonica"
+          ],
+          "Occupations": [
+            "Singer",
+            "Songwriter",
+            "Musician",
+            "Artist",
+            "Author",
+            "Peace activist"
+          ],
+          "Genres": [
+            "Rock",
+            "Pop",
+            "Experimental"
+          ],
           "Sources": [
             {
-              "Label": "OfficialSite",
-              "Url": "https://www.johnlennon.com/"
+              "Title": "Britannica: John Lennon",
+              "Url": "https://www.britannica.com/biography/John-Lennon",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/john-lennon-mn0000232564"
+              "Title": "Rock Hall: John Lennon",
+              "Url": "https://rockhall.com/inductees/john-lennon/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "RockHall",
-              "Url": "https://rockhall.com/inductees/john-lennon/"
+              "Title": "Wikipedia: John Lennon (cause of death, instruments)",
+              "Url": "https://en.wikipedia.org/wiki/John_Lennon",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/John_Lennon"
+              "Title": "Rock Hall: The Beatles",
+              "Url": "https://rockhall.com/inductees/beatles/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Discogs",
-              "Url": "https://www.discogs.com/artist/46439-John-Lennon"
+              "Title": "Time: Ringo Starr knighthood (MBE mention)",
+              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
+              "Accessed": "2025-12-31"
             }
-          ],
-          "Photo": {
-            "Url": "",
-            "Credit": "",
-            "License": "",
-            "Source": ""
-          },
-          "LastUpdated": "2025-12-31",
-          "Pronouns": "",
-          "NotableInstruments": [],
-          "PrimaryGenres": []
+          ]
         }
       },
       {
@@ -576,13 +634,17 @@
             "Date": "1942-06-18",
             "City": "Liverpool",
             "Region": "England",
-            "Country": "United Kingdom"
+            "Country": "United Kingdom",
+            "Place": "Liverpool, England"
           },
           "Death": {
             "Date": "",
             "City": "",
             "Region": "",
-            "Country": ""
+            "Country": "",
+            "Cause": "",
+            "Place": "",
+            "Age": ""
           },
           "ActiveYears": [
             "1957–present"
@@ -619,9 +681,24 @@
           ],
           "Achievements": [
             {
+              "Type": "Rock & Roll Hall of Fame (The Beatles)",
+              "Year": 1988,
+              "Detail": "Inducted with The Beatles (Category: Performer)."
+            },
+            {
+              "Type": "Royal honour (MBE)",
+              "Year": 1965,
+              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+            },
+            {
               "Type": "Rock & Roll Hall of Fame (solo)",
               "Year": 1999,
-              "Detail": "Inducted as a solo performer."
+              "Detail": "Inducted as a solo performer (Category: Performer)."
+            },
+            {
+              "Type": "Royal honour (Knighthood)",
+              "Year": 1997,
+              "Detail": "Knighted for services to music."
             }
           ],
           "ExternalLinks": {
@@ -631,40 +708,50 @@
             "Wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney",
             "Discogs": "https://www.discogs.com/artist/35301-Paul-McCartney"
           },
-          "Summary": "Paul McCartney (born 18 June 1942) is a singer, songwriter, and multi‑instrumentalist whose melodic approach and wide stylistic range helped define the Beatles’ music and later sustained one of the most durable post‑1960s careers in popular music.",
-          "ReadingTimeMinutes": 1,
+          "FullName": "Sir James Paul McCartney",
+          "PrimaryInstruments": [
+            "Bass",
+            "Vocals",
+            "Guitar",
+            "Keyboards"
+          ],
+          "Occupations": [
+            "Singer",
+            "Songwriter",
+            "Composer",
+            "Musician"
+          ],
+          "Genres": [
+            "Rock",
+            "Pop"
+          ],
           "Sources": [
             {
-              "Label": "OfficialSite",
-              "Url": "https://www.paulmccartney.com/"
+              "Title": "Britannica: Paul McCartney",
+              "Url": "https://www.britannica.com/biography/Paul-McCartney",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/paul-mccartney-mn0000029884"
+              "Title": "Rock Hall: Paul McCartney",
+              "Url": "https://rockhall.com/inductees/paul-mccartney/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "RockHall",
-              "Url": "https://rockhall.com/inductees/paul-mccartney/"
+              "Title": "History.com: Paul McCartney knighted (1997)",
+              "Url": "https://www.history.com/this-day-in-history/march-11/paul-mccartney-knighted",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Paul_McCartney"
+              "Title": "Rock Hall: The Beatles",
+              "Url": "https://rockhall.com/inductees/beatles/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Discogs",
-              "Url": "https://www.discogs.com/artist/35301-Paul-McCartney"
+              "Title": "Time: Ringo Starr knighthood (MBE mention)",
+              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
+              "Accessed": "2025-12-31"
             }
-          ],
-          "Photo": {
-            "Url": "",
-            "Credit": "",
-            "License": "",
-            "Source": ""
-          },
-          "LastUpdated": "2025-12-31",
-          "Pronouns": "",
-          "NotableInstruments": [],
-          "PrimaryGenres": []
+          ]
         }
       },
       {
@@ -694,13 +781,16 @@
             "Date": "1943-02-25",
             "City": "Liverpool",
             "Region": "England",
-            "Country": "United Kingdom"
+            "Country": "United Kingdom",
+            "Place": "Liverpool, England"
           },
           "Death": {
             "Date": "2001-11-29",
             "City": "Los Angeles",
             "Region": "California",
-            "Country": "United States"
+            "Country": "United States",
+            "Cause": "Cancer",
+            "Age": 58
           },
           "ActiveYears": [
             "1958–2001"
@@ -737,9 +827,19 @@
           ],
           "Achievements": [
             {
+              "Type": "Rock & Roll Hall of Fame (The Beatles)",
+              "Year": 1988,
+              "Detail": "Inducted with The Beatles (Category: Performer)."
+            },
+            {
+              "Type": "Royal honour (MBE)",
+              "Year": 1965,
+              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+            },
+            {
               "Type": "Rock & Roll Hall of Fame (solo)",
               "Year": 2004,
-              "Detail": "Inducted posthumously as a solo performer."
+              "Detail": "Inducted posthumously as a solo performer (Category: Performer)."
             }
           ],
           "ExternalLinks": {
@@ -749,40 +849,52 @@
             "Wikipedia": "https://en.wikipedia.org/wiki/George_Harrison",
             "Discogs": "https://www.discogs.com/artist/35323-George-Harrison"
           },
-          "Summary": "George Harrison (25 February 1943 – 29 November 2001) was the Beatles’ lead guitarist and a songwriter whose work grew from early contributions into some of the band’s most celebrated late‑period songs.",
-          "ReadingTimeMinutes": 1,
+          "FullName": "George Harrison",
+          "PrimaryInstruments": [
+            "Guitar",
+            "Vocals",
+            "Sitar",
+            "Keyboards",
+            "Ukulele"
+          ],
+          "Occupations": [
+            "Musician",
+            "Singer",
+            "Songwriter",
+            "Producer"
+          ],
+          "Genres": [
+            "Rock",
+            "Pop",
+            "Indian classical"
+          ],
           "Sources": [
             {
-              "Label": "OfficialSite",
-              "Url": "https://www.georgeharrison.com/"
+              "Title": "Britannica: George Harrison",
+              "Url": "https://www.britannica.com/biography/George-Harrison-British-musician",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/george-harrison-mn0000209142"
+              "Title": "Rock Hall: George Harrison",
+              "Url": "https://rockhall.com/inductees/george-harrison/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "RockHall",
-              "Url": "https://rockhall.com/inductees/george-harrison/"
+              "Title": "Wikipedia: George Harrison (death details)",
+              "Url": "https://en.wikipedia.org/wiki/George_Harrison",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/George_Harrison"
+              "Title": "Rock Hall: The Beatles",
+              "Url": "https://rockhall.com/inductees/beatles/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Discogs",
-              "Url": "https://www.discogs.com/artist/35323-George-Harrison"
+              "Title": "Time: Ringo Starr knighthood (MBE mention)",
+              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
+              "Accessed": "2025-12-31"
             }
-          ],
-          "Photo": {
-            "Url": "",
-            "Credit": "",
-            "License": "",
-            "Source": ""
-          },
-          "LastUpdated": "2025-12-31",
-          "Pronouns": "",
-          "NotableInstruments": [],
-          "PrimaryGenres": []
+          ]
         }
       },
       {
@@ -810,13 +922,17 @@
             "Date": "1940-07-07",
             "City": "Liverpool",
             "Region": "England",
-            "Country": "United Kingdom"
+            "Country": "United Kingdom",
+            "Place": "Liverpool, Merseyside, England"
           },
           "Death": {
             "Date": "",
             "City": "",
             "Region": "",
-            "Country": ""
+            "Country": "",
+            "Cause": "",
+            "Place": "",
+            "Age": ""
           },
           "ActiveYears": [
             "1957–present"
@@ -848,9 +964,24 @@
           ],
           "Achievements": [
             {
+              "Type": "Rock & Roll Hall of Fame (The Beatles)",
+              "Year": 1988,
+              "Detail": "Inducted with The Beatles (Category: Performer)."
+            },
+            {
+              "Type": "Royal honour (MBE)",
+              "Year": 1965,
+              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+            },
+            {
               "Type": "Rock & Roll Hall of Fame (solo)",
               "Year": 2015,
-              "Detail": "Inducted with the Musical Excellence award."
+              "Detail": "Inducted (Category: Musical Excellence)."
+            },
+            {
+              "Type": "Royal honour (Knighthood)",
+              "Year": 2018,
+              "Detail": "Knighted for services to music."
             }
           ],
           "ExternalLinks": {
@@ -860,40 +991,43 @@
             "Wikipedia": "https://en.wikipedia.org/wiki/Ringo_Starr",
             "Discogs": "https://www.discogs.com/artist/257527-Ringo-Starr"
           },
-          "Summary": "Ringo Starr (born Richard Starkey; born 7 July 1940) is the drummer of the Beatles, known for a steady, song‑first approach that became a defining part of the band’s sound.",
-          "ReadingTimeMinutes": 1,
+          "FullName": "Sir Richard Starkey",
+          "PrimaryInstruments": [
+            "Drums",
+            "Vocals"
+          ],
+          "Occupations": [
+            "Musician",
+            "Singer",
+            "Songwriter",
+            "Actor"
+          ],
+          "Genres": [
+            "Rock",
+            "Pop"
+          ],
           "Sources": [
             {
-              "Label": "OfficialSite",
-              "Url": "https://www.ringostarr.com/"
+              "Title": "Britannica: Ringo Starr",
+              "Url": "https://www.britannica.com/biography/Ringo-Starr",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/ringo-starr-mn0000217792"
+              "Title": "Rock Hall: Ringo Starr",
+              "Url": "https://rockhall.com/inductees/ringo-starr/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "RockHall",
-              "Url": "https://rockhall.com/inductees/ringo-starr/"
+              "Title": "Rock Hall: The Beatles",
+              "Url": "https://rockhall.com/inductees/beatles/",
+              "Accessed": "2025-12-31"
             },
             {
-              "Label": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Ringo_Starr"
-            },
-            {
-              "Label": "Discogs",
-              "Url": "https://www.discogs.com/artist/257527-Ringo-Starr"
+              "Title": "Time: Ringo Starr knighthood (2018)",
+              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
+              "Accessed": "2025-12-31"
             }
-          ],
-          "Photo": {
-            "Url": "",
-            "Credit": "",
-            "License": "",
-            "Source": ""
-          },
-          "LastUpdated": "2025-12-31",
-          "Pronouns": "",
-          "NotableInstruments": [],
-          "PrimaryGenres": []
+          ]
         }
       }
     ],
