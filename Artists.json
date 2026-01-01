@@ -1157,7 +1157,7 @@
     }
   },
   {
-    "ArtistID": "acdc",
+    "ArtistID": "ac-dc",
     "Name": "AC/DC",
     "Type": "Band",
     "Origin": {
@@ -1165,77 +1165,41 @@
       "Region": "New South Wales",
       "Country": "Australia"
     },
-    "YearsActive": "1973–present (hiatus: 2016–2018)",
+    "YearsActive": [
+      "1973–present"
+    ],
+    "Overview": "AC/DC are an Australian rock band formed in Sydney in 1973 by brothers Angus and Malcolm Young. Built around big, blues-rooted riffs, driving rhythms, and a no-frills “rock and roll” identity, the group became one of the defining stadium hard‑rock acts of the 1970s–present.\n\nAfter early Australian success and international breakthroughs like *Let There Be Rock* (1977) and *Highway to Hell* (1979), the band rebuilt in 1980 following the death of lead singer Bon Scott, recruiting Brian Johnson and releasing *Back in Black*—one of the most successful rock albums ever. AC/DC have sold over 200 million records worldwide and were inducted into the Rock & Roll Hall of Fame in 2003.",
     "CoreMembers": [
       {
         "Name": "Angus Young",
         "Roles": [
           "lead guitar",
-          "songwriting",
-          "occasional backing vocals"
+          "songwriting"
+        ],
+        "Instruments": [
+          "guitar"
         ],
         "Years": "1973–present",
-        "Overview": "",
+        "YearsActive": "1973–present",
+        "Overview": "Co‑founder and lead guitarist, known for his high‑energy performances and signature lead style.",
         "Bio": {
-          "BioID": "acdc-angus-young",
-          "ArtistID": "acdc",
-          "ArtistName": "AC/DC",
           "MemberName": "Angus Young",
-          "Biography": [
-            "Angus Young co‑founded AC/DC in Sydney in 1973 with his older brother Malcolm, building the band around short, electrified riffs and relentless groove. His lead playing—rooted in blues phrasing and aggressive rhythmic picking—became the band’s signature voice, while his onstage “schoolboy” look turned him into one of rock’s most recognizable performers.",
-            "As AC/DC grew from Australian club circuit to international phenomenon, Angus’s solos and stagecraft became central to the live show. Records such as *Let There Be Rock* and *Highway to Hell* captured a lean, hard sound that translated directly to arenas, with Angus’s leads often functioning like a second vocal hook.",
-            "After the death of Bon Scott in 1980, Angus helped steer the band through a crucial reinvention with Brian Johnson. *Back in Black* kept the formula intact while sharpening it, and Angus’s playing on tracks like “Hells Bells” and “You Shook Me All Night Long” became canonical hard‑rock reference points.",
-            "Through later eras—*The Razors Edge* and beyond—Angus maintained AC/DC’s identity by resisting trends and doubling down on feel, tone, and groove. Even as lineups shifted and long breaks occurred, his role as musical anchor has kept the band’s sound instantly identifiable."
-          ],
           "Birth": {
             "Date": "1955-03-31",
-            "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
+            "Place": "Glasgow, Scotland"
           },
-          "ActiveYears": "1970–present",
-          "AssociatedActs": [
-            "AC/DC"
-          ],
-          "KeyAlbums": [
-            "Let There Be Rock (1977)",
-            "Highway to Hell (1979)",
-            "Back in Black (1980)",
-            "The Razors Edge (1990)",
-            "Power Up (2020)"
-          ],
-          "KeySongs": [
-            "Highway to Hell",
-            "Back in Black",
-            "Thunderstruck",
-            "Hells Bells",
-            "You Shook Me All Night Long"
-          ],
-          "Achievements": [
-            "Co-founded AC/DC in 1973 and remains its only continuous member.",
-            "Rock & Roll Hall of Fame inductee as a member of AC/DC (2003)."
-          ],
-          "ExternalLinks": {},
-          "FullName": "Angus McKinnon Young",
-          "PrimaryInstruments": [
-            "guitar"
-          ],
-          "Occupations": [
-            "musician",
-            "songwriter",
-            "producer"
-          ],
-          "Genres": [
-            "hard rock",
-            "blues rock",
-            "rock and roll"
-          ],
+          "Nationality": "Australian (Scottish-born)",
+          "Roles": "Lead guitarist, songwriter",
+          "Instruments": "Guitar",
+          "Overview": "Angus Young is the co‑founder and lead guitarist of AC/DC and the band’s only continuous member since 1973. Famous for his school‑uniform stage persona and relentless live energy, he helped define AC/DC’s hard‑rock sound through decades of touring and landmark albums.",
           "Sources": [
             {
-              "Title": "Wikipedia: Angus Young (birth details, role, career)",
+              "Title": "Wikipedia: Angus Young",
               "Url": "https://en.wikipedia.org/wiki/Angus_Young",
               "Accessed": "2025-12-31"
             },
             {
-              "Title": "Rock Hall: AC/DC (induction, impact)",
+              "Title": "Rock Hall: AC/DC",
               "Url": "https://rockhall.com/inductees/acdc/",
               "Accessed": "2025-12-31"
             }
@@ -1246,149 +1210,114 @@
         "Name": "Malcolm Young",
         "Roles": [
           "rhythm guitar",
-          "backing vocals",
           "songwriting",
-          "band architect"
+          "backing vocals"
+        ],
+        "Instruments": [
+          "guitar"
         ],
         "Years": "1973–2014",
-        "Overview": "",
+        "YearsActive": "1973–2014",
+        "Overview": "Co‑founder and rhythm guitarist, widely regarded as a key architect of the band’s tight, propulsive groove.",
         "Bio": {
-          "BioID": "acdc-malcolm-young",
-          "ArtistID": "acdc",
-          "ArtistName": "AC/DC",
           "MemberName": "Malcolm Young",
-          "Biography": [
-            "Malcolm Young was AC/DC’s rhythmic engine and organizational backbone—often described as the band’s architect as much as its rhythm guitarist. Co‑founding the group in 1973 with his brother Angus, Malcolm shaped the band’s “no‑nonsense” approach: tight arrangements, hard grooves, and songs built for the stage.",
-            "His playing emphasized precision and swing rather than flash, locking riffs to the drum pattern so the whole band hit like a single machine. Across the 1970s run—from *High Voltage* through *Highway to Hell*—Malcolm’s rhythm parts and co‑writing created the template for stadium hard rock: simple structures, huge choruses, and riffs that function like hooks.",
-            "After Bon Scott’s death, Malcolm helped guide AC/DC through the transition to Brian Johnson and into *Back in Black*, where the writing tightened further and the band’s sound became globally dominant. He remained a co‑writer and key decision‑maker through decades of touring, keeping the band’s identity consistent even as rock trends shifted around them.",
-            "Malcolm retired in 2014 due to dementia, and his nephew Stevie Young stepped in on rhythm guitar. He died in 2017, but his influence remains inseparable from AC/DC’s catalog—proof that rhythm guitar can be as defining as the lead."
-          ],
           "Birth": {
             "Date": "1953-01-06",
-            "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
+            "Place": "Glasgow, Scotland"
           },
-          "ActiveYears": "1969–2014",
-          "AssociatedActs": [
-            "AC/DC"
-          ],
-          "KeyAlbums": [
-            "High Voltage (1975)",
-            "Let There Be Rock (1977)",
-            "Highway to Hell (1979)",
-            "Back in Black (1980)",
-            "Rock or Bust (2014)"
-          ],
-          "KeySongs": [
-            "T.N.T.",
-            "Whole Lotta Rosie",
-            "Highway to Hell",
-            "Back in Black",
-            "For Those About to Rock (We Salute You)"
-          ],
-          "Achievements": [
-            "Co-founded AC/DC in 1973; principal rhythm guitarist and co-songwriter for the band’s classic catalog.",
-            "Rock & Roll Hall of Fame inductee as a member of AC/DC (2003)."
-          ],
-          "ExternalLinks": {},
-          "FullName": "Malcolm Mitchell Young",
-          "PrimaryInstruments": [
-            "guitar",
-            "vocals"
-          ],
-          "Occupations": [
-            "musician",
-            "songwriter"
-          ],
-          "Genres": [
-            "hard rock",
-            "blues rock"
-          ],
+          "Death": {
+            "Date": "2017-11-18",
+            "Place": "Australia"
+          },
+          "Nationality": "Australian (Scottish-born)",
+          "Roles": "Rhythm guitarist, songwriter, backing vocalist",
+          "Instruments": "Guitar",
+          "Overview": "Malcolm Young co‑founded AC/DC with his brother Angus and served as the band’s rhythm‑guitar engine and co‑writer. His disciplined, percussive approach to rhythm and arrangement became central to AC/DC’s signature drive; he retired in 2014 after illness and died in 2017.",
           "Sources": [
             {
-              "Title": "Wikipedia: Malcolm Young (dates, role, retirement)",
+              "Title": "Wikipedia: Malcolm Young",
               "Url": "https://en.wikipedia.org/wiki/Malcolm_Young",
               "Accessed": "2025-12-31"
             },
             {
-              "Title": "Pitchfork: Malcolm Young obituary (retirement due to dementia, legacy)",
-              "Url": "https://pitchfork.com/news/acdc-guitarist-malcolm-young-dead-at-64",
+              "Title": "Rock Hall: AC/DC",
+              "Url": "https://rockhall.com/inductees/acdc/",
               "Accessed": "2025-12-31"
             }
-          ],
+          ]
+        }
+      },
+      {
+        "Name": "Bon Scott",
+        "Roles": [
+          "lead vocals",
+          "lyrics"
+        ],
+        "Instruments": [
+          "vocals"
+        ],
+        "Years": "1974–1980",
+        "YearsActive": "1974–1980",
+        "Overview": "Lead singer during the band’s breakthrough years, celebrated for his swaggering delivery and sharp, humorous lyrics.",
+        "Bio": {
+          "MemberName": "Bon Scott",
+          "Birth": {
+            "Date": "1946-07-09",
+            "Place": "Forfar, Angus, Scotland"
+          },
           "Death": {
-            "Date": "2017-11-18",
-            "Place": "Elizabeth Bay, New South Wales, Australia"
-          }
+            "Date": "1980-02-19",
+            "Place": "London, England",
+            "Cause": "Acute alcohol poisoning (per coroner findings)"
+          },
+          "Nationality": "Australian (Scottish-born)",
+          "Roles": "Singer, lyricist",
+          "Instruments": "Vocals",
+          "Overview": "Bon Scott was AC/DC’s lead vocalist from 1974 to 1980, fronting the band as it evolved from Australian pub‑rock roots into an international hard‑rock force. His characterful voice and irreverent lyric style are closely associated with albums like *Let There Be Rock* and *Highway to Hell*.",
+          "Sources": [
+            {
+              "Title": "Wikipedia: Bon Scott",
+              "Url": "https://en.wikipedia.org/wiki/Bon_Scott",
+              "Accessed": "2025-12-31"
+            },
+            {
+              "Title": "ABC News: fresh insight into Bon Scott death (coroner finding)",
+              "Url": "https://www.abc.net.au/news/2022-05-09/fresh-insight-into-death-of-acdcfront-man-bon-scott/100900888",
+              "Accessed": "2025-12-31"
+            }
+          ]
         }
       },
       {
         "Name": "Brian Johnson",
         "Roles": [
-          "lead vocals",
-          "songwriting"
+          "lead vocals"
+        ],
+        "Instruments": [
+          "vocals"
         ],
         "Years": "1980–2016, 2018–present",
-        "Overview": "",
+        "YearsActive": "1980–2016, 2018–present",
+        "Overview": "Lead singer from 1980 onward, debuting with *Back in Black* and helping sustain the band’s stadium-era dominance.",
         "Bio": {
-          "BioID": "acdc-brian-johnson",
-          "ArtistID": "acdc",
-          "ArtistName": "AC/DC",
           "MemberName": "Brian Johnson",
-          "Biography": [
-            "Brian Johnson became AC/DC’s lead vocalist in 1980, stepping into one of rock’s most scrutinized roles after the death of Bon Scott. Previously known for his work with the British band Geordie, Johnson brought a rasping, high‑powered delivery that matched AC/DC’s riffs while giving the band a slightly different vocal edge.",
-            "His first album with the group, *Back in Black*, was recorded quickly but landed as a career‑defining statement—both a tribute to Scott and a demonstration that AC/DC could continue without changing their musical DNA. Johnson’s performances on “Hells Bells” and “You Shook Me All Night Long” helped turn the album into a cornerstone of hard rock.",
-            "Through the 1980s and 1990s he fronted multiple eras, including the early ’80s stadium peak and the 1990 resurgence around *The Razors Edge*. His vocal character—gritty, direct, and built for call‑and‑response choruses—became integral to AC/DC’s identity for successive generations of listeners.",
-            "After health-related touring interruptions in the mid‑2010s, Johnson returned for *Power Up* and renewed live activity, reinforcing his place as the voice of AC/DC’s post‑1980 legacy."
-          ],
           "Birth": {
             "Date": "1947-10-05",
             "Place": "Dunston, County Durham, England"
           },
-          "ActiveYears": "1962–present",
-          "AssociatedActs": [
-            "AC/DC",
-            "Geordie"
-          ],
-          "KeyAlbums": [
-            "Back in Black (1980)",
-            "For Those About to Rock (We Salute You) (1981)",
-            "The Razors Edge (1990)",
-            "Black Ice (2008)",
-            "Power Up (2020)"
-          ],
-          "KeySongs": [
-            "Hells Bells",
-            "You Shook Me All Night Long",
-            "Back in Black",
-            "For Those About to Rock (We Salute You)",
-            "Thunderstruck"
-          ],
-          "Achievements": [
-            "Joined AC/DC in 1980 after Bon Scott’s death; fronted *Back in Black*, one of rock’s defining albums.",
-            "Rock & Roll Hall of Fame inductee as a member of AC/DC (2003)."
-          ],
-          "ExternalLinks": {},
-          "FullName": "Brian Francis Johnson",
-          "PrimaryInstruments": [
-            "vocals"
-          ],
-          "Occupations": [
-            "singer",
-            "songwriter"
-          ],
-          "Genres": [
-            "hard rock",
-            "rock and roll"
-          ],
+          "Nationality": "British",
+          "Roles": "Singer",
+          "Instruments": "Vocals",
+          "Overview": "Brian Johnson became AC/DC’s lead singer in 1980 after the death of Bon Scott and debuted on *Back in Black*. His rasping vocal style and straightforward delivery fit the band’s high‑voltage approach and helped anchor AC/DC through multiple later‑era comebacks.",
           "Sources": [
             {
-              "Title": "Wikipedia: Brian Johnson (birth details, Geordie, joining AC/DC)",
+              "Title": "Wikipedia: Brian Johnson",
               "Url": "https://en.wikipedia.org/wiki/Brian_Johnson",
               "Accessed": "2025-12-31"
             },
             {
-              "Title": "Wikipedia: Back in Black (context of Scott’s death and album’s tribute)",
-              "Url": "https://en.wikipedia.org/wiki/Back_in_Black",
+              "Title": "Wikipedia: AC/DC (band history)",
+              "Url": "https://en.wikipedia.org/wiki/AC/DC",
               "Accessed": "2025-12-31"
             }
           ]
@@ -1399,66 +1328,31 @@
         "Roles": [
           "drums"
         ],
+        "Instruments": [
+          "drums"
+        ],
         "Years": "1975–1983, 1994–2015, 2018–present",
-        "Overview": "",
+        "YearsActive": "1975–1983, 1994–2015, 2018–present",
+        "Overview": "Drummer on many of the band’s most recognized records, known for a steady, driving feel that supports the riffs.",
         "Bio": {
-          "BioID": "acdc-phil-rudd",
-          "ArtistID": "acdc",
-          "ArtistName": "AC/DC",
           "MemberName": "Phil Rudd",
-          "Biography": [
-            "Phil Rudd is the drummer most associated with AC/DC’s definitive feel: steady, uncluttered, and heavy without rushing. Joining in 1975, he helped the band tighten into the classic engine‑room groove heard across *Let There Be Rock*, *Powerage*, and *Highway to Hell*.",
-            "Rudd’s playing is often described as deceptively simple—focused on backbeat authority and a pocket that lets guitars dominate while the rhythm section stays immovable. That approach became crucial on *Back in Black*, where the drums function as a metronomic foundation for some of rock’s most famous riffs.",
-            "After leaving in the early 1980s, Rudd later returned for the mid‑1990s reunion and again for the band’s late‑era recording lineup on *Power Up*. Across his stints, his consistency has been a major reason AC/DC’s sound feels instantly recognizable regardless of decade."
-          ],
           "Birth": {
             "Date": "1954-05-19",
             "Place": "Melbourne, Victoria, Australia"
           },
-          "ActiveYears": "1972–present",
-          "AssociatedActs": [
-            "AC/DC",
-            "Buster Brown"
-          ],
-          "KeyAlbums": [
-            "Let There Be Rock (1977)",
-            "Highway to Hell (1979)",
-            "Back in Black (1980)",
-            "The Razors Edge (1990)",
-            "Power Up (2020)"
-          ],
-          "KeySongs": [
-            "Whole Lotta Rosie",
-            "Highway to Hell",
-            "Back in Black",
-            "Thunderstruck"
-          ],
-          "Achievements": [
-            "Known for the band’s signature ‘straight but swinging’ groove; key drummer on many classic AC/DC albums.",
-            "Rock & Roll Hall of Fame inductee as a member of AC/DC (2003)."
-          ],
-          "ExternalLinks": {},
-          "FullName": "Phillip Hugh Norman Rudd (born Phillip Hugh Norman Witschke Rudzevecuis)",
-          "PrimaryInstruments": [
-            "drums"
-          ],
-          "Occupations": [
-            "musician"
-          ],
-          "Genres": [
-            "hard rock",
-            "blues rock",
-            "rock and roll"
-          ],
+          "Nationality": "Australian",
+          "Roles": "Drummer",
+          "Instruments": "Drums",
+          "Overview": "Phil Rudd is AC/DC’s longtime drummer across multiple stints, appearing on a large share of the group’s classic catalogue. His compact, no‑nonsense groove is a key part of the band’s rhythmic identity.",
           "Sources": [
             {
-              "Title": "Wikipedia: Phil Rudd (birth details, AC/DC stints)",
+              "Title": "Wikipedia: Phil Rudd",
               "Url": "https://en.wikipedia.org/wiki/Phil_Rudd",
               "Accessed": "2025-12-31"
             },
             {
-              "Title": "Wikipedia: Power Up (personnel)",
-              "Url": "https://en.wikipedia.org/wiki/Power_Up_(album)",
+              "Title": "Rock Hall: AC/DC",
+              "Url": "https://rockhall.com/inductees/acdc/",
               "Accessed": "2025-12-31"
             }
           ]
@@ -1467,71 +1361,35 @@
       {
         "Name": "Cliff Williams",
         "Roles": [
-          "bass guitar",
+          "bass",
           "backing vocals"
         ],
+        "Instruments": [
+          "bass guitar",
+          "vocals"
+        ],
         "Years": "1977–2016, 2018–present",
-        "Overview": "",
+        "YearsActive": "1977–2016, 2018–present",
+        "Overview": "Bassist and backing vocalist, contributing steady low-end support through the band’s biggest touring eras.",
         "Bio": {
-          "BioID": "acdc-cliff-williams",
-          "ArtistID": "acdc",
-          "ArtistName": "AC/DC",
           "MemberName": "Cliff Williams",
-          "Biography": [
-            "Cliff Williams joined AC/DC in 1977, arriving just as the band’s international momentum accelerated. His bass playing emphasized solidity and drive—supporting the guitars with locked-in eighth‑notes—while his backing vocals added a crucial layer to AC/DC’s trademark choruses.",
-            "Williams’s first studio album with the group was *Powerage* (1978), and he became a mainstay through the band’s most famous run from *Highway to Hell* to *Back in Black*. In performance, his role was less about flashy lines and more about making the riffs hit harder by reinforcing rhythm and harmony at the same time.",
-            "After announcing retirement around the band’s 2016 touring pause, Williams returned for *Power Up* and subsequent activity, reflecting the durable chemistry of AC/DC’s core late‑era lineup."
-          ],
           "Birth": {
             "Date": "1949-12-14",
             "Place": "Romford, Essex, England"
           },
-          "ActiveYears": "1966–present",
-          "AssociatedActs": [
-            "AC/DC",
-            "Home",
-            "Bandit"
-          ],
-          "KeyAlbums": [
-            "Powerage (1978)",
-            "Highway to Hell (1979)",
-            "Back in Black (1980)",
-            "The Razors Edge (1990)",
-            "Power Up (2020)"
-          ],
-          "KeySongs": [
-            "You Shook Me All Night Long",
-            "Back in Black",
-            "Thunderstruck"
-          ],
-          "Achievements": [
-            "Joined AC/DC in 1977 and became a key part of the classic live era as bassist and harmony vocalist.",
-            "Rock & Roll Hall of Fame inductee as a member of AC/DC (2003)."
-          ],
-          "ExternalLinks": {},
-          "FullName": "Clifford Williams",
-          "PrimaryInstruments": [
-            "bass",
-            "vocals"
-          ],
-          "Occupations": [
-            "musician",
-            "singer"
-          ],
-          "Genres": [
-            "hard rock",
-            "blues rock",
-            "rock and roll"
-          ],
+          "Nationality": "British",
+          "Roles": "Bassist, backing vocalist",
+          "Instruments": "Bass guitar, vocals",
+          "Overview": "Cliff Williams joined AC/DC in the late 1970s and became the band’s longtime bassist and backing vocalist. He debuted on *Powerage* (1978) and remained a core stage presence through decades of arena and stadium touring.",
           "Sources": [
             {
-              "Title": "Wikipedia: Cliff Williams (birth details, joining AC/DC, retirement/return)",
+              "Title": "Wikipedia: Cliff Williams",
               "Url": "https://en.wikipedia.org/wiki/Cliff_Williams",
               "Accessed": "2025-12-31"
             },
             {
-              "Title": "Wikipedia: AC/DC (overview and current members)",
-              "Url": "https://en.wikipedia.org/wiki/AC/DC",
+              "Title": "Rock Hall: AC/DC",
+              "Url": "https://rockhall.com/inductees/acdc/",
               "Accessed": "2025-12-31"
             }
           ]
@@ -1543,58 +1401,31 @@
           "rhythm guitar",
           "backing vocals"
         ],
-        "Years": "2014–present (also filled in: 1988)",
-        "Overview": "",
+        "Instruments": [
+          "guitar"
+        ],
+        "Years": "2014–present",
+        "YearsActive": "2014–present",
+        "Overview": "Rhythm guitarist who stepped in for Malcolm Young and has helped carry the band’s live sound in the modern era.",
         "Bio": {
-          "BioID": "acdc-stevie-young",
-          "ArtistID": "acdc",
-          "ArtistName": "AC/DC",
           "MemberName": "Stevie Young",
-          "Biography": [
-            "Stevie Young is Malcolm Young’s nephew and became AC/DC’s rhythm guitarist in 2014, stepping in as Malcolm retired due to illness. Because Malcolm’s rhythm style is so central to AC/DC’s identity, Stevie’s job has been less about reinvention and more about faithful continuity—keeping the band’s tight, percussive chord work intact.",
-            "He had previously filled in for Malcolm during parts of the 1988 U.S. tour, giving him first‑hand familiarity with the band’s live demands. In the 2010s and 2020s he became the onstage partner to Angus Young, anchoring the riff patterns that define the songs.",
-            "Stevie appears on late‑era recordings including *Rock or Bust* and *Power Up*, and has helped maintain AC/DC’s recognizable sound through a period of major transitions."
-          ],
           "Birth": {
             "Date": "1956-12-11",
             "Place": "Glasgow, Scotland"
           },
-          "ActiveYears": "1979–present",
-          "AssociatedActs": [
-            "AC/DC",
-            "Starfighters"
-          ],
-          "KeyAlbums": [
-            "Rock or Bust (2014)",
-            "Power Up (2020)"
-          ],
-          "KeySongs": [
-            "Shot in the Dark",
-            "Realize"
-          ],
-          "Achievements": [
-            "Replaced Malcolm Young on rhythm guitar beginning in 2014, helping carry the band’s classic rhythm style forward."
-          ],
-          "ExternalLinks": {},
-          "FullName": "Stephen Crawford Young Jr.",
-          "PrimaryInstruments": [
-            "guitar"
-          ],
-          "Occupations": [
-            "musician"
-          ],
-          "Genres": [
-            "hard rock"
-          ],
+          "Nationality": "Australian (Scottish-born)",
+          "Roles": "Rhythm guitarist, backing vocalist",
+          "Instruments": "Guitar",
+          "Overview": "Stevie Young is AC/DC’s rhythm guitarist in the post‑Malcolm era, first joining for *Rock or Bust* (2014). A nephew of Angus and Malcolm, he previously filled in on tour and later became the band’s full‑time rhythm guitarist.",
           "Sources": [
             {
-              "Title": "Wikipedia: Stevie Young (joining AC/DC, replacing Malcolm)",
+              "Title": "Wikipedia: Stevie Young",
               "Url": "https://en.wikipedia.org/wiki/Stevie_Young",
               "Accessed": "2025-12-31"
             },
             {
-              "Title": "Wikipedia: Power Up (personnel)",
-              "Url": "https://en.wikipedia.org/wiki/Power_Up_(album)",
+              "Title": "Wikipedia: AC/DC",
+              "Url": "https://en.wikipedia.org/wiki/AC/DC",
               "Accessed": "2025-12-31"
             }
           ]
@@ -1603,238 +1434,232 @@
     ],
     "NonCoreMembers": [
       {
-        "Name": "Bon Scott",
-        "Roles": [
-          "lead vocals",
-          "lyric writing (often credited in band histories)"
-        ],
-        "Years": "1974–1980",
-        "Instruments": [
-          "vocals"
-        ],
-        "Albums": [
-          "High Voltage (1975)",
-          "T.N.T. (1975)",
-          "Dirty Deeds Done Dirt Cheap (1976)",
-          "Let There Be Rock (1977)",
-          "Powerage (1978)",
-          "Highway to Hell (1979)"
-        ],
-        "Replacing": [
-          "Dave Evans"
-        ],
-        "ReplacedBy": [
-          "Brian Johnson"
-        ],
-        "Overview": "Bon Scott (Ronald Belford Scott) was the second lead vocalist of AC/DC and the frontman who carried the band from its early Australian years to international breakthrough. Joining in 1974, he paired a gritty voice with a mischievous, streetwise lyric style that gave songs an unmistakable swagger—equal parts humor, lust, and danger. Scott’s era produced foundational albums and stage anthems that defined AC/DC’s image, culminating in *Highway to Hell* (1979), their major U.S. breakthrough. He died in London on 19 February 1980 at age 33; the band decided to continue and recruited Brian Johnson, later honoring Scott’s memory as they moved into the *Back in Black* era."
-      },
-      {
         "Name": "Dave Evans",
         "Roles": [
           "lead vocals"
         ],
-        "Years": "1973–1974",
         "Instruments": [
           "vocals"
         ],
-        "Albums": [
-          "\"Can I Sit Next to You, Girl\" (1974 single)"
-        ],
+        "Years": "1973–1974",
+        "YearsActive": "1973–1974",
         "Replacing": [],
         "ReplacedBy": [
           "Bon Scott"
         ],
-        "Overview": "Dave Evans was AC/DC’s original lead singer during the band’s first months in Sydney, appearing on their earliest single “Can I Sit Next to You, Girl.” His tenure belongs to the pre‑breakthrough period when the Young brothers were still refining the band’s sound, stage identity, and long‑term lineup. Evans is part of AC/DC’s origin story—evidence of how quickly the group evolved before settling into the tougher, bluesier approach associated with Bon Scott. While he left before AC/DC’s first album run took shape, those early recordings and gigs mark the starting line of a band that would soon become one of rock’s biggest names."
-      },
-      {
-        "Name": "Mark Evans",
-        "Roles": [
-          "bass guitar"
-        ],
-        "Years": "1975–1977",
-        "Instruments": [
-          "bass"
-        ],
-        "Albums": [
-          "T.N.T. (1975)",
-          "Dirty Deeds Done Dirt Cheap (1976)",
-          "Let There Be Rock (1977)"
-        ],
-        "Replacing": [
-          "Rob Bailey (touring/early period)",
-          "various early bassists"
-        ],
-        "ReplacedBy": [
-          "Cliff Williams"
-        ],
-        "Overview": "Mark Evans played bass for AC/DC during a crucial mid‑1970s stretch as the band’s lineup stabilized and their records began reaching beyond Australia. He appears on key releases including *Dirty Deeds Done Dirt Cheap* and *Let There Be Rock*, providing the driving, no‑frills low end that underpins the band’s riff‑first songwriting. Evans’s period also overlaps with the group’s growing reputation as a ferocious live act—tight, loud, and built around groove rather than ornament. After departing in 1977, his role was taken by Cliff Williams, whose backing vocals and long tenure would define the classic touring era."
-      },
-      {
-        "Name": "Simon Wright",
-        "Roles": [
-          "drums",
-          "percussion"
-        ],
-        "Years": "1983–1989",
-        "Instruments": [
-          "drums"
-        ],
-        "Albums": [
-          "Fly on the Wall (1985)",
-          "Who Made Who (1986)",
-          "Blow Up Your Video (1988)"
-        ],
-        "Replacing": [
-          "Phil Rudd"
-        ],
-        "ReplacedBy": [
-          "Chris Slade"
-        ],
-        "Overview": "Simon Wright joined AC/DC in the 1980s after Phil Rudd’s departure, helping the band keep its rhythmic momentum through a decade of changing rock trends. He played on albums such as *Fly on the Wall* and *Blow Up Your Video*, bringing a firm, driving style that supported AC/DC’s commitment to straightforward riffs and big choruses. Wright’s era includes a heavy touring schedule and the band’s continued global visibility even when critical opinion was mixed. After leaving AC/DC, he built a prominent career elsewhere in hard rock and metal, but his AC/DC years remain a key part of the band’s 1980s chapter."
-      },
-      {
-        "Name": "Chris Slade",
-        "Roles": [
-          "drums",
-          "percussion"
-        ],
-        "Years": "1989–1994, 2015–2016",
-        "Instruments": [
-          "drums"
-        ],
-        "Albums": [
-          "The Razors Edge (1990)",
-          "\"Big Gun\" (1993)"
-        ],
-        "Replacing": [
-          "Simon Wright",
-          "Phil Rudd (later period)"
-        ],
-        "ReplacedBy": [
-          "Phil Rudd",
-          "touring drummers (various)"
-        ],
-        "Overview": "Chris Slade is best known in AC/DC history for his work on *The Razors Edge* (1990), the album that powered a major commercial resurgence and introduced “Thunderstruck.” His drumming is punchy and assertive, with a sharp attack and tight cymbal work that helped the band’s guitars land harder in arenas and on radio. Slade’s first stint covered the early ’90s peak, and he later returned during the mid‑2010s touring period, providing stability when the band’s lineup was in flux. Across both stretches, his contribution is tied to a simple message: AC/DC’s sound can survive transitions when the groove remains uncompromising."
+        "Overview": "Original AC/DC vocalist during the band’s earliest Sydney period, appearing on their first single-era recordings. He left before the group’s international breakthrough and was replaced by Bon Scott, after which AC/DC’s classic lineup began to form."
       },
       {
         "Name": "Larry Van Kriedt",
         "Roles": [
+          "bass"
+        ],
+        "Instruments": [
           "bass guitar"
         ],
         "Years": "1973–1974",
-        "Instruments": [
-          "bass"
-        ],
-        "Albums": [],
+        "YearsActive": "1973–1974",
         "Replacing": [],
         "ReplacedBy": [
-          "early rotating bassists",
-          "Rob Bailey (1974)"
+          "Neil Smith",
+          "Rob Bailey",
+          "Mark Evans",
+          "Cliff Williams"
         ],
-        "Overview": "Larry Van Kriedt was AC/DC’s original bassist in the earliest 1973 lineup alongside Dave Evans, Malcolm Young, Angus Young, and drummer Colin Burgess. His time with the band came before the group’s first album releases, during a fast‑moving phase of personnel changes as the Young brothers searched for the right combination of players and stage presence. Van Kriedt’s importance is historical: he represents AC/DC at the moment of formation, when the band’s identity was still being built gig by gig. Although he didn’t remain for the classic recording era, his place in the initial lineup makes him part of the band’s foundational chapter."
+        "Overview": "Early AC/DC bassist in the initial 1973–74 lineup. He departed during the band’s frequent early lineup changes, before the group stabilized and moved toward broader release success."
       },
       {
         "Name": "Colin Burgess",
         "Roles": [
           "drums"
         ],
-        "Years": "1973–1974",
         "Instruments": [
           "drums"
         ],
-        "Albums": [],
+        "Years": "1973–1974",
+        "YearsActive": "1973–1974",
         "Replacing": [],
         "ReplacedBy": [
-          "early rotating drummers",
-          "Phil Rudd (later classic era)"
+          "Noel Taylor",
+          "Peter Clack",
+          "Phil Rudd"
         ],
-        "Overview": "Colin Burgess was the drummer in AC/DC’s first lineup, playing at the very beginning of the band’s Sydney club history. Like several early members, his tenure was short, reflecting how quickly the Young brothers refined their lineup while building a reputation as a hard‑hitting live act. Burgess’s contribution sits in the “origin story” category: before chart success, before the iconic albums, there was the initial group learning what AC/DC could be onstage. Although later drummers would define the recorded sound, Burgess remains a notable early participant in the band’s formative months and earliest setlists, rehearsals, and club dates."
+        "Overview": "AC/DC’s first drummer in the 1973 founding lineup. He was part of the band’s earliest club gigs in Sydney, but was replaced in the rapid lineup shifts of the first year."
+      },
+      {
+        "Name": "Mark Evans",
+        "Roles": [
+          "bass"
+        ],
+        "Instruments": [
+          "bass guitar"
+        ],
+        "Years": "1975–1977",
+        "YearsActive": "1975–1977",
+        "Replacing": [
+          "Rob Bailey"
+        ],
+        "ReplacedBy": [
+          "Cliff Williams"
+        ],
+        "Overview": "Bassist during AC/DC’s mid‑1970s rise, playing on early international-era records and tours. He was replaced in 1977 as the band moved into the *Powerage*/*Highway to Hell* period with Cliff Williams."
+      },
+      {
+        "Name": "Simon Wright",
+        "Roles": [
+          "drums"
+        ],
+        "Instruments": [
+          "drums"
+        ],
+        "Years": "1983–1989",
+        "YearsActive": "1983–1989",
+        "Replacing": [
+          "Phil Rudd"
+        ],
+        "ReplacedBy": [
+          "Chris Slade"
+        ],
+        "Overview": "Drummer who joined after Phil Rudd’s first departure and helped keep AC/DC road-ready through the 1980s. He played on key mid‑80s releases before being replaced as the band reset for the late‑80s comeback era."
+      },
+      {
+        "Name": "Chris Slade",
+        "Roles": [
+          "drums"
+        ],
+        "Instruments": [
+          "drums"
+        ],
+        "Years": "1989–1994, 2015–2016",
+        "YearsActive": "1989–1994, 2015–2016",
+        "Replacing": [
+          "Simon Wright",
+          "Phil Rudd (touring replacement)"
+        ],
+        "ReplacedBy": [
+          "Phil Rudd"
+        ],
+        "Overview": "Drummer associated with the band’s late‑80s/early‑90s resurgence, including the *The Razors Edge* era. He later returned as a touring/studio-era replacement in the mid‑2010s during another period of lineup disruption."
+      },
+      {
+        "Name": "Axl Rose",
+        "Roles": [
+          "guest lead vocals (touring)"
+        ],
+        "Instruments": [
+          "vocals"
+        ],
+        "Years": "2016",
+        "YearsActive": "2016",
+        "Replacing": [
+          "Brian Johnson (touring)"
+        ],
+        "ReplacedBy": [
+          "Brian Johnson"
+        ],
+        "Overview": "Served as touring vocalist for a portion of the 2016 tour dates when Brian Johnson stepped away due to hearing concerns. His involvement was a temporary live solution rather than a full-time membership change."
       }
     ],
     "Genres": [
-      "Hard rock",
-      "Blues rock",
-      "Rock and roll (self-described)",
-      "Heavy metal (often cited)"
+      "hard rock",
+      "blues rock",
+      "heavy metal"
     ],
     "Labels": [
       "Albert",
       "Atlantic",
       "ATCO",
-      "East West",
-      "Elektra",
+      "Columbia",
       "Epic",
-      "Columbia"
+      "Elektra",
+      "East West"
     ],
-    "Overview": "AC/DC are an Australian rock band formed in Sydney in 1973 by brothers Malcolm and Angus Young. Built around stripped‑down riffs, blues‑rooted grooves, and a simple “rock and roll” ethos, the band became one of the defining stadium acts of the late 1970s and 1980s, known for relentless touring, a loud-and-lean sound, and Angus Young’s schoolboy‑uniform stage persona.\n\nAfter early Australian releases and international breakthroughs like *Let There Be Rock* (1977) and *Highway to Hell* (1979), the band endured a defining tragedy with the death of vocalist Bon Scott in February 1980. They regrouped with singer Brian Johnson and released *Back in Black* (1980), a landmark hard‑rock record and one of the best‑selling albums in music history. AC/DC were inducted into the Rock & Roll Hall of Fame in 2003 and, despite long gaps and lineup changes, have continued recording and touring into the 2020s.",
     "NotableAlbums": [
       {
         "Title": "High Voltage",
         "Year": 1975,
-        "Notes": "Early breakthrough in Australia; introduced the band’s core template."
+        "Notes": "Debut album era; set the blueprint for their high-energy hard-rock sound."
       },
       {
         "Title": "Let There Be Rock",
         "Year": 1977,
-        "Notes": "Harder, faster statement that cemented their riff-driven identity."
+        "Notes": "A defining hard-rock statement that helped cement their international reputation."
+      },
+      {
+        "Title": "Powerage",
+        "Year": 1978,
+        "Notes": "Fan-favorite deep-cut record with a grittier, road-tested feel."
       },
       {
         "Title": "Highway to Hell",
         "Year": 1979,
-        "Notes": "International breakthrough and the final studio album with Bon Scott."
+        "Notes": "International breakthrough and Bon Scott’s final studio album with the band."
       },
       {
         "Title": "Back in Black",
         "Year": 1980,
-        "Notes": "First album with Brian Johnson; a defining hard-rock release and global blockbuster."
+        "Notes": "Brian Johnson’s debut; a landmark album dedicated to Bon Scott’s memory."
       },
       {
         "Title": "For Those About to Rock (We Salute You)",
         "Year": 1981,
-        "Notes": "Major early-’80s peak; famed for its cannon-fire stage show."
+        "Notes": "Their first album to top the U.S. Billboard 200."
       },
       {
         "Title": "The Razors Edge",
         "Year": 1990,
-        "Notes": "Commercial resurgence anchored by “Thunderstruck.”"
+        "Notes": "Major late-era resurgence featuring “Thunderstruck.”"
       },
       {
         "Title": "Black Ice",
         "Year": 2008,
-        "Notes": "Late-career No. 1 comeback that launched a massive world tour."
+        "Notes": "High-profile comeback that debuted at #1 in many countries."
       },
       {
         "Title": "Power Up",
         "Year": 2020,
-        "Notes": "Return of Johnson, Rudd, and Williams for a tribute-tinged late-era album."
+        "Notes": "Later-era album honoring Malcolm Young’s legacy and co-written material."
       }
     ],
     "SignatureSongs": [
       "Highway to Hell",
       "Back in Black",
-      "Hells Bells",
+      "Thunderstruck",
       "You Shook Me All Night Long",
+      "Hells Bells",
       "T.N.T.",
       "Whole Lotta Rosie",
-      "For Those About to Rock (We Salute You)",
-      "Thunderstruck",
-      "Shoot to Thrill"
+      "Shoot to Thrill",
+      "For Those About to Rock (We Salute You)"
     ],
     "Achievements": [
-      "Inducted into the Rock & Roll Hall of Fame (2003).",
-      "*Back in Black* became one of the best-selling albums in history and a defining hard-rock record.",
-      "Decades-long stadium touring reputation and enduring catalog dominance across rock radio and streaming."
+      {
+        "Type": "Rock & Roll Hall of Fame",
+        "Year": 2003,
+        "Detail": "Inducted as Performers."
+      },
+      {
+        "Type": "GRAMMY Award",
+        "Year": 2010,
+        "Detail": "Won Best Hard Rock Performance for “War Machine” (from *Black Ice*)."
+      },
+      {
+        "Type": "Sales milestone",
+        "Year": "career",
+        "Detail": "Sold over 200 million records worldwide (variously reported by major references)."
+      }
     ],
     "KeyFacts": [
-      "Formed in Sydney in 1973 by brothers Malcolm and Angus Young.",
-      "The band describes its style as “rock and roll” even as critics often classify them as hard rock or heavy metal.",
-      "Known for high-energy live shows, including Angus Young’s schoolboy uniform and (on some tours) cannon effects during “For Those About to Rock.”"
+      "Formed in Sydney in 1973 by brothers Angus and Malcolm Young.",
+      "The band name came from the “AC/DC” label on a sewing-machine power adapter.",
+      "Bon Scott fronted the classic 1970s breakthrough period; Brian Johnson joined in 1980.",
+      "Known for a consistent, riff-first hard-rock style and high-volume stadium shows."
     ],
     "ExternalLinks": {
       "OfficialSite": "https://www.acdc.com/",
       "RockHall": "https://rockhall.com/inductees/acdc/",
-      "Britannica": "https://www.britannica.com/topic/AC-DC",
-      "Wikipedia": "https://en.wikipedia.org/wiki/AC/DC"
+      "Wikipedia": "https://en.wikipedia.org/wiki/AC/DC",
+      "Discography": "https://en.wikipedia.org/wiki/AC/DC_discography"
     }
   },
   {
