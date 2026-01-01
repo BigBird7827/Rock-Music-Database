@@ -2,7 +2,7 @@
   {
     "ArtistID": "the-alan-parsons-project",
     "Name": "The Alan Parsons Project",
-    "Type": "Duo",
+    "Type": "Band",
     "Origin": {
       "City": "London",
       "Region": "England",
@@ -11,33 +11,44 @@
     "YearsActive": [
       "1975–1990"
     ],
+    "Genres": [
+      "Progressive rock",
+      "Art rock",
+      "Progressive pop",
+      "Soft rock"
+    ],
+    "Labels": [
+      "20th Century Records",
+      "Charisma",
+      "Arista"
+    ],
+    "Overview": "The Alan Parsons Project was a London-based studio partnership led by producer/engineer Alan Parsons and songwriter/keyboardist Eric Woolfson. Rather than operating as a fixed touring band, the Project was built around concept-driven albums and a rotating cast of top session players and vocalists—a “producer’s-medium” idea that put recording craft, arrangement, and sonic detail at the center of the music.\n\nAcross eleven studio albums released between 1976 and 1990, the duo blended progressive-rock polish with radio-friendly pop hooks, landing signature tracks like “Eye in the Sky,” “Games People Play,” and the instrumental “Sirius.” Their records are frequently cited for meticulous engineering and layered production, with recurring collaborators helping create a consistent “Project” sound even as the lead singers changed from song to song.",
     "CoreMembers": [
       {
         "Name": "Alan Parsons",
         "Roles": [
-          "producer",
-          "audio engineer",
-          "composer",
-          "musician"
+          "Producer",
+          "Audio engineer",
+          "Co-writer",
+          "Keyboards",
+          "Backing vocals (occasional)"
         ],
         "Years": "1975–1990",
-        "Overview": "",
+        "Overview": "Producer/engineer and co-creator whose studio approach defined the Project’s sound.",
         "Bio": {
           "BioID": "alan-parsons__the-alan-parsons-project",
           "ArtistID": "the-alan-parsons-project",
           "ArtistName": "The Alan Parsons Project",
           "MemberName": "Alan Parsons",
           "Biography": [
-            "Alan Parsons (born 20 December 1948) is an English producer, audio engineer, and musician whose work helped define the sound of classic ‘studio rock’ in the 1970s and 1980s. He built a reputation for clarity, dynamics, and meticulous detail—traits that later became the calling card of the Alan Parsons Project.",
-            "Parsons trained at EMI/Abbey Road Studios and worked on major sessions as an assistant engineer, including late‑era Beatles recordings. He later engineered Pink Floyd’s *The Dark Side of the Moon*, a landmark album whose sonic craft became a touchstone for audiophile rock production.",
-            "In the mid‑1970s, Parsons partnered with songwriter Eric Woolfson to create the Alan Parsons Project: a concept‑album studio venture where Parsons produced and engineered the recordings while a rotating cast of vocalists and players brought each song to life. The Project’s best‑known run includes albums like *I Robot*, *The Turn of a Friendly Card*, and *Eye in the Sky*.",
-            "Beyond the Project, Parsons continued as a producer and artist in his own right, releasing solo albums and later touring with the Alan Parsons Live Project. His career is frequently cited for its technical excellence and for proving that rock records could be both radio‑friendly and sonically ambitious.",
-            "Across decades of work, Parsons has accumulated major industry recognition (including multiple Grammy nominations) and remains influential among producers and engineers for his combination of musical taste and technical discipline."
+            "Alan Parsons (born 20 December 1948) is an English audio engineer, producer, and musician whose early career was shaped inside the Abbey Road Studios ecosystem. He became known for high-profile engineering work in the late 1960s and early 1970s, including projects associated with The Beatles and Pink Floyd.",
+            "In 1975, Parsons co-founded The Alan Parsons Project with songwriter and pianist Eric Woolfson, building a studio-first act that emphasized concept albums, precision engineering, and carefully chosen session musicians. Parsons produced (and often co-wrote instrumentals for) the Project’s catalog, keeping a consistent sonic signature across changing vocalists and lineups.",
+            "After the Project era, Parsons continued recording and performing under his own name, with later live performances typically presented as the Alan Parsons Live Project."
           ],
           "Birth": {
             "Date": "1948-12-20",
-            "City": "Willesden (London)",
-            "Region": "England",
+            "City": "Willesden",
+            "Region": "Middlesex, England",
             "Country": "United Kingdom",
             "Place": "Willesden, Middlesex, England"
           },
@@ -46,51 +57,13 @@
             "City": "",
             "Region": "",
             "Country": "",
-            "Cause": "",
-            "Place": "",
-            "Age": ""
+            "Place": ""
           },
-          "ActiveYears": [
-            "1967–present"
-          ],
-          "AssociatedActs": [
-            "The Alan Parsons Project"
-          ],
-          "KeyAlbums": [
-            {
-              "Title": "I Robot",
-              "Year": 1977,
-              "Notes": "A defining Project album noted for its concept, polish, and progressive-pop balance."
-            },
-            {
-              "Title": "Eye in the Sky",
-              "Year": 1982,
-              "Notes": "A major commercial peak featuring one of the Project’s signature singles."
-            }
-          ],
-          "KeySongs": [
-            "Eye in the Sky",
-            "Games People Play",
-            "Time",
-            "Don’t Answer Me"
-          ],
-          "Achievements": [
-            {
-              "Type": "Grammy nomination",
-              "Year": 1973,
-              "Detail": "Grammy nomination for Best Engineered Album, Non-Classical (Pink Floyd – The Dark Side of the Moon)."
-            },
-            {
-              "Type": "Royal honour (OBE)",
-              "Year": 2021,
-              "Detail": "Appointed Officer of the Order of the British Empire (OBE) for services to music and music production."
-            }
-          ],
-          "ExternalLinks": {
+          "Nationality": "English",
+          "Links": {
             "OfficialSite": "https://alanparsons.com/",
-            "AllMusic": "https://www.allmusic.com/artist/alan-parsons-mn0000031274",
             "Wikipedia": "https://en.wikipedia.org/wiki/Alan_Parsons",
-            "Discogs": "https://www.discogs.com/artist/10881-Alan-Parsons"
+            "GRAMMY": "https://grammy.com/artists/alan-parsons/13857"
           },
           "FullName": "Alan Parsons",
           "PrimaryInstruments": [
@@ -102,27 +75,27 @@
             "Audio engineer",
             "Record producer",
             "Musician",
-            "Composer"
+            "Songwriter"
           ],
           "Genres": [
-            "Progressive rock",
-            "Rock"
+            "Rock",
+            "Progressive rock"
           ],
           "Sources": [
             {
               "Title": "Wikipedia: Alan Parsons",
               "Url": "https://en.wikipedia.org/wiki/Alan_Parsons",
-              "Accessed": "2025-12-31"
+              "Accessed": "2026-01-01"
             },
             {
-              "Title": "Abbey Road Studios: Alan Parsons feature",
-              "Url": "https://www.abbeyroad.com/news/the-genius-of-alan-parsons-as-told-by-abbey-roads-cameron-colbeck-2716",
-              "Accessed": "2025-12-31"
+              "Title": "The Alan Parsons Project (Official): FAQ (roles and contributors)",
+              "Url": "https://www.the-alan-parsons-project.com/faq",
+              "Accessed": "2026-01-01"
             },
             {
-              "Title": "Official site: Alan Parsons",
-              "Url": "https://www.the-alan-parsons-project.com/alan-parsons",
-              "Accessed": "2025-12-31"
+              "Title": "GRAMMY.com: Alan Parsons",
+              "Url": "https://grammy.com/artists/alan-parsons/13857",
+              "Accessed": "2026-01-01"
             }
           ]
         }
@@ -130,76 +103,43 @@
       {
         "Name": "Eric Woolfson",
         "Roles": [
-          "songwriter",
-          "lyricist",
-          "pianist",
-          "vocalist",
-          "executive producer"
+          "Songwriter",
+          "Lyricist",
+          "Keyboards",
+          "Lead vocals (select tracks)",
+          "Manager / business lead"
         ],
         "Years": "1975–1990",
-        "Overview": "",
+        "Overview": "Primary songwriter/lyricist and co-creator; handled much of the writing and the project’s business side.",
         "Bio": {
           "BioID": "eric-woolfson__the-alan-parsons-project",
           "ArtistID": "the-alan-parsons-project",
           "ArtistName": "The Alan Parsons Project",
           "MemberName": "Eric Woolfson",
           "Biography": [
-            "Eric Woolfson (18 March 1945 – 2 December 2009) was a Scottish songwriter, lyricist, vocalist, and keyboardist who co‑created the Alan Parsons Project and served as its conceptual engine. He was central to the band’s thematic approach—building album frameworks, writing lyrics, and shaping melodies that could function as both progressive rock narratives and accessible pop songs.",
-            "In the early 1970s Woolfson worked in London as a songwriter, composer, and session musician. Through Abbey Road Studios he met Alan Parsons in 1974, and the two formed a close working partnership that blended Woolfson’s concept‑building with Parsons’ production and engineering strengths.",
-            "As the Project’s co‑founder, Woolfson shared writing credits on most of the catalog and often recorded guide vocals that helped define how songs would ultimately be sung by the Project’s rotating lead vocalists. He also sang lead or prominent parts on several tracks, giving the discography a recognizable emotional tone alongside the guest singers.",
-            "After the Project era, Woolfson increasingly focused on musical‑theatre work and large‑scale writing projects, continuing to develop the storytelling instincts that had driven the band’s concept albums. His later output includes stage‑oriented works alongside continuing interest in the Project’s musical legacy.",
-            "Woolfson died in London in 2009 after illness, leaving behind a catalog that remains widely listened to for its melodies, themes, and the distinctive partnership he built with Parsons."
+            "Eric Woolfson (18 March 1945 – 2 December 2009) was a Scottish songwriter, pianist, and vocalist who co-created The Alan Parsons Project with Alan Parsons. Woolfson developed the concept-album direction of the Project and, by the group’s official account, wrote the vast majority of its music and all of its lyrics, while also handling management and business responsibilities.",
+            "Across the Project’s run, Woolfson’s writing shaped its blend of progressive-rock structure and pop immediacy—often pairing narrative concepts with strong choruses and distinctive vocal casting. He also sang lead on several of the best-known tracks.",
+            "After the Project period, Woolfson focused increasingly on musical theatre, including stage works that drew on Project-era material."
           ],
           "Birth": {
             "Date": "1945-03-18",
             "City": "Glasgow",
             "Region": "Scotland",
             "Country": "United Kingdom",
-            "Place": "Charing Cross, Glasgow, Scotland"
+            "Place": "Glasgow, Scotland"
           },
           "Death": {
             "Date": "2009-12-02",
             "City": "London",
             "Region": "England",
             "Country": "United Kingdom",
-            "Cause": "Kidney cancer",
-            "Age": 64
+            "Place": "London, England"
           },
-          "ActiveYears": [
-            "1960s–2009"
-          ],
-          "AssociatedActs": [
-            "The Alan Parsons Project"
-          ],
-          "KeyAlbums": [
-            {
-              "Title": "Tales of Mystery and Imagination",
-              "Year": 1976,
-              "Notes": "The Project’s debut concept album, rooted in Edgar Allan Poe themes."
-            },
-            {
-              "Title": "The Turn of a Friendly Card",
-              "Year": 1980,
-              "Notes": "A concept record blending progressive structure with pop-oriented songwriting."
-            }
-          ],
-          "KeySongs": [
-            "Time",
-            "Don’t Answer Me",
-            "Games People Play",
-            "Old and Wise"
-          ],
-          "Achievements": [
-            {
-              "Type": "Co-founder",
-              "Year": 1975,
-              "Detail": "Co-founded The Alan Parsons Project and served as its primary songwriter/lyricist and a lead vocalist on many recordings."
-            }
-          ],
-          "ExternalLinks": {
-            "OfficialSite": "https://www.ericwoolfsonmusic.com/biography",
+          "Nationality": "Scottish",
+          "Links": {
+            "OfficialSite": "https://www.the-alan-parsons-project.com/eric-woolfson",
             "Wikipedia": "https://en.wikipedia.org/wiki/Eric_Woolfson",
-            "Discogs": "https://www.discogs.com/artist/194052-Eric-Woolfson"
+            "EricWoolfsonMusic": "https://www.ericwoolfsonmusic.com/"
           },
           "FullName": "Eric Norman Woolfson",
           "PrimaryInstruments": [
@@ -210,30 +150,29 @@
           "Occupations": [
             "Songwriter",
             "Lyricist",
-            "Vocalist",
-            "Pianist",
-            "Executive producer"
+            "Musician"
           ],
           "Genres": [
             "Progressive rock",
             "Soft rock",
+            "Pop rock",
             "Musical theatre"
           ],
           "Sources": [
             {
+              "Title": "Official: Eric Woolfson (The Alan Parsons Project site)",
+              "Url": "https://www.the-alan-parsons-project.com/eric-woolfson",
+              "Accessed": "2026-01-01"
+            },
+            {
+              "Title": "The Alan Parsons Project (Official): FAQ (roles and contributors)",
+              "Url": "https://www.the-alan-parsons-project.com/faq",
+              "Accessed": "2026-01-01"
+            },
+            {
               "Title": "Wikipedia: Eric Woolfson",
               "Url": "https://en.wikipedia.org/wiki/Eric_Woolfson",
-              "Accessed": "2025-12-31"
-            },
-            {
-              "Title": "Official site: Eric Woolfson biography",
-              "Url": "https://www.ericwoolfsonmusic.com/biography",
-              "Accessed": "2025-12-31"
-            },
-            {
-              "Title": "Wikipedia: The Alan Parsons Project",
-              "Url": "https://en.wikipedia.org/wiki/The_Alan_Parsons_Project",
-              "Accessed": "2025-12-31"
+              "Accessed": "2026-01-01"
             }
           ]
         }
@@ -243,212 +182,334 @@
       {
         "Name": "Ian Bairnson",
         "Roles": [
-          "guitars"
+          "Guitarist",
+          "Backing vocals (occasional)"
         ],
-        "Years": "1975–1990",
+        "Years": "1976–1987",
         "Instruments": [
-          "guitars"
+          "Electric guitar",
+          "Acoustic guitar"
         ],
         "Albums": [
-          "All Alan Parsons Project studio albums (1976–1990)"
+          "Tales of Mystery and Imagination",
+          "I Robot",
+          "Pyramid",
+          "Eve",
+          "The Turn of a Friendly Card",
+          "Eye in the Sky",
+          "Ammonia Avenue",
+          "Vulture Culture",
+          "Stereotomy",
+          "Gaudi"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Ian Bairnson was the Project’s signature guitarist—featured across all of the band’s studio albums and central to the clean, melodic lead sound that fans often associate with the catalog. A former member of Pilot, he first connected with Parsons through the London studio scene and became a go‑to player for both precise rhythm textures and memorable solos (notably on “I Wouldn’t Want to Be Like You”). Outside the Project, Bairnson’s session work was unusually wide‑ranging, including prominent parts on several Kate Bush albums and the iconic solo on “Wuthering Heights.” He remained a trusted collaborator for Parsons beyond the Project era and was widely remembered for taste, tone, and musicality rather than flash."
+        "Overview": "The Project’s most consistent instrumental voice, appearing across every studio album and helping lock in its signature guitar tone. Beyond lead parts, he contributed textural acoustics and occasional backing vocals, making him a de facto “house” player in the Project’s rotating lineup."
       },
       {
         "Name": "David Paton",
         "Roles": [
-          "bass",
-          "vocals"
+          "Bassist",
+          "Vocalist"
         ],
-        "Years": "1975–1985 (regular); later appearances",
+        "Years": "1976–1986",
         "Instruments": [
-          "bass guitar",
-          "vocals"
+          "Bass guitar",
+          "Vocals"
         ],
         "Albums": [
-          "Regular on classic-era albums (1970s–mid 1980s); appeared across much of the catalog"
+          "Tales of Mystery and Imagination",
+          "I Robot",
+          "Pyramid",
+          "Eve",
+          "The Turn of a Friendly Card",
+          "Eye in the Sky",
+          "Ammonia Avenue",
+          "Vulture Culture",
+          "Stereotomy"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "David Paton—best known as a founder of Pilot—provided bass and frequent vocals for the Alan Parsons Project through much of its classic period. His playing helped anchor the Project’s tight, radio‑friendly grooves while still leaving space for layered arrangements, orchestration, and studio detail. Paton’s voice also became part of the Project’s recognizable blend, often used for harmonies and support vocals that complemented the rotating lead singers. Beyond APP, he maintained a long career in British rock and pop as a songwriter, performer, and session musician, and he remained connected to the wider circle of Parsons collaborators over the decades."
+        "Overview": "A key low-end anchor on many Project tracks, with a melodic bass approach that fit the band’s polished studio sound. He also contributed lead and backing vocals on select songs, expanding the Project’s palette beyond its featured guest vocalists."
       },
       {
         "Name": "Stuart Tosh",
         "Roles": [
-          "drums",
-          "percussion"
+          "Drummer"
         ],
-        "Years": "1975–1978",
+        "Years": "1976–1977",
         "Instruments": [
-          "drums",
-          "percussion"
+          "Drums"
         ],
         "Albums": [
-          "Tales of Mystery and Imagination (1976)",
-          "I Robot (1977)"
+          "Tales of Mystery and Imagination",
+          "I Robot"
         ],
         "Replacing": [],
         "ReplacedBy": [
-          "Stuart Elliott (replaced Tosh starting with Pyramid (1978))"
+          "Stuart Elliott"
         ],
-        "Overview": "Stuart Tosh was the drummer on the Project’s earliest sessions and helped establish the crisp, driving feel that powered the first wave of albums. Coming from the same Scottish musician network that included Pilot, Tosh’s style fit the Project’s early mix of rock energy and studio precision, supporting both heavier tracks and more cinematic, arranged material. After leaving the Project’s regular lineup, he continued working at a high professional level with major artists and bands, building a reputation as a reliable, musical drummer in both studio and live settings. His contributions are part of the band’s formative ‘studio‑rats’ era, when the sound was being defined record by record."
+        "Overview": "The drummer on the first two Project albums, helping set the early rhythmic feel before the lineup evolved. His playing anchored the debut’s cinematic concept approach and the more groove-forward material on I Robot."
       },
       {
         "Name": "Stuart Elliott",
         "Roles": [
-          "drums",
-          "percussion"
+          "Drummer",
+          "Percussionist"
         ],
-        "Years": "1978–1990",
+        "Years": "1978–1987",
         "Instruments": [
-          "drums",
-          "percussion"
+          "Drums",
+          "Percussion"
         ],
         "Albums": [
-          "Pyramid (1978) onward (regular drummer)"
+          "Pyramid",
+          "Eve",
+          "The Turn of a Friendly Card",
+          "Eye in the Sky",
+          "Ammonia Avenue",
+          "Vulture Culture",
+          "Stereotomy",
+          "Gaudi"
         ],
         "Replacing": [
           "Stuart Tosh"
         ],
         "ReplacedBy": [],
-        "Overview": "Stuart Elliott became the Project’s primary drummer starting with *Pyramid* and stayed in that role through the band’s long run, giving the catalog a consistent rhythmic identity even as vocalists and textures changed. His playing is marked by strong pocket, controlled dynamics, and a ‘record‑ready’ precision that suited Parsons’ meticulous production style. Elliott also worked widely as a session drummer outside the Project and later remained involved in related collaborations with other APP‑connected musicians. For many listeners, his drumming is one of the subtle constants that ties the Project’s concept albums together—supporting everything from punchy singles to slower, atmospheric tracks without drawing attention away from the arrangement."
+        "Overview": "The Project’s primary drummer through its peak years, bringing a tight, radio-ready feel to both rockers and softer material. His consistency across multiple albums helped the “Project” sound stay cohesive even as vocalists and arrangements changed."
       },
       {
-        "Name": "Billy Lyall",
+        "Name": "Chris Rainbow",
         "Roles": [
-          "keyboards"
+          "Vocalist",
+          "Backing vocalist"
         ],
-        "Years": "mid-1970s (contributor)",
+        "Years": "1979–1987",
         "Instruments": [
-          "keyboards"
+          "Vocals"
         ],
         "Albums": [
-          "Early Project sessions (contributor)"
+          "Eve",
+          "The Turn of a Friendly Card",
+          "Eye in the Sky",
+          "Ammonia Avenue",
+          "Vulture Culture",
+          "Stereotomy",
+          "Gaudi"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Billy Lyall was a Scottish keyboardist and vocalist best known for his work with Pilot and for appearing within the broader circle of musicians who fed into the Alan Parsons Project. His contributions helped reinforce the Project’s studio‑ensemble approach: different players were brought in as needed, but certain names returned often enough to feel like part of the ‘family’ sound. Lyall’s background in harmony‑rich pop and polished studio recording fit naturally with Parsons and Woolfson’s emphasis on clarity, layered parts, and tight performances. While not as publicly visible as the duo at the center, his presence reflects how the Project relied on seasoned multi‑instrumentalists to realize ambitious arrangements efficiently."
+        "Overview": "A frequent lead and backing vocalist whose harmonies became a recognizable part of the Project’s sheen. He handled lead on multiple tracks and contributed dense backing stacks that reinforced the Project’s polished, studio-constructed identity."
+      },
+      {
+        "Name": "Lenny Zakatek",
+        "Roles": [
+          "Vocalist"
+        ],
+        "Years": "1977–1987",
+        "Instruments": [
+          "Vocals"
+        ],
+        "Albums": [
+          "I Robot",
+          "Pyramid",
+          "Eve",
+          "The Turn of a Friendly Card",
+          "Eye in the Sky",
+          "Ammonia Avenue",
+          "Vulture Culture",
+          "Gaudi"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "One of the Project’s most recognizable rock-pop voices, singing lead on several upbeat tracks including major singles. His punchy delivery helped translate the duo’s concept-album approach into radio-friendly hooks without losing the Project’s studio sophistication."
+      },
+      {
+        "Name": "Colin Blunstone",
+        "Roles": [
+          "Vocalist"
+        ],
+        "Years": "1978–1985",
+        "Instruments": [
+          "Vocals"
+        ],
+        "Albums": [
+          "Pyramid",
+          "Eye in the Sky",
+          "Ammonia Avenue",
+          "Vulture Culture"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "A recurring guest vocalist whose warm, distinctive tone suited the Project’s reflective ballads and mid-tempo tracks. He sang lead on several fan favorites, including “Old and Wise,” adding an instantly identifiable character to the Project’s rotating vocal lineup."
       },
       {
         "Name": "Andrew Powell",
         "Roles": [
-          "orchestral arrangements",
-          "composition"
+          "Orchestral/choral arranger",
+          "Conductor"
         ],
-        "Years": "1976–1987 (regular arranger)",
-        "Instruments": [
-          "orchestral arrangements",
-          "composition"
-        ],
+        "Years": "1976–1987",
+        "Instruments": [],
         "Albums": [
-          "All studio albums except Vulture Culture (1985) — orchestra/choir arrangements"
+          "Tales of Mystery and Imagination",
+          "I Robot",
+          "Pyramid",
+          "Eve",
+          "The Turn of a Friendly Card",
+          "Eye in the Sky",
+          "Ammonia Avenue",
+          "Stereotomy",
+          "Gaudi"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Andrew Powell served as the Project’s key arranger and musical architect on the orchestral side, translating Woolfson and Parsons’ conceptual sketches into cinematic textures. His orchestrations and conducting helped the band bridge progressive rock, pop, and classical color—an especially important ingredient on albums where choir and orchestra were integral to the mood. Powell’s role also extended to keyboard and composition contributions, making him one of the most influential recurring collaborators beyond the official duo. In practical terms, he helped make the Project’s ‘big ideas’ sound expensive and coherent: sweeping strings, dramatic crescendos, and carefully voiced ensemble parts that sit cleanly inside Parsons’ detailed mixes."
+        "Overview": "The Project’s principal orchestral and choral architect, shaping the cinematic dimension of its arrangements. His work helped the Project move fluidly between rock instrumentation and sweeping orchestral textures, reinforcing the “concept album” feel."
       },
       {
-        "Name": "Richard Cottle",
+        "Name": "John Miles",
         "Roles": [
-          "synthesizers",
-          "keyboards",
-          "saxophone"
+          "Vocalist"
         ],
-        "Years": "1985–1990 (regular contributor)",
+        "Years": "1976–1987",
         "Instruments": [
-          "synthesizers",
-          "keyboards",
-          "saxophone"
+          "Vocals"
         ],
         "Albums": [
-          "Vulture Culture (1985) and later studio albums — regular contributor"
+          "Tales of Mystery and Imagination",
+          "Pyramid",
+          "Stereotomy",
+          "Gaudi"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Richard “Trix” Cottle joined the Project in the mid‑1980s as a dedicated synthesizer and keyboard specialist and became increasingly important as the band leaned into more digital production and programmed textures. A versatile session musician who also played saxophone, Cottle helped modernize the Project’s palette on later albums, supporting sequenced rhythms, layered synth pads, and brighter contemporary tones without losing the band’s polished identity. His work exemplifies the Project’s studio‑first method: bring in the right specialist to execute demanding parts quickly and cleanly, then integrate them into a mix built for impact and clarity. Cottle later maintained a wide session career beyond the Project."
+        "Overview": "A notable guest vocalist who appeared across multiple eras of the Project’s catalog. His dramatic rock voice fit the Project’s theatrical storytelling tracks, especially on albums that leaned into bigger, more anthemic arrangements."
+      },
+      {
+        "Name": "Jack Harris",
+        "Roles": [
+          "Vocalist",
+          "Backing vocalist"
+        ],
+        "Years": "1976–1978",
+        "Instruments": [
+          "Vocals"
+        ],
+        "Albums": [
+          "Tales of Mystery and Imagination",
+          "I Robot",
+          "Pyramid"
+        ],
+        "Replacing": [],
+        "ReplacedBy": [],
+        "Overview": "An early-era contributor who handled lead and backing vocals on several tracks. His appearances helped establish the Project’s practice of casting voices to suit each song rather than relying on a single frontman."
       }
     ],
-    "Genres": [
-      "progressive rock",
-      "art rock",
-      "progressive pop",
-      "soft rock"
-    ],
-    "Labels": [
-      "20th Century Records",
-      "Charisma",
-      "Arista"
-    ],
-    "Overview": "The Alan Parsons Project were a London‑based studio duo built around producer/engineer Alan Parsons and songwriter/keyboardist Eric Woolfson. Formed in 1975, they specialized in concept‑driven albums that merged progressive rock, pop hooks, orchestral color, and meticulous, hi‑fi production, with different lead vocalists and session players brought in to match each song’s character. Their records often revolve around big thematic frames—Edgar Allan Poe, science and technology, gambling and fate, surveillance and perception—while still delivering radio‑ready melodies.\n\nAcross eleven studio albums (1976–1990), the Project scored international success with albums like *I Robot*, *The Turn of a Friendly Card*, and *Eye in the Sky*, and songs such as “Eye in the Sky,” “Sirius,” “Games People Play,” and “Time.” The ‘Project’ model—officially a duo with a recurring core of musicians—became part of the appeal: familiar sonic fingerprints (guitars, drums, orchestration, layered vocals) were combined with rotating voices.\n\nAlthough the band concluded its run in 1990, the catalog has remained a reference point for audiophile production and polished studio rock. Parsons continued with solo releases and touring under his own name, while Woolfson pursued writing and musical‑theatre projects until his death in 2009.",
     "NotableAlbums": [
       {
         "Title": "Tales of Mystery and Imagination",
         "Year": 1976,
-        "Notes": "Debut concept album inspired by Edgar Allan Poe; introduced the Project’s studio‑ensemble model."
+        "Notes": "Debut concept album inspired by Edgar Allan Poe; established the Project’s cinematic, studio-forward approach."
       },
       {
         "Title": "I Robot",
         "Year": 1977,
-        "Notes": "Breakthrough concept record themed around technology and humanity; a signature title in their catalog."
+        "Notes": "A sci‑fi themed album that helped push the Project into broader rock audiences with sleek production and strong hooks."
       },
       {
         "Title": "Pyramid",
         "Year": 1978,
-        "Notes": "Album‑rock staple noted for spacious production and recurring instrumental motifs."
+        "Notes": "A darker, more atmospheric concept record that continued the Project’s blend of prog structure and pop melody."
+      },
+      {
+        "Title": "Eve",
+        "Year": 1979,
+        "Notes": "A concept-leaning set that sharpened the Project’s pop craft while keeping its layered studio textures."
       },
       {
         "Title": "The Turn of a Friendly Card",
         "Year": 1980,
-        "Notes": "Concept album built around gambling and fate; includes enduring live and radio favorites."
+        "Notes": "A gambling-themed suite with one of the Project’s strongest narrative arcs and a major radio breakthrough single."
       },
       {
         "Title": "Eye in the Sky",
         "Year": 1982,
-        "Notes": "Their biggest commercial era; features “Sirius” and “Eye in the Sky,” showcasing polished pop‑prog craft."
+        "Notes": "Their biggest mainstream-era release, pairing the instrumental “Sirius” with the hit “Eye in the Sky” and polished studio pop-rock."
       },
       {
         "Title": "Ammonia Avenue",
         "Year": 1984,
-        "Notes": "A sleek mid‑80s entry balancing softer songs and punchier rock tracks within a refined studio sound."
+        "Notes": "A sleek, mid‑’80s refinement of the Project sound featuring multiple lead vocalists and densely arranged choruses."
+      },
+      {
+        "Title": "Vulture Culture",
+        "Year": 1985,
+        "Notes": "A more contemporary, groove-oriented album that leaned toward punchier pop-rock production."
       },
       {
         "Title": "Stereotomy",
         "Year": 1985,
-        "Notes": "A more digital, synth‑forward production that pushed the Project’s modernized mid‑80s palette."
+        "Notes": "A late‑era concept album focused on modern image and ambition, with crisp, high-impact studio sonics."
       },
       {
         "Title": "Gaudi",
         "Year": 1987,
-        "Notes": "Late‑era concept album inspired by Antoni Gaudí; blends orchestration with a contemporary 80s sheen."
+        "Notes": "A final Project-era concept release inspired by architect Antoni Gaudí; it closed the studio-album run before the partnership ended."
       }
     ],
     "SignatureSongs": [
-      "Eye in the Sky",
-      "Sirius",
-      "Games People Play",
-      "Time",
-      "Don't Answer Me",
-      "I Wouldn't Want to Be Like You",
-      "Lucifer"
+      {
+        "Title": "Eye in the Sky",
+        "Year": 1982,
+        "Notes": "A defining hit single that captured the Project’s mix of pop immediacy and meticulous studio production."
+      },
+      {
+        "Title": "Sirius",
+        "Year": 1982,
+        "Notes": "A short instrumental that became widely used for sports introductions, famously associated with the Chicago Bulls."
+      },
+      {
+        "Title": "Games People Play",
+        "Year": 1980,
+        "Notes": "A breakthrough single with an upbeat groove and prominent lead vocals, often cited among the Project’s biggest radio moments."
+      },
+      {
+        "Title": "Time",
+        "Year": 1980,
+        "Notes": "A reflective, melodic single that highlights the Project’s softer side and layered harmony work."
+      },
+      {
+        "Title": "Don't Answer Me",
+        "Year": 1984,
+        "Notes": "A late-era U.S. hit that leaned into classic-pop songwriting wrapped in modern studio polish."
+      },
+      {
+        "Title": "Old and Wise",
+        "Year": 1982,
+        "Notes": "A signature ballad led by Colin Blunstone’s vocal, frequently singled out as one of the Project’s most enduring songs."
+      }
     ],
     "Achievements": [
       {
         "Type": "Grammy nomination",
-        "Year": "1983",
-        "Detail": "Eye in the Sky was nominated for the Grammy Award for Best Engineered Recording, Non-Classical (25th Annual Grammy Awards)."
+        "Year": 1983,
+        "Detail": "Eye in the Sky was nominated at the 25th Annual Grammy Awards for Best Engineered Recording / Best Engineered Album, reflecting the Project’s reputation for studio craft."
       },
       {
         "Type": "Grammy win (immersive audio)",
-        "Year": "2019",
-        "Detail": "Eye in the Sky (35th Anniversary Edition) won the Grammy Award for Best Immersive Audio Album (61st Annual Grammy Awards)."
+        "Year": 2019,
+        "Detail": "Eye in the Sky – 35th Anniversary Edition won Best Immersive Audio Album at the 61st Annual Grammy Awards (credited to Alan Parsons and the surround mastering team)."
+      },
+      {
+        "Type": "Cultural footprint (sports anthem)",
+        "Year": 1984,
+        "Detail": "“Sirius” became a staple arena-introduction track in North American sports, with long-running use tied to the Chicago Bulls and subsequent adoption by many other teams."
       }
     ],
     "KeyFacts": [
-      "Official members were Alan Parsons and Eric Woolfson; recordings featured rotating vocalists and session musicians.",
-      "Formed in London in 1975; released eleven studio albums from 1976 to 1990.",
-      "Known for concept-album themes and meticulous, hi-fi studio production."
+      "Official membership consisted of Alan Parsons and Eric Woolfson; recordings featured rotating vocalists and session musicians chosen per song and album.",
+      "The Project never toured in its original era; it was designed as a studio-first act centered on production and concept albums.",
+      "Its best-known mainstream run spans the late 1970s through the mid‑1980s, anchored by albums like I Robot, The Turn of a Friendly Card, and Eye in the Sky."
     ],
     "ExternalLinks": {
       "OfficialSite": "https://www.the-alan-parsons-project.com/",
@@ -460,187 +521,187 @@
   {
     "ArtistID": "the-beatles",
     "Name": "The Beatles",
-    "Type": "Band",
+    "Type": "",
     "Origin": {
-      "City": "Liverpool",
-      "Region": "England",
-      "Country": "United Kingdom"
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
     "YearsActive": [
-      "1960–1970"
+      ""
     ],
     "CoreMembers": [
       {
-        "Name": "John Lennon",
+        "Name": "",
         "Roles": [
-          "vocals",
-          "guitar",
-          "songwriting"
+          "",
+          "",
+          ""
         ],
-        "Years": "1960–1970",
-        "Overview": "Co‑founder, primary vocalist and guitarist whose songwriting with Paul McCartney defined much of the band’s voice; later a major solo artist and activist.",
+        "Years": "",
+        "Overview": "",
         "Bio": {
-          "BioID": "john-lennon__the-beatles",
-          "ArtistID": "the-beatles",
-          "ArtistName": "The Beatles",
-          "MemberName": "John Lennon",
+          "BioID": "",
+          "ArtistID": "",
+          "ArtistName": "",
+          "MemberName": "",
           "Biography": [
-            "John Lennon (1940–1980) was an English singer, songwriter, and guitarist whose partnership with Paul McCartney powered the Beatles’ most celebrated work. Raised in Liverpool, he developed an early love of American rock and roll and skiffle, forming the Quarrymen in the late 1950s—an early step toward what became the Beatles.",
-            "Within the Beatles, Lennon balanced biting humor with emotional directness, moving from early rockers and ballads to increasingly personal and experimental writing as the 1960s progressed. His voice and rhythmic guitar anchored the band’s sound, while his curiosity pushed the group toward new lyrical and studio territory.",
-            "By the mid-to-late 1960s Lennon’s life and art became closely intertwined with his relationship with Yoko Ono, and the pair’s avant‑garde projects and public activism made him a prominent cultural figure beyond music. He also played a central role in the band’s shifting identity after touring ended and studio work intensified.",
-            "Following the Beatles’ breakup, Lennon pursued a solo career that ranged from intimate confessionals to politically charged work, maintaining a distinctive mix of blunt honesty and melodic craft. His songs from this era broadened his reputation as both an artist and a public voice.",
-            "Lennon was killed in New York City in December 1980. His legacy endures through his Beatles catalog, influential solo recordings, and the enduring model of a songwriting partnership that shaped modern popular music."
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Birth": {
-            "Date": "1940-10-09",
-            "City": "Liverpool",
-            "Region": "England",
-            "Country": "United Kingdom",
-            "Place": "Liverpool, England",
-            "Notes": "Born in Liverpool; rose to prominence as a co-founder of The Beatles."
+            "Date": "",
+            "City": "",
+            "Region": "",
+            "Country": "",
+            "Place": "",
+            "Notes": ""
           },
           "Death": {
-            "Date": "1980-12-08",
-            "City": "New York City",
-            "Region": "New York",
-            "Country": "United States",
-            "Cause": "Gunshot wounds (assassinated)",
-            "Place": "New York City, New York, U.S.",
-            "Age": 40
+            "Date": "",
+            "City": "",
+            "Region": "",
+            "Country": "",
+            "Cause": "",
+            "Place": "",
+            "Age": 0
           },
           "ActiveYears": [
-            "1956–1980"
+            ""
           ],
           "AssociatedActs": [
-            "The Quarrymen",
-            "The Beatles",
-            "Plastic Ono Band",
-            "The Dirty Mac"
+            "",
+            "",
+            "",
+            ""
           ],
           "KeyAlbums": [
             {
-              "Title": "John Lennon/Plastic Ono Band",
-              "Year": 1970,
-              "Notes": "A stark, influential solo statement rooted in confession and minimalism."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             },
             {
-              "Title": "Imagine",
-              "Year": 1971,
-              "Notes": "His best-known solo album, balancing political edge with pop accessibility."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             },
             {
-              "Title": "Double Fantasy",
-              "Year": 1980,
-              "Notes": "A late-career collaboration/parallel statement with Yoko Ono, released shortly before his death."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             }
           ],
           "KeySongs": [
-            "Imagine",
-            "Instant Karma!",
-            "Working Class Hero",
-            "Give Peace a Chance",
-            "#9 Dream"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Achievements": [
             {
-              "Type": "Rock & Roll Hall of Fame (The Beatles)",
-              "Year": 1988,
-              "Detail": "Inducted with The Beatles (Category: Performer)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Royal honour (MBE)",
-              "Year": 1965,
-              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Rock & Roll Hall of Fame (solo)",
-              "Year": 1994,
-              "Detail": "Inducted as a solo performer (Category: Performer)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             }
           ],
           "ExternalLinks": {
-            "OfficialSite": "https://www.johnlennon.com/",
-            "AllMusic": "https://www.allmusic.com/artist/john-lennon-mn0000232564",
-            "RockHall": "https://rockhall.com/inductees/john-lennon/",
-            "Wikipedia": "https://en.wikipedia.org/wiki/John_Lennon",
-            "Discogs": "https://www.discogs.com/artist/46439-John-Lennon"
+            "OfficialSite": "",
+            "AllMusic": "",
+            "RockHall": "",
+            "Wikipedia": "",
+            "Discogs": ""
           },
-          "FullName": "John Winston Ono Lennon",
+          "FullName": "",
           "PrimaryInstruments": [
-            "Vocals",
-            "Guitar",
-            "Keyboards",
-            "Harmonica"
+            "",
+            "",
+            "",
+            ""
           ],
           "Occupations": [
-            "Singer",
-            "Songwriter",
-            "Musician",
-            "Artist",
-            "Author",
-            "Peace activist"
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Genres": [
-            "Rock",
-            "Pop",
-            "Experimental"
+            "",
+            "",
+            ""
           ],
           "Sources": [
             {
-              "Title": "Britannica: John Lennon",
-              "Url": "https://www.britannica.com/biography/John-Lennon",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: John Lennon",
-              "Url": "https://rockhall.com/inductees/john-lennon/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Wikipedia: John Lennon (cause of death, instruments)",
-              "Url": "https://en.wikipedia.org/wiki/John_Lennon",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: The Beatles",
-              "Url": "https://rockhall.com/inductees/beatles/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Time: Ringo Starr knighthood (MBE mention)",
-              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Paul McCartney",
+        "Name": "",
         "Roles": [
-          "vocals",
-          "bass",
-          "songwriting"
+          "",
+          "",
+          ""
         ],
-        "Years": "1960–1970",
-        "Overview": "Co‑founder, primary vocalist and multi‑instrumentalist whose melodic songwriting and bass style were central to the band; later led Wings and sustained a major solo career.",
+        "Years": "",
+        "Overview": "",
         "Bio": {
-          "BioID": "paul-mccartney__the-beatles",
-          "ArtistID": "the-beatles",
-          "ArtistName": "The Beatles",
-          "MemberName": "Paul McCartney",
+          "BioID": "",
+          "ArtistID": "",
+          "ArtistName": "",
+          "MemberName": "",
           "Biography": [
-            "Paul McCartney (born 1942) is an English singer, songwriter, bassist, and multi‑instrumentalist whose melodic sensibility and studio versatility were crucial to the Beatles. Growing up in Liverpool, he joined John Lennon’s group in the late 1950s and soon formed one of popular music’s defining songwriting partnerships.",
-            "As the Beatles evolved, McCartney contributed a wide range of styles—from tight early pop to ornate studio compositions—while also helping shape arrangements and recording approaches. His bass lines became increasingly prominent and inventive, and he often steered projects with a strong sense of structure and finish.",
-            "In the late 1960s, as tensions rose, McCartney frequently acted as a driver of productivity, pushing the band toward completed recordings even as their personal and business relationships frayed. His interest in orchestration, concept framing, and studio detail left a lasting mark on the group’s later work.",
-            "After the Beatles ended, McCartney built a major post‑Beatles career, notably forming Wings and sustaining decades of solo success. His work spans rock, pop, classical and experimental collaborations, reflecting the breadth that was already evident within the Beatles.",
-            "McCartney remains one of the most decorated and commercially successful songwriters in modern music, and his Beatles-era output continues to define the benchmark for pop craftsmanship and melodic invention."
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Birth": {
-            "Date": "1942-06-18",
-            "City": "Liverpool",
-            "Region": "England",
-            "Country": "United Kingdom",
-            "Place": "Liverpool, England"
+            "Date": "",
+            "City": "",
+            "Region": "",
+            "Country": "",
+            "Place": ""
           },
           "Death": {
             "Date": "",
@@ -652,280 +713,280 @@
             "Age": ""
           },
           "ActiveYears": [
-            "1957–present"
+            ""
           ],
           "AssociatedActs": [
-            "The Quarrymen",
-            "The Beatles",
-            "Wings",
-            "The Fireman"
+            "",
+            "",
+            "",
+            ""
           ],
           "KeyAlbums": [
             {
-              "Title": "Band on the Run",
-              "Year": 1973,
-              "Notes": "A defining Wings album and a cornerstone of his post-Beatles catalog."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             },
             {
-              "Title": "Ram",
-              "Year": 1971,
-              "Notes": "A home‑studio‑leaning solo statement later hailed for its inventive pop craft."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             },
             {
-              "Title": "McCartney",
-              "Year": 1970,
-              "Notes": "A self-contained early solo record that set the template for DIY pop-rock."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             }
           ],
           "KeySongs": [
-            "Maybe I’m Amazed",
-            "Live and Let Die",
-            "Band on the Run",
-            "Let It Be",
-            "Hey Jude"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Achievements": [
             {
-              "Type": "Rock & Roll Hall of Fame (The Beatles)",
-              "Year": 1988,
-              "Detail": "Inducted with The Beatles (Category: Performer)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Royal honour (MBE)",
-              "Year": 1965,
-              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Rock & Roll Hall of Fame (solo)",
-              "Year": 1999,
-              "Detail": "Inducted as a solo performer (Category: Performer)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Royal honour (Knighthood)",
-              "Year": 1997,
-              "Detail": "Knighted for services to music."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             }
           ],
           "ExternalLinks": {
-            "OfficialSite": "https://www.paulmccartney.com/",
-            "AllMusic": "https://www.allmusic.com/artist/paul-mccartney-mn0000029884",
-            "RockHall": "https://rockhall.com/inductees/paul-mccartney/",
-            "Wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney",
-            "Discogs": "https://www.discogs.com/artist/35301-Paul-McCartney"
+            "OfficialSite": "",
+            "AllMusic": "",
+            "RockHall": "",
+            "Wikipedia": "",
+            "Discogs": ""
           },
-          "FullName": "Sir James Paul McCartney",
+          "FullName": "",
           "PrimaryInstruments": [
-            "Bass",
-            "Vocals",
-            "Guitar",
-            "Keyboards"
+            "",
+            "",
+            "",
+            ""
           ],
           "Occupations": [
-            "Singer",
-            "Songwriter",
-            "Composer",
-            "Musician"
+            "",
+            "",
+            "",
+            ""
           ],
           "Genres": [
-            "Rock",
-            "Pop"
+            "",
+            ""
           ],
           "Sources": [
             {
-              "Title": "Britannica: Paul McCartney",
-              "Url": "https://www.britannica.com/biography/Paul-McCartney",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: Paul McCartney",
-              "Url": "https://rockhall.com/inductees/paul-mccartney/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "History.com: Paul McCartney knighted (1997)",
-              "Url": "https://www.history.com/this-day-in-history/march-11/paul-mccartney-knighted",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: The Beatles",
-              "Url": "https://rockhall.com/inductees/beatles/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Time: Ringo Starr knighthood (MBE mention)",
-              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "George Harrison",
+        "Name": "",
         "Roles": [
-          "guitar",
-          "vocals",
-          "songwriting"
+          "",
+          "",
+          ""
         ],
-        "Years": "1960–1970",
-        "Overview": "Lead guitarist whose distinctive phrasing and evolving songwriting expanded the band’s sound; later acclaimed for All Things Must Pass and extensive charity work.",
+        "Years": "",
+        "Overview": "",
         "Bio": {
-          "BioID": "george-harrison__the-beatles",
-          "ArtistID": "the-beatles",
-          "ArtistName": "The Beatles",
-          "MemberName": "George Harrison",
+          "BioID": "",
+          "ArtistID": "",
+          "ArtistName": "",
+          "MemberName": "",
           "Biography": [
-            "George Harrison (1943–2001) was an English guitarist and songwriter whose playing and compositional growth helped expand the Beatles beyond early pop conventions. Joining the group as a teenager, he became known for precise lead work, memorable riffing, and an evolving interest in new sounds and musical traditions.",
-            "Across the band’s middle and later years, Harrison developed into a major writer, contributing songs that added emotional depth and a distinctive perspective alongside Lennon and McCartney. His curiosity for instrumentation and texture—ranging from sharp rock guitar to more layered studio colors—became part of the Beatles’ expanding palette.",
-            "Harrison’s spiritual interests and engagement with Indian music shaped some of the band’s most recognizable sonic signatures of the era, while also influencing broader Western pop trends. As the 1960s progressed, his work increasingly reflected a personal voice and mature songwriting craft.",
-            "After the Beatles, Harrison released the acclaimed triple album All Things Must Pass and remained an active recording artist. He also became known for major philanthropic efforts, including the Concert for Bangladesh, which helped establish the model for large‑scale benefit concerts.",
-            "Harrison’s legacy rests on his distinctive guitar style, his late‑era Beatles songwriting, and a solo career that affirmed him as far more than a supporting figure within the band’s early narrative."
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Birth": {
-            "Date": "1943-02-25",
-            "City": "Liverpool",
-            "Region": "England",
-            "Country": "United Kingdom",
-            "Place": "Liverpool, England"
+            "Date": "",
+            "City": "",
+            "Region": "",
+            "Country": "",
+            "Place": ""
           },
           "Death": {
-            "Date": "2001-11-29",
-            "City": "Los Angeles",
-            "Region": "California",
-            "Country": "United States",
-            "Cause": "Cancer",
-            "Age": 58
+            "Date": "",
+            "City": "",
+            "Region": "",
+            "Country": "",
+            "Cause": "",
+            "Age": 0
           },
           "ActiveYears": [
-            "1958–2001"
+            ""
           ],
           "AssociatedActs": [
-            "The Quarrymen",
-            "The Beatles",
-            "Traveling Wilburys",
-            "Plastic Ono Band"
+            "",
+            "",
+            "",
+            ""
           ],
           "KeyAlbums": [
             {
-              "Title": "All Things Must Pass",
-              "Year": 1970,
-              "Notes": "A landmark triple-album widely regarded as a peak post‑Beatles solo statement."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             },
             {
-              "Title": "Living in the Material World",
-              "Year": 1973,
-              "Notes": "A major follow-up blending introspection with spiritual themes."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             },
             {
-              "Title": "Cloud Nine",
-              "Year": 1987,
-              "Notes": "A late-career resurgence featuring polished pop-rock and renewed visibility."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             }
           ],
           "KeySongs": [
-            "My Sweet Lord",
-            "What Is Life",
-            "Here Comes the Sun",
-            "While My Guitar Gently Weeps",
-            "Give Me Love (Give Me Peace on Earth)"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Achievements": [
             {
-              "Type": "Rock & Roll Hall of Fame (The Beatles)",
-              "Year": 1988,
-              "Detail": "Inducted with The Beatles (Category: Performer)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Royal honour (MBE)",
-              "Year": 1965,
-              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Rock & Roll Hall of Fame (solo)",
-              "Year": 2004,
-              "Detail": "Inducted posthumously as a solo performer (Category: Performer)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             }
           ],
           "ExternalLinks": {
-            "OfficialSite": "https://www.georgeharrison.com/",
-            "AllMusic": "https://www.allmusic.com/artist/george-harrison-mn0000209142",
-            "RockHall": "https://rockhall.com/inductees/george-harrison/",
-            "Wikipedia": "https://en.wikipedia.org/wiki/George_Harrison",
-            "Discogs": "https://www.discogs.com/artist/35323-George-Harrison"
+            "OfficialSite": "",
+            "AllMusic": "",
+            "RockHall": "",
+            "Wikipedia": "",
+            "Discogs": ""
           },
-          "FullName": "George Harrison",
+          "FullName": "",
           "PrimaryInstruments": [
-            "Guitar",
-            "Vocals",
-            "Sitar",
-            "Keyboards",
-            "Ukulele"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Occupations": [
-            "Musician",
-            "Singer",
-            "Songwriter",
-            "Producer"
+            "",
+            "",
+            "",
+            ""
           ],
           "Genres": [
-            "Rock",
-            "Pop",
-            "Indian classical"
+            "",
+            "",
+            ""
           ],
           "Sources": [
             {
-              "Title": "Britannica: George Harrison",
-              "Url": "https://www.britannica.com/biography/George-Harrison-British-musician",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: George Harrison",
-              "Url": "https://rockhall.com/inductees/george-harrison/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Wikipedia: George Harrison (death details)",
-              "Url": "https://en.wikipedia.org/wiki/George_Harrison",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: The Beatles",
-              "Url": "https://rockhall.com/inductees/beatles/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Time: Ringo Starr knighthood (MBE mention)",
-              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Ringo Starr",
+        "Name": "",
         "Roles": [
-          "drums",
-          "vocals"
+          "",
+          ""
         ],
-        "Years": "1962–1970",
-        "Overview": "Drummer whose feel and musicality shaped the group’s rhythm and arrangements; later a successful solo artist and leader of the All Starr Band.",
+        "Years": "",
+        "Overview": "",
         "Bio": {
-          "BioID": "ringo-starr__the-beatles",
-          "ArtistID": "the-beatles",
-          "ArtistName": "The Beatles",
-          "MemberName": "Ringo Starr",
+          "BioID": "",
+          "ArtistID": "",
+          "ArtistName": "",
+          "MemberName": "",
           "Biography": [
-            "Ringo Starr (born 1940) is an English drummer and singer whose feel, timing, and musical restraint were central to the Beatles’ rhythm section. Joining in 1962, he completed the classic lineup and quickly became integral to the band’s sound and onstage identity.",
-            "Starr’s drumming emphasized song-first choices—creative fills, steady groove, and an ear for arrangement—helping define many of the Beatles’ most famous recordings. His approachable persona also made him a key part of the group’s public appeal during the height of Beatlemania.",
-            "As the Beatles’ music grew more adventurous, Starr adapted fluidly, supporting rapid stylistic shifts while maintaining a consistent internal pulse. His vocal turns, often lighter in tone, provided contrast within albums dominated by the Lennon–McCartney partnership.",
-            "After the breakup, Starr enjoyed notable solo success and developed a long-running performance project, the All Starr Band, which highlights collaborative musicianship and classic rock repertoire. He has remained closely identified with the Beatles’ legacy while maintaining an active public and musical life.",
-            "Starr’s enduring reputation reflects not only his iconic role in the world’s most influential band, but also the often-underappreciated artistry of a drummer whose parts became inseparable from the songs themselves."
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Birth": {
-            "Date": "1940-07-07",
-            "City": "Liverpool",
-            "Region": "England",
-            "Country": "United Kingdom",
-            "Place": "Liverpool, Merseyside, England"
+            "Date": "",
+            "City": "",
+            "Region": "",
+            "Country": "",
+            "Place": ""
           },
           "Death": {
             "Date": "",
@@ -937,97 +998,97 @@
             "Age": ""
           },
           "ActiveYears": [
-            "1957–present"
+            ""
           ],
           "AssociatedActs": [
-            "Rory Storm & the Hurricanes",
-            "The Beatles",
-            "Plastic Ono Band",
-            "Ringo Starr & His All-Starr Band"
+            "",
+            "",
+            "",
+            ""
           ],
           "KeyAlbums": [
             {
-              "Title": "Ringo",
-              "Year": 1973,
-              "Notes": "A standout solo release featuring strong songwriting support and wide recognition."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             },
             {
-              "Title": "Goodnight Vienna",
-              "Year": 1974,
-              "Notes": "A major mid‑70s follow‑up from his most commercially visible solo period."
+              "Title": "",
+              "Year": 0,
+              "Notes": ""
             }
           ],
           "KeySongs": [
-            "It Don’t Come Easy",
-            "Photograph",
-            "Back Off Boogaloo",
-            "You’re Sixteen",
-            "Octopus’s Garden"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Achievements": [
             {
-              "Type": "Rock & Roll Hall of Fame (The Beatles)",
-              "Year": 1988,
-              "Detail": "Inducted with The Beatles (Category: Performer)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Royal honour (MBE)",
-              "Year": 1965,
-              "Detail": "Appointed Members of the Order of the British Empire (MBE) with The Beatles."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Rock & Roll Hall of Fame (solo)",
-              "Year": 2015,
-              "Detail": "Inducted (Category: Musical Excellence)."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             },
             {
-              "Type": "Royal honour (Knighthood)",
-              "Year": 2018,
-              "Detail": "Knighted for services to music."
+              "Type": "",
+              "Year": 0,
+              "Detail": ""
             }
           ],
           "ExternalLinks": {
-            "OfficialSite": "https://www.ringostarr.com/",
-            "AllMusic": "https://www.allmusic.com/artist/ringo-starr-mn0000217792",
-            "RockHall": "https://rockhall.com/inductees/ringo-starr/",
-            "Wikipedia": "https://en.wikipedia.org/wiki/Ringo_Starr",
-            "Discogs": "https://www.discogs.com/artist/257527-Ringo-Starr"
+            "OfficialSite": "",
+            "AllMusic": "",
+            "RockHall": "",
+            "Wikipedia": "",
+            "Discogs": ""
           },
-          "FullName": "Sir Richard Starkey",
+          "FullName": "",
           "PrimaryInstruments": [
-            "Drums",
-            "Vocals"
+            "",
+            ""
           ],
           "Occupations": [
-            "Musician",
-            "Singer",
-            "Songwriter",
-            "Actor"
+            "",
+            "",
+            "",
+            ""
           ],
           "Genres": [
-            "Rock",
-            "Pop"
+            "",
+            ""
           ],
           "Sources": [
             {
-              "Title": "Britannica: Ringo Starr",
-              "Url": "https://www.britannica.com/biography/Ringo-Starr",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: Ringo Starr",
-              "Url": "https://rockhall.com/inductees/ringo-starr/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: The Beatles",
-              "Url": "https://rockhall.com/inductees/beatles/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Time: Ringo Starr knighthood (2018)",
-              "Url": "https://time.com/5207582/ringo-starr-knighthood/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
@@ -1035,398 +1096,398 @@
     ],
     "NonCoreMembers": [
       {
-        "Name": "Pete Best",
+        "Name": "",
         "Roles": [
-          "drums"
+          ""
         ],
-        "Years": "1960–1962",
+        "Years": "",
         "Instruments": [
-          "drums"
+          ""
         ],
         "Albums": [
-          "Anthology 1 (1995) — archival early recordings (drums on 10 tracks)"
+          ""
         ],
         "Replacing": [],
         "ReplacedBy": [
-          "Ringo Starr"
+          ""
         ],
-        "Overview": "Pete Best is the British drummer who played with the Beatles during their crucial early years in Liverpool and Hamburg, appearing with them through 1960–1962 as the group built its local reputation and stagecraft. He performed on early recordings from that period, including sessions connected to the band’s pre‑fame work, and became part of the story of the Beatles’ final lineup change. In August 1962, Beatles manager Brian Epstein informed Best that he was being replaced by Ringo Starr shortly before the band’s breakthrough in Britain. Although his tenure ended just as the Beatles entered the studio-driven phase that made them famous, Best remains an important figure in the band’s origin story and has continued to be referenced in biographies, interviews, and archival releases tied to the early Beatles era."
+        "Overview": ""
       },
       {
-        "Name": "Stuart Sutcliffe",
+        "Name": "",
         "Roles": [
-          "bass"
+          ""
         ],
-        "Years": "1960–1961",
+        "Years": "",
         "Instruments": [
-          "bass guitar"
+          ""
         ],
         "Albums": [],
         "Replacing": [],
         "ReplacedBy": [
-          "Paul McCartney (switched to bass after Sutcliffe left)"
+          ""
         ],
-        "Overview": "Stuart Sutcliffe was the Beatles’ original bassist and a close friend of John Lennon from art school, performing with the group during 1960–1961, including the early Hamburg period. More widely known as a painter than a career musician, Sutcliffe contributed to the band’s earliest identity—both visually and socially—during the years before the classic four‑member lineup solidified. He left the Beatles in 1961 to focus on art and to remain in Hamburg, where he studied and developed his work within the city’s creative scene. Sutcliffe died in April 1962 at age 21 in Hamburg. Though he did not participate in the band’s later recording successes, he is frequently cited in Beatles history as a key part of the group’s formative chapter and early circle."
+        "Overview": ""
       }
     ],
     "Genres": [
-      "rock",
-      "pop",
-      "beat",
-      "psychedelia"
+      "",
+      "",
+      "",
+      ""
     ],
     "Labels": [
-      "Parlophone",
-      "Capitol",
-      "Apple"
+      "",
+      "",
+      ""
     ],
-    "Overview": "The Beatles were an English rock band formed in Liverpool in 1960—John Lennon, Paul McCartney, George Harrison, and (from 1962) Ringo Starr. Across an unusually short run, they moved from tight, harmony‑driven pop and R&B into studio‑era experimentation, helping redefine what a rock band could be in songwriting, recording, and cultural impact.\n\nAfter a rapid rise from the Merseybeat scene to international fame, the group’s mid‑1960s work expanded in scope and ambition, culminating in landmark albums such as Rubber Soul, Revolver, and Sgt. Pepper’s Lonely Hearts Club Band. They also pioneered modern touring and media phenomena—“Beatlemania”—while their films and public persona made them central figures of 1960s youth culture.\n\nInternal business and personal tensions grew late in the decade, especially after manager Brian Epstein’s death, and the Beatles formally disbanded in 1970. Their catalog remains one of the most influential in popular music, with decades of reissues, archival releases, and renewed attention to their recording innovations and songwriting legacy.",
+    "Overview": "",
     "NotableAlbums": [
       {
-        "Title": "Please Please Me",
-        "Year": 1963,
-        "Notes": "Early breakthrough UK album capturing their live energy."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Rubber Soul",
-        "Year": 1965,
-        "Notes": "A pivot toward more sophisticated songwriting and textures."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Revolver",
-        "Year": 1966,
-        "Notes": "Studio experimentation and genre expansion."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Sgt. Pepper's Lonely Hearts Club Band",
-        "Year": 1967,
-        "Notes": "Defining concept-album statement of the era."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "The Beatles (White Album)",
-        "Year": 1968,
-        "Notes": "Eclectic double album spanning multiple styles."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Abbey Road",
-        "Year": 1969,
-        "Notes": "Late-era studio peak with medley-driven side two."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Let It Be",
-        "Year": 1970,
-        "Notes": "Final released studio album, documented by the Let It Be film project."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       }
     ],
     "SignatureSongs": [
-      "Hey Jude",
-      "Let It Be",
-      "Yesterday",
-      "A Day in the Life",
-      "Come Together"
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "Achievements": [
       {
-        "Type": "Rock & Roll Hall of Fame",
-        "Year": 1988,
-        "Detail": "Inducted as performers; their influence is frequently cited as foundational to modern rock and pop."
+        "Type": "",
+        "Year": 0,
+        "Detail": ""
       },
       {
-        "Type": "GRAMMY Awards",
-        "Year": "multiple",
-        "Detail": "Won multiple GRAMMY awards and has received continued recognition for archival and legacy releases."
+        "Type": "",
+        "Year": "",
+        "Detail": ""
       },
       {
-        "Type": "RIAA certifications (United States)",
-        "Year": "multiple",
-        "Detail": "Consistently ranks among the highest-certified music acts in the United States by RIAA album-equivalent units."
+        "Type": "",
+        "Year": "",
+        "Detail": ""
       }
     ],
     "KeyFacts": [
-      "Formed in Liverpool in 1960; formally disbanded in 1970.",
-      "Core lineup solidified in 1962 when Ringo Starr replaced Pete Best on drums.",
-      "Evolved rapidly from early rock-and-roll/pop into psychedelic and studio-forward experimentation (1965–1969).",
-      "Key late-era studio milestones include Abbey Road (1969) and the Let It Be project (released 1970)."
+      "",
+      "",
+      "",
+      ""
     ],
     "ExternalLinks": {
-      "OfficialSite": "https://www.thebeatles.com/",
-      "AllMusic": "https://www.allmusic.com/artist/the-beatles-mn0000754032",
-      "Grammy": "https://www.grammy.com/artists/beatles/16293",
-      "Wikipedia": "https://en.wikipedia.org/wiki/The_Beatles",
-      "Discogs": "https://www.discogs.com/artist/82730-The-Beatles"
+      "OfficialSite": "",
+      "AllMusic": "",
+      "Grammy": "",
+      "Wikipedia": "",
+      "Discogs": ""
     }
   },
   {
     "ArtistID": "ac-dc",
     "Name": "AC/DC",
-    "Type": "Band",
+    "Type": "",
     "Origin": {
-      "City": "Sydney",
-      "Region": "New South Wales",
-      "Country": "Australia"
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
     "YearsActive": [
-      "1973–present"
+      ""
     ],
-    "Overview": "AC/DC are an Australian rock band formed in Sydney in 1973 by brothers Angus and Malcolm Young. Built around big, blues-rooted riffs, driving rhythms, and a no-frills “rock and roll” identity, the group became one of the defining stadium hard‑rock acts of the 1970s–present.\n\nAfter early Australian success and international breakthroughs like *Let There Be Rock* (1977) and *Highway to Hell* (1979), the band rebuilt in 1980 following the death of lead singer Bon Scott, recruiting Brian Johnson and releasing *Back in Black*—one of the most successful rock albums ever. AC/DC have sold over 200 million records worldwide and were inducted into the Rock & Roll Hall of Fame in 2003.",
+    "Overview": "",
     "CoreMembers": [
       {
-        "Name": "Angus Young",
+        "Name": "",
         "Roles": [
-          "lead guitar",
-          "songwriting"
+          "",
+          ""
         ],
         "Instruments": [
-          "guitar"
+          ""
         ],
-        "Years": "1973–present",
-        "YearsActive": "1973–present",
-        "Overview": "Co‑founder and lead guitarist, known for his high‑energy performances and signature lead style.",
+        "Years": "",
+        "YearsActive": "",
+        "Overview": "",
         "Bio": {
-          "MemberName": "Angus Young",
+          "MemberName": "",
           "Birth": {
-            "Date": "1955-03-31",
-            "Place": "Glasgow, Scotland"
+            "Date": "",
+            "Place": ""
           },
-          "Nationality": "Australian (Scottish-born)",
-          "Roles": "Lead guitarist, songwriter",
-          "Instruments": "Guitar",
-          "Overview": "Angus Young is the co‑founder and lead guitarist of AC/DC and the band’s only continuous member since 1973. Famous for his school‑uniform stage persona and relentless live energy, he helped define AC/DC’s hard‑rock sound through decades of touring and landmark albums.",
+          "Nationality": "",
+          "Roles": "",
+          "Instruments": "",
+          "Overview": "",
           "Sources": [
             {
-              "Title": "Wikipedia: Angus Young",
-              "Url": "https://en.wikipedia.org/wiki/Angus_Young",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: AC/DC",
-              "Url": "https://rockhall.com/inductees/acdc/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Malcolm Young",
+        "Name": "",
         "Roles": [
-          "rhythm guitar",
-          "songwriting",
-          "backing vocals"
+          "",
+          "",
+          ""
         ],
         "Instruments": [
-          "guitar"
+          ""
         ],
-        "Years": "1973–2014",
-        "YearsActive": "1973–2014",
-        "Overview": "Co‑founder and rhythm guitarist, widely regarded as a key architect of the band’s tight, propulsive groove.",
+        "Years": "",
+        "YearsActive": "",
+        "Overview": "",
         "Bio": {
-          "MemberName": "Malcolm Young",
+          "MemberName": "",
           "Birth": {
-            "Date": "1953-01-06",
-            "Place": "Glasgow, Scotland"
+            "Date": "",
+            "Place": ""
           },
           "Death": {
-            "Date": "2017-11-18",
-            "Place": "Australia"
+            "Date": "",
+            "Place": ""
           },
-          "Nationality": "Australian (Scottish-born)",
-          "Roles": "Rhythm guitarist, songwriter, backing vocalist",
-          "Instruments": "Guitar",
-          "Overview": "Malcolm Young co‑founded AC/DC with his brother Angus and served as the band’s rhythm‑guitar engine and co‑writer. His disciplined, percussive approach to rhythm and arrangement became central to AC/DC’s signature drive; he retired in 2014 after illness and died in 2017.",
+          "Nationality": "",
+          "Roles": "",
+          "Instruments": "",
+          "Overview": "",
           "Sources": [
             {
-              "Title": "Wikipedia: Malcolm Young",
-              "Url": "https://en.wikipedia.org/wiki/Malcolm_Young",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: AC/DC",
-              "Url": "https://rockhall.com/inductees/acdc/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Bon Scott",
+        "Name": "",
         "Roles": [
-          "lead vocals",
-          "lyrics"
+          "",
+          ""
         ],
         "Instruments": [
-          "vocals"
+          ""
         ],
-        "Years": "1974–1980",
-        "YearsActive": "1974–1980",
-        "Overview": "Lead singer during the band’s breakthrough years, celebrated for his swaggering delivery and sharp, humorous lyrics.",
+        "Years": "",
+        "YearsActive": "",
+        "Overview": "",
         "Bio": {
-          "MemberName": "Bon Scott",
+          "MemberName": "",
           "Birth": {
-            "Date": "1946-07-09",
-            "Place": "Forfar, Angus, Scotland"
+            "Date": "",
+            "Place": ""
           },
           "Death": {
-            "Date": "1980-02-19",
-            "Place": "London, England",
-            "Cause": "Acute alcohol poisoning (per coroner findings)"
+            "Date": "",
+            "Place": "",
+            "Cause": ""
           },
-          "Nationality": "Australian (Scottish-born)",
-          "Roles": "Singer, lyricist",
-          "Instruments": "Vocals",
-          "Overview": "Bon Scott was AC/DC’s lead vocalist from 1974 to 1980, fronting the band as it evolved from Australian pub‑rock roots into an international hard‑rock force. His characterful voice and irreverent lyric style are closely associated with albums like *Let There Be Rock* and *Highway to Hell*.",
+          "Nationality": "",
+          "Roles": "",
+          "Instruments": "",
+          "Overview": "",
           "Sources": [
             {
-              "Title": "Wikipedia: Bon Scott",
-              "Url": "https://en.wikipedia.org/wiki/Bon_Scott",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "ABC News: fresh insight into Bon Scott death (coroner finding)",
-              "Url": "https://www.abc.net.au/news/2022-05-09/fresh-insight-into-death-of-acdcfront-man-bon-scott/100900888",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Brian Johnson",
+        "Name": "",
         "Roles": [
-          "lead vocals"
+          ""
         ],
         "Instruments": [
-          "vocals"
+          ""
         ],
-        "Years": "1980–2016, 2018–present",
-        "YearsActive": "1980–2016, 2018–present",
-        "Overview": "Lead singer from 1980 onward, debuting with *Back in Black* and helping sustain the band’s stadium-era dominance.",
+        "Years": "",
+        "YearsActive": "",
+        "Overview": "",
         "Bio": {
-          "MemberName": "Brian Johnson",
+          "MemberName": "",
           "Birth": {
-            "Date": "1947-10-05",
-            "Place": "Dunston, County Durham, England"
+            "Date": "",
+            "Place": ""
           },
-          "Nationality": "British",
-          "Roles": "Singer",
-          "Instruments": "Vocals",
-          "Overview": "Brian Johnson became AC/DC’s lead singer in 1980 after the death of Bon Scott and debuted on *Back in Black*. His rasping vocal style and straightforward delivery fit the band’s high‑voltage approach and helped anchor AC/DC through multiple later‑era comebacks.",
+          "Nationality": "",
+          "Roles": "",
+          "Instruments": "",
+          "Overview": "",
           "Sources": [
             {
-              "Title": "Wikipedia: Brian Johnson",
-              "Url": "https://en.wikipedia.org/wiki/Brian_Johnson",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Wikipedia: AC/DC (band history)",
-              "Url": "https://en.wikipedia.org/wiki/AC/DC",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Phil Rudd",
+        "Name": "",
         "Roles": [
-          "drums"
+          ""
         ],
         "Instruments": [
-          "drums"
+          ""
         ],
-        "Years": "1975–1983, 1994–2015, 2018–present",
-        "YearsActive": "1975–1983, 1994–2015, 2018–present",
-        "Overview": "Drummer on many of the band’s most recognized records, known for a steady, driving feel that supports the riffs.",
+        "Years": "",
+        "YearsActive": "",
+        "Overview": "",
         "Bio": {
-          "MemberName": "Phil Rudd",
+          "MemberName": "",
           "Birth": {
-            "Date": "1954-05-19",
-            "Place": "Melbourne, Victoria, Australia"
+            "Date": "",
+            "Place": ""
           },
-          "Nationality": "Australian",
-          "Roles": "Drummer",
-          "Instruments": "Drums",
-          "Overview": "Phil Rudd is AC/DC’s longtime drummer across multiple stints, appearing on a large share of the group’s classic catalogue. His compact, no‑nonsense groove is a key part of the band’s rhythmic identity.",
+          "Nationality": "",
+          "Roles": "",
+          "Instruments": "",
+          "Overview": "",
           "Sources": [
             {
-              "Title": "Wikipedia: Phil Rudd",
-              "Url": "https://en.wikipedia.org/wiki/Phil_Rudd",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: AC/DC",
-              "Url": "https://rockhall.com/inductees/acdc/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Cliff Williams",
+        "Name": "",
         "Roles": [
-          "bass",
-          "backing vocals"
+          "",
+          ""
         ],
         "Instruments": [
-          "bass guitar",
-          "vocals"
+          "",
+          ""
         ],
-        "Years": "1977–2016, 2018–present",
-        "YearsActive": "1977–2016, 2018–present",
-        "Overview": "Bassist and backing vocalist, contributing steady low-end support through the band’s biggest touring eras.",
+        "Years": "",
+        "YearsActive": "",
+        "Overview": "",
         "Bio": {
-          "MemberName": "Cliff Williams",
+          "MemberName": "",
           "Birth": {
-            "Date": "1949-12-14",
-            "Place": "Romford, Essex, England"
+            "Date": "",
+            "Place": ""
           },
-          "Nationality": "British",
-          "Roles": "Bassist, backing vocalist",
-          "Instruments": "Bass guitar, vocals",
-          "Overview": "Cliff Williams joined AC/DC in the late 1970s and became the band’s longtime bassist and backing vocalist. He debuted on *Powerage* (1978) and remained a core stage presence through decades of arena and stadium touring.",
+          "Nationality": "",
+          "Roles": "",
+          "Instruments": "",
+          "Overview": "",
           "Sources": [
             {
-              "Title": "Wikipedia: Cliff Williams",
-              "Url": "https://en.wikipedia.org/wiki/Cliff_Williams",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Rock Hall: AC/DC",
-              "Url": "https://rockhall.com/inductees/acdc/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Stevie Young",
+        "Name": "",
         "Roles": [
-          "rhythm guitar",
-          "backing vocals"
+          "",
+          ""
         ],
         "Instruments": [
-          "guitar"
+          ""
         ],
-        "Years": "2014–present",
-        "YearsActive": "2014–present",
-        "Overview": "Rhythm guitarist who stepped in for Malcolm Young and has helped carry the band’s live sound in the modern era.",
+        "Years": "",
+        "YearsActive": "",
+        "Overview": "",
         "Bio": {
-          "MemberName": "Stevie Young",
+          "MemberName": "",
           "Birth": {
-            "Date": "1956-12-11",
-            "Place": "Glasgow, Scotland"
+            "Date": "",
+            "Place": ""
           },
-          "Nationality": "Australian (Scottish-born)",
-          "Roles": "Rhythm guitarist, backing vocalist",
-          "Instruments": "Guitar",
-          "Overview": "Stevie Young is AC/DC’s rhythm guitarist in the post‑Malcolm era, first joining for *Rock or Bust* (2014). A nephew of Angus and Malcolm, he previously filled in on tour and later became the band’s full‑time rhythm guitarist.",
+          "Nationality": "",
+          "Roles": "",
+          "Instruments": "",
+          "Overview": "",
           "Sources": [
             {
-              "Title": "Wikipedia: Stevie Young",
-              "Url": "https://en.wikipedia.org/wiki/Stevie_Young",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Wikipedia: AC/DC",
-              "Url": "https://en.wikipedia.org/wiki/AC/DC",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
@@ -1434,232 +1495,232 @@
     ],
     "NonCoreMembers": [
       {
-        "Name": "Dave Evans",
+        "Name": "",
         "Roles": [
-          "lead vocals"
+          ""
         ],
         "Instruments": [
-          "vocals"
+          ""
         ],
-        "Years": "1973–1974",
-        "YearsActive": "1973–1974",
+        "Years": "",
+        "YearsActive": "",
         "Replacing": [],
         "ReplacedBy": [
-          "Bon Scott"
+          ""
         ],
-        "Overview": "Original AC/DC vocalist during the band’s earliest Sydney period, appearing on their first single-era recordings. He left before the group’s international breakthrough and was replaced by Bon Scott, after which AC/DC’s classic lineup began to form."
+        "Overview": ""
       },
       {
-        "Name": "Larry Van Kriedt",
+        "Name": "",
         "Roles": [
-          "bass"
+          ""
         ],
         "Instruments": [
-          "bass guitar"
+          ""
         ],
-        "Years": "1973–1974",
-        "YearsActive": "1973–1974",
+        "Years": "",
+        "YearsActive": "",
         "Replacing": [],
         "ReplacedBy": [
-          "Neil Smith",
-          "Rob Bailey",
-          "Mark Evans",
-          "Cliff Williams"
+          "",
+          "",
+          "",
+          ""
         ],
-        "Overview": "Early AC/DC bassist in the initial 1973–74 lineup. He departed during the band’s frequent early lineup changes, before the group stabilized and moved toward broader release success."
+        "Overview": ""
       },
       {
-        "Name": "Colin Burgess",
+        "Name": "",
         "Roles": [
-          "drums"
+          ""
         ],
         "Instruments": [
-          "drums"
+          ""
         ],
-        "Years": "1973–1974",
-        "YearsActive": "1973–1974",
+        "Years": "",
+        "YearsActive": "",
         "Replacing": [],
         "ReplacedBy": [
-          "Noel Taylor",
-          "Peter Clack",
-          "Phil Rudd"
+          "",
+          "",
+          ""
         ],
-        "Overview": "AC/DC’s first drummer in the 1973 founding lineup. He was part of the band’s earliest club gigs in Sydney, but was replaced in the rapid lineup shifts of the first year."
+        "Overview": ""
       },
       {
-        "Name": "Mark Evans",
+        "Name": "",
         "Roles": [
-          "bass"
+          ""
         ],
         "Instruments": [
-          "bass guitar"
+          ""
         ],
-        "Years": "1975–1977",
-        "YearsActive": "1975–1977",
+        "Years": "",
+        "YearsActive": "",
         "Replacing": [
-          "Rob Bailey"
+          ""
         ],
         "ReplacedBy": [
-          "Cliff Williams"
+          ""
         ],
-        "Overview": "Bassist during AC/DC’s mid‑1970s rise, playing on early international-era records and tours. He was replaced in 1977 as the band moved into the *Powerage*/*Highway to Hell* period with Cliff Williams."
+        "Overview": ""
       },
       {
-        "Name": "Simon Wright",
+        "Name": "",
         "Roles": [
-          "drums"
+          ""
         ],
         "Instruments": [
-          "drums"
+          ""
         ],
-        "Years": "1983–1989",
-        "YearsActive": "1983–1989",
+        "Years": "",
+        "YearsActive": "",
         "Replacing": [
-          "Phil Rudd"
+          ""
         ],
         "ReplacedBy": [
-          "Chris Slade"
+          ""
         ],
-        "Overview": "Drummer who joined after Phil Rudd’s first departure and helped keep AC/DC road-ready through the 1980s. He played on key mid‑80s releases before being replaced as the band reset for the late‑80s comeback era."
+        "Overview": ""
       },
       {
-        "Name": "Chris Slade",
+        "Name": "",
         "Roles": [
-          "drums"
+          ""
         ],
         "Instruments": [
-          "drums"
+          ""
         ],
-        "Years": "1989–1994, 2015–2016",
-        "YearsActive": "1989–1994, 2015–2016",
+        "Years": "",
+        "YearsActive": "",
         "Replacing": [
-          "Simon Wright",
-          "Phil Rudd (touring replacement)"
+          "",
+          ""
         ],
         "ReplacedBy": [
-          "Phil Rudd"
+          ""
         ],
-        "Overview": "Drummer associated with the band’s late‑80s/early‑90s resurgence, including the *The Razors Edge* era. He later returned as a touring/studio-era replacement in the mid‑2010s during another period of lineup disruption."
+        "Overview": ""
       },
       {
-        "Name": "Axl Rose",
+        "Name": "",
         "Roles": [
-          "guest lead vocals (touring)"
+          ""
         ],
         "Instruments": [
-          "vocals"
+          ""
         ],
-        "Years": "2016",
-        "YearsActive": "2016",
+        "Years": "",
+        "YearsActive": "",
         "Replacing": [
-          "Brian Johnson (touring)"
+          ""
         ],
         "ReplacedBy": [
-          "Brian Johnson"
+          ""
         ],
-        "Overview": "Served as touring vocalist for a portion of the 2016 tour dates when Brian Johnson stepped away due to hearing concerns. His involvement was a temporary live solution rather than a full-time membership change."
+        "Overview": ""
       }
     ],
     "Genres": [
-      "hard rock",
-      "blues rock",
-      "heavy metal"
+      "",
+      "",
+      ""
     ],
     "Labels": [
-      "Albert",
-      "Atlantic",
-      "ATCO",
-      "Columbia",
-      "Epic",
-      "Elektra",
-      "East West"
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "NotableAlbums": [
       {
-        "Title": "High Voltage",
-        "Year": 1975,
-        "Notes": "Debut album era; set the blueprint for their high-energy hard-rock sound."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Let There Be Rock",
-        "Year": 1977,
-        "Notes": "A defining hard-rock statement that helped cement their international reputation."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Powerage",
-        "Year": 1978,
-        "Notes": "Fan-favorite deep-cut record with a grittier, road-tested feel."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Highway to Hell",
-        "Year": 1979,
-        "Notes": "International breakthrough and Bon Scott’s final studio album with the band."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Back in Black",
-        "Year": 1980,
-        "Notes": "Brian Johnson’s debut; a landmark album dedicated to Bon Scott’s memory."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "For Those About to Rock (We Salute You)",
-        "Year": 1981,
-        "Notes": "Their first album to top the U.S. Billboard 200."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "The Razors Edge",
-        "Year": 1990,
-        "Notes": "Major late-era resurgence featuring “Thunderstruck.”"
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Black Ice",
-        "Year": 2008,
-        "Notes": "High-profile comeback that debuted at #1 in many countries."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Power Up",
-        "Year": 2020,
-        "Notes": "Later-era album honoring Malcolm Young’s legacy and co-written material."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       }
     ],
     "SignatureSongs": [
-      "Highway to Hell",
-      "Back in Black",
-      "Thunderstruck",
-      "You Shook Me All Night Long",
-      "Hells Bells",
-      "T.N.T.",
-      "Whole Lotta Rosie",
-      "Shoot to Thrill",
-      "For Those About to Rock (We Salute You)"
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "Achievements": [
       {
-        "Type": "Rock & Roll Hall of Fame",
-        "Year": 2003,
-        "Detail": "Inducted as Performers."
+        "Type": "",
+        "Year": 0,
+        "Detail": ""
       },
       {
-        "Type": "GRAMMY Award",
-        "Year": 2010,
-        "Detail": "Won Best Hard Rock Performance for “War Machine” (from *Black Ice*)."
+        "Type": "",
+        "Year": 0,
+        "Detail": ""
       },
       {
-        "Type": "Sales milestone",
-        "Year": "career",
-        "Detail": "Sold over 200 million records worldwide (variously reported by major references)."
+        "Type": "",
+        "Year": "",
+        "Detail": ""
       }
     ],
     "KeyFacts": [
-      "Formed in Sydney in 1973 by brothers Angus and Malcolm Young.",
-      "The band name came from the “AC/DC” label on a sewing-machine power adapter.",
-      "Bon Scott fronted the classic 1970s breakthrough period; Brian Johnson joined in 1980.",
-      "Known for a consistent, riff-first hard-rock style and high-volume stadium shows."
+      "",
+      "",
+      "",
+      ""
     ],
     "ExternalLinks": {
-      "OfficialSite": "https://www.acdc.com/",
-      "RockHall": "https://rockhall.com/inductees/acdc/",
-      "Wikipedia": "https://en.wikipedia.org/wiki/AC/DC",
-      "Discography": "https://en.wikipedia.org/wiki/AC/DC_discography"
+      "OfficialSite": "",
+      "RockHall": "",
+      "Wikipedia": "",
+      "Discography": ""
     }
   },
   {
@@ -1670,376 +1731,376 @@
   },
   {
     "ArtistID": "america",
-    "Type": "Band",
+    "Type": "",
     "Origin": {
-      "City": "London",
-      "Region": "England",
-      "Country": "United Kingdom"
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
     "YearsActive": [
-      "1970–present"
+      ""
     ],
     "Genres": [
-      "soft rock",
-      "folk rock",
-      "pop rock",
-      "country rock"
+      "",
+      "",
+      "",
+      ""
     ],
     "Labels": [
-      "Warner Bros.",
-      "Capitol",
-      "Burgundy"
+      "",
+      "",
+      ""
     ],
-    "Overview": "America is a British‑American rock band formed in London in 1970 by Gerry Beckley, Dewey Bunnell, and Dan Peek—three American teenagers who met at London Central High School while their fathers were stationed in the U.K. with the U.S. Air Force. Built around acoustic guitars and close three‑part harmonies, the trio became one of the defining soft‑rock voices of the early 1970s, blending folk‑rock storytelling with pop craft.\n\nTheir self‑titled debut and the breakthrough single “A Horse with No Name” launched a run of radio staples including “I Need You,” “Ventura Highway,” “Tin Man,” “Lonely People,” “Sister Golden Hair,” and “Daisy Jane.” Peek departed in 1977, and Beckley and Bunnell continued as a duo while keeping America active through later decades, including the early‑’80s Top 10 hit “You Can Do Magic.”\n\nOver a long touring and recording career, America’s catalog has remained a cornerstone of classic rock and adult‑contemporary playlists, recognized with a GRAMMY win for Best New Artist and other industry honors. In the mid‑2020s the group continued touring with Dewey Bunnell at the helm, while Gerry Beckley stepped back from touring in 2024 but remained a member of the band.",
+    "Overview": "",
     "NotableAlbums": [
       {
-        "Title": "America",
-        "Year": 1972,
-        "Notes": "Debut album featuring “A Horse with No Name,” “I Need You,” and “Sandman.”"
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Homecoming",
-        "Year": 1972,
-        "Notes": "Second album anchored by “Ventura Highway” and a fuller band sound."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Holiday",
-        "Year": 1974,
-        "Notes": "Produced by George Martin; includes “Tin Man” and “Lonely People.”"
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "Hearts",
-        "Year": 1975,
-        "Notes": "Features “Sister Golden Hair” and “Daisy Jane,” a peak‑era hit set."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "History: America's Greatest Hits",
-        "Year": 1975,
-        "Notes": "Signature compilation; multi‑platinum and a key entry point for new listeners."
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       },
       {
-        "Title": "View from the Ground",
-        "Year": 1982,
-        "Notes": "Return to major chart success with “You Can Do Magic.”"
+        "Title": "",
+        "Year": 0,
+        "Notes": ""
       }
     ],
     "SignatureSongs": [
-      "A Horse with No Name",
-      "I Need You",
-      "Ventura Highway",
-      "Tin Man",
-      "Lonely People",
-      "Sister Golden Hair",
-      "Daisy Jane",
-      "You Can Do Magic",
-      "The Border"
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "Achievements": [
       {
-        "Type": "GRAMMY Awards",
-        "Year": 1973,
-        "Detail": "Won Best New Artist and received additional nominations at the 15th Annual GRAMMY Awards."
+        "Type": "",
+        "Year": 0,
+        "Detail": ""
       },
       {
-        "Type": "Vocal Group Hall of Fame",
-        "Year": 2006,
-        "Detail": "Inducted for their long‑running impact as a harmony‑driven vocal group."
+        "Type": "",
+        "Year": 0,
+        "Detail": ""
       },
       {
-        "Type": "Hollywood Walk of Fame",
-        "Year": 2012,
-        "Detail": "Received a star recognizing their enduring cultural and commercial presence."
+        "Type": "",
+        "Year": 0,
+        "Detail": ""
       }
     ],
     "KeyFacts": [
-      "Formed in London in 1970 by Gerry Beckley, Dewey Bunnell, and Dan Peek.",
-      "Breakthrough hit “A Horse with No Name” became an international signature song.",
-      "Dan Peek left in 1977; Beckley and Bunnell continued America as a touring and recording act.",
-      "Gerry Beckley retired from touring in 2024 but remained a member; Dewey Bunnell continued touring under the America name."
+      "",
+      "",
+      "",
+      ""
     ],
     "ExternalLinks": {
-      "OfficialSite": "https://venturahighway.com/",
-      "AllMusic": "https://www.allmusic.com/artist/america-mn0000019297",
-      "Grammy": "https://www.grammy.com/artists/america/7616",
-      "Wikipedia": "https://en.wikipedia.org/wiki/America_(band)",
-      "Discogs": "https://www.discogs.com/artist/58374-America"
+      "OfficialSite": "",
+      "AllMusic": "",
+      "Grammy": "",
+      "Wikipedia": "",
+      "Discogs": ""
     },
     "CoreMembers": [
       {
-        "Name": "Gerry Beckley",
+        "Name": "",
         "Roles": [
-          "lead and backing vocals",
-          "guitars",
-          "keyboards",
-          "bass",
-          "harmonica"
+          "",
+          "",
+          "",
+          "",
+          ""
         ],
-        "Years": "1970–present (not touring since 2024)",
-        "Overview": "Co‑founder and primary songwriter/singer whose melodic sensibility helped define America’s sound.",
+        "Years": "",
+        "Overview": "",
         "Bio": {
-          "BioID": "america-gerry-beckley",
-          "ArtistID": "america",
-          "ArtistName": "America",
-          "MemberName": "Gerry Beckley",
+          "BioID": "",
+          "ArtistID": "",
+          "ArtistName": "",
+          "MemberName": "",
           "Biography": [
-            "Gerry Beckley (Gerald Linford Beckley) is a founding member of America and one of the band’s principal voices, known for a clear, pop‑leaning melodic style and a songwriter’s attention to detail. Raised between the U.S. and the U.K., he began playing music young and was writing and performing well before America formed.",
-            "In London, Beckley met Dewey Bunnell and Dan Peek at London Central High School and the trio shaped an acoustic‑driven harmony sound that became America’s calling card. Beckley contributed key songs and lead vocals across the classic era and helped steer the band through multiple phases as tastes changed from the 1970s into later decades.",
-            "Beyond America, he built a parallel solo career with albums that lean into intimate pop and acoustic songwriting, often revisiting themes of travel, memory, and romantic clarity. His solo work also highlights his multi‑instrumental approach and arranging instincts.",
-            "After more than five decades of touring, Beckley announced his retirement from touring in 2024, while remaining a member of America and continuing to write and record. His legacy is tied to the band’s signature blend of harmony, restraint, and instantly recognizable melodic hooks."
+            "",
+            "",
+            "",
+            ""
           ],
           "Birth": {
-            "Date": "1952-09-12",
-            "Place": "Fort Worth, Texas, U.S."
+            "Date": "",
+            "Place": ""
           },
           "Death": null,
-          "ActiveYears": "1967–present",
+          "ActiveYears": "",
           "AssociatedActs": [
-            "America"
+            ""
           ],
           "KeyAlbums": [
-            "America (1972)",
-            "Holiday (1974)",
-            "Hearts (1975)",
-            "History: America's Greatest Hits (1975)",
-            "View from the Ground (1982)"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "KeySongs": [
-            "I Need You",
-            "Sister Golden Hair",
-            "A Horse with No Name (band breakthrough era)",
-            "You Can Do Magic (band later-era hit)"
+            "",
+            "",
+            "",
+            ""
           ],
           "Achievements": [
-            "Founding member of America; part of the band’s GRAMMY win for Best New Artist (1973).",
-            "Continued as a core creative voice through America’s long-running touring and recording history.",
-            "Retired from touring in 2024 while remaining a member and continuing studio and songwriting work."
+            "",
+            "",
+            ""
           ],
           "ExternalLinks": {
-            "Wikipedia": "https://en.wikipedia.org/wiki/Gerry_Beckley",
-            "OfficialBandSite": "https://venturahighway.com/",
-            "GrammyArtist": "https://www.grammy.com/artists/america/7616"
+            "Wikipedia": "",
+            "OfficialBandSite": "",
+            "GrammyArtist": ""
           },
-          "FullName": "Gerald Linford Beckley",
+          "FullName": "",
           "PrimaryInstruments": [
-            "vocals",
-            "guitar",
-            "keyboards",
-            "bass",
-            "harmonica"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Occupations": [
-            "singer-songwriter",
-            "musician"
+            "",
+            ""
           ],
           "Genres": [
-            "rock",
-            "soft rock",
-            "folk rock",
-            "pop rock"
+            "",
+            "",
+            "",
+            ""
           ],
           "Sources": [
             {
-              "Title": "America (band) — Personnel / overview",
-              "Url": "https://en.wikipedia.org/wiki/America_(band)",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Gerry Beckley — biography",
-              "Url": "https://en.wikipedia.org/wiki/Gerry_Beckley",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "America — Official site (news/bio)",
-              "Url": "https://venturahighway.com/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "America — GRAMMY artist page",
-              "Url": "https://www.grammy.com/artists/america/7616",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Dewey Bunnell",
+        "Name": "",
         "Roles": [
-          "lead and backing vocals",
-          "guitars",
-          "percussion"
+          "",
+          "",
+          ""
         ],
-        "Years": "1970–present",
-        "Overview": "Co‑founder and primary songwriter behind multiple signature hits, including “A Horse with No Name.”",
+        "Years": "",
+        "Overview": "",
         "Bio": {
-          "BioID": "america-dewey-bunnell",
-          "ArtistID": "america",
-          "ArtistName": "America",
-          "MemberName": "Dewey Bunnell",
+          "BioID": "",
+          "ArtistID": "",
+          "ArtistName": "",
+          "MemberName": "",
           "Biography": [
-            "Dewey Bunnell (Lee Merton Bunnell) is a founding member of America and a defining songwriter of the band’s early run, widely associated with the warm, acoustic‑driven sound and lyrical imagery that made the group a radio staple. Born in England to an American serviceman family, he came of age moving between places—an experience that shows up in the travel‑tinged atmospheres of many America songs.",
-            "Bunnell met Gerry Beckley and Dan Peek at London Central High School and the trio formed America in London in 1970, developing close three‑part harmonies and a folk‑rock approach that translated quickly to major-label success. He wrote and sang lead on several of the band’s best-known tracks, including “A Horse with No Name,” as well as other era‑defining hits like “Ventura Highway” and “Tin Man.”",
-            "When Dan Peek left in 1977, Bunnell continued with Beckley, keeping America active through changing musical climates while preserving the group’s core identity: melodic restraint, vocal blend, and a uniquely gentle sense of groove. He remained a steady stage presence as touring became the band’s long‑term anchor.",
-            "In the 2020s, Bunnell continued touring under the America name, supported by a rotating lineup of touring musicians. As the sole founding member consistently on the road after Beckley’s 2024 touring retirement, he became the on‑stage continuity link to the original trio era while maintaining the group’s signature sound."
+            "",
+            "",
+            "",
+            ""
           ],
           "Birth": {
-            "Date": "1952-01-19",
-            "Place": "Harrogate, Yorkshire, England"
+            "Date": "",
+            "Place": ""
           },
           "Death": null,
-          "ActiveYears": "1969–present",
+          "ActiveYears": "",
           "AssociatedActs": [
-            "America"
+            ""
           ],
           "KeyAlbums": [
-            "America (1972)",
-            "Homecoming (1972)",
-            "Holiday (1974)",
-            "Hearts (1975)",
-            "View from the Ground (1982)"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "KeySongs": [
-            "A Horse with No Name",
-            "Ventura Highway",
-            "Tin Man",
-            "The Border"
+            "",
+            "",
+            "",
+            ""
           ],
           "Achievements": [
-            "Founding member of America; part of the band’s GRAMMY win for Best New Artist (1973).",
-            "Writer of multiple signature songs that define America’s 1970s catalog and enduring airplay.",
-            "Continued touring leadership into the mid‑2020s as America’s live frontman."
+            "",
+            "",
+            ""
           ],
           "ExternalLinks": {
-            "Wikipedia": "https://en.wikipedia.org/wiki/Dewey_Bunnell",
-            "OfficialBandSite": "https://venturahighway.com/",
-            "GrammyArtist": "https://www.grammy.com/artists/america/7616"
+            "Wikipedia": "",
+            "OfficialBandSite": "",
+            "GrammyArtist": ""
           },
-          "FullName": "Lee Merton Bunnell",
+          "FullName": "",
           "PrimaryInstruments": [
-            "vocals",
-            "guitar",
-            "percussion"
+            "",
+            "",
+            ""
           ],
           "Occupations": [
-            "musician",
-            "singer-songwriter"
+            "",
+            ""
           ],
           "Genres": [
-            "rock",
-            "soft rock",
-            "folk rock"
+            "",
+            "",
+            ""
           ],
           "Sources": [
             {
-              "Title": "America (band) — Personnel / overview",
-              "Url": "https://en.wikipedia.org/wiki/America_(band)",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Dewey Bunnell — biography",
-              "Url": "https://en.wikipedia.org/wiki/Dewey_Bunnell",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "America — Official site (news/bio)",
-              "Url": "https://venturahighway.com/",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "America — GRAMMY artist page",
-              "Url": "https://www.grammy.com/artists/america/7616",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
       },
       {
-        "Name": "Dan Peek",
+        "Name": "",
         "Roles": [
-          "lead and backing vocals",
-          "guitars",
-          "bass",
-          "keyboards",
-          "harmonica"
+          "",
+          "",
+          "",
+          "",
+          ""
         ],
-        "Years": "1970–1977 (died 2011)",
-        "Overview": "Co‑founder whose vocal blend and songwriting helped define America’s classic trio era before his 1977 departure.",
+        "Years": "",
+        "Overview": "",
         "Bio": {
-          "BioID": "america-dan-peek",
-          "ArtistID": "america",
-          "ArtistName": "America",
-          "MemberName": "Dan Peek",
+          "BioID": "",
+          "ArtistID": "",
+          "ArtistName": "",
+          "MemberName": "",
           "Biography": [
-            "Dan Peek (Daniel Milton Peek) co‑founded America with Gerry Beckley and Dewey Bunnell, providing harmony vocals, multi‑instrumental support, and songwriting during the group’s breakthrough years. Born in Florida in an Air Force family, he—like the other founding members—came up as an American teenager living in England.",
-            "Peek met Beckley and Bunnell at London Central High School and joined the band that became America in 1970. During the trio era, he contributed songs and vocals on albums that established the band’s soft‑rock identity, including work associated with staples like “Lonely People” and the classic early‑’70s catalog.",
-            "In 1977, Peek left America and later pursued a solo path that included work in contemporary Christian music, becoming known for faith‑centered songwriting and recording. His departure marked a major shift in the band’s internal chemistry, with America continuing as a duo in subsequent decades.",
-            "Peek died in 2011 at age 60, closing the door on long‑running reunion speculation. His place in America’s history remains tied to the original harmony‑driven trio sound and the early period that defined the group’s public identity."
+            "",
+            "",
+            "",
+            ""
           ],
           "Birth": {
-            "Date": "1950-11-01",
-            "Place": "Panama City, Florida, U.S."
+            "Date": "",
+            "Place": ""
           },
           "Death": {
-            "Date": "2011-07-24",
-            "Place": "Farmington, Missouri, U.S."
+            "Date": "",
+            "Place": ""
           },
-          "ActiveYears": "1969–2011",
+          "ActiveYears": "",
           "AssociatedActs": [
-            "America"
+            ""
           ],
           "KeyAlbums": [
-            "America (1972)",
-            "Homecoming (1972)",
-            "Holiday (1974)",
-            "Hearts (1975)"
+            "",
+            "",
+            "",
+            ""
           ],
           "KeySongs": [
-            "Lonely People",
-            "Muskrat Love (band era)",
-            "America (classic trio harmonies)"
+            "",
+            "",
+            ""
           ],
           "Achievements": [
-            "Founding member of America during the band’s GRAMMY‑winning breakthrough period.",
-            "Key part of the original trio’s harmony blend and multi‑instrumental arrangements.",
-            "Later recognized for a solo career that shifted toward contemporary Christian music."
+            "",
+            "",
+            ""
           ],
           "ExternalLinks": {
-            "Wikipedia": "https://en.wikipedia.org/wiki/Dan_Peek",
-            "OfficialBandSite": "https://venturahighway.com/",
-            "AllMusicArtist": "https://www.allmusic.com/artist/dan-peek-mn0000953589"
+            "Wikipedia": "",
+            "OfficialBandSite": "",
+            "AllMusicArtist": ""
           },
-          "FullName": "Daniel Milton Peek",
+          "FullName": "",
           "PrimaryInstruments": [
-            "vocals",
-            "guitars",
-            "bass",
-            "keyboards",
-            "harmonica"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           "Occupations": [
-            "musician",
-            "singer-songwriter"
+            "",
+            ""
           ],
           "Genres": [
-            "folk rock",
-            "soft rock",
-            "country rock",
-            "contemporary Christian"
+            "",
+            "",
+            "",
+            ""
           ],
           "Sources": [
             {
-              "Title": "America (band) — Personnel / overview",
-              "Url": "https://en.wikipedia.org/wiki/America_(band)",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Dan Peek — biography",
-              "Url": "https://en.wikipedia.org/wiki/Dan_Peek",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             },
             {
-              "Title": "Dan Peek — AllMusic artist page",
-              "Url": "https://www.allmusic.com/artist/dan-peek-mn0000953589",
-              "Accessed": "2025-12-31"
+              "Title": "",
+              "Url": "",
+              "Accessed": ""
             }
           ]
         }
@@ -2047,135 +2108,135 @@
     ],
     "NonCoreMembers": [
       {
-        "Name": "Richard Campbell",
+        "Name": "",
         "Roles": [
-          "bass",
-          "vocals"
+          "",
+          ""
         ],
-        "Years": "2003–present",
+        "Years": "",
         "Instruments": [
-          "bass"
+          ""
         ],
         "Albums": [
-          "(touring lineup)"
+          ""
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Richard Campbell is America’s long‑serving touring bassist and harmony vocalist, joining the road band in the early 2000s and becoming a key part of the modern live sound. In performance, he supports the classic acoustic‑and‑harmony identity with a steadier, fuller low end, while also adding backing vocals that help recreate the multi‑part blend that defined the original trio era. As the group’s touring lineup evolved—especially in the mid‑2020s, when Dewey Bunnell continued touring at the helm—Campbell’s role provided continuity, locking in grooves across both ’70s staples and later‑era hits. His presence is especially important in a show built around recognizable melodies and tight vocal balance, where subtle dynamics and clean arrangements matter as much as flash."
+        "Overview": ""
       },
       {
-        "Name": "Ryland Steen",
+        "Name": "",
         "Roles": [
-          "drums",
-          "percussion",
-          "backing vocals"
+          "",
+          "",
+          ""
         ],
-        "Years": "2014–present",
+        "Years": "",
         "Instruments": [
-          "drums",
-          "percussion"
+          "",
+          ""
         ],
         "Albums": [
-          "(touring lineup)"
+          ""
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Ryland Steen is the band’s touring drummer and percussionist in the modern era, joining the live lineup in the 2010s and helping keep America’s songs feeling light, clear, and song‑first. Because much of America’s best‑known material relies on acoustic textures and vocal blend, his drumming emphasizes pocket, restraint, and clean transitions rather than heavy fills—supporting the melodies without crowding them. On stage he also contributes backing vocals, a practical necessity for maintaining the layered harmony sound in a smaller touring ensemble. In the post‑trio and post‑duo‑touring period, his steady feel helps unify the set across decades, from early ’70s hits to later chart returns."
+        "Overview": ""
       },
       {
-        "Name": "Steve Fekete",
+        "Name": "",
         "Roles": [
-          "guitars",
-          "keyboards",
-          "backing vocals"
+          "",
+          "",
+          ""
         ],
-        "Years": "2018–present",
+        "Years": "",
         "Instruments": [
-          "guitar",
-          "keyboards"
+          "",
+          ""
         ],
         "Albums": [
-          "(touring lineup)"
+          ""
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Steve Fekete is a key member of America’s current touring band, covering guitars and keyboards while also supporting the vocal blend. His role is partly orchestration: translating studio layers—acoustic strums, electric accents, and keyboard color—into a cohesive live arrangement that still feels airy and familiar. He helps preserve the characteristic “wide” America sound even when the stage lineup shifts, handling harmonic textures that keep choruses buoyant and recognizable. In a catalog where subtle tone and balance are central, his ability to move between rhythm support and melodic details is a practical backbone for the live show."
+        "Overview": ""
       },
       {
-        "Name": "Andy Barr",
+        "Name": "",
         "Roles": [
-          "guitars",
-          "banjo",
-          "keyboards",
-          "lead and backing vocals"
+          "",
+          "",
+          "",
+          ""
         ],
-        "Years": "2016–2018, 2024–present",
+        "Years": "",
         "Instruments": [
-          "guitar",
-          "banjo",
-          "keyboards"
+          "",
+          "",
+          ""
         ],
         "Albums": [
-          "(touring lineup)"
+          ""
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Andy Barr is a touring multi‑instrumentalist and singer who has served in America’s live lineup across multiple stints, contributing guitars, keyboards, and banjo as needed. He also adds lead and backing vocals—an especially valuable skill for a band whose identity is built around harmony and clean melodic interplay. In the mid‑2020s, as the touring configuration adjusted around Dewey Bunnell’s continuing road leadership, Barr’s versatility helped keep arrangements flexible without losing the recognizable character of the songs. His job is as much about tone‑matching and balance as it is about parts: reinforcing the acoustic foundation while adding color where the recordings call for it."
+        "Overview": ""
       },
       {
-        "Name": "David Dickey",
+        "Name": "",
         "Roles": [
-          "bass",
-          "backing vocals"
+          "",
+          ""
         ],
-        "Years": "1972–1980 (died 2016)",
+        "Years": "",
         "Instruments": [
-          "bass"
+          ""
         ],
         "Albums": [
-          "(touring lineup, classic era)"
+          ""
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "David Dickey was America’s early touring bassist, joining as the group expanded from an acoustic trio into a fuller live band during the 1970s. In that period, the challenge was translating delicate acoustic songs and tight vocal harmonies into rooms that demanded more volume and rhythmic weight. Dickey’s bass work anchored that transition, giving the band the low‑end support it needed for larger stages while still staying out of the way of the vocal blend. He also provided backing vocals, reinforcing the harmony texture that defined America’s public sound. His long run across much of the classic decade made him one of the most significant supporting musicians in the band’s touring history."
+        "Overview": ""
       },
       {
-        "Name": "Willie Leacox",
+        "Name": "",
         "Roles": [
-          "drums",
-          "percussion"
+          "",
+          ""
         ],
-        "Years": "1973–2014 (died 2022)",
+        "Years": "",
         "Instruments": [
-          "drums",
-          "percussion"
+          "",
+          ""
         ],
         "Albums": [
-          "(touring lineup)"
+          ""
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "Willie Leacox was America’s longtime touring drummer, joining in the early 1970s and remaining a central figure in the live band for decades. His approach supported America’s signature feel—a mix of gentle propulsion and careful dynamics that left space for acoustic guitars and three‑part harmony. In a catalog where the groove is often understated, consistency and touch are critical, and Leacox’s steadiness helped audiences hear the songs the way they remembered them. His tenure spanned multiple eras of the band’s career, making him a defining behind‑the‑scenes contributor to how America sounded on stage for generations of concertgoers."
+        "Overview": ""
       },
       {
-        "Name": "Calvin \"Fuzzy\" Samuels",
+        "Name": "",
         "Roles": [
-          "bass"
+          ""
         ],
-        "Years": "1974 (substitute)",
+        "Years": "",
         "Instruments": [
-          "bass"
+          ""
         ],
         "Albums": [
-          "(touring substitute)"
+          ""
         ],
         "Replacing": [
-          "David Dickey (temporary fill‑in)"
+          ""
         ],
         "ReplacedBy": [
-          "David Dickey (return)"
+          ""
         ],
-        "Overview": "Calvin “Fuzzy” Samuels is a notable fill‑in bassist in America’s touring history, stepping in during a 1974 stretch when the band needed a substitute for their regular touring bassist. Though short‑term, the assignment mattered because it occurred during a high‑visibility period as America continued building momentum beyond their initial breakthrough. A bassist in this context has to be both precise and tasteful—reinforcing harmonic movement without disrupting the delicate acoustic‑and‑vocal balance. Samuels’ professional background and adaptability made him a practical solution for keeping the live show smooth during a transitional moment."
+        "Overview": ""
       }
     ],
     "Name": "America"
