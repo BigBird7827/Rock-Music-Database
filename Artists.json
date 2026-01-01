@@ -2095,8 +2095,456 @@
     {
       "ArtistID": "bad-company",
       "Name": "Bad Company",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1973–1982",
+        "1986–1999",
+        "2001–2002",
+        "2008–2019"
+      ],
+      "Genres": [
+        "hard rock",
+        "blues rock"
+      ],
+      "Labels": [
+        "Island",
+        "Swan Song",
+        "Atlantic",
+        "Atco"
+      ],
+      "Overview": "Bad Company is an English rock band formed in London in 1973 by singer Paul Rodgers and drummer Simon Kirke (both from Free), guitarist Mick Ralphs (from Mott the Hoople), and bassist Boz Burrell (from King Crimson). From the start, they leaned into a direct, blues-rooted kind of hard rock—big riffs, a steady groove, and vocals that sounded lived-in rather than theatrical.\n\nThe group’s self-titled debut arrived in 1974 and hit immediately, turning songs like “Can’t Get Enough” and “Bad Company” into staples and setting the template for their early run. Over the rest of the 1970s, they delivered a string of albums built for arenas but grounded in feel: concise songwriting, muscular guitar work, and choruses that didn’t need decoration to land.\n\nBad Company’s appeal is how unforced it is. Rodgers’ voice carries both grit and warmth, Ralphs’ guitar parts are hook-first and economical, and Kirke’s drumming keeps everything moving without crowding the vocal blend. Burrell’s bass sits right in the pocket, giving the band that “locked” rhythm-section push that made even mid-tempo songs feel powerful.\n\nLineups shifted after the original run ended in the early 1980s, with later eras featuring new vocalists and additional musicians while Kirke remained the one constant. Even with those changes, the band’s identity stayed tied to the classic core: hard rock that’s blues-informed, melody-driven, and built to sound as good through a car stereo as it does in a big room.",
+      "NotableAlbums": [
+        {
+          "Title": "Bad Company",
+          "Year": "1974",
+          "Notes": "A defining debut built on riff-forward simplicity and a huge vocal presence; it established the band’s sound and produced enduring staples like “Can’t Get Enough” and “Bad Company.”"
+        },
+        {
+          "Title": "Straight Shooter",
+          "Year": "1975",
+          "Notes": "A polished follow-up that kept the grit but sharpened the pop sense, anchored by “Feel Like Makin’ Love” and deep-catalog fan favorites."
+        },
+        {
+          "Title": "Run with the Pack",
+          "Year": "1976",
+          "Notes": "A confident mid-’70s set that leaned into the band’s arena scale while staying grounded in groove and melody, highlighted by the title track and “Silver, Blue & Gold.”"
+        },
+        {
+          "Title": "Desolation Angels",
+          "Year": "1979",
+          "Notes": "A late-’70s standout that balanced tough riffing with radio-ready choruses, keeping the band’s momentum into the end of the decade."
+        },
+        {
+          "Title": "Holy Water",
+          "Year": "1990",
+          "Notes": "A major later-era commercial peak featuring Brian Howe on vocals, with hard-rock polish and big singles that returned the band to heavy rock radio rotation."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Can’t Get Enough",
+          "Year": "1974",
+          "Notes": "A signature Ralphs riff and a chorus built to stick; one of the band’s defining early hits."
+        },
+        {
+          "Title": "Bad Company",
+          "Year": "1974",
+          "Notes": "A slower-burning anthem that established the band’s name as a mood as much as a brand."
+        },
+        {
+          "Title": "Movin’ On",
+          "Year": "1974",
+          "Notes": "A driving, road-ready track that captured the band’s early momentum and live energy."
+        },
+        {
+          "Title": "Feel Like Makin’ Love",
+          "Year": "1975",
+          "Notes": "A classic loud/soft build that became one of their most enduring radio staples."
+        },
+        {
+          "Title": "Shooting Star",
+          "Year": "1975",
+          "Notes": "A narrative fan favorite with one of the band’s most memorable choruses and guitar figures."
+        },
+        {
+          "Title": "Rock ’n’ Roll Fantasy",
+          "Year": "1979",
+          "Notes": "A late-’70s highlight that blends tough riffing with a smooth, sing-along hook."
+        },
+        {
+          "Title": "If You Needed Somebody",
+          "Year": "1991",
+          "Notes": "A major later-era hit from the Brian Howe period that brought the band back onto mainstream charts."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1974",
+          "Title": "Debut album reaches No. 1 in the U.S.",
+          "Details": "The self-titled Bad Company album topped the Billboard 200 and became a cornerstone of 1970s hard rock, later earning multi‑platinum status."
+        },
+        {
+          "Year": "1970s",
+          "Title": "Multiple enduring rock-radio hits",
+          "Details": "Across the decade the band placed a run of staples into long-term rotation, including “Can’t Get Enough,” “Bad Company,” “Feel Like Makin’ Love,” and “Shooting Star.”"
+        },
+        {
+          "Year": "2025",
+          "Title": "Rock & Roll Hall of Fame induction (Class of 2025)",
+          "Details": "Bad Company was inducted into the Rock & Roll Hall of Fame, recognizing the band’s influence as a foundational 1970s rock supergroup."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in London in 1973 by Paul Rodgers, Mick Ralphs, Boz Burrell, and Simon Kirke—members drawn from established late-’60s/early-’70s bands.",
+        "Known for a blues-rooted hard-rock style built on concise riffs, strong grooves, and a powerful vocal identity rather than ornate production.",
+        "Simon Kirke remained the band’s only continuous member across lineup changes and later touring eras."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://badcompany.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Bad_Company",
+        "Discography": "https://en.wikipedia.org/wiki/Bad_Company_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Paul Rodgers",
+          "Roles": [
+            "founding member",
+            "lead vocals",
+            "songwriter"
+          ],
+          "Years": "1973–1982, 1998–1999, 2001–2002, 2008–2011, 2016",
+          "Overview": "Founding lead vocalist whose blues-soul phrasing and commanding tone defined Bad Company’s classic era and much of its long-term identity.",
+          "Bio": {
+            "BioID": "bad-company-paul-rodgers",
+            "ArtistID": "bad-company",
+            "ArtistName": "Bad Company",
+            "MemberName": "Paul Rodgers",
+            "FullName": "Paul Bernard Rodgers",
+            "PrimaryInstruments": [
+              "vocals",
+              "guitar"
+            ],
+            "Occupations": [
+              "singer-songwriter",
+              "musician"
+            ],
+            "Genres": [
+              "rock",
+              "blues rock",
+              "hard rock"
+            ],
+            "Birth": {
+              "Date": "1949-12-17",
+              "Place": "Middlesbrough, England"
+            },
+            "ActiveYears": "1968–present",
+            "AssociatedActs": [
+              "Free",
+              "Bad Company",
+              "The Firm",
+              "Queen + Paul Rodgers"
+            ],
+            "KeyAlbums": [
+              "Bad Company",
+              "Straight Shooter",
+              "Run with the Pack",
+              "Desolation Angels"
+            ],
+            "KeySongs": [
+              "Bad Company",
+              "Feel Like Makin' Love",
+              "Shooting Star"
+            ],
+            "Achievements": [
+              "Fronted Bad Company’s classic 1970s run and helped establish the band as a major arena-rock force.",
+              "Co-led a debut album that reached No. 1 in the U.S. and became one of the era’s defining hard-rock records."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.paulrodgers.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Rodgers"
+            },
+            "Biography": "Paul Rodgers is the founding lead singer of Bad Company, known for a voice that blends blues grit with a natural melodic warmth. His delivery is powerful without being flashy—more about feel, phrasing, and conviction than vocal gymnastics—and that quality became the emotional center of Bad Company’s classic recordings.\n\nBefore Bad Company, Rodgers rose to prominence with Free, where he helped define a stripped-down British blues-rock style that emphasized groove and space. That background shaped how Bad Company would work: riffs that breathe, choruses that land cleanly, and songs that trust the band rather than studio tricks.\n\nBad Company formed in 1973 as a true supergroup, with Rodgers joining forces with Mick Ralphs, Boz Burrell, and Simon Kirke. The chemistry was immediate: Rodgers’ voice sat perfectly against Ralphs’ economical riffs and the band’s steady rhythm-section push, creating a sound that felt big and direct at the same time.\n\nOn the debut album, Rodgers delivered a set of performances that still define the band’s reputation—confident, unforced, and rooted in the blues without sounding retro. Tracks like “Bad Company” and “Can’t Get Enough” work largely because Rodgers can sound both tough and human inside a simple arrangement.\n\nAs the band grew into arenas, Rodgers stayed focused on song-first choices. His best Bad Company performances rarely oversell the moment; instead, he lets the groove and the lyric carry the drama, which is why the catalog still feels natural decades later rather than dated by trend.\n\nIn the mid‑’70s run, Rodgers’ role expanded beyond being the voice to being a clear stylistic anchor. Bad Company could shift between swagger and softness, but the through-line was the same: a vocalist who can sound commanding on a riff song and intimate on a ballad without changing who he is.\n\nAfter the original era ended in the early 1980s, Rodgers returned for reunion periods later on, reconnecting the band’s live identity to the sound audiences most associate with the name. Those appearances mattered because Bad Company’s classic songs are built around the voice in the same way a great soul record is.\n\nOutside Bad Company, Rodgers continued a high-profile career through projects like The Firm and later collaborations, further cementing his reputation as one of rock’s premier vocalists. The common thread across those eras is the same directness—he sings like he means it, and the band around him tends to rise to that standard.\n\nRodgers’ legacy in Bad Company is the sense of authority he gives the simplest materials. A riff, a groove, and a chorus become something bigger because his voice turns them into a statement, and that’s a major reason the band’s early catalog remains a cornerstone of classic hard rock."
+          }
+        },
+        {
+          "Name": "Mick Ralphs",
+          "Roles": [
+            "founding member",
+            "guitar",
+            "songwriter"
+          ],
+          "Years": "1973–1982, 1986–1999 (studio), 2001–2002, 2008–2016",
+          "Overview": "Founding guitarist and major songwriting voice whose riff-first style shaped Bad Company’s biggest hooks and the band’s tough-but-melodic feel.",
+          "Bio": {
+            "BioID": "bad-company-mick-ralphs",
+            "ArtistID": "bad-company",
+            "ArtistName": "Bad Company",
+            "MemberName": "Mick Ralphs",
+            "FullName": "Michael Geoffrey Ralphs",
+            "PrimaryInstruments": [
+              "guitar",
+              "vocals"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock"
+            ],
+            "Birth": {
+              "Date": "1944-03-31",
+              "Place": "Stoke Lacy, Herefordshire, England"
+            },
+            "Death": {
+              "Date": "2025-06-23",
+              "Place": "Henley-on-Thames, England"
+            },
+            "ActiveYears": "1964–2016",
+            "AssociatedActs": [
+              "Mott the Hoople",
+              "Bad Company",
+              "Mick Ralphs Blues Band"
+            ],
+            "KeyAlbums": [
+              "Bad Company",
+              "Straight Shooter",
+              "Run with the Pack"
+            ],
+            "KeySongs": [
+              "Can’t Get Enough",
+              "Movin’ On",
+              "Shooting Star"
+            ],
+            "Achievements": [
+              "Co-founded Bad Company and wrote/co-wrote several of the band’s most enduring riffs and hooks.",
+              "Remained associated with the band’s recordings across multiple eras and lineups."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mick_Ralphs",
+              "Official Site": "https://badcompany.com/"
+            },
+            "Biography": "Mick Ralphs was the founding guitarist of Bad Company and one of the band’s key architects, best known for a style that puts the hook first. His parts are rarely ornamental; they’re built to define the song—riffs that identify a track within seconds and chord choices that keep the groove moving while leaving space for the vocal.\n\nBefore forming Bad Company, Ralphs had already proven himself in Mott the Hoople, where he developed a reputation for strong songwriting and practical, hard-driving guitar work. That background helped Bad Company arrive fully formed: a band designed for big rooms but grounded in the discipline of tight arrangements.\n\nWhen Ralphs teamed up with Paul Rodgers and Simon Kirke in 1973, the musical logic was obvious. Rodgers brought a blues-soul voice, Kirke brought a pocket-based drummer’s feel, and Ralphs brought riffs and structures that made the songs feel inevitable rather than constructed.\n\nRalphs’ signature contribution to the debut is the way the guitar functions as both rhythm and identity. “Can’t Get Enough” is the classic example—simple on paper, unforgettable in practice—because the riff isn’t a decoration; it’s the engine that drives the whole track.\n\nAcross the 1970s albums, Ralphs kept that philosophy intact. Even as production got slicker and the band’s reach got bigger, his best work stayed economical: crisp chord stabs, clean transitions, and lines that support the vocal rather than compete with it.\n\nRalphs’ songwriting also carried a subtle sense of melody. He could write heavy enough for hard-rock fans and still land choruses that radio would embrace. That balance—toughness with tunefulness—is a major reason Bad Company’s classic catalog holds up so well.\n\nIn later decades, Ralphs remained closely tied to the band’s identity, contributing to recordings even when touring demands and health issues affected his ability to be fully active on the road. His presence still mattered because Bad Company’s best-known songs are built around the exact kind of riff-and-groove framework he specialized in.\n\nIn 2016, Ralphs played what became his final performance with the band at London’s O2 Arena. Shortly afterward he suffered a debilitating stroke that ended his ability to perform, and he spent his remaining years away from the stage.\n\nRalphs died in 2025, leaving behind a legacy defined by songwriting that never wastes a moment. In Bad Company, he helped prove that the simplest guitar ideas—when they’re the right ones—can become permanent parts of rock’s vocabulary."
+          }
+        },
+        {
+          "Name": "Boz Burrell",
+          "Roles": [
+            "founding member",
+            "bass",
+            "vocals"
+          ],
+          "Years": "1973–1982, 1998–1999",
+          "Overview": "Original bassist whose steady, song-serving approach anchored the band’s early groove and helped keep the classic-era arrangements lean and powerful.",
+          "Bio": {
+            "BioID": "bad-company-boz-burrell",
+            "ArtistID": "bad-company",
+            "ArtistName": "Bad Company",
+            "MemberName": "Boz Burrell",
+            "FullName": "Raymond \"Boz\" Burrell",
+            "PrimaryInstruments": [
+              "bass",
+              "vocals"
+            ],
+            "Occupations": [
+              "musician",
+              "singer-songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock",
+              "progressive rock"
+            ],
+            "Birth": {
+              "Date": "1946-08-01",
+              "Place": "Holbeach, Lincolnshire, England"
+            },
+            "Death": {
+              "Date": "2006-09-21",
+              "Place": "Marbella, Spain",
+              "Cause": "heart attack"
+            },
+            "ActiveYears": "1963–2006",
+            "AssociatedActs": [
+              "King Crimson",
+              "Bad Company"
+            ],
+            "KeyAlbums": [
+              "Bad Company",
+              "Straight Shooter",
+              "Run with the Pack"
+            ],
+            "KeySongs": [
+              "Can’t Get Enough",
+              "Bad Company",
+              "Movin’ On"
+            ],
+            "Achievements": [
+              "Helped establish Bad Company’s classic rhythm-section feel during the band’s major 1970s run.",
+              "Previously gained recognition through work with King Crimson before moving into hard rock."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Boz_Burrell"
+            },
+            "Biography": "Boz Burrell was the original bassist of Bad Company, valued for playing that put the song ahead of flash. In a band built around riffs, groove, and vocal authority, Burrell’s job was to make the foundation feel inevitable—tight, supportive, and steady enough that the chorus could hit without strain.\n\nBefore Bad Company, Burrell’s career took a very different turn through progressive rock, notably with King Crimson in the early 1970s. That experience sharpened his musical discipline and ear for arrangement, skills that later translated into Bad Company’s deceptively simple but highly controlled band interplay.\n\nWhen the supergroup formed in 1973, Burrell joined Paul Rodgers, Mick Ralphs, and Simon Kirke in creating a sound that was direct and muscular, but never sloppy. His bass lines rarely call attention to themselves, yet they’re central to why the early records feel so “locked” as a unit.\n\nOn the debut album, Burrell’s playing helps define Bad Company’s pulse. The riffs are strong, but it’s the way the bass and drums sit together—solid, consistent, and slightly driving—that turns those riffs into songs that feel alive rather than merely heavy.\n\nBurrell’s tone and approach also contributed to the band’s warmth. Even when the guitars lean tough, his low end keeps the track rounded and musical, giving the band a blues-rooted feel rather than a purely aggressive hard-rock edge.\n\nDuring the 1970s peak, Burrell toured extensively with the band, helping Bad Company translate studio precision into arena scale. That mattered because the band’s identity depends on groove and vocal blend more than stage spectacle; a dependable rhythm section is the entire platform.\n\nAfter the original era concluded, Burrell reconnected with the band for late-’90s activity, briefly bringing the classic low-end feel back into the lineup. Those reunion moments underlined how much the original rhythm-section character shaped the public idea of what Bad Company “sounds like.”\n\nBurrell continued musical work beyond the band and lived in Spain later in life. In 2006, he died of a heart attack at age 60, ending a career that moved from progressive rock complexity to hard-rock directness without losing musicianship.\n\nBurrell’s lasting contribution to Bad Company is the groove itself. The early catalog works because the band sounds unified, and his bass playing—firm, musical, and unshowy—was a major part of that unity."
+          }
+        },
+        {
+          "Name": "Simon Kirke",
+          "Roles": [
+            "founding member",
+            "drums",
+            "vocals"
+          ],
+          "Years": "1973–2019",
+          "Overview": "Co-founding drummer and the band’s only continuous member, known for a pocket-driven style that keeps the songs moving while leaving room for vocals and riffs.",
+          "Bio": {
+            "BioID": "bad-company-simon-kirke",
+            "ArtistID": "bad-company",
+            "ArtistName": "Bad Company",
+            "MemberName": "Simon Kirke",
+            "FullName": "Simon Frederick St George Kirke",
+            "PrimaryInstruments": [
+              "drums",
+              "vocals"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock"
+            ],
+            "Birth": {
+              "Date": "1949-07-28",
+              "Place": "Lambeth, London, England"
+            },
+            "ActiveYears": "1968–present",
+            "AssociatedActs": [
+              "Free",
+              "Bad Company",
+              "Ringo Starr & His All-Starr Band"
+            ],
+            "KeyAlbums": [
+              "Bad Company",
+              "Straight Shooter",
+              "Run with the Pack",
+              "Holy Water"
+            ],
+            "KeySongs": [
+              "Can’t Get Enough",
+              "Feel Like Makin’ Love",
+              "Rock ’n’ Roll Fantasy"
+            ],
+            "Achievements": [
+              "Co-founded Bad Company and remained the band’s only continuous member across all lineup eras.",
+              "Helped define a groove-forward hard-rock style that made the band’s songs feel both heavy and easy to sing along to."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Simon_Kirke",
+              "Official Site": "https://www.officialsimonkirke.com/"
+            },
+            "Biography": "Simon Kirke is the co-founding drummer of Bad Company and the one member who remained continuous through every major era of the band. His playing is built around pocket and control—steady time, strong feel, and dynamics that support the vocal—qualities that match Bad Company’s identity perfectly.\n\nKirke first became widely known through Free, where his drumming helped define a stripped-down blues-rock sound that valued space as much as power. That sensibility carried straight into Bad Company, where the goal was to sound huge without cluttering the arrangement.\n\nWhen Bad Company formed in 1973, Kirke became the rhythmic anchor alongside Boz Burrell. Their job was to make the band’s riffs and choruses feel inevitable—solid enough for arenas, but flexible enough to breathe around Paul Rodgers’ vocal phrasing.\n\nOn the classic recordings, Kirke’s drumming is less about showing off and more about shaping momentum. He knows when to push a chorus and when to sit back, which is why even mid-tempo songs feel like they have forward motion rather than simply cruising.\n\nKirke also contributed vocals, adding texture to the band’s harmonies and reinforcing the sense that Bad Company is a “band sound,” not just a singer over backing tracks. That matters in a group where the groove is as important as the hook.\n\nThrough lineup changes in later decades, Kirke became the constant point of reference. Different vocalists and additional musicians could come and go, but as long as Kirke was behind the kit, the set could still feel like Bad Company: grounded, rhythmic, and direct.\n\nKirke’s longevity with the name is also tied to his instincts as a live musician. Bad Company’s songs rely on feel; if the drummer is rigid, the music stiffens. Kirke keeps it human—tight, but never mechanical—so the performances stay warm.\n\nOutside the band, he remained active through collaborations and touring, but Bad Company stayed the defining thread. Being the continuous member also made him a keeper of the band’s internal timing: how the hits should sit, how the grooves should breathe, and how the dynamics should rise.\n\nKirke’s legacy in Bad Company is the heartbeat of the catalog. The riffs are memorable and the voice is iconic, but the reason the songs still feel good at volume is the drummer who knows exactly how to make hard rock swing without losing its weight."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Brian Howe",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1986–1994",
+          "Instruments": [
+            "vocals"
+          ],
+          "Albums": [
+            "Fame and Fortune",
+            "Dangerous Age",
+            "Holy Water",
+            "Here Comes Trouble"
+          ],
+          "Replacing": "Paul Rodgers",
+          "ReplacedBy": "Robert Hart",
+          "Overview": "Brian Howe replaced Paul Rodgers as Bad Company’s lead singer in the mid‑1980s and fronted the band through a major commercial resurgence. His smoother, high-range rock vocal suited the era’s radio polish while keeping the songs grounded in hard-rock hooks. He remained closely associated with the early‑’90s hits that kept the band in heavy rotation on rock radio."
+        },
+        {
+          "Name": "Robert Hart",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1994–1998",
+          "Instruments": [
+            "vocals"
+          ],
+          "Albums": [
+            "Company of Strangers",
+            "Stories Told & Untold"
+          ],
+          "Replacing": "Brian Howe",
+          "ReplacedBy": "",
+          "Overview": "Robert Hart took over lead vocals in the mid‑1990s and helped steer the band through its final studio era of original material. His voice brought a bluesier edge back into the lineup, balancing classic-rock grit with the decade’s bigger, modern production. He is best remembered for the band’s late-career studio albums and extensive touring during that period."
+        },
+        {
+          "Name": "Rick Wills",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1992–1998",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [
+            "Here Comes Trouble",
+            "Company of Strangers",
+            "Stories Told & Untold"
+          ],
+          "Replacing": "Various touring/recording bassists in the late 1980s",
+          "ReplacedBy": "Boz Burrell (rejoined)",
+          "Overview": "Rick Wills joined Bad Company in the 1990s after a long tenure as Foreigner’s bassist, bringing a clean, confident low-end to a guitar-forward sound. His playing emphasized stability and drive, supporting both the band’s classic material and the later-era studio records. In a lineup built for touring, he provided the consistent foundation that let the vocal and guitar hooks do the talking."
+        },
+        {
+          "Name": "Dave Colwell",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1991–1998 (touring/recording era)",
+          "Instruments": [
+            "guitar",
+            "vocals"
+          ],
+          "Albums": [
+            "Here Comes Trouble",
+            "Company of Strangers",
+            "Stories Told & Untold"
+          ],
+          "Replacing": "Touring guitarist role during periods when Mick Ralphs reduced live duties",
+          "ReplacedBy": "",
+          "Overview": "Dave “Bucket” Colwell joined Bad Company as an additional guitarist during the early 1990s and became a key part of the band’s touring lineup. He helped recreate the classic dual-guitar weight live and contributed to the band’s mid‑’90s studio work. His role was to keep the riffs big and the arrangements full while staying faithful to the original feel."
+        },
+        {
+          "Name": "Howard Leese",
+          "Roles": [
+            "guitar",
+            "keyboards"
+          ],
+          "Years": "2008–2018 (touring era)",
+          "Instruments": [
+            "guitar",
+            "keyboards"
+          ],
+          "Albums": [],
+          "Replacing": "Touring utility role (guitar/keyboards)",
+          "ReplacedBy": "",
+          "Overview": "Howard Leese joined Bad Company in the later touring era, covering guitar and keyboard parts that helped the catalog sound complete on stage. With a background in large-scale arena rock, he brought a polished, professional touch to the live arrangements without overpowering the core songs. His contributions focused on texture and support—filling the sonic space around the signature riffs."
+        }
+      ]
     },
     {
       "ArtistID": "badfinger",
@@ -2643,6 +3091,604 @@
       "Name": "ZZ Top",
       "CoreMembers": [],
       "NonCoreMembers": []
+    },
+    {
+      "ArtistID": "acdc",
+      "Name": "AC/DC",
+      "Type": "Band",
+      "Origin": {
+        "City": "Sydney",
+        "Region": "New South Wales",
+        "Country": "Australia"
+      },
+      "YearsActive": [
+        "1973–present"
+      ],
+      "Genres": [
+        "hard rock",
+        "blues rock",
+        "rock and roll"
+      ],
+      "Labels": [
+        "Albert",
+        "Atlantic",
+        "Atco",
+        "Columbia"
+      ],
+      "Overview": "AC/DC is an Australian rock band formed in Sydney in 1973, built around the Young brothers—lead guitarist Angus and rhythm guitarist Malcolm—whose stripped‑down, hard‑driving approach helped define stadium rock. The band’s identity is direct: riffs that hit fast, grooves that don’t let up, and choruses designed to be shouted back in unison. AC/DC has always described its music simply as “rock and roll,” and that blunt clarity is exactly what made them last.\n\nTheir classic era began with singer Bon Scott, whose swagger and humor gave early albums a dangerous, streetwise charm, and then surged to a new level with Brian Johnson after Scott’s death in 1980. Instead of reinventing the sound, the band doubled down on it, delivering one of rock’s most famous comebacks with Back in Black and continuing to fill arenas with a catalogue that rarely needs deep cuts to feel complete.\n\nAC/DC’s appeal is the discipline behind the noise. Malcolm’s rhythm parts are the engine—tight, relentless, and perfectly spaced—while Angus’ lead playing is all bite, bounce, and showmanship. With a rhythm section that values pocket over flash, the songs stay physical and uncomplicated, even when the production is polished. Over decades of lineup changes and pauses, that core formula has remained intact.\n\nFrom “Highway to Hell” and “Back in Black” to “Thunderstruck,” AC/DC became a universal shorthand for high-voltage rock: instantly recognizable, endlessly replayable, and built to sound huge in a room full of people. Even in later years—with new touring musicians and a renewed spotlight around the Power Up era—the band’s public promise stayed the same: loud guitars, simple rules, and a set list that feels like a greatest‑hits parade.",
+      "NotableAlbums": [
+        {
+          "Title": "High Voltage",
+          "Year": "1975",
+          "Notes": "Australian debut that established the early high-energy blueprint and launched the band’s national breakout."
+        },
+        {
+          "Title": "Let There Be Rock",
+          "Year": "1977",
+          "Notes": "A harder-edged statement that pushed the band toward the lean, aggressive sound that defined their late-’70s rise."
+        },
+        {
+          "Title": "Highway to Hell",
+          "Year": "1979",
+          "Notes": "International breakthrough and the final studio album with Bon Scott; a landmark of riff-driven hard rock."
+        },
+        {
+          "Title": "Back in Black",
+          "Year": "1980",
+          "Notes": "A career-defining comeback and tribute after Scott’s death; one of rock’s most enduring and best-selling albums."
+        },
+        {
+          "Title": "The Razors Edge",
+          "Year": "1990",
+          "Notes": "A major modern-era resurgence powered by “Thunderstruck,” reconnecting the band to a new generation of rock radio."
+        },
+        {
+          "Title": "Power Up",
+          "Year": "2020",
+          "Notes": "A late-career return built as a tribute to Malcolm Young, reaffirming the classic formula with renewed energy."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "T.N.T.",
+          "Year": "1975",
+          "Notes": "An early anthem built for call-and-response, capturing the band’s swagger and simplicity."
+        },
+        {
+          "Title": "Whole Lotta Rosie",
+          "Year": "1977",
+          "Notes": "A signature Bon Scott-era track: heavy groove, huge hook, and a definitive Angus lead."
+        },
+        {
+          "Title": "Highway to Hell",
+          "Year": "1979",
+          "Notes": "A universal rock chant that became the band’s most famous pre-1980 anthem."
+        },
+        {
+          "Title": "Back in Black",
+          "Year": "1980",
+          "Notes": "A riff monument—economical, instantly recognizable, and central to the band’s global identity."
+        },
+        {
+          "Title": "You Shook Me All Night Long",
+          "Year": "1980",
+          "Notes": "A crossover classic that paired hard-rock bite with perfect pop structure."
+        },
+        {
+          "Title": "Hells Bells",
+          "Year": "1980",
+          "Notes": "A slow-build opener that set the tone for the band’s post-Scott era with theatrical weight and massive groove."
+        },
+        {
+          "Title": "Thunderstruck",
+          "Year": "1990",
+          "Notes": "A late-era signature with a lightning-strike guitar figure that became a stadium and sports staple."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2003",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "AC/DC was inducted into the Rock & Roll Hall of Fame, cementing their status as one of the defining hard-rock bands of the modern era."
+        },
+        {
+          "Year": "1980",
+          "Title": "Back in Black becomes a global blockbuster",
+          "Details": "The album’s enduring popularity turned it into one of the best-selling records in history and a permanent cornerstone of classic rock."
+        },
+        {
+          "Year": "1970s–present",
+          "Title": "Decades of arena-level touring and cultural ubiquity",
+          "Details": "AC/DC’s catalogue became a universal shorthand for high-voltage rock, with songs used constantly in sports, film, and broadcast settings."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Sydney in 1973 by brothers Angus and Malcolm Young, with the band’s identity anchored in riff-first songwriting and a relentless groove.",
+        "The band’s classic catalog spans two iconic vocal eras: Bon Scott (1974–1980) and Brian Johnson (1980–present).",
+        "AC/DC’s sound is intentionally consistent—built on simple structures, huge choruses, and a tight rhythm engine rather than stylistic reinvention."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.acdc.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/AC/DC",
+        "Discography": "https://en.wikipedia.org/wiki/AC/DC_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Angus Young",
+          "Roles": [
+            "founding member",
+            "lead guitar",
+            "songwriter"
+          ],
+          "Years": "1973–present",
+          "Overview": "Founding lead guitarist and the band’s defining onstage icon, known for riff-based leads, biting tone, and a performance style built for arenas.",
+          "Bio": {
+            "BioID": "acdc-angus-young",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Angus Young",
+            "FullName": "Angus McKinnon Young",
+            "PrimaryInstruments": [
+              "guitar"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock",
+              "rock and roll"
+            ],
+            "Birth": {
+              "Date": "1955-03-31",
+              "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
+            },
+            "ActiveYears": "1973–present",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Highway to Hell",
+              "Back in Black",
+              "The Razors Edge",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Back in Black",
+              "Thunderstruck",
+              "Highway to Hell"
+            ],
+            "Achievements": [
+              "Co‑founded AC/DC and became one of rock’s most recognizable lead guitarists through his tone, phrasing, and onstage persona.",
+              "Helped anchor multiple era-defining albums and a catalogue that became a global template for riff-driven hard rock."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Angus_Young",
+              "Official Site": "https://www.acdc.com/"
+            },
+            "Biography": "Angus Young is the face of AC/DC: the lead guitarist whose playing and stage presence turned the band into a global symbol of high-voltage rock. Born in Scotland and raised in Australia, he brought a restless, aggressive lead style that feels part blues tradition, part cartoon-energy sprint—sharp bends, biting vibrato, and riffs that punch through any mix.\n\nFrom the start, Angus’ job in AC/DC wasn’t to complicate the music but to electrify it. The band’s songs are built on simple, hard rhythms, and Angus adds the sparks—hooks that double as riffs, solos that sing without drifting into showy excess, and fills that keep the momentum climbing instead of pausing for applause.\n\nOne of his defining choices was committing to a persona that matched the music’s intensity. The schoolboy-uniform look, the duckwalk, the wild pacing at the lip of the stage—none of it works unless the playing is equally committed. Angus’ performance style is physical, but it’s disciplined: he hits the parts the same way night after night because the riffs are the product.\n\nAngus’ partnership with Malcolm Young is central to the AC/DC story. Malcolm created the rhythmic “grid” that makes the songs feel unstoppable, and Angus carved leads on top of it like a blade. The contrast is the secret: Malcolm’s locked rhythm gives Angus the freedom to sound reckless while the band remains tight.\n\nDuring the Bon Scott years, Angus helped build a catalogue that felt dangerous and funny at the same time—sleazy storytelling, streetwise swagger, and riffs that sounded like engines. When Scott died in 1980, the band faced an existential moment, and Angus responded by doing what he always does: play harder, not different.\n\nBack in Black became the proof that AC/DC’s identity was bigger than any single era. Angus’ tone on that record—crisp, bright, and vicious—helped define the sound of hard rock for decades. Later classics like “Thunderstruck” showed he could still write a riff that feels like a lightning bolt, even after the band had already become a monument.\n\nAfter Malcolm stepped away due to illness and later died in 2017, Angus carried the band’s legacy with a clear mission: keep the rhythm-first spirit intact. That meant relying on the same core values—tight riffs, straightforward song structures, and a sound that stays recognizably AC/DC even as personnel shifts around it.\n\nAngus’ legacy is that he made lead guitar feel essential again: not as decoration, but as the main voice of the song. In AC/DC, the riff is the headline and the solo is the punctuation, and Angus has spent a lifetime proving that a few right notes—played with total conviction—can fill a stadium."
+          }
+        },
+        {
+          "Name": "Malcolm Young",
+          "Roles": [
+            "founding member",
+            "rhythm guitar",
+            "songwriter",
+            "backing vocals"
+          ],
+          "Years": "1973–2014",
+          "Overview": "Co‑founder and rhythmic architect whose percussive, disciplined rhythm style defined AC/DC’s engine and songwriting approach.",
+          "Bio": {
+            "BioID": "acdc-malcolm-young",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Malcolm Young",
+            "FullName": "Malcolm Mitchell Young",
+            "PrimaryInstruments": [
+              "guitar"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock",
+              "rock and roll"
+            ],
+            "Birth": {
+              "Date": "1953-01-06",
+              "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
+            },
+            "ActiveYears": "1973–2014",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Let There Be Rock",
+              "Highway to Hell",
+              "Back in Black",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Highway to Hell",
+              "Back in Black",
+              "Shoot to Thrill"
+            ],
+            "Achievements": [
+              "Co‑founded AC/DC and defined the band’s signature rhythm-guitar engine—tight, percussive, and relentlessly consistent.",
+              "Widely regarded as one of rock’s great rhythm guitarists and a primary architect of AC/DC’s songwriting discipline."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Young",
+              "Official Site": "https://www.acdc.com/"
+            },
+            "Biography": "Malcolm Young was the rhythmic architect of AC/DC: the co‑founder whose right-hand attack and ruthless sense of timing made the band’s music feel like a machine with a human heartbeat. While Angus became the visual icon, Malcolm was the internal engine—building songs from the rhythm out and insisting that every part earn its place.\n\nHis playing is often described as “simple,” but it’s the hardest kind of simple: perfectly spaced chords, percussive muting, and a groove that never drifts. Malcolm’s rhythm guitar functions almost like a drum kit—locking with the snare and kick, creating a grid that makes the whole band sound heavier than the sum of its parts.\n\nAs a songwriter, Malcolm emphasized momentum and clarity. AC/DC songs rarely wander; they build, they hit, they repeat the hook until the room becomes the hook. That structure isn’t accidental—it’s Malcolm’s discipline, the insistence that riffs should be memorable, choruses should be obvious, and arrangements should leave room for the vocal to land.\n\nDuring the Bon Scott era, Malcolm helped shape a sound that felt raw without being sloppy. The early records have swagger, but the band is always tight, and that tightness comes from the rhythm guitar. If the riff is a truck, Malcolm is the axle.\n\nAfter Bon Scott’s death, Malcolm’s steadiness became even more important. Back in Black is often celebrated for its riffs and vocals, but its real miracle is restraint: every part is pared down to essentials, and Malcolm’s rhythm patterns keep the songs moving like a steady pulse under a massive chorus.\n\nMalcolm’s leadership was famously quiet but absolute. He wasn’t chasing spotlight; he was chasing the right groove. In rehearsals and recordings, he was known for focusing on feel—tiny adjustments that listeners may not articulate but immediately sense when the band is “locked.”\n\nIn 2014, Malcolm stepped away as his health declined, a turning point that underscored how central he was to the AC/DC sound. Even when others filled the rhythm-guitar role, the band’s mission remained to honor Malcolm’s approach: tight chords, no wasted motion, rhythm first.\n\nMalcolm died in 2017, but his work continues to define AC/DC’s identity. If Angus is the lightning, Malcolm is the power station—an enduring lesson that the most important rock instrument can be the one that never stops pushing the song forward.",
+            "Death": {
+              "Date": "2017-11-18",
+              "Place": "Sydney, New South Wales, Australia",
+              "Cause": "Dementia-related complications"
+            }
+          }
+        },
+        {
+          "Name": "Bon Scott",
+          "Roles": [
+            "lead vocals",
+            "songwriter"
+          ],
+          "Years": "1974–1980",
+          "Overview": "Original star vocalist whose swagger, humor, and rasping delivery defined AC/DC’s breakout era and early identity.",
+          "Bio": {
+            "BioID": "acdc-bon-scott",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Bon Scott",
+            "FullName": "Ronald Belford \"Bon\" Scott",
+            "PrimaryInstruments": [
+              "vocals"
+            ],
+            "Occupations": [
+              "singer",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock",
+              "rock and roll"
+            ],
+            "Birth": {
+              "Date": "1946-07-09",
+              "Place": "Forfar, Scotland (raised in Australia)"
+            },
+            "ActiveYears": "1974–1980",
+            "AssociatedActs": [
+              "AC/DC",
+              "Fraternity",
+              "The Valentines"
+            ],
+            "KeyAlbums": [
+              "High Voltage",
+              "Let There Be Rock",
+              "Highway to Hell"
+            ],
+            "KeySongs": [
+              "Highway to Hell",
+              "Whole Lotta Rosie",
+              "T.N.T."
+            ],
+            "Achievements": [
+              "Fronted AC/DC’s breakout era and helped define the band’s early image: funny, filthy, fearless, and unmistakably human.",
+              "Left a short but towering catalogue that set the tone for AC/DC’s most dangerous and charismatic period."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bon_Scott"
+            },
+            "Biography": "Bon Scott was AC/DC’s original star vocalist—the voice of the band’s most unruly era and one of rock’s most charismatic frontmen. He sang with a rasp that sounded lived‑in, but the real weapon was his personality: he could deliver menace, humor, and swagger in the same line without blinking.\n\nScott joined AC/DC in 1974, replacing early singer Dave Evans and immediately shifting the band’s center of gravity. Where the early material leaned more glam and teen‑rock, Scott brought streetwise confidence and a lyrics-first attitude that matched the Young brothers’ riffs. The band began to sound like a gang with a groove.\n\nHis greatest skill was making a hard-rock song feel like a story told at the bar—fast, dirty, and packed with punchlines. Even when the lyrics were outrageous, the delivery felt honest, and that honesty made audiences trust him. He wasn’t acting tough; he sounded like he was having a great time being tough.\n\nOn albums like Let There Be Rock and Powerage, Scott’s vocals are all bite and bounce. He could ride a riff like a surfboard, leaning into the rhythm and letting the band’s swing do the heavy lifting. The result is music that feels dangerous but also weirdly joyful—hard rock that laughs while it punches.\n\nHighway to Hell became the peak of the Scott era, capturing the band at its most concise and lethal. The title track is a perfect example: a simple hook that becomes a chant, carried by Scott’s ability to sound both playful and threatening in the same breath.\n\nScott died in February 1980, just as the band was poised to become a global stadium institution. His death could have ended AC/DC, and for many bands it would have. Instead, it became the moment that forced AC/DC to define what was essential—and then build forward without pretending Scott could be replaced.\n\nThe band’s later success didn’t erase Scott; it amplified him. Fans continued to treat the Scott catalogue as a sacred core, and songs like “T.N.T.,” “Whole Lotta Rosie,” and “Highway to Hell” stayed in the live set as permanent proof of where the band came from.\n\nScott’s legacy is that he made rock and roll feel dirty and fun again. He wasn’t polished, and he didn’t want to be. In AC/DC, he helped turn riffs into attitude and attitude into a world, leaving a voice that still sounds like trouble every time it comes through the speakers.",
+            "Death": {
+              "Date": "1980-02-19",
+              "Place": "London, England",
+              "Cause": "Acute alcohol poisoning (officially recorded as 'acute alcohol poisoning')"
+            }
+          }
+        },
+        {
+          "Name": "Brian Johnson",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1980–present",
+          "Overview": "Lead vocalist who fronted AC/DC’s most famous comeback and helped carry the band through multiple eras of stadium dominance.",
+          "Bio": {
+            "BioID": "acdc-brian-johnson",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Brian Johnson",
+            "FullName": "Brian Francis Johnson",
+            "PrimaryInstruments": [
+              "vocals"
+            ],
+            "Occupations": [
+              "singer",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "rock and roll"
+            ],
+            "Birth": {
+              "Date": "1947-10-05",
+              "Place": "Dunston, Gateshead, England"
+            },
+            "ActiveYears": "1980–present",
+            "AssociatedActs": [
+              "AC/DC",
+              "Geordie"
+            ],
+            "KeyAlbums": [
+              "Back in Black",
+              "For Those About to Rock We Salute You",
+              "The Razors Edge",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Back in Black",
+              "You Shook Me All Night Long",
+              "Thunderstruck"
+            ],
+            "Achievements": [
+              "Joined AC/DC in 1980 and fronted one of rock’s most famous comeback albums, Back in Black.",
+              "Helped lead the band through multiple eras of success, from early-’80s stadium dominance to later global touring peaks."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Johnson"
+            },
+            "Biography": "Brian Johnson is the AC/DC vocalist who took the most impossible job in hard rock and made it work: following Bon Scott after Scott’s death in 1980. Johnson’s voice is a rasping, high‑energy bark—less sly than Scott, more sheer force—and that change helped AC/DC pivot from streetwise menace to pure stadium power without losing intensity.\n\nBefore AC/DC, Johnson was best known for fronting the British band Geordie, where he developed a loud, high-range style built for hard riffs. That background mattered because AC/DC didn’t need a singer who could sound like Scott; they needed a singer who could hit over the riffs and keep the band’s momentum aggressive and uncomplicated.\n\nJohnson joined in 1980 and immediately recorded Back in Black, an album that became both a tribute and a rebirth. The record works because Johnson never sounds tentative. He attacks the songs like he belongs there, and the band responds with riffs that feel sharpened and focused.\n\nIn the early 1980s, Johnson helped AC/DC become a definitive arena band. For Those About to Rock We Salute You and the tours that followed established the Johnson-era identity: bigger choruses, massive hooks, and a vocal that punches through the mix like a siren.\n\nJohnson’s strengths are stamina and commitment. AC/DC songs demand repetition—choruses sung again and again until they feel inevitable—and he leans into that demand. His phrasing is designed for a crowd: clear, rhythmic, and easy to chant back, even at the highest volume.\n\nOver the decades, Johnson navigated the band through changing production styles without changing the core. Whether the guitars were polished or raw, the job remained the same: deliver the hook, keep the energy high, and sound like the band is having a great time blowing the roof off.\n\nHealth issues forced Johnson off the road in 2016, creating another uncertain chapter. His return to the band in the Power Up era showed how strongly his voice is tied to the modern AC/DC identity. For many listeners, the Johnson sound is the “second half” of AC/DC’s legend.\n\nJohnson’s legacy is resilience. He didn’t replace Bon Scott; he helped AC/DC survive the loss and become even larger. In doing so, he turned what could have been an ending into one of rock’s most enduring continuations."
+          }
+        },
+        {
+          "Name": "Phil Rudd",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1975–1983, 1994–2015, 2018–present",
+          "Overview": "Classic-era drummer known for heavy pocket and restraint—playing exactly what the riffs require to feel huge.",
+          "Bio": {
+            "BioID": "acdc-phil-rudd",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Phil Rudd",
+            "FullName": "Phillip Hugh Norman Witschke Rudzevecuis",
+            "PrimaryInstruments": [
+              "drums"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "hard rock",
+              "rock and roll"
+            ],
+            "Birth": {
+              "Date": "1954-05-19",
+              "Place": "Melbourne, Victoria, Australia"
+            },
+            "ActiveYears": "1975–present",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Highway to Hell",
+              "Back in Black",
+              "The Razors Edge",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Back in Black",
+              "Highway to Hell",
+              "Thunderstruck"
+            ],
+            "Achievements": [
+              "Served as AC/DC’s classic-era drummer, defining the band’s straight-ahead, pocket-driven feel on their most famous albums.",
+              "Known for restraint and groove—playing exactly what the songs require, no more and no less."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Phil_Rudd"
+            },
+            "Biography": "Phil Rudd is the drummer most associated with AC/DC’s classic feel: steady, heavy, and deceptively simple. His playing is about pocket rather than flourish, giving the band a rhythmic confidence that lets riffs and vocals dominate without ever feeling rushed.\n\nRudd joined AC/DC in the mid‑1970s as the band solidified its definitive lineup and sound. His arrival helped sharpen the groove—less loose, more forceful—and that change became a key ingredient in the band’s late-’70s rise from cult favorite to stadium force.\n\nOn Highway to Hell and Back in Black, Rudd’s drumming is a masterclass in restraint. He hits hard, keeps the beat centered, and leaves space where space is needed. The result is music that feels enormous even though the parts are stripped to essentials.\n\nRudd’s style supports the Young brothers’ guitars in a very specific way: the drums don’t compete with the riff; they underline it. That partnership makes AC/DC feel like a single moving object—guitars, bass, and drums locking into the same blunt forward drive.\n\nHis relationship with the band has included departures and returns, but his imprint on the catalogue is permanent. Many fans can feel the difference between drummers in AC/DC not through speed or complexity, but through how the groove sits—Rudd’s feel is heavy without being stiff.\n\nIn the 1990s resurgence around The Razors Edge, Rudd’s return helped reconnect the band’s modern sound to the classic pocket. The songs are bigger and more polished, but the core remains rhythm-first, with drums that make the riff feel inevitable.\n\nIn later years, Rudd’s role became complicated by offstage issues and touring changes, but the band’s studio work in the Power Up era again highlighted why his drumming matters: it’s the simplest part that often makes the whole machine feel right.\n\nRudd’s legacy is that he made hard rock swing without softening it. In AC/DC, he proved that the most powerful drum part is often the one that never tries to impress—only to drive the song like a hammer."
+          }
+        },
+        {
+          "Name": "Cliff Williams",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1977–2016, 2018–present",
+          "Overview": "Longtime bassist and backing vocalist who helped define the classic lineup’s tight, unified drive on record and on stage.",
+          "Bio": {
+            "BioID": "acdc-cliff-williams",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Cliff Williams",
+            "FullName": "Clifford Williams",
+            "PrimaryInstruments": [
+              "bass",
+              "backing vocals"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "hard rock",
+              "rock and roll"
+            ],
+            "Birth": {
+              "Date": "1949-12-14",
+              "Place": "Romford, Essex, England"
+            },
+            "ActiveYears": "1974–present",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Powerage",
+              "Highway to Hell",
+              "Back in Black",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "You Shook Me All Night Long",
+              "Hells Bells",
+              "Thunderstruck"
+            ],
+            "Achievements": [
+              "Joined AC/DC in 1977 and became a key part of the band’s most iconic lineup, providing bass foundation and signature backing vocals.",
+              "Helped keep the band’s sound unified live and in the studio through decades of touring and recording."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Cliff_Williams"
+            },
+            "Biography": "Cliff Williams is AC/DC’s long-running bassist and a crucial part of the band’s famous “classic five” lineup. His role is foundational: lock to the drums, reinforce the guitar rhythm, and keep the music driving forward without distraction.\n\nWilliams joined AC/DC in 1977, arriving as the band was sharpening its sound for the run that would lead to global dominance. His bass playing is supportive and direct—built to make riffs feel heavier and choruses feel more certain rather than to compete for spotlight.\n\nIn AC/DC, the bass is the glue between Malcolm’s rhythm guitar and the kick drum, and Williams excels at that job. He tends to play lines that are simple but perfectly placed, emphasizing the downbeat and the groove so the whole band feels like it’s moving as one unit.\n\nWilliams is also important vocally. His backing vocals are a recognizable part of the AC/DC sound, thickening choruses and giving the band’s shout-along hooks extra mass. Those vocal stacks matter because AC/DC choruses are designed to become communal chants.\n\nAcross albums like Highway to Hell and Back in Black, the band’s power comes from cohesion, and Williams contributes to that cohesion by never stepping out of the pocket. The restraint is the point: the song is always bigger than the part.\n\nWilliams stepped away after the 2016 touring chapter, then returned during the Power Up era, reflecting the band’s pull toward reuniting the most familiar core for major moments. Even when touring personnel changes, his presence remains strongly tied to the “official” AC/DC identity for fans.\n\nLive, Williams’ job is endurance and steadiness. AC/DC sets are long and physically loud, and the bass must stay consistent so the riffs keep landing with the same force. Williams’ playing and vocal support help the band maintain that pressure without fatigue showing in the groove.\n\nWilliams’ legacy is the steady foundation that allows everything else to feel larger. In a band famous for guitars and vocals, his contribution is the part you don’t notice until it’s missing: the bass that keeps the whole machine centered and unstoppable."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Stevie Young",
+          "Roles": [
+            "rhythm guitar",
+            "backing vocals"
+          ],
+          "Years": "2014–present (touring earlier in 1988)",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [
+            "Rock or Bust",
+            "Power Up"
+          ],
+          "Replacing": "Malcolm Young",
+          "ReplacedBy": "",
+          "Overview": "Stevie Young is Malcolm Young’s nephew and took over rhythm-guitar duties in the modern era when Malcolm stepped away. He focuses on reproducing the tight, percussive chord attack that defines AC/DC’s engine, prioritizing feel and timing over showy embellishment. His role is continuity—keeping the rhythm spine unmistakably AC/DC."
+        },
+        {
+          "Name": "Mark Evans",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1975–1977",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [
+            "High Voltage",
+            "T.N.T.",
+            "Dirty Deeds Done Dirt Cheap",
+            "Let There Be Rock"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Cliff Williams",
+          "Overview": "Mark Evans played bass during AC/DC’s early acceleration from local sensation to international contender. He contributed to key mid‑’70s records that solidified the band’s lean, aggressive direction. His era bridges the raw debut period and the later classic lineup."
+        },
+        {
+          "Name": "Dave Evans",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1973–1974",
+          "Instruments": [
+            "vocals"
+          ],
+          "Albums": [
+            "\"Can I Sit Next to You, Girl\" (single)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Bon Scott",
+          "Overview": "Dave Evans was AC/DC’s first lead vocalist, fronting the band in its earliest Sydney club period. His time captures the group before it fully locked into the gritty swagger that defined the Bon Scott years. He remains a key part of the origin story, even though his tenure was brief."
+        },
+        {
+          "Name": "Chris Slade",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1989–1994, 2015–2016",
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [
+            "The Razors Edge",
+            "Rock or Bust"
+          ],
+          "Replacing": "Simon Wright / Phil Rudd (touring changes)",
+          "ReplacedBy": "",
+          "Overview": "Chris Slade joined AC/DC at pivotal moments, including the The Razors Edge era that helped re-ignite the band’s global momentum. His drumming is powerful and straightforward, designed to keep riffs punching forward in large venues. He also returned during the mid‑2010s touring chapter."
+        },
+        {
+          "Name": "Simon Wright",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1983–1989",
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [
+            "Fly on the Wall",
+            "Who Made Who",
+            "Blow Up Your Video"
+          ],
+          "Replacing": "Phil Rudd",
+          "ReplacedBy": "Chris Slade",
+          "Overview": "Simon Wright played drums through much of AC/DC’s mid‑1980s period, handling aggressive, guitar-forward songs that demanded stamina and consistency. His era helped keep the band’s live machine running during a transitional decade. He is closely tied to the Fly on the Wall / Blow Up Your Video years."
+        },
+        {
+          "Name": "Axl Rose",
+          "Roles": [
+            "lead vocals (touring)"
+          ],
+          "Years": "2016",
+          "Instruments": [
+            "vocals"
+          ],
+          "Albums": [],
+          "Replacing": "Brian Johnson (touring necessity)",
+          "ReplacedBy": "",
+          "Overview": "Axl Rose stepped in as touring vocalist during 2016 when Brian Johnson could not continue live dates. He approached the catalog with high energy and respect for the original vocal lines while bringing his own intensity to the stage. His contribution is remembered as a stopgap that kept the tour alive rather than a permanent lineup change."
+        },
+        {
+          "Name": "Matt Laug",
+          "Roles": [
+            "drums (touring)"
+          ],
+          "Years": "2023–present (touring)",
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [],
+          "Replacing": "Phil Rudd (touring)",
+          "ReplacedBy": "",
+          "Overview": "Matt Laug joined as a touring drummer in the modern Power Up era, providing a solid, professional pocket built to serve the band’s strict rhythmic framework. His job is precision and endurance—keeping the riffs landing the same way every night. He has been part of the touring lineup as AC/DC returned to stadium stages."
+        },
+        {
+          "Name": "Chris Chaney",
+          "Roles": [
+            "bass (touring)",
+            "backing vocals (touring)"
+          ],
+          "Years": "2024–present (touring)",
+          "Instruments": [
+            "bass",
+            "vocals"
+          ],
+          "Albums": [],
+          "Replacing": "Cliff Williams (touring)",
+          "ReplacedBy": "",
+          "Overview": "Chris Chaney joined the touring lineup on bass during the later Power Up touring chapter. He is known for clean, dependable low-end playing that supports a guitar-first band without drawing focus away from riffs and vocals. His role is to keep the foundation tight and the backing vocals supportive in a stadium mix."
+        }
+      ]
     }
   ]
 }
