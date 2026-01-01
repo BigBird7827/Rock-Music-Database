@@ -2,179 +2,66 @@
   {
     "ArtistID": "the-alan-parsons-project",
     "Name": "The Alan Parsons Project",
-    "Type": "Band",
+    "Type": "Studio project / rock duo (with rotating session musicians)",
     "Origin": {
       "City": "London",
       "Region": "England",
       "Country": "United Kingdom"
     },
-    "YearsActive": [
-      "1975–1990"
-    ],
+    "YearsActive": "1975–1990",
     "Genres": [
-      "Progressive rock",
-      "Art rock",
-      "Progressive pop",
-      "Soft rock"
+      "progressive rock",
+      "art rock",
+      "progressive pop",
+      "soft rock"
     ],
     "Labels": [
       "20th Century Records",
       "Charisma",
       "Arista"
     ],
-    "Overview": "The Alan Parsons Project was a London-based studio partnership led by producer/engineer Alan Parsons and songwriter/keyboardist Eric Woolfson. Rather than operating as a fixed touring band, the Project was built around concept-driven albums and a rotating cast of top session players and vocalists—a “producer’s-medium” idea that put recording craft, arrangement, and sonic detail at the center of the music.\n\nAcross eleven studio albums released between 1976 and 1990, the duo blended progressive-rock polish with radio-friendly pop hooks, landing signature tracks like “Eye in the Sky,” “Games People Play,” and the instrumental “Sirius.” Their records are frequently cited for meticulous engineering and layered production, with recurring collaborators helping create a consistent “Project” sound even as the lead singers changed from song to song.",
+    "Overview": "The Alan Parsons Project was a London-based studio partnership between producer/engineer Alan Parsons and songwriter/pianist Eric Woolfson. Rather than touring as a fixed band, they built each album around a core duo and a rotating cast of top session musicians and vocalists, pairing concept-album ideas with meticulous studio production and radio-ready hooks.\n\nAcross ten studio albums, the Project blended progressive textures with polished pop craft, scoring international hits like “Eye in the Sky,” “Games People Play,” and the instrumental “Sirius,” while developing a distinctive sound built around layered vocals, orchestration, and precision engineering.",
     "CoreMembers": [
       {
         "Name": "Alan Parsons",
         "Roles": [
           "Producer",
           "Audio engineer",
-          "Co-writer",
-          "Keyboards",
-          "Backing vocals (occasional)"
+          "Musician",
+          "Composer"
         ],
         "Years": "1975–1990",
-        "Overview": "Producer/engineer and co-creator whose studio approach defined the Project’s sound.",
+        "Instruments": [
+          "Keyboards",
+          "Guitars",
+          "Programming (later-era)"
+        ],
         "Bio": {
-          "BioID": "alan-parsons__the-alan-parsons-project",
-          "ArtistID": "the-alan-parsons-project",
-          "ArtistName": "The Alan Parsons Project",
-          "MemberName": "Alan Parsons",
-          "Biography": [
-            "Alan Parsons (born 20 December 1948) is an English audio engineer, producer, and musician whose early career was shaped inside the Abbey Road Studios ecosystem. He became known for high-profile engineering work in the late 1960s and early 1970s, including projects associated with The Beatles and Pink Floyd.",
-            "In 1975, Parsons co-founded The Alan Parsons Project with songwriter and pianist Eric Woolfson, building a studio-first act that emphasized concept albums, precision engineering, and carefully chosen session musicians. Parsons produced (and often co-wrote instrumentals for) the Project’s catalog, keeping a consistent sonic signature across changing vocalists and lineups.",
-            "After the Project era, Parsons continued recording and performing under his own name, with later live performances typically presented as the Alan Parsons Live Project."
-          ],
-          "Birth": {
-            "Date": "1948-12-20",
-            "City": "Willesden",
-            "Region": "Middlesex, England",
-            "Country": "United Kingdom",
-            "Place": "Willesden, Middlesex, England"
-          },
-          "Death": {
-            "Date": "",
-            "City": "",
-            "Region": "",
-            "Country": "",
-            "Place": ""
-          },
-          "Nationality": "English",
-          "Links": {
-            "OfficialSite": "https://alanparsons.com/",
-            "Wikipedia": "https://en.wikipedia.org/wiki/Alan_Parsons",
-            "GRAMMY": "https://grammy.com/artists/alan-parsons/13857"
-          },
-          "FullName": "Alan Parsons",
-          "PrimaryInstruments": [
-            "Keyboards",
-            "Guitar",
-            "Vocals"
-          ],
-          "Occupations": [
-            "Audio engineer",
-            "Record producer",
-            "Musician",
-            "Songwriter"
-          ],
-          "Genres": [
-            "Rock",
-            "Progressive rock"
-          ],
-          "Sources": [
-            {
-              "Title": "Wikipedia: Alan Parsons",
-              "Url": "https://en.wikipedia.org/wiki/Alan_Parsons",
-              "Accessed": "2026-01-01"
-            },
-            {
-              "Title": "The Alan Parsons Project (Official): FAQ (roles and contributors)",
-              "Url": "https://www.the-alan-parsons-project.com/faq",
-              "Accessed": "2026-01-01"
-            },
-            {
-              "Title": "GRAMMY.com: Alan Parsons",
-              "Url": "https://grammy.com/artists/alan-parsons/13857",
-              "Accessed": "2026-01-01"
-            }
-          ]
+          "BirthYear": 1948,
+          "Origin": "Willesden, Middlesex, England",
+          "Summary": "Alan Parsons is an English producer and audio engineer who became widely known for his studio work in the late 1960s and 1970s, including engineering and assisting on landmark recordings at Abbey Road and elsewhere. He co-founded The Alan Parsons Project in 1975, shaping its signature sound through meticulous production, arrangement choices, and sonic detail."
         }
       },
       {
         "Name": "Eric Woolfson",
         "Roles": [
           "Songwriter",
-          "Lyricist",
-          "Keyboards",
-          "Lead vocals (select tracks)",
-          "Manager / business lead"
+          "Vocalist",
+          "Pianist",
+          "Composer",
+          "Manager (early)"
         ],
         "Years": "1975–1990",
-        "Overview": "Primary songwriter/lyricist and co-creator; handled much of the writing and the project’s business side.",
+        "Instruments": [
+          "Piano",
+          "Keyboards",
+          "Vocals"
+        ],
         "Bio": {
-          "BioID": "eric-woolfson__the-alan-parsons-project",
-          "ArtistID": "the-alan-parsons-project",
-          "ArtistName": "The Alan Parsons Project",
-          "MemberName": "Eric Woolfson",
-          "Biography": [
-            "Eric Woolfson (18 March 1945 – 2 December 2009) was a Scottish songwriter, pianist, and vocalist who co-created The Alan Parsons Project with Alan Parsons. Woolfson developed the concept-album direction of the Project and, by the group’s official account, wrote the vast majority of its music and all of its lyrics, while also handling management and business responsibilities.",
-            "Across the Project’s run, Woolfson’s writing shaped its blend of progressive-rock structure and pop immediacy—often pairing narrative concepts with strong choruses and distinctive vocal casting. He also sang lead on several of the best-known tracks.",
-            "After the Project period, Woolfson focused increasingly on musical theatre, including stage works that drew on Project-era material."
-          ],
-          "Birth": {
-            "Date": "1945-03-18",
-            "City": "Glasgow",
-            "Region": "Scotland",
-            "Country": "United Kingdom",
-            "Place": "Glasgow, Scotland"
-          },
-          "Death": {
-            "Date": "2009-12-02",
-            "City": "London",
-            "Region": "England",
-            "Country": "United Kingdom",
-            "Place": "London, England"
-          },
-          "Nationality": "Scottish",
-          "Links": {
-            "OfficialSite": "https://www.the-alan-parsons-project.com/eric-woolfson",
-            "Wikipedia": "https://en.wikipedia.org/wiki/Eric_Woolfson",
-            "EricWoolfsonMusic": "https://www.ericwoolfsonmusic.com/"
-          },
-          "FullName": "Eric Norman Woolfson",
-          "PrimaryInstruments": [
-            "Piano",
-            "Keyboards",
-            "Vocals"
-          ],
-          "Occupations": [
-            "Songwriter",
-            "Lyricist",
-            "Musician"
-          ],
-          "Genres": [
-            "Progressive rock",
-            "Soft rock",
-            "Pop rock",
-            "Musical theatre"
-          ],
-          "Sources": [
-            {
-              "Title": "Official: Eric Woolfson (The Alan Parsons Project site)",
-              "Url": "https://www.the-alan-parsons-project.com/eric-woolfson",
-              "Accessed": "2026-01-01"
-            },
-            {
-              "Title": "The Alan Parsons Project (Official): FAQ (roles and contributors)",
-              "Url": "https://www.the-alan-parsons-project.com/faq",
-              "Accessed": "2026-01-01"
-            },
-            {
-              "Title": "Wikipedia: Eric Woolfson",
-              "Url": "https://en.wikipedia.org/wiki/Eric_Woolfson",
-              "Accessed": "2026-01-01"
-            }
-          ]
+          "BirthYear": 1945,
+          "DeathYear": 2009,
+          "Origin": "Glasgow, Scotland",
+          "Summary": "Eric Woolfson was a Scottish songwriter, vocalist, and pianist who partnered with Alan Parsons to form The Alan Parsons Project in 1975. He provided much of the Project’s songwriting direction, contributed lead and backing vocals on many recordings, and helped steer the group’s concept-driven approach."
         }
       }
     ],
@@ -183,7 +70,7 @@
         "Name": "Ian Bairnson",
         "Roles": [
           "Guitarist",
-          "Backing vocals (occasional)"
+          "Session musician"
         ],
         "Years": "1976–1987",
         "Instruments": [
@@ -204,15 +91,16 @@
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "The Project’s most consistent instrumental voice, appearing across every studio album and helping lock in its signature guitar tone. Beyond lead parts, he contributed textural acoustics and occasional backing vocals, making him a de facto “house” player in the Project’s rotating lineup."
+        "Overview": "Scottish guitarist Ian Bairnson became one of the Project’s most recognizable instrumental voices, contributing signature lead and rhythm parts throughout the catalog. Outside APP he was also known for work with the band Pilot and for high-profile session appearances, including on Kate Bush recordings."
       },
       {
         "Name": "David Paton",
         "Roles": [
           "Bassist",
-          "Vocalist"
+          "Vocalist",
+          "Session musician"
         ],
-        "Years": "1976–1986",
+        "Years": "1975–1986",
         "Instruments": [
           "Bass guitar",
           "Vocals"
@@ -230,32 +118,33 @@
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "A key low-end anchor on many Project tracks, with a melodic bass approach that fit the band’s polished studio sound. He also contributed lead and backing vocals on select songs, expanding the Project’s palette beyond its featured guest vocalists."
+        "Overview": "Scottish bassist and singer David Paton (co-founder of Pilot) was a key early collaborator, supplying solid bass foundations and occasional lead vocals on APP tracks. He also built a long session career, appearing on recordings by major artists beyond the Project’s orbit."
       },
       {
         "Name": "Stuart Tosh",
         "Roles": [
-          "Drummer"
+          "Drummer",
+          "Percussionist"
         ],
-        "Years": "1976–1977",
+        "Years": "1975–1977",
         "Instruments": [
-          "Drums"
+          "Drums",
+          "Percussion"
         ],
         "Albums": [
           "Tales of Mystery and Imagination",
           "I Robot"
         ],
         "Replacing": [],
-        "ReplacedBy": [
-          "Stuart Elliott"
-        ],
-        "Overview": "The drummer on the first two Project albums, helping set the early rhythmic feel before the lineup evolved. His playing anchored the debut’s cinematic concept approach and the more groove-forward material on I Robot."
+        "ReplacedBy": [],
+        "Overview": "Scottish drummer Stuart Tosh (also associated with Pilot) played on the Project’s earliest recordings, helping establish the tight, punchy rhythm feel of the debut era. After his APP work he continued as a working drummer and performer across rock and pop projects."
       },
       {
         "Name": "Stuart Elliott",
         "Roles": [
           "Drummer",
-          "Percussionist"
+          "Percussionist",
+          "Session musician"
         ],
         "Years": "1978–1987",
         "Instruments": [
@@ -276,13 +165,14 @@
           "Stuart Tosh"
         ],
         "ReplacedBy": [],
-        "Overview": "The Project’s primary drummer through its peak years, bringing a tight, radio-ready feel to both rockers and softer material. His consistency across multiple albums helped the “Project” sound stay cohesive even as vocalists and arrangements changed."
+        "Overview": "English drummer Stuart Elliott became the Project’s main drum chair for much of its classic run, delivering crisp, controlled performances tailored to Parsons’ production style. He also worked widely as a session drummer, including with Steve Harley & Cockney Rebel and other major studio projects."
       },
       {
         "Name": "Chris Rainbow",
         "Roles": [
           "Vocalist",
-          "Backing vocalist"
+          "Vocal arranger",
+          "Session musician"
         ],
         "Years": "1979–1987",
         "Instruments": [
@@ -299,12 +189,13 @@
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "A frequent lead and backing vocalist whose harmonies became a recognizable part of the Project’s sheen. He handled lead on multiple tracks and contributed dense backing stacks that reinforced the Project’s polished, studio-constructed identity."
+        "Overview": "Scottish singer and producer Chris Rainbow contributed distinctive lead and backing vocals and became a go-to vocal arranger as the Project’s harmony stacks grew more elaborate. Beyond APP he released solo material and worked behind the scenes in production and studio roles."
       },
       {
         "Name": "Lenny Zakatek",
         "Roles": [
-          "Vocalist"
+          "Vocalist",
+          "Session vocalist"
         ],
         "Years": "1977–1987",
         "Instruments": [
@@ -313,44 +204,42 @@
         "Albums": [
           "I Robot",
           "Pyramid",
-          "Eve",
           "The Turn of a Friendly Card",
-          "Eye in the Sky",
-          "Ammonia Avenue",
-          "Vulture Culture",
-          "Gaudi"
+          "Eye in the Sky"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "One of the Project’s most recognizable rock-pop voices, singing lead on several upbeat tracks including major singles. His punchy delivery helped translate the duo’s concept-album approach into radio-friendly hooks without losing the Project’s studio sophistication."
+        "Overview": "British singer Lenny Zakatek (also known as the voice of the band Gonzalez) was one of the Project’s most frequent lead vocalists, chosen for punchy, radio-ready tracks. His performances helped define several of APP’s best-known singles and fan favorites."
       },
       {
         "Name": "Colin Blunstone",
         "Roles": [
-          "Vocalist"
+          "Vocalist",
+          "Guest vocalist"
         ],
-        "Years": "1978–1985",
+        "Years": "1982",
         "Instruments": [
           "Vocals"
         ],
         "Albums": [
-          "Pyramid",
-          "Eye in the Sky",
-          "Ammonia Avenue",
-          "Vulture Culture"
+          "Eye in the Sky"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "A recurring guest vocalist whose warm, distinctive tone suited the Project’s reflective ballads and mid-tempo tracks. He sang lead on several fan favorites, including “Old and Wise,” adding an instantly identifiable character to the Project’s rotating vocal lineup."
+        "Overview": "English singer Colin Blunstone, best known as the lead voice of The Zombies, brought a warm, expressive tone to the Project’s recordings when featured. He is especially associated with the lead vocal on “Old and Wise,” one of APP’s most enduring ballads."
       },
       {
         "Name": "Andrew Powell",
         "Roles": [
-          "Orchestral/choral arranger",
-          "Conductor"
+          "Orchestral arranger",
+          "Conductor",
+          "Composer"
         ],
         "Years": "1976–1987",
-        "Instruments": [],
+        "Instruments": [
+          "Orchestration",
+          "Conducting"
+        ],
         "Albums": [
           "Tales of Mystery and Imagination",
           "I Robot",
@@ -359,31 +248,32 @@
           "The Turn of a Friendly Card",
           "Eye in the Sky",
           "Ammonia Avenue",
+          "Vulture Culture",
           "Stereotomy",
           "Gaudi"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "The Project’s principal orchestral and choral architect, shaping the cinematic dimension of its arrangements. His work helped the Project move fluidly between rock instrumentation and sweeping orchestral textures, reinforcing the “concept album” feel."
+        "Overview": "English composer and arranger Andrew Powell supplied orchestral arrangements that expanded the Project’s cinematic scope, beginning with the debut’s Edgar Allan Poe concept. He went on to arrange and score across rock and film worlds, making him a natural fit for APP’s blend of pop craft and grand, thematic production."
       },
       {
         "Name": "John Miles",
         "Roles": [
-          "Vocalist"
+          "Vocalist",
+          "Guitarist",
+          "Guest vocalist"
         ],
-        "Years": "1976–1987",
+        "Years": "1976 (select tracks)",
         "Instruments": [
-          "Vocals"
+          "Vocals",
+          "Guitars"
         ],
         "Albums": [
-          "Tales of Mystery and Imagination",
-          "Pyramid",
-          "Stereotomy",
-          "Gaudi"
+          "Tales of Mystery and Imagination"
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "A notable guest vocalist who appeared across multiple eras of the Project’s catalog. His dramatic rock voice fit the Project’s theatrical storytelling tracks, especially on albums that leaned into bigger, more anthemic arrangements."
+        "Overview": "English singer and guitarist John Miles, later known for the 1976 hit “Music,” was an early featured voice on the Project’s debut era. He provided lead vocals on “(The System of) Dr. Tarr and Professor Fether,” bringing a dramatic rock delivery to the Poe-inspired material."
       },
       {
         "Name": "Jack Harris",
@@ -402,121 +292,90 @@
         ],
         "Replacing": [],
         "ReplacedBy": [],
-        "Overview": "An early-era contributor who handled lead and backing vocals on several tracks. His appearances helped establish the Project’s practice of casting voices to suit each song rather than relying on a single frontman."
+        "Overview": "American singer Jack Harris was one of the early rotating vocalists used for both lead and backing parts during the Project’s first run of albums. His credits include lead and backing contributions on Tales material and later appearances on selections from I Robot and Pyramid."
       }
     ],
     "NotableAlbums": [
       {
         "Title": "Tales of Mystery and Imagination",
         "Year": 1976,
-        "Notes": "Debut concept album inspired by Edgar Allan Poe; established the Project’s cinematic, studio-forward approach."
+        "Notes": "Debut concept album inspired by Edgar Allan Poe, establishing the Project’s mix of rock arrangements and cinematic storytelling."
       },
       {
         "Title": "I Robot",
         "Year": 1977,
-        "Notes": "A sci‑fi themed album that helped push the Project into broader rock audiences with sleek production and strong hooks."
-      },
-      {
-        "Title": "Pyramid",
-        "Year": 1978,
-        "Notes": "A darker, more atmospheric concept record that continued the Project’s blend of prog structure and pop melody."
-      },
-      {
-        "Title": "Eve",
-        "Year": 1979,
-        "Notes": "A concept-leaning set that sharpened the Project’s pop craft while keeping its layered studio textures."
+        "Notes": "A polished, sci‑fi themed album that helped define the group’s sleek, machine-age sound and radio-friendly approach."
       },
       {
         "Title": "The Turn of a Friendly Card",
         "Year": 1980,
-        "Notes": "A gambling-themed suite with one of the Project’s strongest narrative arcs and a major radio breakthrough single."
+        "Notes": "A casino/gambling concept album featuring extended suites and some of the Project’s most ambitious arrangements."
       },
       {
         "Title": "Eye in the Sky",
         "Year": 1982,
-        "Notes": "Their biggest mainstream-era release, pairing the instrumental “Sirius” with the hit “Eye in the Sky” and polished studio pop-rock."
-      },
-      {
-        "Title": "Ammonia Avenue",
-        "Year": 1984,
-        "Notes": "A sleek, mid‑’80s refinement of the Project sound featuring multiple lead vocalists and densely arranged choruses."
-      },
-      {
-        "Title": "Vulture Culture",
-        "Year": 1985,
-        "Notes": "A more contemporary, groove-oriented album that leaned toward punchier pop-rock production."
-      },
-      {
-        "Title": "Stereotomy",
-        "Year": 1985,
-        "Notes": "A late‑era concept album focused on modern image and ambition, with crisp, high-impact studio sonics."
-      },
-      {
-        "Title": "Gaudi",
-        "Year": 1987,
-        "Notes": "A final Project-era concept release inspired by architect Antoni Gaudí; it closed the studio-album run before the partnership ended."
+        "Notes": "Commercial peak featuring the title hit and “Sirius,” combining pristine production with pop hooks and progressive textures."
       }
     ],
     "SignatureSongs": [
       {
         "Title": "Eye in the Sky",
         "Year": 1982,
-        "Notes": "A defining hit single that captured the Project’s mix of pop immediacy and meticulous studio production."
+        "Notes": "The Project’s biggest hit single, built around a memorable chorus and polished studio layering."
       },
       {
         "Title": "Sirius",
         "Year": 1982,
-        "Notes": "A short instrumental that became widely used for sports introductions, famously associated with the Chicago Bulls."
+        "Notes": "Instrumental opener from Eye in the Sky that became widely used for sporting introductions."
       },
       {
         "Title": "Games People Play",
         "Year": 1980,
-        "Notes": "A breakthrough single with an upbeat groove and prominent lead vocals, often cited among the Project’s biggest radio moments."
+        "Notes": "A driving single with punchy vocals and tight rhythmic production, highlighting the Project’s pop side."
       },
       {
-        "Title": "Time",
-        "Year": 1980,
-        "Notes": "A reflective, melodic single that highlights the Project’s softer side and layered harmony work."
+        "Title": "I Wouldn't Want to Be Like You",
+        "Year": 1977,
+        "Notes": "A standout from I Robot blending rock energy with precise studio sheen."
       },
       {
         "Title": "Don't Answer Me",
         "Year": 1984,
-        "Notes": "A late-era U.S. hit that leaned into classic-pop songwriting wrapped in modern studio polish."
-      },
-      {
-        "Title": "Old and Wise",
-        "Year": 1982,
-        "Notes": "A signature ballad led by Colin Blunstone’s vocal, frequently singled out as one of the Project’s most enduring songs."
+        "Notes": "A sleek mid‑80s single that shows the Project’s knack for smooth, hook-forward songwriting."
       }
     ],
     "Achievements": [
       {
         "Type": "Grammy nomination",
         "Year": 1983,
-        "Detail": "Eye in the Sky was nominated at the 25th Annual Grammy Awards for Best Engineered Recording / Best Engineered Album, reflecting the Project’s reputation for studio craft."
+        "Detail": "Eye in the Sky received a 1983 Grammy nomination for Best Engineered Album, Non‑Classical, reflecting the Project’s reputation for studio craft."
       },
       {
         "Type": "Grammy win (immersive audio)",
         "Year": 2019,
-        "Detail": "Eye in the Sky – 35th Anniversary Edition won Best Immersive Audio Album at the 61st Annual Grammy Awards (credited to Alan Parsons and the surround mastering team)."
+        "Detail": "Eye in the Sky – 35th Anniversary Edition won Best Immersive Audio Album at the 2019 Grammy Awards for its Dolby Atmos/surround presentation and mastering work."
       },
       {
         "Type": "Cultural footprint (sports anthem)",
-        "Year": 1984,
-        "Detail": "“Sirius” became a staple arena-introduction track in North American sports, with long-running use tied to the Chicago Bulls and subsequent adoption by many other teams."
+        "Year": 1982,
+        "Detail": "“Sirius” became a staple arena-introduction track across North America and is especially associated with the Chicago Bulls’ 1990s championship-era introductions."
       }
     ],
     "KeyFacts": [
-      "Official membership consisted of Alan Parsons and Eric Woolfson; recordings featured rotating vocalists and session musicians chosen per song and album.",
-      "The Project never toured in its original era; it was designed as a studio-first act centered on production and concept albums.",
-      "Its best-known mainstream run spans the late 1970s through the mid‑1980s, anchored by albums like I Robot, The Turn of a Friendly Card, and Eye in the Sky."
+      "Official membership was the duo of Alan Parsons and Eric Woolfson, with rotating vocalists and musicians used to suit each track.",
+      "The Project released ten studio albums between 1976 and 1987, with its active era spanning roughly 1975 through 1990.",
+      "Rather than touring like a conventional band, the Project was built primarily in the studio, assembling different performers album by album."
     ],
-    "ExternalLinks": {
-      "OfficialSite": "https://www.the-alan-parsons-project.com/",
-      "AllMusic": "https://www.allmusic.com/artist/the-alan-parsons-project-mn0001176481",
-      "Wikipedia": "https://en.wikipedia.org/wiki/The_Alan_Parsons_Project",
-      "Discogs": "https://www.discogs.com/artist/66916-The-Alan-Parsons-Project"
-    }
+    "ExternalLinks": [
+      {
+        "Label": "Official site",
+        "URL": "https://www.the-alan-parsons-project.com/"
+      },
+      {
+        "Label": "Alan Parsons official",
+        "URL": "https://alanparsons.com/"
+      }
+    ]
   },
   {
     "ArtistID": "the-beatles",
