@@ -3,24 +3,20 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Artists</title>
+  <title>Classic Rock Artists</title>
   <style>
     :root{
-      --bg0:#07070a;
-      --bg1:#101018;
-      --panel:rgba(255,255,255,.06);
-      --detailBg:#12113d;
-      --panel2:rgba(255,255,255,.09);
+      --bg:#12113d;
+      --panel:rgba(255,255,255,.07);
+      --panel2:rgba(255,255,255,.10);
       --stroke:rgba(255,255,255,.14);
       --text:#f2f2f7;
       --muted:rgba(242,242,247,.72);
-      --red:#ff355e;
-      --blue:#3aa0ff;
-      --green:#2cff9a;
-      --yellow:#ffe44d;
       --shadow:0 18px 60px rgba(0,0,0,.55);
       --radius:18px;
       --radius2:24px;
+      --gold:#d4af37;
+      --black:#07070a;
     }
     *{box-sizing:border-box}
     html,body{height:100%}
@@ -28,7 +24,7 @@
       margin:0;
       color:var(--text);
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-      background:#12113d;
+      background: var(--bg);
       overflow:hidden;
     }
 
@@ -36,14 +32,14 @@
       height:100%;
       display:grid;
       grid-template-rows:auto 1fr;
+      padding: 0 25px;
     }
 
     header{
-      padding:18px 25px 12px;
-      border-bottom:1px solid rgba(255,255,255,.10);
-      background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,0));
-      backdrop-filter: blur(10px);
-    }
+      padding:18px 0 12px;
+      border-bottom: 1px solid rgba(0,0,0,.25);
+      background: linear-gradient(180deg, rgba(0,0,0,.28), rgba(0,0,0,0));
+}
 
     .top{
       display:flex;
@@ -51,119 +47,45 @@
       justify-content:space-between;
       gap:14px;
       width:100%;
-      max-width:none;
-      margin:0;
-      }
-
-    .brand{
-      display:flex;
-      align-items:center;
-      gap:14px;
-      min-width:280px;
     }
 
+    .brand{display:flex;align-items:center;gap:12px;min-width:0}
     .logo{
-      width:44px;
-      height:44px;
-      border-radius:14px;
+      width:44px;height:44px;border-radius:14px;
       background:
         linear-gradient(135deg, rgba(255,53,94,.95), rgba(58,160,255,.95)),
         radial-gradient(20px 20px at 30% 30%, rgba(255,255,255,.45), transparent 55%);
       box-shadow: 0 18px 45px rgba(0,0,0,.55), 0 0 0 1px rgba(255,255,255,.14) inset;
-      position:relative;
-      overflow:hidden;
+      position:relative;overflow:hidden;flex:0 0 auto;
     }
     .logo:before{
       content:"";
-      position:absolute;
-      inset:-35%;
+      position:absolute;inset:-35%;
       background: repeating-linear-gradient(90deg, rgba(255,255,255,.18) 0 8px, transparent 8px 18px);
-      transform: rotate(12deg);
-      opacity:.35;
+      transform: rotate(18deg);
+      opacity:.55;
     }
+    h1{margin:0;font-size:22px;letter-spacing:.6px;font-weight:900;line-height:1.15}
+    .tag{margin-top:4px;color:var(--muted);font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 
-    h1{
-      margin:0;
-      font-size:22px;
-      letter-spacing:.6px;
-      line-height:1.1;
-      font-weight:800;
-      background: linear-gradient(90deg, var(--yellow), var(--red), var(--blue), var(--green));
-      -webkit-background-clip:text;
-      background-clip:text;
-      color:transparent;
-      text-shadow: 0 6px 30px rgba(0,0,0,.45);
-    }
-
-    .tag{
-      margin-top:3px;
-      font-size:13px;
-      color:var(--muted);
-      letter-spacing:.2px;
-    }
-
-    .controls{
-      display:flex;
-      align-items:center;
-      gap:10px;
-      flex-wrap:wrap;
-      justify-content:flex-end;
-    }
-
+    .controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end}
     .pill{
-      display:flex;
-      align-items:center;
-      gap:10px;
-      padding:10px 12px;
-      border-radius:999px;
-      background:rgba(255,255,255,.06);
+      display:flex;align-items:center;gap:10px;
+      background: rgba(0,0,0,.22);
       border:1px solid rgba(255,255,255,.12);
+      border-radius:16px;
+      padding:10px 12px;
       box-shadow: 0 10px 30px rgba(0,0,0,.35);
+}
+    .pill input{
+      border:0;outline:0;background:transparent;color:var(--text);
+      width:260px;max-width:40vw;font-size:14px;
     }
-
-    input[type="search"]{
-      width:min(420px, 52vw);
-      appearance:none;
-      border:none;
-      outline:none;
-      background:transparent;
-      color:var(--text);
-      font-size:14px;
-      letter-spacing:.2px;
-    }
-    input[type="search"]::placeholder{color:rgba(242,242,247,.55)}
-
-    select{
-      appearance:none;
-      border:none;
-      outline:none;
-      background:transparent;
-      color:var(--text);
-      font-size:13px;
-      letter-spacing:.2px;
-      padding-right:18px;
-      cursor:pointer;
-    }
-    .selectWrap{
-      position:relative;
-      padding-right:6px;
-    }
-    .selectWrap:after{
-      content:"▾";
-      position:absolute;
-      right:2px;
-      top:50%;
-      transform:translateY(-50%);
-      color:rgba(242,242,247,.70);
-      font-size:12px;
-      pointer-events:none;
-    }
+    .pill input::placeholder{color:rgba(242,242,247,.55)}
 
     main{
-      max-width:none;
       width:100%;
-      margin:0;
-      padding:14px 25px 18px;
+      padding:14px 0 18px;
       display:grid;
       grid-template-columns: 360px 1fr;
       gap:14px;
@@ -178,435 +100,302 @@
       box-shadow: var(--shadow);
       overflow:hidden;
       min-height:0;
-    }    section.panel:nth-of-type(2){
-      background: linear-gradient(180deg, rgba(255,255,255,.10), rgba(255,255,255,.06)), var(--detailBg);
     }
-
 
     .listHeader{
-      padding:14px 14px 12px;
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:10px;
-      border-bottom:1px solid rgba(255,255,255,.10);
-      background: linear-gradient(180deg, rgba(0,0,0,.28), rgba(0,0,0,0));
+      padding:14px 14px 10px;
+      display:flex;align-items:center;justify-content:space-between;gap:10px;
+      border-bottom:1px solid rgba(255,255,255,.08);
+      background: linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,0));
     }
+    .count{font-size:13px;color:rgba(242,242,247,.75)}
+    .spark{display:flex;gap:4px;align-items:flex-end;opacity:.85}
+    .bar{width:5px;border-radius:6px;background:linear-gradient(180deg, rgba(255,228,77,.95), rgba(255,53,94,.95));box-shadow:0 10px 24px rgba(0,0,0,.35)}
+    .bar:nth-child(1){height:10px}
+    .bar:nth-child(2){height:16px}
+    .bar:nth-child(3){height:12px}
+    .bar:nth-child(4){height:18px}
 
-    .count{
-      font-size:12px;
-      color:rgba(242,242,247,.72);
-      letter-spacing:.35px;
-    }
-
-    .spark{
-      display:flex;
-      gap:6px;
-      align-items:flex-end;
-      height:18px;
-    }
-    .bar{
-      width:4px;
-      border-radius:10px;
-      background: linear-gradient(180deg, var(--yellow), var(--red));
-      opacity:.9;
-      animation: bounce 1.2s infinite ease-in-out;
-      box-shadow: 0 10px 26px rgba(255,53,94,.22);
-    }
-    .bar:nth-child(2){background: linear-gradient(180deg, var(--green), var(--blue)); animation-delay:.12s}
-    .bar:nth-child(3){background: linear-gradient(180deg, var(--blue), var(--yellow)); animation-delay:.24s}
-    .bar:nth-child(4){background: linear-gradient(180deg, var(--red), var(--green)); animation-delay:.36s}
-    @keyframes bounce{
-      0%,100%{height:6px; opacity:.65}
-      50%{height:18px; opacity:1}
-    }
-
-    .list{
-      height:100%;
-      overflow:auto;
-      padding:10px;
-    }
-
+    .list{padding:10px;overflow:auto;height:100%}
     .item{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:10px;
-      padding:10px 12px;
-      border-radius:14px;
-      border:1px solid rgba(255,255,255,.10);
-      background: rgba(0,0,0,.18);
+      display:flex;align-items:center;justify-content:space-between;gap:10px;
+      padding:12px 12px;
+      border-radius:16px;
+      border:1px solid rgba(255,255,255,.08);
+      background: rgba(0,0,0,.16);
       cursor:pointer;
-      transition: transform .12s ease, background .12s ease, border-color .12s ease;
-      margin-bottom:8px;
+      transition: transform .08s ease, background .12s ease, border-color .12s ease;
+      margin-bottom:10px;
     }
-    .item:hover{
-      transform: translateY(-1px);
-      background: rgba(255,255,255,.06);
-      border-color: rgba(255,255,255,.18);
-    }
+    .item:hover{transform: translateY(-1px);background: rgba(0,0,0,.22);border-color:rgba(255,255,255,.14)}
     .item.active{
-      background:
-        radial-gradient(400px 120px at 20% 20%, rgba(255,228,77,.20), transparent 60%),
-        radial-gradient(400px 120px at 80% 80%, rgba(58,160,255,.18), transparent 60%),
-        rgba(255,255,255,.06);
-      border-color: rgba(255,255,255,.22);
+      border-color: rgba(255,228,77,.40);
+      box-shadow: 0 16px 40px rgba(0,0,0,.45), 0 0 0 1px rgba(255,228,77,.10) inset;
+      background: linear-gradient(180deg, rgba(255,228,77,.10), rgba(0,0,0,.20));
     }
+    .itemName{font-weight:800;letter-spacing:.2px}
 
-    .itemName{
-      font-size:14px;
-      letter-spacing:.2px;
-      font-weight:700;
-      line-height:1.2;
-    }
-    .itemMeta{
-      display:flex;
-      align-items:center;
-      gap:8px;
-      flex-shrink:0;
-    }
     .badge{
-      font-size:11px;
-      letter-spacing:.4px;
-      padding:5px 8px;
-      border-radius:999px;
-      border:1px solid rgba(255,255,255,.16);
-      background: rgba(255,255,255,.06);
-      color: rgba(242,242,247,.85);
-      text-transform:uppercase;
+      display:inline-flex;align-items:center;gap:7px;
+      padding:6px 10px;border-radius:999px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(0,0,0,.20);
+      font-size:12px;color:rgba(242,242,247,.78);
+      white-space:nowrap;
     }
-    .badge.full{
-      border-color: rgba(44,255,154,.28);
-      background: rgba(44,255,154,.10);
-      color: rgba(205,255,232,.95);
-    }
-    .badge.todo{
-      border-color: rgba(255,228,77,.25);
-      background: rgba(255,228,77,.10);
-      color: rgba(255,246,196,.95);
-    }
+    .badge .dot{width:7px;height:7px;border-radius:50%}
+    .dot.full{background: rgba(44,255,154,.95); box-shadow:0 0 0 4px rgba(44,255,154,.12)}
+    .dot.todo{background: rgba(255,228,77,.95); box-shadow:0 0 0 4px rgba(255,228,77,.12)}
 
-    .detail{
-      height:100%;
-      overflow:auto;
-      padding:18px 18px 22px;
+    .detail{height:100%;overflow:auto;padding:14px}
+    .empty{
+      padding:26px 18px;
+      border-radius:18px;
+      border:1px dashed rgba(255,255,255,.18);
+      background: rgba(0,0,0,.14);
+      color:rgba(242,242,247,.85);
     }
+    .empty h2{margin:0 0 8px;font-size:22px}
+    .empty p{margin:0;color:rgba(242,242,247,.72);line-height:1.55}
 
     .hero{
-      display:flex;
-      align-items:flex-start;
-      justify-content:space-between;
-      gap:12px;
-      flex-wrap:wrap;
-      padding-bottom:14px;
-      border-bottom:1px solid rgba(255,255,255,.10);
-      margin-bottom:14px;
-    }
-    .titleBlock{
-      min-width:260px;
-      max-width:760px;
+      display:flex;align-items:flex-start;justify-content:space-between;gap:14px;
+      padding:16px 16px 12px;
+      border-radius:20px;
+      background: linear-gradient(180deg, rgba(0,0,0,.28), rgba(0,0,0,.10));
+      border:1px solid rgba(255,255,255,.10);
+      box-shadow: 0 18px 45px rgba(0,0,0,.42);
     }
     .artistTitle{
       margin:0;
-      font-size:30px;
+      font-size:28px;
+      font-weight:950;
+      letter-spacing:.6px;
       line-height:1.05;
-      font-weight:900;
-      letter-spacing:.4px;
-      background: linear-gradient(90deg, var(--yellow), var(--red), var(--blue));
-      -webkit-background-clip:text;
-      background-clip:text;
-      color:transparent;
+      background: linear-gradient(90deg, rgba(255,228,77,.96), rgba(255,53,94,.92), rgba(58,160,255,.92), rgba(44,255,154,.90));
+      -webkit-background-clip:text;background-clip:text;color:transparent;
+      text-shadow: 0 6px 30px rgba(0,0,0,.45);
     }
     .subline{
       margin-top:8px;
+      color:rgba(242,242,247,.74);
       font-size:13px;
-      color:rgba(242,242,247,.78);
-      display:flex;
-      gap:10px;
-      flex-wrap:wrap;
-      align-items:center;
+      display:flex;gap:10px;align-items:center;flex-wrap:wrap;
     }
-    .dot{
-      width:5px;height:5px;border-radius:50%;
-      background: rgba(242,242,247,.35);
-      display:inline-block;
-    }
-
-    .chipRow{
-      display:flex;
-      gap:8px;
-      flex-wrap:wrap;
-      align-items:center;
-      justify-content:flex-end;
-      padding-top:4px;
-    }
-    .returnBtn{
-      appearance:none;
-      border:1px solid rgba(255,255,255,.16);
-      background: rgba(0,0,0,.22);
-      color: rgba(242,242,247,.90);
-      border-radius: 999px;
-      padding: 10px 12px;
-      font-size: 12px;
-      font-weight: 900;
-      letter-spacing: .35px;
-      cursor: pointer;
-      transition: transform .12s ease, border-color .12s ease, background .12s ease;
-    }
-    .returnBtn:hover{transform: translateY(-1px); background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.22);}
-    .returnBtn:active{transform: translateY(0px);}
-
+    .subline .dotSep{width:4px;height:4px;border-radius:50%;background:rgba(242,242,247,.32)}
+    .chipRow{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:flex-end}
     .chip{
-      font-size:12px;
-      padding:8px 10px;
-      border-radius:999px;
-      border:1px solid rgba(255,255,255,.14);
-      background: rgba(0,0,0,.22);
-      color: rgba(242,242,247,.86);
+      display:inline-flex;align-items:center;gap:8px;
+      padding:7px 10px;border-radius:999px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(0,0,0,.18);
+      font-size:12px;color:rgba(242,242,247,.78);
     }
-    .chip.red{border-color: rgba(255,53,94,.28); box-shadow: 0 12px 30px rgba(255,53,94,.12)}
-    .chip.blue{border-color: rgba(58,160,255,.26); box-shadow: 0 12px 30px rgba(58,160,255,.12)}
-    .chip.green{border-color: rgba(44,255,154,.24); box-shadow: 0 12px 30px rgba(44,255,154,.10)}
-    .chip.yellow{border-color: rgba(255,228,77,.24); box-shadow: 0 12px 30px rgba(255,228,77,.10)}
-
-    .bioBtn{
-      appearance:none;
-      border:1px solid rgba(255,255,255,.16);
-      background: linear-gradient(180deg, rgba(255,228,77,.22), rgba(255,53,94,.14));
-      color: rgba(242,242,247,.92);
-      border-radius: 999px;
-      padding: 8px 10px;
-      font-size: 12px;
-      font-weight: 900;
-      letter-spacing: .35px;
-      cursor: pointer;
-      box-shadow: 0 12px 30px rgba(0,0,0,.25);
-      transition: transform .12s ease, border-color .12s ease, background .12s ease;
-      flex-shrink: 0;
-    }
-    .bioBtn:hover{transform: translateY(-1px); border-color: rgba(255,255,255,.24);}
-    .bioBtn:active{transform: translateY(0px);}
-    .bioBtn:focus{outline:none; box-shadow: 0 0 0 3px rgba(58,160,255,.25), 0 12px 30px rgba(0,0,0,.25);}
-
+    .chip.red{border-color: rgba(255,53,94,.30)}
+    .chip.blue{border-color: rgba(58,160,255,.30)}
+    .chip.green{border-color: rgba(44,255,154,.28)}
+    .chip.yellow{border-color: rgba(255,228,77,.30)}
 
     .grid{
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-      margin-top: 14px;
+      margin-top:14px;
+      display:grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap:12px;
     }
     .card{
-      border-radius:var(--radius);
-      border:1px solid rgba(255,255,255,.12);
-      background: rgba(255,255,255,.06);
+      grid-column: span 12;
+      background: rgba(0,0,0,.16);
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:18px;
       padding:14px 14px 12px;
-      min-height:0;
     }
+    .card.full{grid-column: span 12}
+    .card.half{grid-column: span 6}
+    .card.third{grid-column: span 4}
     .card h3{
-      margin:0 0 10px 0;
-      font-size:13px;
-      letter-spacing:.6px;
+      margin:0 0 10px;
+      font-size:14px;
+      letter-spacing:.9px;
       text-transform:uppercase;
-      color: rgba(242,242,247,.86);
-      display:flex;
-      align-items:center;
-      gap:10px;
+      color:rgba(242,242,247,.82);
+      display:flex;align-items:center;gap:10px;
     }
     .accent{
-      width:10px;height:10px;border-radius:3px;
-      background: linear-gradient(135deg, var(--yellow), var(--red));
-      box-shadow: 0 10px 20px rgba(255,53,94,.18);
-      flex-shrink:0;
+      width:10px;height:10px;border-radius:4px;
+      background: linear-gradient(135deg, rgba(255,228,77,.92), rgba(255,53,94,.92));
+      box-shadow: 0 12px 22px rgba(0,0,0,.35);
     }
-    .card p{
-      margin:0;
-      color: rgba(242,242,247,.78);
-      line-height:1.55;
-      font-size:14px;
-      white-space:pre-wrap;
-    }
-    ul{
-      margin:0;
-      padding-left:18px;
-      color: rgba(242,242,247,.78);
-      line-height:1.55;
-      font-size:14px;
-    }
+    .card p{margin:0;color:rgba(242,242,247,.78);line-height:1.55}
+    ul{margin:0;padding-left:18px;color:rgba(242,242,247,.80)}
     li{margin:6px 0}
 
-    .links{
-      display:flex;
-      flex-wrap:wrap;
-      gap:10px;
-    }
-    a.link{
-      display:inline-flex;
-      align-items:center;
-      gap:8px;
-      padding:10px 12px;
-      border-radius:999px;
-      border:1px solid rgba(255,255,255,.14);
-      background: rgba(0,0,0,.20);
-      color: rgba(242,242,247,.90);
-      text-decoration:none;
-      font-size:13px;
-      transition: transform .12s ease, border-color .12s ease, background .12s ease;
-    }
-    a.link:hover{
-      transform: translateY(-1px);
-      background: rgba(255,255,255,.06);
-      border-color: rgba(255,255,255,.22);
-    }
-    .k{
-      display:inline-block;
-      width:10px;height:10px;border-radius:3px;
-      background: var(--blue);
-      box-shadow: 0 10px 20px rgba(58,160,255,.16);
-    }
-
-    .empty{
-      padding:28px 18px;
-      color: rgba(242,242,247,.80);
-    }
-    .empty h2{
-      margin:0 0 8px 0;
-      font-size:18px;
-      letter-spacing:.4px;
-    }
-    .empty p{
-      margin:0;
-      color: rgba(242,242,247,.70);
-      line-height:1.55;
-    }
-
-    .status{
+    .links{display:flex;flex-wrap:wrap;gap:10px}
+    .links a{
+      display:inline-flex;align-items:center;gap:10px;
       padding:10px 12px;
       border-radius:14px;
       border:1px solid rgba(255,255,255,.12);
-      background: rgba(0,0,0,.20);
-      color: rgba(242,242,247,.78);
-      font-size:13px;
-      margin-top:10px;
-      display:none;
+      background: rgba(0,0,0,.18);
+      color:rgba(242,242,247,.82);
+      text-decoration:none;
+      box-shadow: 0 12px 30px rgba(0,0,0,.35);
+      transition: transform .08s ease, filter .12s ease, border-color .12s ease;
     }
-    .status.show{display:block}
-
-    @media (max-width: 980px){
-      body{overflow:auto}
-      main{
-        grid-template-columns: 1fr;
-        height:auto;
-      }
-      .panel{min-height: 520px}
-      input[type="search"]{width:min(640px, 70vw)}
+    .links a:hover{transform: translateY(-1px);filter: brightness(1.06);border-color: rgba(255,255,255,.18)}
+    .links .k{
+      width:10px;height:10px;border-radius:4px;
+      background: linear-gradient(135deg, rgba(58,160,255,.92), rgba(44,255,154,.92));
+      box-shadow: 0 10px 22px rgba(0,0,0,.35);
+      flex:0 0 auto;
     }
 
+    button{
+      font: inherit;
+      border-radius: 14px;
+      padding: 10px 12px;
+      border:1px solid rgba(255,255,255,.12);
+      cursor:pointer;
+      transition: transform .08s ease, filter .12s ease, border-color .12s ease, box-shadow .12s ease;
+    }
+    button:active{transform: translateY(1px)}
+    .bioBtn,
+    .returnBtn{
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.10), rgba(0,0,0,.55)),
+        radial-gradient(900px 520px at 22% 18%, rgba(212,175,55,.10), transparent 55%);
+      border-color: rgba(212,175,55,.40);
+      color: var(--gold);
+      text-shadow: 0 1px 0 rgba(0,0,0,.85), 0 0 10px rgba(212,175,55,.18);
+      box-shadow:
+        0 16px 40px rgba(0,0,0,.55),
+        inset 0 1px 0 rgba(255,255,255,.18),
+        inset 0 -1px 0 rgba(0,0,0,.55);
+      background-color: var(--black);
+    }
+    .bioBtn:hover,
+    .returnBtn:hover{filter: brightness(1.06);border-color: rgba(212,175,55,.55)}
+    .bioBtn:focus-visible,
+    .returnBtn:focus-visible{
+      outline: none;
+      box-shadow:
+        0 0 0 3px rgba(212,175,55,.22),
+        0 16px 40px rgba(0,0,0,.65),
+        inset 0 1px 0 rgba(255,255,255,.18),
+        inset 0 -1px 0 rgba(0,0,0,.55);
+    }
 
     .bioOverlay{
       position: fixed;
       inset: 0;
-      z-index: 999;
-      display: none;
-      padding: 25px;
-      background: rgba(18,17,61,.96);
-      backdrop-filter: blur(10px);
+      background: rgba(0,0,0,.62);
+display:none;
+      z-index: 50;
     }
-    .bioOverlay.show{ display: block; }
-
+    .bioOverlay.show{display:block}
     .bioShell{
-      height: 100%;
-      width: 100%;
-      margin: 0;
+      position:absolute;
+      inset: 18px 25px;
       border-radius: var(--radius2);
-      border: 1px solid rgba(255,255,255,.12);
+      border:1px solid rgba(255,255,255,.12);
+      background: linear-gradient(180deg, #17165a, #0e0d2f);
       box-shadow: var(--shadow);
-      overflow: hidden;
-      display: grid;
-      grid-template-rows: auto 1fr;
-      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.05));
+      overflow:hidden;
+      display:grid;
+      grid-template-rows:auto 1fr;
     }
-
     .bioHeader{
-      padding: 18px 25px 12px;
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      padding: 16px 16px 12px;
       display:flex;
       align-items:flex-start;
       justify-content: space-between;
       gap: 12px;
-      border-bottom: 1px solid rgba(255,255,255,.10);
-      background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,0));
-      backdrop-filter: blur(10px);
-    }
-
+      border-bottom: 1px solid rgba(212,175,55,.28);
+      background: linear-gradient(135deg, #0b0b12 0%, #1a1a24 42%, #0e0e17 100%);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.08), inset 0 -1px 0 rgba(0,0,0,.55);
+      }
     .bioTitle{
-      margin:0;
-      font-size:22px;
-      letter-spacing:.6px;
-      line-height:1.1;
-      font-weight:800;
-      background: linear-gradient(90deg, var(--yellow), var(--red), var(--blue), var(--green));
+      font-size: 26px;
+      font-weight: 900;
+      letter-spacing: .6px;
+      line-height: 1.1;
+      background: linear-gradient(90deg, rgba(255,228,77,.96), rgba(255,53,94,.92), rgba(58,160,255,.92), rgba(44,255,154,.90));
       -webkit-background-clip:text;
       background-clip:text;
-      color:transparent;
+      color: transparent;
       text-shadow: 0 6px 30px rgba(0,0,0,.45);
     }
-    .bioSub{ margin-top:6px; font-size:13px; color: rgba(242,242,247,.72); }
-
+    .bioSub{ margin-top: 6px; font-size: 13px; color: rgba(242,242,247,.72); }
     .bioBody{
-      overflow: auto;
-      padding: 14px 25px 18px;
-      min-height:0;
+      overflow:auto;
+      padding: 14px 14px 18px;
+      height:100%;
     }
-
-    .bioHero{
-      border-radius: var(--radius2);
-      border: 1px solid rgba(255,255,255,.12);
-      background: rgba(255,255,255,.06);
-      box-shadow: var(--shadow);
-      display: flex;
-      gap: 16px;
-      align-items: flex-start;
-      padding: 16px;
-      margin-bottom: 12px;
-    }
-
-    .bioPhoto{
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display:block;
-    }
-    .bioHeroText{ min-width: 0; flex: 1 1 auto; }
-
     .bioGrid{
-      display:flex;
-      flex-direction: column;
+      display:grid;
+      grid-template-columns: repeat(12, 1fr);
       gap: 12px;
       margin-top: 12px;
     }
     .bioCard{
-      border-radius: var(--radius);
-      border: 1px solid rgba(255,255,255,.12);
-      background: rgba(255,255,255,.06);
+      grid-column: span 4;
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,.10);
+      background: linear-gradient(180deg, #111048, #0b0a25);
       padding: 14px 14px 12px;
     }
+    .bioCard.wide{grid-column: span 12}
     .bioCard h3{
-      margin: 0 0 10px;
-      font-size: 14px;
-      letter-spacing: .6px;
-      text-transform: uppercase;
-      color: rgba(242,242,247,.78);
+      margin:0 0 10px;
+      font-size:14px;
+      letter-spacing:.9px;
+      text-transform:uppercase;
+      color:rgba(242,242,247,.82);
+      display:flex;align-items:center;gap:10px;
     }
-    .bioCard .accent{
-      display:inline-block;
-      width:10px;
-      height:10px;
-      border-radius:999px;
-      margin-right:10px;
-      background: linear-gradient(135deg,var(--yellow),var(--red),var(--blue),var(--green));
-      box-shadow: 0 10px 28px rgba(0,0,0,.35);
-      vertical-align: middle;
+    .bioLinks{display:flex;flex-direction:column;align-items:flex-start;gap:10px;margin-top:10px}
+    .bioLinks a{
+      width: fit-content;
+      max-width: 100%;
+      text-decoration:none;
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border:1px solid rgba(212,175,55,.40);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.10), rgba(0,0,0,.58)),
+        radial-gradient(900px 520px at 22% 18%, rgba(212,175,55,.10), transparent 55%);
+      background-color: var(--black);
+      color: var(--gold);
+      text-shadow: 0 1px 0 rgba(0,0,0,.85), 0 0 10px rgba(212,175,55,.18);
+      box-shadow:
+        0 16px 40px rgba(0,0,0,.55),
+        inset 0 1px 0 rgba(255,255,255,.18),
+        inset 0 -1px 0 rgba(0,0,0,.55);
+      transition: transform .08s ease, filter .12s ease, border-color .12s ease;
     }
-</style>
+    .bioLinks a:hover{transform: translateY(-1px);filter: brightness(1.06);border-color: rgba(212,175,55,.55)}
+    .bioLinks a:active{transform: translateY(1px)}
+    .bioLinks .k{
+      width:10px;height:10px;border-radius:4px;
+      background: linear-gradient(135deg, rgba(58,160,255,.92), rgba(44,255,154,.92));
+      box-shadow: 0 10px 22px rgba(0,0,0,.35);
+      flex:0 0 auto;
+    }
+
+    @media (max-width: 980px){
+      body{overflow:auto}
+      .wrap{padding: 0 16px}
+      main{grid-template-columns: 1fr}
+      .pill input{width: 180px}
+      .bioShell{inset: 14px 16px}
+      .bioCard{grid-column: span 12}
+    }
+  </style>
 </head>
 <body>
   <div class="wrap">
@@ -614,7 +403,7 @@
       <div class="top">
         <div class="brand">
           <div class="logo" aria-hidden="true"></div>
-          <div>
+          <div style="min-width:0">
             <h1>Classic Rock Artists</h1>
             <div class="tag">Browse the library • click an artist to view details</div>
           </div>
@@ -625,7 +414,7 @@
             <span style="color:rgba(242,242,247,.75);font-size:14px">🔎</span>
             <input id="search" type="search" placeholder="Search artists…" autocomplete="off" />
           </div>
-</div>
+        </div>
       </div>
     </header>
 
@@ -644,90 +433,44 @@
         <div class="detail" id="detail">
           <div class="empty">
             <h2>Pick an artist</h2>
-            <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are placeholders we’ll fill in later.</p>
-            <div class="status" id="status"></div>
+            <p>This page reads <b>Artists.json</b> from GitHub and includes biographies embedded per core member.</p>
           </div>
         </div>
       </section>
     </main>
   </div>
 
+  <div class="bioOverlay" id="bioOverlay" aria-hidden="true">
+    <div class="bioShell" role="dialog" aria-modal="true" aria-label="Biography">
+      <div class="bioHeader">
+        <div>
+          <div class="bioTitle" id="bioTitle">Biography</div>
+          <div class="bioSub" id="bioSub"></div>
+        </div>
+        <button class="returnBtn" id="bioReturnBtn" type="button">Return</button>
+      </div>
+      <div class="bioBody" id="bioBody"></div>
+    </div>
+  </div>
+
   <script>
-const state = {
-      raw: null,
-      artists: [],
-      filtered: [],
-      selectedId: null,
-      bios: null
-    };
+    const RAW_ARTISTS_URL = "https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json";
 
-    const qs = new URLSearchParams(window.location.search);
-    const CACHE_BUST = qs.get("cb") === "1";
-    const CACHE_BUST_TOKEN = CACHE_BUST ? String(Date.now()) : "";
-
-    const cacheBustAssetUrl = (rawUrl) => {
-      const u0 = (rawUrl ?? "").toString();
-      if (!CACHE_BUST || !u0) return u0;
-
-      let u;
-      try {
-        u = new URL(u0, window.location.href);
-      } catch {
-        return u0;
-      }
-
-      const isSameOrigin = u.origin === window.location.origin;
-      const isRepoRaw = u.hostname === "raw.githubusercontent.com" && u.pathname.includes("/BigBird7827/Rock-Music-Database/");
-      const isRepoPages = u.hostname === "bigbird7827.github.io" && u.pathname.startsWith("/Rock-Music-Database/");
-      const isBustable = isSameOrigin || isRepoRaw || isRepoPages;
-
-      if (!isBustable) return u0;
-
-      u.searchParams.set("v", CACHE_BUST_TOKEN);
-      return u.href;
-    };
-
-    const ARTISTS_URL = cacheBustAssetUrl("https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json");
+    const state = { artists: [], filtered: [], selectedId: null };
 
     const el = {
       list: document.getElementById("list"),
       detail: document.getElementById("detail"),
       count: document.getElementById("count"),
       search: document.getElementById("search"),
-status: document.getElementById("status")
+      bioOverlay: document.getElementById("bioOverlay"),
+      bioTitle: document.getElementById("bioTitle"),
+      bioSub: document.getElementById("bioSub"),
+      bioBody: document.getElementById("bioBody"),
+      bioReturnBtn: document.getElementById("bioReturnBtn"),
     };
 
     const safe = (v) => (v == null ? "" : String(v));
-
-    const slugify = (s) => safe(s)
-      .toLowerCase()
-      .replace(/&/g, "and")
-      .replace(/[^a-z0-9]+/g, "-")
-      .replace(/^-+|-+$/g, "");
-
-    const escapeHtmlAttr = (s) => safe(s)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/\x27/g, "&#039;");
-
-
-    const normKey = (s) => safe(s)
-      .toLowerCase()
-      .trim()
-      .replace(/\s+/g, " ")
-      .replace(/[’‘]/g, "'")
-      .replace(/[“”]/g, '"');
-
-    const repairJsonText = (text) => {
-      let t = String(text || "");
-      t = t.replace(/^[^\[{]*/s, "");
-      t = t.replace(/\uFEFF/g, "");
-      t = t.replace(/,\s*(\]|\})/g, "$1");
-      return t.trim();
-    };
-
     const escapeHtml = (s) => safe(s)
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
@@ -735,44 +478,50 @@ status: document.getElementById("status")
       .replace(/"/g, "&quot;")
       .replace(/'/g, "&#039;");
 
-    const isFilled = (a) => a && (a.Overview || a.NotableAlbums || a.Genres || a.YearsActive || a.ExternalLinks);
+    const normKey = (s) => safe(s).toLowerCase().trim()
+      .replace(/\s+/g, " ")
+      .replace(/[’‘]/g, "'")
+      .replace(/[“”]/g, '"');
 
-    const sortArtists = (arr) => [...arr].sort((a, b) => safe(a.Name).localeCompare(safe(b.Name)));
-
-    const matches = (a, q) => {
-      if (!q) return true;
-      const s = q.toLowerCase().trim();
-      if (!s) return true;
-      const fields = [
-        a.Name,
-        a.Type,
-        a.Origin?.City,
-        a.Origin?.Region,
-        a.Origin?.Country,
-        ...(a.Genres || [])
-      ].filter(Boolean).join(" • ").toLowerCase();
-      return fields.includes(s);
+    const withCacheBust = (url) => {
+      const u = new URL(url);
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("cb") === "1") u.searchParams.set("cb", String(Date.now()));
+      return u.toString();
     };
+
+    const isFilled = (a) => !!(a && (a.Overview || (a.NotableAlbums && a.NotableAlbums.length) || (a.Genres && a.Genres.length) || (a.YearsActive && a.YearsActive.length) || a.ExternalLinks));
 
     const badgeHTML = (a) => {
       const filled = isFilled(a);
-      const cls = filled ? "badge full" : "badge todo";
-      const txt = filled ? "FULL" : "TODO";
-      return `<span class="${cls}">${txt}</span>`;
+      return `<span class="badge" title="${filled ? "Filled" : "TODO"}">
+        <span class="dot ${filled ? "full" : "todo"}"></span>
+        ${filled ? "FULL" : "TODO"}
+      </span>`;
     };
 
+    const matches = (a, q) => {
+      if (!q) return true;
+      const hay = [
+        a.Name,
+        ...(a.Genres || []),
+        ...(a.YearsActive || []),
+        a.Type,
+        a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
+      ].filter(Boolean).join(" • ");
+      return normKey(hay).includes(normKey(q));
+    };
+
+    const sortArtists = (arr) => [...arr].sort((a, b) => safe(a.Name).localeCompare(safe(b.Name)));
+
     const itemHTML = (a) => {
-      const name = safe(a.Name);
-      const id = safe(a.ArtistID) || name;
+      const name = escapeHtml(a.Name);
+      const id = escapeHtml(a.ArtistID || a.Name);
       const active = state.selectedId === id ? "active" : "";
       return `
         <div class="item ${active}" role="button" tabindex="0" data-id="${id}">
-          <div>
-            <div class="itemName">${name}</div>
-          </div>
-          <div class="itemMeta">
-            ${badgeHTML(a)}
-          </div>
+          <div><div class="itemName">${name}</div></div>
+          <div class="itemMeta">${badgeHTML(a)}</div>
         </div>
       `;
     };
@@ -794,106 +543,110 @@ status: document.getElementById("status")
 
     const chips = (a) => {
       const out = [];
-      if (a.Type) out.push(`<span class="chip red">${safe(a.Type)}</span>`);
-      const origin = [a.Origin?.City, a.Origin?.Region, a.Origin?.Country].filter(Boolean).join(", ");
-      if (origin) out.push(`<span class="chip blue">${origin}</span>`);
-      if (a.YearsActive && a.YearsActive.length) out.push(`<span class="chip yellow">${safe(a.YearsActive.join(", "))}</span>`);
-      if (a.Genres && a.Genres.length) out.push(`<span class="chip green">${safe(a.Genres.slice(0,3).join(" • "))}${a.Genres.length>3?"…":""}</span>`);
+      if (a.Type) out.push(`<span class="chip red">${escapeHtml(a.Type)}</span>`);
+      const origin = a.Origin ? [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(", ") : "";
+      if (origin) out.push(`<span class="chip blue">${escapeHtml(origin)}</span>`);
+      if (a.YearsActive && a.YearsActive.length) out.push(`<span class="chip yellow">${escapeHtml(a.YearsActive.join(", "))}</span>`);
+      if (a.Genres && a.Genres.length) out.push(`<span class="chip green">${escapeHtml(a.Genres.slice(0,3).join(" • "))}${a.Genres.length>3?"…":""}</span>`);
       const coreN = (a.CoreMembers && a.CoreMembers.length) ? a.CoreMembers.length : 0;
       const nonCoreN = (a.NonCoreMembers && a.NonCoreMembers.length) ? a.NonCoreMembers.length : 0;
       if (coreN || nonCoreN) out.push(`<span class="chip blue">${coreN} core • ${nonCoreN} non-core</span>`);
       return out.join("");
     };
 
-    const listOrEmpty = (arr) => {
-      if (!arr || !arr.length) return `<p>—</p>`;
-      return `<ul>${arr.map(x=>`<li>${safe(x)}</li>`).join("")}</ul>`;
+    const card = (title, body, spanClass) => `
+      <div class="card ${spanClass || "full"}">
+        <h3><span class="accent"></span>${escapeHtml(title)}</h3>
+        ${body}
+      </div>
+    `;
+
+    const formatListItem = (v) => {
+      if (v == null) return "";
+      if (typeof v === "string" || typeof v === "number" || typeof v === "boolean") return String(v);
+      if (typeof v === "object") {
+        const name =
+          v.Title ??
+          v.Name ??
+          v.Type ??
+          v.Award ??
+          v.Label ??
+          v.Role ??
+          v.Work ??
+          v.Item ??
+          "";
+        const year = v.Year ?? v.Date ?? "";
+        const detail =
+          v.Notes ??
+          v.Note ??
+          v.Details ??
+          v.Description ??
+          v.Summary ??
+          v.Context ??
+          "";
+        const head = [name, year ? `(${year})` : ""].filter(Boolean).join(" ");
+        return [head, detail].filter(Boolean).join(" — ");
+      }
+      return "";
     };
 
-    const albumsHTML = (albums) => {
-      if (!albums || !albums.length) return `<p>—</p>`;
-      return `<ul>${albums.map(a=>`<li><b>${safe(a.Title)}</b> (${safe(a.Year)})${a.Notes?` — ${safe(a.Notes)}`:""}</li>`).join("")}</ul>`;
-    };
-
-    const membersHTML = (members, isCore) => {
-      if (!members || !members.length) return `<p>—</p>`;
-      return `
-        <div style="display:flex;flex-direction:column;gap:10px;">
-          ${members.map(m=>{
-            const name = safe(m.Name);
-            const years = m.Years ? safe(m.Years) : "";
-            const roles = (m.Roles && m.Roles.length) ? m.Roles.join(", ") : "";
-            const instruments = (m.Instruments && m.Instruments.length) ? m.Instruments.join(", ") : "";
-            const albums = (m.Albums && m.Albums.length) ? m.Albums : [];
-            const replacing = (m.Replacing && m.Replacing.length) ? m.Replacing.join(", ") : "";
-            const replacedBy = (m.ReplacedBy && m.ReplacedBy.length) ? m.ReplacedBy.join(", ") : "";
-            const overview = m.Overview ? safe(m.Overview) : "";
-            const hasBio = !!(m && m.Bio && ((Array.isArray(m.Bio.Biography) && m.Bio.Biography.filter(Boolean).length) || (typeof m.Bio.Biography === "string" && m.Bio.Biography.trim())));
-            const row = (label, value) => value ? `<div style="margin-top:6px;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">${label}</span><div style="margin-top:4px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;">${value}</div></div>` : "";
-            const albumsHtml = albums.length ? `<ul style="margin:6px 0 0 18px;">${albums.map(a=>`<li>${safe(a)}</li>`).join("")}</ul>` : "";
-            return `
-              <div style="border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.18);border-radius:14px;padding:10px 12px;">
-                <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between;">
-                  <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;">
-                    <div style="font-weight:800;letter-spacing:.2px;">${name}</div>
-                    ${years ? `<span class="badge" style="opacity:.9;">${years}</span>` : ``}
-                  </div>
-                  ${(isCore && hasBio) ? `<button class="bioBtn" data-member="${escapeHtmlAttr(name)}">Biography</button>` : ``}
-                </div>
-                ${roles ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Roles</span><div style="margin-top:4px;">${safe(roles)}</div></div>` : ``}
-                ${instruments ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Instruments</span><div style="margin-top:4px;">${safe(instruments)}</div></div>` : ``}
-                ${albums.length ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Albums<\/span>${albumsHtml}<\/div>` : ``}
-                ${replacing ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Replacing</span><div style="margin-top:4px;">${safe(replacing)}</div></div>` : ``}
-                ${replacedBy ? `<div style="margin-top:6px;color:rgba(242,242,247,.80);font-size:14px;line-height:1.5;"><span style="color:rgba(242,242,247,.65);font-size:12px;letter-spacing:.4px;text-transform:uppercase;">Replaced By</span><div style="margin-top:4px;">${safe(replacedBy)}</div></div>` : ``}
-                ${overview ? `<div style="margin-top:8px;color:rgba(242,242,247,.78);font-size:14px;line-height:1.55;white-space:pre-wrap;">${safe(overview)}</div>` : ``}
-              </div>
-            `;
-          }).join("")}
-        </div>
-      `;
+    const listOrDash = (arr) => {
+      const xs = (arr || []).filter(Boolean).map(formatListItem).filter(Boolean);
+      if (!xs.length) return `<p>—</p>`;
+      return `<ul>${xs.map(v => `<li>${escapeHtml(v)}</li>`).join("")}</ul>`;
     };
 
     const linksHTML = (links) => {
       if (!links) return `<p>—</p>`;
       const items = Object.entries(links).filter(([,v]) => !!v);
       if (!items.length) return `<p>—</p>`;
-      return `<div class="links">${items.map(([k,v])=>`<a class="link" href="${safe(v)}" target="_blank" rel="noopener"><span class="k"></span>${safe(k)}</a>`).join("")}</div>`;
+      return `<div class="links">${items.map(([k,v]) => `<a href="${escapeHtml(v)}" target="_blank" rel="noopener"><span class="k"></span>${escapeHtml(k)}</a>`).join("")}</div>`;
     };
 
-    const detailHTML = (a) => {
-      const name = safe(a.Name);
-      const subBits = [];
-      const origin = [a.Origin?.City, a.Origin?.Region, a.Origin?.Country].filter(Boolean).join(", ");
-      if (origin) subBits.push(origin);
-      if (a.Type) subBits.push(a.Type);
-      if (a.YearsActive && a.YearsActive.length) subBits.push(a.YearsActive.join(", "));
-      const sub = subBits.length ? subBits.join("  ") : "—";
-      const filled = isFilled(a);
-
-      if (!filled){
-        return `
-          <div class="hero">
-            <div class="titleBlock">
-              <h2 class="artistTitle">${name}</h2>
-              <div class="subline"><span>${sub}</span></div>
-            </div>
-            <div class="chipRow">${chips(a)}</div>
-          </div>
-
-          <div class="card">
-            <h3><span class="accent"></span>Details</h3>
-            <p>This entry is a placeholder right now.</p>
-          </div>
-        `;
-      }
-
+    const memberCardHTML = (m, isCore) => {
+      const name = escapeHtml(m.Name || "");
+      const years = m.YearsActive ? escapeHtml(m.YearsActive) : "";
+      const roles = m.Roles ? escapeHtml(m.Roles) : "";
+      const instruments = m.Instruments ? escapeHtml(m.Instruments) : "";
+      const albums = Array.isArray(m.Albums) ? m.Albums.filter(Boolean) : [];
       return `
+        <div style="border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.16);border-radius:18px;padding:12px 12px;">
+          <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between;">
+            <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;">
+              <div style="font-weight:800;letter-spacing:.2px;">${name}</div>
+              ${years ? `<span class="badge" style="opacity:.92;">${years}</span>` : ``}
+            </div>
+            ${isCore ? `<button class="bioBtn" type="button" data-member="${escapeHtml(m.Name || "")}">Biography</button>` : ``}
+          </div>
+          ${roles ? `<div style="margin-top:8px;color:rgba(242,242,247,.78);font-size:14px;line-height:1.5;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Roles</span><div style="margin-top:4px;">${roles}</div></div>` : ``}
+          ${instruments ? `<div style="margin-top:8px;color:rgba(242,242,247,.78);font-size:14px;line-height:1.5;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Instruments</span><div style="margin-top:4px;">${instruments}</div></div>` : ``}
+          ${albums.length ? `<div style="margin-top:10px;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Albums</span>${listOrDash(albums)}</div>` : ``}
+        </div>
+      `;
+    };
+
+    const renderDetail = (a) => {
+      if (!a) return;
+      const name = escapeHtml(a.Name || "—");
+      const sub = a.Overview ? escapeHtml(a.Overview).slice(0, 120) + (safe(a.Overview).length > 120 ? "…" : "") : "Artist details";
+      const core = Array.isArray(a.CoreMembers) ? a.CoreMembers : [];
+      const nonCore = Array.isArray(a.NonCoreMembers) ? a.NonCoreMembers : [];
+
+      const origin = a.Origin ? [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(", ") : "";
+      const yearsActive = Array.isArray(a.YearsActive) ? a.YearsActive : [];
+      const genres = Array.isArray(a.Genres) ? a.Genres : [];
+      const albums = Array.isArray(a.NotableAlbums) ? a.NotableAlbums : [];
+      const songs = Array.isArray(a.SignatureSongs) ? a.SignatureSongs : [];
+      const achievements = Array.isArray(a.Achievements) ? a.Achievements : [];
+      const links = a.ExternalLinks || null;
+
+      el.detail.innerHTML = `
         <div class="hero">
-          <div class="titleBlock">
+          <div class="titleBlock" style="min-width:0">
             <h2 class="artistTitle">${name}</h2>
             <div class="subline">
               <span>${sub}</span>
-              <span class="dot"></span>
+              <span class="dotSep"></span>
               <span>${badgeHTML(a)}</span>
             </div>
           </div>
@@ -901,370 +654,213 @@ status: document.getElementById("status")
         </div>
 
         <div class="grid">
-          <div class="card full">
-            <h3><span class="accent"></span>Overview</h3>
-            <p>${Array.isArray(a.Overview) ? safe(a.Overview.join("\n\n")) : safe(a.Overview)}</p>
-          </div>
-          <div class="card full">
-            <h3><span class="accent"></span>Profile</h3>
-            <ul>
-              <li><b>Type:</b> ${a.Type ? safe(a.Type) : "—"}</li>
-              <li><b>Origin:</b> ${[a.Origin?.City, a.Origin?.Region, a.Origin?.Country].filter(Boolean).join(", ") || "—"}</li>
-              <li><b>Years Active:</b> ${(a.YearsActive && a.YearsActive.length) ? safe(a.YearsActive.join(", ")) : "—"}</li>
-              <li><b>Genres:</b> ${(a.Genres && a.Genres.length) ? safe(a.Genres.join(", ")) : "—"}</li>
-              <li><b>Labels:</b> ${(a.Labels && a.Labels.length) ? safe(a.Labels.join(", ")) : "—"}</li>
-            </ul>
-          </div>
-
-
-          <div class="card">
-            <h3><span class="accent"></span>Key Facts</h3>
-            ${listOrEmpty(a.KeyFacts)}
-          </div>
-
-          <div class="card">
-            <h3><span class="accent"></span>Core Members</h3>
-            ${membersHTML(a.CoreMembers, true)}
-          </div>
-
-          <div class="card">
-            <h3><span class="accent"></span>Non-Core Members</h3>
-            ${membersHTML(a.NonCoreMembers, false)}
-          </div>
-
-          <div class="card">
-            <h3><span class="accent"></span>Notable Albums</h3>
-            ${albumsHTML(a.NotableAlbums)}
-          </div>
-
-          <div class="card">
-            <h3><span class="accent"></span>Signature Songs</h3>
-            ${listOrEmpty(a.SignatureSongs)}
-          </div>
-
-          <div class="card full">
-            <h3><span class="accent"></span>Achievements</h3>
-            ${a.Achievements && a.Achievements.length
-              ? `<ul>${a.Achievements.map(x=>`<li><b>${safe(x.Type)}</b>${x.Year?` (${safe(x.Year)})`:""} — ${safe(x.Detail)}</li>`).join("")}</ul>`
-              : `<p>—</p>`
-            }
-          </div>
-
-          <div class="card full">
-            <h3><span class="accent"></span>Links</h3>
-            ${linksHTML(a.ExternalLinks)}
-          </div>
+          ${card("Overview", `<p>${a.Overview ? escapeHtml(a.Overview) : "—"}</p>`, "full")}
+          ${card("Origin", `<p>${origin ? escapeHtml(origin) : "—"}</p>`, "third")}
+          ${card("Years Active", yearsActive.length ? `<p>${escapeHtml(yearsActive.join(", "))}</p>` : `<p>—</p>`, "third")}
+          ${card("Genres", genres.length ? `<p>${escapeHtml(genres.join(" • "))}</p>` : `<p>—</p>`, "third")}
+          ${card("Notable Albums", listOrDash(albums), "half")}
+          ${card("Signature Songs", listOrDash(songs), "half")}
+          ${card("Achievements", listOrDash(achievements), "full")}
+          ${card("External Links", linksHTML(links), "full")}
+          ${card("Core Members", core.length ? core.map(m => memberCardHTML(m, true)).join("<div style='height:10px'></div>") : "<p>—</p>", "full")}
+          ${card("Non-core Members", nonCore.length ? nonCore.map(m => memberCardHTML(m, false)).join("<div style='height:10px'></div>") : "<p>—</p>", "full")}
         </div>
       `;
     };
 
-    const selectArtist = (id) => {
-      state.selectedId = id;
-      renderList();
-      const a = state.artists.find(x => (safe(x.ArtistID) || safe(x.Name)) === id);
-      if (!a) return;
-      el.detail.scrollTop = 0;
-      el.detail.innerHTML = detailHTML(a);
-    };
+    const findSelectedArtist = () => state.artists.find(a => safe(a.ArtistID || a.Name) === safe(state.selectedId));
 
+    const hasText = (v) => !!safe(v).trim();
 
+    const joinNonEmpty = (parts, sep) => parts.map(safe).map(s => s.trim()).filter(Boolean).join(sep);
 
-    const openBiography = (artist, memberName) => {
-      const artistKey = safe(artist.ArtistID) ? safe(artist.ArtistID) : slugify(artist.Name);
-      state.bio = {
-        artistId: artistKey,
-        artistName: safe(artist.Name),
-        memberName: safe(memberName).trim()
-      };
-      showBioPage();
-    };
+    const renderBioOverlay = (artist, memberName) => {
+      const core = Array.isArray(artist.CoreMembers) ? artist.CoreMembers : [];
+      const member = core.find(m => normKey(m.Name) === normKey(memberName));
+      const bio = member && member.Bio ? member.Bio : null;
 
-    const clearSelection = () => {
-      state.selectedId = null;
-      renderList();
-      el.detail.scrollTop = 0;
-      el.detail.innerHTML = `
-        <div class="empty">
-          <h2>Pick an artist</h2>
-          <p>This page reads <b>Artists.json</b>. Right now only the first two artists are fully filled. The rest are name-only placeholders.</p>
-          <div class="status" id="status"></div>
-        </div>
-      `;
-    };
+      el.bioTitle.textContent = member ? safe(member.Name) : "Biography";
+      el.bioSub.textContent = joinNonEmpty([artist.Name, member && member.YearsActive ? `Active: ${member.YearsActive}` : ""], " • ");
 
-
-
-    const wireListClicks = () => {
-      el.list.addEventListener("click", (e) => {
-        const item = e.target.closest(".item");
-        if (!item) return;
-        selectArtist(item.dataset.id);
-      });
-      el.list.addEventListener("keydown", (e) => {
-        if (e.key !== "Enter" && e.key !== " ") return;
-        const item = e.target.closest(".item");
-        if (!item) return;
-        e.preventDefault();
-        selectArtist(item.dataset.id);
-      });
-    };
-
-    const wireDetailClicks = () => {
-      el.detail.addEventListener("click", (e) => {
-        const btn = e.target.closest(".bioBtn");
-        if (!btn) return;
-        const memberName = btn.getAttribute("data-member");
-        const a = state.artists.find(x => (safe(x.ArtistID) || safe(x.Name)) === state.selectedId);
-        if (!a) return;
-        openBiography(a, memberName);
-      });
-    };
-
-
-    const renderBioPage = async () => {
-      const overlay = document.getElementById("bioOverlay");
-      const body = document.getElementById("bioBody");
-      const artistName = safe(state.bio.artistName);
-      const memberName = safe(state.bio.memberName);
-      const artistId = safe(state.bio.artistId);
-
-      const chips = `
-        <div class="chipRow" style="margin-top:12px;">
-          ${artistName ? `<span class="chip blue">${safe(artistName)}</span>` : ``}
-          ${memberName ? `<span class="chip yellow">${safe(memberName)}</span>` : ``}
-        </div>
-      `;
-
-      body.innerHTML = `
-        <div class="bioHero">
-          <h2>${memberName || "Biography"}</h2>
-          <p>Loading…</p>
-          ${chips}
-        </div>
-      `;
-
-            let bio = null;
-      let errorMsg = "";
-
-      const a = state.artists.find(x =>
-        normKey(safe(x.ArtistID)) === normKey(artistId) ||
-        normKey(safe(x.Name)) === normKey(artistName)
-      );
-
-      const member = a && Array.isArray(a.CoreMembers)
-        ? a.CoreMembers.find(m => normKey(safe(m.Name)) === normKey(memberName))
-        : null;
-
-      bio = member && member.Bio ? member.Bio : null;
-
-      if (!bio) {
-        errorMsg = "Biography not found in Artists.json.";
-      }
-
-      const bioText = bio && Array.isArray(bio.Biography)
-        ? bio.Biography.map(safe).filter(Boolean).join("\n\n")
-        : (bio && bio.Biography ? safe(bio.Biography) : "");
-
-      const lookupInfo = (!bio)
-        ? `Lookup key: ArtistID="${escapeHtml(artistId)}" • MemberName="${escapeHtml(memberName)}"`
-        : "";
+      const sections = [];
 
       const birth = bio && bio.Birth ? bio.Birth : null;
       const death = bio && bio.Death ? bio.Death : null;
 
-      const birthLine = birth ? [safe(birth.Date), safe(birth.City), safe(birth.Region), safe(birth.Country)].filter(Boolean).join(" • ") : "";
-      const deathLine = death ? [safe(death.Date), safe(death.City), safe(death.Region), safe(death.Country)].filter(Boolean).join(" • ") : "";
+      const birthLine = birth ? joinNonEmpty([birth.Date || birth.Year, birth.Place], " • ") : "";
+      const deathLine = death ? joinNonEmpty([death.Date || death.Year, death.Place, death.Cause], " • ") : "";
 
-      const years = bio && Array.isArray(bio.ActiveYears) ? bio.ActiveYears.map(safe).filter(Boolean) : [];
-      const acts = bio && Array.isArray(bio.AssociatedActs) ? bio.AssociatedActs.map(safe).filter(Boolean) : [];
-      const albums = bio && Array.isArray(bio.KeyAlbums) ? bio.KeyAlbums : [];
-      const songs = bio && Array.isArray(bio.KeySongs) ? bio.KeySongs.map(safe).filter(Boolean) : [];
-      const ach = bio && Array.isArray(bio.Achievements) ? bio.Achievements : [];
-      const links = bio && bio.ExternalLinks ? bio.ExternalLinks : null;
+      const cards = [];
+      if (hasText(birthLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Birth</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(birthLine)}</p></div>`);
+      if (hasText(deathLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Death</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(deathLine)}</p></div>`);
+      if (member && hasText(member.YearsActive)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Active Years</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(member.YearsActive)}</p></div>`);
 
-      const albumsHTML = albums.length
-        ? `<ul style="margin:0;padding-left:18px;">${albums.map(a => {
-            const t = safe(a.Title);
-            const y = a.Year != null && a.Year !== "" ? safe(a.Year) : "";
-            const n = safe(a.Notes);
-            return `<li><b>${t}</b>${y ? ` (${y})` : ``}${n ? ` — ${n}` : ``}</li>`;
-          }).join("")}</ul>`
-        : `<div class="sub" style="margin:0;">—</div>`;
+      if (bio && hasText(bio.Nationality)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Nationality</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Nationality)}</p></div>`);
+      if (bio && hasText(bio.Roles)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Roles</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Roles)}</p></div>`);
+      if (bio && hasText(bio.Instruments)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Instruments</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Instruments)}</p></div>`);
 
-      const linksHTML = links
-        ? Object.entries(links).filter(([k,v]) => safe(v).trim()).map(([k,v]) => {
-            const url = safe(v);
-            return `<a class="link" href="${url}" target="_blank" rel="noopener">${safe(k)}</a>`;
-          }).join(" ")
-        : "";
+      if (cards.length) sections.push(`<div class="bioGrid">${cards.join("")}</div>`);
 
-      const errCard = errorMsg
-        ? `<div class="bioCard"><h3><span class="accent"></span>Error</h3><p style="margin:0;color:rgba(242,242,247,.78);">${escapeHtml(errorMsg)}</p></div>`
-        : ``;
-
-
-      const photoUrl = bio && bio.Photo ? safe(bio.Photo.Url || bio.Photo.url || "") : "";
-      const photoHTML = photoUrl
-        ? `<div class="bioPhotoWrap"><img class="bioPhoto" src="${cacheBustAssetUrl(photoUrl)}" alt="${escapeHtml(memberName || artistName || "Photo")}" loading="lazy"></div>`
-        : ``;
-
-      body.innerHTML = `
-        <div class="bioHero">
-          ${photoHTML}
-          <div class="bioHeroText">
-            <h2>${memberName || "Biography"}</h2>
-            <p>${bioText ? escapeHtml(bioText) : (errorMsg ? "Couldn’t load biographies." : ("No biography found." + (lookupInfo ? " " + lookupInfo : "")))}</p>
-            ${chips}
+      const bioText = bio ? (bio.FullText || bio.Overview || bio.Biography || "") : "";
+      if (hasText(bioText)) {
+        sections.push(`
+          <div class="bioGrid">
+            <div class="bioCard wide">
+              <h3><span class="accent"></span>Biography</h3>
+              <p style="margin:0;color:rgba(242,242,247,.78);line-height:1.65;white-space:pre-wrap">${escapeHtml(bioText)}</p>
+            </div>
           </div>
-        </div>
+        `);
+      }
 
-        <div class="bioGrid">
-          <div class="bioCard">
-            <h3><span class="accent"></span>Artist</h3>
-            <p style="margin:0;color:rgba(242,242,247,.82);">${artistName || "—"}</p>
+      const honours = bio && Array.isArray(bio.HonoursAndMilestones) ? bio.HonoursAndMilestones.filter(Boolean) : [];
+      if (honours.length) {
+        sections.push(`
+          <div class="bioGrid">
+            <div class="bioCard wide">
+              <h3><span class="accent"></span>Honours &amp; Milestones</h3>
+              <ul>${honours.map(h => `<li>${escapeHtml(typeof h === "string" ? h : (h.Title || h.Summary || JSON.stringify(h)))}</li>`).join("")}</ul>
+            </div>
           </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Birth</h3>
-            <p style="margin:0;color:rgba(242,242,247,.78);">${birthLine || "—"}</p>
-          </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Death</h3>
-            <p style="margin:0;color:rgba(242,242,247,.78);">${deathLine || "—"}</p>
-          </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Active Years</h3>
-            <p style="margin:0;color:rgba(242,242,247,.78);">${years.length ? escapeHtml(years.join(", ")) : "—"}</p>
-          </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Associated Acts</h3>
-            <p style="margin:0;color:rgba(242,242,247,.78);">${acts.length ? escapeHtml(acts.join(", ")) : "—"}</p>
-          </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Key Albums</h3>
-            ${albumsHTML}
-          </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Key Songs</h3>
-            <p style="margin:0;color:rgba(242,242,247,.78);">${songs.length ? escapeHtml(songs.join(", ")) : "—"}</p>
-          </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Achievements</h3>
-            <ul style="margin:0;padding-left:18px;">${ach.length ? ach.map(x => `<li>${escapeHtml(safe(x.Type))}${x.Year ? ` (${escapeHtml(safe(x.Year))})` : ``}${x.Detail ? ` — ${escapeHtml(safe(x.Detail))}` : ``}</li>`).join("") : `<li>—</li>`}</ul>
-          </div>
-          <div class="bioCard">
-            <h3><span class="accent"></span>Links</h3>
-            <div style="display:flex;flex-wrap:wrap;gap:10px;">${linksHTML || `<span class="sub" style="margin:0;">—</span>`}</div>
-          </div>
-          ${errCard}
-        </div>
-      `;
+        `);
+      }
 
-      overlay.setAttribute("aria-hidden", "false");
-    };
+      const facts = bio && Array.isArray(bio.FunFacts) ? bio.FunFacts.filter(Boolean) : [];
+      if (facts.length) {
+        sections.push(`
+          <div class="bioGrid">
+            <div class="bioCard wide">
+              <h3><span class="accent"></span>Fun Facts</h3>
+              <ul>${facts.map(f => `<li>${escapeHtml(typeof f === "string" ? f : (f.Fact || f.Text || JSON.stringify(f)))}</li>`).join("")}</ul>
+            </div>
+          </div>
+        `);
+      }
 
-    const showBioPage = () => {
-      const overlay = document.getElementById("bioOverlay");
-      if (!overlay) return;
-      overlay.classList.add("show");
-      overlay.setAttribute("aria-hidden", "false");
-      const body = document.getElementById("bioBody");
-      if (body) body.scrollTop = 0;
+      const quotes = bio && Array.isArray(bio.Quotes) ? bio.Quotes.filter(Boolean) : [];
+      if (quotes.length) {
+        sections.push(`
+          <div class="bioGrid">
+            <div class="bioCard wide">
+              <h3><span class="accent"></span>Quotes</h3>
+              <ul>${quotes.map(q => `<li>${escapeHtml(typeof q === "string" ? q : (q.Quote || q.Text || JSON.stringify(q)))}</li>`).join("")}</ul>
+            </div>
+          </div>
+        `);
+      }
 
-      Promise.resolve(renderBioPage())
-        .catch((e) => {
-          const body = document.getElementById("bioBody");
-          if (body) {
-            const msg = safe(e && (e.message || e));
-            body.innerHTML = `
-              <div class="bioHero">
-                <h2>Biography</h2>
-                <p>Couldn’t render biography.</p>
-                <div class="chipRow" style="margin-top:12px;">
-                  <span class="chip red">${escapeHtml(msg || "Unknown error")}</span>
-                </div>
+      const sources = bio && Array.isArray(bio.Sources) ? bio.Sources.filter(Boolean) : [];
+      if (sources.length) {
+        const links = sources.map((s, i) => {
+          const url = typeof s === "string" ? s : (s.Url || s.URL || "");
+          if (!url) return "";
+          const label = typeof s === "string" ? `Source ${i+1}` : (s.Title || s.Publisher || s.Name || `Source ${i+1}`);
+          return `<a href="${escapeHtml(url)}" target="_blank" rel="noopener"><span class="k"></span>${escapeHtml(label)}</a>`;
+        }).filter(Boolean).join("");
+        if (links) {
+          sections.push(`
+            <div class="bioGrid">
+              <div class="bioCard wide">
+                <h3><span class="accent"></span>Sources</h3>
+                <div class="bioLinks">${links}</div>
               </div>
-            `;
-          }
-        });
+            </div>
+          `);
+        }
+      }
+
+      if (!sections.length) {
+        sections.push(`
+          <div class="bioGrid">
+            <div class="bioCard wide">
+              <h3><span class="accent"></span>Biography</h3>
+              <p style="margin:0;color:rgba(242,242,247,.78);line-height:1.65">No biography is available for this member yet.</p>
+            </div>
+          </div>
+        `);
+      }
+
+      el.bioBody.innerHTML = sections.join("");
+      el.bioBody.scrollTop = 0;
     };
 
-    const hideBioPage = () => {
-      const overlay = document.getElementById("bioOverlay");
-      overlay.classList.remove("show");
-      overlay.setAttribute("aria-hidden", "true");
+    const openBio = (memberName) => {
+      const artist = findSelectedArtist();
+      if (!artist) return;
+      renderBioOverlay(artist, memberName);
+      el.bioOverlay.classList.add("show");
+      el.bioOverlay.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
     };
 
+    const closeBio = () => {
+      el.bioOverlay.classList.remove("show");
+      el.bioOverlay.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    };
 
+    const selectArtistById = (id) => {
+      state.selectedId = id;
+      const a = state.artists.find(x => safe(x.ArtistID || x.Name) === safe(id));
+      renderList();
+      if (a) renderDetail(a);
+    };
 
-    const showStatus = (msg) => {
-      if (!el.status) return;
-      el.status.textContent = msg;
-      el.status.classList.add("show");
+    const onListActivate = (target) => {
+      const item = target.closest(".item");
+      if (!item) return;
+      const id = item.getAttribute("data-id");
+      selectArtistById(id);
+    };
+
+    const loadArtists = async () => {
+      const url = withCacheBust(RAW_ARTISTS_URL);
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Failed to load Artists.json (${res.status})`);
+      const data = await res.json();
+      return Array.isArray(data) ? data : (Array.isArray(data.Artists) ? data.Artists : []);
     };
 
     const init = async () => {
-      try{
-        const res = await fetch(ARTISTS_URL, { cache: "no-store" });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const json = await res.json();
-        state.raw = json;
-        state.artists = Array.isArray(json) ? json : (Array.isArray(json.Artists) ? json.Artists : []);
-        if (!state.artists.length) throw new Error("No artist objects found.");
-        renderList();
-        wireListClicks();
-        wireDetailClicks();
+      try {
+        state.artists = await loadArtists();
+        state.filtered = sortArtists(state.artists);
         setCount();
-
-        const firstFilled = state.artists.find(a => isFilled(a));
-        if (firstFilled){
-          selectArtist(safe(firstFilled.ArtistID) || safe(firstFilled.Name));
-        } else {
-          selectArtist(safe(state.artists[0].ArtistID) || safe(state.artists[0].Name));
-        }
-      } catch(err){
+        el.list.innerHTML = state.filtered.map(itemHTML).join("");
+      } catch (e) {
         el.count.textContent = "Failed to load Artists.json";
-        el.list.innerHTML = "";
-        showStatus("Couldn’t load Artists.json. Put this HTML file in the same folder as Artists.json (or update the fetch path).");
+        el.list.innerHTML = `<div class="empty" style="margin:10px"><h2>Error</h2><p>${escapeHtml(e && (e.message || e))}</p></div>`;
       }
     };
 
-    el.search.addEventListener("input", () => renderList());
-init();
-
-    window.addEventListener("DOMContentLoaded", () => {
-      const btn = document.getElementById("bioReturnBtn");
-      if (btn) {
-        btn.addEventListener("click", () => {
-          hideBioPage();
-        });
-      }
-      const ov = document.getElementById("bioOverlay");
-      if (ov) {
-        ov.addEventListener("click", (e) => {
-          if (e.target && e.target.id === "bioOverlay") hideBioPage();
-        });
-      }
+    el.list.addEventListener("click", (e) => onListActivate(e.target));
+    el.list.addEventListener("keydown", (e) => {
+      if (e.key !== "Enter" && e.key !== " ") return;
+      const item = e.target.closest(".item");
+      if (!item) return;
+      e.preventDefault();
+      selectArtistById(item.getAttribute("data-id"));
     });
+
+    el.search.addEventListener("input", () => renderList());
+
+    el.detail.addEventListener("click", (e) => {
+      const btn = e.target.closest(".bioBtn");
+      if (!btn) return;
+      const member = btn.getAttribute("data-member") || "";
+      if (member) openBio(member);
+    });
+
+    el.bioReturnBtn.addEventListener("click", closeBio);
+    el.bioOverlay.addEventListener("click", (e) => {
+      if (e.target === el.bioOverlay) closeBio();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && el.bioOverlay.classList.contains("show")) closeBio();
+    });
+
+    init();
   </script>
-
-
-  <div class="bioOverlay" id="bioOverlay" aria-hidden="true">
-    <div class="bioShell">
-      <div class="bioHeader">
-        <div>
-          <div class="bioTitle">Artist Biographies</div>
-          <div class="bioSub">Core member details • click outside or Return to close</div>
-        </div>
-        <button class="returnBtn" id="bioReturnBtn">Return</button>
-      </div>
-      <div class="bioBody" id="bioBody">
-        <div class="empty">
-          <h2>Artist Biographies</h2>
-          <p>Select a core member to view biography details here.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
 </body>
 </html>
