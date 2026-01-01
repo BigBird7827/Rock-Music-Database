@@ -3,81 +3,58 @@
     {
       "ArtistID": "the-alan-parsons-project",
       "Name": "The Alan Parsons Project",
-      "Type": "Studio project / rock duo (with rotating session musicians)",
+      "Type": "Band",
       "Origin": {
         "City": "London",
         "Region": "England",
         "Country": "United Kingdom"
       },
-      "YearsActive": "1975–1990",
+      "YearsActive": [
+        "1975–1990"
+      ],
       "Genres": [
-        "progressive rock",
-        "art rock",
-        "progressive pop",
-        "soft rock"
+        "Progressive rock",
+        "Art rock",
+        "Progressive pop",
+        "Soft rock"
       ],
       "Labels": [
         "20th Century Records",
         "Charisma",
         "Arista"
       ],
-      "Overview": "The Alan Parsons Project was a London-based studio partnership between producer/engineer Alan Parsons and songwriter/pianist Eric Woolfson. Rather than touring as a fixed band, they built each album around a core duo and a rotating cast of top session musicians and vocalists, pairing concept-album ideas with meticulous studio production and radio-ready hooks.\n\nAcross ten studio albums, the Project blended progressive textures with polished pop craft, scoring international hits like “Eye in the Sky,” “Games People Play,” and the instrumental “Sirius,” while developing a distinctive sound built around layered vocals, orchestration, and precision engineering.",
+      "Overview": "The Alan Parsons Project was a London-based studio partnership between producer/engineer Alan Parsons and songwriter/pianist Eric Woolfson. Instead of operating as a fixed touring band, they built albums around the duo’s writing and production, then brought in a rotating cast of session musicians and vocalists chosen to fit each track.\n\nFrom 1976 through 1990, the Project released a run of concept-leaning albums that blended progressive textures with polished pop craft, yielding enduring hits like “Eye in the Sky,” “Games People Play,” and the instrumental “Sirius.” Their catalog is especially known for meticulous engineering, layered arrangements, and a consistent “house sound” even as the lead singers changed.",
       "CoreMembers": [
         {
+          "MemberID": "",
           "Name": "Alan Parsons",
-          "Roles": [
-            "Producer",
-            "Audio engineer",
-            "Musician",
-            "Composer"
-          ],
-          "Years": "1975–1990",
-          "Instruments": [
-            "Keyboards",
-            "Guitars",
-            "Programming (later-era)"
-          ],
+          "Roles": "Co-founder; producer; audio engineer; musician",
+          "Instruments": "Keyboards; guitar (occasional); studio programming (later-era)",
+          "YearsActive": "1975–1990",
+          "Albums": [],
           "Bio": {
-            "BirthYear": 1948,
-            "Origin": "Willesden, Middlesex, England",
-            "Summary": "Alan Parsons is an English producer and audio engineer who became widely known for his studio work in the late 1960s and 1970s, including engineering and assisting on landmark recordings at Abbey Road and elsewhere. He co-founded The Alan Parsons Project in 1975, shaping its signature sound through meticulous production, arrangement choices, and sonic detail."
+            "FullText": "Alan Parsons (born 20 December 1948) is an English producer, audio engineer, and musician. He built his reputation in the late 1960s and 1970s through high-profile studio work, including engineering and assisting on major rock recordings.\n\nIn 1975, Parsons partnered with Eric Woolfson to form The Alan Parsons Project, using a studio-first model that emphasized concept-driven albums and precision production. Across the Project’s catalog, Parsons’ engineering and production choices—clean mixes, layered textures, and careful arrangement—helped give the group a recognizable sonic identity.\n\nAfter the Project era, Parsons continued recording and performing under his own name, often presenting live shows as the Alan Parsons Live Project."
           }
         },
         {
+          "MemberID": "",
           "Name": "Eric Woolfson",
-          "Roles": [
-            "Songwriter",
-            "Vocalist",
-            "Pianist",
-            "Composer",
-            "Manager (early)"
-          ],
-          "Years": "1975–1990",
-          "Instruments": [
-            "Piano",
-            "Keyboards",
-            "Vocals"
-          ],
+          "Roles": "Co-founder; primary songwriter/lyricist; vocalist; pianist",
+          "Instruments": "Piano; keyboards; vocals",
+          "YearsActive": "1975–1990",
+          "Albums": [],
           "Bio": {
-            "BirthYear": 1945,
-            "DeathYear": 2009,
-            "Origin": "Glasgow, Scotland",
-            "Summary": "Eric Woolfson was a Scottish songwriter, vocalist, and pianist who partnered with Alan Parsons to form The Alan Parsons Project in 1975. He provided much of the Project’s songwriting direction, contributed lead and backing vocals on many recordings, and helped steer the group’s concept-driven approach."
+            "FullText": "Eric Woolfson (18 March 1945 – 2 December 2009) was a Scottish songwriter, vocalist, and pianist. He co-founded The Alan Parsons Project with Alan Parsons in 1975 and helped steer its identity as a studio partnership built around strong songwriting and concept-album frameworks.\n\nWoolfson wrote or co-wrote much of the Project’s material and also sang lead on select tracks, shaping the group’s balance of progressive ambition and pop immediacy. He was also closely involved in the Project’s organization and direction during its active years.\n\nAfter the Project concluded, Woolfson focused increasingly on musical theatre and stage works."
           }
         }
       ],
       "NonCoreMembers": [
         {
+          "MemberID": "",
           "Name": "Ian Bairnson",
-          "Roles": [
-            "Guitarist",
-            "Session musician"
-          ],
-          "Years": "1976–1987",
-          "Instruments": [
-            "Electric guitar",
-            "Acoustic guitar"
-          ],
+          "Roles": "Guitarist. Scottish guitarist Ian Bairnson became one of the Project’s most consistent instrumental voices, appearing across the full studio-album run and helping define its signature guitar tone. Outside the Project, he was also known for work with Pilot and for notable session appearances, including on recordings by Kate Bush.",
+          "Instruments": "Electric guitar; acoustic guitar",
+          "YearsActive": "1976–1987",
           "Albums": [
             "Tales of Mystery and Imagination",
             "I Robot",
@@ -89,23 +66,14 @@
             "Vulture Culture",
             "Stereotomy",
             "Gaudi"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "Scottish guitarist Ian Bairnson became one of the Project’s most recognizable instrumental voices, contributing signature lead and rhythm parts throughout the catalog. Outside APP he was also known for work with the band Pilot and for high-profile session appearances, including on Kate Bush recordings."
+          ]
         },
         {
+          "MemberID": "",
           "Name": "David Paton",
-          "Roles": [
-            "Bassist",
-            "Vocalist",
-            "Session musician"
-          ],
-          "Years": "1975–1986",
-          "Instruments": [
-            "Bass guitar",
-            "Vocals"
-          ],
+          "Roles": "Bassist; vocalist. Scottish musician David Paton (a founding member of Pilot) contributed bass and vocals on multiple Project recordings, providing a steady rhythmic foundation and occasional featured vocal work. He also maintained a long session career and appeared on recordings for major artists beyond the Project’s orbit.",
+          "Instruments": "Bass guitar; vocals",
+          "YearsActive": "1976–1986",
           "Albums": [
             "Tales of Mystery and Imagination",
             "I Robot",
@@ -116,42 +84,25 @@
             "Ammonia Avenue",
             "Vulture Culture",
             "Stereotomy"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "Scottish bassist and singer David Paton (co-founder of Pilot) was a key early collaborator, supplying solid bass foundations and occasional lead vocals on APP tracks. He also built a long session career, appearing on recordings by major artists beyond the Project’s orbit."
+          ]
         },
         {
+          "MemberID": "",
           "Name": "Stuart Tosh",
-          "Roles": [
-            "Drummer",
-            "Percussionist"
-          ],
-          "Years": "1975–1977",
-          "Instruments": [
-            "Drums",
-            "Percussion"
-          ],
+          "Roles": "Drummer. Scottish drummer Stuart Tosh (also associated with Pilot) played on the Project’s earliest sessions, helping set the tight, punchy rhythmic feel of the debut era. After his Project work, he continued performing and recording as a working drummer.",
+          "Instruments": "Drums; percussion",
+          "YearsActive": "1976–1977",
           "Albums": [
             "Tales of Mystery and Imagination",
             "I Robot"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "Scottish drummer Stuart Tosh (also associated with Pilot) played on the Project’s earliest recordings, helping establish the tight, punchy rhythm feel of the debut era. After his APP work he continued as a working drummer and performer across rock and pop projects."
+          ]
         },
         {
+          "MemberID": "",
           "Name": "Stuart Elliott",
-          "Roles": [
-            "Drummer",
-            "Percussionist",
-            "Session musician"
-          ],
-          "Years": "1978–1987",
-          "Instruments": [
-            "Drums",
-            "Percussion"
-          ],
+          "Roles": "Drummer; percussionist. English drummer Stuart Elliott became the Project’s primary drum chair through much of its classic run, delivering crisp, controlled parts tailored to Parsons’ production style. He also worked widely as a session drummer, including notable work with Steve Harley & Cockney Rebel.",
+          "Instruments": "Drums; percussion",
+          "YearsActive": "1978–1987",
           "Albums": [
             "Pyramid",
             "Eve",
@@ -161,24 +112,14 @@
             "Vulture Culture",
             "Stereotomy",
             "Gaudi"
-          ],
-          "Replacing": [
-            "Stuart Tosh"
-          ],
-          "ReplacedBy": [],
-          "Overview": "English drummer Stuart Elliott became the Project’s main drum chair for much of its classic run, delivering crisp, controlled performances tailored to Parsons’ production style. He also worked widely as a session drummer, including with Steve Harley & Cockney Rebel and other major studio projects."
+          ]
         },
         {
+          "MemberID": "",
           "Name": "Chris Rainbow",
-          "Roles": [
-            "Vocalist",
-            "Vocal arranger",
-            "Session musician"
-          ],
-          "Years": "1979–1987",
-          "Instruments": [
-            "Vocals"
-          ],
+          "Roles": "Vocalist; vocal arranger. Scottish singer Chris Rainbow supplied distinctive lead vocals and layered backing stacks that became a key ingredient in the Project’s polished sound. He also released solo material and worked in production roles in addition to his Project contributions.",
+          "Instruments": "Vocals",
+          "YearsActive": "1979–1987",
           "Albums": [
             "Eve",
             "The Turn of a Friendly Card",
@@ -187,60 +128,43 @@
             "Vulture Culture",
             "Stereotomy",
             "Gaudi"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "Scottish singer and producer Chris Rainbow contributed distinctive lead and backing vocals and became a go-to vocal arranger as the Project’s harmony stacks grew more elaborate. Beyond APP he released solo material and worked behind the scenes in production and studio roles."
+          ]
         },
         {
+          "MemberID": "",
           "Name": "Lenny Zakatek",
-          "Roles": [
-            "Vocalist",
-            "Session vocalist"
-          ],
-          "Years": "1977–1987",
-          "Instruments": [
-            "Vocals"
-          ],
+          "Roles": "Vocalist. British singer Lenny Zakatek (also associated with the band Gonzalez) was one of the Project’s most frequent lead voices, chosen for punchy, radio-ready tracks. His performances helped define several of the Project’s best-known singles and high-energy album cuts.",
+          "Instruments": "Vocals",
+          "YearsActive": "1977–1987",
           "Albums": [
             "I Robot",
             "Pyramid",
             "The Turn of a Friendly Card",
-            "Eye in the Sky"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "British singer Lenny Zakatek (also known as the voice of the band Gonzalez) was one of the Project’s most frequent lead vocalists, chosen for punchy, radio-ready tracks. His performances helped define several of APP’s best-known singles and fan favorites."
+            "Eye in the Sky",
+            "Ammonia Avenue",
+            "Vulture Culture",
+            "Gaudi"
+          ]
         },
         {
+          "MemberID": "",
           "Name": "Colin Blunstone",
-          "Roles": [
-            "Vocalist",
-            "Guest vocalist"
-          ],
-          "Years": "1982",
-          "Instruments": [
-            "Vocals"
-          ],
+          "Roles": "Vocalist. English singer Colin Blunstone, best known as the lead voice of The Zombies, brought a warm, expressive tone to the Project’s reflective material. He is especially associated with the lead vocal on “Old and Wise,” one of the Project’s most enduring ballads.",
+          "Instruments": "Vocals",
+          "YearsActive": "1978–1985",
           "Albums": [
-            "Eye in the Sky"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "English singer Colin Blunstone, best known as the lead voice of The Zombies, brought a warm, expressive tone to the Project’s recordings when featured. He is especially associated with the lead vocal on “Old and Wise,” one of APP’s most enduring ballads."
+            "Pyramid",
+            "Eye in the Sky",
+            "Ammonia Avenue",
+            "Vulture Culture"
+          ]
         },
         {
+          "MemberID": "",
           "Name": "Andrew Powell",
-          "Roles": [
-            "Orchestral arranger",
-            "Conductor",
-            "Composer"
-          ],
-          "Years": "1976–1987",
-          "Instruments": [
-            "Orchestration",
-            "Conducting"
-          ],
+          "Roles": "Orchestral/choral arranger; conductor. English composer and arranger Andrew Powell provided orchestral writing that expanded the Project’s cinematic scope, beginning with its Poe-inspired debut. His arrangements helped blend rock instrumentation with sweeping orchestral textures across multiple albums.",
+          "Instruments": "Orchestration; conducting",
+          "YearsActive": "1976–1987",
           "Albums": [
             "Tales of Mystery and Imagination",
             "I Robot",
@@ -249,134 +173,108 @@
             "The Turn of a Friendly Card",
             "Eye in the Sky",
             "Ammonia Avenue",
-            "Vulture Culture",
             "Stereotomy",
             "Gaudi"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "English composer and arranger Andrew Powell supplied orchestral arrangements that expanded the Project’s cinematic scope, beginning with the debut’s Edgar Allan Poe concept. He went on to arrange and score across rock and film worlds, making him a natural fit for APP’s blend of pop craft and grand, thematic production."
+          ]
         },
         {
+          "MemberID": "",
           "Name": "John Miles",
-          "Roles": [
-            "Vocalist",
-            "Guitarist",
-            "Guest vocalist"
-          ],
-          "Years": "1976 (select tracks)",
-          "Instruments": [
-            "Vocals",
-            "Guitars"
-          ],
+          "Roles": "Vocalist. English singer and guitarist John Miles (known for the 1976 hit “Music”) appeared as a featured voice on Project recordings across multiple eras. He is notably heard on “(The System of) Dr. Tarr and Professor Fether,” bringing a dramatic rock delivery to the Poe-themed material.",
+          "Instruments": "Vocals; guitar",
+          "YearsActive": "1976–1987",
           "Albums": [
-            "Tales of Mystery and Imagination"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "English singer and guitarist John Miles, later known for the 1976 hit “Music,” was an early featured voice on the Project’s debut era. He provided lead vocals on “(The System of) Dr. Tarr and Professor Fether,” bringing a dramatic rock delivery to the Poe-inspired material."
+            "Tales of Mystery and Imagination",
+            "Pyramid",
+            "Stereotomy",
+            "Gaudi"
+          ]
         },
         {
+          "MemberID": "",
           "Name": "Jack Harris",
-          "Roles": [
-            "Vocalist",
-            "Backing vocalist"
-          ],
-          "Years": "1976–1978",
-          "Instruments": [
-            "Vocals"
-          ],
+          "Roles": "Vocalist; backing vocalist. American singer Jack Harris was one of the early rotating vocalists used for both lead and backing parts during the Project’s first run of albums. His credits include prominent appearances on early tracks before the vocal roster broadened further.",
+          "Instruments": "Vocals",
+          "YearsActive": "1976–1978",
           "Albums": [
             "Tales of Mystery and Imagination",
             "I Robot",
             "Pyramid"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "American singer Jack Harris was one of the early rotating vocalists used for both lead and backing parts during the Project’s first run of albums. His credits include lead and backing contributions on Tales material and later appearances on selections from I Robot and Pyramid."
+          ]
         }
       ],
       "NotableAlbums": [
         {
           "Title": "Tales of Mystery and Imagination",
-          "Year": 1976,
-          "Notes": "Debut concept album inspired by Edgar Allan Poe, establishing the Project’s mix of rock arrangements and cinematic storytelling."
+          "Year": "1976",
+          "Notes": "Debut concept album inspired by Edgar Allan Poe; established the Project’s studio-first identity."
         },
         {
           "Title": "I Robot",
-          "Year": 1977,
-          "Notes": "A polished, sci‑fi themed album that helped define the group’s sleek, machine-age sound and radio-friendly approach."
+          "Year": "1977",
+          "Notes": "Sleek, sci‑fi themed album that helped define the Project’s blend of progressive textures and pop hooks."
         },
         {
           "Title": "The Turn of a Friendly Card",
-          "Year": 1980,
-          "Notes": "A casino/gambling concept album featuring extended suites and some of the Project’s most ambitious arrangements."
+          "Year": "1980",
+          "Notes": "Gambling-themed concept album featuring extended suites and some of the Project’s most ambitious arrangements."
         },
         {
           "Title": "Eye in the Sky",
-          "Year": 1982,
-          "Notes": "Commercial peak featuring the title hit and “Sirius,” combining pristine production with pop hooks and progressive textures."
+          "Year": "1982",
+          "Notes": "Commercial peak featuring “Sirius” and the hit title track, pairing polished production with strong songwriting."
         }
       ],
       "SignatureSongs": [
         {
           "Title": "Eye in the Sky",
-          "Year": 1982,
-          "Notes": "The Project’s biggest hit single, built around a memorable chorus and polished studio layering."
+          "Year": "1982",
+          "Notes": "Defining hit single built around a memorable chorus and layered studio polish."
         },
         {
           "Title": "Sirius",
-          "Year": 1982,
-          "Notes": "Instrumental opener from Eye in the Sky that became widely used for sporting introductions."
+          "Year": "1982",
+          "Notes": "Instrumental opener that became widely used for sports introductions."
         },
         {
           "Title": "Games People Play",
-          "Year": 1980,
-          "Notes": "A driving single with punchy vocals and tight rhythmic production, highlighting the Project’s pop side."
+          "Year": "1980",
+          "Notes": "Breakthrough single highlighting the Project’s tighter pop-rock side."
         },
         {
-          "Title": "I Wouldn't Want to Be Like You",
-          "Year": 1977,
-          "Notes": "A standout from I Robot blending rock energy with precise studio sheen."
+          "Title": "Time",
+          "Year": "1980",
+          "Notes": "Reflective ballad that remains one of the Project’s most recognized songs."
         },
         {
           "Title": "Don't Answer Me",
-          "Year": 1984,
-          "Notes": "A sleek mid‑80s single that shows the Project’s knack for smooth, hook-forward songwriting."
+          "Year": "1984",
+          "Notes": "U.S. hit single showing the Project’s mid‑80s pop sophistication."
         }
       ],
       "Achievements": [
         {
-          "Type": "Grammy nomination",
-          "Year": 1983,
-          "Detail": "Eye in the Sky received a 1983 Grammy nomination for Best Engineered Album, Non‑Classical, reflecting the Project’s reputation for studio craft."
+          "Type": "Awards recognition",
+          "Year": "1980s",
+          "Detail": "The Project earned industry recognition for high-end studio craft, with its engineering and production frequently cited as reference-quality in rock and pop."
         },
         {
-          "Type": "Grammy win (immersive audio)",
-          "Year": 2019,
-          "Detail": "Eye in the Sky – 35th Anniversary Edition won Best Immersive Audio Album at the 2019 Grammy Awards for its Dolby Atmos/surround presentation and mastering work."
-        },
-        {
-          "Type": "Cultural footprint (sports anthem)",
-          "Year": 1982,
-          "Detail": "“Sirius” became a staple arena-introduction track across North America and is especially associated with the Chicago Bulls’ 1990s championship-era introductions."
+          "Type": "Enduring cultural use",
+          "Year": "1980s–present",
+          "Detail": "“Sirius” became a long-running sports-arena anthem, widely adopted for team introductions and broadcast segments."
         }
       ],
       "KeyFacts": [
-        "Official membership was the duo of Alan Parsons and Eric Woolfson, with rotating vocalists and musicians used to suit each track.",
-        "The Project released ten studio albums between 1976 and 1987, with its active era spanning roughly 1975 through 1990.",
-        "Rather than touring like a conventional band, the Project was built primarily in the studio, assembling different performers album by album."
+        "Official membership centered on Alan Parsons and Eric Woolfson, with rotating vocalists and session musicians selected per track and album.",
+        "The Project was designed primarily as a studio act rather than a conventional touring band during its original run.",
+        "The catalog is known for concept-album framing, layered arrangements, and meticulous engineering that stayed consistent across changing lead singers."
       ],
-      "ExternalLinks": [
-        {
-          "Label": "Official site",
-          "URL": "https://www.the-alan-parsons-project.com/"
-        },
-        {
-          "Label": "Alan Parsons official",
-          "URL": "https://alanparsons.com/"
-        }
-      ]
+      "ExternalLinks": {
+        "Official Website": "https://www.the-alan-parsons-project.com/",
+        "Alan Parsons Official": "https://alanparsons.com/",
+        "AllMusic": "https://www.allmusic.com/artist/the-alan-parsons-project-mn0001176481",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Alan_Parsons_Project"
+      }
     },
     {
       "ArtistID": "the-beatles",
@@ -505,6 +403,33 @@
               "",
               "",
               ""
+            ],
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
             ]
           }
         },
@@ -623,6 +548,33 @@
             "Genres": [
               "",
               ""
+            ],
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
             ]
           }
         },
@@ -737,6 +689,33 @@
               "",
               "",
               ""
+            ],
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
             ]
           }
         },
@@ -847,6 +826,28 @@
             "Genres": [
               "",
               ""
+            ],
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
             ]
           }
         }
@@ -1009,7 +1010,19 @@
             "Nationality": "",
             "Roles": "",
             "Instruments": "",
-            "Overview": ""
+            "Overview": "",
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
+            ]
           }
         },
         {
@@ -1038,7 +1051,19 @@
             "Nationality": "",
             "Roles": "",
             "Instruments": "",
-            "Overview": ""
+            "Overview": "",
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
+            ]
           }
         },
         {
@@ -1067,7 +1092,19 @@
             "Nationality": "",
             "Roles": "",
             "Instruments": "",
-            "Overview": ""
+            "Overview": "",
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
+            ]
           }
         },
         {
@@ -1090,7 +1127,19 @@
             "Nationality": "",
             "Roles": "",
             "Instruments": "",
-            "Overview": ""
+            "Overview": "",
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
+            ]
           }
         },
         {
@@ -1113,7 +1162,19 @@
             "Nationality": "",
             "Roles": "",
             "Instruments": "",
-            "Overview": ""
+            "Overview": "",
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
+            ]
           }
         },
         {
@@ -1138,7 +1199,19 @@
             "Nationality": "",
             "Roles": "",
             "Instruments": "",
-            "Overview": ""
+            "Overview": "",
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
+            ]
           }
         },
         {
@@ -1162,7 +1235,19 @@
             "Nationality": "",
             "Roles": "",
             "Instruments": "",
-            "Overview": ""
+            "Overview": "",
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
+            ]
           }
         }
       ],
@@ -1570,6 +1655,28 @@
               "",
               "",
               ""
+            ],
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
             ]
           }
         },
@@ -1639,6 +1746,28 @@
               "",
               "",
               ""
+            ],
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
             ]
           }
         },
@@ -1714,6 +1843,23 @@
               "",
               "",
               ""
+            ],
+            "Sources": [
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              },
+              {
+                "Title": "",
+                "Url": "",
+                "Accessed": ""
+              }
             ]
           }
         }
