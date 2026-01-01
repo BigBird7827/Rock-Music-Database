@@ -196,6 +196,25 @@
     .chip.green{border-color: rgba(44,255,154,.28)}
     .chip.yellow{border-color: rgba(255,228,77,.30)}
 
+    .albumTags{
+      display:flex;
+      flex-wrap:wrap;
+      gap:6px;
+      margin-top:8px;
+    }
+    .albumTag{
+      display:inline-flex;
+      align-items:center;
+      padding:5px 9px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(0,0,0,.14);
+      font-size:11px;
+      color: rgba(242,242,247,.78);
+      line-height:1.1;
+    }
+
+
     .grid{
       margin-top:14px;
       display:grid;
@@ -347,6 +366,46 @@ display:none;
       padding: 14px 14px 12px;
     }
     .bioCard.wide{grid-column: span 12}
+
+    .bioBox{
+      max-width: 1110px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 14px 14px;
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,.10);
+      background: rgba(0,0,0,.18);
+    }
+    .bioText{
+      margin: 0;
+      color: rgba(242,242,247,.80);
+      line-height: 1.7;
+      white-space: pre-wrap;
+      font-size: 17px;
+    }
+
+    .list, .detail, .bioBody{
+      scrollbar-width: thin;
+      scrollbar-color: rgba(242,242,247,.26) rgba(0,0,0,.18);
+    }
+    .list::-webkit-scrollbar, .detail::-webkit-scrollbar, .bioBody::-webkit-scrollbar{
+      width: 10px;
+      height: 10px;
+    }
+    .list::-webkit-scrollbar-track, .detail::-webkit-scrollbar-track, .bioBody::-webkit-scrollbar-track{
+      background: rgba(0,0,0,.18);
+      border-radius: 999px;
+    }
+    .list::-webkit-scrollbar-thumb, .detail::-webkit-scrollbar-thumb, .bioBody::-webkit-scrollbar-thumb{
+      background: rgba(242,242,247,.22);
+      border-radius: 999px;
+      border: 2px solid rgba(0,0,0,.18);
+    }
+    .list::-webkit-scrollbar-thumb:hover, .detail::-webkit-scrollbar-thumb:hover, .bioBody::-webkit-scrollbar-thumb:hover{
+      background: rgba(242,242,247,.32);
+    }
+
+
     .bioCard h3{
       margin:0 0 10px;
       font-size:14px;
@@ -596,6 +655,14 @@ display:none;
       return `<ul>${xs.map(v => `<li>${escapeHtml(v)}</li>`).join("")}</ul>`;
     };
 
+
+    const tagListOrDash = (arr) => {
+      const xs = (arr || []).filter(Boolean).map(formatListItem).filter(Boolean);
+      if (!xs.length) return `<p>—</p>`;
+      return `<div class="albumTags">${xs.map(v => `<span class="albumTag">${escapeHtml(v)}</span>`).join("")}</div>`;
+    };
+
+
     const linksHTML = (links) => {
       if (!links) return `<p>—</p>`;
       const items = Object.entries(links).filter(([,v]) => !!v);
@@ -620,7 +687,7 @@ display:none;
           </div>
           ${roles ? `<div style="margin-top:8px;color:rgba(242,242,247,.78);font-size:14px;line-height:1.5;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Roles</span><div style="margin-top:4px;">${roles}</div></div>` : ``}
           ${instruments ? `<div style="margin-top:8px;color:rgba(242,242,247,.78);font-size:14px;line-height:1.5;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Instruments</span><div style="margin-top:4px;">${instruments}</div></div>` : ``}
-          ${albums.length ? `<div style="margin-top:10px;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Albums</span>${listOrDash(albums)}</div>` : ``}
+          ${albums.length ? `<div style="margin-top:10px;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Albums</span>${tagListOrDash(albums)}</div>` : ``}
         </div>
       `;
     };
@@ -706,8 +773,9 @@ display:none;
         sections.push(`
           <div class="bioGrid">
             <div class="bioCard wide">
-              <h3><span class="accent"></span>Biography</h3>
-              <p style="margin:0;color:rgba(242,242,247,.78);line-height:1.65;white-space:pre-wrap">${escapeHtml(bioText)}</p>
+              <div class="bioBox">
+                <p class="bioText">${escapeHtml(bioText)}</p>
+              </div>
             </div>
           </div>
         `);
