@@ -871,6 +871,7 @@ display:none;
       state.selectedId = id;
       const a = state.artists.find(x => safe(x.ArtistID || x.Name) === safe(id));
       renderList();
+      if (el.detail) el.detail.scrollTop = 0;
       if (a) renderDetail(a);
     };
 
