@@ -2848,8 +2848,423 @@
     {
       "ArtistID": "queen",
       "Name": "Queen",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1970–present"
+      ],
+      "Genres": [
+        "rock",
+        "hard rock",
+        "glam rock",
+        "progressive rock",
+        "arena rock"
+      ],
+      "Labels": [
+        "EMI",
+        "Parlophone",
+        "Elektra",
+        "Capitol",
+        "Hollywood",
+        "Island",
+        "Virgin EMI"
+      ],
+      "Overview": "Queen is a British rock band formed in London in 1970, built around Freddie Mercury’s theatrical vocal presence, Brian May’s layered guitar sound, Roger Taylor’s punchy drums and high harmonies, and John Deacon’s melodic, groove‑first bass. The group combined hard rock power with pop instincts, stacking harmonies and arrangements until songs felt larger than the room they were played in.\n\nAfter early albums established their range, Queen’s mid‑1970s run turned them into global headliners. Tracks like “Bohemian Rhapsody” and “Somebody to Love” showcased a band that could shift from operatic drama to gospel‑leaning soul without losing the hook, while still keeping a hard‑rock backbone on stage.\n\nBy the late 1970s and early 1980s, Queen were writing anthems that became part of stadium culture—“We Will Rock You,” “We Are the Champions,” and “Another One Bites the Dust” among them. Their ability to treat the studio like an instrument and then translate that spectacle to live performance made them one of the defining arena acts of the era.\n\nFreddie Mercury’s death in 1991 closed the classic chapter, but the band’s catalogue continued to grow in cultural presence through compilations, reissues, and high‑profile performances and collaborations. Queen’s legacy is a rare mix of musicianship and showmanship: heavy riffs, unforgettable melodies, and a sense that every chorus was written to be sung back by a crowd.",
+      "NotableAlbums": [
+        {
+          "Title": "Queen",
+          "Year": "1973",
+          "Notes": "Debut studio album that introduced the band’s heavy, harmony‑rich sound and established them as a serious new British rock act."
+        },
+        {
+          "Title": "Queen II",
+          "Year": "1974",
+          "Notes": "Breakthrough UK success that pushed their layered arrangements and dramatic songwriting further, cementing their early identity."
+        },
+        {
+          "Title": "Sheer Heart Attack",
+          "Year": "1974",
+          "Notes": "A sharper, more radio‑ready leap that broadened their sound and helped set the stage for international recognition."
+        },
+        {
+          "Title": "A Night at the Opera",
+          "Year": "1975",
+          "Notes": "The blockbuster statement featuring “Bohemian Rhapsody,” proving Queen could fuse ambitious production with mass appeal."
+        },
+        {
+          "Title": "News of the World",
+          "Year": "1977",
+          "Notes": "Stadium‑ready album that delivered “We Will Rock You” and “We Are the Champions,” two of rock’s most enduring anthems."
+        },
+        {
+          "Title": "The Game",
+          "Year": "1980",
+          "Notes": "A sleek, crossover‑friendly peak that included “Another One Bites the Dust” and showed the band’s pop and funk agility."
+        },
+        {
+          "Title": "Greatest Hits",
+          "Year": "1981",
+          "Notes": "Career‑defining compilation that became the best‑selling album of all time in the UK and kept their classics in constant rotation."
+        }
+      ],
+      "SignatureSongs": [
+        "Bohemian Rhapsody",
+        "We Will Rock You",
+        "We Are the Champions",
+        "Another One Bites the Dust",
+        "Somebody to Love"
+      ],
+      "Achievements": [
+        {
+          "Type": "Rock and Roll Hall of Fame",
+          "Year": 2001,
+          "Detail": "Inducted into the Rock and Roll Hall of Fame, recognizing Queen’s lasting influence on rock performance, songwriting, and studio craft."
+        },
+        {
+          "Type": "BRIT Awards",
+          "Year": 1990,
+          "Detail": "Received the BRIT Award for Outstanding Contribution to Music, a major UK honor reflecting the band’s cultural impact and hitmaking legacy."
+        },
+        {
+          "Type": "Recording Academy",
+          "Year": 2018,
+          "Detail": "Honored with the Grammy Lifetime Achievement Award, acknowledging decades of landmark recordings and global influence across generations."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in London in 1970 by Freddie Mercury, Brian May, and Roger Taylor; John Deacon joined in 1971.",
+        "Known for multi‑part vocal harmonies, May’s distinctive layered guitar orchestrations, and Mercury’s arena‑scale stage presence.",
+        "Wrote and recorded major anthems that became staples at sporting events and in stadium culture worldwide.",
+        "Continues in various touring configurations after Mercury’s death, with May and Taylor remaining the public-facing core of the band."
+      ],
+      "ExternalLinks": {
+        "OfficialSite": "https://www.queenonline.com/",
+        "AllMusic": "https://www.allmusic.com/artist/queen-mn0000858827",
+        "Grammy": "https://www.grammy.com/artists/queen/10348",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Queen_(band)",
+        "Discogs": "https://www.discogs.com/artist/81013-Queen"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Freddie Mercury",
+          "Roles": [
+            "lead vocals",
+            "piano"
+          ],
+          "Years": "1970–1991",
+          "Overview": "Vocalist and primary frontman whose songwriting and stagecraft defined Queen’s theatrical scale and mass appeal.",
+          "Bio": {
+            "BioID": "queen-freddie-mercury",
+            "ArtistID": "queen",
+            "ArtistName": "Queen",
+            "MemberName": "Freddie Mercury",
+            "FullName": "Freddie Mercury",
+            "PrimaryInstruments": [
+              "vocals",
+              "piano"
+            ],
+            "Occupations": [
+              "singer",
+              "songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "hard rock",
+              "glam rock"
+            ],
+            "Birth": {
+              "Date": "1946-09-05",
+              "Place": "Stone Town, Zanzibar (now Tanzania)"
+            },
+            "Death": {
+              "Date": "1991-11-24",
+              "Place": "Kensington, London, England",
+              "Cause": "Bronchopneumonia resulting from AIDS"
+            },
+            "ActiveYears": "1969–1991",
+            "AssociatedActs": [
+              "Queen"
+            ],
+            "KeyAlbums": [
+              "A Night at the Opera",
+              "News of the World",
+              "The Game",
+              "Greatest Hits"
+            ],
+            "KeySongs": [
+              "Bohemian Rhapsody",
+              "Somebody to Love",
+              "We Are the Champions",
+              "Don't Stop Me Now",
+              "Crazy Little Thing Called Love"
+            ],
+            "Achievements": [
+              "Co-founded Queen in 1970 and became one of rock’s most distinctive and influential frontmen.",
+              "Wrote multiple signature hits that defined Queen’s catalog and helped the band become a global stadium act."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Freddie_Mercury"
+            },
+            "Biography": "Freddie Mercury was the flamboyant frontman and principal singer of Queen, celebrated for a voice that could move from tender intimacy to full‑throttle power in a single phrase. On stage he turned rock concerts into theater, using the crowd as part of the performance and making even huge venues feel like a dialogue.\n\nBorn Farrokh Bulsara in Stone Town, Zanzibar, he spent formative years between East Africa and India before relocating to the United Kingdom. That mixed background fed a sense of identity he could reshape at will—something that became central to the “Freddie Mercury” persona he developed in the early 1970s.\n\nMercury joined Brian May and Roger Taylor after their band Smile lost its singer, helping to reframe the group’s ambitions and presentation. He pushed for bold arrangements, distinctive imagery, and a band name that signaled confidence and provocation, and the result was Queen’s first true direction.\n\nAs a songwriter, he supplied some of Queen’s most famous and stylistically diverse hits. His catalog ranged from the intricate structure of “Bohemian Rhapsody” to the gospel‑charged surge of “Somebody to Love,” proving he could write for both studio spectacle and communal sing‑along.\n\nMercury’s stage craft became a blueprint for arena rock performance. He used simple gestures—call‑and‑response vocals, half‑spoken ad‑libs, and dramatic pauses—to control a stadium’s attention, and Queen’s celebrated Live Aid set crystallized that talent for an entire global audience.\n\nAlongside Queen, he pursued a solo path that highlighted different sides of his voice and taste, including pop and dance‑leaning material and high‑profile collaborations. Even then, his instinct was the same: commit completely, and make the song feel like an event.\n\nMercury was diagnosed with AIDS in the late 1980s and continued recording as his health declined, keeping the band working deep into the final chapter of his life. In November 1991 he publicly confirmed his illness, and he died the next day from bronchopneumonia resulting from AIDS.\n\nHis legacy endures as both a performer and writer: a rare combination of technical control, emotional clarity, and fearless showmanship. Mercury made rock feel grand without losing its human edge, and his songs remain centerpieces of Queen’s catalog and the wider classic‑rock canon."
+          }
+        },
+        {
+          "Name": "Brian May",
+          "Roles": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "1970–present",
+          "Overview": "Co-founder and lead guitarist known for layered harmonies, distinctive tone, and major songwriting contributions.",
+          "Bio": {
+            "BioID": "queen-brian-may",
+            "ArtistID": "queen",
+            "ArtistName": "Queen",
+            "MemberName": "Brian May",
+            "FullName": "Brian May",
+            "PrimaryInstruments": [
+              "guitar",
+              "vocals"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter",
+              "astrophysicist"
+            ],
+            "Genres": [
+              "rock",
+              "hard rock"
+            ],
+            "Birth": {
+              "Date": "1947-07-19",
+              "Place": "Hampton Hill, Middlesex, England"
+            },
+            "ActiveYears": "1968–present",
+            "AssociatedActs": [
+              "Queen",
+              "Smile"
+            ],
+            "KeyAlbums": [
+              "A Night at the Opera",
+              "News of the World",
+              "The Works",
+              "Innuendo"
+            ],
+            "KeySongs": [
+              "We Will Rock You",
+              "Tie Your Mother Down",
+              "I Want It All",
+              "Who Wants to Live Forever",
+              "Save Me"
+            ],
+            "Achievements": [
+              "Co-founded Queen and shaped its signature guitar sound through layered arrangements and harmonized leads.",
+              "Wrote many of Queen’s most enduring songs, including stadium anthems that remain central to the band’s legacy."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_May",
+              "Official Site": "https://brianmay.com/"
+            },
+            "Biography": "Brian May is Queen’s lead guitarist and one of the band’s defining sonic architects, known for harmonized guitar lines that behave like orchestration rather than simple lead work. His tone and phrasing helped make Queen instantly identifiable within a few seconds of sound.\n\nHe co-founded Queen with Freddie Mercury and Roger Taylor after the end of their earlier group Smile, bringing both musical discipline and a deep interest in how instruments and recording methods shape the final result. That attention to detail carried into Queen’s layered studio style.\n\nMay is closely associated with the “Red Special,” the homemade guitar he built with his father, a distinctive instrument that became central to his sustain-heavy sound. In Queen’s recordings, he often stacked multiple guitar parts into choirs of harmonies, turning riffs and melodies into full arrangements.\n\nAs a songwriter, May supplied many of the band’s biggest staples. He wrote crowd anthems like “We Will Rock You,” hard‑driving rock tracks such as “Tie Your Mother Down,” and emotionally direct songs that expanded Queen’s range without diluting their identity.\n\nOn stage, May’s role was both musical and structural: he anchored the band’s harmonic framework while Mercury commanded the front line. His guitar work could be aggressive, lyrical, and theatrical, often shifting within a single song to match Queen’s dramatic pacing.\n\nOutside Queen, May has released solo material and collaborated widely, while remaining the most visible keeper of the band’s sound in the years after Mercury’s death. When Queen performs in modern configurations, May’s guitar is the thread that ties the present to the classic era.\n\nMay also has a long-standing parallel life in science, having studied physics and later completing a doctorate in astrophysics. That mix of artistry and technical curiosity mirrors the way he approached Queen’s recordings: patient, precise, and unafraid of complexity.\n\nHis legacy in Queen is that of a builder—of instruments, of arrangements, and of a guitar language that could be both heavy and elegant. May helped prove that rock guitar could be cinematic without losing bite, and his writing remains foundational to the band’s live set and reputation."
+          }
+        },
+        {
+          "Name": "Roger Taylor",
+          "Roles": [
+            "drums",
+            "backing vocals"
+          ],
+          "Years": "1970–present",
+          "Overview": "Drummer and key harmony vocalist who also wrote major hits that expanded Queen’s pop reach.",
+          "Bio": {
+            "BioID": "queen-roger-taylor",
+            "ArtistID": "queen",
+            "ArtistName": "Queen",
+            "MemberName": "Roger Taylor",
+            "FullName": "Roger Taylor",
+            "PrimaryInstruments": [
+              "drums",
+              "vocals"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter",
+              "record producer"
+            ],
+            "Genres": [
+              "rock",
+              "hard rock"
+            ],
+            "Birth": {
+              "Date": "1949-07-26",
+              "Place": "King's Lynn, Norfolk, England"
+            },
+            "ActiveYears": "1965–present",
+            "AssociatedActs": [
+              "Queen",
+              "Smile",
+              "The Cross"
+            ],
+            "KeyAlbums": [
+              "A Night at the Opera",
+              "The Game",
+              "The Works",
+              "A Kind of Magic"
+            ],
+            "KeySongs": [
+              "Radio Ga Ga",
+              "A Kind of Magic",
+              "I'm in Love with My Car",
+              "These Are the Days of Our Lives",
+              "Under Pressure"
+            ],
+            "Achievements": [
+              "Co-founded Queen and became central to the band’s sound as both drummer and high-harmony vocalist.",
+              "Wrote major hits that helped define Queen’s 1980s era and broaden their stylistic range."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Roger_Taylor_(Queen_drummer)",
+              "Official Site": "https://www.rogertaylorofficial.com/"
+            },
+            "Biography": "Roger Taylor is Queen’s drummer and a key part of the band’s vocal identity, supplying both the rhythmic drive and the high harmony lines that helped define their stacked sound. His drumming combined hard-rock punch with a pop sense of timing, keeping complex arrangements feeling direct.\n\nTaylor played with Brian May in Smile before Queen formed, and he carried that early chemistry into the new band’s core. When Freddie Mercury joined, Taylor’s sharp, energetic feel became a steady platform for the group’s rapidly expanding ambitions.\n\nAs a drummer, he favored parts that were forceful and memorable rather than busy, matching Queen’s preference for hooks. His playing often makes the difference between a song that simply moves forward and one that feels like it’s charging a crowd.\n\nTaylor was also a significant songwriter within the band. He wrote major hits such as “Radio Ga Ga” and “A Kind of Magic,” along with fan favorites that leaned into bright pop craft, cinematic mood, or harder edges depending on the era.\n\nHis voice became a signature tool for Queen, often sitting above Mercury and May in the harmony stack and occasionally taking lead vocals on selected tracks. That vocal presence helped make Queen’s choruses feel larger and more communal.\n\nOutside Queen, Taylor pursued side projects and solo releases, continuing to write and record while Queen’s main output slowed after Mercury’s death. Even when the band’s public activity changed, his role as a creative engine remained constant.\n\nIn later touring eras, Taylor stayed central as one of the two surviving founding members most associated with Queen’s stage identity. His drumming and backing vocals provide continuity, making modern performances feel connected to the classic recordings.\n\nTaylor’s legacy is that he helped make Queen a band of strong internal voices rather than a single-frontman vehicle. As a writer, singer, and drummer, he gave Queen extra dimensions—anthemic pop instincts, rhythmic authority, and harmonies that still define the band’s sound."
+          }
+        },
+        {
+          "Name": "John Deacon",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1971–1997",
+          "Overview": "Bassist and songwriter whose groove-focused writing produced several of Queen’s biggest singles.",
+          "Bio": {
+            "BioID": "queen-john-deacon",
+            "ArtistID": "queen",
+            "ArtistName": "Queen",
+            "MemberName": "John Deacon",
+            "FullName": "John Deacon",
+            "PrimaryInstruments": [
+              "bass"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "hard rock"
+            ],
+            "Birth": {
+              "Date": "1951-08-19",
+              "Place": "Leicester, England"
+            },
+            "ActiveYears": "1965–1997",
+            "AssociatedActs": [
+              "Queen"
+            ],
+            "KeyAlbums": [
+              "News of the World",
+              "The Game",
+              "Hot Space",
+              "The Works"
+            ],
+            "KeySongs": [
+              "Another One Bites the Dust",
+              "You're My Best Friend",
+              "I Want to Break Free",
+              "Under Pressure",
+              "One Vision"
+            ],
+            "Achievements": [
+              "Joined Queen in 1971, completing the classic lineup and helping solidify the band’s rhythmic foundation.",
+              "Wrote multiple top hits that became staples of Queen’s catalog and classic rock radio."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/John_Deacon"
+            },
+            "Biography": "John Deacon was Queen’s bassist and one of the band’s most quietly important writers, valued for melodic bass lines that serve the song before anything else. His playing brought warmth and bounce to Queen’s sound, often bridging May’s guitar layers and Taylor’s punchy drums.\n\nHe joined Queen in early 1971, completing the classic lineup after the band cycled through earlier bassists. Deacon’s calm temperament and musical steadiness balanced a group known for big personalities and ambitious arrangements.\n\nAs a songwriter, Deacon delivered several of Queen’s most enduring hits. He wrote “Another One Bites the Dust,” which became one of the band’s biggest singles, as well as “You’re My Best Friend” and “I Want to Break Free,” songs that proved his instinct for pop structure and groove.\n\nDeacon’s bass work is often deceptively simple: lines that lock to the drums while still carrying melody. That approach is especially clear in Queen’s late‑1970s and early‑1980s material, where rhythmic clarity and danceable feel became as important as rock power.\n\nKnown for an interest in electronics, Deacon contributed to the practical side of Queen’s gear and sound, reflecting a technical mindset alongside his musical one. That combination made him valuable both on stage and behind the scenes as the band’s productions grew larger.\n\nAfter Freddie Mercury’s death, Deacon participated in limited Queen-related projects and then stepped away from public performance. His decision to retire left the band’s future centered on May and Taylor, even as Deacon’s songs remained essential to the set list.\n\nBecause he avoided the spotlight, Deacon is sometimes underrated compared with the band’s more visible members. Yet his writing and bass parts are among the clearest examples of how Queen could be heavy, catchy, and rhythmically modern at the same time.\n\nDeacon’s legacy is a catalogue of hits and grooves that still feel contemporary inside classic rock. In a band built on spectacle, he supplied the kind of musical architecture that makes spectacle last: strong songs, strong foundations, and bass lines that never waste a note."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Mike Grose",
+          "Roles": [
+            "Queen’s first bassist, brought in by Roger Taylor for the band’s earliest live dates in 1970. He played a handful of early shows during the group’s formative period before the lineup continued to evolve. Grose left after only a few months as the band searched for a long-term bassist."
+          ],
+          "Years": "1970",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [],
+          "Replacing": [],
+          "ReplacedBy": [
+            "Barry Mitchell"
+          ],
+          "Overview": ""
+        },
+        {
+          "Name": "Barry Mitchell",
+          "Roles": [
+            "Early Queen bassist who followed Mike Grose and performed with the band through late 1970 into early 1971. He played multiple live gigs as Queen refined its set and stage identity. Mitchell departed before the classic lineup was finalized."
+          ],
+          "Years": "1970–1971",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [],
+          "Replacing": [
+            "Mike Grose"
+          ],
+          "ReplacedBy": [
+            "Doug Bogie"
+          ],
+          "Overview": ""
+        },
+        {
+          "Name": "Doug Bogie",
+          "Roles": [
+            "Short-term Queen bassist in early 1971 during the final stretch before John Deacon joined. He played only a couple of live shows as the band continued to test lineups. Bogie was quickly replaced as Queen moved toward the stable classic configuration."
+          ],
+          "Years": "1971",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [],
+          "Replacing": [
+            "Barry Mitchell"
+          ],
+          "ReplacedBy": [
+            "John Deacon"
+          ],
+          "Overview": ""
+        },
+        {
+          "Name": "Spike Edney",
+          "Roles": [
+            "Touring keyboardist and additional musician who has performed with Queen in live concerts since 1984. He supports the band’s layered arrangements on stage, covering keyboard parts and adding backing vocals when needed. Edney became a key behind-the-scenes continuity figure as Queen’s live production grew more complex."
+          ],
+          "Years": "1984–present (touring)",
+          "Instruments": [
+            "keyboards",
+            "rhythm guitar",
+            "backing vocals"
+          ],
+          "Albums": [
+            "The Works (touring)",
+            "Queen + Paul Rodgers (touring)",
+            "Queen + Adam Lambert (touring)"
+          ],
+          "Replacing": [
+            "Fred Mandel (touring keyboards)"
+          ],
+          "ReplacedBy": [],
+          "Overview": ""
+        }
+      ]
     },
     {
       "ArtistID": "r-e-m",
