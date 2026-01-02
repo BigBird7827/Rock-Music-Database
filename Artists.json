@@ -3,27 +3,504 @@
     {
       "ArtistID": "10cc",
       "Name": "10cc",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Stockport",
+        "Region": "Greater Manchester, England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1972–1983",
+        "1991–1995",
+        "1999–present"
+      ],
+      "Genres": [
+        "Art rock",
+        "Art pop",
+        "Progressive pop",
+        "Soft rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "UK Records",
+        "Mercury Records",
+        "Polydor",
+        "Avex"
+      ],
+      "Overview": "10cc are an English rock band formed in Stockport (Greater Manchester) in 1972, built around a self-contained, studio-first approach that let them blend sharp pop craft with left-field production ideas. The classic line-up—Graham Gouldman, Eric Stewart, Kevin Godley, and Lol Creme—shared lead vocals and songwriting, often pairing up in different combinations to chase contrasting ideas inside the same band.\n\nThey broke through with witty early UK hits like “Donna” and the UK No. 1 “Rubber Bullets,” then became internationally famous for “I’m Not in Love,” whose voice-loop production turned a pop ballad into something haunting and futuristic. After Godley and Creme left in late 1976, Stewart and Gouldman continued with an expanded touring/studio line-up and kept the hits coming with “The Things We Do for Love” and “Dreadlock Holiday.”\n\nAcross their 1970s peak, 10cc’s reputation rests on a rare mix: genuine chart instincts, musicianship, and a willingness to treat the studio like a creative instrument—sometimes funny, sometimes cinematic, and often a little strange in the best way.",
+      "NotableAlbums": [
+        {
+          "Title": "10cc",
+          "Year": "1973",
+          "Notes": "The debut set the template: clever pop hooks with wry storytelling and studio detail, powered by shared vocals and tight songwriting."
+        },
+        {
+          "Title": "Sheet Music",
+          "Year": "1974",
+          "Notes": "A fast-moving, idea-packed record that sharpened their satirical edge and arrangement chops, featuring songs like “The Wall Street Shuffle.”"
+        },
+        {
+          "Title": "The Original Soundtrack",
+          "Year": "1975",
+          "Notes": "Their breakthrough album internationally, anchored by “I’m Not in Love” and a bigger, more cinematic sound built on meticulous studio work."
+        },
+        {
+          "Title": "How Dare You!",
+          "Year": "1976",
+          "Notes": "The last album by the original four; it leans into grand production and biting humor, including hits like “Art for Art’s Sake.”"
+        },
+        {
+          "Title": "Deceptive Bends",
+          "Year": "1977",
+          "Notes": "The first post–Godley & Creme album; Stewart and Gouldman steer a sleeker, radio-ready sound that still keeps the band’s melodic precision."
+        },
+        {
+          "Title": "Bloody Tourists",
+          "Year": "1978",
+          "Notes": "A wide-ranging record that pivots from pop to reggae touches, crowned by “Dreadlock Holiday,” their final UK No. 1 single."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Rubber Bullets",
+          "Year": "1973",
+          "Notes": "A playful, prison-themed rocker that became their first UK No. 1 and established their knack for comedy without losing the hook."
+        },
+        {
+          "Title": "The Wall Street Shuffle",
+          "Year": "1974",
+          "Notes": "A big, brassy satire of high finance—one of their signature 1970s singles and a staple of their classic-era catalogue."
+        },
+        {
+          "Title": "I’m Not in Love",
+          "Year": "1975",
+          "Notes": "The band’s defining hit: a love song built from layered vocal loops, turning the studio itself into the main instrument."
+        },
+        {
+          "Title": "Art for Art’s Sake",
+          "Year": "1975",
+          "Notes": "A sharp, catchy critique of commercialism, pairing a punchy chorus with a sleek, muscular arrangement."
+        },
+        {
+          "Title": "The Things We Do for Love",
+          "Year": "1976",
+          "Notes": "A buoyant breakup song with a perfect pop chorus; it became a major international hit in the post–Godley & Creme era."
+        },
+        {
+          "Title": "Dreadlock Holiday",
+          "Year": "1978",
+          "Notes": "A reggae-leaning travel narrative that became their third UK No. 1 and one of their most instantly recognizable late-’70s singles."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1973",
+          "Title": "First UK No. 1 single with “Rubber Bullets”",
+          "Details": "“Rubber Bullets” reached No. 1 on the UK Singles Chart, giving the band its first chart-topping hit and cementing their early momentum."
+        },
+        {
+          "Year": "1975",
+          "Title": "UK No. 1 and global breakthrough with “I’m Not in Love”",
+          "Details": "Released as a single in 1975, “I’m Not in Love” topped the UK Singles Chart and became the band’s breakthrough hit internationally."
+        },
+        {
+          "Year": "1975",
+          "Title": "US pop success: “I’m Not in Love” reaches No. 2 on the Billboard Hot 100",
+          "Details": "In the United States, “I’m Not in Love” peaked at No. 2 on the Billboard Hot 100, becoming one of their biggest stateside hits."
+        },
+        {
+          "Year": "1977",
+          "Title": "International hit single with “The Things We Do for Love”",
+          "Details": "“The Things We Do for Love” became a major cross-market hit and helped the Stewart/Gouldman-led line-up stay mainstream after the 1976 split."
+        },
+        {
+          "Year": "1978",
+          "Title": "Third UK No. 1 single with “Dreadlock Holiday”",
+          "Details": "“Dreadlock Holiday” reached No. 1 on the UK Singles Chart, becoming their final UK chart-topper and a defining late-’70s hit."
+        }
+      ],
+      "KeyFacts": [
+        "The classic line-up shared lead vocals, instruments, and production duties, often swapping roles song-by-song rather than relying on a single frontman.",
+        "10cc’s recordings are closely associated with Strawberry Studios, where their studio experimentation and engineering know-how became part of their signature sound.",
+        "After Kevin Godley and Lol Creme left in late 1976, Eric Stewart and Graham Gouldman continued under the 10cc name with an expanded touring and studio band, keeping the group active through multiple eras."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.10cc.world/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/10cc",
+        "Discography": "https://en.wikipedia.org/wiki/10cc_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Graham Gouldman",
+          "Roles": [
+            "bass",
+            "guitar",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1972–1983, 1991–1995, 1999–present",
+          "Overview": "Co-founder, primary songwriter, and the only constant member across every era of 10cc’s touring and recording history.",
+          "Bio": {
+            "BioID": "bio-10cc-graham-gouldman",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Graham Gouldman",
+            "FullName": "Graham Keith Gouldman",
+            "PrimaryInstruments": [
+              "Bass",
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Art rock",
+              "Pop rock",
+              "Soft rock",
+              "Pop"
+            ],
+            "Birth": {
+              "Date": "1946-05-10",
+              "Place": "Broughton, Salford, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1963–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Wax",
+              "Hotlegs",
+              "The Mindbenders"
+            ],
+            "KeyAlbums": [
+              "The Original Soundtrack",
+              "How Dare You!",
+              "Deceptive Bends",
+              "Bloody Tourists"
+            ],
+            "KeySongs": [
+              "Rubber Bullets",
+              "I’m Not in Love",
+              "The Things We Do for Love",
+              "Dreadlock Holiday"
+            ],
+            "Achievements": [
+              "Co-founded 10cc and helped drive the band’s run of hit singles and innovative studio recordings through the 1970s.",
+              "Built a parallel career as a highly successful songwriter outside the band, writing major hits for other artists before and during 10cc."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.10cc.world/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Graham_Gouldman"
+            },
+            "Biography": "Graham Keith Gouldman (born May 10, 1946, in Broughton, Salford) emerged from the Manchester-area beat scene as a musician with an unusually sharp ear for pop structure. Long before 10cc became a household name, he was already building a reputation for hooks, concise storytelling, and choruses that landed fast and stayed there.\n\nIn the mid-1960s he made his mark as a songwriter-for-hire, penning hits that were recorded by major British Invasion acts. That experience shaped how he approached music: verse and chorus had to work immediately, but the details—rhythm, arrangement, and the little melodic turns—could still be clever.\n\nBy the late 1960s and early 1970s, Gouldman’s path intersected with Eric Stewart, Kevin Godley, and Lol Creme through a web of Manchester-area bands and studio projects. They were musicians who could play, sing, engineer, and produce, and they shared an ambition to control their sound without relying on outside producers.\n\nThat self-sufficient mindset became the foundation of 10cc when the band formed in 1972 in Stockport. Gouldman split lead vocals and songwriting with his bandmates, and he often worked in partnership with Stewart, a pairing that would later be especially central once the group’s original line-up changed.\n\nIn 10cc’s early success, Gouldman helped steer songs that were funny and radio-friendly without being disposable. Tracks like “Rubber Bullets” showed the group’s ability to wrap satire and character writing around a chorus that still felt like a genuine pop event.\n\nThe band’s international breakthrough with “I’m Not in Love” highlighted another side of his approach: emotion delivered through craft. Gouldman co-wrote the song with Stewart, and its signature sound—built from layered voices—fit 10cc’s belief that the studio could be as expressive as any instrument.\n\nAfter Godley and Creme left in 1976, Gouldman remained the constant thread in the band’s identity. He and Stewart reshaped 10cc with new members and continued to score major hits, proving the project could evolve without losing its melodic discipline.\n\nAcross multiple eras, Gouldman’s role has been both practical and artistic: anchoring the band on stage, driving the songwriting, and keeping 10cc active when other classic-rock peers became purely legacy acts. That continuity is a big reason the name 10cc still means something well beyond a single decade."
+          }
+        },
+        {
+          "Name": "Eric Stewart",
+          "Roles": [
+            "guitar",
+            "keyboards",
+            "lead vocals",
+            "songwriting",
+            "production/engineering"
+          ],
+          "Years": "1972–1983, 1991–1995",
+          "Overview": "Co-founder and studio architect of 10cc’s sound, known for meticulous production and co-writing the band’s biggest international hits.",
+          "Bio": {
+            "BioID": "bio-10cc-eric-stewart",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Eric Stewart",
+            "FullName": "Eric Michael Stewart",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Record producer",
+              "Audio engineer"
+            ],
+            "Genres": [
+              "Art rock",
+              "Pop rock",
+              "Progressive pop"
+            ],
+            "Birth": {
+              "Date": "1945-01-20",
+              "Place": "Droylsden, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1960–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Hotlegs",
+              "The Mindbenders"
+            ],
+            "KeyAlbums": [
+              "Sheet Music",
+              "The Original Soundtrack",
+              "How Dare You!",
+              "Deceptive Bends"
+            ],
+            "KeySongs": [
+              "I’m Not in Love",
+              "The Things We Do for Love",
+              "Art for Art’s Sake"
+            ],
+            "Achievements": [
+              "Co-wrote “I’m Not in Love,” one of the most celebrated studio creations of 1970s pop, and helped define 10cc’s high-concept production style.",
+              "Helped build Strawberry Studios into a creative hub, recording and producing work with 10cc and other major artists."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Eric_Stewart"
+            },
+            "Biography": "Eric Michael Stewart (born January 20, 1945, in Droylsden, Lancashire) came up through the early-1960s British band circuit as a guitarist and singer with a practical, hands-on feel for sound. Even before 10cc, he was drawn not only to performance but to the mechanics of recording—how arrangements, mic choices, and mixing decisions could change a song’s impact.\n\nHe first gained wider experience in established groups and quickly developed a reputation as someone who could both play and build tracks. That dual skill set became crucial once he began working more deeply in studios around Greater Manchester, where rock bands were increasingly learning to treat recording as an art form rather than a simple documentation.\n\nStewart became closely linked with Strawberry Studios in Stockport, a space that would become inseparable from 10cc’s identity. The studio gave him freedom: time to experiment, a controlled environment to refine ideas, and the ability to keep production decisions inside the band rather than handing them off to outside gatekeepers.\n\nWhen 10cc formed in 1972 with Gouldman, Godley, and Creme, Stewart was immediately central as a singer, guitarist, keyboardist, and producer-engineer. The band’s early singles demonstrated a playful, satirical voice, but the craft underneath—tight edits, layered harmonies, and inventive textures—often depended on Stewart’s studio discipline.\n\nHis songwriting partnership with Gouldman became one of the group’s most productive engines. Together they could write pop that felt effortless while still making room for unusual structures and sonic ideas, a balance that set 10cc apart from both straight AM pop and heavier progressive rock.\n\nThat balance peaked in the making of “I’m Not in Love,” which Stewart co-wrote and helped realize with extraordinary production ambition. The track’s signature “choir” effect, built from layered voices, captured the band’s belief that technology and emotion could live in the same space without canceling each other out.\n\nAfter Godley and Creme departed in late 1976, Stewart and Gouldman carried 10cc forward, recruiting new players and shifting toward a more touring-ready band while keeping studio polish as the hallmark. The result was a run of hits that proved the group’s identity wasn’t limited to a single line-up.\n\nAcross decades, Stewart’s legacy inside 10cc is that of the band’s sonic architect: a musician-producer who treated recording as composition. Whether the song was humorous, heartfelt, or sharply satirical, his work helped make it sound unmistakably like 10cc rather than a standard rock band of the era."
+          }
+        },
+        {
+          "Name": "Kevin Godley",
+          "Roles": [
+            "drums",
+            "percussion",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1972–1976",
+          "Overview": "Co-founder and drummer-vocalist of the classic line-up; a key driver of the band’s experimental streak before forming Godley & Creme.",
+          "Bio": {
+            "BioID": "bio-10cc-kevin-godley",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Kevin Godley",
+            "FullName": "Kevin Michael Godley",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Music video director"
+            ],
+            "Genres": [
+              "Rock",
+              "Progressive rock",
+              "Soft rock"
+            ],
+            "Birth": {
+              "Date": "1945-10-07",
+              "Place": "Prestwich, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1962–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Godley & Creme",
+              "Hotlegs"
+            ],
+            "KeyAlbums": [
+              "10cc",
+              "Sheet Music",
+              "The Original Soundtrack",
+              "How Dare You!"
+            ],
+            "KeySongs": [
+              "I’m Not in Love",
+              "Donna",
+              "Clockwork Creep"
+            ],
+            "Achievements": [
+              "Helped define 10cc’s most experimental studio era and contributed lead vocals, drumming, and songwriting to the classic 1970s run.",
+              "Co-founded Godley & Creme after leaving 10cc, expanding into experimental records and influential music video work."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://kevin-godley.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Kevin_Godley"
+            },
+            "Biography": "Kevin Michael Godley (born October 7, 1945, in Prestwich, Lancashire) developed as a musician in the same Manchester-area orbit that produced many of 10cc’s early collaborations. He was both a drummer and a singer, which gave him a distinctive place in a band that treated vocals as a shared, rotating spotlight rather than a fixed hierarchy.\n\nGodley’s early creative partnership with Lol Creme began in their youth and strengthened through art-school connections, where visual ideas and musical ideas often mixed freely. That blend of disciplines fed directly into 10cc’s later identity as a group that valued concept, texture, and presentation as much as riffs and choruses.\n\nBefore 10cc’s official formation, Godley and Creme worked with Stewart and Gouldman in a chain of projects that blurred the line between band and studio collective. Those years mattered: they learned how to record efficiently, how to experiment without losing control of the track, and how to make unusual sounds feel like part of pop rather than a separate avant-garde exercise.\n\nWhen 10cc formed in 1972, Godley brought a drummer’s sense of momentum but also a vocalist’s sensitivity to harmony and phrasing. The classic albums of 1973–1976 often sound like a conversation between pop craft and studio invention, and Godley was central to the “invention” side of that equation.\n\nHe was part of the internal engine that helped turn “I’m Not in Love” into something far beyond its initial guitar-based conception. The band’s approach—layering voices to create a floating, synthetic choir—fit Godley’s preference for radical solutions when a song needed a new identity.\n\nBy the time of How Dare You! in 1976, creative differences inside the band had widened, and Godley and Creme felt pulled toward longer-form, more experimental projects. Their decision to leave in late 1976 ended the original line-up but also freed them to pursue ideas that didn’t fit cleanly inside a pop-band framework.\n\nOutside 10cc, Godley’s career expanded into the duo Godley & Creme, where the pair explored conceptual records and a more experimental palette. That period also connected to his later work in music video direction, where his interest in visual storytelling found a new outlet.\n\nIn the 10cc story, Godley remains one of the key reasons the classic era still feels unusual: he helped make “smart” pop that wasn’t just clever in the lyrics, but clever in the sound itself. His time in the band is short compared to Gouldman’s, but it sits right at the project’s most inventive peak."
+          }
+        },
+        {
+          "Name": "Lol Creme",
+          "Roles": [
+            "guitar",
+            "keyboards",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1972–1976",
+          "Overview": "Co-founder and multi-instrumentalist whose guitar and studio ideas helped shape 10cc’s most inventive early recordings before Godley & Creme.",
+          "Bio": {
+            "BioID": "bio-10cc-lol-creme",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Lol Creme",
+            "FullName": "Laurence Neil Creme",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Keyboards",
+              "Vocals",
+              "Bass"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Music video director"
+            ],
+            "Genres": [
+              "Art rock",
+              "Electronic",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1947-09-19",
+              "Place": "Prestwich, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1962–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Godley & Creme",
+              "Hotlegs",
+              "Art of Noise"
+            ],
+            "KeyAlbums": [
+              "10cc",
+              "Sheet Music",
+              "The Original Soundtrack",
+              "How Dare You!"
+            ],
+            "KeySongs": [
+              "Donna",
+              "Clockwork Creep",
+              "I’m Not in Love"
+            ],
+            "Achievements": [
+              "Helped define the classic 10cc sound as a multi-instrumentalist and vocalist during the band’s 1973–1976 run.",
+              "Co-founded Godley & Creme after leaving 10cc, later expanding into influential visual work in the music-video era."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Lol_Creme"
+            },
+            "Biography": "Laurence Neil “Lol” Creme (born September 19, 1947, in Prestwich, Lancashire) grew up in the same Greater Manchester ecosystem that would later produce 10cc’s unusually tight creative network. From early on he paired musical curiosity with a visual-arts sensibility, a combination that would become a quiet through-line in his work.\n\nCreme’s formative partnership with Kevin Godley began in their youth and deepened through shared bands and art-school connections. That partnership mattered because it wasn’t only about playing parts; it was about building ideas—arrangements, textures, and concepts—then figuring out how to make them work inside real recordings.\n\nBy the time the four future members of 10cc were writing and recording together in the late 1960s, Creme was already operating as a multi-instrumentalist who could pivot between guitar, keyboards, and vocals. In a band where songs often demanded quick stylistic shifts, that flexibility was less a bonus and more a necessity.\n\nWhen 10cc formed in 1972, Creme became one of the group’s defining voices in both sound and personality. The band’s early singles and albums show a writer-performer who could move from parody and irony to lush pop, sometimes within the same track list, without the project feeling inconsistent.\n\nHis contributions to the classic albums include not only guitar and keys but the kind of production thinking that makes 10cc records feel “built” rather than simply played. The band’s reputation for layered vocals, tricky edits, and unexpected instrumental colors reflects a collective approach, and Creme was a major part of that collective.\n\nDuring the making of How Dare You! and the period around it, tensions inside the group rose as the two internal creative partnerships diverged. Creme and Godley were increasingly drawn toward longer, more experimental formats that didn’t always fit a pop-single cycle.\n\nTheir departure in late 1976 led to the formation of Godley & Creme, where Creme continued exploring unusual songwriting and sound design. Over time, that work also connected to his interest in visuals, leading into an era where he was involved in music video direction and broader production ideas beyond the band format.\n\nIn the 10cc canon, Creme’s years are concentrated in the band’s most adventurous phase. His legacy is the combination of musicianship and invention: a player who could deliver the hook, then immediately look for a stranger or smarter way to frame it in the studio."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Paul Burgess",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1976–1982 (touring from 1973)",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Deceptive Bends",
+            "Bloody Tourists",
+            "Look Hear?",
+            "Ten Out of 10"
+          ],
+          "Replacing": "Kevin Godley (as primary touring/studio drummer after the 1976 split)",
+          "ReplacedBy": "",
+          "Overview": "A longtime touring drummer who became an official member after the 1976 line-up change; he played on key late-’70s studio records and major tours."
+        },
+        {
+          "Name": "Rick Fenn",
+          "Roles": [
+            "guitar",
+            "keyboards",
+            "vocals"
+          ],
+          "Years": "1976–present",
+          "Instruments": [
+            "Guitar",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Deceptive Bends",
+            "Bloody Tourists",
+            "Look Hear?",
+            "Ten Out of 10"
+          ],
+          "Replacing": "Added as guitarist as the post-1976 touring/studio line-up expanded",
+          "ReplacedBy": "",
+          "Overview": "Joined the band toward the end of 1976 around the Deceptive Bends era and became a key long-running member, helping power the live show across later decades."
+        },
+        {
+          "Name": "Stuart Tosh",
+          "Roles": [
+            "drums",
+            "vocals"
+          ],
+          "Years": "1977–1981 (later returns in the 1990s)",
+          "Instruments": [
+            "Drums",
+            "Vocals"
+          ],
+          "Albums": [
+            "Bloody Tourists",
+            "Look Hear?",
+            "Alive"
+          ],
+          "Replacing": "Shared/augmented the drum chair in the late-’70s line-up",
+          "ReplacedBy": "",
+          "Overview": "Brought a crisp, driving feel to the late-’70s band and also contributed vocals; he sang lead on “Reds in My Bed” from Bloody Tourists."
+        },
+        {
+          "Name": "Tony O'Malley",
+          "Roles": [
+            "keyboards",
+            "vocals"
+          ],
+          "Years": "1977–1978",
+          "Instruments": [
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Live and Let Live"
+          ],
+          "Replacing": "Added as keyboardist during the post–Deceptive Bends expansion",
+          "ReplacedBy": "Duncan Mackay",
+          "Overview": "A keyboardist and singer who joined during the 1977 touring period and appeared on the live album Live and Let Live before leaving and being replaced on keys."
+        },
+        {
+          "Name": "Duncan Mackay",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "1978–1981",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Bloody Tourists",
+            "Look Hear?",
+            "Ten Out of 10"
+          ],
+          "Replacing": "Tony O'Malley",
+          "ReplacedBy": "Vic Emerson",
+          "Overview": "Joined on keyboards in 1978 and played on the late-’70s and early-’80s studio run, including Bloody Tourists, before departing in the early 1980s."
+        }
+      ]
     },
     {
       "ArtistID": "38-special",
