@@ -3,27 +3,504 @@
     {
       "ArtistID": "10cc",
       "Name": "10cc",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Stockport",
+        "Region": "Greater Manchester, England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1972–1983",
+        "1991–1995",
+        "1999–present"
+      ],
+      "Genres": [
+        "Art rock",
+        "Art pop",
+        "Progressive pop",
+        "Soft rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "UK Records",
+        "Mercury Records",
+        "Polydor",
+        "Avex"
+      ],
+      "Overview": "10cc are an English rock band formed in Stockport (Greater Manchester) in 1972, built around a self-contained, studio-first approach that let them blend sharp pop craft with left-field production ideas. The classic line-up—Graham Gouldman, Eric Stewart, Kevin Godley, and Lol Creme—shared lead vocals and songwriting, often pairing up in different combinations to chase contrasting ideas inside the same band.\n\nThey broke through with witty early UK hits like “Donna” and the UK No. 1 “Rubber Bullets,” then became internationally famous for “I’m Not in Love,” whose voice-loop production turned a pop ballad into something haunting and futuristic. After Godley and Creme left in late 1976, Stewart and Gouldman continued with an expanded touring/studio line-up and kept the hits coming with “The Things We Do for Love” and “Dreadlock Holiday.”\n\nAcross their 1970s peak, 10cc’s reputation rests on a rare mix: genuine chart instincts, musicianship, and a willingness to treat the studio like a creative instrument—sometimes funny, sometimes cinematic, and often a little strange in the best way.",
+      "NotableAlbums": [
+        {
+          "Title": "10cc",
+          "Year": "1973",
+          "Notes": "The debut set the template: clever pop hooks with wry storytelling and studio detail, powered by shared vocals and tight songwriting."
+        },
+        {
+          "Title": "Sheet Music",
+          "Year": "1974",
+          "Notes": "A fast-moving, idea-packed record that sharpened their satirical edge and arrangement chops, featuring songs like “The Wall Street Shuffle.”"
+        },
+        {
+          "Title": "The Original Soundtrack",
+          "Year": "1975",
+          "Notes": "Their breakthrough album internationally, anchored by “I’m Not in Love” and a bigger, more cinematic sound built on meticulous studio work."
+        },
+        {
+          "Title": "How Dare You!",
+          "Year": "1976",
+          "Notes": "The last album by the original four; it leans into grand production and biting humor, including hits like “Art for Art’s Sake.”"
+        },
+        {
+          "Title": "Deceptive Bends",
+          "Year": "1977",
+          "Notes": "The first post–Godley & Creme album; Stewart and Gouldman steer a sleeker, radio-ready sound that still keeps the band’s melodic precision."
+        },
+        {
+          "Title": "Bloody Tourists",
+          "Year": "1978",
+          "Notes": "A wide-ranging record that pivots from pop to reggae touches, crowned by “Dreadlock Holiday,” their final UK No. 1 single."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Rubber Bullets",
+          "Year": "1973",
+          "Notes": "A playful, prison-themed rocker that became their first UK No. 1 and established their knack for comedy without losing the hook."
+        },
+        {
+          "Title": "The Wall Street Shuffle",
+          "Year": "1974",
+          "Notes": "A big, brassy satire of high finance—one of their signature 1970s singles and a staple of their classic-era catalogue."
+        },
+        {
+          "Title": "I’m Not in Love",
+          "Year": "1975",
+          "Notes": "The band’s defining hit: a love song built from layered vocal loops, turning the studio itself into the main instrument."
+        },
+        {
+          "Title": "Art for Art’s Sake",
+          "Year": "1975",
+          "Notes": "A sharp, catchy critique of commercialism, pairing a punchy chorus with a sleek, muscular arrangement."
+        },
+        {
+          "Title": "The Things We Do for Love",
+          "Year": "1976",
+          "Notes": "A buoyant breakup song with a perfect pop chorus; it became a major international hit in the post–Godley & Creme era."
+        },
+        {
+          "Title": "Dreadlock Holiday",
+          "Year": "1978",
+          "Notes": "A reggae-leaning travel narrative that became their third UK No. 1 and one of their most instantly recognizable late-’70s singles."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1973",
+          "Title": "First UK No. 1 single with “Rubber Bullets”",
+          "Details": "“Rubber Bullets” reached No. 1 on the UK Singles Chart, giving the band its first chart-topping hit and cementing their early momentum."
+        },
+        {
+          "Year": "1975",
+          "Title": "UK No. 1 and global breakthrough with “I’m Not in Love”",
+          "Details": "Released as a single in 1975, “I’m Not in Love” topped the UK Singles Chart and became the band’s breakthrough hit internationally."
+        },
+        {
+          "Year": "1975",
+          "Title": "US pop success: “I’m Not in Love” reaches No. 2 on the Billboard Hot 100",
+          "Details": "In the United States, “I’m Not in Love” peaked at No. 2 on the Billboard Hot 100, becoming one of their biggest stateside hits."
+        },
+        {
+          "Year": "1977",
+          "Title": "International hit single with “The Things We Do for Love”",
+          "Details": "“The Things We Do for Love” became a major cross-market hit and helped the Stewart/Gouldman-led line-up stay mainstream after the 1976 split."
+        },
+        {
+          "Year": "1978",
+          "Title": "Third UK No. 1 single with “Dreadlock Holiday”",
+          "Details": "“Dreadlock Holiday” reached No. 1 on the UK Singles Chart, becoming their final UK chart-topper and a defining late-’70s hit."
+        }
+      ],
+      "KeyFacts": [
+        "The classic line-up shared lead vocals, instruments, and production duties, often swapping roles song-by-song rather than relying on a single frontman.",
+        "10cc’s recordings are closely associated with Strawberry Studios, where their studio experimentation and engineering know-how became part of their signature sound.",
+        "After Kevin Godley and Lol Creme left in late 1976, Eric Stewart and Graham Gouldman continued under the 10cc name with an expanded touring and studio band, keeping the group active through multiple eras."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.10cc.world/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/10cc",
+        "Discography": "https://en.wikipedia.org/wiki/10cc_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Graham Gouldman",
+          "Roles": [
+            "bass",
+            "guitar",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1972–1983, 1991–1995, 1999–present",
+          "Overview": "Co-founder, primary songwriter, and the only constant member across every era of 10cc’s touring and recording history.",
+          "Bio": {
+            "BioID": "bio-10cc-graham-gouldman",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Graham Gouldman",
+            "FullName": "Graham Keith Gouldman",
+            "PrimaryInstruments": [
+              "Bass",
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Art rock",
+              "Pop rock",
+              "Soft rock",
+              "Pop"
+            ],
+            "Birth": {
+              "Date": "1946-05-10",
+              "Place": "Broughton, Salford, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1963–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Wax",
+              "Hotlegs",
+              "The Mindbenders"
+            ],
+            "KeyAlbums": [
+              "The Original Soundtrack",
+              "How Dare You!",
+              "Deceptive Bends",
+              "Bloody Tourists"
+            ],
+            "KeySongs": [
+              "Rubber Bullets",
+              "I’m Not in Love",
+              "The Things We Do for Love",
+              "Dreadlock Holiday"
+            ],
+            "Achievements": [
+              "Co-founded 10cc and helped drive the band’s run of hit singles and innovative studio recordings through the 1970s.",
+              "Built a parallel career as a highly successful songwriter outside the band, writing major hits for other artists before and during 10cc."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.10cc.world/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Graham_Gouldman"
+            },
+            "Biography": "Graham Keith Gouldman (born May 10, 1946, in Broughton, Salford) emerged from the Manchester-area beat scene as a musician with an unusually sharp ear for pop structure. Long before 10cc became a household name, he was already building a reputation for hooks, concise storytelling, and choruses that landed fast and stayed there.\n\nIn the mid-1960s he made his mark as a songwriter-for-hire, penning hits that were recorded by major British Invasion acts. That experience shaped how he approached music: verse and chorus had to work immediately, but the details—rhythm, arrangement, and the little melodic turns—could still be clever.\n\nBy the late 1960s and early 1970s, Gouldman’s path intersected with Eric Stewart, Kevin Godley, and Lol Creme through a web of Manchester-area bands and studio projects. They were musicians who could play, sing, engineer, and produce, and they shared an ambition to control their sound without relying on outside producers.\n\nThat self-sufficient mindset became the foundation of 10cc when the band formed in 1972 in Stockport. Gouldman split lead vocals and songwriting with his bandmates, and he often worked in partnership with Stewart, a pairing that would later be especially central once the group’s original line-up changed.\n\nIn 10cc’s early success, Gouldman helped steer songs that were funny and radio-friendly without being disposable. Tracks like “Rubber Bullets” showed the group’s ability to wrap satire and character writing around a chorus that still felt like a genuine pop event.\n\nThe band’s international breakthrough with “I’m Not in Love” highlighted another side of his approach: emotion delivered through craft. Gouldman co-wrote the song with Stewart, and its signature sound—built from layered voices—fit 10cc’s belief that the studio could be as expressive as any instrument.\n\nAfter Godley and Creme left in 1976, Gouldman remained the constant thread in the band’s identity. He and Stewart reshaped 10cc with new members and continued to score major hits, proving the project could evolve without losing its melodic discipline.\n\nAcross multiple eras, Gouldman’s role has been both practical and artistic: anchoring the band on stage, driving the songwriting, and keeping 10cc active when other classic-rock peers became purely legacy acts. That continuity is a big reason the name 10cc still means something well beyond a single decade."
+          }
+        },
+        {
+          "Name": "Eric Stewart",
+          "Roles": [
+            "guitar",
+            "keyboards",
+            "lead vocals",
+            "songwriting",
+            "production/engineering"
+          ],
+          "Years": "1972–1983, 1991–1995",
+          "Overview": "Co-founder and studio architect of 10cc’s sound, known for meticulous production and co-writing the band’s biggest international hits.",
+          "Bio": {
+            "BioID": "bio-10cc-eric-stewart",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Eric Stewart",
+            "FullName": "Eric Michael Stewart",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Record producer",
+              "Audio engineer"
+            ],
+            "Genres": [
+              "Art rock",
+              "Pop rock",
+              "Progressive pop"
+            ],
+            "Birth": {
+              "Date": "1945-01-20",
+              "Place": "Droylsden, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1960–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Hotlegs",
+              "The Mindbenders"
+            ],
+            "KeyAlbums": [
+              "Sheet Music",
+              "The Original Soundtrack",
+              "How Dare You!",
+              "Deceptive Bends"
+            ],
+            "KeySongs": [
+              "I’m Not in Love",
+              "The Things We Do for Love",
+              "Art for Art’s Sake"
+            ],
+            "Achievements": [
+              "Co-wrote “I’m Not in Love,” one of the most celebrated studio creations of 1970s pop, and helped define 10cc’s high-concept production style.",
+              "Helped build Strawberry Studios into a creative hub, recording and producing work with 10cc and other major artists."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Eric_Stewart"
+            },
+            "Biography": "Eric Michael Stewart (born January 20, 1945, in Droylsden, Lancashire) came up through the early-1960s British band circuit as a guitarist and singer with a practical, hands-on feel for sound. Even before 10cc, he was drawn not only to performance but to the mechanics of recording—how arrangements, mic choices, and mixing decisions could change a song’s impact.\n\nHe first gained wider experience in established groups and quickly developed a reputation as someone who could both play and build tracks. That dual skill set became crucial once he began working more deeply in studios around Greater Manchester, where rock bands were increasingly learning to treat recording as an art form rather than a simple documentation.\n\nStewart became closely linked with Strawberry Studios in Stockport, a space that would become inseparable from 10cc’s identity. The studio gave him freedom: time to experiment, a controlled environment to refine ideas, and the ability to keep production decisions inside the band rather than handing them off to outside gatekeepers.\n\nWhen 10cc formed in 1972 with Gouldman, Godley, and Creme, Stewart was immediately central as a singer, guitarist, keyboardist, and producer-engineer. The band’s early singles demonstrated a playful, satirical voice, but the craft underneath—tight edits, layered harmonies, and inventive textures—often depended on Stewart’s studio discipline.\n\nHis songwriting partnership with Gouldman became one of the group’s most productive engines. Together they could write pop that felt effortless while still making room for unusual structures and sonic ideas, a balance that set 10cc apart from both straight AM pop and heavier progressive rock.\n\nThat balance peaked in the making of “I’m Not in Love,” which Stewart co-wrote and helped realize with extraordinary production ambition. The track’s signature “choir” effect, built from layered voices, captured the band’s belief that technology and emotion could live in the same space without canceling each other out.\n\nAfter Godley and Creme departed in late 1976, Stewart and Gouldman carried 10cc forward, recruiting new players and shifting toward a more touring-ready band while keeping studio polish as the hallmark. The result was a run of hits that proved the group’s identity wasn’t limited to a single line-up.\n\nAcross decades, Stewart’s legacy inside 10cc is that of the band’s sonic architect: a musician-producer who treated recording as composition. Whether the song was humorous, heartfelt, or sharply satirical, his work helped make it sound unmistakably like 10cc rather than a standard rock band of the era."
+          }
+        },
+        {
+          "Name": "Kevin Godley",
+          "Roles": [
+            "drums",
+            "percussion",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1972–1976",
+          "Overview": "Co-founder and drummer-vocalist of the classic line-up; a key driver of the band’s experimental streak before forming Godley & Creme.",
+          "Bio": {
+            "BioID": "bio-10cc-kevin-godley",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Kevin Godley",
+            "FullName": "Kevin Michael Godley",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Music video director"
+            ],
+            "Genres": [
+              "Rock",
+              "Progressive rock",
+              "Soft rock"
+            ],
+            "Birth": {
+              "Date": "1945-10-07",
+              "Place": "Prestwich, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1962–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Godley & Creme",
+              "Hotlegs"
+            ],
+            "KeyAlbums": [
+              "10cc",
+              "Sheet Music",
+              "The Original Soundtrack",
+              "How Dare You!"
+            ],
+            "KeySongs": [
+              "I’m Not in Love",
+              "Donna",
+              "Clockwork Creep"
+            ],
+            "Achievements": [
+              "Helped define 10cc’s most experimental studio era and contributed lead vocals, drumming, and songwriting to the classic 1970s run.",
+              "Co-founded Godley & Creme after leaving 10cc, expanding into experimental records and influential music video work."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://kevin-godley.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Kevin_Godley"
+            },
+            "Biography": "Kevin Michael Godley (born October 7, 1945, in Prestwich, Lancashire) developed as a musician in the same Manchester-area orbit that produced many of 10cc’s early collaborations. He was both a drummer and a singer, which gave him a distinctive place in a band that treated vocals as a shared, rotating spotlight rather than a fixed hierarchy.\n\nGodley’s early creative partnership with Lol Creme began in their youth and strengthened through art-school connections, where visual ideas and musical ideas often mixed freely. That blend of disciplines fed directly into 10cc’s later identity as a group that valued concept, texture, and presentation as much as riffs and choruses.\n\nBefore 10cc’s official formation, Godley and Creme worked with Stewart and Gouldman in a chain of projects that blurred the line between band and studio collective. Those years mattered: they learned how to record efficiently, how to experiment without losing control of the track, and how to make unusual sounds feel like part of pop rather than a separate avant-garde exercise.\n\nWhen 10cc formed in 1972, Godley brought a drummer’s sense of momentum but also a vocalist’s sensitivity to harmony and phrasing. The classic albums of 1973–1976 often sound like a conversation between pop craft and studio invention, and Godley was central to the “invention” side of that equation.\n\nHe was part of the internal engine that helped turn “I’m Not in Love” into something far beyond its initial guitar-based conception. The band’s approach—layering voices to create a floating, synthetic choir—fit Godley’s preference for radical solutions when a song needed a new identity.\n\nBy the time of How Dare You! in 1976, creative differences inside the band had widened, and Godley and Creme felt pulled toward longer-form, more experimental projects. Their decision to leave in late 1976 ended the original line-up but also freed them to pursue ideas that didn’t fit cleanly inside a pop-band framework.\n\nOutside 10cc, Godley’s career expanded into the duo Godley & Creme, where the pair explored conceptual records and a more experimental palette. That period also connected to his later work in music video direction, where his interest in visual storytelling found a new outlet.\n\nIn the 10cc story, Godley remains one of the key reasons the classic era still feels unusual: he helped make “smart” pop that wasn’t just clever in the lyrics, but clever in the sound itself. His time in the band is short compared to Gouldman’s, but it sits right at the project’s most inventive peak."
+          }
+        },
+        {
+          "Name": "Lol Creme",
+          "Roles": [
+            "guitar",
+            "keyboards",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1972–1976",
+          "Overview": "Co-founder and multi-instrumentalist whose guitar and studio ideas helped shape 10cc’s most inventive early recordings before Godley & Creme.",
+          "Bio": {
+            "BioID": "bio-10cc-lol-creme",
+            "ArtistID": "10cc",
+            "ArtistName": "10cc",
+            "MemberName": "Lol Creme",
+            "FullName": "Laurence Neil Creme",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Keyboards",
+              "Vocals",
+              "Bass"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Music video director"
+            ],
+            "Genres": [
+              "Art rock",
+              "Electronic",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1947-09-19",
+              "Place": "Prestwich, Lancashire, England"
+            },
+            "ActiveYears": [
+              "1962–present"
+            ],
+            "AssociatedActs": [
+              "10cc",
+              "Godley & Creme",
+              "Hotlegs",
+              "Art of Noise"
+            ],
+            "KeyAlbums": [
+              "10cc",
+              "Sheet Music",
+              "The Original Soundtrack",
+              "How Dare You!"
+            ],
+            "KeySongs": [
+              "Donna",
+              "Clockwork Creep",
+              "I’m Not in Love"
+            ],
+            "Achievements": [
+              "Helped define the classic 10cc sound as a multi-instrumentalist and vocalist during the band’s 1973–1976 run.",
+              "Co-founded Godley & Creme after leaving 10cc, later expanding into influential visual work in the music-video era."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Lol_Creme"
+            },
+            "Biography": "Laurence Neil “Lol” Creme (born September 19, 1947, in Prestwich, Lancashire) grew up in the same Greater Manchester ecosystem that would later produce 10cc’s unusually tight creative network. From early on he paired musical curiosity with a visual-arts sensibility, a combination that would become a quiet through-line in his work.\n\nCreme’s formative partnership with Kevin Godley began in their youth and deepened through shared bands and art-school connections. That partnership mattered because it wasn’t only about playing parts; it was about building ideas—arrangements, textures, and concepts—then figuring out how to make them work inside real recordings.\n\nBy the time the four future members of 10cc were writing and recording together in the late 1960s, Creme was already operating as a multi-instrumentalist who could pivot between guitar, keyboards, and vocals. In a band where songs often demanded quick stylistic shifts, that flexibility was less a bonus and more a necessity.\n\nWhen 10cc formed in 1972, Creme became one of the group’s defining voices in both sound and personality. The band’s early singles and albums show a writer-performer who could move from parody and irony to lush pop, sometimes within the same track list, without the project feeling inconsistent.\n\nHis contributions to the classic albums include not only guitar and keys but the kind of production thinking that makes 10cc records feel “built” rather than simply played. The band’s reputation for layered vocals, tricky edits, and unexpected instrumental colors reflects a collective approach, and Creme was a major part of that collective.\n\nDuring the making of How Dare You! and the period around it, tensions inside the group rose as the two internal creative partnerships diverged. Creme and Godley were increasingly drawn toward longer, more experimental formats that didn’t always fit a pop-single cycle.\n\nTheir departure in late 1976 led to the formation of Godley & Creme, where Creme continued exploring unusual songwriting and sound design. Over time, that work also connected to his interest in visuals, leading into an era where he was involved in music video direction and broader production ideas beyond the band format.\n\nIn the 10cc canon, Creme’s years are concentrated in the band’s most adventurous phase. His legacy is the combination of musicianship and invention: a player who could deliver the hook, then immediately look for a stranger or smarter way to frame it in the studio."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Paul Burgess",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1976–1982 (touring from 1973)",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Deceptive Bends",
+            "Bloody Tourists",
+            "Look Hear?",
+            "Ten Out of 10"
+          ],
+          "Replacing": "Kevin Godley (as primary touring/studio drummer after the 1976 split)",
+          "ReplacedBy": "",
+          "Overview": "A longtime touring drummer who became an official member after the 1976 line-up change; he played on key late-’70s studio records and major tours."
+        },
+        {
+          "Name": "Rick Fenn",
+          "Roles": [
+            "guitar",
+            "keyboards",
+            "vocals"
+          ],
+          "Years": "1976–present",
+          "Instruments": [
+            "Guitar",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Deceptive Bends",
+            "Bloody Tourists",
+            "Look Hear?",
+            "Ten Out of 10"
+          ],
+          "Replacing": "Added as guitarist as the post-1976 touring/studio line-up expanded",
+          "ReplacedBy": "",
+          "Overview": "Joined the band toward the end of 1976 around the Deceptive Bends era and became a key long-running member, helping power the live show across later decades."
+        },
+        {
+          "Name": "Stuart Tosh",
+          "Roles": [
+            "drums",
+            "vocals"
+          ],
+          "Years": "1977–1981 (later returns in the 1990s)",
+          "Instruments": [
+            "Drums",
+            "Vocals"
+          ],
+          "Albums": [
+            "Bloody Tourists",
+            "Look Hear?",
+            "Alive"
+          ],
+          "Replacing": "Shared/augmented the drum chair in the late-’70s line-up",
+          "ReplacedBy": "",
+          "Overview": "Brought a crisp, driving feel to the late-’70s band and also contributed vocals; he sang lead on “Reds in My Bed” from Bloody Tourists."
+        },
+        {
+          "Name": "Tony O'Malley",
+          "Roles": [
+            "keyboards",
+            "vocals"
+          ],
+          "Years": "1977–1978",
+          "Instruments": [
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Live and Let Live"
+          ],
+          "Replacing": "Added as keyboardist during the post–Deceptive Bends expansion",
+          "ReplacedBy": "Duncan Mackay",
+          "Overview": "A keyboardist and singer who joined during the 1977 touring period and appeared on the live album Live and Let Live before leaving and being replaced on keys."
+        },
+        {
+          "Name": "Duncan Mackay",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "1978–1981",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Bloody Tourists",
+            "Look Hear?",
+            "Ten Out of 10"
+          ],
+          "Replacing": "Tony O'Malley",
+          "ReplacedBy": "Vic Emerson",
+          "Overview": "Joined on keyboards in 1978 and played on the late-’70s and early-’80s studio run, including Bloody Tourists, before departing in the early 1980s."
+        }
+      ]
     },
     {
       "ArtistID": "38-special",
@@ -3821,413 +4298,8 @@
     {
       "ArtistID": "cheap-trick",
       "Name": "Cheap Trick",
-      "Type": "Band",
-      "Origin": "Rockford, Illinois, U.S.",
-      "YearsActive": "1973–present",
-      "Genres": [
-        "rock",
-        "hard rock",
-        "power pop"
-      ],
-      "Labels": [
-        "Epic",
-        "Warner Bros.",
-        "Red Ant",
-        "Big3",
-        "Big Machine"
-      ],
-      "Overview": "Cheap Trick is an American rock band formed in Rockford, Illinois, in 1973, celebrated for combining bright, hook-heavy pop craft with loud, arena-ready guitars and a mischievous sense of showmanship. Their early run of studio albums—*Cheap Trick* (1977), *In Color* (1977), and *Heaven Tonight* (1978)—helped define modern power pop by pairing sharp melodies with hard-rock bite, while Rick Nielsen’s riff-forward songwriting and eccentric stage presence became a signature of their live reputation.\n\nThe band’s breakthrough came via Japan, where their 1978 concerts at Tokyo’s Nippon Budokan were recorded and issued as *Cheap Trick at Budokan*. Its U.S. release in 1979 turned them into international stars, producing the hit live version of “I Want You to Want Me” and establishing them as one of rock’s classic live acts. Cheap Trick sustained a decades-long career with anthems like “Surrender” and “Dream Police,” and later scored a major late-’80s comeback with *Lap of Luxury* (1988), highlighted by their lone Billboard Hot 100 No. 1, “The Flame.” They were inducted into the Rock & Roll Hall of Fame in 2016.",
-      "NotableAlbums": [
-        {
-          "Title": "Cheap Trick",
-          "Year": "1977",
-          "Notes": "The debut that introduced their punchy mix of hard-rock edge and pop hooks, laying the foundation for the band’s power-pop identity."
-        },
-        {
-          "Title": "In Color",
-          "Year": "1977",
-          "Notes": "A brighter, more melody-forward follow-up that became a key early statement of their sound and a cornerstone of late-’70s power pop."
-        },
-        {
-          "Title": "Heaven Tonight",
-          "Year": "1978",
-          "Notes": "A fan-favorite studio peak featuring “Surrender,” capturing the band’s balance of swagger, melody, and tight, riff-driven arrangements."
-        },
-        {
-          "Title": "Cheap Trick at Budokan",
-          "Year": "1979",
-          "Notes": "The breakthrough live album recorded in Japan (1978) and released widely in 1979; it turned Cheap Trick into international stars and became their best-known release."
-        },
-        {
-          "Title": "Dream Police",
-          "Year": "1979",
-          "Notes": "A late-’70s highlight that expanded their sound without losing momentum, anchored by the title track’s signature riff and urgency."
-        },
-        {
-          "Title": "Lap of Luxury",
-          "Year": "1988",
-          "Notes": "A major comeback album that returned Cheap Trick to the mainstream and produced their biggest U.S. chart success with “The Flame.”"
-        }
-      ],
-      "SignatureSongs": [
-        {
-          "Title": "Surrender",
-          "Year": "1978",
-          "Notes": "A defining anthem whose sing-along chorus and witty perspective helped cement Cheap Trick’s reputation as power-pop standard-bearers."
-        },
-        {
-          "Title": "I Want You to Want Me (Live)",
-          "Year": "1979",
-          "Notes": "The live *Budokan* version became their U.S. breakthrough hit, capturing their high-energy stage chemistry and audience rapport."
-        },
-        {
-          "Title": "Dream Police",
-          "Year": "1979",
-          "Notes": "A hard-charging single built on a classic Nielsen riff, emblematic of their late-’70s peak and radio staying power."
-        },
-        {
-          "Title": "The Flame",
-          "Year": "1988",
-          "Notes": "A power ballad that delivered Cheap Trick’s only Billboard Hot 100 No. 1 and headline status during their late-’80s resurgence."
-        },
-        {
-          "Title": "If You Want My Love",
-          "Year": "1978",
-          "Notes": "A hook-perfect showcase for Zander’s vocal clarity and the band’s gift for big choruses with a melodic, bittersweet lift."
-        },
-        {
-          "Title": "Ain't That a Shame (Live)",
-          "Year": "1979",
-          "Notes": "A high-voltage live cover that became a staple of their concerts and reinforced the *Budokan* era’s crowd-pleasing momentum."
-        }
-      ],
-      "Achievements": [
-        {
-          "Year": "1979",
-          "Title": "Breakthrough success with *Cheap Trick at Budokan*",
-          "Details": "The *Budokan* live album (recorded in 1978, released widely in 1979) became their most famous release, reaching the U.S. Top 5 and going triple platinum, while the live “I Want You to Want Me” became a major hit."
-        },
-        {
-          "Year": "1988",
-          "Title": "Billboard Hot 100 No. 1 with “The Flame”",
-          "Details": "“The Flame,” the lead single from *Lap of Luxury*, reached No. 1 on the U.S. Billboard Hot 100 in July 1988, marking the band’s biggest single-chart peak and fueling a high-profile comeback."
-        },
-        {
-          "Year": "2016",
-          "Title": "Rock & Roll Hall of Fame induction",
-          "Details": "Cheap Trick were inducted into the Rock & Roll Hall of Fame, recognizing decades of influence across power pop, hard rock, and arena-ready live performance."
-        }
-      ],
-      "KeyFacts": [
-        "Formed in Rockford, Illinois in 1973, Cheap Trick built a signature style by marrying pop songwriting discipline to hard-rock volume and attitude.",
-        "Their international breakthrough was powered by Japan’s intense reception, with *Cheap Trick at Budokan* capturing the band at full live throttle.",
-        "Guitarist Rick Nielsen is known for flamboyant stage presence and an extensive collection of custom guitars, including famously multi-neck instruments.",
-        "Bassist Tom Petersson is associated with the development and use of a 12-string bass, adding a bright, chorused low-end texture to the band’s sound."
-      ],
-      "ExternalLinks": {
-        "Official Site": "https://cheaptrick.com/",
-        "Wikipedia": "https://en.wikipedia.org/wiki/Cheap_Trick",
-        "Discography": "https://en.wikipedia.org/wiki/Cheap_Trick_discography",
-        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/cheap-trick/"
-      },
-      "CoreMembers": [
-        {
-          "Name": "Robin Zander",
-          "Roles": [
-            "lead vocals",
-            "rhythm guitar"
-          ],
-          "Years": "1974–present",
-          "Overview": "The band’s distinctive frontman, known for a clear, high-register rock voice and the melodic delivery that anchors Cheap Trick’s choruses.",
-          "Bio": {
-            "BioID": "cheap-trick-robin-zander",
-            "ArtistID": "cheap-trick",
-            "ArtistName": "Cheap Trick",
-            "MemberName": "Robin Zander",
-            "FullName": "Robin Wayne Zander",
-            "PrimaryInstruments": [
-              "vocals",
-              "guitar"
-            ],
-            "Occupations": [
-              "musician",
-              "singer",
-              "songwriter"
-            ],
-            "Genres": [
-              "rock",
-              "hard rock",
-              "power pop"
-            ],
-            "Birth": {
-              "Date": "1953-01-23",
-              "Place": "Beloit, Wisconsin, U.S."
-            },
-            "ActiveYears": "1973–present",
-            "AssociatedActs": [
-              "Cheap Trick"
-            ],
-            "KeyAlbums": [
-              "Cheap Trick at Budokan",
-              "Heaven Tonight",
-              "Dream Police",
-              "Lap of Luxury"
-            ],
-            "KeySongs": [
-              "Surrender",
-              "I Want You to Want Me (Live)",
-              "Dream Police",
-              "The Flame"
-            ],
-            "Achievements": [
-              "Joined Cheap Trick in 1974 and became the defining voice of their classic era and long-running live reputation.",
-              "Fronted the band through their international breakthrough via *Cheap Trick at Budokan* and their late-’80s comeback with *Lap of Luxury*.",
-              "Inducted into the Rock & Roll Hall of Fame in 2016 as a member of Cheap Trick."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://cheaptrick.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/Robin_Zander"
-            },
-            "Biography": "Robin Wayne Zander was born on January 23, 1953, in Beloit, Wisconsin, and emerged in the Midwest music scene before finding the role that would define his career. His voice—clean, high, and capable of both sweet pop phrasing and full-throated rock push—would become one of the most recognizable signatures in American power pop.\n\nIn 1974, Zander joined Cheap Trick as lead singer and rhythm guitarist, stepping into a band already shaped by guitarist Rick Nielsen and bassist Tom Petersson’s songwriting instincts and drummer Bun E. Carlos’s hard-driving feel. With Zander in front, Cheap Trick solidified the classic chemistry that powered their early rise.\n\nCheap Trick’s first wave of studio releases helped establish the band’s identity, with albums like *Cheap Trick* (1977), *In Color* (1977), and *Heaven Tonight* (1978) blending bright hooks with heavy guitars. Zander’s vocal control made the band’s choruses hit with pop clarity while still sounding like a rock show turned up to arena volume.\n\nThe band’s international breakthrough arrived through Japan, where their 1978 concerts at Tokyo’s Nippon Budokan were recorded and released as *Cheap Trick at Budokan*. When the album became a phenomenon and saw a major U.S. release in 1979, Zander’s performance helped define Cheap Trick’s reputation as a live band with an uncommon mix of precision and fun.\n\nAcross the late 1970s, Zander’s singing anchored a run of songs that became staples, including “Surrender” and “Dream Police,” where his melodic phrasing rides on top of Nielsen’s riffs and the band’s tightly locked rhythm section. That balance of pop craft and rock charge became the group’s calling card.\n\nAfter shifts in the rock marketplace during the early 1980s, Cheap Trick returned to mainstream prominence with *Lap of Luxury* (1988). Zander delivered the band’s biggest U.S. single success on “The Flame,” which reached No. 1 on the Billboard Hot 100 and introduced the group to a new generation of radio listeners.\n\nZander’s role in Cheap Trick has always been more than just a lead-vocal spotlight—he is the melodic center that makes the band’s sharp turns between sweetness and bite feel natural. Whether on studio recordings or in concert, his phrasing and pitch focus are a major reason the band’s material translates so well in sing-along settings.\n\nIn 2016, Zander was inducted into the Rock & Roll Hall of Fame as part of Cheap Trick, recognizing decades of work that helped set the modern template for power pop and arena-friendly rock. The honor reflected a career built on durability: showing up, singing the hooks, and keeping the band’s personality intact.\n\nAcross Cheap Trick’s long history, Zander has remained the constant frontman presence, carrying the group’s catalogue from the *Budokan* era through later tours and releases. His voice—equal parts pop brightness and rock force—continues to be a defining ingredient in what people mean when they say a song sounds like Cheap Trick."
-          }
-        },
-        {
-          "Name": "Rick Nielsen",
-          "Roles": [
-            "lead guitar",
-            "primary songwriter"
-          ],
-          "Years": "1973–present",
-          "Overview": "Cheap Trick’s chief riff-writer and visual wild card, known for hook-forward songs, punchy leads, and an iconic collection of custom guitars.",
-          "Bio": {
-            "BioID": "cheap-trick-rick-nielsen",
-            "ArtistID": "cheap-trick",
-            "ArtistName": "Cheap Trick",
-            "MemberName": "Rick Nielsen",
-            "FullName": "Richard Alan Nielsen",
-            "PrimaryInstruments": [
-              "guitar"
-            ],
-            "Occupations": [
-              "musician",
-              "songwriter"
-            ],
-            "Genres": [
-              "rock",
-              "hard rock",
-              "power pop"
-            ],
-            "Birth": {
-              "Date": "1948-12-22",
-              "Place": "Elmhurst, Illinois, U.S."
-            },
-            "ActiveYears": "1965–present",
-            "AssociatedActs": [
-              "Cheap Trick",
-              "Fuse",
-              "Sick Man of Europe"
-            ],
-            "KeyAlbums": [
-              "In Color",
-              "Heaven Tonight",
-              "Cheap Trick at Budokan",
-              "Dream Police"
-            ],
-            "KeySongs": [
-              "Surrender",
-              "Dream Police",
-              "I Want You to Want Me",
-              "The Flame"
-            ],
-            "Achievements": [
-              "Co-founded Cheap Trick and became the band’s primary songwriter, shaping their power-pop-meets-hard-rock blueprint.",
-              "Helped drive the breakthrough of *Cheap Trick at Budokan* and the band’s enduring reputation as a high-impact live act.",
-              "Inducted into the Rock & Roll Hall of Fame in 2016 as a member of Cheap Trick."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://cheaptrick.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/Rick_Nielsen"
-            },
-            "Biography": "Richard Alan Nielsen was born on December 22, 1948, in Elmhurst, Illinois, and grew up in a musical environment that shaped both his ear and his ambition. He would become one of American rock’s most identifiable guitar personalities—equal parts songwriter, riff machine, and stage-show instigator.\n\nBefore Cheap Trick, Nielsen worked through earlier band incarnations in Rockford-area and traveling lineups, including Fuse and Sick Man of Europe. Those years sharpened his writing instincts: compact song structures, memorable hooks, and riffs that hit with immediate impact.\n\nIn 1973, Nielsen helped form Cheap Trick in Rockford, Illinois, setting the template for a sound that could live comfortably in two worlds—pop melody and hard-rock force. His guitar parts often function like co-lead vocals, carrying choruses and bridges with lines designed to be remembered after a single listen.\n\nCheap Trick’s early studio albums established the band’s identity, but Nielsen’s writing really came alive in live performance, where the group’s humor and intensity could land at full volume. That live strength became a global calling card when the band’s 1978 Tokyo shows were captured for *Cheap Trick at Budokan*.\n\n*Budokan* turned Cheap Trick into international stars when it broke big in 1979, and Nielsen’s mix of tight riffing and showman banter was central to the record’s personality. The album’s success demonstrated that the band’s songs weren’t just studio constructions—they were built to explode in front of an audience.\n\nAcross signature tracks like “Surrender” and “Dream Police,” Nielsen’s playing is both muscular and melodic, with lead lines that feel like extensions of the chorus. It’s a style that influenced later power-pop and hard-rock acts: clarity first, impact always.\n\nNielsen is also renowned for his custom guitars and unmistakable visual flair, including famously elaborate multi-neck instruments that became part of Cheap Trick’s stage mythology. For many fans, the sight of Nielsen surrounded by unusual guitars is inseparable from the sound of the band itself.\n\nCheap Trick’s late-’80s comeback with *Lap of Luxury* brought the band back to the top of the charts, culminating in “The Flame” reaching No. 1 on the Billboard Hot 100 in 1988. Even when outside writers were involved on that album, Nielsen’s identity as the band’s musical architect remained central to how Cheap Trick sounded and felt.\n\nIn 2016, Nielsen was inducted into the Rock & Roll Hall of Fame with Cheap Trick, a recognition of a career built on songwriting durability and a unique blend of humor and muscle. His legacy is the rare combination of craft and character: riffs that stick, choruses that lift, and a band identity you can recognize in seconds."
-          }
-        },
-        {
-          "Name": "Tom Petersson",
-          "Roles": [
-            "bass"
-          ],
-          "Years": "1973–1980; 1987–present",
-          "Overview": "Co-founding bassist whose melodic low-end and signature 12-string bass sound helped define Cheap Trick’s punchy, chorused power-pop attack.",
-          "Bio": {
-            "BioID": "cheap-trick-tom-petersson",
-            "ArtistID": "cheap-trick",
-            "ArtistName": "Cheap Trick",
-            "MemberName": "Tom Petersson",
-            "FullName": "Thomas John Peterson",
-            "PrimaryInstruments": [
-              "bass guitar"
-            ],
-            "Occupations": [
-              "musician",
-              "songwriter"
-            ],
-            "Genres": [
-              "rock",
-              "power pop",
-              "hard rock"
-            ],
-            "Birth": {
-              "Date": "1950-05-09",
-              "Place": "Rockford, Illinois, U.S."
-            },
-            "ActiveYears": "1967–present",
-            "AssociatedActs": [
-              "Cheap Trick",
-              "Fuse"
-            ],
-            "KeyAlbums": [
-              "In Color",
-              "Heaven Tonight",
-              "Cheap Trick at Budokan",
-              "Dream Police",
-              "Lap of Luxury"
-            ],
-            "KeySongs": [
-              "Surrender",
-              "I Want You to Want Me",
-              "Dream Police",
-              "If You Want My Love"
-            ],
-            "Achievements": [
-              "Co-founded Cheap Trick and helped establish their power-pop-meets-hard-rock foundation through the classic late-’70s run.",
-              "Associated with the development and use of a 12-string bass, adding a distinctive, chiming low-end to the band’s sound.",
-              "Inducted into the Rock & Roll Hall of Fame in 2016 as a member of Cheap Trick."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://cheaptrick.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/Tom_Petersson"
-            },
-            "Biography": "Thomas John Peterson—known professionally as Tom Petersson—was born on May 9, 1950, in Rockford, Illinois, and became one of the defining bass voices in American power pop. His playing helped Cheap Trick sound bigger than a four-piece, adding melodic movement and a bright, chorused texture underneath the guitars.\n\nPetersson’s musical path intertwined early with guitarist Rick Nielsen in a series of pre–Cheap Trick bands, including Fuse. Those years shaped a shared songwriting approach built on classic pop structure, tight hooks, and the ability to hit hard without losing melody.\n\nWhen Cheap Trick formed in the early 1970s, Petersson’s bass work became a central pillar of the band’s identity. He could lock the groove in place while also pushing the song forward with lines that feel like part of the hook, not just the rhythm section.\n\nCheap Trick’s first wave of studio releases—*Cheap Trick* (1977), *In Color* (1977), and *Heaven Tonight* (1978)—captured a band refining its balance of pop craft and loud guitars. Petersson’s tone and note choices helped make those records sound both punchy and melodic.\n\nA major part of Petersson’s musical signature is his association with the 12-string bass, an instrument concept he developed in collaboration with builders, giving Cheap Trick a uniquely shimmering low-end. That sound added weight and sparkle at the same time, thickening the band’s arrangements without clutter.\n\nThe band’s international breakthrough came via Japan, where their 1978 Tokyo performances were recorded for *Cheap Trick at Budokan*. The album’s success in the U.S. in 1979 turned Cheap Trick into stars, and Petersson’s propulsive bass is a key part of the record’s live force.\n\nIn August 1980, Petersson stepped away from the band, a break that removed one of Cheap Trick’s foundational textures during a transitional decade. Even in his absence, the band’s identity remained tied to the classic chemistry of the original lineup.\n\nPetersson rejoined Cheap Trick in 1987, returning in time to be part of the group’s major late-’80s comeback with *Lap of Luxury* (1988). The album’s renewed commercial success, including “The Flame” reaching No. 1 on the Billboard Hot 100, brought the band back into the center of rock radio.\n\nIn 2016, Petersson was inducted into the Rock & Roll Hall of Fame with Cheap Trick, a recognition that reflected both influence and longevity. His legacy is the rare combination of feel and identity: a bass voice that is instantly associated with the band’s sound.\n\nAcross decades of touring and recording, Petersson has remained a defining part of Cheap Trick’s sonic fingerprint. Whether on a standard bass or his signature 12-string approach, his playing reinforces what makes Cheap Trick distinctive—big hooks, tight grooves, and an unmistakable sparkle in the low end."
-          }
-        },
-        {
-          "Name": "Bun E. Carlos",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "1973–2010",
-          "Overview": "Original drummer whose tight, hard-hitting feel drove the band’s classic era and helped power their live reputation through the *Budokan* breakthrough.",
-          "Bio": {
-            "BioID": "cheap-trick-bun-e-carlos",
-            "ArtistID": "cheap-trick",
-            "ArtistName": "Cheap Trick",
-            "MemberName": "Bun E. Carlos",
-            "FullName": "Brad Carlson",
-            "PrimaryInstruments": [
-              "drums"
-            ],
-            "Occupations": [
-              "musician"
-            ],
-            "Genres": [
-              "rock",
-              "hard rock",
-              "power pop"
-            ],
-            "Birth": {
-              "Date": "1950-06-12",
-              "Place": "Rockford, Illinois, U.S."
-            },
-            "ActiveYears": "1973–present",
-            "AssociatedActs": [
-              "Cheap Trick"
-            ],
-            "KeyAlbums": [
-              "Heaven Tonight",
-              "Cheap Trick at Budokan",
-              "Dream Police"
-            ],
-            "KeySongs": [
-              "Surrender",
-              "I Want You to Want Me (Live)",
-              "Dream Police"
-            ],
-            "Achievements": [
-              "Co-founded Cheap Trick and served as the original drummer through the band’s formative and breakthrough years, including the *Budokan* era.",
-              "Helped define the band’s tight, driving live feel that made their concerts a major part of their reputation.",
-              "Inducted into the Rock & Roll Hall of Fame in 2016 as a member of Cheap Trick."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Bun_E._Carlos",
-              "Official Site": "https://cheaptrick.com/"
-            },
-            "Biography": "Brad Carlson—known onstage as Bun E. Carlos—was born on June 12, 1950, in Rockford, Illinois, and became one of the key rhythmic engines behind Cheap Trick’s classic sound. His playing is defined by a direct, hard-hitting approach that keeps fast songs tight and anthemic choruses powerful.\n\nCarlos’s early musical life intersected with Rick Nielsen and Tom Petersson in Rockford’s local band circuit, where the future Cheap Trick members developed their shared sense of groove and showmanship. Those years laid the groundwork for a band that could play with pop precision while still sounding loud and dangerous.\n\nWhen Cheap Trick formed in 1973, Carlos’s drumming helped lock the band’s songs into compact, punchy structures. His feel supported the group’s stylistic blend: bright melodies up top, heavy guitars in the middle, and a rhythm section that hits with clarity.\n\nCheap Trick’s early studio albums captured a band sharpening its identity, but Carlos’s impact is most vivid in the live setting, where his steady drive keeps the group’s energy from spilling into chaos. That balance—wild presentation with tight execution—became central to the band’s reputation.\n\nIn 1978, Cheap Trick’s concerts in Japan were recorded at Tokyo’s Nippon Budokan, producing *Cheap Trick at Budokan*. When the album broke internationally in 1979, Carlos’s drumming provided the backbone for performances that sounded explosive but controlled.\n\nAcross the late 1970s, Carlos powered signature songs such as “Surrender” and “Dream Police,” where the drums have to be both forceful and precise to keep the hooks landing cleanly. His playing helped make Cheap Trick’s hard-rock edge feel confident rather than messy.\n\nCarlos remained the band’s drummer through decades of touring and recording, contributing to the long-running live identity that kept Cheap Trick on the road and in the public ear even when radio trends shifted. His consistency was part of what allowed the band to sustain a recognizable feel across eras.\n\nIn 2010, Carlos stepped away from regular touring duties, closing the most visible chapter of his onstage role with the band. Even as Cheap Trick continued with other drummers in live settings, his imprint on the classic catalogue remained central to how audiences hear the band’s signature period.\n\nIn 2016, Carlos was inducted into the Rock & Roll Hall of Fame with Cheap Trick, honoring the original lineup that built the band’s foundational recordings and live breakthrough. The induction acknowledged that the band’s enduring appeal is rooted not only in hooks and riffs, but in the rhythmic engine that made those songs hit.\n\nCarlos’s legacy with Cheap Trick is the sound of momentum: a drummer who could drive pop-structured songs like arena rock without losing the snap and tightness that makes the hooks feel inevitable. For many fans, that feel is inseparable from what Cheap Trick is."
-          }
-        }
-      ],
-      "NonCoreMembers": [
-        {
-          "Name": "Randy Hogan",
-          "Roles": [
-            "lead vocals"
-          ],
-          "Years": "1973–1974",
-          "Instruments": [
-            "vocals"
-          ],
-          "Albums": [],
-          "Replacing": "",
-          "ReplacedBy": "Robin Zander",
-          "Overview": "An early lead singer during the band’s first year, credited as Cheap Trick’s original frontman before the classic lineup formed. He departed in 1974, after which Robin Zander became the group’s defining lead vocalist."
-        },
-        {
-          "Name": "Pete Comita",
-          "Roles": [
-            "bass"
-          ],
-          "Years": "1980–1982 (interim)",
-          "Instruments": [
-            "bass guitar"
-          ],
-          "Albums": [],
-          "Replacing": "Tom Petersson",
-          "ReplacedBy": "Jon Brant",
-          "Overview": "An interim bassist during Tom Petersson’s early-’80s absence, Comita helped keep Cheap Trick on the road through a transitional period. He was later replaced by Jon Brant as the band moved into its mid-’80s lineup."
-        },
-        {
-          "Name": "Jon Brant",
-          "Roles": [
-            "bass"
-          ],
-          "Years": "1982–1987",
-          "Instruments": [
-            "bass guitar"
-          ],
-          "Albums": [
-            "One on One",
-            "Next Position Please",
-            "Standing on the Edge",
-            "The Doctor"
-          ],
-          "Replacing": "Pete Comita",
-          "ReplacedBy": "Tom Petersson",
-          "Overview": "Bassist during the band’s mid-’80s era following Tom Petersson’s departure, contributing to several studio albums and touring cycles. He left on good terms when Petersson rejoined in 1987, and has occasionally filled in for live performances since."
-        },
-        {
-          "Name": "Daxx Nielsen",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "2010–present",
-          "Instruments": [
-            "drums"
-          ],
-          "Albums": [],
-          "Replacing": "Bun E. Carlos (touring drummer role)",
-          "ReplacedBy": "",
-          "Overview": "Drummer who joined the band’s touring lineup in 2010 after filling in for Bun E. Carlos, helping carry the catalogue forward in live performance. He is also known for work beyond Cheap Trick, including film and session projects."
-        }
-      ]
+      "CoreMembers": [],
+      "NonCoreMembers": []
     },
     {
       "ArtistID": "chic",
@@ -4805,464 +4877,8 @@
     {
       "ArtistID": "dire-straits",
       "Name": "Dire Straits",
-      "Type": "Band",
-      "Origin": "London, England",
-      "YearsActive": "1977–1988; 1990–1995",
-      "Genres": [
-        "Roots rock",
-        "Blues rock",
-        "Pub rock",
-        "Pop rock"
-      ],
-      "Labels": [
-        "Vertigo",
-        "Mercury",
-        "Warner Bros."
-      ],
-      "Overview": "Dire Straits were a British rock band formed in London in 1977, built around Mark Knopfler’s clean, fingerpicked guitar style and story-driven songwriting. In an era dominated by punk and disco, the group’s rootsy sound and understated approach helped them break through quickly, led by the international success of “Sultans of Swing.”\n\nAcross the 1980s they became one of the biggest-selling touring and album acts in the world, with records that mixed bluesy guitar craft, tightly arranged band playing, and a knack for hooks that worked on radio and, later, MTV. Their peak came with 1985’s *Brothers in Arms*, powered by “Money for Nothing,” “Walk of Life,” and the title track, before the band ultimately wound down after the massive tour cycle and a later return with *On Every Street*.",
-      "NotableAlbums": [
-        {
-          "Title": "Dire Straits",
-          "Year": "1978",
-          "Notes": "The debut album that introduced the band’s crisp, rootsy sound; propelled internationally by “Sultans of Swing.”"
-        },
-        {
-          "Title": "Communiqué",
-          "Year": "1979",
-          "Notes": "A quickly recorded follow-up that expanded the debut’s template with sharper ensemble playing and Knopfler’s increasingly cinematic writing."
-        },
-        {
-          "Title": "Making Movies",
-          "Year": "1980",
-          "Notes": "A key creative leap featuring “Romeo and Juliet” and “Tunnel of Love,” with a richer, more atmospheric production style."
-        },
-        {
-          "Title": "Love over Gold",
-          "Year": "1982",
-          "Notes": "More expansive and progressive-leaning, featuring long-form tracks like “Telegraph Road.”"
-        },
-        {
-          "Title": "Brothers in Arms",
-          "Year": "1985",
-          "Notes": "A global blockbuster anchored by “Money for Nothing,” “Walk of Life,” and the title track; one of the era’s defining rock albums."
-        },
-        {
-          "Title": "On Every Street",
-          "Year": "1991",
-          "Notes": "The band’s return after a break, mixing stadium-ready rock with reflective songwriting and a polished early-’90s sound."
-        }
-      ],
-      "SignatureSongs": [
-        {
-          "Title": "Sultans of Swing",
-          "Year": "1978",
-          "Notes": "The breakout single that showcased Knopfler’s fingerstyle lead guitar and narrative lyric style."
-        },
-        {
-          "Title": "Romeo and Juliet",
-          "Year": "1980",
-          "Notes": "A signature ballad from *Making Movies*, widely regarded as one of the band’s most enduring songs."
-        },
-        {
-          "Title": "Tunnel of Love",
-          "Year": "1980",
-          "Notes": "An epic, slow-building track that highlights the band’s dynamic arrangements and Knopfler’s storytelling."
-        },
-        {
-          "Title": "Money for Nothing",
-          "Year": "1985",
-          "Notes": "The MTV-era anthem with a famous opening riff; the song won a Grammy for Best Rock Performance by a Duo or Group with Vocal."
-        },
-        {
-          "Title": "Walk of Life",
-          "Year": "1985",
-          "Notes": "A bright, organ-driven hit that became a staple of classic rock radio and the *Brothers in Arms* era."
-        },
-        {
-          "Title": "Brothers in Arms",
-          "Year": "1985",
-          "Notes": "A reflective, anti-war title track that became one of the band’s most recognized late-career standards."
-        }
-      ],
-      "Achievements": [
-        {
-          "Year": "1986",
-          "Title": "Grammy Award – Best Rock Performance (Duo/Group) for “Money for Nothing”",
-          "Details": "“Money for Nothing” received top rock performance honors at the GRAMMY Awards, cementing the band’s crossover dominance in the mid-’80s."
-        },
-        {
-          "Year": "1986",
-          "Title": "Grammy Award – Best Engineered Album, Non-Classical (*Brothers in Arms*)",
-          "Details": "*Brothers in Arms* won for engineering, reflecting its then-cutting-edge studio polish and wide-audience sonic impact."
-        },
-        {
-          "Year": "1987",
-          "Title": "BRIT Award – Best British Album (*Brothers in Arms*)",
-          "Details": "The album earned the BRIT for Best British Album, a major UK recognition of its sustained commercial and critical success."
-        },
-        {
-          "Year": "1985",
-          "Title": "*Brothers in Arms* becomes a multi-platinum global blockbuster",
-          "Details": "The album reached #1 in multiple countries and is widely cited as one of the best-selling albums of all time; it is certified nine-times platinum in the United States."
-        },
-        {
-          "Year": "2018",
-          "Title": "Inducted into the Rock & Roll Hall of Fame",
-          "Details": "Dire Straits were inducted as Performers, recognizing the band’s lasting influence and catalog of iconic songs."
-        }
-      ],
-      "KeyFacts": [
-        "Formed in London in 1977; early lineup centered on Mark Knopfler, David Knopfler, John Illsley, and Pick Withers.",
-        "Known for a clean, articulate guitar sound and lyrics that often read like short stories set to music.",
-        "The band’s most commercially dominant era aligned with the *Brothers in Arms* album and tour cycle (1985–1986).",
-        "Active in two main phases: 1977–1988 and a later return from 1990–1995."
-      ],
-      "ExternalLinks": {
-        "Official Site": "https://www.direstraits.com/",
-        "Wikipedia": "https://en.wikipedia.org/wiki/Dire_Straits",
-        "Discography": "https://en.wikipedia.org/wiki/Dire_Straits_discography",
-        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/dire-straits/"
-      },
-      "CoreMembers": [
-        {
-          "Name": "Mark Knopfler",
-          "Roles": [
-            "Lead vocals",
-            "Lead guitar",
-            "Songwriter",
-            "Producer"
-          ],
-          "Years": "1977–1988; 1990–1995",
-          "Overview": "Dire Straits’ principal songwriter, lead guitarist, and frontman, known for his fingerstyle technique, narrative lyrics, and distinctive, understated tone. He steered the band’s musical direction from club beginnings through stadium-scale success, then moved into an extensive solo and film-scoring career.",
-          "Bio": {
-            "BioID": "dire-straits-mark-knopfler",
-            "ArtistID": "dire-straits",
-            "ArtistName": "Dire Straits",
-            "MemberName": "Mark Knopfler",
-            "FullName": "Mark Freuder Knopfler",
-            "PrimaryInstruments": [
-              "Guitar",
-              "Vocals"
-            ],
-            "Occupations": [
-              "Musician",
-              "Singer",
-              "Songwriter",
-              "Record producer"
-            ],
-            "Genres": [
-              "Roots rock",
-              "Blues rock",
-              "Rock"
-            ],
-            "Birth": {
-              "Date": "12 August 1949",
-              "Place": "Glasgow, Scotland"
-            },
-            "ActiveYears": "1960s–present",
-            "AssociatedActs": [
-              "Dire Straits",
-              "The Notting Hillbillies",
-              "Chet Atkins"
-            ],
-            "KeyAlbums": [
-              "Dire Straits",
-              "Making Movies",
-              "Love over Gold",
-              "Brothers in Arms",
-              "On Every Street"
-            ],
-            "KeySongs": [
-              "Sultans of Swing",
-              "Romeo and Juliet",
-              "Tunnel of Love",
-              "Money for Nothing",
-              "Brothers in Arms"
-            ],
-            "Achievements": [
-              "Rock & Roll Hall of Fame inductee as a member of Dire Straits (2018).",
-              "Grammy-winning work with Dire Straits, including recognition tied to “Money for Nothing” and *Brothers in Arms*."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://www.markknopfler.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/Mark_Knopfler"
-            },
-            "Biography": "Mark Knopfler emerged in the late 1970s as one of rock’s most identifiable guitar voices, pairing clean, precise fingerstyle playing with lyrics that feel like short stories. His approach stood out at a time when flashier, more aggressive sounds dominated the spotlight.\n\nAfter moving through local scenes and day jobs, he co-founded Dire Straits in London in 1977. The band’s early reputation was built on tight ensemble playing and songs that sounded both classic and modern, anchored by Knopfler’s economical lead lines.\n\n“Sultans of Swing” turned that club-level momentum into an international breakthrough, showcasing a lead guitar style that was articulate rather than heavy. The song’s success made Knopfler’s name synonymous with tasteful, melodic soloing and vivid character sketches.\n\nAcross albums like *Communiqué* and *Making Movies*, he expanded the band’s palette from lean pub-rock grooves into richer, cinematic arrangements. Tracks such as “Romeo and Juliet” and “Tunnel of Love” highlighted his ability to blend emotional songwriting with guitar parts that carried their own narrative.\n\nBy the early 1980s, Dire Straits were operating on a larger canvas, and Knopfler leaned into long-form writing and atmosphere on *Love over Gold*. The band’s concerts grew into carefully paced, dynamic performances where subtle playing could still fill arenas.\n\nThe global peak arrived with *Brothers in Arms* in 1985, a record that connected across radio, MTV, and the emerging CD era. “Money for Nothing” became an era-defining hit, while the album’s balance of punchy singles and reflective songs showed Knopfler’s range as a writer.\n\nAfter the intensity of the mid-’80s touring cycle, he stepped away from the band’s momentum, later returning for *On Every Street* and its large-scale tour. The experience underscored how demanding the Dire Straits machine had become at full tilt.\n\nWhen the band finally closed its chapter in the 1990s, Knopfler focused on a prolific solo path and soundtrack work, carrying forward the same emphasis on tone, groove, and storytelling. His post-band catalog continued to favor craft and feel over spectacle.\n\nAcross decades, his influence has been less about trends and more about musicianship—how to make a guitar part speak, how to let a lyric land, and how restraint can be its own kind of power."
-          }
-        },
-        {
-          "Name": "John Illsley",
-          "Roles": [
-            "Bass guitar",
-            "Backing vocals"
-          ],
-          "Years": "1977–1988; 1990–1995",
-          "Overview": "Co-founder and bassist who, alongside Mark Knopfler, remained through Dire Straits’ full lifespan. His steady, melodic bass lines and grounded musical sensibility helped define the band’s groove from the debut through the stadium-era records.",
-          "Bio": {
-            "BioID": "dire-straits-john-illsley",
-            "ArtistID": "dire-straits",
-            "ArtistName": "Dire Straits",
-            "MemberName": "John Illsley",
-            "FullName": "John Edward Illsley",
-            "PrimaryInstruments": [
-              "Bass guitar",
-              "Guitar",
-              "Vocals"
-            ],
-            "Occupations": [
-              "Musician",
-              "Songwriter",
-              "Producer"
-            ],
-            "Genres": [
-              "Rock",
-              "Blues rock"
-            ],
-            "Birth": {
-              "Date": "24 June 1949",
-              "Place": "Leicester, England"
-            },
-            "ActiveYears": "1960s–present",
-            "AssociatedActs": [
-              "Dire Straits",
-              "Mark Knopfler"
-            ],
-            "KeyAlbums": [
-              "Dire Straits",
-              "Making Movies",
-              "Love over Gold",
-              "Brothers in Arms",
-              "On Every Street"
-            ],
-            "KeySongs": [
-              "Sultans of Swing",
-              "Romeo and Juliet",
-              "Money for Nothing",
-              "Walk of Life",
-              "Brothers in Arms"
-            ],
-            "Achievements": [
-              "Rock & Roll Hall of Fame inductee as a member of Dire Straits (2018).",
-              "Part of the GRAMMY-winning Dire Straits era associated with “Money for Nothing” and *Brothers in Arms*."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://www.johnillsleymusic.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/John_Illsley"
-            },
-            "Biography": "John Illsley is the co-founding bassist of Dire Straits and one of the two members—along with Mark Knopfler—who stayed across the band’s entire history. His playing provided the quiet engine under songs that often spotlighted Knopfler’s guitar and narrative lyrics.\n\nComing out of the late-’70s London scene, Illsley helped shape the group’s early identity: tight, roots-influenced rock that avoided excess while still sounding distinctive. That discipline became a signature, especially on the debut album and its follow-up, where the band’s grooves feel both relaxed and precise.\n\nOn “Sultans of Swing,” his bass line locks the track into a rolling, effortless swing that lets the guitar phrases breathe. It’s a template for the Dire Straits rhythm approach—supportive, musical, and never crowded.\n\nAs the band’s arrangements became more ambitious, Illsley’s role expanded into anchoring longer-form pieces and bigger dynamics. Records like *Making Movies* and *Love over Gold* rely on rhythmic control: the ability to stay steady while the music opens into widescreen storytelling.\n\nDuring the *Brothers in Arms* era, Dire Straits moved into global-stadium scale, and Illsley’s consistency became even more essential. Whether on the pop sheen of “Walk of Life” or the weight of the title track, the bass stays musical rather than flashy, always serving the song’s emotional center.\n\nHe also contributed backing vocals and a bandmate’s perspective that helped the group function through shifting lineups. As other musicians rotated in and out, Illsley remained a constant presence on stage and in the studio.\n\nAfter Dire Straits, he continued in music outside the band’s shadow, releasing solo work and staying connected to the band’s legacy through performances and projects. His career reflects a musician’s longevity built on feel, taste, and reliability.\n\nIllsley’s place in the Dire Straits story is fundamental: the co-founder who kept the groove honest and the songs grounded, from the first club gigs to the biggest tours of the 1980s.\n\nIn 2018, his contributions were formally recognized with Dire Straits’ induction into the Rock & Roll Hall of Fame, a marker of the band’s lasting impact and the enduring strength of its core musicianship."
-          }
-        },
-        {
-          "Name": "Alan Clark",
-          "Roles": [
-            "Keyboards",
-            "Co-producer"
-          ],
-          "Years": "1980–1988; 1990–1995",
-          "Overview": "The band’s first full-time keyboardist, bringing color, texture, and arrangement depth from the early-’80s onward. His parts helped broaden Dire Straits from a lean guitar band into a more expansive, cinematic sound, especially in the arena era.",
-          "Bio": {
-            "BioID": "dire-straits-alan-clark",
-            "ArtistID": "dire-straits",
-            "ArtistName": "Dire Straits",
-            "MemberName": "Alan Clark",
-            "FullName": "Alan Clark",
-            "PrimaryInstruments": [
-              "Keyboards"
-            ],
-            "Occupations": [
-              "Musician",
-              "Producer",
-              "Musical director"
-            ],
-            "Genres": [
-              "Rock"
-            ],
-            "Birth": {
-              "Date": "5 March 1952",
-              "Place": "County Durham, England"
-            },
-            "ActiveYears": "1960s–present",
-            "AssociatedActs": [
-              "Dire Straits",
-              "Eric Clapton",
-              "Bob Dylan",
-              "Tina Turner"
-            ],
-            "KeyAlbums": [
-              "Making Movies",
-              "Love over Gold",
-              "Brothers in Arms",
-              "On Every Street"
-            ],
-            "KeySongs": [
-              "Tunnel of Love",
-              "Walk of Life",
-              "Money for Nothing",
-              "Brothers in Arms"
-            ],
-            "Achievements": [
-              "Rock & Roll Hall of Fame inductee as a member of Dire Straits (2018).",
-              "Key contributor to the band’s multi-award era associated with *Brothers in Arms*."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://www.alanclarkmusic.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/Alan_Clark_(keyboardist)"
-            },
-            "Biography": "Alan Clark became Dire Straits’ first full-time keyboardist during the band’s early-1980s evolution, adding a broader sonic palette to Mark Knopfler’s guitar-centered writing. His arrival coincided with the group’s move toward richer textures and more cinematic arrangements.\n\nOn records like *Making Movies*, the keyboards help shape mood as much as melody—supporting long builds, dramatic shifts, and the kind of atmosphere that made Dire Straits sound bigger without losing their restraint. Clark’s parts often sit in the background until they’re suddenly essential to the emotional lift of a section.\n\n*Love over Gold* pushed that approach further, with extended compositions and widescreen dynamics. The keyboard layers contribute to the feeling of travel and distance that runs through the album, creating space for Knopfler’s narratives to unfold.\n\nDuring the *Brothers in Arms* era, Clark’s playing became part of the band’s defining mainstream sound. The bright, rhythmic keyboard hook on “Walk of Life” is one of the most instantly recognizable parts of the Dire Straits catalog, proving how a single, well-placed texture can drive a song’s identity.\n\nHe also took on production-related responsibilities within the band’s later period, reflecting how central he had become to their studio process. As Dire Straits operated at global scale, arrangement detail and sonic clarity were crucial, and Clark’s role fit that precision.\n\nOn stage, he helped translate carefully layered studio tracks into powerful live performances, supporting the band’s shift from clubs to arenas and stadiums. The keyboard rig became a key part of the live sound—bold when needed, invisible when not.\n\nAfter the band’s main run, Clark continued a wide-ranging career as a musician and musical director, working in varied settings beyond Dire Straits. That versatility mirrors what he brought to the band: the ability to enhance a song without crowding it.\n\nHis contributions are often felt as much as heard—texture, harmony, and motion that elevate a track’s atmosphere. It’s the kind of musicianship that makes a band sound inevitable, like the song couldn’t exist any other way.\n\nIn 2018, Dire Straits’ Rock & Roll Hall of Fame induction acknowledged the importance of the expanded lineup that powered their most influential work, including Clark’s distinctive keyboard voice."
-          }
-        },
-        {
-          "Name": "Guy Fletcher",
-          "Roles": [
-            "Keyboards",
-            "Backing vocals",
-            "Producer/Engineer"
-          ],
-          "Years": "1984–1988; 1990–1995",
-          "Overview": "Keyboardist who joined during the *Brothers in Arms* era and became a long-term musical partner in Dire Straits’ later lineup and in Mark Knopfler’s subsequent projects. Known for detailed arranging support, production/engineering work, and reliable live performance in complex touring productions.",
-          "Bio": {
-            "BioID": "dire-straits-guy-fletcher",
-            "ArtistID": "dire-straits",
-            "ArtistName": "Dire Straits",
-            "MemberName": "Guy Fletcher",
-            "FullName": "Guy Edward Fletcher",
-            "PrimaryInstruments": [
-              "Keyboards",
-              "Vocals"
-            ],
-            "Occupations": [
-              "Musician",
-              "Producer",
-              "Engineer"
-            ],
-            "Genres": [
-              "Rock"
-            ],
-            "Birth": {
-              "Date": "24 May 1960",
-              "Place": "Maidstone, Kent, England"
-            },
-            "ActiveYears": "1970s–present",
-            "AssociatedActs": [
-              "Dire Straits",
-              "Mark Knopfler"
-            ],
-            "KeyAlbums": [
-              "Brothers in Arms",
-              "On Every Street"
-            ],
-            "KeySongs": [
-              "Money for Nothing",
-              "Walk of Life",
-              "Brothers in Arms"
-            ],
-            "Achievements": [
-              "Rock & Roll Hall of Fame inductee as a member of Dire Straits (2018).",
-              "Key touring and studio-era contributor during the band’s late-’80s and early-’90s phases."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://www.guyfletcher.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/Guy_Fletcher"
-            },
-            "Biography": "Guy Fletcher became part of Dire Straits as the band entered its most globally visible period, joining the keyboard lineup in the mid-1980s. His work helped support the layered, polished sound that defined the *Brothers in Arms* era on stage and in the studio environment around it.\n\nIn a band where arrangements mattered, Fletcher’s role was often about structure and texture—reinforcing grooves, doubling melodic lines, and filling out harmony without pulling focus from the songs’ core. That kind of precision is what allows big productions to feel effortless.\n\nAs Dire Straits toured at stadium scale, the keyboard team helped translate detailed studio recordings into live performances with consistent impact night after night. Fletcher became known for reliability in exactly those high-pressure settings.\n\nWhen the band returned in the early 1990s for *On Every Street*, Fletcher remained part of the lineup, contributing to a sound that blended classic Dire Straits guitar craft with a more contemporary sheen. The period demanded both musical sensitivity and logistical endurance, given the size of the tours.\n\nAfter Dire Straits, Fletcher continued a long-term collaboration with Mark Knopfler across solo touring and recording work, acting as a musical right hand in arranging and performance. That continuity made him an important bridge between the band’s legacy and Knopfler’s later catalog.\n\nBeyond performing, he developed a broader reputation as a producer and engineer, reflecting a behind-the-scenes skill set aligned with modern touring and studio workflows. Those roles complement the keyboardist’s mindset: listening for balance, clarity, and how parts fit together.\n\nFletcher’s story is a reminder that iconic catalogs are sustained by more than the headline names. The musicians who can execute consistently, adapt quickly, and serve the song are what make long tours and complex sets possible.\n\nIn 2018, his contributions to Dire Straits’ later-era work were recognized through the band’s Rock & Roll Hall of Fame induction. It marked how the group’s success was built not only on songwriting, but on the strength of the full performing unit.\n\nHis ongoing presence in projects connected to the Dire Straits orbit has helped keep the music alive in performance, carrying arrangement detail forward for new audiences while respecting the original sound."
-          }
-        }
-      ],
-      "NonCoreMembers": [
-        {
-          "Name": "David Knopfler",
-          "Roles": [
-            "Rhythm guitar",
-            "Backing vocals"
-          ],
-          "Years": "1977–1980",
-          "Instruments": [
-            "Guitar",
-            "Vocals"
-          ],
-          "Albums": [
-            "Dire Straits",
-            "Communiqué",
-            "Making Movies (early sessions)"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "Hal Lindes",
-          "Overview": "Co-founding member and Mark Knopfler’s brother, present for the band’s formative years and first two albums. He departed during the *Making Movies* period, with the lineup shifting toward a larger, more studio-focused sound."
-        },
-        {
-          "Name": "Pick Withers",
-          "Roles": [
-            "Drums",
-            "Percussion"
-          ],
-          "Years": "1977–1982",
-          "Instruments": [
-            "Drums",
-            "Percussion"
-          ],
-          "Albums": [
-            "Dire Straits",
-            "Communiqué",
-            "Making Movies",
-            "Love over Gold"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "Terry Williams",
-          "Overview": "Original drummer whose crisp, restrained feel anchored the early Dire Straits groove, including the breakthrough “Sultans of Swing.” He left after the band’s early-’80s expansion, as the lineup evolved for larger tours and productions."
-        },
-        {
-          "Name": "Hal Lindes",
-          "Roles": [
-            "Guitar"
-          ],
-          "Years": "1980–1985",
-          "Instruments": [
-            "Guitar"
-          ],
-          "Albums": [
-            "Making Movies",
-            "Love over Gold",
-            "Alchemy (live)"
-          ],
-          "Replacing": "David Knopfler",
-          "ReplacedBy": "Jack Sonni",
-          "Overview": "Guitarist who joined after David Knopfler’s departure and supported the band through the early-’80s run, including *Making Movies* and *Love over Gold*. His tenure covered the transition from a lean four-piece into a bigger touring unit."
-        },
-        {
-          "Name": "Terry Williams",
-          "Roles": [
-            "Drums"
-          ],
-          "Years": "1982–1988; 1990–1992",
-          "Instruments": [
-            "Drums"
-          ],
-          "Albums": [
-            "Love over Gold (touring)",
-            "Brothers in Arms (drums on select tracks/era)",
-            "On Every Street (touring)"
-          ],
-          "Replacing": "Pick Withers",
-          "ReplacedBy": "",
-          "Overview": "Drummer associated with the band’s arena period, joining in the early 1980s and appearing across major tours. His powerful, straightforward rock approach helped translate Dire Straits’ studio detail into large-venue impact."
-        },
-        {
-          "Name": "Jack Sonni",
-          "Roles": [
-            "Guitar"
-          ],
-          "Years": "1984–1985",
-          "Instruments": [
-            "Guitar"
-          ],
-          "Albums": [
-            "Brothers in Arms (touring lineup)"
-          ],
-          "Replacing": "Hal Lindes",
-          "ReplacedBy": "",
-          "Overview": "Guitarist who joined for the *Brothers in Arms* touring era, adding extra guitar support for the band’s expanded live arrangements. His role helped replicate multi-layered studio parts on the road during the group’s peak visibility."
-        }
-      ]
+      "CoreMembers": [],
+      "NonCoreMembers": []
     },
     {
       "ArtistID": "dokken",
@@ -8253,27 +7869,614 @@
     {
       "ArtistID": "pink-floyd",
       "Name": "Pink Floyd",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1965–1994",
+        "2005",
+        "2007",
+        "2013–2014",
+        "2022"
+      ],
+      "Genres": [
+        "Progressive rock",
+        "Psychedelic rock",
+        "Art rock",
+        "Experimental rock",
+        "Space rock"
+      ],
+      "Labels": [
+        "EMI",
+        "Harvest",
+        "Columbia",
+        "Capitol",
+        "Parlophone"
+      ],
+      "Overview": "Pink Floyd were an English rock band formed in London in 1965, first defined by Syd Barrett’s surreal songwriting and underground psychedelic performances, then reshaped after David Gilmour joined in late 1967 as the group expanded into long-form, atmospheric compositions built around studio experimentation and immersive live production.\n\nAcross the 1970s, the band became a global album-era benchmark with a run of concept-driven releases—most famously The Dark Side of the Moon, Wish You Were Here, Animals, and The Wall—blending philosophical themes, sonic collage, and meticulous sound design. After bassist/primary lyricist Roger Waters left in 1985, Gilmour and Nick Mason continued Pink Floyd, releasing A Momentary Lapse of Reason (1987) and The Division Bell (1994), with the classic quartet reuniting for a one-off Live 8 set in 2005. The band’s legacy is rooted in the idea of rock as a complete, theatrical experience: audio, imagery, and narrative fused into a single event.",
+      "NotableAlbums": [
+        {
+          "Title": "The Piper at the Gates of Dawn",
+          "Year": "1967",
+          "Notes": "The Syd Barrett–led debut that captured London’s psychedelic moment with whimsical songwriting, tape effects, and an adventurous, spacey feel."
+        },
+        {
+          "Title": "Meddle",
+          "Year": "1971",
+          "Notes": "A transitional breakthrough that pointed toward the band’s later scale, highlighted by the side-long suite “Echoes” and increasingly cinematic sound design."
+        },
+        {
+          "Title": "The Dark Side of the Moon",
+          "Year": "1973",
+          "Notes": "A cohesive, theme-driven album about time, money, mortality, and pressure—engineered for maximum immersion and one of the defining records of the 1970s."
+        },
+        {
+          "Title": "Wish You Were Here",
+          "Year": "1975",
+          "Notes": "A reflective follow-up anchored by “Shine On You Crazy Diamond,” framed as an elegy for Syd Barrett and a critique of music-industry machinery."
+        },
+        {
+          "Title": "Animals",
+          "Year": "1977",
+          "Notes": "A harsher, politically charged concept album with extended tracks and a stark tone that foreshadowed the confrontational scale of The Wall."
+        },
+        {
+          "Title": "The Wall",
+          "Year": "1979",
+          "Notes": "A rock opera about isolation and trauma, built around dramatic songwriting, recurring motifs, and a stage spectacle that became central to the band’s mythology."
+        },
+        {
+          "Title": "The Division Bell",
+          "Year": "1994",
+          "Notes": "The late-era studio statement led by Gilmour, emphasizing mood, guitar tone, and communication themes, followed by a massive world tour and live document Pulse."
+        },
+        {
+          "Title": "The Endless River",
+          "Year": "2014",
+          "Notes": "A largely instrumental, posthumous tribute built from 1993 sessions, framed as a farewell to the band’s long-running musical chemistry."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Arnold Layne",
+          "Year": "1967",
+          "Notes": "An early UK hit from the Barrett era that helped establish Pink Floyd as a distinctive voice in the late-’60s underground."
+        },
+        {
+          "Title": "See Emily Play",
+          "Year": "1967",
+          "Notes": "A bright, kaleidoscopic single that distilled the band’s early psychedelia into a concise, radio-friendly form."
+        },
+        {
+          "Title": "Echoes",
+          "Year": "1971",
+          "Notes": "A side-long composition that became a template for Pink Floyd’s later approach to gradual build, texture, and emotional release."
+        },
+        {
+          "Title": "Money",
+          "Year": "1973",
+          "Notes": "A Dark Side standout whose groove and studio effects made it one of the band’s most recognizable tracks."
+        },
+        {
+          "Title": "Time",
+          "Year": "1973",
+          "Notes": "A meditation on aging and wasted years, opening with an iconic burst of clocks and chimes."
+        },
+        {
+          "Title": "Shine On You Crazy Diamond",
+          "Year": "1975",
+          "Notes": "A multi-part epic written in the shadow of Syd Barrett, combining slow-burn atmospherics with soaring guitar themes."
+        },
+        {
+          "Title": "Wish You Were Here",
+          "Year": "1975",
+          "Notes": "A widely loved acoustic-centered song that became a signature statement of absence, longing, and connection."
+        },
+        {
+          "Title": "Another Brick in the Wall, Part 2",
+          "Year": "1979",
+          "Notes": "The band’s best-known single, pairing a children’s choir with an anti-authoritarian hook that crossed into pop-chart dominance."
+        },
+        {
+          "Title": "Comfortably Numb",
+          "Year": "1979",
+          "Notes": "A centerpiece of The Wall, famous for its contrast between narrative verses and expansive guitar solos."
+        },
+        {
+          "Title": "High Hopes",
+          "Year": "1994",
+          "Notes": "A late-era summation piece that blends nostalgia, pastoral imagery, and the band’s trademark slow, atmospheric build."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1973–present",
+          "Title": "Billboard 200 longevity record (The Dark Side of the Moon)",
+          "Details": "The Dark Side of the Moon is widely cited as the longest-charting album in Billboard 200 history, logged at 917 total weeks on the chart (as of a Billboard tally published in 2015)."
+        },
+        {
+          "Year": "1980",
+          "Title": "Global No. 1 single with “Another Brick in the Wall, Part 2”",
+          "Details": "The Wall’s breakout single topped charts around the world and became Pink Floyd’s best-known hit, pushing the band into mainstream pop-radio ubiquity."
+        },
+        {
+          "Year": "1995",
+          "Title": "Grammy Award for “Marooned”",
+          "Details": "“Marooned,” from The Division Bell, won the Grammy Award for Best Rock Instrumental Performance, marking a major late-career accolade for the band."
+        },
+        {
+          "Year": "1996",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Pink Floyd were inducted into the Rock & Roll Hall of Fame, recognizing their long-term impact on album-era rock and live production scale."
+        },
+        {
+          "Year": "2008",
+          "Title": "Polar Music Prize laureate",
+          "Details": "The band received Sweden’s Polar Music Prize, honoring their decades-long influence on the intersection of popular music, sound experimentation, and art-driven presentation."
+        }
+      ],
+      "KeyFacts": [
+        "Pink Floyd’s classic sound is built around contrasts: extended atmospheric sections and sudden dynamic peaks, intimate vocals and massive production, and studio collage techniques alongside traditional rock instrumentation.",
+        "The band’s live reputation grew with ambitious staging—large-scale lighting, film projection, and theatrical set pieces—helping define what arena rock could look and feel like in the 1970s and beyond.",
+        "Syd Barrett’s brief tenure left an enduring imprint: even after his departure, the group repeatedly returned to themes of absence, fragility, and the cost of fame, most explicitly on Wish You Were Here.",
+        "After Roger Waters’ 1985 exit, Pink Floyd continued under David Gilmour and Nick Mason, with Richard Wright returning to a full role for The Division Bell; the four-member classic lineup reunited publicly for Live 8 in 2005."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.pinkfloyd.com/",
+        "Official Biography (Archive)": "https://archive.pinkfloyd.com/history/biography",
+        "AllMusic": "https://www.allmusic.com/artist/pink-floyd-mn0000346336",
+        "Britannica": "https://www.britannica.com/topic/Pink-Floyd",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Pink_Floyd",
+        "Rock & Roll Hall of Fame": "https://www.rockhall.com/inductees/pink-floyd",
+        "Polar Music Prize": "https://www.polarmusicprize.org/laureates/pink-floyd/"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Syd Barrett",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1965–1968",
+          "Overview": "Founding guitarist, singer, and primary songwriter of Pink Floyd’s early psychedelic era; wrote and sang many of the band’s first defining songs and led the debut album The Piper at the Gates of Dawn.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-syd-barrett",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Syd Barrett",
+            "FullName": "Roger Keith Barrett",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Psychedelic rock",
+              "Psychedelic pop",
+              "Experimental rock"
+            ],
+            "Birth": {
+              "Date": "1946-01-06",
+              "Place": "Cambridge, England"
+            },
+            "ActiveYears": [
+              "1963–1974"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "The Piper at the Gates of Dawn",
+              "The Madcap Laughs",
+              "Barrett"
+            ],
+            "KeySongs": [
+              "Arnold Layne",
+              "See Emily Play",
+              "Astronomy Domine"
+            ],
+            "Achievements": [
+              "Co-founded Pink Floyd and led the band’s 1967 breakthrough into the UK psychedelic mainstream.",
+              "Solo work in 1970 documented his songwriting in stark, influential recordings that later became cult touchstones."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.sydbarrett.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Syd_Barrett"
+            },
+            "Biography": "Roger Keith “Syd” Barrett (born January 6, 1946, in Cambridge) was the founding imagination of Pink Floyd—an early frontman whose eccentric melodies, wordplay, and guitar textures helped define the band’s first public identity in London’s mid‑’60s psychedelic underground.\n\nBarrett named the group after two blues musicians, Pink Anderson and Floyd Council, and quickly became the face of their live sets: elastic song forms, improvisation, and effects-heavy guitar that blurred pop hooks into sound experiments. In 1967, the band’s first singles (“Arnold Layne” and “See Emily Play”) brought them wide attention while still sounding unlike their peers.\n\nThat same year, Barrett led the group through their debut album, The Piper at the Gates of Dawn, shaping its whimsical characters, surreal imagery, and studio playfulness. The record became a cornerstone of British psychedelia and remains the clearest document of Pink Floyd’s original, Barrett-centered voice.\n\nAs the band’s profile rose, Barrett’s reliability deteriorated. Friends and bandmates later described a mix of mental-health strain and heavy drug use, and performances could become unpredictable—sometimes brilliant, sometimes derailed by silence or minimal playing. The group began looking for a way to continue without collapsing on stage.\n\nDavid Gilmour, a fellow Cambridge musician, was brought in at the end of 1967 to reinforce the lineup. For a short period, Pink Floyd functioned as a five‑piece, but the situation quickly became untenable; by early 1968, the band stopped taking Barrett to shows and he was effectively out of the working group.\n\nBarrett recorded two solo albums in 1970—The Madcap Laughs and Barrett—capturing fragments of his songwriting gift in a raw, intimate form, sometimes with help from former bandmates and friends. Even when the performances were fragile, his melodic instincts and odd-angle lyrics still landed with striking individuality.\n\nAfter a brief burst of activity, Barrett retreated from public life. He returned to Cambridge, largely withdrew from the music business, and became increasingly private, a disappearance that fed a powerful myth around “the lost genius” of Pink Floyd’s origin story.\n\nHis absence became a recurring emotional engine for the band that continued without him. Wish You Were Here, especially “Shine On You Crazy Diamond,” is inseparable from the shock and grief of watching their original leader fade from view, turning Barrett into a kind of haunting presence across Pink Floyd’s later work.\n\nBarrett died on July 7, 2006, in Cambridge, England, from pancreatic cancer. His legacy endures less as a long career than as an ignition: he helped create Pink Floyd’s first language, and his brief, radiant period continues to shape how the band’s entire arc is understood.",
+            "Death": {
+              "Date": "2006-07-07",
+              "Place": "Cambridge, England",
+              "Cause": "Pancreatic cancer"
+            }
+          }
+        },
+        {
+          "Name": "Roger Waters",
+          "Roles": [
+            "bass",
+            "lead vocals",
+            "songwriting",
+            "concept development"
+          ],
+          "Years": "1965–1985",
+          "Overview": "Co-founder who became Pink Floyd’s primary lyricist and conceptual leader during the band’s classic 1970s run, driving the themes and narratives of albums like The Dark Side of the Moon, Animals, and The Wall.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-roger-waters",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Roger Waters",
+            "FullName": "George Roger Waters",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1943-09-06",
+              "Place": "Great Bookham, Surrey, England"
+            },
+            "ActiveYears": [
+              "1964–present"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "Animals",
+              "The Wall",
+              "The Final Cut"
+            ],
+            "KeySongs": [
+              "Money",
+              "Time",
+              "Another Brick in the Wall, Part 2",
+              "Comfortably Numb",
+              "Wish You Were Here"
+            ],
+            "Achievements": [
+              "Primary lyricist/concept architect behind Pink Floyd’s most famous narrative albums of the 1970s.",
+              "Developed The Wall into a lasting, large-scale performance work, revived in major later tours."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://rogerwaters.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Roger_Waters"
+            },
+            "Biography": "George Roger Waters (born September 6, 1943, in Great Bookham, Surrey) co-founded Pink Floyd and evolved from early bassist and vocalist into the band’s primary lyricist and conceptual architect, especially during the 1970s when Pink Floyd’s albums became unified narratives rather than collections of songs.\n\nIn the Barrett-led years, Waters was part of a young London group learning how to stretch blues-based ideas into psychedelic improvisation. As Syd Barrett’s leadership collapsed, Waters increasingly stepped forward, helping steer the band through a difficult transition into a new identity built on atmosphere, ambition, and studio craft.\n\nBy the time Pink Floyd entered their classic run, Waters became the central voice behind the band’s themes—anxieties about time, money, madness, war, and alienation—while the group’s musicianship and production translated those ideas into immersive soundscapes. His writing helped make The Dark Side of the Moon feel like a single, continuous argument about modern pressure and human fragility.\n\nWish You Were Here deepened Waters’ role as storyteller, pairing grief and tribute with pointed critique of the music industry. With Animals, his lyric perspective sharpened into political satire and social anger, pushing the band toward a harsher, more confrontational tone.\n\nThat arc peaked with The Wall, a rock opera driven by Waters’ script-like writing and personal imagery of loss, schooling, fame, and isolation. The album’s scale—musical, theatrical, and emotional—became a defining Pink Floyd statement and set the template for rock narrative as spectacle.\n\nAs the band moved into the early 1980s, internal relationships deteriorated. Waters took even more control over direction and messaging, and the collaboration that powered the earlier masterpieces became strained, turning creative intensity into open conflict.\n\nIn 1985, Waters left Pink Floyd, believing the group had run its course. A long dispute followed over the use of the band name, ultimately ending with David Gilmour and Nick Mason continuing as Pink Floyd while Waters pursued his own projects.\n\nWaters’ solo career expanded the same concerns that shaped his work in the band: anti-war themes, political critique, and the psychological cost of power and propaganda. He also revived The Wall in major live productions, turning the piece into an ongoing, evolving performance statement.\n\nAlthough Waters has periodically shared stages and gestures of reconciliation, his relationship to Pink Floyd’s later era remains complicated. Still, his imprint is unmistakable: he helped transform Pink Floyd into one of rock’s most conceptually focused bands, and his writing remains a central reason their albums are discussed as modern myths rather than mere recordings."
+          }
+        },
+        {
+          "Name": "David Gilmour",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1967–1994, 2005, 2022",
+          "Overview": "Joined during the band’s transition out of the Barrett era and became a signature lead guitarist and vocalist; later led the post-Waters era of Pink Floyd through the band’s final studio albums and tours.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-david-gilmour",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "David Gilmour",
+            "FullName": "David Jon Gilmour",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1946-03-06",
+              "Place": "Cambridge, England"
+            },
+            "ActiveYears": [
+              "1962–present"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "Meddle",
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "The Wall",
+              "The Division Bell"
+            ],
+            "KeySongs": [
+              "Comfortably Numb",
+              "Shine On You Crazy Diamond",
+              "Wish You Were Here",
+              "Time",
+              "High Hopes"
+            ],
+            "Achievements": [
+              "One of rock’s most influential lead guitarists, known for melodic phrasing and signature tone.",
+              "Led Pink Floyd’s late-era studio and touring period after 1985, keeping the band active into the 1990s."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.davidgilmour.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/David_Gilmour"
+            },
+            "Biography": "David Jon Gilmour (born March 6, 1946, in Cambridge) joined Pink Floyd at the end of 1967 and became one of the defining guitar voices in rock—recognized for melodic lead lines, expressive bends, and a tone that could feel both intimate and monumental.\n\nGilmour entered the band during a crisis, brought in as Syd Barrett’s behavior and reliability deteriorated. His arrival stabilized Pink Floyd’s live performances and helped the group transition away from the Barrett-centered pop-psychedelic model toward extended compositions shaped by collective playing and studio experimentation.\n\nOver the next decade, Gilmour’s guitar became a primary emotional narrator in Pink Floyd’s music. Whether delivering slow-burn atmospherics or searing climaxes, he helped translate the band’s conceptual aims into visceral feeling, making the instrument as central as the lyrics to the band’s identity.\n\nGilmour also contributed vocals that became essential to the band’s signature sound, often providing a warmer, more human counterweight to Roger Waters’ sharper storytelling. The interplay between their voices—one intimate, one theatrical—helped define the drama of the classic albums.\n\nWhen Waters left in 1985, Gilmour took the practical and creative lead in continuing Pink Floyd. The late-era albums A Momentary Lapse of Reason and The Division Bell leaned into mood, musicianship, and expansive production, and the resulting tours reaffirmed Pink Floyd as a stadium-scale live institution.\n\nGilmour’s leadership didn’t erase the band’s internal history, but it did preserve a version of Pink Floyd built around sound and atmosphere. His focus on performance, tone, and arrangement kept the group’s identity recognizable even as its songwriting balance shifted.\n\nAlongside band work, Gilmour maintained a solo career and a reputation as a producer and collaborator, carrying his guitar-first sensibility into projects beyond Pink Floyd’s specific conceptual framework.\n\nIn 2005, Gilmour reunited with Waters, Mason, and Wright for a four-song Live 8 set in London—an event widely treated as the public closing chapter for the classic lineup. The performance highlighted how instantly the band’s chemistry returned when the core pieces were together.\n\nGilmour’s legacy within Pink Floyd is both technical and emotional: his playing turned slow-building arrangements into catharsis, and his tone—unmistakable within a few notes—remains one of the most identifiable sounds in modern rock."
+          }
+        },
+        {
+          "Name": "Richard Wright",
+          "Roles": [
+            "keyboards",
+            "vocals",
+            "songwriting"
+          ],
+          "Years": "1965–1979, 1987–1994, 2005",
+          "Overview": "Founding keyboardist whose atmospheric chordwork and textures became core to Pink Floyd’s sound; contributed major musical ideas across the classic albums and returned to a central role in the band’s 1990s era.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-richard-wright",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Richard Wright",
+            "FullName": "Richard William Wright",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Psychedelic rock"
+            ],
+            "Birth": {
+              "Date": "1943-07-28",
+              "Place": "Hatch End, Middlesex, England"
+            },
+            "ActiveYears": [
+              "1964–2008"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "The Wall",
+              "The Division Bell"
+            ],
+            "KeySongs": [
+              "The Great Gig in the Sky",
+              "Us and Them",
+              "Echoes",
+              "Shine On You Crazy Diamond"
+            ],
+            "Achievements": [
+              "Key architect of Pink Floyd’s atmospheric keyboard sound across the band’s most influential albums.",
+              "Returned to the band’s public spotlight with the 2005 Live 8 reunion performance."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://rickwright.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Richard_Wright_(musician)"
+            },
+            "Biography": "Richard William “Rick” Wright (born July 28, 1943, in Hatch End, Middlesex) was Pink Floyd’s primary keyboard architect and one of the band’s founding members, responsible for much of the group’s signature sense of space—soft organ drones, electric‑piano color, and synthesizer atmosphere that turned songs into environments.\n\nWright met Roger Waters and Nick Mason while studying architecture in London, and his harmonic sensibility quickly became essential to the band’s early sound. In the Barrett era he contributed vocals and organ textures that balanced the frontman’s wild angles with a calmer, dreamlike foundation.\n\nAs Pink Floyd moved into longer forms, Wright’s playing became a guiding thread: sustained chords, patient arpeggios, and timbral shifts that made the band’s music feel cinematic rather than simply riff‑based. His touch helped bridge the group from club psychedelia into the wide-screen mode of the 1970s.\n\nWright also contributed key writing and musical ideas across the classic run. His compositional instincts and chord choices are woven into central moments of The Dark Side of the Moon and Wish You Were Here, where mood and texture are as important as lyric and melody.\n\nDuring the intense creation of The Wall, internal tensions escalated and Wright’s role became a flashpoint. He left the band in 1979, yet returned immediately as a paid musician for The Wall live shows—an unusual arrangement that underscored both the conflict inside the group and how necessary his playing was on stage.\n\nAfter Pink Floyd’s mid‑’80s split with Roger Waters, Wright gradually returned to a full role in the David Gilmour–led version of the band. His keyboards and vocals became a core part of the late‑era sound, culminating in The Division Bell, where communication and reconciliation themes matched the music’s reflective tone.\n\nWright’s contributions were never about dominating the spotlight; they were about shaping the air around the notes. His keyboard layers, vocal blends, and sense of harmonic color are among the reasons Pink Floyd songs can feel simultaneously intimate and enormous.\n\nOutside the band, Wright released solo work and collaborated with other musicians, but his identity remained closely tied to the sonic world he helped build inside Pink Floyd—particularly the way the group treated timbre and space as emotional storytelling tools.\n\nWright rejoined the classic lineup for the Live 8 performance in 2005, a widely watched reunion that emphasized how central his presence was to Pink Floyd’s sound. He died on September 15, 2008, in London, England, from lung cancer, leaving behind a legacy of textures that are instantly recognizable and still deeply influential.",
+            "Death": {
+              "Date": "2008-09-15",
+              "Place": "London, England",
+              "Cause": "Lung cancer"
+            }
+          }
+        },
+        {
+          "Name": "Nick Mason",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1965–1994, 2005, 2022",
+          "Overview": "Co-founder and drummer on every Pink Floyd studio album; a steady rhythmic anchor through the band’s stylistic changes and a key custodian of the group’s history in later decades.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-nick-mason",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Nick Mason",
+            "FullName": "Nicholas Berkeley Mason",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Author",
+              "Producer"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Psychedelic rock"
+            ],
+            "Birth": {
+              "Date": "1944-01-27",
+              "Place": "Birmingham, England"
+            },
+            "ActiveYears": [
+              "1964–present"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Nick Mason's Saucerful of Secrets"
+            ],
+            "KeyAlbums": [
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "Animals",
+              "The Wall",
+              "The Division Bell"
+            ],
+            "KeySongs": [
+              "Money",
+              "Time",
+              "Echoes",
+              "Shine On You Crazy Diamond",
+              "Comfortably Numb"
+            ],
+            "Achievements": [
+              "Only member to appear on every Pink Floyd studio album.",
+              "Fronts Nick Mason’s Saucerful of Secrets, a touring project centered on early Pink Floyd repertoire."
+            ],
+            "ExternalLinks": {
+              "Nick Mason’s Saucerful of Secrets": "https://www.thesaucerfulofsecrets.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Nick_Mason"
+            },
+            "Biography": "Nicholas Berkeley “Nick” Mason (born January 27, 1944, in Birmingham) is Pink Floyd’s drummer and the only musician to appear on every Pink Floyd studio album, anchoring the band’s long evolution from London club psychedelia to global concept-album giants.\n\nMason met Roger Waters and Rick Wright while studying architecture in London, and the early group’s shifting names and lineups eventually coalesced into Pink Floyd. From the start, Mason’s drumming favored feel and texture over flash, supporting the band’s preference for atmosphere and gradual build.\n\nDuring the Syd Barrett period, Mason helped drive the band’s improvisational live approach—extended grooves, sudden changes, and a willingness to treat performance as sonic experimentation. As Pink Floyd grew more ambitious, his playing adapted to longer forms where patience mattered as much as intensity.\n\nAcross the classic 1970s albums, Mason’s role was often to make complex structures feel inevitable. He provided the steady framework that allowed keyboards, guitars, and sound effects to layer into immersive environments, and his sense of pacing helped make long tracks feel narrative rather than merely extended.\n\nMason also became a public ambassador for Pink Floyd’s history. His perspective—practical, detail-oriented, and grounded in the realities of making the work—has been important in how the band’s story is told, both in interviews and in his memoir Inside Out: A Personal History of Pink Floyd.\n\nAfter Roger Waters’ departure, Mason continued with David Gilmour as Pink Floyd moved into its late era, supporting the large-scale tours that kept the band’s live identity prominent. Even when studio lineups expanded, his presence remained a symbolic continuity marker for what “Pink Floyd” meant.\n\nIn the decades after the band’s main run, Mason stayed connected to the catalog and the community around it, participating in archival projects and public events that kept the music in view for new audiences.\n\nHe also created Nick Mason’s Saucerful of Secrets, a touring project focused on early Pink Floyd material, highlighting the experimental, spacey repertoire that predates the band’s biggest commercial era and re-centering the group’s psychedelic roots on stage.\n\nMason’s contribution is ultimately about cohesion. Pink Floyd’s music often relies on the slow accumulation of detail and pressure, and his ability to hold a steady pulse while the world around it changes is a major reason the band’s grand, cinematic approach works as well as it does."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Bob Klose",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1964–1965 (Tea Set / pre–Pink Floyd)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "1965: Their First Recordings (archival release)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Syd Barrett (as lead guitarist)",
+          "Overview": "The group’s earliest lead guitarist during the Tea Set/Sigma 6 period. He left in mid‑1965 as the band’s direction shifted toward psychedelia and he returned to studies and later photography."
+        },
+        {
+          "Name": "Dick Parry",
+          "Roles": [
+            "saxophone",
+            "keyboards (touring)"
+          ],
+          "Years": "1973–1977, 1994 (touring/recording appearances)",
+          "Instruments": [
+            "Saxophone"
+          ],
+          "Albums": [
+            "The Dark Side of the Moon",
+            "Wish You Were Here",
+            "The Division Bell"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A saxophonist closely associated with Pink Floyd’s classic sound, invited by David Gilmour to add the signature sax lines heard on key studio albums and on major tours."
+        },
+        {
+          "Name": "Snowy White",
+          "Roles": [
+            "guitar (touring)"
+          ],
+          "Years": "1977",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Animals (touring era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A touring guitarist added for the 1977 In the Flesh tour to support the Animals material on stage. He is especially associated with live guitar parts from that period and later work connected to Floyd members."
+        },
+        {
+          "Name": "Guy Pratt",
+          "Roles": [
+            "bass (touring/studio)",
+            "backing vocals"
+          ],
+          "Years": "1987–1994, 2005 (touring/studio appearances)",
+          "Instruments": [
+            "Bass guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "The Division Bell",
+            "The Endless River",
+            "Delicate Sound of Thunder (live)",
+            "Pulse (live)"
+          ],
+          "Replacing": "Roger Waters (as touring/studio bassist)",
+          "ReplacedBy": "",
+          "Overview": "A prominent post‑Waters bassist who joined the live band in the late 1980s and later played on The Division Bell and The Endless River, becoming a key part of Pink Floyd’s late-era touring sound."
+        },
+        {
+          "Name": "Jon Carin",
+          "Roles": [
+            "keyboards",
+            "programming",
+            "backing vocals (touring)"
+          ],
+          "Years": "1988–1994 (touring), 1994 (studio contributions)",
+          "Instruments": [
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Delicate Sound of Thunder (live)",
+            "The Division Bell",
+            "Pulse (live)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A keyboardist and programmer who became part of Pink Floyd’s late‑era live setup, contributing to the band’s stage arrangements and also working on The Division Bell."
+        },
+        {
+          "Name": "Durga McBroom",
+          "Roles": [
+            "backing vocals"
+          ],
+          "Years": "1987–1994 (touring)",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Delicate Sound of Thunder (live)",
+            "Pulse (live)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A long-running backing vocalist in Pink Floyd’s late-era touring band, appearing consistently from the A Momentary Lapse of Reason tour through the end of The Division Bell tour."
+        }
+      ]
     },
     {
       "ArtistID": "platinum-blonde",
