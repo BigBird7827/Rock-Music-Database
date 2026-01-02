@@ -109,14 +109,32 @@
       background: linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,0));
     }
     .count{font-size:13px;color:rgba(242,242,247,.75)}
-    .spark{display:flex;gap:4px;align-items:flex-end;opacity:.85}
-    .bar{width:5px;border-radius:6px;background:linear-gradient(180deg, rgba(255,228,77,.95), rgba(255,53,94,.95));box-shadow:0 10px 24px rgba(0,0,0,.35)}
-    .bar:nth-child(1){height:10px}
-    .bar:nth-child(2){height:16px}
-    .bar:nth-child(3){height:12px}
-    .bar:nth-child(4){height:18px}
-
-    .list{padding:10px;overflow:auto;height:100%}
+    .spark{display:flex;gap:3px;align-items:flex-end;opacity:.90;height:22px}
+        .bar{
+          width:4px;
+          height:20px;
+          border-radius:6px;
+          background:linear-gradient(180deg, rgba(255,228,77,.95), rgba(255,53,94,.95));
+          box-shadow:0 10px 24px rgba(0,0,0,.35);
+          transform-origin: bottom;
+          transform: scaleY(.25);
+          animation: eq 1.15s ease-in-out infinite;
+        }
+        @keyframes eq{
+          0%,100%{transform:scaleY(.18);opacity:.65}
+          50%{transform:scaleY(1);opacity:1}
+        }
+        .bar:nth-child(3n){animation-duration:.95s}
+        .bar:nth-child(4n){animation-duration:1.25s}
+        .bar:nth-child(5n){animation-duration:1.05s}
+        .bar:nth-child(2n){animation-delay:-.35s}
+        .bar:nth-child(3n+1){animation-delay:-.55s}
+        .bar:nth-child(4n+2){animation-delay:-.15s}
+        @media (prefers-reduced-motion: reduce){
+          .bar{animation:none;transform:scaleY(.6);opacity:.85}
+        }
+    
+.list{padding:10px;overflow:auto;height:100%}
     .item{
       display:flex;align-items:center;justify-content:space-between;gap:10px;
       padding:12px 12px;
@@ -482,8 +500,7 @@ display:none;
         <div class="listHeader">
           <div class="count" id="count">Loading…</div>
           <div class="spark" aria-hidden="true">
-            <div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div>
-          </div>
+            <div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
         </div>
         <div class="list" id="list"></div>
       </section>
