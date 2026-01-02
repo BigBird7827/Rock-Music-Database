@@ -1208,510 +1208,602 @@
       }
     },
     {
-      "ArtistID": "ac-dc",
+      "ArtistID": "acdc",
       "Name": "AC/DC",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Sydney",
+        "Region": "New South Wales",
+        "Country": "Australia"
       },
       "YearsActive": [
-        ""
+        "1973–present"
       ],
-      "Overview": "",
+      "Genres": [
+        "hard rock",
+        "blues rock",
+        "rock and roll"
+      ],
+      "Labels": [
+        "Albert",
+        "Atlantic",
+        "Atco",
+        "Columbia"
+      ],
+      "Overview": "AC/DC is an Australian rock band formed in Sydney in 1973, built around the Young brothers—lead guitarist Angus and rhythm guitarist Malcolm—whose stripped‑down, hard‑driving approach helped define stadium rock. The band’s identity is direct: riffs that hit fast, grooves that don’t let up, and choruses designed to be shouted back in unison. AC/DC has always described its music simply as “rock and roll,” and that blunt clarity is exactly what made them last.\n\nTheir classic era began with singer Bon Scott, whose swagger and humor gave early albums a dangerous, streetwise charm, and then surged to a new level with Brian Johnson after Scott’s death in 1980. Instead of reinventing the sound, the band doubled down on it, delivering one of rock’s most famous comebacks with Back in Black and continuing to fill arenas with a catalogue that rarely needs deep cuts to feel complete.\n\nAC/DC’s appeal is the discipline behind the noise. Malcolm’s rhythm parts are the engine—tight, relentless, and perfectly spaced—while Angus’ lead playing is all bite, bounce, and showmanship. With a rhythm section that values pocket over flash, the songs stay physical and uncomplicated, even when the production is polished. Over decades of lineup changes and pauses, that core formula has remained intact.\n\nFrom “Highway to Hell” and “Back in Black” to “Thunderstruck,” AC/DC became a universal shorthand for high-voltage rock: instantly recognizable, endlessly replayable, and built to sound huge in a room full of people. Even in later years—with new touring musicians and a renewed spotlight around the Power Up era—the band’s public promise stayed the same: loud guitars, simple rules, and a set list that feels like a greatest‑hits parade.",
+      "NotableAlbums": [
+        {
+          "Title": "High Voltage",
+          "Year": "1975",
+          "Notes": "Australian debut that established the early high-energy blueprint and launched the band’s national breakout."
+        },
+        {
+          "Title": "Let There Be Rock",
+          "Year": "1977",
+          "Notes": "A harder-edged statement that pushed the band toward the lean, aggressive sound that defined their late-’70s rise."
+        },
+        {
+          "Title": "Highway to Hell",
+          "Year": "1979",
+          "Notes": "International breakthrough and the final studio album with Bon Scott; a landmark of riff-driven hard rock."
+        },
+        {
+          "Title": "Back in Black",
+          "Year": "1980",
+          "Notes": "A career-defining comeback and tribute after Scott’s death; one of rock’s most enduring and best-selling albums."
+        },
+        {
+          "Title": "The Razors Edge",
+          "Year": "1990",
+          "Notes": "A major modern-era resurgence powered by “Thunderstruck,” reconnecting the band to a new generation of rock radio."
+        },
+        {
+          "Title": "Power Up",
+          "Year": "2020",
+          "Notes": "A late-career return built as a tribute to Malcolm Young, reaffirming the classic formula with renewed energy."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "T.N.T.",
+          "Year": "1975",
+          "Notes": "An early anthem built for call-and-response, capturing the band’s swagger and simplicity."
+        },
+        {
+          "Title": "Whole Lotta Rosie",
+          "Year": "1977",
+          "Notes": "A signature Bon Scott-era track: heavy groove, huge hook, and a definitive Angus lead."
+        },
+        {
+          "Title": "Highway to Hell",
+          "Year": "1979",
+          "Notes": "A universal rock chant that became the band’s most famous pre-1980 anthem."
+        },
+        {
+          "Title": "Back in Black",
+          "Year": "1980",
+          "Notes": "A riff monument—economical, instantly recognizable, and central to the band’s global identity."
+        },
+        {
+          "Title": "You Shook Me All Night Long",
+          "Year": "1980",
+          "Notes": "A crossover classic that paired hard-rock bite with perfect pop structure."
+        },
+        {
+          "Title": "Hells Bells",
+          "Year": "1980",
+          "Notes": "A slow-build opener that set the tone for the band’s post-Scott era with theatrical weight and massive groove."
+        },
+        {
+          "Title": "Thunderstruck",
+          "Year": "1990",
+          "Notes": "A late-era signature with a lightning-strike guitar figure that became a stadium and sports staple."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2003",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "AC/DC was inducted into the Rock & Roll Hall of Fame, cementing their status as one of the defining hard-rock bands of the modern era."
+        },
+        {
+          "Year": "1980",
+          "Title": "Back in Black becomes a global blockbuster",
+          "Details": "The album’s enduring popularity turned it into one of the best-selling records in history and a permanent cornerstone of classic rock."
+        },
+        {
+          "Year": "1970s–present",
+          "Title": "Decades of arena-level touring and cultural ubiquity",
+          "Details": "AC/DC’s catalogue became a universal shorthand for high-voltage rock, with songs used constantly in sports, film, and broadcast settings."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Sydney in 1973 by brothers Angus and Malcolm Young, with the band’s identity anchored in riff-first songwriting and a relentless groove.",
+        "The band’s classic catalog spans two iconic vocal eras: Bon Scott (1974–1980) and Brian Johnson (1980–present).",
+        "AC/DC’s sound is intentionally consistent—built on simple structures, huge choruses, and a tight rhythm engine rather than stylistic reinvention."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.acdc.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/AC/DC",
+        "Discography": "https://en.wikipedia.org/wiki/AC/DC_discography"
+      },
       "CoreMembers": [
         {
-          "Name": "",
+          "Name": "Angus Young",
           "Roles": [
-            "",
-            ""
+            "founding member",
+            "lead guitar",
+            "songwriter"
           ],
-          "Instruments": [
-            ""
-          ],
-          "Years": "",
-          "YearsActive": "",
-          "Overview": "",
+          "Years": "1973–present",
+          "Overview": "Founding lead guitarist and the band’s defining onstage icon, known for riff-based leads, biting tone, and a performance style built for arenas.",
           "Bio": {
-            "MemberName": "",
+            "BioID": "acdc-angus-young",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Angus Young",
+            "FullName": "Angus McKinnon Young",
+            "PrimaryInstruments": [
+              "guitar"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock",
+              "rock and roll"
+            ],
             "Birth": {
-              "Date": "",
-              "Place": ""
+              "Date": "1955-03-31",
+              "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
             },
-            "Nationality": "",
-            "Roles": "",
-            "Instruments": "",
-            "Overview": "",
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "ActiveYears": "1973–present",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Highway to Hell",
+              "Back in Black",
+              "The Razors Edge",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Back in Black",
+              "Thunderstruck",
+              "Highway to Hell"
+            ],
+            "Achievements": [
+              "Co‑founded AC/DC and became one of rock’s most recognizable lead guitarists through his tone, phrasing, and onstage persona.",
+              "Helped anchor multiple era-defining albums and a catalogue that became a global template for riff-driven hard rock."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Angus_Young",
+              "Official Site": "https://www.acdc.com/"
+            },
+            "Biography": "Angus Young is the face of AC/DC: the lead guitarist whose playing and stage presence turned the band into a global symbol of high-voltage rock. Born in Scotland and raised in Australia, he brought a restless, aggressive lead style that feels part blues tradition, part cartoon-energy sprint—sharp bends, biting vibrato, and riffs that punch through any mix.\n\nFrom the start, Angus’ job in AC/DC wasn’t to complicate the music but to electrify it. The band’s songs are built on simple, hard rhythms, and Angus adds the sparks—hooks that double as riffs, solos that sing without drifting into showy excess, and fills that keep the momentum climbing instead of pausing for applause.\n\nOne of his defining choices was committing to a persona that matched the music’s intensity. The schoolboy-uniform look, the duckwalk, the wild pacing at the lip of the stage—none of it works unless the playing is equally committed. Angus’ performance style is physical, but it’s disciplined: he hits the parts the same way night after night because the riffs are the product.\n\nAngus’ partnership with Malcolm Young is central to the AC/DC story. Malcolm created the rhythmic “grid” that makes the songs feel unstoppable, and Angus carved leads on top of it like a blade. The contrast is the secret: Malcolm’s locked rhythm gives Angus the freedom to sound reckless while the band remains tight.\n\nDuring the Bon Scott years, Angus helped build a catalogue that felt dangerous and funny at the same time—sleazy storytelling, streetwise swagger, and riffs that sounded like engines. When Scott died in 1980, the band faced an existential moment, and Angus responded by doing what he always does: play harder, not different.\n\nBack in Black became the proof that AC/DC’s identity was bigger than any single era. Angus’ tone on that record—crisp, bright, and vicious—helped define the sound of hard rock for decades. Later classics like “Thunderstruck” showed he could still write a riff that feels like a lightning bolt, even after the band had already become a monument.\n\nAfter Malcolm stepped away due to illness and later died in 2017, Angus carried the band’s legacy with a clear mission: keep the rhythm-first spirit intact. That meant relying on the same core values—tight riffs, straightforward song structures, and a sound that stays recognizably AC/DC even as personnel shifts around it.\n\nAngus’ legacy is that he made lead guitar feel essential again: not as decoration, but as the main voice of the song. In AC/DC, the riff is the headline and the solo is the punctuation, and Angus has spent a lifetime proving that a few right notes—played with total conviction—can fill a stadium."
           }
         },
         {
-          "Name": "",
+          "Name": "Malcolm Young",
           "Roles": [
-            "",
-            "",
-            ""
+            "founding member",
+            "rhythm guitar",
+            "songwriter",
+            "backing vocals"
           ],
-          "Instruments": [
-            ""
-          ],
-          "Years": "",
-          "YearsActive": "",
-          "Overview": "",
+          "Years": "1973–2014",
+          "Overview": "Co‑founder and rhythmic architect whose percussive, disciplined rhythm style defined AC/DC’s engine and songwriting approach.",
           "Bio": {
-            "MemberName": "",
+            "BioID": "acdc-malcolm-young",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Malcolm Young",
+            "FullName": "Malcolm Mitchell Young",
+            "PrimaryInstruments": [
+              "guitar"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock",
+              "rock and roll"
+            ],
             "Birth": {
-              "Date": "",
-              "Place": ""
+              "Date": "1953-01-06",
+              "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
             },
+            "ActiveYears": "1973–2014",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Let There Be Rock",
+              "Highway to Hell",
+              "Back in Black",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Highway to Hell",
+              "Back in Black",
+              "Shoot to Thrill"
+            ],
+            "Achievements": [
+              "Co‑founded AC/DC and defined the band’s signature rhythm-guitar engine—tight, percussive, and relentlessly consistent.",
+              "Widely regarded as one of rock’s great rhythm guitarists and a primary architect of AC/DC’s songwriting discipline."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Young",
+              "Official Site": "https://www.acdc.com/"
+            },
+            "Biography": "Malcolm Young was the rhythmic architect of AC/DC: the co‑founder whose right-hand attack and ruthless sense of timing made the band’s music feel like a machine with a human heartbeat. While Angus became the visual icon, Malcolm was the internal engine—building songs from the rhythm out and insisting that every part earn its place.\n\nHis playing is often described as “simple,” but it’s the hardest kind of simple: perfectly spaced chords, percussive muting, and a groove that never drifts. Malcolm’s rhythm guitar functions almost like a drum kit—locking with the snare and kick, creating a grid that makes the whole band sound heavier than the sum of its parts.\n\nAs a songwriter, Malcolm emphasized momentum and clarity. AC/DC songs rarely wander; they build, they hit, they repeat the hook until the room becomes the hook. That structure isn’t accidental—it’s Malcolm’s discipline, the insistence that riffs should be memorable, choruses should be obvious, and arrangements should leave room for the vocal to land.\n\nDuring the Bon Scott era, Malcolm helped shape a sound that felt raw without being sloppy. The early records have swagger, but the band is always tight, and that tightness comes from the rhythm guitar. If the riff is a truck, Malcolm is the axle.\n\nAfter Bon Scott’s death, Malcolm’s steadiness became even more important. Back in Black is often celebrated for its riffs and vocals, but its real miracle is restraint: every part is pared down to essentials, and Malcolm’s rhythm patterns keep the songs moving like a steady pulse under a massive chorus.\n\nMalcolm’s leadership was famously quiet but absolute. He wasn’t chasing spotlight; he was chasing the right groove. In rehearsals and recordings, he was known for focusing on feel—tiny adjustments that listeners may not articulate but immediately sense when the band is “locked.”\n\nIn 2014, Malcolm stepped away as his health declined, a turning point that underscored how central he was to the AC/DC sound. Even when others filled the rhythm-guitar role, the band’s mission remained to honor Malcolm’s approach: tight chords, no wasted motion, rhythm first.\n\nMalcolm died in 2017, but his work continues to define AC/DC’s identity. If Angus is the lightning, Malcolm is the power station—an enduring lesson that the most important rock instrument can be the one that never stops pushing the song forward.",
             "Death": {
-              "Date": "",
-              "Place": ""
-            },
-            "Nationality": "",
-            "Roles": "",
-            "Instruments": "",
-            "Overview": "",
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+              "Date": "2017-11-18",
+              "Place": "Sydney, New South Wales, Australia",
+              "Cause": "Dementia-related complications"
+            }
           }
         },
         {
-          "Name": "",
+          "Name": "Bon Scott",
           "Roles": [
-            "",
-            ""
+            "lead vocals",
+            "songwriter"
           ],
-          "Instruments": [
-            ""
-          ],
-          "Years": "",
-          "YearsActive": "",
-          "Overview": "",
+          "Years": "1974–1980",
+          "Overview": "Original star vocalist whose swagger, humor, and rasping delivery defined AC/DC’s breakout era and early identity.",
           "Bio": {
-            "MemberName": "",
+            "BioID": "acdc-bon-scott",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Bon Scott",
+            "FullName": "Ronald Belford \"Bon\" Scott",
+            "PrimaryInstruments": [
+              "vocals"
+            ],
+            "Occupations": [
+              "singer",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "blues rock",
+              "rock and roll"
+            ],
             "Birth": {
-              "Date": "",
-              "Place": ""
+              "Date": "1946-07-09",
+              "Place": "Forfar, Scotland (raised in Australia)"
             },
+            "ActiveYears": "1974–1980",
+            "AssociatedActs": [
+              "AC/DC",
+              "Fraternity",
+              "The Valentines"
+            ],
+            "KeyAlbums": [
+              "High Voltage",
+              "Let There Be Rock",
+              "Highway to Hell"
+            ],
+            "KeySongs": [
+              "Highway to Hell",
+              "Whole Lotta Rosie",
+              "T.N.T."
+            ],
+            "Achievements": [
+              "Fronted AC/DC’s breakout era and helped define the band’s early image: funny, filthy, fearless, and unmistakably human.",
+              "Left a short but towering catalogue that set the tone for AC/DC’s most dangerous and charismatic period."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bon_Scott"
+            },
+            "Biography": "Bon Scott was AC/DC’s original star vocalist—the voice of the band’s most unruly era and one of rock’s most charismatic frontmen. He sang with a rasp that sounded lived‑in, but the real weapon was his personality: he could deliver menace, humor, and swagger in the same line without blinking.\n\nScott joined AC/DC in 1974, replacing early singer Dave Evans and immediately shifting the band’s center of gravity. Where the early material leaned more glam and teen‑rock, Scott brought streetwise confidence and a lyrics-first attitude that matched the Young brothers’ riffs. The band began to sound like a gang with a groove.\n\nHis greatest skill was making a hard-rock song feel like a story told at the bar—fast, dirty, and packed with punchlines. Even when the lyrics were outrageous, the delivery felt honest, and that honesty made audiences trust him. He wasn’t acting tough; he sounded like he was having a great time being tough.\n\nOn albums like Let There Be Rock and Powerage, Scott’s vocals are all bite and bounce. He could ride a riff like a surfboard, leaning into the rhythm and letting the band’s swing do the heavy lifting. The result is music that feels dangerous but also weirdly joyful—hard rock that laughs while it punches.\n\nHighway to Hell became the peak of the Scott era, capturing the band at its most concise and lethal. The title track is a perfect example: a simple hook that becomes a chant, carried by Scott’s ability to sound both playful and threatening in the same breath.\n\nScott died in February 1980, just as the band was poised to become a global stadium institution. His death could have ended AC/DC, and for many bands it would have. Instead, it became the moment that forced AC/DC to define what was essential—and then build forward without pretending Scott could be replaced.\n\nThe band’s later success didn’t erase Scott; it amplified him. Fans continued to treat the Scott catalogue as a sacred core, and songs like “T.N.T.,” “Whole Lotta Rosie,” and “Highway to Hell” stayed in the live set as permanent proof of where the band came from.\n\nScott’s legacy is that he made rock and roll feel dirty and fun again. He wasn’t polished, and he didn’t want to be. In AC/DC, he helped turn riffs into attitude and attitude into a world, leaving a voice that still sounds like trouble every time it comes through the speakers.",
             "Death": {
-              "Date": "",
-              "Place": "",
-              "Cause": ""
-            },
-            "Nationality": "",
-            "Roles": "",
-            "Instruments": "",
-            "Overview": "",
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+              "Date": "1980-02-19",
+              "Place": "London, England",
+              "Cause": "Acute alcohol poisoning (officially recorded as 'acute alcohol poisoning')"
+            }
           }
         },
         {
-          "Name": "",
+          "Name": "Brian Johnson",
           "Roles": [
-            ""
+            "lead vocals"
           ],
-          "Instruments": [
-            ""
-          ],
-          "Years": "",
-          "YearsActive": "",
-          "Overview": "",
+          "Years": "1980–present",
+          "Overview": "Lead vocalist who fronted AC/DC’s most famous comeback and helped carry the band through multiple eras of stadium dominance.",
           "Bio": {
-            "MemberName": "",
+            "BioID": "acdc-brian-johnson",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Brian Johnson",
+            "FullName": "Brian Francis Johnson",
+            "PrimaryInstruments": [
+              "vocals"
+            ],
+            "Occupations": [
+              "singer",
+              "songwriter"
+            ],
+            "Genres": [
+              "hard rock",
+              "rock and roll"
+            ],
             "Birth": {
-              "Date": "",
-              "Place": ""
+              "Date": "1947-10-05",
+              "Place": "Dunston, Gateshead, England"
             },
-            "Nationality": "",
-            "Roles": "",
-            "Instruments": "",
-            "Overview": "",
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "ActiveYears": "1980–present",
+            "AssociatedActs": [
+              "AC/DC",
+              "Geordie"
+            ],
+            "KeyAlbums": [
+              "Back in Black",
+              "For Those About to Rock We Salute You",
+              "The Razors Edge",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Back in Black",
+              "You Shook Me All Night Long",
+              "Thunderstruck"
+            ],
+            "Achievements": [
+              "Joined AC/DC in 1980 and fronted one of rock’s most famous comeback albums, Back in Black.",
+              "Helped lead the band through multiple eras of success, from early-’80s stadium dominance to later global touring peaks."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Johnson"
+            },
+            "Biography": "Brian Johnson is the AC/DC vocalist who took the most impossible job in hard rock and made it work: following Bon Scott after Scott’s death in 1980. Johnson’s voice is a rasping, high‑energy bark—less sly than Scott, more sheer force—and that change helped AC/DC pivot from streetwise menace to pure stadium power without losing intensity.\n\nBefore AC/DC, Johnson was best known for fronting the British band Geordie, where he developed a loud, high-range style built for hard riffs. That background mattered because AC/DC didn’t need a singer who could sound like Scott; they needed a singer who could hit over the riffs and keep the band’s momentum aggressive and uncomplicated.\n\nJohnson joined in 1980 and immediately recorded Back in Black, an album that became both a tribute and a rebirth. The record works because Johnson never sounds tentative. He attacks the songs like he belongs there, and the band responds with riffs that feel sharpened and focused.\n\nIn the early 1980s, Johnson helped AC/DC become a definitive arena band. For Those About to Rock We Salute You and the tours that followed established the Johnson-era identity: bigger choruses, massive hooks, and a vocal that punches through the mix like a siren.\n\nJohnson’s strengths are stamina and commitment. AC/DC songs demand repetition—choruses sung again and again until they feel inevitable—and he leans into that demand. His phrasing is designed for a crowd: clear, rhythmic, and easy to chant back, even at the highest volume.\n\nOver the decades, Johnson navigated the band through changing production styles without changing the core. Whether the guitars were polished or raw, the job remained the same: deliver the hook, keep the energy high, and sound like the band is having a great time blowing the roof off.\n\nHealth issues forced Johnson off the road in 2016, creating another uncertain chapter. His return to the band in the Power Up era showed how strongly his voice is tied to the modern AC/DC identity. For many listeners, the Johnson sound is the “second half” of AC/DC’s legend.\n\nJohnson’s legacy is resilience. He didn’t replace Bon Scott; he helped AC/DC survive the loss and become even larger. In doing so, he turned what could have been an ending into one of rock’s most enduring continuations."
           }
         },
         {
-          "Name": "",
+          "Name": "Phil Rudd",
           "Roles": [
-            ""
+            "drums"
           ],
-          "Instruments": [
-            ""
-          ],
-          "Years": "",
-          "YearsActive": "",
-          "Overview": "",
+          "Years": "1975–1983, 1994–2015, 2018–present",
+          "Overview": "Classic-era drummer known for heavy pocket and restraint—playing exactly what the riffs require to feel huge.",
           "Bio": {
-            "MemberName": "",
+            "BioID": "acdc-phil-rudd",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Phil Rudd",
+            "FullName": "Phillip Hugh Norman Witschke Rudzevecuis",
+            "PrimaryInstruments": [
+              "drums"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "hard rock",
+              "rock and roll"
+            ],
             "Birth": {
-              "Date": "",
-              "Place": ""
+              "Date": "1954-05-19",
+              "Place": "Melbourne, Victoria, Australia"
             },
-            "Nationality": "",
-            "Roles": "",
-            "Instruments": "",
-            "Overview": "",
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "ActiveYears": "1975–present",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Highway to Hell",
+              "Back in Black",
+              "The Razors Edge",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "Back in Black",
+              "Highway to Hell",
+              "Thunderstruck"
+            ],
+            "Achievements": [
+              "Served as AC/DC’s classic-era drummer, defining the band’s straight-ahead, pocket-driven feel on their most famous albums.",
+              "Known for restraint and groove—playing exactly what the songs require, no more and no less."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Phil_Rudd"
+            },
+            "Biography": "Phil Rudd is the drummer most associated with AC/DC’s classic feel: steady, heavy, and deceptively simple. His playing is about pocket rather than flourish, giving the band a rhythmic confidence that lets riffs and vocals dominate without ever feeling rushed.\n\nRudd joined AC/DC in the mid‑1970s as the band solidified its definitive lineup and sound. His arrival helped sharpen the groove—less loose, more forceful—and that change became a key ingredient in the band’s late-’70s rise from cult favorite to stadium force.\n\nOn Highway to Hell and Back in Black, Rudd’s drumming is a masterclass in restraint. He hits hard, keeps the beat centered, and leaves space where space is needed. The result is music that feels enormous even though the parts are stripped to essentials.\n\nRudd’s style supports the Young brothers’ guitars in a very specific way: the drums don’t compete with the riff; they underline it. That partnership makes AC/DC feel like a single moving object—guitars, bass, and drums locking into the same blunt forward drive.\n\nHis relationship with the band has included departures and returns, but his imprint on the catalogue is permanent. Many fans can feel the difference between drummers in AC/DC not through speed or complexity, but through how the groove sits—Rudd’s feel is heavy without being stiff.\n\nIn the 1990s resurgence around The Razors Edge, Rudd’s return helped reconnect the band’s modern sound to the classic pocket. The songs are bigger and more polished, but the core remains rhythm-first, with drums that make the riff feel inevitable.\n\nIn later years, Rudd’s role became complicated by offstage issues and touring changes, but the band’s studio work in the Power Up era again highlighted why his drumming matters: it’s the simplest part that often makes the whole machine feel right.\n\nRudd’s legacy is that he made hard rock swing without softening it. In AC/DC, he proved that the most powerful drum part is often the one that never tries to impress—only to drive the song like a hammer."
           }
         },
         {
-          "Name": "",
+          "Name": "Cliff Williams",
           "Roles": [
-            "",
-            ""
+            "bass",
+            "backing vocals"
           ],
-          "Instruments": [
-            "",
-            ""
-          ],
-          "Years": "",
-          "YearsActive": "",
-          "Overview": "",
+          "Years": "1977–2016, 2018–present",
+          "Overview": "Longtime bassist and backing vocalist who helped define the classic lineup’s tight, unified drive on record and on stage.",
           "Bio": {
-            "MemberName": "",
+            "BioID": "acdc-cliff-williams",
+            "ArtistID": "acdc",
+            "ArtistName": "AC/DC",
+            "MemberName": "Cliff Williams",
+            "FullName": "Clifford Williams",
+            "PrimaryInstruments": [
+              "bass",
+              "backing vocals"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "hard rock",
+              "rock and roll"
+            ],
             "Birth": {
-              "Date": "",
-              "Place": ""
+              "Date": "1949-12-14",
+              "Place": "Romford, Essex, England"
             },
-            "Nationality": "",
-            "Roles": "",
-            "Instruments": "",
-            "Overview": "",
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
-          }
-        },
-        {
-          "Name": "",
-          "Roles": [
-            "",
-            ""
-          ],
-          "Instruments": [
-            ""
-          ],
-          "Years": "",
-          "YearsActive": "",
-          "Overview": "",
-          "Bio": {
-            "MemberName": "",
-            "Birth": {
-              "Date": "",
-              "Place": ""
+            "ActiveYears": "1974–present",
+            "AssociatedActs": [
+              "AC/DC"
+            ],
+            "KeyAlbums": [
+              "Powerage",
+              "Highway to Hell",
+              "Back in Black",
+              "Power Up"
+            ],
+            "KeySongs": [
+              "You Shook Me All Night Long",
+              "Hells Bells",
+              "Thunderstruck"
+            ],
+            "Achievements": [
+              "Joined AC/DC in 1977 and became a key part of the band’s most iconic lineup, providing bass foundation and signature backing vocals.",
+              "Helped keep the band’s sound unified live and in the studio through decades of touring and recording."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Cliff_Williams"
             },
-            "Nationality": "",
-            "Roles": "",
-            "Instruments": "",
-            "Overview": "",
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "Biography": "Cliff Williams is AC/DC’s long-running bassist and a crucial part of the band’s famous “classic five” lineup. His role is foundational: lock to the drums, reinforce the guitar rhythm, and keep the music driving forward without distraction.\n\nWilliams joined AC/DC in 1977, arriving as the band was sharpening its sound for the run that would lead to global dominance. His bass playing is supportive and direct—built to make riffs feel heavier and choruses feel more certain rather than to compete for spotlight.\n\nIn AC/DC, the bass is the glue between Malcolm’s rhythm guitar and the kick drum, and Williams excels at that job. He tends to play lines that are simple but perfectly placed, emphasizing the downbeat and the groove so the whole band feels like it’s moving as one unit.\n\nWilliams is also important vocally. His backing vocals are a recognizable part of the AC/DC sound, thickening choruses and giving the band’s shout-along hooks extra mass. Those vocal stacks matter because AC/DC choruses are designed to become communal chants.\n\nAcross albums like Highway to Hell and Back in Black, the band’s power comes from cohesion, and Williams contributes to that cohesion by never stepping out of the pocket. The restraint is the point: the song is always bigger than the part.\n\nWilliams stepped away after the 2016 touring chapter, then returned during the Power Up era, reflecting the band’s pull toward reuniting the most familiar core for major moments. Even when touring personnel changes, his presence remains strongly tied to the “official” AC/DC identity for fans.\n\nLive, Williams’ job is endurance and steadiness. AC/DC sets are long and physically loud, and the bass must stay consistent so the riffs keep landing with the same force. Williams’ playing and vocal support help the band maintain that pressure without fatigue showing in the groove.\n\nWilliams’ legacy is the steady foundation that allows everything else to feel larger. In a band famous for guitars and vocals, his contribution is the part you don’t notice until it’s missing: the bass that keeps the whole machine centered and unstoppable."
           }
         }
       ],
       "NonCoreMembers": [
         {
-          "Name": "",
+          "Name": "Stevie Young",
           "Roles": [
-            ""
+            "rhythm guitar",
+            "backing vocals"
           ],
+          "Years": "2014–present (touring earlier in 1988)",
           "Instruments": [
-            ""
+            "guitar"
           ],
-          "Years": "",
-          "YearsActive": "",
-          "Replacing": [],
-          "ReplacedBy": [
-            ""
+          "Albums": [
+            "Rock or Bust",
+            "Power Up"
           ],
-          "Overview": ""
+          "Replacing": "Malcolm Young",
+          "ReplacedBy": "",
+          "Overview": "Stevie Young is Malcolm Young’s nephew and took over rhythm-guitar duties in the modern era when Malcolm stepped away. He focuses on reproducing the tight, percussive chord attack that defines AC/DC’s engine, prioritizing feel and timing over showy embellishment. His role is continuity—keeping the rhythm spine unmistakably AC/DC."
         },
         {
-          "Name": "",
+          "Name": "Mark Evans",
           "Roles": [
-            ""
+            "bass"
           ],
+          "Years": "1975–1977",
           "Instruments": [
-            ""
+            "bass"
           ],
-          "Years": "",
-          "YearsActive": "",
-          "Replacing": [],
-          "ReplacedBy": [
-            "",
-            "",
-            "",
-            ""
+          "Albums": [
+            "High Voltage",
+            "T.N.T.",
+            "Dirty Deeds Done Dirt Cheap",
+            "Let There Be Rock"
           ],
-          "Overview": ""
+          "Replacing": "",
+          "ReplacedBy": "Cliff Williams",
+          "Overview": "Mark Evans played bass during AC/DC’s early acceleration from local sensation to international contender. He contributed to key mid‑’70s records that solidified the band’s lean, aggressive direction. His era bridges the raw debut period and the later classic lineup."
         },
         {
-          "Name": "",
+          "Name": "Dave Evans",
           "Roles": [
-            ""
+            "lead vocals"
           ],
+          "Years": "1973–1974",
           "Instruments": [
-            ""
+            "vocals"
           ],
-          "Years": "",
-          "YearsActive": "",
-          "Replacing": [],
-          "ReplacedBy": [
-            "",
-            "",
-            ""
+          "Albums": [
+            "\"Can I Sit Next to You, Girl\" (single)"
           ],
-          "Overview": ""
+          "Replacing": "",
+          "ReplacedBy": "Bon Scott",
+          "Overview": "Dave Evans was AC/DC’s first lead vocalist, fronting the band in its earliest Sydney club period. His time captures the group before it fully locked into the gritty swagger that defined the Bon Scott years. He remains a key part of the origin story, even though his tenure was brief."
         },
         {
-          "Name": "",
+          "Name": "Chris Slade",
           "Roles": [
-            ""
+            "drums"
           ],
+          "Years": "1989–1994, 2015–2016",
           "Instruments": [
-            ""
+            "drums"
           ],
-          "Years": "",
-          "YearsActive": "",
-          "Replacing": [
-            ""
+          "Albums": [
+            "The Razors Edge",
+            "Rock or Bust"
           ],
-          "ReplacedBy": [
-            ""
-          ],
-          "Overview": ""
+          "Replacing": "Simon Wright / Phil Rudd (touring changes)",
+          "ReplacedBy": "",
+          "Overview": "Chris Slade joined AC/DC at pivotal moments, including the The Razors Edge era that helped re-ignite the band’s global momentum. His drumming is powerful and straightforward, designed to keep riffs punching forward in large venues. He also returned during the mid‑2010s touring chapter."
         },
         {
-          "Name": "",
+          "Name": "Simon Wright",
           "Roles": [
-            ""
+            "drums"
           ],
+          "Years": "1983–1989",
           "Instruments": [
-            ""
+            "drums"
           ],
-          "Years": "",
-          "YearsActive": "",
-          "Replacing": [
-            ""
+          "Albums": [
+            "Fly on the Wall",
+            "Who Made Who",
+            "Blow Up Your Video"
           ],
-          "ReplacedBy": [
-            ""
-          ],
-          "Overview": ""
+          "Replacing": "Phil Rudd",
+          "ReplacedBy": "Chris Slade",
+          "Overview": "Simon Wright played drums through much of AC/DC’s mid‑1980s period, handling aggressive, guitar-forward songs that demanded stamina and consistency. His era helped keep the band’s live machine running during a transitional decade. He is closely tied to the Fly on the Wall / Blow Up Your Video years."
         },
         {
-          "Name": "",
+          "Name": "Axl Rose",
           "Roles": [
-            ""
+            "lead vocals (touring)"
           ],
+          "Years": "2016",
           "Instruments": [
-            ""
+            "vocals"
           ],
-          "Years": "",
-          "YearsActive": "",
-          "Replacing": [
-            "",
-            ""
-          ],
-          "ReplacedBy": [
-            ""
-          ],
-          "Overview": ""
+          "Albums": [],
+          "Replacing": "Brian Johnson (touring necessity)",
+          "ReplacedBy": "",
+          "Overview": "Axl Rose stepped in as touring vocalist during 2016 when Brian Johnson could not continue live dates. He approached the catalog with high energy and respect for the original vocal lines while bringing his own intensity to the stage. His contribution is remembered as a stopgap that kept the tour alive rather than a permanent lineup change."
         },
         {
-          "Name": "",
+          "Name": "Matt Laug",
           "Roles": [
-            ""
+            "drums (touring)"
           ],
+          "Years": "2023–present (touring)",
           "Instruments": [
-            ""
+            "drums"
           ],
-          "Years": "",
-          "YearsActive": "",
-          "Replacing": [
-            ""
+          "Albums": [],
+          "Replacing": "Phil Rudd (touring)",
+          "ReplacedBy": "",
+          "Overview": "Matt Laug joined as a touring drummer in the modern Power Up era, providing a solid, professional pocket built to serve the band’s strict rhythmic framework. His job is precision and endurance—keeping the riffs landing the same way every night. He has been part of the touring lineup as AC/DC returned to stadium stages."
+        },
+        {
+          "Name": "Chris Chaney",
+          "Roles": [
+            "bass (touring)",
+            "backing vocals (touring)"
           ],
-          "ReplacedBy": [
-            ""
+          "Years": "2024–present (touring)",
+          "Instruments": [
+            "bass",
+            "vocals"
           ],
-          "Overview": ""
+          "Albums": [],
+          "Replacing": "Cliff Williams (touring)",
+          "ReplacedBy": "",
+          "Overview": "Chris Chaney joined the touring lineup on bass during the later Power Up touring chapter. He is known for clean, dependable low-end playing that supports a guitar-first band without drawing focus away from riffs and vocals. His role is to keep the foundation tight and the backing vocals supportive in a stadium mix."
         }
-      ],
-      "Genres": [
-        "",
-        "",
-        ""
-      ],
-      "Labels": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "NotableAlbums": [
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        }
-      ],
-      "SignatureSongs": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Achievements": [
-        {
-          "Type": "",
-          "Year": 0,
-          "Detail": ""
-        },
-        {
-          "Type": "",
-          "Year": 0,
-          "Detail": ""
-        },
-        {
-          "Type": "",
-          "Year": "",
-          "Detail": ""
-        }
-      ],
-      "KeyFacts": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "ExternalLinks": {
-        "OfficialSite": "",
-        "RockHall": "",
-        "Wikipedia": "",
-        "Discography": ""
-      }
+      ]
     },
     {
       "ArtistID": "aerosmith",
@@ -3091,604 +3183,6 @@
       "Name": "ZZ Top",
       "CoreMembers": [],
       "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "acdc",
-      "Name": "AC/DC",
-      "Type": "Band",
-      "Origin": {
-        "City": "Sydney",
-        "Region": "New South Wales",
-        "Country": "Australia"
-      },
-      "YearsActive": [
-        "1973–present"
-      ],
-      "Genres": [
-        "hard rock",
-        "blues rock",
-        "rock and roll"
-      ],
-      "Labels": [
-        "Albert",
-        "Atlantic",
-        "Atco",
-        "Columbia"
-      ],
-      "Overview": "AC/DC is an Australian rock band formed in Sydney in 1973, built around the Young brothers—lead guitarist Angus and rhythm guitarist Malcolm—whose stripped‑down, hard‑driving approach helped define stadium rock. The band’s identity is direct: riffs that hit fast, grooves that don’t let up, and choruses designed to be shouted back in unison. AC/DC has always described its music simply as “rock and roll,” and that blunt clarity is exactly what made them last.\n\nTheir classic era began with singer Bon Scott, whose swagger and humor gave early albums a dangerous, streetwise charm, and then surged to a new level with Brian Johnson after Scott’s death in 1980. Instead of reinventing the sound, the band doubled down on it, delivering one of rock’s most famous comebacks with Back in Black and continuing to fill arenas with a catalogue that rarely needs deep cuts to feel complete.\n\nAC/DC’s appeal is the discipline behind the noise. Malcolm’s rhythm parts are the engine—tight, relentless, and perfectly spaced—while Angus’ lead playing is all bite, bounce, and showmanship. With a rhythm section that values pocket over flash, the songs stay physical and uncomplicated, even when the production is polished. Over decades of lineup changes and pauses, that core formula has remained intact.\n\nFrom “Highway to Hell” and “Back in Black” to “Thunderstruck,” AC/DC became a universal shorthand for high-voltage rock: instantly recognizable, endlessly replayable, and built to sound huge in a room full of people. Even in later years—with new touring musicians and a renewed spotlight around the Power Up era—the band’s public promise stayed the same: loud guitars, simple rules, and a set list that feels like a greatest‑hits parade.",
-      "NotableAlbums": [
-        {
-          "Title": "High Voltage",
-          "Year": "1975",
-          "Notes": "Australian debut that established the early high-energy blueprint and launched the band’s national breakout."
-        },
-        {
-          "Title": "Let There Be Rock",
-          "Year": "1977",
-          "Notes": "A harder-edged statement that pushed the band toward the lean, aggressive sound that defined their late-’70s rise."
-        },
-        {
-          "Title": "Highway to Hell",
-          "Year": "1979",
-          "Notes": "International breakthrough and the final studio album with Bon Scott; a landmark of riff-driven hard rock."
-        },
-        {
-          "Title": "Back in Black",
-          "Year": "1980",
-          "Notes": "A career-defining comeback and tribute after Scott’s death; one of rock’s most enduring and best-selling albums."
-        },
-        {
-          "Title": "The Razors Edge",
-          "Year": "1990",
-          "Notes": "A major modern-era resurgence powered by “Thunderstruck,” reconnecting the band to a new generation of rock radio."
-        },
-        {
-          "Title": "Power Up",
-          "Year": "2020",
-          "Notes": "A late-career return built as a tribute to Malcolm Young, reaffirming the classic formula with renewed energy."
-        }
-      ],
-      "SignatureSongs": [
-        {
-          "Title": "T.N.T.",
-          "Year": "1975",
-          "Notes": "An early anthem built for call-and-response, capturing the band’s swagger and simplicity."
-        },
-        {
-          "Title": "Whole Lotta Rosie",
-          "Year": "1977",
-          "Notes": "A signature Bon Scott-era track: heavy groove, huge hook, and a definitive Angus lead."
-        },
-        {
-          "Title": "Highway to Hell",
-          "Year": "1979",
-          "Notes": "A universal rock chant that became the band’s most famous pre-1980 anthem."
-        },
-        {
-          "Title": "Back in Black",
-          "Year": "1980",
-          "Notes": "A riff monument—economical, instantly recognizable, and central to the band’s global identity."
-        },
-        {
-          "Title": "You Shook Me All Night Long",
-          "Year": "1980",
-          "Notes": "A crossover classic that paired hard-rock bite with perfect pop structure."
-        },
-        {
-          "Title": "Hells Bells",
-          "Year": "1980",
-          "Notes": "A slow-build opener that set the tone for the band’s post-Scott era with theatrical weight and massive groove."
-        },
-        {
-          "Title": "Thunderstruck",
-          "Year": "1990",
-          "Notes": "A late-era signature with a lightning-strike guitar figure that became a stadium and sports staple."
-        }
-      ],
-      "Achievements": [
-        {
-          "Year": "2003",
-          "Title": "Rock & Roll Hall of Fame induction",
-          "Details": "AC/DC was inducted into the Rock & Roll Hall of Fame, cementing their status as one of the defining hard-rock bands of the modern era."
-        },
-        {
-          "Year": "1980",
-          "Title": "Back in Black becomes a global blockbuster",
-          "Details": "The album’s enduring popularity turned it into one of the best-selling records in history and a permanent cornerstone of classic rock."
-        },
-        {
-          "Year": "1970s–present",
-          "Title": "Decades of arena-level touring and cultural ubiquity",
-          "Details": "AC/DC’s catalogue became a universal shorthand for high-voltage rock, with songs used constantly in sports, film, and broadcast settings."
-        }
-      ],
-      "KeyFacts": [
-        "Formed in Sydney in 1973 by brothers Angus and Malcolm Young, with the band’s identity anchored in riff-first songwriting and a relentless groove.",
-        "The band’s classic catalog spans two iconic vocal eras: Bon Scott (1974–1980) and Brian Johnson (1980–present).",
-        "AC/DC’s sound is intentionally consistent—built on simple structures, huge choruses, and a tight rhythm engine rather than stylistic reinvention."
-      ],
-      "ExternalLinks": {
-        "Official Site": "https://www.acdc.com/",
-        "Wikipedia": "https://en.wikipedia.org/wiki/AC/DC",
-        "Discography": "https://en.wikipedia.org/wiki/AC/DC_discography"
-      },
-      "CoreMembers": [
-        {
-          "Name": "Angus Young",
-          "Roles": [
-            "founding member",
-            "lead guitar",
-            "songwriter"
-          ],
-          "Years": "1973–present",
-          "Overview": "Founding lead guitarist and the band’s defining onstage icon, known for riff-based leads, biting tone, and a performance style built for arenas.",
-          "Bio": {
-            "BioID": "acdc-angus-young",
-            "ArtistID": "acdc",
-            "ArtistName": "AC/DC",
-            "MemberName": "Angus Young",
-            "FullName": "Angus McKinnon Young",
-            "PrimaryInstruments": [
-              "guitar"
-            ],
-            "Occupations": [
-              "musician",
-              "songwriter"
-            ],
-            "Genres": [
-              "hard rock",
-              "blues rock",
-              "rock and roll"
-            ],
-            "Birth": {
-              "Date": "1955-03-31",
-              "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
-            },
-            "ActiveYears": "1973–present",
-            "AssociatedActs": [
-              "AC/DC"
-            ],
-            "KeyAlbums": [
-              "Highway to Hell",
-              "Back in Black",
-              "The Razors Edge",
-              "Power Up"
-            ],
-            "KeySongs": [
-              "Back in Black",
-              "Thunderstruck",
-              "Highway to Hell"
-            ],
-            "Achievements": [
-              "Co‑founded AC/DC and became one of rock’s most recognizable lead guitarists through his tone, phrasing, and onstage persona.",
-              "Helped anchor multiple era-defining albums and a catalogue that became a global template for riff-driven hard rock."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Angus_Young",
-              "Official Site": "https://www.acdc.com/"
-            },
-            "Biography": "Angus Young is the face of AC/DC: the lead guitarist whose playing and stage presence turned the band into a global symbol of high-voltage rock. Born in Scotland and raised in Australia, he brought a restless, aggressive lead style that feels part blues tradition, part cartoon-energy sprint—sharp bends, biting vibrato, and riffs that punch through any mix.\n\nFrom the start, Angus’ job in AC/DC wasn’t to complicate the music but to electrify it. The band’s songs are built on simple, hard rhythms, and Angus adds the sparks—hooks that double as riffs, solos that sing without drifting into showy excess, and fills that keep the momentum climbing instead of pausing for applause.\n\nOne of his defining choices was committing to a persona that matched the music’s intensity. The schoolboy-uniform look, the duckwalk, the wild pacing at the lip of the stage—none of it works unless the playing is equally committed. Angus’ performance style is physical, but it’s disciplined: he hits the parts the same way night after night because the riffs are the product.\n\nAngus’ partnership with Malcolm Young is central to the AC/DC story. Malcolm created the rhythmic “grid” that makes the songs feel unstoppable, and Angus carved leads on top of it like a blade. The contrast is the secret: Malcolm’s locked rhythm gives Angus the freedom to sound reckless while the band remains tight.\n\nDuring the Bon Scott years, Angus helped build a catalogue that felt dangerous and funny at the same time—sleazy storytelling, streetwise swagger, and riffs that sounded like engines. When Scott died in 1980, the band faced an existential moment, and Angus responded by doing what he always does: play harder, not different.\n\nBack in Black became the proof that AC/DC’s identity was bigger than any single era. Angus’ tone on that record—crisp, bright, and vicious—helped define the sound of hard rock for decades. Later classics like “Thunderstruck” showed he could still write a riff that feels like a lightning bolt, even after the band had already become a monument.\n\nAfter Malcolm stepped away due to illness and later died in 2017, Angus carried the band’s legacy with a clear mission: keep the rhythm-first spirit intact. That meant relying on the same core values—tight riffs, straightforward song structures, and a sound that stays recognizably AC/DC even as personnel shifts around it.\n\nAngus’ legacy is that he made lead guitar feel essential again: not as decoration, but as the main voice of the song. In AC/DC, the riff is the headline and the solo is the punctuation, and Angus has spent a lifetime proving that a few right notes—played with total conviction—can fill a stadium."
-          }
-        },
-        {
-          "Name": "Malcolm Young",
-          "Roles": [
-            "founding member",
-            "rhythm guitar",
-            "songwriter",
-            "backing vocals"
-          ],
-          "Years": "1973–2014",
-          "Overview": "Co‑founder and rhythmic architect whose percussive, disciplined rhythm style defined AC/DC’s engine and songwriting approach.",
-          "Bio": {
-            "BioID": "acdc-malcolm-young",
-            "ArtistID": "acdc",
-            "ArtistName": "AC/DC",
-            "MemberName": "Malcolm Young",
-            "FullName": "Malcolm Mitchell Young",
-            "PrimaryInstruments": [
-              "guitar"
-            ],
-            "Occupations": [
-              "musician",
-              "songwriter"
-            ],
-            "Genres": [
-              "hard rock",
-              "blues rock",
-              "rock and roll"
-            ],
-            "Birth": {
-              "Date": "1953-01-06",
-              "Place": "Glasgow, Scotland (raised in Sydney, Australia)"
-            },
-            "ActiveYears": "1973–2014",
-            "AssociatedActs": [
-              "AC/DC"
-            ],
-            "KeyAlbums": [
-              "Let There Be Rock",
-              "Highway to Hell",
-              "Back in Black",
-              "Power Up"
-            ],
-            "KeySongs": [
-              "Highway to Hell",
-              "Back in Black",
-              "Shoot to Thrill"
-            ],
-            "Achievements": [
-              "Co‑founded AC/DC and defined the band’s signature rhythm-guitar engine—tight, percussive, and relentlessly consistent.",
-              "Widely regarded as one of rock’s great rhythm guitarists and a primary architect of AC/DC’s songwriting discipline."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Young",
-              "Official Site": "https://www.acdc.com/"
-            },
-            "Biography": "Malcolm Young was the rhythmic architect of AC/DC: the co‑founder whose right-hand attack and ruthless sense of timing made the band’s music feel like a machine with a human heartbeat. While Angus became the visual icon, Malcolm was the internal engine—building songs from the rhythm out and insisting that every part earn its place.\n\nHis playing is often described as “simple,” but it’s the hardest kind of simple: perfectly spaced chords, percussive muting, and a groove that never drifts. Malcolm’s rhythm guitar functions almost like a drum kit—locking with the snare and kick, creating a grid that makes the whole band sound heavier than the sum of its parts.\n\nAs a songwriter, Malcolm emphasized momentum and clarity. AC/DC songs rarely wander; they build, they hit, they repeat the hook until the room becomes the hook. That structure isn’t accidental—it’s Malcolm’s discipline, the insistence that riffs should be memorable, choruses should be obvious, and arrangements should leave room for the vocal to land.\n\nDuring the Bon Scott era, Malcolm helped shape a sound that felt raw without being sloppy. The early records have swagger, but the band is always tight, and that tightness comes from the rhythm guitar. If the riff is a truck, Malcolm is the axle.\n\nAfter Bon Scott’s death, Malcolm’s steadiness became even more important. Back in Black is often celebrated for its riffs and vocals, but its real miracle is restraint: every part is pared down to essentials, and Malcolm’s rhythm patterns keep the songs moving like a steady pulse under a massive chorus.\n\nMalcolm’s leadership was famously quiet but absolute. He wasn’t chasing spotlight; he was chasing the right groove. In rehearsals and recordings, he was known for focusing on feel—tiny adjustments that listeners may not articulate but immediately sense when the band is “locked.”\n\nIn 2014, Malcolm stepped away as his health declined, a turning point that underscored how central he was to the AC/DC sound. Even when others filled the rhythm-guitar role, the band’s mission remained to honor Malcolm’s approach: tight chords, no wasted motion, rhythm first.\n\nMalcolm died in 2017, but his work continues to define AC/DC’s identity. If Angus is the lightning, Malcolm is the power station—an enduring lesson that the most important rock instrument can be the one that never stops pushing the song forward.",
-            "Death": {
-              "Date": "2017-11-18",
-              "Place": "Sydney, New South Wales, Australia",
-              "Cause": "Dementia-related complications"
-            }
-          }
-        },
-        {
-          "Name": "Bon Scott",
-          "Roles": [
-            "lead vocals",
-            "songwriter"
-          ],
-          "Years": "1974–1980",
-          "Overview": "Original star vocalist whose swagger, humor, and rasping delivery defined AC/DC’s breakout era and early identity.",
-          "Bio": {
-            "BioID": "acdc-bon-scott",
-            "ArtistID": "acdc",
-            "ArtistName": "AC/DC",
-            "MemberName": "Bon Scott",
-            "FullName": "Ronald Belford \"Bon\" Scott",
-            "PrimaryInstruments": [
-              "vocals"
-            ],
-            "Occupations": [
-              "singer",
-              "songwriter"
-            ],
-            "Genres": [
-              "hard rock",
-              "blues rock",
-              "rock and roll"
-            ],
-            "Birth": {
-              "Date": "1946-07-09",
-              "Place": "Forfar, Scotland (raised in Australia)"
-            },
-            "ActiveYears": "1974–1980",
-            "AssociatedActs": [
-              "AC/DC",
-              "Fraternity",
-              "The Valentines"
-            ],
-            "KeyAlbums": [
-              "High Voltage",
-              "Let There Be Rock",
-              "Highway to Hell"
-            ],
-            "KeySongs": [
-              "Highway to Hell",
-              "Whole Lotta Rosie",
-              "T.N.T."
-            ],
-            "Achievements": [
-              "Fronted AC/DC’s breakout era and helped define the band’s early image: funny, filthy, fearless, and unmistakably human.",
-              "Left a short but towering catalogue that set the tone for AC/DC’s most dangerous and charismatic period."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Bon_Scott"
-            },
-            "Biography": "Bon Scott was AC/DC’s original star vocalist—the voice of the band’s most unruly era and one of rock’s most charismatic frontmen. He sang with a rasp that sounded lived‑in, but the real weapon was his personality: he could deliver menace, humor, and swagger in the same line without blinking.\n\nScott joined AC/DC in 1974, replacing early singer Dave Evans and immediately shifting the band’s center of gravity. Where the early material leaned more glam and teen‑rock, Scott brought streetwise confidence and a lyrics-first attitude that matched the Young brothers’ riffs. The band began to sound like a gang with a groove.\n\nHis greatest skill was making a hard-rock song feel like a story told at the bar—fast, dirty, and packed with punchlines. Even when the lyrics were outrageous, the delivery felt honest, and that honesty made audiences trust him. He wasn’t acting tough; he sounded like he was having a great time being tough.\n\nOn albums like Let There Be Rock and Powerage, Scott’s vocals are all bite and bounce. He could ride a riff like a surfboard, leaning into the rhythm and letting the band’s swing do the heavy lifting. The result is music that feels dangerous but also weirdly joyful—hard rock that laughs while it punches.\n\nHighway to Hell became the peak of the Scott era, capturing the band at its most concise and lethal. The title track is a perfect example: a simple hook that becomes a chant, carried by Scott’s ability to sound both playful and threatening in the same breath.\n\nScott died in February 1980, just as the band was poised to become a global stadium institution. His death could have ended AC/DC, and for many bands it would have. Instead, it became the moment that forced AC/DC to define what was essential—and then build forward without pretending Scott could be replaced.\n\nThe band’s later success didn’t erase Scott; it amplified him. Fans continued to treat the Scott catalogue as a sacred core, and songs like “T.N.T.,” “Whole Lotta Rosie,” and “Highway to Hell” stayed in the live set as permanent proof of where the band came from.\n\nScott’s legacy is that he made rock and roll feel dirty and fun again. He wasn’t polished, and he didn’t want to be. In AC/DC, he helped turn riffs into attitude and attitude into a world, leaving a voice that still sounds like trouble every time it comes through the speakers.",
-            "Death": {
-              "Date": "1980-02-19",
-              "Place": "London, England",
-              "Cause": "Acute alcohol poisoning (officially recorded as 'acute alcohol poisoning')"
-            }
-          }
-        },
-        {
-          "Name": "Brian Johnson",
-          "Roles": [
-            "lead vocals"
-          ],
-          "Years": "1980–present",
-          "Overview": "Lead vocalist who fronted AC/DC’s most famous comeback and helped carry the band through multiple eras of stadium dominance.",
-          "Bio": {
-            "BioID": "acdc-brian-johnson",
-            "ArtistID": "acdc",
-            "ArtistName": "AC/DC",
-            "MemberName": "Brian Johnson",
-            "FullName": "Brian Francis Johnson",
-            "PrimaryInstruments": [
-              "vocals"
-            ],
-            "Occupations": [
-              "singer",
-              "songwriter"
-            ],
-            "Genres": [
-              "hard rock",
-              "rock and roll"
-            ],
-            "Birth": {
-              "Date": "1947-10-05",
-              "Place": "Dunston, Gateshead, England"
-            },
-            "ActiveYears": "1980–present",
-            "AssociatedActs": [
-              "AC/DC",
-              "Geordie"
-            ],
-            "KeyAlbums": [
-              "Back in Black",
-              "For Those About to Rock We Salute You",
-              "The Razors Edge",
-              "Power Up"
-            ],
-            "KeySongs": [
-              "Back in Black",
-              "You Shook Me All Night Long",
-              "Thunderstruck"
-            ],
-            "Achievements": [
-              "Joined AC/DC in 1980 and fronted one of rock’s most famous comeback albums, Back in Black.",
-              "Helped lead the band through multiple eras of success, from early-’80s stadium dominance to later global touring peaks."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Johnson"
-            },
-            "Biography": "Brian Johnson is the AC/DC vocalist who took the most impossible job in hard rock and made it work: following Bon Scott after Scott’s death in 1980. Johnson’s voice is a rasping, high‑energy bark—less sly than Scott, more sheer force—and that change helped AC/DC pivot from streetwise menace to pure stadium power without losing intensity.\n\nBefore AC/DC, Johnson was best known for fronting the British band Geordie, where he developed a loud, high-range style built for hard riffs. That background mattered because AC/DC didn’t need a singer who could sound like Scott; they needed a singer who could hit over the riffs and keep the band’s momentum aggressive and uncomplicated.\n\nJohnson joined in 1980 and immediately recorded Back in Black, an album that became both a tribute and a rebirth. The record works because Johnson never sounds tentative. He attacks the songs like he belongs there, and the band responds with riffs that feel sharpened and focused.\n\nIn the early 1980s, Johnson helped AC/DC become a definitive arena band. For Those About to Rock We Salute You and the tours that followed established the Johnson-era identity: bigger choruses, massive hooks, and a vocal that punches through the mix like a siren.\n\nJohnson’s strengths are stamina and commitment. AC/DC songs demand repetition—choruses sung again and again until they feel inevitable—and he leans into that demand. His phrasing is designed for a crowd: clear, rhythmic, and easy to chant back, even at the highest volume.\n\nOver the decades, Johnson navigated the band through changing production styles without changing the core. Whether the guitars were polished or raw, the job remained the same: deliver the hook, keep the energy high, and sound like the band is having a great time blowing the roof off.\n\nHealth issues forced Johnson off the road in 2016, creating another uncertain chapter. His return to the band in the Power Up era showed how strongly his voice is tied to the modern AC/DC identity. For many listeners, the Johnson sound is the “second half” of AC/DC’s legend.\n\nJohnson’s legacy is resilience. He didn’t replace Bon Scott; he helped AC/DC survive the loss and become even larger. In doing so, he turned what could have been an ending into one of rock’s most enduring continuations."
-          }
-        },
-        {
-          "Name": "Phil Rudd",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "1975–1983, 1994–2015, 2018–present",
-          "Overview": "Classic-era drummer known for heavy pocket and restraint—playing exactly what the riffs require to feel huge.",
-          "Bio": {
-            "BioID": "acdc-phil-rudd",
-            "ArtistID": "acdc",
-            "ArtistName": "AC/DC",
-            "MemberName": "Phil Rudd",
-            "FullName": "Phillip Hugh Norman Witschke Rudzevecuis",
-            "PrimaryInstruments": [
-              "drums"
-            ],
-            "Occupations": [
-              "musician"
-            ],
-            "Genres": [
-              "hard rock",
-              "rock and roll"
-            ],
-            "Birth": {
-              "Date": "1954-05-19",
-              "Place": "Melbourne, Victoria, Australia"
-            },
-            "ActiveYears": "1975–present",
-            "AssociatedActs": [
-              "AC/DC"
-            ],
-            "KeyAlbums": [
-              "Highway to Hell",
-              "Back in Black",
-              "The Razors Edge",
-              "Power Up"
-            ],
-            "KeySongs": [
-              "Back in Black",
-              "Highway to Hell",
-              "Thunderstruck"
-            ],
-            "Achievements": [
-              "Served as AC/DC’s classic-era drummer, defining the band’s straight-ahead, pocket-driven feel on their most famous albums.",
-              "Known for restraint and groove—playing exactly what the songs require, no more and no less."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Phil_Rudd"
-            },
-            "Biography": "Phil Rudd is the drummer most associated with AC/DC’s classic feel: steady, heavy, and deceptively simple. His playing is about pocket rather than flourish, giving the band a rhythmic confidence that lets riffs and vocals dominate without ever feeling rushed.\n\nRudd joined AC/DC in the mid‑1970s as the band solidified its definitive lineup and sound. His arrival helped sharpen the groove—less loose, more forceful—and that change became a key ingredient in the band’s late-’70s rise from cult favorite to stadium force.\n\nOn Highway to Hell and Back in Black, Rudd’s drumming is a masterclass in restraint. He hits hard, keeps the beat centered, and leaves space where space is needed. The result is music that feels enormous even though the parts are stripped to essentials.\n\nRudd’s style supports the Young brothers’ guitars in a very specific way: the drums don’t compete with the riff; they underline it. That partnership makes AC/DC feel like a single moving object—guitars, bass, and drums locking into the same blunt forward drive.\n\nHis relationship with the band has included departures and returns, but his imprint on the catalogue is permanent. Many fans can feel the difference between drummers in AC/DC not through speed or complexity, but through how the groove sits—Rudd’s feel is heavy without being stiff.\n\nIn the 1990s resurgence around The Razors Edge, Rudd’s return helped reconnect the band’s modern sound to the classic pocket. The songs are bigger and more polished, but the core remains rhythm-first, with drums that make the riff feel inevitable.\n\nIn later years, Rudd’s role became complicated by offstage issues and touring changes, but the band’s studio work in the Power Up era again highlighted why his drumming matters: it’s the simplest part that often makes the whole machine feel right.\n\nRudd’s legacy is that he made hard rock swing without softening it. In AC/DC, he proved that the most powerful drum part is often the one that never tries to impress—only to drive the song like a hammer."
-          }
-        },
-        {
-          "Name": "Cliff Williams",
-          "Roles": [
-            "bass",
-            "backing vocals"
-          ],
-          "Years": "1977–2016, 2018–present",
-          "Overview": "Longtime bassist and backing vocalist who helped define the classic lineup’s tight, unified drive on record and on stage.",
-          "Bio": {
-            "BioID": "acdc-cliff-williams",
-            "ArtistID": "acdc",
-            "ArtistName": "AC/DC",
-            "MemberName": "Cliff Williams",
-            "FullName": "Clifford Williams",
-            "PrimaryInstruments": [
-              "bass",
-              "backing vocals"
-            ],
-            "Occupations": [
-              "musician"
-            ],
-            "Genres": [
-              "hard rock",
-              "rock and roll"
-            ],
-            "Birth": {
-              "Date": "1949-12-14",
-              "Place": "Romford, Essex, England"
-            },
-            "ActiveYears": "1974–present",
-            "AssociatedActs": [
-              "AC/DC"
-            ],
-            "KeyAlbums": [
-              "Powerage",
-              "Highway to Hell",
-              "Back in Black",
-              "Power Up"
-            ],
-            "KeySongs": [
-              "You Shook Me All Night Long",
-              "Hells Bells",
-              "Thunderstruck"
-            ],
-            "Achievements": [
-              "Joined AC/DC in 1977 and became a key part of the band’s most iconic lineup, providing bass foundation and signature backing vocals.",
-              "Helped keep the band’s sound unified live and in the studio through decades of touring and recording."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Cliff_Williams"
-            },
-            "Biography": "Cliff Williams is AC/DC’s long-running bassist and a crucial part of the band’s famous “classic five” lineup. His role is foundational: lock to the drums, reinforce the guitar rhythm, and keep the music driving forward without distraction.\n\nWilliams joined AC/DC in 1977, arriving as the band was sharpening its sound for the run that would lead to global dominance. His bass playing is supportive and direct—built to make riffs feel heavier and choruses feel more certain rather than to compete for spotlight.\n\nIn AC/DC, the bass is the glue between Malcolm’s rhythm guitar and the kick drum, and Williams excels at that job. He tends to play lines that are simple but perfectly placed, emphasizing the downbeat and the groove so the whole band feels like it’s moving as one unit.\n\nWilliams is also important vocally. His backing vocals are a recognizable part of the AC/DC sound, thickening choruses and giving the band’s shout-along hooks extra mass. Those vocal stacks matter because AC/DC choruses are designed to become communal chants.\n\nAcross albums like Highway to Hell and Back in Black, the band’s power comes from cohesion, and Williams contributes to that cohesion by never stepping out of the pocket. The restraint is the point: the song is always bigger than the part.\n\nWilliams stepped away after the 2016 touring chapter, then returned during the Power Up era, reflecting the band’s pull toward reuniting the most familiar core for major moments. Even when touring personnel changes, his presence remains strongly tied to the “official” AC/DC identity for fans.\n\nLive, Williams’ job is endurance and steadiness. AC/DC sets are long and physically loud, and the bass must stay consistent so the riffs keep landing with the same force. Williams’ playing and vocal support help the band maintain that pressure without fatigue showing in the groove.\n\nWilliams’ legacy is the steady foundation that allows everything else to feel larger. In a band famous for guitars and vocals, his contribution is the part you don’t notice until it’s missing: the bass that keeps the whole machine centered and unstoppable."
-          }
-        }
-      ],
-      "NonCoreMembers": [
-        {
-          "Name": "Stevie Young",
-          "Roles": [
-            "rhythm guitar",
-            "backing vocals"
-          ],
-          "Years": "2014–present (touring earlier in 1988)",
-          "Instruments": [
-            "guitar"
-          ],
-          "Albums": [
-            "Rock or Bust",
-            "Power Up"
-          ],
-          "Replacing": "Malcolm Young",
-          "ReplacedBy": "",
-          "Overview": "Stevie Young is Malcolm Young’s nephew and took over rhythm-guitar duties in the modern era when Malcolm stepped away. He focuses on reproducing the tight, percussive chord attack that defines AC/DC’s engine, prioritizing feel and timing over showy embellishment. His role is continuity—keeping the rhythm spine unmistakably AC/DC."
-        },
-        {
-          "Name": "Mark Evans",
-          "Roles": [
-            "bass"
-          ],
-          "Years": "1975–1977",
-          "Instruments": [
-            "bass"
-          ],
-          "Albums": [
-            "High Voltage",
-            "T.N.T.",
-            "Dirty Deeds Done Dirt Cheap",
-            "Let There Be Rock"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "Cliff Williams",
-          "Overview": "Mark Evans played bass during AC/DC’s early acceleration from local sensation to international contender. He contributed to key mid‑’70s records that solidified the band’s lean, aggressive direction. His era bridges the raw debut period and the later classic lineup."
-        },
-        {
-          "Name": "Dave Evans",
-          "Roles": [
-            "lead vocals"
-          ],
-          "Years": "1973–1974",
-          "Instruments": [
-            "vocals"
-          ],
-          "Albums": [
-            "\"Can I Sit Next to You, Girl\" (single)"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "Bon Scott",
-          "Overview": "Dave Evans was AC/DC’s first lead vocalist, fronting the band in its earliest Sydney club period. His time captures the group before it fully locked into the gritty swagger that defined the Bon Scott years. He remains a key part of the origin story, even though his tenure was brief."
-        },
-        {
-          "Name": "Chris Slade",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "1989–1994, 2015–2016",
-          "Instruments": [
-            "drums"
-          ],
-          "Albums": [
-            "The Razors Edge",
-            "Rock or Bust"
-          ],
-          "Replacing": "Simon Wright / Phil Rudd (touring changes)",
-          "ReplacedBy": "",
-          "Overview": "Chris Slade joined AC/DC at pivotal moments, including the The Razors Edge era that helped re-ignite the band’s global momentum. His drumming is powerful and straightforward, designed to keep riffs punching forward in large venues. He also returned during the mid‑2010s touring chapter."
-        },
-        {
-          "Name": "Simon Wright",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "1983–1989",
-          "Instruments": [
-            "drums"
-          ],
-          "Albums": [
-            "Fly on the Wall",
-            "Who Made Who",
-            "Blow Up Your Video"
-          ],
-          "Replacing": "Phil Rudd",
-          "ReplacedBy": "Chris Slade",
-          "Overview": "Simon Wright played drums through much of AC/DC’s mid‑1980s period, handling aggressive, guitar-forward songs that demanded stamina and consistency. His era helped keep the band’s live machine running during a transitional decade. He is closely tied to the Fly on the Wall / Blow Up Your Video years."
-        },
-        {
-          "Name": "Axl Rose",
-          "Roles": [
-            "lead vocals (touring)"
-          ],
-          "Years": "2016",
-          "Instruments": [
-            "vocals"
-          ],
-          "Albums": [],
-          "Replacing": "Brian Johnson (touring necessity)",
-          "ReplacedBy": "",
-          "Overview": "Axl Rose stepped in as touring vocalist during 2016 when Brian Johnson could not continue live dates. He approached the catalog with high energy and respect for the original vocal lines while bringing his own intensity to the stage. His contribution is remembered as a stopgap that kept the tour alive rather than a permanent lineup change."
-        },
-        {
-          "Name": "Matt Laug",
-          "Roles": [
-            "drums (touring)"
-          ],
-          "Years": "2023–present (touring)",
-          "Instruments": [
-            "drums"
-          ],
-          "Albums": [],
-          "Replacing": "Phil Rudd (touring)",
-          "ReplacedBy": "",
-          "Overview": "Matt Laug joined as a touring drummer in the modern Power Up era, providing a solid, professional pocket built to serve the band’s strict rhythmic framework. His job is precision and endurance—keeping the riffs landing the same way every night. He has been part of the touring lineup as AC/DC returned to stadium stages."
-        },
-        {
-          "Name": "Chris Chaney",
-          "Roles": [
-            "bass (touring)",
-            "backing vocals (touring)"
-          ],
-          "Years": "2024–present (touring)",
-          "Instruments": [
-            "bass",
-            "vocals"
-          ],
-          "Albums": [],
-          "Replacing": "Cliff Williams (touring)",
-          "ReplacedBy": "",
-          "Overview": "Chris Chaney joined the touring lineup on bass during the later Power Up touring chapter. He is known for clean, dependable low-end playing that supports a guitar-first band without drawing focus away from riffs and vocals. His role is to keep the foundation tight and the backing vocals supportive in a stadium mix."
-        }
-      ]
     }
   ]
 }
