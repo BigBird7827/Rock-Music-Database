@@ -7392,27 +7392,614 @@
     {
       "ArtistID": "pink-floyd",
       "Name": "Pink Floyd",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1965–1994",
+        "2005",
+        "2007",
+        "2013–2014",
+        "2022"
+      ],
+      "Genres": [
+        "Progressive rock",
+        "Psychedelic rock",
+        "Art rock",
+        "Experimental rock",
+        "Space rock"
+      ],
+      "Labels": [
+        "EMI",
+        "Harvest",
+        "Columbia",
+        "Capitol",
+        "Parlophone"
+      ],
+      "Overview": "Pink Floyd were an English rock band formed in London in 1965, first defined by Syd Barrett’s surreal songwriting and underground psychedelic performances, then reshaped after David Gilmour joined in late 1967 as the group expanded into long-form, atmospheric compositions built around studio experimentation and immersive live production.\n\nAcross the 1970s, the band became a global album-era benchmark with a run of concept-driven releases—most famously The Dark Side of the Moon, Wish You Were Here, Animals, and The Wall—blending philosophical themes, sonic collage, and meticulous sound design. After bassist/primary lyricist Roger Waters left in 1985, Gilmour and Nick Mason continued Pink Floyd, releasing A Momentary Lapse of Reason (1987) and The Division Bell (1994), with the classic quartet reuniting for a one-off Live 8 set in 2005. The band’s legacy is rooted in the idea of rock as a complete, theatrical experience: audio, imagery, and narrative fused into a single event.",
+      "NotableAlbums": [
+        {
+          "Title": "The Piper at the Gates of Dawn",
+          "Year": "1967",
+          "Notes": "The Syd Barrett–led debut that captured London’s psychedelic moment with whimsical songwriting, tape effects, and an adventurous, spacey feel."
+        },
+        {
+          "Title": "Meddle",
+          "Year": "1971",
+          "Notes": "A transitional breakthrough that pointed toward the band’s later scale, highlighted by the side-long suite “Echoes” and increasingly cinematic sound design."
+        },
+        {
+          "Title": "The Dark Side of the Moon",
+          "Year": "1973",
+          "Notes": "A cohesive, theme-driven album about time, money, mortality, and pressure—engineered for maximum immersion and one of the defining records of the 1970s."
+        },
+        {
+          "Title": "Wish You Were Here",
+          "Year": "1975",
+          "Notes": "A reflective follow-up anchored by “Shine On You Crazy Diamond,” framed as an elegy for Syd Barrett and a critique of music-industry machinery."
+        },
+        {
+          "Title": "Animals",
+          "Year": "1977",
+          "Notes": "A harsher, politically charged concept album with extended tracks and a stark tone that foreshadowed the confrontational scale of The Wall."
+        },
+        {
+          "Title": "The Wall",
+          "Year": "1979",
+          "Notes": "A rock opera about isolation and trauma, built around dramatic songwriting, recurring motifs, and a stage spectacle that became central to the band’s mythology."
+        },
+        {
+          "Title": "The Division Bell",
+          "Year": "1994",
+          "Notes": "The late-era studio statement led by Gilmour, emphasizing mood, guitar tone, and communication themes, followed by a massive world tour and live document Pulse."
+        },
+        {
+          "Title": "The Endless River",
+          "Year": "2014",
+          "Notes": "A largely instrumental, posthumous tribute built from 1993 sessions, framed as a farewell to the band’s long-running musical chemistry."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Arnold Layne",
+          "Year": "1967",
+          "Notes": "An early UK hit from the Barrett era that helped establish Pink Floyd as a distinctive voice in the late-’60s underground."
+        },
+        {
+          "Title": "See Emily Play",
+          "Year": "1967",
+          "Notes": "A bright, kaleidoscopic single that distilled the band’s early psychedelia into a concise, radio-friendly form."
+        },
+        {
+          "Title": "Echoes",
+          "Year": "1971",
+          "Notes": "A side-long composition that became a template for Pink Floyd’s later approach to gradual build, texture, and emotional release."
+        },
+        {
+          "Title": "Money",
+          "Year": "1973",
+          "Notes": "A Dark Side standout whose groove and studio effects made it one of the band’s most recognizable tracks."
+        },
+        {
+          "Title": "Time",
+          "Year": "1973",
+          "Notes": "A meditation on aging and wasted years, opening with an iconic burst of clocks and chimes."
+        },
+        {
+          "Title": "Shine On You Crazy Diamond",
+          "Year": "1975",
+          "Notes": "A multi-part epic written in the shadow of Syd Barrett, combining slow-burn atmospherics with soaring guitar themes."
+        },
+        {
+          "Title": "Wish You Were Here",
+          "Year": "1975",
+          "Notes": "A widely loved acoustic-centered song that became a signature statement of absence, longing, and connection."
+        },
+        {
+          "Title": "Another Brick in the Wall, Part 2",
+          "Year": "1979",
+          "Notes": "The band’s best-known single, pairing a children’s choir with an anti-authoritarian hook that crossed into pop-chart dominance."
+        },
+        {
+          "Title": "Comfortably Numb",
+          "Year": "1979",
+          "Notes": "A centerpiece of The Wall, famous for its contrast between narrative verses and expansive guitar solos."
+        },
+        {
+          "Title": "High Hopes",
+          "Year": "1994",
+          "Notes": "A late-era summation piece that blends nostalgia, pastoral imagery, and the band’s trademark slow, atmospheric build."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1973–present",
+          "Title": "Billboard 200 longevity record (The Dark Side of the Moon)",
+          "Details": "The Dark Side of the Moon is widely cited as the longest-charting album in Billboard 200 history, logged at 917 total weeks on the chart (as of a Billboard tally published in 2015)."
+        },
+        {
+          "Year": "1980",
+          "Title": "Global No. 1 single with “Another Brick in the Wall, Part 2”",
+          "Details": "The Wall’s breakout single topped charts around the world and became Pink Floyd’s best-known hit, pushing the band into mainstream pop-radio ubiquity."
+        },
+        {
+          "Year": "1995",
+          "Title": "Grammy Award for “Marooned”",
+          "Details": "“Marooned,” from The Division Bell, won the Grammy Award for Best Rock Instrumental Performance, marking a major late-career accolade for the band."
+        },
+        {
+          "Year": "1996",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Pink Floyd were inducted into the Rock & Roll Hall of Fame, recognizing their long-term impact on album-era rock and live production scale."
+        },
+        {
+          "Year": "2008",
+          "Title": "Polar Music Prize laureate",
+          "Details": "The band received Sweden’s Polar Music Prize, honoring their decades-long influence on the intersection of popular music, sound experimentation, and art-driven presentation."
+        }
+      ],
+      "KeyFacts": [
+        "Pink Floyd’s classic sound is built around contrasts: extended atmospheric sections and sudden dynamic peaks, intimate vocals and massive production, and studio collage techniques alongside traditional rock instrumentation.",
+        "The band’s live reputation grew with ambitious staging—large-scale lighting, film projection, and theatrical set pieces—helping define what arena rock could look and feel like in the 1970s and beyond.",
+        "Syd Barrett’s brief tenure left an enduring imprint: even after his departure, the group repeatedly returned to themes of absence, fragility, and the cost of fame, most explicitly on Wish You Were Here.",
+        "After Roger Waters’ 1985 exit, Pink Floyd continued under David Gilmour and Nick Mason, with Richard Wright returning to a full role for The Division Bell; the four-member classic lineup reunited publicly for Live 8 in 2005."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.pinkfloyd.com/",
+        "Official Biography (Archive)": "https://archive.pinkfloyd.com/history/biography",
+        "AllMusic": "https://www.allmusic.com/artist/pink-floyd-mn0000346336",
+        "Britannica": "https://www.britannica.com/topic/Pink-Floyd",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Pink_Floyd",
+        "Rock & Roll Hall of Fame": "https://www.rockhall.com/inductees/pink-floyd",
+        "Polar Music Prize": "https://www.polarmusicprize.org/laureates/pink-floyd/"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Syd Barrett",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1965–1968",
+          "Overview": "Founding guitarist, singer, and primary songwriter of Pink Floyd’s early psychedelic era; wrote and sang many of the band’s first defining songs and led the debut album The Piper at the Gates of Dawn.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-syd-barrett",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Syd Barrett",
+            "FullName": "Roger Keith Barrett",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Psychedelic rock",
+              "Psychedelic pop",
+              "Experimental rock"
+            ],
+            "Birth": {
+              "Date": "1946-01-06",
+              "Place": "Cambridge, England"
+            },
+            "ActiveYears": [
+              "1963–1974"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "The Piper at the Gates of Dawn",
+              "The Madcap Laughs",
+              "Barrett"
+            ],
+            "KeySongs": [
+              "Arnold Layne",
+              "See Emily Play",
+              "Astronomy Domine"
+            ],
+            "Achievements": [
+              "Co-founded Pink Floyd and led the band’s 1967 breakthrough into the UK psychedelic mainstream.",
+              "Solo work in 1970 documented his songwriting in stark, influential recordings that later became cult touchstones."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.sydbarrett.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Syd_Barrett"
+            },
+            "Biography": "Roger Keith “Syd” Barrett (born January 6, 1946, in Cambridge) was the founding imagination of Pink Floyd—an early frontman whose eccentric melodies, wordplay, and guitar textures helped define the band’s first public identity in London’s mid‑’60s psychedelic underground.\n\nBarrett named the group after two blues musicians, Pink Anderson and Floyd Council, and quickly became the face of their live sets: elastic song forms, improvisation, and effects-heavy guitar that blurred pop hooks into sound experiments. In 1967, the band’s first singles (“Arnold Layne” and “See Emily Play”) brought them wide attention while still sounding unlike their peers.\n\nThat same year, Barrett led the group through their debut album, The Piper at the Gates of Dawn, shaping its whimsical characters, surreal imagery, and studio playfulness. The record became a cornerstone of British psychedelia and remains the clearest document of Pink Floyd’s original, Barrett-centered voice.\n\nAs the band’s profile rose, Barrett’s reliability deteriorated. Friends and bandmates later described a mix of mental-health strain and heavy drug use, and performances could become unpredictable—sometimes brilliant, sometimes derailed by silence or minimal playing. The group began looking for a way to continue without collapsing on stage.\n\nDavid Gilmour, a fellow Cambridge musician, was brought in at the end of 1967 to reinforce the lineup. For a short period, Pink Floyd functioned as a five‑piece, but the situation quickly became untenable; by early 1968, the band stopped taking Barrett to shows and he was effectively out of the working group.\n\nBarrett recorded two solo albums in 1970—The Madcap Laughs and Barrett—capturing fragments of his songwriting gift in a raw, intimate form, sometimes with help from former bandmates and friends. Even when the performances were fragile, his melodic instincts and odd-angle lyrics still landed with striking individuality.\n\nAfter a brief burst of activity, Barrett retreated from public life. He returned to Cambridge, largely withdrew from the music business, and became increasingly private, a disappearance that fed a powerful myth around “the lost genius” of Pink Floyd’s origin story.\n\nHis absence became a recurring emotional engine for the band that continued without him. Wish You Were Here, especially “Shine On You Crazy Diamond,” is inseparable from the shock and grief of watching their original leader fade from view, turning Barrett into a kind of haunting presence across Pink Floyd’s later work.\n\nBarrett died on July 7, 2006, in Cambridge, England, from pancreatic cancer. His legacy endures less as a long career than as an ignition: he helped create Pink Floyd’s first language, and his brief, radiant period continues to shape how the band’s entire arc is understood.",
+            "Death": {
+              "Date": "2006-07-07",
+              "Place": "Cambridge, England",
+              "Cause": "Pancreatic cancer"
+            }
+          }
+        },
+        {
+          "Name": "Roger Waters",
+          "Roles": [
+            "bass",
+            "lead vocals",
+            "songwriting",
+            "concept development"
+          ],
+          "Years": "1965–1985",
+          "Overview": "Co-founder who became Pink Floyd’s primary lyricist and conceptual leader during the band’s classic 1970s run, driving the themes and narratives of albums like The Dark Side of the Moon, Animals, and The Wall.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-roger-waters",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Roger Waters",
+            "FullName": "George Roger Waters",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1943-09-06",
+              "Place": "Great Bookham, Surrey, England"
+            },
+            "ActiveYears": [
+              "1964–present"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "Animals",
+              "The Wall",
+              "The Final Cut"
+            ],
+            "KeySongs": [
+              "Money",
+              "Time",
+              "Another Brick in the Wall, Part 2",
+              "Comfortably Numb",
+              "Wish You Were Here"
+            ],
+            "Achievements": [
+              "Primary lyricist/concept architect behind Pink Floyd’s most famous narrative albums of the 1970s.",
+              "Developed The Wall into a lasting, large-scale performance work, revived in major later tours."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://rogerwaters.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Roger_Waters"
+            },
+            "Biography": "George Roger Waters (born September 6, 1943, in Great Bookham, Surrey) co-founded Pink Floyd and evolved from early bassist and vocalist into the band’s primary lyricist and conceptual architect, especially during the 1970s when Pink Floyd’s albums became unified narratives rather than collections of songs.\n\nIn the Barrett-led years, Waters was part of a young London group learning how to stretch blues-based ideas into psychedelic improvisation. As Syd Barrett’s leadership collapsed, Waters increasingly stepped forward, helping steer the band through a difficult transition into a new identity built on atmosphere, ambition, and studio craft.\n\nBy the time Pink Floyd entered their classic run, Waters became the central voice behind the band’s themes—anxieties about time, money, madness, war, and alienation—while the group’s musicianship and production translated those ideas into immersive soundscapes. His writing helped make The Dark Side of the Moon feel like a single, continuous argument about modern pressure and human fragility.\n\nWish You Were Here deepened Waters’ role as storyteller, pairing grief and tribute with pointed critique of the music industry. With Animals, his lyric perspective sharpened into political satire and social anger, pushing the band toward a harsher, more confrontational tone.\n\nThat arc peaked with The Wall, a rock opera driven by Waters’ script-like writing and personal imagery of loss, schooling, fame, and isolation. The album’s scale—musical, theatrical, and emotional—became a defining Pink Floyd statement and set the template for rock narrative as spectacle.\n\nAs the band moved into the early 1980s, internal relationships deteriorated. Waters took even more control over direction and messaging, and the collaboration that powered the earlier masterpieces became strained, turning creative intensity into open conflict.\n\nIn 1985, Waters left Pink Floyd, believing the group had run its course. A long dispute followed over the use of the band name, ultimately ending with David Gilmour and Nick Mason continuing as Pink Floyd while Waters pursued his own projects.\n\nWaters’ solo career expanded the same concerns that shaped his work in the band: anti-war themes, political critique, and the psychological cost of power and propaganda. He also revived The Wall in major live productions, turning the piece into an ongoing, evolving performance statement.\n\nAlthough Waters has periodically shared stages and gestures of reconciliation, his relationship to Pink Floyd’s later era remains complicated. Still, his imprint is unmistakable: he helped transform Pink Floyd into one of rock’s most conceptually focused bands, and his writing remains a central reason their albums are discussed as modern myths rather than mere recordings."
+          }
+        },
+        {
+          "Name": "David Gilmour",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1967–1994, 2005, 2022",
+          "Overview": "Joined during the band’s transition out of the Barrett era and became a signature lead guitarist and vocalist; later led the post-Waters era of Pink Floyd through the band’s final studio albums and tours.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-david-gilmour",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "David Gilmour",
+            "FullName": "David Jon Gilmour",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1946-03-06",
+              "Place": "Cambridge, England"
+            },
+            "ActiveYears": [
+              "1962–present"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "Meddle",
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "The Wall",
+              "The Division Bell"
+            ],
+            "KeySongs": [
+              "Comfortably Numb",
+              "Shine On You Crazy Diamond",
+              "Wish You Were Here",
+              "Time",
+              "High Hopes"
+            ],
+            "Achievements": [
+              "One of rock’s most influential lead guitarists, known for melodic phrasing and signature tone.",
+              "Led Pink Floyd’s late-era studio and touring period after 1985, keeping the band active into the 1990s."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.davidgilmour.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/David_Gilmour"
+            },
+            "Biography": "David Jon Gilmour (born March 6, 1946, in Cambridge) joined Pink Floyd at the end of 1967 and became one of the defining guitar voices in rock—recognized for melodic lead lines, expressive bends, and a tone that could feel both intimate and monumental.\n\nGilmour entered the band during a crisis, brought in as Syd Barrett’s behavior and reliability deteriorated. His arrival stabilized Pink Floyd’s live performances and helped the group transition away from the Barrett-centered pop-psychedelic model toward extended compositions shaped by collective playing and studio experimentation.\n\nOver the next decade, Gilmour’s guitar became a primary emotional narrator in Pink Floyd’s music. Whether delivering slow-burn atmospherics or searing climaxes, he helped translate the band’s conceptual aims into visceral feeling, making the instrument as central as the lyrics to the band’s identity.\n\nGilmour also contributed vocals that became essential to the band’s signature sound, often providing a warmer, more human counterweight to Roger Waters’ sharper storytelling. The interplay between their voices—one intimate, one theatrical—helped define the drama of the classic albums.\n\nWhen Waters left in 1985, Gilmour took the practical and creative lead in continuing Pink Floyd. The late-era albums A Momentary Lapse of Reason and The Division Bell leaned into mood, musicianship, and expansive production, and the resulting tours reaffirmed Pink Floyd as a stadium-scale live institution.\n\nGilmour’s leadership didn’t erase the band’s internal history, but it did preserve a version of Pink Floyd built around sound and atmosphere. His focus on performance, tone, and arrangement kept the group’s identity recognizable even as its songwriting balance shifted.\n\nAlongside band work, Gilmour maintained a solo career and a reputation as a producer and collaborator, carrying his guitar-first sensibility into projects beyond Pink Floyd’s specific conceptual framework.\n\nIn 2005, Gilmour reunited with Waters, Mason, and Wright for a four-song Live 8 set in London—an event widely treated as the public closing chapter for the classic lineup. The performance highlighted how instantly the band’s chemistry returned when the core pieces were together.\n\nGilmour’s legacy within Pink Floyd is both technical and emotional: his playing turned slow-building arrangements into catharsis, and his tone—unmistakable within a few notes—remains one of the most identifiable sounds in modern rock."
+          }
+        },
+        {
+          "Name": "Richard Wright",
+          "Roles": [
+            "keyboards",
+            "vocals",
+            "songwriting"
+          ],
+          "Years": "1965–1979, 1987–1994, 2005",
+          "Overview": "Founding keyboardist whose atmospheric chordwork and textures became core to Pink Floyd’s sound; contributed major musical ideas across the classic albums and returned to a central role in the band’s 1990s era.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-richard-wright",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Richard Wright",
+            "FullName": "Richard William Wright",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Psychedelic rock"
+            ],
+            "Birth": {
+              "Date": "1943-07-28",
+              "Place": "Hatch End, Middlesex, England"
+            },
+            "ActiveYears": [
+              "1964–2008"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "The Wall",
+              "The Division Bell"
+            ],
+            "KeySongs": [
+              "The Great Gig in the Sky",
+              "Us and Them",
+              "Echoes",
+              "Shine On You Crazy Diamond"
+            ],
+            "Achievements": [
+              "Key architect of Pink Floyd’s atmospheric keyboard sound across the band’s most influential albums.",
+              "Returned to the band’s public spotlight with the 2005 Live 8 reunion performance."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://rickwright.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Richard_Wright_(musician)"
+            },
+            "Biography": "Richard William “Rick” Wright (born July 28, 1943, in Hatch End, Middlesex) was Pink Floyd’s primary keyboard architect and one of the band’s founding members, responsible for much of the group’s signature sense of space—soft organ drones, electric‑piano color, and synthesizer atmosphere that turned songs into environments.\n\nWright met Roger Waters and Nick Mason while studying architecture in London, and his harmonic sensibility quickly became essential to the band’s early sound. In the Barrett era he contributed vocals and organ textures that balanced the frontman’s wild angles with a calmer, dreamlike foundation.\n\nAs Pink Floyd moved into longer forms, Wright’s playing became a guiding thread: sustained chords, patient arpeggios, and timbral shifts that made the band’s music feel cinematic rather than simply riff‑based. His touch helped bridge the group from club psychedelia into the wide-screen mode of the 1970s.\n\nWright also contributed key writing and musical ideas across the classic run. His compositional instincts and chord choices are woven into central moments of The Dark Side of the Moon and Wish You Were Here, where mood and texture are as important as lyric and melody.\n\nDuring the intense creation of The Wall, internal tensions escalated and Wright’s role became a flashpoint. He left the band in 1979, yet returned immediately as a paid musician for The Wall live shows—an unusual arrangement that underscored both the conflict inside the group and how necessary his playing was on stage.\n\nAfter Pink Floyd’s mid‑’80s split with Roger Waters, Wright gradually returned to a full role in the David Gilmour–led version of the band. His keyboards and vocals became a core part of the late‑era sound, culminating in The Division Bell, where communication and reconciliation themes matched the music’s reflective tone.\n\nWright’s contributions were never about dominating the spotlight; they were about shaping the air around the notes. His keyboard layers, vocal blends, and sense of harmonic color are among the reasons Pink Floyd songs can feel simultaneously intimate and enormous.\n\nOutside the band, Wright released solo work and collaborated with other musicians, but his identity remained closely tied to the sonic world he helped build inside Pink Floyd—particularly the way the group treated timbre and space as emotional storytelling tools.\n\nWright rejoined the classic lineup for the Live 8 performance in 2005, a widely watched reunion that emphasized how central his presence was to Pink Floyd’s sound. He died on September 15, 2008, in London, England, from lung cancer, leaving behind a legacy of textures that are instantly recognizable and still deeply influential.",
+            "Death": {
+              "Date": "2008-09-15",
+              "Place": "London, England",
+              "Cause": "Lung cancer"
+            }
+          }
+        },
+        {
+          "Name": "Nick Mason",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1965–1994, 2005, 2022",
+          "Overview": "Co-founder and drummer on every Pink Floyd studio album; a steady rhythmic anchor through the band’s stylistic changes and a key custodian of the group’s history in later decades.",
+          "Bio": {
+            "BioID": "bio-pinkfloyd-nick-mason",
+            "ArtistID": "pink-floyd",
+            "ArtistName": "Pink Floyd",
+            "MemberName": "Nick Mason",
+            "FullName": "Nicholas Berkeley Mason",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Author",
+              "Producer"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Psychedelic rock"
+            ],
+            "Birth": {
+              "Date": "1944-01-27",
+              "Place": "Birmingham, England"
+            },
+            "ActiveYears": [
+              "1964–present"
+            ],
+            "AssociatedActs": [
+              "Pink Floyd",
+              "Nick Mason's Saucerful of Secrets"
+            ],
+            "KeyAlbums": [
+              "The Dark Side of the Moon",
+              "Wish You Were Here",
+              "Animals",
+              "The Wall",
+              "The Division Bell"
+            ],
+            "KeySongs": [
+              "Money",
+              "Time",
+              "Echoes",
+              "Shine On You Crazy Diamond",
+              "Comfortably Numb"
+            ],
+            "Achievements": [
+              "Only member to appear on every Pink Floyd studio album.",
+              "Fronts Nick Mason’s Saucerful of Secrets, a touring project centered on early Pink Floyd repertoire."
+            ],
+            "ExternalLinks": {
+              "Nick Mason’s Saucerful of Secrets": "https://www.thesaucerfulofsecrets.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Nick_Mason"
+            },
+            "Biography": "Nicholas Berkeley “Nick” Mason (born January 27, 1944, in Birmingham) is Pink Floyd’s drummer and the only musician to appear on every Pink Floyd studio album, anchoring the band’s long evolution from London club psychedelia to global concept-album giants.\n\nMason met Roger Waters and Rick Wright while studying architecture in London, and the early group’s shifting names and lineups eventually coalesced into Pink Floyd. From the start, Mason’s drumming favored feel and texture over flash, supporting the band’s preference for atmosphere and gradual build.\n\nDuring the Syd Barrett period, Mason helped drive the band’s improvisational live approach—extended grooves, sudden changes, and a willingness to treat performance as sonic experimentation. As Pink Floyd grew more ambitious, his playing adapted to longer forms where patience mattered as much as intensity.\n\nAcross the classic 1970s albums, Mason’s role was often to make complex structures feel inevitable. He provided the steady framework that allowed keyboards, guitars, and sound effects to layer into immersive environments, and his sense of pacing helped make long tracks feel narrative rather than merely extended.\n\nMason also became a public ambassador for Pink Floyd’s history. His perspective—practical, detail-oriented, and grounded in the realities of making the work—has been important in how the band’s story is told, both in interviews and in his memoir Inside Out: A Personal History of Pink Floyd.\n\nAfter Roger Waters’ departure, Mason continued with David Gilmour as Pink Floyd moved into its late era, supporting the large-scale tours that kept the band’s live identity prominent. Even when studio lineups expanded, his presence remained a symbolic continuity marker for what “Pink Floyd” meant.\n\nIn the decades after the band’s main run, Mason stayed connected to the catalog and the community around it, participating in archival projects and public events that kept the music in view for new audiences.\n\nHe also created Nick Mason’s Saucerful of Secrets, a touring project focused on early Pink Floyd material, highlighting the experimental, spacey repertoire that predates the band’s biggest commercial era and re-centering the group’s psychedelic roots on stage.\n\nMason’s contribution is ultimately about cohesion. Pink Floyd’s music often relies on the slow accumulation of detail and pressure, and his ability to hold a steady pulse while the world around it changes is a major reason the band’s grand, cinematic approach works as well as it does."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Bob Klose",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1964–1965 (Tea Set / pre–Pink Floyd)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "1965: Their First Recordings (archival release)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Syd Barrett (as lead guitarist)",
+          "Overview": "The group’s earliest lead guitarist during the Tea Set/Sigma 6 period. He left in mid‑1965 as the band’s direction shifted toward psychedelia and he returned to studies and later photography."
+        },
+        {
+          "Name": "Dick Parry",
+          "Roles": [
+            "saxophone",
+            "keyboards (touring)"
+          ],
+          "Years": "1973–1977, 1994 (touring/recording appearances)",
+          "Instruments": [
+            "Saxophone"
+          ],
+          "Albums": [
+            "The Dark Side of the Moon",
+            "Wish You Were Here",
+            "The Division Bell"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A saxophonist closely associated with Pink Floyd’s classic sound, invited by David Gilmour to add the signature sax lines heard on key studio albums and on major tours."
+        },
+        {
+          "Name": "Snowy White",
+          "Roles": [
+            "guitar (touring)"
+          ],
+          "Years": "1977",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Animals (touring era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A touring guitarist added for the 1977 In the Flesh tour to support the Animals material on stage. He is especially associated with live guitar parts from that period and later work connected to Floyd members."
+        },
+        {
+          "Name": "Guy Pratt",
+          "Roles": [
+            "bass (touring/studio)",
+            "backing vocals"
+          ],
+          "Years": "1987–1994, 2005 (touring/studio appearances)",
+          "Instruments": [
+            "Bass guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "The Division Bell",
+            "The Endless River",
+            "Delicate Sound of Thunder (live)",
+            "Pulse (live)"
+          ],
+          "Replacing": "Roger Waters (as touring/studio bassist)",
+          "ReplacedBy": "",
+          "Overview": "A prominent post‑Waters bassist who joined the live band in the late 1980s and later played on The Division Bell and The Endless River, becoming a key part of Pink Floyd’s late-era touring sound."
+        },
+        {
+          "Name": "Jon Carin",
+          "Roles": [
+            "keyboards",
+            "programming",
+            "backing vocals (touring)"
+          ],
+          "Years": "1988–1994 (touring), 1994 (studio contributions)",
+          "Instruments": [
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Delicate Sound of Thunder (live)",
+            "The Division Bell",
+            "Pulse (live)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A keyboardist and programmer who became part of Pink Floyd’s late‑era live setup, contributing to the band’s stage arrangements and also working on The Division Bell."
+        },
+        {
+          "Name": "Durga McBroom",
+          "Roles": [
+            "backing vocals"
+          ],
+          "Years": "1987–1994 (touring)",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Delicate Sound of Thunder (live)",
+            "Pulse (live)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A long-running backing vocalist in Pink Floyd’s late-era touring band, appearing consistently from the A Momentary Lapse of Reason tour through the end of The Division Bell tour."
+        }
+      ]
     },
     {
       "ArtistID": "platinum-blonde",
