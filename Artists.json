@@ -602,8 +602,14 @@
       "ArtistID": "aerosmith",
       "Name": "Aerosmith",
       "Type": "Band",
-      "Origin": "Boston, Massachusetts, U.S.",
-      "YearsActive": "1970–present",
+      "Origin": {
+        "City": "Boston",
+        "Region": "Massachusetts",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1970–present"
+      ],
       "Genres": [
         "Hard rock",
         "Blues rock",
@@ -772,17 +778,7 @@
               "Wikipedia": "https://en.wikipedia.org/wiki/Steven_Tyler",
               "Janie's Fund": "https://janiesfund.org/"
             },
-            "Biography": [
-              "Steven Tyler (born Steven Victor Tallarico in Yonkers, New York) grew up with music as a constant presence and developed an early obsession with rock ’n’ roll showmanship. Before Aerosmith, he fronted regional bands that honed his taste for loud guitars, big choruses, and a vocalist’s job of turning every song into a scene.",
-              "After relocating to the Boston area, Tyler crossed paths with guitarist Joe Perry, bassist Tom Hamilton, and drummer Joey Kramer—musicians who shared his love of blues‑based rock and the swagger of British and American hard‑rock records. The chemistry clicked quickly: Tyler’s elastic voice and restless stage presence became the focal point, while the band’s groove-heavy riffs gave him room to improvise and push melodies to extremes.",
-              "By 1970 the group had consolidated into Aerosmith, and Tyler helped define the band’s identity as both a singer and a writer. “Dream On,” written early in the band’s life, became a slow‑burn anthem that eventually broke into the pop mainstream and established Tyler as a frontman capable of vulnerability as well as raw power.",
-              "In the mid‑1970s, Aerosmith’s success exploded, and Tyler’s collaboration with Perry—often called the band’s creative engine—produced a run of defining singles. His lyrics mixed streetwise humor with romantic melodrama, while his vocal approach moved easily from blues rasp to sky‑high screams, making him instantly recognizable on radio.",
-              "Tyler also became famous for a kinetic live persona: microphone‑stand scarves, improvised introductions, and a willingness to stretch songs into controlled chaos. That performance style helped make Aerosmith a stadium draw and turned their concerts into a distinct part of their legacy, not merely a reproduction of the records.",
-              "The band’s late‑1970s struggles, lineup instability, and internal pressure tested Tyler’s leadership and resilience, but the group’s story is also one of reinvention. In the 1980s, Aerosmith re‑emerged with sharpened songwriting and renewed visibility, capped by the era‑defining Run‑DMC remake of “Walk This Way,” which introduced the band to a new generation of listeners.",
-              "During the 1990s, Tyler’s voice and writing kept Aerosmith competitive in the MTV and modern‑radio landscape. Songs like “Janie’s Got a Gun” and “Livin’ on the Edge” won major industry honors, while high-profile singles and videos helped turn Get a Grip into a multi‑format phenomenon.",
-              "Outside the band, Tyler pursued high‑visibility projects—ranging from television appearances to philanthropy—while remaining closely identified with Aerosmith’s sound and image. His charity work includes Janie’s Fund (launched in 2015 in partnership with Youth Villages), inspired by the themes of “Janie’s Got a Gun.”",
-              "After more than five decades at the band’s center, Tyler’s voice remained Aerosmith’s signature instrument—one reason the group’s August 2024 retirement from touring, following his vocal injury, carried unusual weight. Even with touring concluded, Tyler’s imprint on American hard rock endures through a catalog that still defines what an arena frontman can be."
-            ]
+            "Biography": "Steven Tyler (born Steven Victor Tallarico in Yonkers, New York) grew up with music as a constant presence and developed an early obsession with rock ’n’ roll showmanship. Before Aerosmith, he fronted regional bands that honed his taste for loud guitars, big choruses, and a vocalist’s job of turning every song into a scene.\n\nAfter relocating to the Boston area, Tyler crossed paths with guitarist Joe Perry, bassist Tom Hamilton, and drummer Joey Kramer—musicians who shared his love of blues‑based rock and the swagger of British and American hard‑rock records. The chemistry clicked quickly: Tyler’s elastic voice and restless stage presence became the focal point, while the band’s groove-heavy riffs gave him room to improvise and push melodies to extremes.\n\nBy 1970 the group had consolidated into Aerosmith, and Tyler helped define the band’s identity as both a singer and a writer. “Dream On,” written early in the band’s life, became a slow‑burn anthem that eventually broke into the pop mainstream and established Tyler as a frontman capable of vulnerability as well as raw power.\n\nIn the mid‑1970s, Aerosmith’s success exploded, and Tyler’s collaboration with Perry—often called the band’s creative engine—produced a run of defining singles. His lyrics mixed streetwise humor with romantic melodrama, while his vocal approach moved easily from blues rasp to sky‑high screams, making him instantly recognizable on radio.\n\nTyler also became famous for a kinetic live persona: microphone‑stand scarves, improvised introductions, and a willingness to stretch songs into controlled chaos. That performance style helped make Aerosmith a stadium draw and turned their concerts into a distinct part of their legacy, not merely a reproduction of the records.\n\nThe band’s late‑1970s struggles, lineup instability, and internal pressure tested Tyler’s leadership and resilience, but the group’s story is also one of reinvention. In the 1980s, Aerosmith re‑emerged with sharpened songwriting and renewed visibility, capped by the era‑defining Run‑DMC remake of “Walk This Way,” which introduced the band to a new generation of listeners.\n\nDuring the 1990s, Tyler’s voice and writing kept Aerosmith competitive in the MTV and modern‑radio landscape. Songs like “Janie’s Got a Gun” and “Livin’ on the Edge” won major industry honors, while high-profile singles and videos helped turn Get a Grip into a multi‑format phenomenon.\n\nOutside the band, Tyler pursued high‑visibility projects—ranging from television appearances to philanthropy—while remaining closely identified with Aerosmith’s sound and image. His charity work includes Janie’s Fund (launched in 2015 in partnership with Youth Villages), inspired by the themes of “Janie’s Got a Gun.”\n\nAfter more than five decades at the band’s center, Tyler’s voice remained Aerosmith’s signature instrument—one reason the group’s August 2024 retirement from touring, following his vocal injury, carried unusual weight. Even with touring concluded, Tyler’s imprint on American hard rock endures through a catalog that still defines what an arena frontman can be."
           }
         },
         {
@@ -847,17 +843,7 @@
               "Wikipedia": "https://en.wikipedia.org/wiki/Joe_Perry_(musician)",
               "Official Site": "https://joeperry.com/"
             },
-            "Biography": [
-              "Joe Perry, born Joseph Anthony Pereira in Lawrence, Massachusetts, emerged from the late‑’60s rock circuit with a love for blues phrasing, chunky riffs, and the raw crunch of early hard rock. His playing style balanced simplicity and bite—often built around a single unforgettable figure that could power an entire song.",
-              "Perry co‑founded Aerosmith in 1970 and quickly became the band’s sonic architect, pairing abrasive rhythm-guitar drive with melodic lead lines. Alongside Steven Tyler, he formed a songwriting partnership that anchored Aerosmith’s best‑known material, from swaggering rockers to radio‑ready hooks.",
-              "In the band’s 1970s rise, Perry’s riffs shaped a distinct American hard‑rock identity: gritty, blues‑rooted, and built for arenas. Tracks like “Walk This Way” and “Back in the Saddle” are also showcases for his ability to make rhythm guitar feel percussive and dangerous while still leaving space for grooves and vocal phrasing.",
-              "Perry’s role was never limited to lead guitar fireworks; he was central to arranging, tone selection, and the feel of the band’s recordings. That emphasis on texture—tight rhythm parts, layered guitars, and strategically placed solos—helped Aerosmith records sound massive without losing their bar-band grit.",
-              "After internal strain reached a breaking point, Perry left Aerosmith in 1979 and launched The Joe Perry Project, keeping him visible as a frontman and bandleader. His absence coincided with a turbulent period for Aerosmith, underlining how essential his playing and songwriting were to the group’s classic formula.",
-              "Perry returned to Aerosmith in 1984, reuniting the core creative team at a moment when rock radio and MTV were reshaping the industry. The reunion set the stage for the band’s mid‑’80s and ’90s resurgence, which combined Perry’s riff craft with more polished production and modern single-writing discipline.",
-              "The 1986 Run‑DMC collaboration on “Walk This Way” became one of the era’s defining cross‑genre moments, and Perry’s original guitar hook proved sturdy enough to thrive in an entirely new context. The success wasn’t nostalgia—it functioned as a relaunch, and it positioned Perry as a guitarist whose riffs translated across styles and audiences.",
-              "In later years, Perry expanded his profile through outside projects and collaborations while remaining a central Aerosmith figure on record and onstage. His credits include continued work with his own band and membership in high‑profile side projects, reflecting a career that extends beyond a single catalog.",
-              "Perry’s legacy is built on the rare combination of tone, riff-writing, and band chemistry: he helped give Aerosmith its instantly identifiable guitar voice. Even after the band’s retirement from touring in 2024, his riffs remain embedded in the basic vocabulary of American hard rock."
-            ]
+            "Biography": "Joe Perry, born Joseph Anthony Pereira in Lawrence, Massachusetts, emerged from the late‑’60s rock circuit with a love for blues phrasing, chunky riffs, and the raw crunch of early hard rock. His playing style balanced simplicity and bite—often built around a single unforgettable figure that could power an entire song.\n\nPerry co‑founded Aerosmith in 1970 and quickly became the band’s sonic architect, pairing abrasive rhythm-guitar drive with melodic lead lines. Alongside Steven Tyler, he formed a songwriting partnership that anchored Aerosmith’s best‑known material, from swaggering rockers to radio‑ready hooks.\n\nIn the band’s 1970s rise, Perry’s riffs shaped a distinct American hard‑rock identity: gritty, blues‑rooted, and built for arenas. Tracks like “Walk This Way” and “Back in the Saddle” are also showcases for his ability to make rhythm guitar feel percussive and dangerous while still leaving space for grooves and vocal phrasing.\n\nPerry’s role was never limited to lead guitar fireworks; he was central to arranging, tone selection, and the feel of the band’s recordings. That emphasis on texture—tight rhythm parts, layered guitars, and strategically placed solos—helped Aerosmith records sound massive without losing their bar-band grit.\n\nAfter internal strain reached a breaking point, Perry left Aerosmith in 1979 and launched The Joe Perry Project, keeping him visible as a frontman and bandleader. His absence coincided with a turbulent period for Aerosmith, underlining how essential his playing and songwriting were to the group’s classic formula.\n\nPerry returned to Aerosmith in 1984, reuniting the core creative team at a moment when rock radio and MTV were reshaping the industry. The reunion set the stage for the band’s mid‑’80s and ’90s resurgence, which combined Perry’s riff craft with more polished production and modern single-writing discipline.\n\nThe 1986 Run‑DMC collaboration on “Walk This Way” became one of the era’s defining cross‑genre moments, and Perry’s original guitar hook proved sturdy enough to thrive in an entirely new context. The success wasn’t nostalgia—it functioned as a relaunch, and it positioned Perry as a guitarist whose riffs translated across styles and audiences.\n\nIn later years, Perry expanded his profile through outside projects and collaborations while remaining a central Aerosmith figure on record and onstage. His credits include continued work with his own band and membership in high‑profile side projects, reflecting a career that extends beyond a single catalog.\n\nPerry’s legacy is built on the rare combination of tone, riff-writing, and band chemistry: he helped give Aerosmith its instantly identifiable guitar voice. Even after the band’s retirement from touring in 2024, his riffs remain embedded in the basic vocabulary of American hard rock."
           }
         },
         {
@@ -919,16 +905,7 @@
             "ExternalLinks": {
               "Wikipedia": "https://en.wikipedia.org/wiki/Tom_Hamilton_(musician)"
             },
-            "Biography": [
-              "Tom Hamilton, born Thomas William Hamilton in Colorado Springs, Colorado, became one of the most identifiable bassists in American hard rock by building lines that were both muscular and melodic. He approached the instrument as a rhythmic engine and a songwriting tool, giving Aerosmith songs a bounce that kept the band’s blues roots alive even at stadium volume.",
-              "Hamilton met guitarist Joe Perry before Aerosmith formed, and their shared musical instincts helped shape the band’s earliest direction. When Steven Tyler and Joey Kramer joined the nucleus, Hamilton’s bass became the glue between Perry’s riffs and Tyler’s vocal phrasing—anchoring grooves that could swing, stomp, or cruise depending on the song.",
-              "As Aerosmith rose in the 1970s, Hamilton’s work stood out because it rarely settled for root notes alone. His playing on classic tracks balances drive and movement, supporting big choruses while still adding details listeners can hum—an underrated part of why the band’s biggest songs feel so alive.",
-              "Hamilton is also an important writer in the Aerosmith story, with co‑writing credits on major hits. He co‑wrote “Sweet Emotion,” a defining mid‑’70s single, and later co‑wrote “Janie’s Got a Gun,” the socially charged 1989 song that became one of the band’s most decorated recordings.",
-              "Through lineup changes and shifting eras, Hamilton remained a steady presence, helping Aerosmith transition from raw early records to the bigger, more polished sound of their late‑’80s and ’90s peaks. His bass tone and sense of pocket continued to serve the band’s blend of hard-rock grit and pop‑leaning hooks.",
-              "Onstage, Hamilton’s role was often to keep Aerosmith’s show grounded while the front line turned songs into theater. That restraint—locking with drums, pushing choruses, and letting riffs breathe—was essential to the band’s reputation as a live powerhouse.",
-              "Recognition for Aerosmith’s legacy includes their 2001 induction into the Rock & Roll Hall of Fame, a milestone Hamilton shared as a founding member. The honor reflected not only the band’s hits but also the durability of their sound, in which Hamilton’s bass is a constant signature.",
-              "In the post‑touring era that followed Aerosmith’s 2024 retirement from the road, Hamilton continued to be identified with the band’s catalog and its most enduring grooves. His combination of songwriting contributions and distinctive feel ensures his place in the core identity of Aerosmith."
-            ]
+            "Biography": "Tom Hamilton, born Thomas William Hamilton in Colorado Springs, Colorado, became one of the most identifiable bassists in American hard rock by building lines that were both muscular and melodic. He approached the instrument as a rhythmic engine and a songwriting tool, giving Aerosmith songs a bounce that kept the band’s blues roots alive even at stadium volume.\n\nHamilton met guitarist Joe Perry before Aerosmith formed, and their shared musical instincts helped shape the band’s earliest direction. When Steven Tyler and Joey Kramer joined the nucleus, Hamilton’s bass became the glue between Perry’s riffs and Tyler’s vocal phrasing—anchoring grooves that could swing, stomp, or cruise depending on the song.\n\nAs Aerosmith rose in the 1970s, Hamilton’s work stood out because it rarely settled for root notes alone. His playing on classic tracks balances drive and movement, supporting big choruses while still adding details listeners can hum—an underrated part of why the band’s biggest songs feel so alive.\n\nHamilton is also an important writer in the Aerosmith story, with co‑writing credits on major hits. He co‑wrote “Sweet Emotion,” a defining mid‑’70s single, and later co‑wrote “Janie’s Got a Gun,” the socially charged 1989 song that became one of the band’s most decorated recordings.\n\nThrough lineup changes and shifting eras, Hamilton remained a steady presence, helping Aerosmith transition from raw early records to the bigger, more polished sound of their late‑’80s and ’90s peaks. His bass tone and sense of pocket continued to serve the band’s blend of hard-rock grit and pop‑leaning hooks.\n\nOnstage, Hamilton’s role was often to keep Aerosmith’s show grounded while the front line turned songs into theater. That restraint—locking with drums, pushing choruses, and letting riffs breathe—was essential to the band’s reputation as a live powerhouse.\n\nRecognition for Aerosmith’s legacy includes their 2001 induction into the Rock & Roll Hall of Fame, a milestone Hamilton shared as a founding member. The honor reflected not only the band’s hits but also the durability of their sound, in which Hamilton’s bass is a constant signature.\n\nIn the post‑touring era that followed Aerosmith’s 2024 retirement from the road, Hamilton continued to be identified with the band’s catalog and its most enduring grooves. His combination of songwriting contributions and distinctive feel ensures his place in the core identity of Aerosmith."
           }
         },
         {
@@ -989,16 +966,7 @@
             "ExternalLinks": {
               "Wikipedia": "https://en.wikipedia.org/wiki/Joey_Kramer"
             },
-            "Biography": [
-              "Joey Kramer, born Joseph Michael Kramer in the Bronx, New York City, built a drumming style that fused hard-rock power with a loose, swinging feel. Rather than playing everything straight, he emphasized groove—an approach that helped Aerosmith sound rooted in rhythm and blues even when the guitars were at full roar.",
-              "Kramer’s path into Aerosmith ran through Boston’s music scene, where he connected with Steven Tyler and shared a vision for a band that could be heavy, flashy, and danceable. As the group took shape in 1970, Kramer’s drumming became the foundation for songs that needed both grit and bounce.",
-              "During Aerosmith’s early years, Kramer helped define the push‑and‑pull that makes classic tracks feel alive. The drums don’t just keep time; they create tension, release, and swagger—qualities that supported Tyler’s theatrical vocals and the dual-guitar attack that would become the band’s signature.",
-              "Kramer is also part of the band’s origin story in a more literal way: he is commonly credited with coming up with the name “Aerosmith.” That small detail fits his larger role as a builder of identity—someone invested in how the group sounded, looked, and moved as a single unit.",
-              "Through the 1970s boom, Kramer’s playing powered both the hits and the deeper cuts, especially on albums that leaned into heavier riffs and tighter arrangements. His ability to lock into a mid‑tempo stomp or open up into a fast, churning rock beat made Aerosmith versatile without losing their core feel.",
-              "As the band navigated later decades—comebacks, new audiences, and changing production trends—Kramer’s drumming remained a link to their original character. Even on polished radio singles, the rhythmic sensibility kept the songs from drifting too far from the band’s roots.",
-              "Aerosmith’s career honors include their induction into the Rock & Roll Hall of Fame in 2001, recognizing the classic lineup’s influence and longevity. Kramer shared that milestone as a co‑founding member whose grooves are embedded in the band’s most recognizable recordings.",
-              "In the later phase of the group’s live career, Kramer was absent from some touring periods, reflecting the realities of a decades‑spanning band. Still, his role in shaping Aerosmith’s rhythmic DNA remains central to how their music is heard and remembered."
-            ]
+            "Biography": "Joey Kramer, born Joseph Michael Kramer in the Bronx, New York City, built a drumming style that fused hard-rock power with a loose, swinging feel. Rather than playing everything straight, he emphasized groove—an approach that helped Aerosmith sound rooted in rhythm and blues even when the guitars were at full roar.\n\nKramer’s path into Aerosmith ran through Boston’s music scene, where he connected with Steven Tyler and shared a vision for a band that could be heavy, flashy, and danceable. As the group took shape in 1970, Kramer’s drumming became the foundation for songs that needed both grit and bounce.\n\nDuring Aerosmith’s early years, Kramer helped define the push‑and‑pull that makes classic tracks feel alive. The drums don’t just keep time; they create tension, release, and swagger—qualities that supported Tyler’s theatrical vocals and the dual-guitar attack that would become the band’s signature.\n\nKramer is also part of the band’s origin story in a more literal way: he is commonly credited with coming up with the name “Aerosmith.” That small detail fits his larger role as a builder of identity—someone invested in how the group sounded, looked, and moved as a single unit.\n\nThrough the 1970s boom, Kramer’s playing powered both the hits and the deeper cuts, especially on albums that leaned into heavier riffs and tighter arrangements. His ability to lock into a mid‑tempo stomp or open up into a fast, churning rock beat made Aerosmith versatile without losing their core feel.\n\nAs the band navigated later decades—comebacks, new audiences, and changing production trends—Kramer’s drumming remained a link to their original character. Even on polished radio singles, the rhythmic sensibility kept the songs from drifting too far from the band’s roots.\n\nAerosmith’s career honors include their induction into the Rock & Roll Hall of Fame in 2001, recognizing the classic lineup’s influence and longevity. Kramer shared that milestone as a co‑founding member whose grooves are embedded in the band’s most recognizable recordings.\n\nIn the later phase of the group’s live career, Kramer was absent from some touring periods, reflecting the realities of a decades‑spanning band. Still, his role in shaping Aerosmith’s rhythmic DNA remains central to how their music is heard and remembered."
           }
         },
         {
@@ -1061,16 +1029,7 @@
             "ExternalLinks": {
               "Wikipedia": "https://en.wikipedia.org/wiki/Brad_Whitford"
             },
-            "Biography": [
-              "Brad Whitford, born Bradley Ernest Whitford in Winchester, Massachusetts, developed as a guitarist in local bands before stepping into one of classic rock’s most demanding roles. His playing is often described as a perfect complement to Joe Perry: tight, reliable, and rooted in a deep understanding of rhythm‑guitar craft as well as lead texture.",
-              "Whitford joined Aerosmith in 1971, replacing original guitarist Ray Tabano and helping complete the band’s signature two‑guitar frontline. The pairing allowed Aerosmith to balance thick rhythm layers with sharp, bluesy lead lines—an approach that became a hallmark of their classic records.",
-              "On the band’s 1970s run of landmark albums, Whitford contributed a steadiness that kept riffs heavy and arrangements disciplined. He also became a songwriting contributor, with credits that include co‑writing “Last Child,” a track that captures Aerosmith’s blend of funk‑tinged groove and hard‑rock bite.",
-              "Whitford’s strength lies in making songs feel solid without sounding rigid: he locks into the pocket, reinforces hooks, and chooses parts that amplify a chorus rather than competing with it. That sensibility is one reason Aerosmith’s biggest tracks feel massive and cohesive even when the performances are raw.",
-              "In 1981, Whitford left Aerosmith during a turbulent stretch and pursued outside work, including the project Whitford/St. Holmes. The move highlighted how much of Aerosmith’s classic sound relied on the balance between its players—especially the two‑guitar architecture Whitford helped define.",
-              "Whitford rejoined Aerosmith in 1984, returning at the start of the band’s major comeback era. His return restored the classic lineup’s chemistry and supported a resurgence that included MTV‑era singles, large‑scale tours, and a renewed focus on crafting hits without abandoning the band’s blues roots.",
-              "As Aerosmith’s later decades unfolded, Whitford remained a key onstage presence and a dependable studio force, helping the band move between hard-rock grit and more polished pop‑leaning singles. His versatility made it possible for Aerosmith to update their sound while still feeling like the same band.",
-              "Whitford shared the group’s career honors, including the 2001 induction into the Rock & Roll Hall of Fame. His legacy within Aerosmith is the kind that guitarists recognize immediately: the part of the sound that keeps everything locked together."
-            ]
+            "Biography": "Brad Whitford, born Bradley Ernest Whitford in Winchester, Massachusetts, developed as a guitarist in local bands before stepping into one of classic rock’s most demanding roles. His playing is often described as a perfect complement to Joe Perry: tight, reliable, and rooted in a deep understanding of rhythm‑guitar craft as well as lead texture.\n\nWhitford joined Aerosmith in 1971, replacing original guitarist Ray Tabano and helping complete the band’s signature two‑guitar frontline. The pairing allowed Aerosmith to balance thick rhythm layers with sharp, bluesy lead lines—an approach that became a hallmark of their classic records.\n\nOn the band’s 1970s run of landmark albums, Whitford contributed a steadiness that kept riffs heavy and arrangements disciplined. He also became a songwriting contributor, with credits that include co‑writing “Last Child,” a track that captures Aerosmith’s blend of funk‑tinged groove and hard‑rock bite.\n\nWhitford’s strength lies in making songs feel solid without sounding rigid: he locks into the pocket, reinforces hooks, and chooses parts that amplify a chorus rather than competing with it. That sensibility is one reason Aerosmith’s biggest tracks feel massive and cohesive even when the performances are raw.\n\nIn 1981, Whitford left Aerosmith during a turbulent stretch and pursued outside work, including the project Whitford/St. Holmes. The move highlighted how much of Aerosmith’s classic sound relied on the balance between its players—especially the two‑guitar architecture Whitford helped define.\n\nWhitford rejoined Aerosmith in 1984, returning at the start of the band’s major comeback era. His return restored the classic lineup’s chemistry and supported a resurgence that included MTV‑era singles, large‑scale tours, and a renewed focus on crafting hits without abandoning the band’s blues roots.\n\nAs Aerosmith’s later decades unfolded, Whitford remained a key onstage presence and a dependable studio force, helping the band move between hard-rock grit and more polished pop‑leaning singles. His versatility made it possible for Aerosmith to update their sound while still feeling like the same band.\n\nWhitford shared the group’s career honors, including the 2001 induction into the Rock & Roll Hall of Fame. His legacy within Aerosmith is the kind that guitarists recognize immediately: the part of the sound that keeps everything locked together."
           }
         }
       ],
@@ -2889,439 +2848,8 @@
     {
       "ArtistID": "queen",
       "Name": "Queen",
-      "Type": "Band",
-      "Origin": {
-        "City": "London",
-        "Region": "England",
-        "Country": "United Kingdom"
-      },
-      "YearsActive": [
-        "1970–present"
-      ],
-      "Genres": [
-        "rock",
-        "hard rock",
-        "glam rock",
-        "progressive rock",
-        "arena rock"
-      ],
-      "Labels": [
-        "EMI",
-        "Parlophone",
-        "Elektra",
-        "Capitol",
-        "Hollywood",
-        "Island",
-        "Virgin EMI"
-      ],
-      "Overview": "Queen is a British rock band formed in London in 1970, built around Freddie Mercury’s theatrical vocal presence, Brian May’s layered guitar sound, Roger Taylor’s punchy drums and high harmonies, and John Deacon’s melodic, groove‑first bass. The group combined hard rock power with pop instincts, stacking harmonies and arrangements until songs felt larger than the room they were played in.\n\nAfter early albums established their range, Queen’s mid‑1970s run turned them into global headliners. Tracks like “Bohemian Rhapsody” and “Somebody to Love” showcased a band that could shift from operatic drama to gospel‑leaning soul without losing the hook, while still keeping a hard‑rock backbone on stage.\n\nBy the late 1970s and early 1980s, Queen were writing anthems that became part of stadium culture—“We Will Rock You,” “We Are the Champions,” and “Another One Bites the Dust” among them. Their ability to treat the studio like an instrument and then translate that spectacle to live performance made them one of the defining arena acts of the era.\n\nFreddie Mercury’s death in 1991 closed the classic chapter, but the band’s catalogue continued to grow in cultural presence through compilations, reissues, and high‑profile performances and collaborations. Queen’s legacy is a rare mix of musicianship and showmanship: heavy riffs, unforgettable melodies, and a sense that every chorus was written to be sung back by a crowd.",
-      "NotableAlbums": [
-        {
-          "Title": "Queen",
-          "Year": "1973",
-          "Notes": "Debut studio album that introduced the band’s heavy, harmony‑rich sound and established them as a serious new British rock act."
-        },
-        {
-          "Title": "Queen II",
-          "Year": "1974",
-          "Notes": "Breakthrough UK success that pushed their layered arrangements and dramatic songwriting further, cementing their early identity."
-        },
-        {
-          "Title": "Sheer Heart Attack",
-          "Year": "1974",
-          "Notes": "A sharper, more radio‑ready leap that broadened their sound and helped set the stage for international recognition."
-        },
-        {
-          "Title": "A Night at the Opera",
-          "Year": "1975",
-          "Notes": "The blockbuster statement featuring “Bohemian Rhapsody,” proving Queen could fuse ambitious production with mass appeal."
-        },
-        {
-          "Title": "News of the World",
-          "Year": "1977",
-          "Notes": "Stadium‑ready album that delivered “We Will Rock You” and “We Are the Champions,” two of rock’s most enduring anthems."
-        },
-        {
-          "Title": "The Game",
-          "Year": "1980",
-          "Notes": "A sleek, crossover‑friendly peak that included “Another One Bites the Dust” and showed the band’s pop and funk agility."
-        },
-        {
-          "Title": "Greatest Hits",
-          "Year": "1981",
-          "Notes": "Career‑defining compilation that became the best‑selling album of all time in the UK and kept their classics in constant rotation."
-        }
-      ],
-      "SignatureSongs": [
-        "Bohemian Rhapsody",
-        "We Will Rock You",
-        "We Are the Champions",
-        "Another One Bites the Dust",
-        "Somebody to Love"
-      ],
-      "Achievements": [
-        {
-          "Type": "Rock and Roll Hall of Fame",
-          "Year": 2001,
-          "Detail": "Inducted into the Rock and Roll Hall of Fame, recognizing Queen’s lasting influence on rock performance, songwriting, and studio craft."
-        },
-        {
-          "Type": "BRIT Awards",
-          "Year": 1990,
-          "Detail": "Received the BRIT Award for Outstanding Contribution to Music, a major UK honor reflecting the band’s cultural impact and hitmaking legacy."
-        },
-        {
-          "Type": "Recording Academy",
-          "Year": 2018,
-          "Detail": "Honored with the Grammy Lifetime Achievement Award, acknowledging decades of landmark recordings and global influence across generations."
-        }
-      ],
-      "KeyFacts": [
-        "Formed in London in 1970 by Freddie Mercury, Brian May, and Roger Taylor; John Deacon joined in 1971.",
-        "Known for multi‑part vocal harmonies, May’s distinctive layered guitar orchestrations, and Mercury’s arena‑scale stage presence.",
-        "Wrote and recorded major anthems that became staples at sporting events and in stadium culture worldwide.",
-        "Since Freddie Mercury’s death, Brian May and Roger Taylor have kept the catalogue alive through major live projects, most prominently the long‑running Queen + Adam Lambert collaboration (2011–present)."
-      ],
-      "ExternalLinks": {
-        "OfficialSite": "https://www.queenonline.com/",
-        "AllMusic": "https://www.allmusic.com/artist/queen-mn0000858827",
-        "Grammy": "https://www.grammy.com/artists/queen/10348",
-        "Wikipedia": "https://en.wikipedia.org/wiki/Queen_(band)",
-        "Discogs": "https://www.discogs.com/artist/81013-Queen"
-      },
-      "CoreMembers": [
-        {
-          "Name": "Freddie Mercury",
-          "Roles": [
-            "lead vocals",
-            "piano"
-          ],
-          "Years": "1970–1991",
-          "Overview": "Vocalist and primary frontman whose songwriting and stagecraft defined Queen’s theatrical scale and mass appeal.",
-          "Bio": {
-            "BioID": "queen-freddie-mercury",
-            "ArtistID": "queen",
-            "ArtistName": "Queen",
-            "MemberName": "Freddie Mercury",
-            "FullName": "Freddie Mercury",
-            "PrimaryInstruments": [
-              "vocals",
-              "piano"
-            ],
-            "Occupations": [
-              "singer",
-              "songwriter"
-            ],
-            "Genres": [
-              "rock",
-              "hard rock",
-              "glam rock"
-            ],
-            "Birth": {
-              "Date": "1946-09-05",
-              "Place": "Stone Town, Zanzibar (now Tanzania)"
-            },
-            "Death": {
-              "Date": "1991-11-24",
-              "Place": "Kensington, London, England",
-              "Cause": "Bronchopneumonia resulting from AIDS"
-            },
-            "ActiveYears": "1969–1991",
-            "AssociatedActs": [
-              "Queen"
-            ],
-            "KeyAlbums": [
-              "A Night at the Opera",
-              "News of the World",
-              "The Game",
-              "Greatest Hits"
-            ],
-            "KeySongs": [
-              "Bohemian Rhapsody",
-              "Somebody to Love",
-              "We Are the Champions",
-              "Don't Stop Me Now",
-              "Crazy Little Thing Called Love"
-            ],
-            "Achievements": [
-              "Co-founded Queen in 1970 and became one of rock’s most distinctive and influential frontmen.",
-              "Wrote multiple signature hits that defined Queen’s catalog and helped the band become a global stadium act."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Freddie_Mercury"
-            },
-            "Biography": "Freddie Mercury (born Farrokh Bulsara in Stone Town, Zanzibar) grew up between East Africa and India before his family relocated to England in the mid‑1960s. He attended British‑style boarding school in India, began piano lessons as a child, and developed an early taste for rock ’n’ roll, theatrical performance, and visual style.\n\nAfter the move to the London area, Mercury studied art and design, sharpening the sense of imagery and branding that would later become inseparable from Queen’s identity. He immersed himself in the late‑1960s music scene, sang in early bands, and gravitated toward musicians whose ambition matched his own.\n\nWhen guitarist Brian May and drummer Roger Taylor’s group evolved into a new project, Mercury pushed hard for a bolder direction—musically and visually. He proposed the name “Queen,” shaped the band’s early presentation, and quickly emerged as a commanding frontman with a rare mix of precision, humor, and swagger.\n\nMercury’s songwriting became central to the group’s rise. He had an instinct for hooks and contrast—moving from vaudeville flair to hard rock bite, from gospel‑tinged drama to radio‑sharp pop, often within the same album. His songs helped define Queen’s early breakthrough and their later stadium‑scale era.\n\nAs a vocalist, he combined power with control and an unmistakable tone, using phrasing as much as range to create character in a lyric. On stage he treated performance like theater: communicating directly with audiences, turning call‑and‑response into a weapon, and building a persona that made even enormous venues feel intimate.\n\nQueen’s live peak is often associated with Mercury’s ability to take command of a crowd—an image cemented by high‑profile festival and stadium performances in the 1980s. His instincts for pacing, improvisation, and audience connection turned familiar songs into communal events.\n\nBeyond Queen, Mercury pursued parallel creative outlets. He recorded solo work and explored collaboration, including projects that leaned into dance rhythms and grander, more operatic arrangements. These side paths weren’t departures so much as extensions of the same appetite for scale, color, and risk.\n\nIn the late 1980s, as his health declined, Mercury remained focused on making records. He continued to write and record with Queen, driving sessions with urgency and determination, often prioritizing performance and delivery over explanation—capturing takes that carried emotional weight even when he said little about what he was facing.\n\nMercury died in London in November 1991, and his death brought a global spotlight to AIDS awareness at a time when stigma remained widespread. The response to his passing underscored how deeply his voice and presence had travelled beyond rock fandom into broader culture.\n\nHis legacy endures in the way singers and performers borrow from his blend of virtuosity and fearlessness—equal parts musician, actor, and ringmaster. Decades later, Mercury’s recordings remain a benchmark for vocal charisma, and his approach to the stage still defines what “frontman” can mean."
-          }
-        },
-        {
-          "Name": "Brian May",
-          "Roles": [
-            "guitar",
-            "backing vocals"
-          ],
-          "Years": "1970–present",
-          "Overview": "Co-founder and lead guitarist known for layered harmonies, distinctive tone, and major songwriting contributions.",
-          "Bio": {
-            "BioID": "queen-brian-may",
-            "ArtistID": "queen",
-            "ArtistName": "Queen",
-            "MemberName": "Brian May",
-            "FullName": "Brian May",
-            "PrimaryInstruments": [
-              "guitar",
-              "vocals"
-            ],
-            "Occupations": [
-              "musician",
-              "songwriter",
-              "astrophysicist"
-            ],
-            "Genres": [
-              "rock",
-              "hard rock"
-            ],
-            "Birth": {
-              "Date": "1947-07-19",
-              "Place": "Hampton Hill, Middlesex, England"
-            },
-            "ActiveYears": "1968–present",
-            "AssociatedActs": [
-              "Queen",
-              "Smile"
-            ],
-            "KeyAlbums": [
-              "A Night at the Opera",
-              "News of the World",
-              "The Works",
-              "Innuendo"
-            ],
-            "KeySongs": [
-              "We Will Rock You",
-              "Tie Your Mother Down",
-              "I Want It All",
-              "Who Wants to Live Forever",
-              "Save Me"
-            ],
-            "Achievements": [
-              "Co-founded Queen and shaped its signature guitar sound through layered arrangements and harmonized leads.",
-              "Wrote many of Queen’s most enduring songs, including stadium anthems that remain central to the band’s legacy."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_May",
-              "Official Site": "https://brianmay.com/"
-            },
-            "Biography": "Brian May grew up in west London with a strong interest in both science and music. As a teenager, he and his father built the Red Special guitar—an instrument whose distinctive tone became inseparable from Queen’s sound and May’s orchestral approach to layered parts.\n\nMay studied physics and mathematics at Imperial College London and began doctoral work in astrophysics, balancing academic ambition with the pull of performing. Even in the early days, his playing combined precision and drama: melodic lead lines, carefully voiced chords, and a sense of arrangement that treated the guitar like a choir.\n\nBefore Queen’s name was set, May co‑founded the band that would become its nucleus, developing the musical chemistry that later anchored the group’s most ambitious material. When Freddie Mercury joined and pushed for a larger identity, May’s disciplined musicianship helped turn that ambition into durable songs and recordings.\n\nAs Queen broke through, May became one of rock’s most identifiable guitarists. His solos often sounded sung rather than shredded, and his layered “guitar orchestra” parts gave Queen a signature sheen—thick, harmonized textures that could feel symphonic without losing bite.\n\nMay was also a major songwriter, contributing defining tracks and shaping the band’s emotional range—from heavy riff‑driven statements to songs built around tenderness, regret, or uplift. His writing often paired big melodies with a sense of narrative, mirroring the cinematic arc of Queen’s live shows.\n\nAfter Freddie Mercury’s death, May helped steward Queen’s legacy and kept the music active through major public performances and collaborations. He has spoken consistently about honoring Mercury’s central role while ensuring the songs remain living pieces rather than museum artifacts.\n\nIn parallel, May maintained a long‑standing commitment to science. After returning to his earlier research, he completed a PhD in astrophysics decades after beginning the work, an uncommon public example of a major rock musician finishing an academic path he once paused for touring life.\n\nMay’s public life also includes advocacy—particularly around animal welfare—alongside broader charitable work. That combination of high‑profile music and sustained activism has become part of how he is recognized beyond the guitar.\n\nHe has released solo material and continued to appear as a collaborator across projects, but Queen remains the core of his public identity—both as a player whose tone is instantly recognizable and as a musical architect of the band’s grandest arrangements.\n\nAcross eras, May’s through‑line is craftsmanship: the homemade guitar, the carefully stacked harmonies, the balance of intellect and emotion. His influence is heard in generations of players who treat the guitar not just as an instrument for riffs, but as a compositional tool capable of building entire worlds."
-          }
-        },
-        {
-          "Name": "Roger Taylor",
-          "Roles": [
-            "drums",
-            "backing vocals"
-          ],
-          "Years": "1970–present",
-          "Overview": "Drummer and key harmony vocalist who also wrote major hits that expanded Queen’s pop reach.",
-          "Bio": {
-            "BioID": "queen-roger-taylor",
-            "ArtistID": "queen",
-            "ArtistName": "Queen",
-            "MemberName": "Roger Taylor",
-            "FullName": "Roger Taylor",
-            "PrimaryInstruments": [
-              "drums",
-              "vocals"
-            ],
-            "Occupations": [
-              "musician",
-              "songwriter",
-              "record producer"
-            ],
-            "Genres": [
-              "rock",
-              "hard rock"
-            ],
-            "Birth": {
-              "Date": "1949-07-26",
-              "Place": "King's Lynn, Norfolk, England"
-            },
-            "ActiveYears": "1965–present",
-            "AssociatedActs": [
-              "Queen",
-              "Smile",
-              "The Cross"
-            ],
-            "KeyAlbums": [
-              "A Night at the Opera",
-              "The Game",
-              "The Works",
-              "A Kind of Magic"
-            ],
-            "KeySongs": [
-              "Radio Ga Ga",
-              "A Kind of Magic",
-              "I'm in Love with My Car",
-              "These Are the Days of Our Lives",
-              "Under Pressure"
-            ],
-            "Achievements": [
-              "Co-founded Queen and became central to the band’s sound as both drummer and high-harmony vocalist.",
-              "Wrote major hits that helped define Queen’s 1980s era and broaden their stylistic range."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/Roger_Taylor_(Queen_drummer)",
-              "Official Site": "https://www.rogertaylorofficial.com/"
-            },
-            "Biography": "Roger Taylor was born in 1949 and spent his early years in England, developing a love for rock music and a talent for percussion while still in school. He played in local groups before moving into the university‑era scene that would eventually feed into Queen’s formation.\n\nAs a drummer, Taylor combined punch and finesse: crisp snare work, dramatic cymbal accents, and a feel that could swing, stomp, or glide depending on the song. His playing helped Queen pivot easily between heavy rock, pop, and theatrical epics without sounding like a different band each time.\n\nTaylor also brought a distinctive voice to Queen. His high harmonies and occasional lead vocals widened the band’s palette, and his presence in the vocal stack was a key ingredient in the group’s signature, multi‑layered sound.\n\nWithin the band, Taylor emerged as a consistent songwriter, contributing tracks that became central to Queen’s live identity. He often wrote from a perspective that balanced wit with urgency, capturing the tension between showmanship and real‑world anxiety that ran through much of the 1980s.\n\nIn the studio, Taylor’s interests extended beyond drumming into broader production choices—how the rhythm section shaped the song’s architecture, how backing vocals were arranged, and how a track could be engineered for maximum impact in an arena.\n\nOutside Queen, Taylor pursued solo projects and side bands that let him explore a more direct rock approach and experiment with writing and performance roles beyond his place behind the kit. Those projects also highlighted how much of Queen’s propulsion and attitude came from his instincts.\n\nAfter Freddie Mercury’s death, Taylor remained part of the effort to keep Queen’s music active in the public eye. He helped manage the balance between tribute and continuation, emphasizing that collaboration in live settings could celebrate the songs without pretending to replace Mercury.\n\nTaylor has also maintained visibility as a personality—wry, candid, and often protective of the band’s standards. That bluntness is part of why fans often view him as a guardian of Queen’s edge, making sure the spectacle doesn’t dilute the rock core.\n\nIn the modern touring era, Taylor’s role has continued to be both musical and symbolic: he represents continuity with the classic lineup while still performing at a level that sustains the band’s demanding catalogue night after night.\n\nTaylor’s broader legacy is the rare combination of drummer, singer, and songwriter at the heart of one of rock’s biggest bands. His work shows how rhythm can be as much about character as timing, and how a band’s “voice” can come from the kit as surely as from the microphone."
-          }
-        },
-        {
-          "Name": "John Deacon",
-          "Roles": [
-            "bass"
-          ],
-          "Years": "1971–1997",
-          "Overview": "Bassist and songwriter whose groove-focused writing produced several of Queen’s biggest singles.",
-          "Bio": {
-            "BioID": "queen-john-deacon",
-            "ArtistID": "queen",
-            "ArtistName": "Queen",
-            "MemberName": "John Deacon",
-            "FullName": "John Deacon",
-            "PrimaryInstruments": [
-              "bass"
-            ],
-            "Occupations": [
-              "musician",
-              "songwriter"
-            ],
-            "Genres": [
-              "rock",
-              "hard rock"
-            ],
-            "Birth": {
-              "Date": "1951-08-19",
-              "Place": "Leicester, England"
-            },
-            "ActiveYears": "1965–1997",
-            "AssociatedActs": [
-              "Queen"
-            ],
-            "KeyAlbums": [
-              "News of the World",
-              "The Game",
-              "Hot Space",
-              "The Works"
-            ],
-            "KeySongs": [
-              "Another One Bites the Dust",
-              "You're My Best Friend",
-              "I Want to Break Free",
-              "Under Pressure",
-              "One Vision"
-            ],
-            "Achievements": [
-              "Joined Queen in 1971, completing the classic lineup and helping solidify the band’s rhythmic foundation.",
-              "Wrote multiple top hits that became staples of Queen’s catalog and classic rock radio."
-            ],
-            "ExternalLinks": {
-              "Wikipedia": "https://en.wikipedia.org/wiki/John_Deacon"
-            },
-            "Biography": "John Deacon was born in 1951 and grew up with a strong interest in electronics as well as music. That technical curiosity later became part of Queen’s story, because he didn’t just play bass—he also understood how sound was made, shaped, and amplified.\n\nAfter studying and playing in bands, Deacon joined Queen in 1971, completing the classic lineup with Freddie Mercury, Brian May, and Roger Taylor. His arrival stabilized the group’s rhythm section and added a musician whose instincts were quieter on stage but highly influential in the groove.\n\nDeacon’s bass playing became one of Queen’s anchors. He could lock into a tight, funk‑leaning pocket when a song demanded it, or provide simple, melodic motion that supported the band’s layered harmonies. His parts often sound inevitable—so natural that they disappear into the song until you try to imagine the track without them.\n\nAs a songwriter, Deacon delivered some of Queen’s biggest hits, including songs built around instantly recognizable bass ideas and clean pop craftsmanship. His writing showed a knack for structure and economy: memorable riffs, direct choruses, and arrangements that left space for the band’s larger theatrical moves.\n\nHis electronics background also fed into Queen’s sound. Deacon was associated with gear and circuit ideas that helped expand the band’s palette, and his practical approach complemented May’s layered guitar textures and Mercury’s vocal drama.\n\nThrough Queen’s peak years, Deacon remained a low‑profile figure compared with his bandmates, but his contribution was constant—both in the studio and on stage. Many fans and musicians point to his work as the “glue” that made Queen’s stylistic leaps feel coherent.\n\nAfter Freddie Mercury’s death in 1991, Deacon was deeply affected and gradually stepped away from the public life of the band. He participated only sporadically in later Queen activities and increasingly chose privacy over performance as the years passed.\n\nDeacon’s final stretch as an active member included a last major recording period with the remaining bandmates before he effectively retired from the music industry in the late 1990s. From that point on, he largely avoided interviews and public appearances, reinforcing how decisively he separated his life from celebrity.\n\nEven in retirement, Deacon’s importance to Queen’s legacy is acknowledged by the band’s continued respect for his wishes and his central role in the classic lineup’s sound. The combination of his musicianship and his restraint is part of what makes his story unusual in rock history.\n\nDeacon’s life in Queen is a reminder that not every essential member needs to be flamboyant to be foundational. His bass lines, songs, and technical sensibility remain built into the architecture of the recordings—still powering the music every time it’s played."
-          }
-        }
-      ],
-      "NonCoreMembers": [
-        {
-          "Name": "Mike Grose",
-          "Roles": [
-            "Early Queen bassist who played with the band in their formative London period before the classic lineup was finalized."
-          ],
-          "Years": "1970",
-          "Instruments": [
-            "bass"
-          ],
-          "Albums": [],
-          "Replacing": [],
-          "ReplacedBy": [
-            "Barry Mitchell"
-          ],
-          "Overview": "Mike Grose was one of Queen’s earliest bass players, appearing with the band in 1970 during its first months of live work. His short tenure helped bridge the transition from the band’s earliest lineup toward the stable configuration that followed. He was succeeded by Barry Mitchell as Queen continued to refine its personnel and repertoire."
-        },
-        {
-          "Name": "Barry Mitchell",
-          "Roles": [
-            "Early Queen bassist who followed Mike Grose and played with the group during 1970–1971, prior to John Deacon’s arrival."
-          ],
-          "Years": "1970–1971",
-          "Instruments": [
-            "bass"
-          ],
-          "Albums": [],
-          "Replacing": [
-            "Mike Grose"
-          ],
-          "ReplacedBy": [
-            "Doug Bogie"
-          ],
-          "Overview": "Barry Mitchell played bass for Queen in 1970–1971, during the period when the band was building its early set and reputation on the London circuit. His time with the group came before Queen’s major recording breakthrough and before the final classic lineup was in place. After Mitchell, the band continued auditioning bassists as it moved toward a permanent solution."
-        },
-        {
-          "Name": "Doug Bogie",
-          "Roles": [
-            "Brief early Queen bassist who served as a stopgap in 1971 as the band continued searching for a permanent fourth member."
-          ],
-          "Years": "1971",
-          "Instruments": [
-            "bass"
-          ],
-          "Albums": [],
-          "Replacing": [
-            "Barry Mitchell"
-          ],
-          "ReplacedBy": [
-            "John Deacon"
-          ],
-          "Overview": "Doug Bogie was a short‑term bassist for Queen in 1971, part of the band’s final stretch of lineup changes before settling into its classic four‑member configuration. His role was transitional, helping keep the band active while auditions continued. John Deacon ultimately joined later in 1971 and became Queen’s long‑term bassist."
-        },
-        {
-          "Name": "Spike Edney",
-          "Roles": [
-            "Long‑time touring keyboardist and additional musician who expanded Queen’s live sound from the mid‑1980s onward, remaining a key part of their concert lineup."
-          ],
-          "Years": "1984–present (touring)",
-          "Instruments": [
-            "keyboards",
-            "rhythm guitar",
-            "backing vocals"
-          ],
-          "Albums": [
-            "The Works (touring)",
-            "Queen + Paul Rodgers (touring)",
-            "Queen + Adam Lambert (touring)"
-          ],
-          "Replacing": [
-            "Fred Mandel (touring keyboards)"
-          ],
-          "ReplacedBy": [],
-          "Overview": "Spike Edney joined Queen’s touring band in the mid‑1980s to help reproduce the group’s increasingly layered studio arrangements on stage. A multi‑instrumentalist, he has remained a steady presence across multiple eras of Queen’s live performances. His long tenure has made him one of the most recognizable auxiliary players associated with Queen in concert."
-        },
-        {
-          "Name": "Adam Lambert",
-          "Roles": [
-            "American singer who has served as the onstage lead vocalist for Queen’s live performances in the Queen + Adam Lambert collaboration."
-          ],
-          "Years": "2011–present (touring)",
-          "Instruments": [
-            "lead vocals"
-          ],
-          "Albums": [
-            "Live Around the World (Queen + Adam Lambert)"
-          ],
-          "Replacing": [],
-          "ReplacedBy": [],
-          "Overview": "Adam Lambert rose to international attention as a finalist on American Idol, where he first performed with Queen in 2009. Beginning in 2011, he became the band’s regular touring frontman alongside Brian May and Roger Taylor under the name Queen + Adam Lambert. He is presented as a featured collaborator rather than a replacement for Freddie Mercury, bringing his own vocal style to Queen’s catalog in concert."
-        }
-      ]
+      "CoreMembers": [],
+      "NonCoreMembers": []
     },
     {
       "ArtistID": "r-e-m",
