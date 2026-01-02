@@ -3494,701 +3494,428 @@
     {
       "ArtistID": "the-beatles",
       "Name": "The Beatles",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Liverpool",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
       "YearsActive": [
-        ""
+        "1960–1970"
       ],
+      "Genres": [
+        "rock",
+        "pop",
+        "psychedelic rock",
+        "beat"
+      ],
+      "Labels": [
+        "Parlophone",
+        "Apple",
+        "Capitol"
+      ],
+      "Overview": "The Beatles were an English rock band formed in Liverpool in 1960, built around the songwriting partnership of John Lennon and Paul McCartney. With George Harrison on lead guitar and Ringo Starr on drums, the group quickly moved from local shows to punishing club residencies in Hamburg and a breakthrough run of UK singles and albums produced by George Martin.\n\nBy 1963–64, “Beatlemania” turned the band into a global phenomenon and a centerpiece of the British Invasion. Their early work fused skiffle, 1950s rock ’n’ roll, and tight pop craft, while their public image—sharp harmonies, witty press banter, and unified presentation—helped reshape how a rock band could function as both musical unit and cultural force.\n\nAs the decade progressed, The Beatles pushed studio technique and song form into new territory, expanding from straightforward pop into folk-rock, psychedelia, Indian-influenced textures, and more adventurous production. Albums such as Revolver and Sgt. Pepper’s Lonely Hearts Club Band helped define the idea of the studio album as an artistic statement, while later records captured a band simultaneously at its most innovative and most fractured.\n\nInternal tensions, business pressures, and diverging creative paths culminated in the group’s breakup in 1970. In the years since, their catalogue has remained a reference point for songwriting, recording innovation, and modern popular music—one of the most influential and commercially dominant bodies of work in rock history.",
+      "NotableAlbums": [
+        {
+          "Title": "Please Please Me",
+          "Year": "1963",
+          "Notes": "A rapid-fire debut recorded largely in a single day that captured the band’s early stage energy and launched their UK album dominance."
+        },
+        {
+          "Title": "A Hard Day’s Night",
+          "Year": "1964",
+          "Notes": "The soundtrack to their first feature film, showcasing the Lennon–McCartney writing surge and the clean, chiming sound that fueled Beatlemania."
+        },
+        {
+          "Title": "Rubber Soul",
+          "Year": "1965",
+          "Notes": "A turning-point LP with richer arrangements and introspective songwriting, often cited as the start of The Beatles’ album-era reinvention."
+        },
+        {
+          "Title": "Revolver",
+          "Year": "1966",
+          "Notes": "A studio-leap record blending razor-pop, tape experimentation, and new textures that widened what rock production could achieve."
+        },
+        {
+          "Title": "Sgt. Pepper’s Lonely Hearts Club Band",
+          "Year": "1967",
+          "Notes": "A landmark studio concept album whose sonic ambition and sequencing helped define the modern idea of the album as a cohesive work."
+        },
+        {
+          "Title": "Abbey Road",
+          "Year": "1969",
+          "Notes": "A polished late-era masterwork marked by meticulous production and the famous side-two medley, capturing the band at a final creative peak."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "I Want to Hold Your Hand",
+          "Year": "1963",
+          "Notes": "The international breakthrough single that helped ignite the band’s U.S. explosion and the wider British Invasion."
+        },
+        {
+          "Title": "A Hard Day’s Night",
+          "Year": "1964",
+          "Notes": "Built around an instantly recognizable opening chord and relentless momentum, emblematic of their 1964 peak."
+        },
+        {
+          "Title": "Yesterday",
+          "Year": "1965",
+          "Notes": "A classic melodic ballad that became one of the most performed and covered songs in popular music."
+        },
+        {
+          "Title": "Eleanor Rigby",
+          "Year": "1966",
+          "Notes": "A stark, string-driven character song that signaled the band’s move beyond standard rock-band instrumentation."
+        },
+        {
+          "Title": "Strawberry Fields Forever",
+          "Year": "1967",
+          "Notes": "A psychedelic studio collage whose layered production and surreal lyricism marked a new creative frontier."
+        },
+        {
+          "Title": "Hey Jude",
+          "Year": "1968",
+          "Notes": "An arena-scale anthem that turns a simple message into a massive singalong coda, among their biggest global hits."
+        },
+        {
+          "Title": "Let It Be",
+          "Year": "1970",
+          "Notes": "A gospel-leaning farewell that became one of the defining songs of their final era and the group’s breakup narrative."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1964",
+          "Title": "Billboard Hot 100 top-five sweep",
+          "Details": "On the Billboard Hot 100 dated April 4, 1964, The Beatles held all of the chart’s top five positions—an achievement that remains unmatched and emblematic of peak Beatlemania."
+        },
+        {
+          "Year": "1988",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted into the Rock & Roll Hall of Fame as foundational architects of modern popular music, recognized for reshaping songwriting, studio practice, and the global rock-band model."
+        },
+        {
+          "Year": "2014",
+          "Title": "Recording Academy Lifetime Achievement Award",
+          "Details": "Honored with the Recording Academy’s Lifetime Achievement Award, reflecting the enduring cultural and musical impact of their catalogue decades after the band’s breakup."
+        },
+        {
+          "Year": "2023",
+          "Title": "Billboard chart record — most No. 1 albums on the Billboard 200",
+          "Details": "Billboard has credited The Beatles with the all-time record for the most No. 1 albums on the Billboard 200 (19), underscoring the sustained dominance of their album catalogue."
+        }
+      ],
+      "KeyFacts": [
+        "The Beatles’ core lineup—John Lennon, Paul McCartney, George Harrison, and Ringo Starr—solidified in 1962 and remained the band’s defining configuration through the group’s 1970 breakup.",
+        "Producer George Martin and the band’s willingness to treat the studio as an instrument helped drive a rapid evolution from early pop hits to ambitious late-1960s recording experimentation.",
+        "Their influence spans songwriting, album design, studio technique, and the business of popular music, with their catalog continuing to set reference standards for rock and pop artists."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.thebeatles.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Beatles",
+        "Discography": "https://en.wikipedia.org/wiki/The_Beatles_discography"
+      },
       "CoreMembers": [
         {
-          "Name": "",
+          "Name": "John Lennon",
           "Roles": [
-            "",
-            "",
-            ""
+            "vocals",
+            "rhythm guitar",
+            "songwriter"
           ],
-          "Years": "",
-          "Overview": "",
+          "Years": "1960–1970",
+          "Overview": "Co-lead vocalist and co-primary songwriter whose sharp wit and evolving lyrical voice helped define the band’s identity from early rockers to psychedelic experimentation.",
           "Bio": {
-            "BioID": "",
-            "ArtistID": "",
-            "ArtistName": "",
-            "MemberName": "",
-            "Biography": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Birth": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Place": "",
-              "Notes": ""
-            },
-            "Death": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Cause": "",
-              "Place": "",
-              "Age": 0
-            },
-            "ActiveYears": [
-              ""
-            ],
-            "AssociatedActs": [
-              "",
-              "",
-              "",
-              ""
-            ],
-            "KeyAlbums": [
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              },
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              },
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              }
-            ],
-            "KeySongs": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Achievements": [
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              }
-            ],
-            "ExternalLinks": {
-              "OfficialSite": "",
-              "AllMusic": "",
-              "RockHall": "",
-              "Wikipedia": "",
-              "Discogs": ""
-            },
-            "FullName": "",
+            "BioID": "the-beatles-john-lennon",
+            "ArtistID": "the-beatles",
+            "ArtistName": "The Beatles",
+            "MemberName": "John Lennon",
+            "FullName": "John Winston Ono Lennon",
             "PrimaryInstruments": [
-              "",
-              "",
-              "",
-              ""
+              "vocals",
+              "guitar",
+              "piano"
             ],
             "Occupations": [
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              "musician",
+              "singer",
+              "songwriter",
+              "artist",
+              "activist"
             ],
             "Genres": [
-              "",
-              "",
-              ""
+              "rock",
+              "pop",
+              "experimental"
             ],
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "Birth": {
+              "Date": "1940-10-09",
+              "Place": "Liverpool, England"
+            },
+            "ActiveYears": "1956–1980",
+            "AssociatedActs": [
+              "The Beatles",
+              "The Quarrymen",
+              "Plastic Ono Band"
+            ],
+            "KeyAlbums": [
+              "John Lennon/Plastic Ono Band",
+              "Imagine",
+              "Double Fantasy"
+            ],
+            "KeySongs": [
+              "Imagine",
+              "Strawberry Fields Forever",
+              "Come Together"
+            ],
+            "Achievements": [
+              "Co-founded The Beatles and co-led the band’s songwriting and public image during the 1960s.",
+              "As a solo artist, produced landmark albums that fused confessional writing with wide cultural impact.",
+              "Became a high-profile voice for peace and activism, shaping the public idea of the musician as political figure."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.johnlennon.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/John_Lennon"
+            },
+            "Biography": "John Lennon was born on October 9, 1940, in Liverpool, England, and grew up with a restless mix of humor, sharp intelligence, and defiance. As a teenager he was swept up by skiffle and early rock ’n’ roll, channeling his energy into music while developing a distinctive, biting wit that would later fuel The Beatles’ public persona.\n\nIn 1956 he formed a school skiffle group, The Quarrymen, and a year later met Paul McCartney—an encounter that became one of the most consequential partnerships in popular music. Lennon’s instinct for hooks, attitude, and lyrical punch paired with McCartney’s melodic drive, and their collaboration quickly turned a local band into a songwriting engine.\n\nWith George Harrison joining the orbit and the group hardening in the clubs of Liverpool and Hamburg, Lennon became both a frontman and a creative catalyst. The early Beatles years drew heavily on rock ’n’ roll urgency and close-harmony pop, but Lennon’s edge and charisma helped give the band its early bite and identity.\n\nAs fame intensified in 1963–64, Lennon navigated the pressures of Beatlemania while continuing to write at an astonishing pace. His songs ranged from raw, direct rockers to sharper, more observational material, and he often acted as the band’s most outspoken personality in interviews and public moments.\n\nIn the mid-1960s Lennon’s writing grew more inward and experimental, reflecting changing art, politics, and personal life. Tracks such as “Strawberry Fields Forever” and “Across the Universe” showed a new lyrical looseness and emotional ambiguity, while studio experimentation became part of his expressive vocabulary.\n\nBy the late Beatles period, Lennon was increasingly drawn to avant-garde ideas and direct political expression, especially through his relationship and artistic partnership with Yoko Ono. That shift contributed to new creative directions as well as tensions inside the band, particularly as business issues and competing visions mounted.\n\nAfter The Beatles, Lennon pursued a solo path that mixed stark confession, sonic experimentation, and activism. Albums like John Lennon/Plastic Ono Band and Imagine captured different sides of his personality—raw vulnerability, then wide-reaching optimism—while he remained a prominent voice in public debates and protest culture.\n\nLennon spent part of the mid-1970s largely out of the spotlight, focusing on family life, before re-emerging with renewed creative energy. His late-1980 comeback momentum was cut short when he was shot and killed in New York City on December 8, 1980, an event that stunned the world and froze his story in a moment of abrupt tragedy.\n\nHis legacy endures as both a Beatles co-leader and a singular artist whose work could be tender, confrontational, humorous, and fiercely idealistic. Lennon’s best songs still feel immediate—built on simple melodic shapes, sharp turns of phrase, and a personality that never learned to hide behind polish."
           }
         },
         {
-          "Name": "",
+          "Name": "Paul McCartney",
           "Roles": [
-            "",
-            "",
-            ""
+            "vocals",
+            "bass",
+            "songwriter"
           ],
-          "Years": "",
-          "Overview": "",
+          "Years": "1960–1970",
+          "Overview": "Co-primary songwriter and melodic architect whose arranging instincts and studio ambition helped push the band into the album era and beyond.",
           "Bio": {
-            "BioID": "",
-            "ArtistID": "",
-            "ArtistName": "",
-            "MemberName": "",
-            "Biography": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Birth": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Place": ""
-            },
-            "Death": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Cause": "",
-              "Place": "",
-              "Age": ""
-            },
-            "ActiveYears": [
-              ""
-            ],
-            "AssociatedActs": [
-              "",
-              "",
-              "",
-              ""
-            ],
-            "KeyAlbums": [
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              },
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              },
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              }
-            ],
-            "KeySongs": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Achievements": [
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              }
-            ],
-            "ExternalLinks": {
-              "OfficialSite": "",
-              "AllMusic": "",
-              "RockHall": "",
-              "Wikipedia": "",
-              "Discogs": ""
-            },
-            "FullName": "",
+            "BioID": "the-beatles-paul-mccartney",
+            "ArtistID": "the-beatles",
+            "ArtistName": "The Beatles",
+            "MemberName": "Paul McCartney",
+            "FullName": "Sir James Paul McCartney",
             "PrimaryInstruments": [
-              "",
-              "",
-              "",
-              ""
+              "bass",
+              "vocals",
+              "piano",
+              "guitar"
             ],
             "Occupations": [
-              "",
-              "",
-              "",
-              ""
+              "musician",
+              "singer",
+              "songwriter",
+              "composer",
+              "producer"
             ],
             "Genres": [
-              "",
-              ""
+              "rock",
+              "pop"
             ],
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "Birth": {
+              "Date": "1942-06-18",
+              "Place": "Liverpool, England"
+            },
+            "ActiveYears": "1957–present",
+            "AssociatedActs": [
+              "The Beatles",
+              "Wings"
+            ],
+            "KeyAlbums": [
+              "Band on the Run",
+              "McCartney",
+              "Ram"
+            ],
+            "KeySongs": [
+              "Let It Be",
+              "Yesterday",
+              "Hey Jude"
+            ],
+            "Achievements": [
+              "Co-founded The Beatles’ core songwriting partnership and remained one of the era’s defining melodic writers.",
+              "Led a major second act with Wings and sustained decades of touring and recording success after The Beatles.",
+              "Knighted for services to music, reflecting both cultural impact and long-term artistic productivity."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.paulmccartney.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney"
+            },
+            "Biography": "Paul McCartney was born on June 18, 1942, in Liverpool, England, and grew up in a musical household where tunes and harmony were part of daily life. As a teenager he combined a natural ear for melody with relentless practice, quickly developing into a versatile player who could adapt to whatever a band needed.\n\nHe met John Lennon in 1957 and soon joined Lennon’s group, bringing both musical discipline and an instinct for arrangement. The Lennon–McCartney partnership became the band’s core engine: competitive, collaborative, and astonishingly productive, with McCartney often supplying luminous melodies and structural clarity.\n\nAs The Beatles evolved through the Hamburg grind and into UK stardom, McCartney’s musicianship expanded alongside his songwriting. He moved between guitar, bass, and piano with ease, and as the group’s ambitions grew he increasingly shaped the sound of recordings through arrangement ideas, vocal layering, and attention to detail.\n\nIn the peak Beatlemania years, McCartney wrote and co-wrote a flood of hits while also pushing the band toward broader musical influences. His comfort with old-school pop craft, music hall, and classical touches helped widen The Beatles’ palette, making room for ballads, character songs, and unusual instrumentation.\n\nBy the mid-to-late 1960s he became one of the group’s key studio drivers, advocating for ambitious concepts and polished execution. Whether leading the charge on an album-spanning idea or refining a single’s arrangement, McCartney’s approach often blended playful experimentation with a craftsman’s insistence on finish.\n\nAs internal tensions grew, McCartney also became a stabilizing force—sometimes to the irritation of bandmates—trying to keep the group productive amid business disputes and diverging priorities. The breakup years were emotionally messy, and his decision to publicly announce his departure helped finalize what had already become inevitable.\n\nAfter The Beatles, he rebuilt his career from the ground up, forming Wings and reasserting himself as a major pop-rock songwriter and performer. Across the 1970s and beyond, he maintained an unusually long runway of commercial success while continually touring and recording at a high level.\n\nMcCartney’s post-Beatles story is also marked by cultural recognition and honors, including being knighted for services to music in 1997. That formal acknowledgment sits alongside a more personal legacy: a musician who kept working, collaborating, and performing rather than treating his Beatles years as an untouchable monument.\n\nToday he is often viewed as a model of musical longevity—an artist whose career spans the entire modern era of rock and pop. From early Liverpool clubs to stadium tours decades later, McCartney’s through-line is melody, discipline, and a persistent drive to make the next song feel alive."
           }
         },
         {
-          "Name": "",
+          "Name": "George Harrison",
           "Roles": [
-            "",
-            "",
-            ""
+            "lead guitar",
+            "vocals",
+            "songwriter"
           ],
-          "Years": "",
-          "Overview": "",
+          "Years": "1960–1970",
+          "Overview": "Lead guitarist and later major songwriter whose spiritual curiosity and expanding musical palette broadened the band’s sound and lyrical scope.",
           "Bio": {
-            "BioID": "",
-            "ArtistID": "",
-            "ArtistName": "",
-            "MemberName": "",
-            "Biography": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Birth": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Place": ""
-            },
-            "Death": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Cause": "",
-              "Age": 0
-            },
-            "ActiveYears": [
-              ""
-            ],
-            "AssociatedActs": [
-              "",
-              "",
-              "",
-              ""
-            ],
-            "KeyAlbums": [
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              },
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              },
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              }
-            ],
-            "KeySongs": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Achievements": [
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              }
-            ],
-            "ExternalLinks": {
-              "OfficialSite": "",
-              "AllMusic": "",
-              "RockHall": "",
-              "Wikipedia": "",
-              "Discogs": ""
-            },
-            "FullName": "",
+            "BioID": "the-beatles-george-harrison",
+            "ArtistID": "the-beatles",
+            "ArtistName": "The Beatles",
+            "MemberName": "George Harrison",
+            "FullName": "George Harrison",
             "PrimaryInstruments": [
-              "",
-              "",
-              "",
-              "",
-              ""
+              "guitar",
+              "vocals",
+              "sitar",
+              "ukulele"
             ],
             "Occupations": [
-              "",
-              "",
-              "",
-              ""
+              "musician",
+              "singer",
+              "songwriter",
+              "producer"
             ],
             "Genres": [
-              "",
-              "",
-              ""
+              "rock",
+              "pop",
+              "Indian-influenced rock"
             ],
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "Birth": {
+              "Date": "1943-02-25",
+              "Place": "Liverpool, England"
+            },
+            "ActiveYears": "1958–2001",
+            "AssociatedActs": [
+              "The Beatles",
+              "Traveling Wilburys"
+            ],
+            "KeyAlbums": [
+              "All Things Must Pass",
+              "Living in the Material World",
+              "Cloud Nine"
+            ],
+            "KeySongs": [
+              "Something",
+              "Here Comes the Sun",
+              "While My Guitar Gently Weeps"
+            ],
+            "Achievements": [
+              "Emerged as a major late-era Beatles songwriter with some of the group’s most enduring compositions.",
+              "Organized The Concert for Bangladesh, a landmark large-scale benefit that influenced later humanitarian rock events.",
+              "Built a celebrated solo career that merged mainstream rock success with deep spiritual interests."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.georgeharrison.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/George_Harrison"
+            },
+            "Biography": "George Harrison was born on February 25, 1943, in Liverpool, England, and was the youngest of The Beatles’ core members. Quiet and observant, he developed an early devotion to the guitar, learning by immersing himself in rock ’n’ roll records and practicing until he could match the players he admired.\n\nHe joined the Lennon–McCartney circle as a teenager, earning his spot through persistence and obvious talent. Harrison’s lead guitar lines became a signature part of The Beatles’ early sound—clean, melodic, and precise—providing a sharp counterpoint to the band’s vocal harmonies and driving rhythms.\n\nDuring the early fame years, he often had fewer songwriting slots than Lennon and McCartney, but his musical identity kept growing. His playing matured quickly, and his contributions helped The Beatles transition from club-ready rock to more textured and inventive recordings as the 1960s progressed.\n\nBy the mid-1960s Harrison began expanding the band’s palette through new influences, most famously his interest in Indian music and the sitar. That curiosity wasn’t just a sonic color; it signaled a broader spiritual and artistic search that shaped both his songwriting and the group’s evolving atmosphere.\n\nHarrison’s compositions increasingly stood beside the Lennon–McCartney canon as essential Beatles work, marked by emotional clarity and distinctive chord movement. Songs like “While My Guitar Gently Weeps,” “Something,” and “Here Comes the Sun” showed a writer who could be both direct and deeply resonant.\n\nAfter The Beatles, Harrison’s solo career surged with All Things Must Pass, a triple-LP statement that confirmed how much material he had been holding back. He balanced mainstream success with a continuing spiritual focus, often threading introspection and devotional themes through pop and rock structures.\n\nIn 1971 he organized The Concert for Bangladesh with Ravi Shankar, a landmark benefit event that helped establish the template for large-scale rock humanitarian concerts. That effort became one of his defining public moments—using celebrity and musical community to raise awareness and funds for a crisis far from the rock spotlight.\n\nLater years included periods of retreat, renewed collaboration, and the Traveling Wilburys project, which highlighted his playful side and love of musical friendship. He remained a revered figure, less interested in the constant churn of celebrity than in creating work that felt meaningful on his own terms.\n\nHarrison died on November 29, 2001, after a long battle with cancer, leaving a legacy as both a Beatle and a singular artist. His impact is felt not only in classic songs and guitar parts, but in the way he broadened rock’s emotional and cultural range—inviting different sounds, beliefs, and sensibilities into the mainstream."
           }
         },
         {
-          "Name": "",
+          "Name": "Ringo Starr",
           "Roles": [
-            "",
-            ""
+            "drums",
+            "vocals"
           ],
-          "Years": "",
-          "Overview": "",
+          "Years": "1962–1970",
+          "Overview": "Drummer and key personality whose inventive feel, musical restraint, and warmth helped anchor the band’s stylistic range and public appeal.",
           "Bio": {
-            "BioID": "",
-            "ArtistID": "",
-            "ArtistName": "",
-            "MemberName": "",
-            "Biography": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Birth": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Place": ""
-            },
-            "Death": {
-              "Date": "",
-              "City": "",
-              "Region": "",
-              "Country": "",
-              "Cause": "",
-              "Place": "",
-              "Age": ""
-            },
-            "ActiveYears": [
-              ""
-            ],
-            "AssociatedActs": [
-              "",
-              "",
-              "",
-              ""
-            ],
-            "KeyAlbums": [
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              },
-              {
-                "Title": "",
-                "Year": 0,
-                "Notes": ""
-              }
-            ],
-            "KeySongs": [
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            "Achievements": [
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              },
-              {
-                "Type": "",
-                "Year": 0,
-                "Detail": ""
-              }
-            ],
-            "ExternalLinks": {
-              "OfficialSite": "",
-              "AllMusic": "",
-              "RockHall": "",
-              "Wikipedia": "",
-              "Discogs": ""
-            },
-            "FullName": "",
+            "BioID": "the-beatles-ringo-starr",
+            "ArtistID": "the-beatles",
+            "ArtistName": "The Beatles",
+            "MemberName": "Ringo Starr",
+            "FullName": "Sir Richard Starkey",
             "PrimaryInstruments": [
-              "",
-              ""
+              "drums",
+              "vocals"
             ],
             "Occupations": [
-              "",
-              "",
-              "",
-              ""
+              "musician",
+              "singer",
+              "songwriter",
+              "actor"
             ],
             "Genres": [
-              "",
-              ""
+              "rock",
+              "pop"
             ],
-            "Sources": [
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              },
-              {
-                "Title": "",
-                "Url": "",
-                "Accessed": ""
-              }
-            ]
+            "Birth": {
+              "Date": "1940-07-07",
+              "Place": "Liverpool, England"
+            },
+            "ActiveYears": "1957–present",
+            "AssociatedActs": [
+              "The Beatles",
+              "Ringo Starr & His All-Starr Band"
+            ],
+            "KeyAlbums": [
+              "Ringo",
+              "Goodnight Vienna",
+              "Time Takes Time"
+            ],
+            "KeySongs": [
+              "With a Little Help from My Friends",
+              "Come Together",
+              "A Day in the Life"
+            ],
+            "Achievements": [
+              "Completed The Beatles’ classic lineup in 1962 and provided a rhythmic signature that adapted to the band’s rapid stylistic expansion.",
+              "Maintained a long solo and touring career, including the enduring All-Starr Band project.",
+              "Received major honors including a knighthood for services to music."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.ringostarr.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ringo_Starr"
+            },
+            "Biography": "Ringo Starr was born Richard Starkey on July 7, 1940, in Liverpool, England, and endured serious childhood illnesses that kept him out of school for long stretches. Those setbacks didn’t dim his humor or ambition; they shaped a tough, resilient personality that later helped him navigate fame with a rare steadiness.\n\nHe gravitated toward drums in the late 1950s and built a reputation in the local scene, most notably with Rory Storm and the Hurricanes. By the time The Beatles were looking for a new drummer in 1962, Starr was already known for feel, reliability, and a musical sensibility that served the song rather than the ego.\n\nJoining the band as Beatlemania began to ignite, Starr became the final piece of the classic lineup. His drumming—inventive without being showy—gave The Beatles a flexible rhythmic foundation that could swing, punch, and shift styles as the band evolved from early rockers to more experimental studio work.\n\nStarr’s personality also mattered: he helped humanize the group, acting as a calming presence and an underappreciated comedic engine. His warm, slightly self-effacing charm made him a fan favorite, while his vocal spotlights and distinctive phrasing added variety to Beatles albums and films.\n\nAs the 1960s progressed, his drumming adapted to increasingly complex arrangements and studio ideas. Whether anchoring tight pop, psychedelic textures, or late-era groove-based tracks, Starr’s best work is defined by taste—parts that feel inevitable once you hear them, but are hard to imagine played any other way.\n\nAfter the breakup he pursued a solo career with notable hits and a continuing public profile, also working in film and television. While his output varied over time, he remained closely associated with a sense of joy and approachability—qualities that contrasted with the mythic seriousness that often surrounds Beatles history.\n\nIn the late 1980s he launched Ringo Starr & His All-Starr Band, a touring concept built around rotating, well-known musicians playing both Ringo’s songs and their own hits. That project became a durable part of his identity: a working musician who keeps the stage fun and the setlist packed with crowd-pleasers.\n\nHe has received major honors both as a Beatle and as a solo artist, including being knighted for services to music in 2018. The recognition fits a career defined less by self-mythologizing and more by consistent craft, personality, and musical generosity.\n\nStarr’s legacy is the sound of The Beatles at their rhythmic core and the proof that feel is a form of authorship. His drumming remains one of the most studied and imitated in rock history—not because it’s flashy, but because it’s musical, surprising, and always in service of the song."
           }
         }
       ],
       "NonCoreMembers": [
         {
-          "Name": "",
+          "Name": "Pete Best",
           "Roles": [
-            ""
+            "drums"
           ],
-          "Years": "",
+          "Years": "1960–1962",
           "Instruments": [
-            ""
-          ],
-          "Albums": [
-            ""
-          ],
-          "Replacing": [],
-          "ReplacedBy": [
-            ""
-          ],
-          "Overview": ""
-        },
-        {
-          "Name": "",
-          "Roles": [
-            ""
-          ],
-          "Years": "",
-          "Instruments": [
-            ""
+            "drums"
           ],
           "Albums": [],
-          "Replacing": [],
-          "ReplacedBy": [
-            ""
+          "Replacing": "",
+          "ReplacedBy": "Ringo Starr",
+          "Overview": "Pete Best was The Beatles’ drummer during their formative Liverpool and Hamburg period, helping the band sharpen its live set through long club residencies. He was replaced in 1962 as the group moved toward EMI sessions and the lineup that would define Beatlemania."
+        },
+        {
+          "Name": "Stuart Sutcliffe",
+          "Roles": [
+            "bass"
           ],
-          "Overview": ""
+          "Years": "1960–1961",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Paul McCartney",
+          "Overview": "Stuart Sutcliffe was an early bassist and close friend of John Lennon, part of the band’s early Hamburg-era lineup and image. He left the group in 1961 to pursue art, and his departure pushed McCartney to move fully onto bass as The Beatles accelerated toward their recording breakthrough."
+        },
+        {
+          "Name": "Billy Preston",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "1969 (recording and live collaborator)",
+          "Instruments": [
+            "keyboards",
+            "piano",
+            "organ"
+          ],
+          "Albums": [
+            "Let It Be",
+            "Abbey Road"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Billy Preston was a key late-era collaborator whose keyboard work appears on major 1969 recordings and performances, adding gospel-inflected color and groove to the band’s final sessions. Often nicknamed the “Fifth Beatle” in popular culture, he was not an official member, but his presence helped lift several defining tracks of their closing chapter."
         }
-      ],
-      "Genres": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Labels": [
-        "",
-        "",
-        ""
-      ],
-      "Overview": "",
-      "NotableAlbums": [
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        },
-        {
-          "Title": "",
-          "Year": 0,
-          "Notes": ""
-        }
-      ],
-      "SignatureSongs": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Achievements": [
-        {
-          "Type": "",
-          "Year": 0,
-          "Detail": ""
-        },
-        {
-          "Type": "",
-          "Year": "",
-          "Detail": ""
-        },
-        {
-          "Type": "",
-          "Year": "",
-          "Detail": ""
-        }
-      ],
-      "KeyFacts": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "ExternalLinks": {
-        "OfficialSite": "",
-        "AllMusic": "",
-        "Grammy": "",
-        "Wikipedia": "",
-        "Discogs": ""
-      }
+      ]
     },
     {
       "ArtistID": "the-byrds",
