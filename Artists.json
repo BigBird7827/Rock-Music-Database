@@ -2677,8 +2677,618 @@
     {
       "ArtistID": "black-sabbath",
       "Name": "Black Sabbath",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Birmingham",
+        "Region": "England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1968–2017",
+        "2025 (one-off reunion performance)"
+      ],
+      "Genres": [
+        "Heavy metal",
+        "Hard rock",
+        "Doom metal",
+        "Blues rock"
+      ],
+      "Labels": [
+        "Vertigo",
+        "Warner Bros.",
+        "NEMS",
+        "I.R.S.",
+        "Rhino"
+      ],
+      "Overview": "Black Sabbath emerged from the working‑class neighborhoods of Birmingham in the late 1960s and rewired heavy rock into something heavier, darker, and more ominous. Built on Tony Iommi’s down‑tuned riff architecture, Geezer Butler’s bass and lyric concepts, Bill Ward’s swinging-but-brutal drumming, and Ozzy Osbourne’s stark vocal presence, the band created a sound that became the bedrock of heavy metal.\n\nAcross their early run—especially the stretch from their self‑titled debut through Paranoid, Master of Reality, Vol. 4, and Sabbath Bloody Sabbath—Sabbath fused blues roots with tritone menace, anti‑war commentary, and horror‑film atmosphere. Those records didn’t just produce enduring songs; they defined a vocabulary of tone, groove, and subject matter that later splintered into doom, stoner, thrash, and countless metal subgenres.\n\nLineup changes became part of the story, most famously the arrival of Ronnie James Dio in 1979, which brought a sharper, more melodic power to albums like Heaven and Hell and Mob Rules. Even as personnel shifted through the 1980s and 1990s, Sabbath’s identity remained anchored by Iommi’s riff‑first writing and the band’s emphasis on huge, physical rhythm.\n\nAfter major reunion eras and a late‑career studio return with 13, Black Sabbath ended their main touring story with their 2017 farewell in Birmingham. In 2025, the original lineup returned to their hometown for a single reunion performance—an epilogue that closed the circle where the genre began.",
+      "NotableAlbums": [
+        {
+          "Title": "Black Sabbath",
+          "Year": "1970",
+          "Notes": "A debut that crystallized the band’s ominous aesthetic—slow‑burn riffs, uneasy harmony, and a mood that felt closer to a horror score than 1960s rock."
+        },
+        {
+          "Title": "Paranoid",
+          "Year": "1970",
+          "Notes": "The definitive breakthrough: leaner, faster, and packed with era‑defining staples like “War Pigs,” “Iron Man,” and the title track."
+        },
+        {
+          "Title": "Master of Reality",
+          "Year": "1971",
+          "Notes": "A cornerstone of heaviness that deepened the low‑end and swing, influencing doom and stoner metal for decades to come."
+        },
+        {
+          "Title": "Vol. 4",
+          "Year": "1972",
+          "Notes": "A wilder, more experimental record that still hits with monolithic riffs—proof Sabbath could stretch without losing weight."
+        },
+        {
+          "Title": "Sabbath Bloody Sabbath",
+          "Year": "1973",
+          "Notes": "A peak‑era album that balances crushing guitar with more layered arrangements, showing the band’s growing studio ambition."
+        },
+        {
+          "Title": "Heaven and Hell",
+          "Year": "1980",
+          "Notes": "The Dio reboot: brighter melodic power over Sabbath’s heaviness, launching a celebrated second classic era."
+        },
+        {
+          "Title": "13",
+          "Year": "2013",
+          "Notes": "A late‑career return with Ozzy that intentionally echoes the early‑’70s feel while sounding massive in modern production."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Black Sabbath",
+          "Year": "1970",
+          "Notes": "The slow, tritone‑haunted template that announced metal’s darker emotional palette."
+        },
+        {
+          "Title": "Paranoid",
+          "Year": "1970",
+          "Notes": "A fast, urgent hit that distilled Sabbath’s punch into a tight, radio‑length blast."
+        },
+        {
+          "Title": "War Pigs",
+          "Year": "1970",
+          "Notes": "A towering anti‑war statement driven by one of the band’s most iconic riff sequences."
+        },
+        {
+          "Title": "Iron Man",
+          "Year": "1970",
+          "Notes": "A riff monument with a marching hook that became one of heavy music’s universal calling cards."
+        },
+        {
+          "Title": "N.I.B.",
+          "Year": "1970",
+          "Notes": "A blues‑rooted heavy groove that spotlights early Sabbath’s swagger and low‑end power."
+        },
+        {
+          "Title": "Children of the Grave",
+          "Year": "1971",
+          "Notes": "A relentless, chugging anthem that helped define the speed and drive of heavy rock."
+        },
+        {
+          "Title": "Sabbath Bloody Sabbath",
+          "Year": "1973",
+          "Notes": "A dramatic, riff‑dense single that captures the band at full classic‑era force."
+        },
+        {
+          "Title": "Heaven and Hell",
+          "Year": "1980",
+          "Notes": "The Dio era’s signature epic: melodic, cinematic, and built for massive live crescendos."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2006",
+          "Title": "Rock & Roll Hall of Fame Induction",
+          "Details": "Black Sabbath were inducted into the Rock & Roll Hall of Fame, reflecting their foundational role in shaping heavy metal’s sound and culture."
+        },
+        {
+          "Year": "2000",
+          "Title": "Grammy Award – Best Metal Performance (“Iron Man” live)",
+          "Details": "The band won Best Metal Performance for a live recording of “Iron Man,” decades after the original song helped define metal’s riff language."
+        },
+        {
+          "Year": "2014",
+          "Title": "Grammy Award – Best Metal Performance (“God Is Dead?”)",
+          "Details": "Their modern-era track “God Is Dead?” earned the band another Best Metal Performance Grammy, underscoring their continued relevance."
+        },
+        {
+          "Year": "2013",
+          "Title": "Chart Milestone for 13",
+          "Details": "The album 13 reached No. 1 in both the UK and the U.S., a rare late‑career summit that connected their earliest identity to a modern audience."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Birmingham in 1968; the classic original lineup is Ozzy Osbourne (vocals), Tony Iommi (guitar), Geezer Butler (bass/lyrics), and Bill Ward (drums).",
+        "The band’s sound is closely associated with Iommi’s riff‑first writing, down‑tuned heft, and a dark atmosphere that contrasted sharply with late‑’60s rock trends.",
+        "Ozzy Osbourne was the band’s defining early‑era voice; Ronnie James Dio joined in 1979 and led a major second classic era beginning with Heaven and Hell.",
+        "Black Sabbath’s main farewell concert took place in Birmingham on February 4, 2017; the original lineup later reunited for a single hometown performance on July 5, 2025."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.blacksabbath.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Black_Sabbath",
+        "Discography": "https://en.wikipedia.org/wiki/Black_Sabbath_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Ozzy Osbourne",
+          "Roles": [
+            "Lead vocals (classic era). The band’s most identifiable early voice and stage presence."
+          ],
+          "Years": "1968–1979, 1997–2017, 2025",
+          "Overview": "Black Sabbath’s original frontman whose stark vocals and unpredictable charisma helped define the band’s early identity and heavy metal’s public image.",
+          "Bio": {
+            "BioID": "bio-ozzy-osbourne-black-sabbath",
+            "ArtistID": "black-sabbath",
+            "ArtistName": "Black Sabbath",
+            "MemberName": "Ozzy Osbourne",
+            "FullName": "John Michael Osbourne",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Performer"
+            ],
+            "Genres": [
+              "Heavy metal",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1948-12-03",
+              "Place": "Marston Green, Warwickshire, England"
+            },
+            "Death": {
+              "Date": "2025-07-22",
+              "Place": "Buckinghamshire, England"
+            },
+            "ActiveYears": "1967–2025",
+            "AssociatedActs": [
+              "Black Sabbath",
+              "Ozzy Osbourne (solo)"
+            ],
+            "KeyAlbums": [
+              "Black Sabbath (1970)",
+              "Paranoid (1970)",
+              "Master of Reality (1971)",
+              "Sabbath Bloody Sabbath (1973)",
+              "13 (2013)"
+            ],
+            "KeySongs": [
+              "Paranoid",
+              "War Pigs",
+              "Iron Man",
+              "Children of the Grave",
+              "N.I.B."
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame induction with Black Sabbath (2006)",
+              "Multiple Grammy-recognized recordings across career"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ozzy_Osbourne",
+              "Official Site": "https://www.ozzy.com/"
+            },
+            "Biography": "Ozzy Osbourne grew up in Birmingham and carried that city’s grit into his singing—less about polish, more about an eerie, human directness. His voice had a blunt edge that sat perfectly on top of slow, heavy riffs, and his phrasing often sounded like a warning rather than a performance.\n\nIn the late 1960s, he joined forces with Tony Iommi, Geezer Butler, and Bill Ward, and the group’s shift toward darker themes quickly set them apart. Ozzy’s delivery on early songs wasn’t theatrical in a traditional sense; it was stark, almost conversational, which made the music feel even heavier and more unsettling.\n\nOn the classic run of albums from 1970 onward, his vocals became a defining part of metal’s blueprint: simple melodic lines, clear hooks, and a tone that suggested menace without needing vocal gymnastics. Tracks like “War Pigs” and “Iron Man” worked because the voice felt embedded in the riff, not floating above it.\n\nThe band’s rise was also tangled with excess and instability, and Ozzy’s struggles with addiction and behavior became impossible to separate from the story. In 1979, he was dismissed from the band, ending the original era and opening a long chapter of parallel Sabbath histories.\n\nEven after leaving, Ozzy’s identity remained fused to Black Sabbath in the public imagination, and the band’s later reunions leaned heavily on the emotional pull of that original chemistry. When the classic lineup returned in the late 1990s, audiences weren’t just hearing songs—they were hearing the origin point of a genre.\n\nOzzy’s return to studio work with Sabbath decades later—especially on 13—was treated as a deliberate echo of their earliest sound. The performances leaned into what made him unique: a vocal personality that can make a single line feel like an omen.\n\nHealth problems increasingly shaped his final years, but the desire to close the story on his own terms stayed visible. In Birmingham on July 5, 2025, he took the stage with the original bandmates for a final hometown performance that framed the entire arc as a return to the beginning.\n\nOzzy died later that month, but his role in Black Sabbath remains fixed: he was the voice of the first wave, the human alarm bell that helped turn blues-based rock into heavy metal’s primal language."
+          }
+        },
+        {
+          "Name": "Tony Iommi",
+          "Roles": [
+            "Lead guitar. Primary riff writer, bandleader, and the only constant member across the band’s full history."
+          ],
+          "Years": "1968–2017, 2025",
+          "Overview": "The architect of Black Sabbath’s riff language—down‑tuned weight, blunt hooks, and a tone that became metal’s foundation.",
+          "Bio": {
+            "BioID": "bio-tony-iommi-black-sabbath",
+            "ArtistID": "black-sabbath",
+            "ArtistName": "Black Sabbath",
+            "MemberName": "Tony Iommi",
+            "FullName": "Anthony Frank Iommi Jr.",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Songwriter",
+              "Bandleader"
+            ],
+            "Genres": [
+              "Heavy metal",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1948-02-19",
+              "Place": "Handsworth, Birmingham, England"
+            },
+            "ActiveYears": "1964–present",
+            "AssociatedActs": [
+              "Black Sabbath",
+              "Heaven & Hell"
+            ],
+            "KeyAlbums": [
+              "Paranoid (1970)",
+              "Master of Reality (1971)",
+              "Sabbath Bloody Sabbath (1973)",
+              "Heaven and Hell (1980)",
+              "13 (2013)"
+            ],
+            "KeySongs": [
+              "Iron Man",
+              "War Pigs",
+              "Black Sabbath",
+              "Children of the Grave",
+              "Heaven and Hell"
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame induction with Black Sabbath (2006)",
+              "Grammy wins with Black Sabbath (2000, 2014)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Tony_Iommi",
+              "Official Site": "https://www.iommi.com/"
+            },
+            "Biography": "Tony Iommi is the central engine of Black Sabbath: a guitarist whose riffs feel like architecture—simple shapes that hold enormous weight. His approach made the guitar sound less like decoration and more like an industrial machine, perfectly matched to Birmingham’s postwar landscape.\n\nA factory accident in his youth cost him the tips of two fingers, and the adaptations he made to keep playing became part of his signature. The result wasn’t a limitation so much as a new vocabulary: thick tone, strong vibrato, and riffs designed to hit hard and stay memorable.\n\nFrom the earliest Sabbath recordings, Iommi’s writing favored big, declarative ideas—one riff that could carry an entire song. That focus, combined with darker harmonic choices, helped create the feeling that the music was moving in slow, heavy slabs rather than typical rock patterns.\n\nIn the 1970s peak years, he balanced blunt heaviness with evolving arrangements, expanding from the raw minimalism of the debut into the layered confidence of records like Sabbath Bloody Sabbath. Even when the band experimented, his playing anchored the sound in something unmistakably Sabbath.\n\nAs lineups changed, Iommi stayed the constant and the decision‑maker, steering the band through different eras and vocalists without losing the core identity. That continuity is a big reason Sabbath feels like a single ongoing project rather than a series of unrelated bands using the same name.\n\nThe Dio era highlighted another side of his writing: more melodic, more agile, but still built around massive riffs. Albums like Heaven and Hell show how his guitar could open into brighter harmonies while remaining unmistakably heavy.\n\nDecades later, reunions and final tours put Iommi’s role in sharp relief: the songs still worked because the riffs are built like monuments. On 13, the band leaned back into that early blueprint, and the guitar once again carried the atmosphere as much as the rhythm.\n\nIommi’s influence is so widespread that entire subgenres trace back to his choices of tone, tuning, and riff structure. In Black Sabbath’s story, he isn’t just the guitarist—he’s the author of the band’s musical language."
+          }
+        },
+        {
+          "Name": "Geezer Butler",
+          "Roles": [
+            "Bass guitar. Primary lyricist on much of the classic catalog."
+          ],
+          "Years": "1968–2017, 2025",
+          "Overview": "Sabbath’s lyrical conscience and rhythmic anchor—his bass lines and themes helped define metal’s darker subject matter and social bite.",
+          "Bio": {
+            "BioID": "bio-geezer-butler-black-sabbath",
+            "ArtistID": "black-sabbath",
+            "ArtistName": "Black Sabbath",
+            "MemberName": "Geezer Butler",
+            "FullName": "Terence Michael Joseph Butler",
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Bassist",
+              "Songwriter",
+              "Lyricist"
+            ],
+            "Genres": [
+              "Heavy metal",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1949-07-17",
+              "Place": "Aston, Birmingham, England"
+            },
+            "ActiveYears": "1967–2025",
+            "AssociatedActs": [
+              "Black Sabbath",
+              "Heaven & Hell",
+              "Ozzy Osbourne (solo)"
+            ],
+            "KeyAlbums": [
+              "Paranoid (1970)",
+              "Master of Reality (1971)",
+              "Vol. 4 (1972)",
+              "Heaven and Hell (1980)",
+              "13 (2013)"
+            ],
+            "KeySongs": [
+              "War Pigs",
+              "Paranoid",
+              "N.I.B.",
+              "Children of the Grave",
+              "Heaven and Hell"
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame induction with Black Sabbath (2006)",
+              "Grammy wins with Black Sabbath (2000, 2014)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Geezer_Butler",
+              "Official Site": "https://www.geezerbutler.com/"
+            },
+            "Biography": "Geezer Butler’s role in Black Sabbath isn’t just as the bassist—it’s as the band’s main lyric voice during the classic era. His writing gave Sabbath a perspective that went beyond shock: war, addiction, fear, and moral decay, filtered through a bleak sense of reality.\n\nMusically, his bass often doubles Iommi’s riffs to increase the sheer mass of the sound, but it also moves with a nimble, almost jazz-informed feel. That combination—weight plus motion—helps explain why Sabbath grooves as hard as it crushes.\n\nButler’s fascination with darker imagery and occult‑leaning themes helped shape the band’s early aura, yet many of the most memorable songs are also pointedly human. “War Pigs,” for example, lands because it feels like anger aimed at the powerful, not fantasy for its own sake.\n\nIn the early 1970s, his bass and Iommi’s guitar locked into a single heavy engine, with Ward’s drums adding swing that kept the music from becoming stiff. That rhythmic triangle is the core of Sabbath’s feel: huge, but always moving.\n\nAcross lineup changes and long gaps, Butler remained one of the key links back to the original chemistry. Whether the band was emphasizing doom‑tempo menace or the more melodic Dio-era power, his bass stayed grounded and unmistakably Sabbath.\n\nHis lyrical approach also helped expand what heavy music could talk about—paranoia, social collapse, and inner dread—without needing the language of traditional rock bravado. That shift became foundational for later metal bands who treated lyrics as atmosphere and worldview.\n\nWhen Sabbath returned to studio work in the 2010s, Butler’s writing helped the music feel like a continuation rather than a tribute act. The themes on 13 connect back to the classic mood: anxious, heavy, and suspicious of easy answers.\n\nButler’s legacy is twofold: as a bassist who made heaviness physical, and as a lyricist who gave metal a vocabulary of dread, anger, and unease that still shapes the genre’s emotional core."
+          }
+        },
+        {
+          "Name": "Bill Ward",
+          "Roles": [
+            "Drums. Occasional vocals. A key source of the band’s swing and groove."
+          ],
+          "Years": "1968–1980, 1997–2005, 2025",
+          "Overview": "The drummer who gave Sabbath its heartbeat—jazz-leaning swing, sudden fills, and a human looseness that made the riffs feel even heavier.",
+          "Bio": {
+            "BioID": "bio-bill-ward-black-sabbath",
+            "ArtistID": "black-sabbath",
+            "ArtistName": "Black Sabbath",
+            "MemberName": "Bill Ward",
+            "FullName": "William Thomas Ward",
+            "PrimaryInstruments": [
+              "Drums",
+              "Vocals (occasional)"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Musician"
+            ],
+            "Genres": [
+              "Heavy metal",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1948-05-05",
+              "Place": "Aston, Birmingham, England"
+            },
+            "ActiveYears": "1966–present",
+            "AssociatedActs": [
+              "Black Sabbath",
+              "Mythology"
+            ],
+            "KeyAlbums": [
+              "Black Sabbath (1970)",
+              "Paranoid (1970)",
+              "Master of Reality (1971)",
+              "Vol. 4 (1972)",
+              "Sabbath Bloody Sabbath (1973)"
+            ],
+            "KeySongs": [
+              "War Pigs",
+              "Iron Man",
+              "Hand of Doom",
+              "Fairies Wear Boots",
+              "Children of the Grave"
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame induction with Black Sabbath (2006)",
+              "Grammy win with Black Sabbath (2000)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bill_Ward_(musician)",
+              "Official Site": "https://www.billward.com/"
+            },
+            "Biography": "Bill Ward is a big reason Black Sabbath never sounds mechanical. His drumming swings—sometimes subtly, sometimes wildly—bringing a loose, human momentum that makes slow riffs feel heavier and fast riffs feel dangerous.\n\nComing from influences outside strict rock drumming, Ward often plays with a dynamic touch: ghost notes, sudden accents, and fills that tumble rather than march. That feel is essential to early Sabbath, where the band can slow down without losing movement.\n\nOn classic tracks, his parts are rarely just timekeeping. He shapes sections with cymbal choices and dramatic roll‑ins, and he reacts to Iommi’s riffs like a jazz drummer responding to a soloist, not like a metronome following a grid.\n\nWard also contributed vocals on select songs, adding another layer to the band’s identity. That willingness to blur roles—drummer who can sing, rhythm section that can lead—kept Sabbath’s early recordings lively and unpredictable.\n\nThe physical and personal demands of the band’s lifestyle weighed heavily, and Ward’s availability became a recurring issue in later decades. Even so, his importance to the “real” Sabbath sound has always been obvious whenever he’s absent.\n\nReunion periods put that contrast into sharp focus: the early catalog hits differently when Ward is behind the kit because the groove breathes. His feel is part of why those songs never became purely about heaviness—they’re also about motion.\n\nIn the band’s long story, Ward stands as the classic-era pulse, the musician who kept the riffs from becoming stiff blocks. His best playing makes the band sound like it’s teetering on the edge—controlled, but barely.\n\nWard’s legacy is embedded in metal drumming itself: proving that heaviness isn’t only about volume or speed, but about swing, space, and the tension of a beat that feels alive."
+          }
+        },
+        {
+          "Name": "Ronnie James Dio",
+          "Roles": [
+            "Lead vocals (Dio era). Fronted the band’s major second classic era beginning in 1979."
+          ],
+          "Years": "1979–1982, 1991–1992",
+          "Overview": "A powerhouse vocalist who reshaped Sabbath with a more melodic, epic approach while keeping the music heavy and riff-driven.",
+          "Bio": {
+            "BioID": "bio-ronnie-james-dio-black-sabbath",
+            "ArtistID": "black-sabbath",
+            "ArtistName": "Black Sabbath",
+            "MemberName": "Ronnie James Dio",
+            "FullName": "Ronald James Padavona",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Heavy metal",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1942-07-10",
+              "Place": "Portsmouth, New Hampshire, United States"
+            },
+            "Death": {
+              "Date": "2010-05-16",
+              "Place": "Houston, Texas, United States"
+            },
+            "ActiveYears": "1957–2010",
+            "AssociatedActs": [
+              "Black Sabbath",
+              "Dio",
+              "Rainbow",
+              "Elf",
+              "Heaven & Hell"
+            ],
+            "KeyAlbums": [
+              "Heaven and Hell (1980)",
+              "Mob Rules (1981)",
+              "Dehumanizer (1992)"
+            ],
+            "KeySongs": [
+              "Heaven and Hell",
+              "Neon Knights",
+              "The Mob Rules",
+              "Children of the Sea"
+            ],
+            "Achievements": [
+              "Platinum-era success with Heaven and Hell",
+              "Enduring influence as one of metal’s most respected vocalists"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ronnie_James_Dio",
+              "Official Site": "https://www.ronniejamesdio.com/"
+            },
+            "Biography": "Ronnie James Dio arrived in Black Sabbath at a crossroads, and his voice immediately changed the band’s silhouette. Where Ozzy’s singing felt stark and haunted, Dio brought a powerful, melodic clarity that could ride huge riffs like a lead instrument.\n\nBefore Sabbath, he had already built a reputation through bands like Rainbow, developing a dramatic, story-rich style that fit heavy music perfectly. His phrasing and control gave the songs a sense of scale—more epic, more theatrical, but still grounded in rock grit.\n\nHeaven and Hell is the proof-of-concept: Sabbath’s heaviness remains intact, but the melodies open up, and the choruses feel designed for arenas. Dio didn’t replace the band’s identity; he reframed it into a new classic era with its own signature songs.\n\nOn Mob Rules and related live recordings, the Dio-fronted band leaned into speed and bite while keeping the riff weight. His performances brought a forward momentum that contrasted with the original lineup’s doomier drag, expanding what “Sabbath” could mean.\n\nCreative friction and the realities of a long-running brand eventually pulled the lineup apart, but Dio’s Sabbath years stayed revered because they produced songs that stand beside the earliest classics. The era became its own canon for many fans.\n\nDio returned for Dehumanizer in the early 1990s, delivering a tougher, darker record that showed the partnership could still hit with modern intensity. The album’s tone is heavier and more abrasive, matching the era while keeping the riff-first core.\n\nBeyond Black Sabbath, Dio’s broader career—especially with his solo band Dio—cemented him as one of metal’s defining voices. His influence is as much about craft as charisma: articulation, range, and the ability to make fantasy feel emotionally real.\n\nDio’s death in 2010 ended any possibility of further Sabbath studio chapters with him, but his era remains essential: a second classic run that proved the band’s riffs could carry different kinds of voices without losing their gravity."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Vinny Appice",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1980–1982, 1991–1992",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Mob Rules",
+            "Live Evil",
+            "Dehumanizer"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [],
+          "Overview": "A hard-hitting drummer who powered the Dio era’s early‑’80s run and later returned for Dehumanizer. His playing emphasized punch and drive, helping Sabbath sound faster and more muscular without losing weight."
+        },
+        {
+          "Name": "Ian Gillan",
+          "Roles": [
+            "Lead vocals"
+          ],
+          "Years": "1982–1984",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Born Again"
+          ],
+          "Replacing": [
+            "Ronnie James Dio"
+          ],
+          "ReplacedBy": [
+            "Glenn Hughes (touring transition)"
+          ],
+          "Overview": "Best known as the voice of Deep Purple, Gillan fronted Sabbath for the Born Again era. His gritty, elastic delivery gave the band a more hard‑rock edge while still fitting the riff-heavy framework."
+        },
+        {
+          "Name": "Glenn Hughes",
+          "Roles": [
+            "Lead vocals (often credited as a new band project; later associated with the Sabbath name)"
+          ],
+          "Years": "1985–1986",
+          "Instruments": [
+            "Vocals",
+            "Bass guitar"
+          ],
+          "Albums": [
+            "Seventh Star"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [
+            "Ray Gillen (touring vocals)"
+          ],
+          "Overview": "A soul‑power vocalist with deep hard‑rock roots, Hughes sang on the Seventh Star-era lineup associated with Sabbath. His style brought a more melodic, bluesy sheen, contrasting sharply with the band’s early doom atmosphere."
+        },
+        {
+          "Name": "Tony Martin",
+          "Roles": [
+            "Lead vocals"
+          ],
+          "Years": "1987–1991, 1993–1997",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "The Eternal Idol",
+            "Headless Cross",
+            "Tyr",
+            "Cross Purposes",
+            "Forbidden"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [],
+          "Overview": "Martin anchored Sabbath through much of the late ’80s and mid ’90s, giving the band stability across multiple albums. His smoother, higher-register style supported a more polished, epic heavy-metal approach while Iommi’s riff identity remained central."
+        },
+        {
+          "Name": "Cozy Powell",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1988–1991",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Headless Cross",
+            "Tyr"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [
+            "Vinny Appice"
+          ],
+          "Overview": "A renowned rock drummer known for power and precision, Powell brought a big, authoritative feel to late‑’80s Sabbath. His presence helped those records sound grander and more stadium-ready while staying riff-driven."
+        },
+        {
+          "Name": "Bobby Rondinelli",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1993–1997",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Cross Purposes",
+            "Forbidden"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [],
+          "Overview": "Rondinelli’s drumming supported the band’s mid‑’90s material with steady, hard-rock force. He helped keep the groove direct and song-focused during an era when Sabbath balanced tradition with contemporary production."
+        },
+        {
+          "Name": "Neil Murray",
+          "Roles": [
+            "Bass guitar"
+          ],
+          "Years": "1985–1986, 1989–1991, 1994–1995",
+          "Instruments": [
+            "Bass guitar"
+          ],
+          "Albums": [
+            "Seventh Star",
+            "Tyr",
+            "Cross Purposes"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [],
+          "Overview": "A versatile bassist with deep experience in British hard rock, Murray appeared in several Sabbath lineups across the ’80s and ’90s. His playing emphasized clarity and stamina, supporting Iommi’s riffs with a solid, professional low-end foundation."
+        },
+        {
+          "Name": "Geoff Nicholls",
+          "Roles": [
+            "Keyboards (live and studio support across multiple eras)"
+          ],
+          "Years": "1979–2004",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Heaven and Hell",
+            "Mob Rules",
+            "Born Again",
+            "Headless Cross",
+            "Tyr",
+            "Dehumanizer",
+            "Cross Purposes"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [],
+          "Overview": "Nicholls was the long-running keyboard backbone behind many Sabbath tours and recordings, often filling out atmosphere and harmony. His contributions helped the band’s sound feel larger and more textured, especially in arena settings."
+        },
+        {
+          "Name": "Rick Wakeman",
+          "Roles": [
+            "Guest keyboards"
+          ],
+          "Years": "1975",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Sabotage (guest appearance)"
+          ],
+          "Replacing": [],
+          "ReplacedBy": [],
+          "Overview": "A celebrated progressive-rock keyboardist, Wakeman contributed guest keys during the Sabotage era. His appearance is a reminder of how Sabbath’s classic period occasionally pulled in outside musicians to expand their studio palette."
+        }
+      ]
     },
     {
       "ArtistID": "blondie",
