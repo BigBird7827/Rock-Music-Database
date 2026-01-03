@@ -186,9 +186,9 @@
     }
     .artistTitle{
       margin:0;
-      font-size:28px;
+      font-size:52px;
       font-weight:950;
-      letter-spacing:.6px;
+      letter-spacing:.8px;
       line-height:1.05;
       background: linear-gradient(90deg, rgba(255,228,77,.96), rgba(255,53,94,.92), rgba(58,160,255,.92), rgba(44,255,154,.90));
       -webkit-background-clip:text;background-clip:text;color:transparent;
@@ -729,7 +729,7 @@ display:none;
     const renderDetail = (a) => {
       if (!a) return;
       const name = escapeHtml(a.Name || "—");
-      const sub = a.Overview ? escapeHtml(a.Overview).slice(0, 120) + (safe(a.Overview).length > 120 ? "…" : "") : "Artist details";
+      const sub = "";
       const core = Array.isArray(a.CoreMembers) ? a.CoreMembers : [];
       const nonCore = Array.isArray(a.NonCoreMembers) ? a.NonCoreMembers : [];
 
@@ -746,8 +746,6 @@ display:none;
           <div class="titleBlock" style="min-width:0">
             <h2 class="artistTitle">${name}</h2>
             <div class="subline">
-              <span>${sub}</span>
-              <span class="dotSep"></span>
               <span>${badgeHTML(a)}</span>
             </div>
           </div>
