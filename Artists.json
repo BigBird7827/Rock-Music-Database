@@ -9855,27 +9855,644 @@
     {
       "ArtistID": "inxs",
       "Name": "INXS",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Sydney",
+        "Region": "New South Wales",
+        "Country": "Australia"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1977–2012"
+      ],
+      "Genres": [
+        "New wave",
+        "Pub rock",
+        "Dance-rock",
+        "Funk rock",
+        "Alternative rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "DeLuxe",
+        "WEA",
+        "Atlantic",
+        "Mercury",
+        "Atco",
+        "Epic",
+        "Eastwest",
+        "Polydor",
+        "101 Distribution",
+        "Petrol Electric",
+        "Truism"
+      ],
+      "Overview": "INXS were an Australian rock band formed in Sydney in 1977, built around a stable six‑member core: Michael Hutchence (lead vocals), Tim Farriss (guitar), Andrew Farriss (keyboards/guitar), Jon Farriss (drums), Kirk Pengilly (guitar/sax), and Garry Gary Beers (bass). After early years on the Australian pub‑rock circuit, they sharpened a sound that married rock guitars to funk‑leaning rhythm, new‑wave textures, and pop‑tight hooks—a blend that made them equally at home in clubs, on radio, and on MTV.\n\nTheir global peak arrived with the 1987 album “Kick,” a career‑defining release that turned INXS into one of the era’s biggest crossover acts and produced a run of major singles including “Need You Tonight,” “New Sensation,” “Never Tear Us Apart,” and “Devil Inside.” Hutchence’s death in November 1997 ended the classic fronted era, but the remaining members continued in the 2000s with different lead singers (notably Jon Stevens, J.D. Fortune, and Ciarán Gribbin) before concluding as a touring band in 2012. Their catalogue is still a reference point for rhythm‑driven rock with pop discipline—sleek, danceable, and unmistakably band‑made.",
+      "NotableAlbums": [
+        {
+          "Year": 1982,
+          "Title": "Shabooh Shoobah",
+          "Details": "Breakthrough international release that established INXS’s punchy, modern rock identity and introduced key early staples."
+        },
+        {
+          "Year": 1984,
+          "Title": "The Swing",
+          "Details": "A major leap in profile and songwriting confidence, pairing sharper pop instincts with darker, more cinematic production."
+        },
+        {
+          "Year": 1985,
+          "Title": "Listen Like Thieves",
+          "Details": "Hard‑driving and lean, it pushed the band into larger venues and set the stage for their late‑’80s global surge."
+        },
+        {
+          "Year": 1987,
+          "Title": "Kick",
+          "Details": "The blockbuster: a worldwide smash that peaked at No. 3 on the Billboard 200 and earned major multi‑platinum U.S. certification; packed with defining singles."
+        },
+        {
+          "Year": 1990,
+          "Title": "X",
+          "Details": "A huge follow‑up era that kept INXS in stadium territory and delivered standout late‑period hits while expanding their sonic palette."
+        },
+        {
+          "Year": 1992,
+          "Title": "Welcome to Wherever You Are",
+          "Details": "A more exploratory, band‑forward record that broadened the sound while keeping the groove and hook‑first writing."
+        },
+        {
+          "Year": 1997,
+          "Title": "Elegantly Wasted",
+          "Details": "The final studio album released during Hutchence’s lifetime, capturing the mature late‑’90s version of the band’s sound."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1982,
+          "Title": "Don’t Change",
+          "Details": "An early anthem that became one of the band’s defining live staples and a key entry point for new listeners."
+        },
+        {
+          "Year": 1984,
+          "Title": "Original Sin",
+          "Details": "A sleek, propulsive single that signaled the band’s growing international ambition and sharpened pop edge."
+        },
+        {
+          "Year": 1985,
+          "Title": "What You Need",
+          "Details": "A breakthrough hit that helped cement INXS’s groove‑forward crossover appeal."
+        },
+        {
+          "Year": 1987,
+          "Title": "Need You Tonight",
+          "Details": "Their signature global smash and only U.S. No. 1 single; the track that opened the ‘Kick’ era in explosive fashion."
+        },
+        {
+          "Year": 1987,
+          "Title": "New Sensation",
+          "Details": "A bright, horn‑kissed pop‑rock classic that became one of the band’s most recognizable radio staples."
+        },
+        {
+          "Year": 1988,
+          "Title": "Devil Inside",
+          "Details": "A darker, swaggering hit from the ‘Kick’ run that showcased the band’s arena‑ready punch."
+        },
+        {
+          "Year": 1988,
+          "Title": "Never Tear Us Apart",
+          "Details": "A dramatic ballad with cinematic arrangement, widely regarded as one of their most enduring songs."
+        },
+        {
+          "Year": 1988,
+          "Title": "Mystify",
+          "Details": "A smooth, romantic groove track that became a cornerstone of the band’s late‑’80s identity."
+        },
+        {
+          "Year": 1990,
+          "Title": "Suicide Blonde",
+          "Details": "A driving, riff‑led hit that announced the ‘X’ era with a tougher, more muscular edge."
+        },
+        {
+          "Year": 1991,
+          "Title": "By My Side",
+          "Details": "A warm, melodic fan favorite that highlighted the band’s ability to balance intimacy with stadium‑scale polish."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1988,
+          "Title": "U.S. No. 1 single",
+          "Details": "“Need You Tonight” reached No. 1 on the Billboard Hot 100, giving INXS their only U.S. chart‑topper."
+        },
+        {
+          "Year": 1988,
+          "Title": "Breakthrough U.S. album success",
+          "Details": "“Kick” peaked at No. 3 on the Billboard 200 and became the band’s most successful international release."
+        },
+        {
+          "Year": 1997,
+          "Title": "Multi‑platinum milestone (U.S.)",
+          "Details": "“Kick” received 6× Platinum certification from the RIAA for U.S. shipments."
+        },
+        {
+          "Year": 2001,
+          "Title": "ARIA Hall of Fame induction",
+          "Details": "INXS were inducted into the ARIA Hall of Fame, recognizing their lasting impact on Australian music."
+        },
+        {
+          "Year": 2012,
+          "Title": "Final live performance",
+          "Details": "The band concluded their touring career after a final show in Perth, closing a 35‑year run as a live act."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1977 in Sydney; originally performed under the name The Farriss Brothers before adopting INXS.",
+        "Classic core lineup: Hutchence, Tim Farriss, Andrew Farriss, Jon Farriss, Kirk Pengilly, Garry Gary Beers.",
+        "Sound signature: rock guitars and new‑wave polish anchored by funk‑leaning rhythm and danceable grooves.",
+        "Post‑1997 era featured multiple lead singers; the band ended as a touring act in 2012."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.inxs.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/INXS",
+        "Discography": "https://en.wikipedia.org/wiki/INXS_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Michael Hutchence",
+          "Roles": [
+            "lead vocals",
+            "lyrics",
+            "occasional guitar"
+          ],
+          "Years": "1977–1997",
+          "Overview": "Co‑founded INXS and served as their lead vocalist and primary on‑stage identity through the band’s classic era.",
+          "Bio": {
+            "BioID": "inxs-michael-hutchence",
+            "ArtistID": "inxs",
+            "ArtistName": "INXS",
+            "MemberName": "Michael Hutchence",
+            "FullName": "Michael Kelland John Hutchence",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1960-01-22",
+              "Place": "Sydney, New South Wales, Australia"
+            },
+            "ActiveYears": "1977–1997",
+            "AssociatedActs": [
+              "INXS",
+              "Max Q"
+            ],
+            "KeyAlbums": [
+              "Shabooh Shoobah",
+              "The Swing",
+              "Listen Like Thieves",
+              "Kick",
+              "X",
+              "Elegantly Wasted"
+            ],
+            "KeySongs": [
+              "Need You Tonight",
+              "Never Tear Us Apart",
+              "New Sensation",
+              "Devil Inside",
+              "Don't Change"
+            ],
+            "Achievements": [
+              "Co‑founded INXS and served as their lead vocalist and primary on‑stage identity through the band’s classic era.",
+              "Helped drive the global breakthrough of “Kick,” one of the defining rock/pop crossover albums of the late 1980s.",
+              "Co‑wrote a catalogue of enduring singles with Andrew Farriss that continues to define INXS’s legacy."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Michael_Hutchence"
+            },
+            "Biography": [
+              "Michael Hutchence became the focal point of INXS as its co‑founder and lead vocalist, pairing a natural front‑man charisma with an instinct for melody and phrasing that worked in both rock and pop contexts.",
+              "He joined the Farriss‑led group while still in their teens, and as the band moved from local gigs into national touring, his voice helped define a sound that was sleek, rhythmic, and built for movement as much as volume.",
+              "Through the early records he developed a style that could switch from clipped new‑wave urgency to soulful, sensual delivery, often riding the groove rather than pushing over it—an approach that became an INXS trademark.",
+              "The global breakthrough of the late 1980s put Hutchence at the center of an international pop‑rock moment; on “Kick,” he balanced swagger and control, turning tightly arranged songs into stadium‑level statements without losing intimacy.",
+              "As the 1990s progressed, he remained committed to the band format and continued writing and recording with the group while also exploring side projects, keeping his creative identity broader than a single hit era.",
+              "Hutchence’s public profile grew alongside the band’s success, but his most consistent artistic through‑line was his partnership with the Farriss brothers: a songwriting relationship built around groove, structure, and memorable vocal lines.",
+              "INXS entered 1997 with a new studio album and tour, marking 20 years since the band’s formation; the period also underscored how central Hutchence was to the group’s live identity and audience connection.",
+              "He died in Sydney on 22 November 1997, closing the defining chapter of INXS; his voice and stage presence remain inseparable from the band’s peak recordings and enduring reputation."
+            ]
+          }
+        },
+        {
+          "Name": "Andrew Farriss",
+          "Roles": [
+            "keyboards",
+            "guitar",
+            "songwriting",
+            "backing vocals"
+          ],
+          "Years": "1977–2012",
+          "Overview": "Principal composer and core multi‑instrumentalist whose writing shaped INXS’s signature groove‑driven pop‑rock sound.",
+          "Bio": {
+            "BioID": "inxs-andrew-farriss",
+            "ArtistID": "inxs",
+            "ArtistName": "INXS",
+            "MemberName": "Andrew Farriss",
+            "FullName": "Andrew Charles Farriss",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1959-03-27",
+              "Place": "Perth, Western Australia, Australia"
+            },
+            "ActiveYears": "1977–2012",
+            "AssociatedActs": [
+              "INXS"
+            ],
+            "KeyAlbums": [
+              "The Swing",
+              "Listen Like Thieves",
+              "Kick",
+              "X",
+              "Welcome to Wherever You Are"
+            ],
+            "KeySongs": [
+              "Need You Tonight",
+              "New Sensation",
+              "Never Tear Us Apart",
+              "Devil Inside",
+              "Mystify"
+            ],
+            "Achievements": [
+              "Principal composer and core multi‑instrumentalist whose writing shaped INXS’s signature groove‑driven pop‑rock sound.",
+              "Co‑wrote many of the band’s best‑known singles with Michael Hutchence, including the defining hits from “Kick.”",
+              "Helped maintain INXS’s musical continuity through lineup changes and the band’s later touring era."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Andrew_Farriss"
+            },
+            "Biography": [
+              "Andrew Farriss was the primary musical architect inside INXS, best known for keyboards but functioning as a multi‑instrumentalist and principal composer whose ideas anchored the band’s groove‑first writing.",
+              "From the band’s earliest years, he helped translate the raw energy of the Australian pub circuit into structured songs—built on hooks, rhythmic tension, and arrangements that left space for Hutchence’s vocal identity.",
+              "As INXS expanded their palette in the 1980s, Farriss’s synth textures and chord choices gave the music its modern sheen, while his feel for funk and dance rhythms kept the band’s rock core agile and contemporary.",
+              "His writing partnership with Hutchence became one of the group’s defining engines: music and lyric interlocking to create singles that could climb charts without abandoning the sound of a real, tight ensemble.",
+              "On “Kick,” Farriss’s sense of economy—short sections, clean transitions, and instantly readable motifs—helped shape a record that moved like a DJ set but hit like a rock band, a balance few peers managed as cleanly.",
+              "In the post‑peak years, he continued pushing the group’s sonic choices, helping INXS adapt to shifting radio climates while maintaining the rhythmic identity that made their catalog distinct.",
+              "After Hutchence’s death, Farriss remained at the center of the band’s decisions and continued recording and touring, working to keep the INXS standard of songwriting craft intact through lineup changes.",
+              "Beyond INXS, he has continued musical work in various forms, but his legacy is most clearly heard in the band’s classic run: disciplined pop structure powered by rhythm, texture, and unmistakable hooks."
+            ]
+          }
+        },
+        {
+          "Name": "Tim Farriss",
+          "Roles": [
+            "lead guitar",
+            "rhythm guitar"
+          ],
+          "Years": "1977–2012",
+          "Overview": "Founding lead guitarist whose tight, groove‑serving parts anchored INXS’s rock edge across every era.",
+          "Bio": {
+            "BioID": "inxs-tim-farriss",
+            "ArtistID": "inxs",
+            "ArtistName": "INXS",
+            "MemberName": "Tim Farriss",
+            "FullName": "Timothy William Farriss",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Rock",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1957-08-16",
+              "Place": "Perth, Western Australia, Australia"
+            },
+            "ActiveYears": "1977–2012",
+            "AssociatedActs": [
+              "INXS"
+            ],
+            "KeyAlbums": [
+              "Listen Like Thieves",
+              "Kick",
+              "X",
+              "Welcome to Wherever You Are"
+            ],
+            "KeySongs": [
+              "What You Need",
+              "Need You Tonight",
+              "Suicide Blonde",
+              "Devil Inside"
+            ],
+            "Achievements": [
+              "Founding lead guitarist whose tight, groove‑serving parts anchored INXS’s rock edge across every era.",
+              "Helped define the band’s stadium‑ready sound in the “Kick” and “X” years with economical riffs and sharp dynamics.",
+              "Remained part of the core instrumental lineup through the band’s final touring period."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Tim_Farriss"
+            },
+            "Biography": [
+              "Tim Farriss was INXS’s founding lead guitarist, contributing the band’s most direct rock edge while still serving the group’s core priority: groove and songcraft over flash.",
+              "In the early years he helped shape a live identity that could win over pub crowds, pairing tight rhythm playing with sharp, economical leads that complemented the band’s danceable pulse.",
+              "As INXS moved into the new‑wave era, Farriss’s guitar lines adapted—cleaner tones, more precise riffs, and parts designed to lock with drums and bass rather than dominate the mix.",
+              "Across the band’s breakthrough period, his role became a study in restraint: memorable riffs, strategic accents, and a feel for dynamics that made the jump from clubs to arenas sound natural.",
+              "On the “Kick” and “X” eras, he provided much of the record’s bite, keeping the band rooted in rock even when the arrangements leaned toward pop and dance‑floor momentum.",
+              "Farriss also supported the group’s studio identity with parts that were built to be replayed—hooks you could hum, not just licks you could admire—an underrated ingredient in INXS’s crossover success.",
+              "After 1997, he continued with the band through multiple front‑man eras, helping maintain a recognizable instrumental fingerprint even as the vocal center changed.",
+              "His legacy within INXS is the way his guitar served the song: rhythmic, precise, and crafted to amplify the band’s signature blend of rock force and danceable motion."
+            ]
+          }
+        },
+        {
+          "Name": "Jon Farriss",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1977–2012",
+          "Overview": "Founding drummer whose fusion of rock power and funk pocket became the rhythmic signature of INXS.",
+          "Bio": {
+            "BioID": "inxs-jon-farriss",
+            "ArtistID": "inxs",
+            "ArtistName": "INXS",
+            "MemberName": "Jon Farriss",
+            "FullName": "Jonathan James Farriss",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Record producer"
+            ],
+            "Genres": [
+              "Rock",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1961-08-10",
+              "Place": "Perth, Western Australia, Australia"
+            },
+            "ActiveYears": "1977–2012",
+            "AssociatedActs": [
+              "INXS"
+            ],
+            "KeyAlbums": [
+              "The Swing",
+              "Kick",
+              "X"
+            ],
+            "KeySongs": [
+              "Need You Tonight",
+              "Devil Inside",
+              "New Sensation",
+              "Suicide Blonde"
+            ],
+            "Achievements": [
+              "Founding drummer whose fusion of rock power and funk pocket became the rhythmic signature of INXS.",
+              "Anchored the groove‑forward approach that made “Kick” a defining dance‑rock crossover album.",
+              "A central voice in the band’s later era and the final touring period that concluded in 2012."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Jon_Farriss"
+            },
+            "Biography": [
+              "Jon Farriss was INXS’s founding drummer and rhythmic anchor, blending straight rock power with funk‑leaning pocket and dance‑ready precision—a combination that defined the band’s feel from the start.",
+              "In the pub‑rock years he developed a live approach built on stamina and clarity, creating a foundation that allowed the band to play with dynamics while staying relentlessly tight.",
+              "As INXS leaned into new wave and pop, Farriss’s drumming evolved toward sharper patterns and more syncopation, often using groove as the song’s central hook rather than a background support.",
+              "The “Kick” era showcased that approach at its most influential: parts that were clean, propulsive, and built for movement, helping the band translate rock energy into dance‑floor inevitability.",
+              "His playing also helped unify the band’s stylistic range—from darker, moodier tracks to bright radio singles—because the rhythmic language stayed consistent even when textures changed.",
+              "Over the years he incorporated studio approaches that matched the times, but the hallmark remained the same: a sense of pocket that made INXS sound like a band, not a production concept.",
+              "After Hutchence’s death, Farriss became one of the most visible voices in the group’s continuation, supporting different lead singers while preserving the core rhythmic identity audiences expected.",
+              "INXS’s final touring era still revolved around his feel and timekeeping; when the band ended as a live act in 2012, it closed a career defined by groove, control, and unmistakable rhythmic character."
+            ]
+          }
+        },
+        {
+          "Name": "Kirk Pengilly",
+          "Roles": [
+            "guitar",
+            "saxophone",
+            "backing vocals"
+          ],
+          "Years": "1977–2012",
+          "Overview": "Guitarist and saxophonist whose distinctive textures helped separate INXS from peers in the new‑wave era.",
+          "Bio": {
+            "BioID": "inxs-kirk-pengilly",
+            "ArtistID": "inxs",
+            "ArtistName": "INXS",
+            "MemberName": "Kirk Pengilly",
+            "FullName": "Kirk Pengilly",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Saxophone"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1958-07-04",
+              "Place": "Kew, Victoria, Australia"
+            },
+            "ActiveYears": "1977–2012",
+            "AssociatedActs": [
+              "INXS"
+            ],
+            "KeyAlbums": [
+              "The Swing",
+              "Kick",
+              "X"
+            ],
+            "KeySongs": [
+              "Never Tear Us Apart",
+              "New Sensation",
+              "Don't Change"
+            ],
+            "Achievements": [
+              "Guitarist and saxophonist whose distinctive textures helped separate INXS from peers in the new‑wave era.",
+              "Added signature sax and rhythmic guitar parts that reinforced the band’s dance‑rock identity.",
+              "A core onstage and instrumental presence through the band’s full touring lifespan."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Kirk_Pengilly"
+            },
+            "Biography": [
+              "Kirk Pengilly was INXS’s guitarist and saxophonist, adding an instantly recognizable color to the band’s sound—especially in the way his sax lines and rhythmic guitar parts sharpened their dance‑rock identity.",
+              "In the early years he helped build a stage dynamic that felt like a working band rather than a front‑man vehicle, supporting Hutchence with backing vocals and an energetic, characterful presence.",
+              "As the band refined its songwriting, Pengilly’s contributions often arrived as texture and punctuation: horn stabs, melodic counter‑lines, and guitar parts that reinforced the groove without cluttering the arrangement.",
+              "His saxophone became a signature feature in key tracks, giving INXS a distinctive timbral edge that separated them from guitar‑only peers in the new‑wave and pop‑rock lanes.",
+              "Across the mid‑’80s into the “Kick” period, he helped the band sound both modern and muscular—polished enough for pop radio but still rooted in live‑band interplay.",
+              "Pengilly also served as a steadying band member through stylistic shifts and industry changes, keeping the group’s onstage identity cohesive across decades.",
+              "In the post‑1997 years he remained part of the core instrumental lineup, adapting to new front‑men while keeping the band’s instrumental vocabulary familiar to longtime listeners.",
+              "His legacy within INXS is the blend of rhythm, texture, and personality—guitar and sax used not as novelty, but as functional hooks that strengthened the band’s groove‑centered songs."
+            ]
+          }
+        },
+        {
+          "Name": "Garry Gary Beers",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1977–2012",
+          "Overview": "Founding bassist whose melodic, groove‑locked lines were central to INXS’s rhythm‑driven crossover sound.",
+          "Bio": {
+            "BioID": "inxs-garry-gary-beers",
+            "ArtistID": "inxs",
+            "ArtistName": "INXS",
+            "MemberName": "Garry Gary Beers",
+            "FullName": "Garry William Beers",
+            "PrimaryInstruments": [
+              "Bass"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Rock",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1957-06-22",
+              "Place": "Sydney, New South Wales, Australia"
+            },
+            "ActiveYears": "1977–2012",
+            "AssociatedActs": [
+              "INXS"
+            ],
+            "KeyAlbums": [
+              "Listen Like Thieves",
+              "Kick",
+              "X"
+            ],
+            "KeySongs": [
+              "Need You Tonight",
+              "Mystify",
+              "Suicide Blonde",
+              "What You Need"
+            ],
+            "Achievements": [
+              "Founding bassist whose melodic, groove‑locked lines were central to INXS’s rhythm‑driven crossover sound.",
+              "Helped power the band’s peak era with a forward, danceable low‑end identity that became a hallmark of their hits.",
+              "Provided continuity and feel through the band’s post‑1997 era and final touring years."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Garry_Gary_Beers"
+            },
+            "Biography": [
+              "Garry Gary Beers was INXS’s founding bassist, responsible for much of the band’s low‑end identity—elastic, melodic, and tightly interlocked with Jon Farriss’s drums.",
+              "In the pub‑rock years his playing helped the band win rooms through groove as much as volume, laying down lines that moved and swung rather than simply marking root notes.",
+              "As INXS embraced new wave and pop, Beers’s bass remained a defining feature: clean, forward in the mix, and built to make songs feel physical—an essential ingredient in the band’s dance‑rock crossover.",
+              "During the “Kick” era, that approach paid off in songs where the rhythm section feels like the engine, supporting Hutchence’s vocal swagger and the band’s compact, hook‑dense arrangements.",
+              "Beers also contributed backing vocals and supported the band’s live consistency, providing steadiness as the group scaled up from clubs to arenas without losing tightness.",
+              "Through the 1990s, his lines continued to balance precision and movement, keeping INXS’s music grounded even when production aesthetics shifted with the decade.",
+              "After Hutchence’s death, he remained with the band through multiple vocalist eras, helping preserve continuity in feel and tone—often the first thing listeners notice when a lineup changes.",
+              "His work stands as a reminder that INXS’s pop success was built on a working rhythm section: bass and drums driving songs as much as guitars, synths, or image."
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Jon Stevens",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "2000–2003",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "Michael Hutchence (as lead vocalist in the band’s first long‑term post‑Hutchence lineup)",
+          "ReplacedBy": "J.D. Fortune",
+          "Overview": "Fronted INXS in the early 2000s as the band’s first sustained post‑Hutchence lead singer, helping re‑establish them as a touring act. His tenure was focused on live performance and catalog delivery rather than redefining the classic sound."
+        },
+        {
+          "Name": "J.D. Fortune",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "2005–2011",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "Jon Stevens (as the band’s next principal lead vocalist)",
+          "ReplacedBy": "Ciarán Gribbin",
+          "Overview": "Joined as lead vocalist in the mid‑2000s and became the most visible post‑Hutchence front man over several years. His period with the band was built around touring and keeping the INXS live experience active for a new generation."
+        },
+        {
+          "Name": "Ciarán Gribbin",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "2011–2012",
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Albums": [],
+          "Replacing": "J.D. Fortune",
+          "ReplacedBy": "",
+          "Overview": "Became INXS’s final lead vocalist before the band ended as a touring act in 2012. His brief tenure coincided with the last phase of live shows and the close of the group’s long-running career."
+        },
+        {
+          "Name": "Jenny Morris",
+          "Roles": [
+            "backing vocals"
+          ],
+          "Years": "1985–1986 (touring)",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A touring backing vocalist who supported the band’s mid‑’80s live production as INXS scaled up to larger stages. Her role helped thicken the harmony and polish that characterized the era’s shows."
+        },
+        {
+          "Name": "Suze DeMarchi",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "2000 (guest/short-term)",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Appeared as a short-term/guest front‑person during the band’s transitional period as they experimented with different vocal setups after Hutchence. The stint was brief but notable as part of the band’s search for a sustainable live configuration."
+        }
+      ]
     },
     {
       "ArtistID": "iron-maiden",
