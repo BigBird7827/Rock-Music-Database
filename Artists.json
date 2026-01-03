@@ -505,27 +505,561 @@
     {
       "ArtistID": "38-special",
       "Name": "38 Special",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Jacksonville",
+        "Region": "Florida",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1974–present"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Southern rock",
+        "Boogie rock",
+        "Blues rock"
+      ],
+      "Labels": [
+        "A&M Records",
+        "Charisma Records",
+        "Razor & Tie",
+        "CMC International",
+        "Sanctuary Records"
+      ],
+      "Overview": "38 Special (often styled as .38 Special) is a Jacksonville, Florida rock band formed in 1974 by singer-guitarists Donnie Van Zant and Don Barnes. After starting out with a Southern-rock edge, the group broke through nationally in the early 1980s with a more radio-ready, guitar-driven sound that kept the snap of their roots but leaned into big choruses and tight hooks.\n\nAcross the 1980s and into the early 1990s, 38 Special placed multiple singles on the Billboard Hot 100 and built a catalog of arena staples, including “Hold On Loosely,” “Caught Up in You,” “If I’d Been the One,” “Back Where You Belong,” and “Second Chance.” The band has continued touring for decades, with Barnes serving as the long-running anchor of the lineup.",
+      "NotableAlbums": [
+        {
+          "Title": "Wild-Eyed Southern Boys",
+          "Year": 1981,
+          "Notes": "Breakthrough era release featuring “Hold On Loosely”; certified Platinum in the U.S."
+        },
+        {
+          "Title": "Special Forces",
+          "Year": 1982,
+          "Notes": "Includes “Caught Up in You”; certified Platinum in the U.S."
+        },
+        {
+          "Title": "Tour de Force",
+          "Year": 1983,
+          "Notes": "Includes “If I’d Been the One” and “Back Where You Belong”; certified Platinum in the U.S."
+        },
+        {
+          "Title": "Strength in Numbers",
+          "Year": 1986,
+          "Notes": "Features “Like No Other Night”; certified Gold in the U.S."
+        },
+        {
+          "Title": "Rock & Roll Strategy",
+          "Year": 1988,
+          "Notes": "Includes the Top 10 Hot 100 single “Second Chance”."
+        },
+        {
+          "Title": "Flashback: The Best of 38 Special",
+          "Year": 1987,
+          "Notes": "Hit-spanning compilation; certified Platinum in the U.S."
+        },
+        {
+          "Title": "Milestone",
+          "Year": 2025,
+          "Notes": "First new studio album in 21 years (announced July 2025)."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Rockin’ into the Night",
+          "Year": 1980,
+          "Notes": "Early national hit; peaked at No. 43 on the Billboard Hot 100."
+        },
+        {
+          "Title": "Hold On Loosely",
+          "Year": 1981,
+          "Notes": "Signature hit; peaked at No. 27 on the Billboard Hot 100 (and No. 3 on Rock Tracks)."
+        },
+        {
+          "Title": "Caught Up in You",
+          "Year": 1982,
+          "Notes": "Top 10 Hot 100 single (No. 10); reached No. 1 on Billboard Top Rock Tracks."
+        },
+        {
+          "Title": "If I’d Been the One",
+          "Year": 1983,
+          "Notes": "Peaked at No. 19 on the Billboard Hot 100; reached No. 1 on Billboard Top Rock Tracks."
+        },
+        {
+          "Title": "Back Where You Belong",
+          "Year": 1984,
+          "Notes": "Peaked at No. 20 on the Billboard Hot 100."
+        },
+        {
+          "Title": "Teacher, Teacher",
+          "Year": 1984,
+          "Notes": "From the film Teachers soundtrack; peaked at No. 25 on the Billboard Hot 100."
+        },
+        {
+          "Title": "Like No Other Night",
+          "Year": 1986,
+          "Notes": "Mainstream Rock hit; peaked at No. 3 on Billboard Top Rock Tracks."
+        },
+        {
+          "Title": "Second Chance",
+          "Year": 1989,
+          "Notes": "Biggest pop hit; peaked at No. 6 on the Billboard Hot 100."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "U.S. Platinum albums",
+          "Year": "",
+          "Details": "Wild-Eyed Southern Boys (1981), Special Forces (1982), Tour de Force (1983), and Flashback: The Best of 38 Special (1987) are certified Platinum in the United States."
+        },
+        {
+          "Title": "U.S. Gold album",
+          "Year": 1986,
+          "Details": "Strength in Numbers is certified Gold in the United States."
+        },
+        {
+          "Title": "Top 10 Billboard Hot 100 singles",
+          "Year": "",
+          "Details": "“Caught Up in You” peaked at No. 10 and “Second Chance” peaked at No. 6 on the Billboard Hot 100."
+        },
+        {
+          "Title": "Long-running touring act",
+          "Year": "",
+          "Details": "The band has remained active since 1974 and continues to tour with a lineup led by founding member Don Barnes."
+        },
+        {
+          "Title": "Career sales claim",
+          "Year": "",
+          "Details": "The band’s official discography bio states they have sold over 20 million albums worldwide."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Jacksonville, Florida in 1974 by Donnie Van Zant and Don Barnes.",
+        "Known for a run of U.S. Hot 100 hits across the 1980s, including “Hold On Loosely,” “Caught Up in You,” “If I’d Been the One,” “Back Where You Belong,” and “Second Chance.”",
+        "Donnie Van Zant left touring in 2013 due to health issues related to inner-ear nerve damage (he had missed shows in the prior months).",
+        "Signature albums from the early-to-mid 1980s—Wild-Eyed Southern Boys, Special Forces, and Tour de Force—were certified Platinum in the U.S.",
+        "While the name is commonly styled “.38 Special,” guitarist Jeff Carlisi has described the dot as something the band never used on their own records."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.38special.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/38_Special_(band)",
+        "Discography": "https://www.38special.com/music/"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Don Barnes",
+          "Roles": [
+            "co-founder",
+            "lead and backing vocals",
+            "guitar",
+            "multi-instrumentalist"
+          ],
+          "Years": "1974–1987, 1992–present",
+          "Overview": "Co-founder and long-running frontman; lead vocalist and guitarist on many of 38 Special’s best-known hits.",
+          "Bio": {
+            "BioID": "bio-don-barnes",
+            "Name": "Don Barnes",
+            "Role": "co-founder; lead and backing vocals; guitar",
+            "Birth": {
+              "Date": "December 3, 1952",
+              "Place": "Jacksonville, Florida, U.S."
+            },
+            "ActiveYears": [
+              "1974–1987",
+              "1992–present"
+            ],
+            "Biography": "Don Barnes is an American singer, guitarist, and songwriter who co-founded 38 Special in Jacksonville, Florida in 1974. Alongside Donnie Van Zant, he helped shape the band’s blend of Southern-rock muscle and radio-friendly melody.\n\nFrom the start, Barnes was a multi-instrumental presence—most visibly on guitar and vocals—and he became the band’s most consistent onstage focal point across decades of touring.\n\nOn the group’s early albums, 38 Special leaned more strongly into Southern rock, playing hard-driving club and theater shows before their sound widened for a national audience.\n\nBy the early 1980s, the band’s approach shifted toward a tighter, guitar-driven arena-rock style. Barnes increasingly took the lead vocal spotlight during the period when 38 Special’s biggest albums and singles arrived.\n\nBarnes is credited as a co-writer on key songs tied to the band’s breakthrough, including “Hold On Loosely” and “Caught Up in You” (with Jeff Carlisi and Jim Peterik). Those tracks helped define the group’s identity as a hook-forward rock act.\n\nIn 1987, Barnes stepped away from the band for several years. The group continued with lineup changes, but the 38 Special name remained closely associated with Barnes’ voice and guitar style.\n\nBarnes returned in 1992 and resumed a central leadership role, guiding the band through a long touring chapter that kept the classic hits in rotation for new audiences.\n\nEntering the 2010s and 2020s, Barnes became the last remaining original member actively performing with 38 Special, fronting a lineup that includes longtime keyboardist/vocalist Bobby Capps and other veteran players.\n\nAcross eras, Barnes’ calling card has been clarity: crisp rhythm guitar, melodic leads, and a vocal delivery that fits both the band’s Southern roots and its mainstream rock choruses.",
+            "KeyAlbums": [
+              "Wild-Eyed Southern Boys (1981)",
+              "Special Forces (1982)",
+              "Tour de Force (1983)",
+              "Rock & Roll Strategy (1988)"
+            ],
+            "KeySongs": [
+              "Hold On Loosely",
+              "Caught Up in You",
+              "If I’d Been the One",
+              "Second Chance"
+            ],
+            "Achievements": [
+              "Co-founded 38 Special (1974).",
+              "Co-writer of “Hold On Loosely” and “Caught Up in You” (with Jeff Carlisi and Jim Peterik).",
+              "Returned to lead the band’s touring lineup from 1992 onward."
+            ],
+            "ExternalLinks": [
+              {
+                "Label": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Don_Barnes"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Donnie Van Zant",
+          "Roles": [
+            "co-founder",
+            "lead and backing vocals",
+            "guitar"
+          ],
+          "Years": "1974–2013",
+          "Overview": "Co-founder and early frontman; original lead vocalist on the band’s first two albums and a defining voice through the classic era.",
+          "Bio": {
+            "BioID": "bio-donnie-van-zant",
+            "Name": "Donnie Van Zant",
+            "Role": "co-founder; lead and backing vocals; guitar",
+            "Birth": {
+              "Date": "June 11, 1952",
+              "Place": "Jacksonville, Florida, U.S."
+            },
+            "ActiveYears": [
+              "1974–2013"
+            ],
+            "Biography": "Donnie Van Zant is an American singer, songwriter, and guitarist who co-founded 38 Special in 1974 in Jacksonville, Florida. He is also part of the wider Van Zant musical family that helped define Jacksonville’s Southern-rock legacy.\n\nIn 38 Special’s earliest phase, Van Zant served as the original lead vocalist, appearing in that role on the band’s first two studio albums as they established themselves on the regional circuit.\n\nAs the group evolved, Van Zant shared and rotated vocal duties with Don Barnes, an arrangement that allowed 38 Special to move between rawer Southern-rock material and the cleaner, hook-heavy approach that later drove radio success.\n\nDuring the band’s breakout years, Van Zant remained a recognizable voice and stage presence even as Barnes often handled lead vocals on many of the biggest singles.\n\nVan Zant’s career is frequently viewed through the lens of continuity—keeping 38 Special’s roots intact while the band’s songwriting and production moved toward a more accessible, arena-ready sound.\n\nIn March 2013, the band posted that Van Zant had been unable to perform for months and, under his doctor’s orders, would not be able to return to the stage in the foreseeable future due to health issues related to inner-ear nerve damage.\n\nLater in 2013, Van Zant officially left 38 Special and retired from touring, closing a nearly four-decade run with the group’s live lineup.\n\nEven after stepping back from performances, the band indicated he would continue to write and record with them, reflecting his long-term creative connection to the project he helped start.\n\nVan Zant’s legacy in 38 Special is foundational: a co-founder who carried the band from Jacksonville beginnings into a multi-platinum, hit-singles era and a lifetime of classic-rock touring.",
+            "KeyAlbums": [
+              "38 Special (1977)",
+              "Special Delivery (1978)",
+              "Wild-Eyed Southern Boys (1981)",
+              "Special Forces (1982)"
+            ],
+            "KeySongs": [
+              "Hold On Loosely",
+              "Caught Up in You"
+            ],
+            "Achievements": [
+              "Co-founded 38 Special with Don Barnes (1974).",
+              "Member of the band from its formation through 2013.",
+              "Band statement in 2013 cited inner-ear nerve damage affecting touring."
+            ],
+            "ExternalLinks": [
+              {
+                "Label": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Donnie_Van_Zant"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jeff Carlisi",
+          "Roles": [
+            "guitar",
+            "songwriting"
+          ],
+          "Years": "1974–1997",
+          "Overview": "Founding-era guitarist and key songwriter; co-writer of several defining early-1980s hits.",
+          "Bio": {
+            "BioID": "bio-jeff-carlisi",
+            "Name": "Jeff Carlisi",
+            "Role": "guitar; songwriting",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1974–1997"
+            ],
+            "Biography": "Jeff Carlisi is an American guitarist and songwriter best known for his long tenure with 38 Special. A key architect of the band’s sound, he was part of the group from its formation era through the 1990s.\n\nCarlisi was already in Donnie Van Zant’s musical orbit before 38 Special existed, and he rejoined Van Zant’s circle as the “returning Carlisi” in the early lineup that solidified into the band in 1974.\n\nIn 38 Special’s twin-guitar approach, Carlisi’s role was to keep the riffs sharp and the leads clean—an approach that fit both the band’s Southern-rock origins and its later, more streamlined radio style.\n\nHe is credited as a co-writer on defining breakthrough songs, including “Hold On Loosely” and “Caught Up in You,” written with Don Barnes and Jim Peterik.\n\nThose singles helped move the band into national prominence, and Carlisi’s guitar work became part of what listeners remember most: bright hooks, concise solos, and a punchy attack that sat well on rock radio.\n\nCarlisi remained with 38 Special through multiple lineup and industry changes, staying into the period when the band extended beyond the early-1980s peak and continued touring its hits.\n\nHe left the band in 1997, ending a run that spanned the group’s major-label breakthrough, multi-platinum albums, and the sustained touring life that followed.\n\nIn interviews about the band’s identity, Carlisi has pushed back on one famous detail: while the name is often written as “.38 Special,” he has said the band never used the dot on their own records—one of many small myths that grew around the name.\n\nTaken together, Carlisi’s contribution is simple to hear: if 38 Special’s songs are remembered for hooks, his guitar is often the hook’s engine.",
+            "KeyAlbums": [
+              "Wild-Eyed Southern Boys (1981)",
+              "Special Forces (1982)",
+              "Tour de Force (1983)"
+            ],
+            "KeySongs": [
+              "Hold On Loosely",
+              "Caught Up in You"
+            ],
+            "Achievements": [
+              "Guitarist in 38 Special (1974–1997).",
+              "Co-writer of “Hold On Loosely” and “Caught Up in You” (with Don Barnes and Jim Peterik).",
+              "Noted in interviews that the band did not use the dot in “.38 Special” on their own records."
+            ],
+            "ExternalLinks": [
+              {
+                "Label": "Velvet Thunder interview",
+                "URL": "https://www.velvetthunder.co.uk/38-specials-jeff-carlisi-their-big-hits-had-a-certain-formula/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Larry Junstrom",
+          "Roles": [
+            "bass",
+            "occasional guitar"
+          ],
+          "Years": "1977–2014",
+          "Overview": "Longtime bassist who joined in 1977 and remained for 37 years, anchoring the rhythm section through the band’s biggest commercial era.",
+          "Bio": {
+            "BioID": "bio-larry-junstrom",
+            "Name": "Larry Junstrom",
+            "Role": "bass; occasional guitar",
+            "Birth": {
+              "Date": "June 22, 1949",
+              "Place": "Pittsburgh, Pennsylvania, U.S."
+            },
+            "ActiveYears": [
+              "1977–2014"
+            ],
+            "Biography": "Larry Junstrom (1949–2019) was an American bassist who spent the bulk of his career onstage with 38 Special. His playing helped anchor the band’s transition from early Southern rock into a tighter, more radio-focused sound.\n\nBorn in Pittsburgh, Junstrom moved to Jacksonville, Florida as a child. He played music from a young age and gravitated toward bass parts, an instinct that later shaped his musical identity.\n\nIn the Jacksonville scene, Junstrom became friends with Ronnie Van Zant and was recruited as a founding member of what became Lynyrd Skynyrd, playing with the band in its early touring years before leaving in 1971.\n\nHe joined 38 Special in 1977, stepping into the bass chair as the band moved from regional grinding to a wider national platform. From then on, his bass lines were part of the group’s signature rhythmic snap.\n\nJunstrom remained in 38 Special for decades, including the early-1980s stretch when the band’s albums and singles reached their biggest commercial heights and the touring schedule intensified.\n\nBeyond performing, he became known for personal passions outside the stage, including long-term involvement in amateur radio—an interest he maintained for years.\n\nIn 2014, after 37 years with the band, Junstrom retired from 38 Special due to a hand injury that required surgery, and the group subsequently brought in Barry Dunaway on bass for touring and recording continuity.\n\nJunstrom died in October 2019 in Florida at age 70, prompting tributes that highlighted his role in both the Lynyrd Skynyrd origin story and 38 Special’s long-running success.\n\nHis legacy is the steady foundation under the hits: a bassist whose work was reliable, musical, and built for the road.",
+            "KeyAlbums": [
+              "Rockin’ into the Night (1979)",
+              "Wild-Eyed Southern Boys (1981)",
+              "Special Forces (1982)",
+              "Tour de Force (1983)"
+            ],
+            "KeySongs": [
+              "Hold On Loosely",
+              "Caught Up in You",
+              "If I’d Been the One"
+            ],
+            "Achievements": [
+              "Member of 38 Special from 1977 to 2014.",
+              "Retired in 2014 due to a hand injury requiring surgery.",
+              "Also an early member of Lynyrd Skynyrd before leaving in 1971."
+            ],
+            "ExternalLinks": [
+              {
+                "Label": "Wikipedia",
+                "URL": "https://en.wikipedia.org/wiki/Larry_Junstrom"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Steve Brookins",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1974–1987",
+          "Overview": "Founding-era drummer whose playing helped drive the band from Jacksonville clubs into the early-1980s breakout years.",
+          "Bio": {
+            "BioID": "bio-steve-brookins",
+            "Name": "Steve Brookins",
+            "Role": "drums; percussion",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1974–1987"
+            ],
+            "Biography": "Steve Brookins is a drummer best known for his work in 38 Special during the band’s foundational and breakout years. He was part of the group’s early Jacksonville lineup and remained through the period when the band’s biggest hits arrived.\n\nFrom the start, 38 Special made unusual use of drums in its lineup, including a period with two drummers. Brookins’ playing helped give the early band a thick, driving feel that matched their Southern-rock roots.\n\nAs the group played the one-nighter circuit and opened for larger acts, Brookins helped establish the tight, propulsive groove that later made the band’s radio singles feel both punchy and live-ready.\n\nWhen 38 Special’s sound shifted toward a more streamlined arena-rock approach in the early 1980s, the drumming had to tighten without losing energy. Brookins’ role in that transition was to keep the songs moving and the backbeat clean.\n\nHe is associated with the band’s most visible commercial era, when albums like Wild-Eyed Southern Boys and Special Forces turned the group into a fixture on rock radio and in large venues.\n\nBrookins left the band in 1987, closing out a long stretch that covered the group’s early identity, its peak run, and the beginning of later lineup changes.\n\nEven after his departure, the “feel” of the classic 38 Special recordings—direct, driving, and built for choruses—remains linked to the rhythm section approach of the Brookins era.\n\nIn the band’s story, Brookins represents the original engine room: a founding-era drummer who helped turn a regional Jacksonville outfit into a national rock act.",
+            "KeyAlbums": [
+              "Wild-Eyed Southern Boys (1981)",
+              "Special Forces (1982)",
+              "Tour de Force (1983)"
+            ],
+            "KeySongs": [
+              "Hold On Loosely",
+              "Caught Up in You"
+            ],
+            "Achievements": [
+              "Drummer in 38 Special (1974–1987)."
+            ],
+            "ExternalLinks": []
+          }
+        },
+        {
+          "Name": "Jack Grondin",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1974–1991",
+          "Overview": "Early drummer in the band’s unusual two-drummer lineup; stayed through the early 1990s touring era.",
+          "Bio": {
+            "BioID": "bio-jack-grondin",
+            "Name": "Jack Grondin",
+            "Role": "drums; percussion",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1974–1991"
+            ],
+            "Biography": "Jack Grondin is a drummer who helped shape 38 Special’s earliest sound and live power. He joined the band’s formative lineup in the mid-1970s, when the group was still defining what it would become.\n\nIn the early configuration, 38 Special operated with two drummers—an uncommon choice that added weight and movement to the band’s groove in clubs and small theaters.\n\nGrondin’s tenure overlaps with the years when the band paid its dues through constant touring, building the musicianship and stagecraft that later supported a jump to bigger rooms.\n\nThat dual-drum approach also fit the band’s rootsy beginnings, helping the early material land with the kind of force associated with Southern rock and hard-driving boogie.\n\nAs the band transitioned into its more radio-friendly era, the rhythm section had to become more precise while staying energetic—an evolution Grondin was part of as the group’s ambitions expanded.\n\nGrondin remained with 38 Special into the early 1990s, spanning multiple lineup changes and the period when the band’s classic hits became staples of classic-rock radio.\n\nHe left the band in 1991, marking the end of a long run that began in the founding-era setup and carried through the group’s sustained mainstream visibility.\n\nIn 38 Special history, Grondin stands out as a key part of the early live impact: one half of the double-drum punch that helped the band sound bigger than its stage footprint.",
+            "KeyAlbums": [
+              "38 Special (1977)",
+              "Rockin’ into the Night (1979)"
+            ],
+            "KeySongs": [
+              "Rockin’ into the Night"
+            ],
+            "Achievements": [
+              "Drummer in 38 Special (1974–1991)."
+            ],
+            "ExternalLinks": []
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Bobby Capps",
+          "Roles": [
+            "keyboards",
+            "backing and lead vocals"
+          ],
+          "Years": "1991–present",
+          "Instruments": [
+            "keyboards",
+            "vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Bobby Capps joined 38 Special in 1991 as a keyboardist and co-singer, adding harmony depth and extra textures to the live show. He has remained a core part of the touring lineup for decades and is featured in the band’s modern-era configuration."
+        },
+        {
+          "Name": "Gary “Madman” Moffatt",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1996–present",
+          "Instruments": [
+            "drums",
+            "percussion"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Gary Moffatt has been 38 Special’s drummer since the mid-1990s, handling the hard, steady backbeat required for the band’s radio-era hits. His long run has made him central to the group’s contemporary live sound."
+        },
+        {
+          "Name": "Barry Dunaway",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "2014–present",
+          "Instruments": [
+            "bass",
+            "vocals"
+          ],
+          "Albums": [],
+          "Replacing": "Larry Junstrom",
+          "ReplacedBy": "",
+          "Overview": "Barry Dunaway took over bass duties in 2014 after longtime bassist Larry Junstrom retired. He previously filled in for Junstrom on select tours and has since anchored the low end for the band’s current lineup."
+        },
+        {
+          "Name": "Jerry Riggs",
+          "Roles": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "2019–present",
+          "Instruments": [
+            "guitar",
+            "vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Jerry Riggs joined the band’s lineup in 2019 on guitar, helping keep the dual-guitar bite that defined 38 Special’s classic singles. His role is built around clean riffs, melodic leads, and strong backing vocals in the live set."
+        },
+        {
+          "Name": "Max Carl",
+          "Roles": [
+            "lead and backing vocals",
+            "keyboards",
+            "guitar"
+          ],
+          "Years": "1987–1992",
+          "Instruments": [
+            "vocals",
+            "keyboards",
+            "guitar"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Max Carl served as a lead vocalist and multi-instrumentalist during the late-1980s transition years, fronting the band while it continued releasing new material and touring. His tenure bridged the period between Don Barnes’ 1987 departure and Barnes’ 1992 return."
+        },
+        {
+          "Name": "Danny Chauncey",
+          "Roles": [
+            "guitar",
+            "backing vocals",
+            "keyboards"
+          ],
+          "Years": "1987–2019",
+          "Instruments": [
+            "guitar",
+            "vocals",
+            "keyboards"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Danny Chauncey joined during the late-1980s lineup changes and remained for decades, providing guitar work and backing vocals across an extended touring era. He was part of the band’s live configuration through 2019."
+        },
+        {
+          "Name": "Scott Hoffman",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1992–1997",
+          "Instruments": [
+            "drums",
+            "percussion"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Scott Hoffman handled drums in the early-to-mid 1990s as 38 Special continued touring and navigating label and lineup shifts. His stint helped keep the live show consistent during a transitional stretch for the band."
+        },
+        {
+          "Name": "Scott Meeder",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1991–1992",
+          "Instruments": [
+            "drums",
+            "percussion"
+          ],
+          "Albums": [],
+          "Replacing": "Jack Grondin",
+          "ReplacedBy": "Scott Hoffman",
+          "Overview": "Scott Meeder briefly served as drummer in the early 1990s following Jack Grondin’s departure. His short tenure coincided with the band’s Bone Against Steel era and continued touring."
+        },
+        {
+          "Name": "Steve McRay",
+          "Roles": [
+            "keyboards",
+            "harmonica",
+            "backing vocals"
+          ],
+          "Years": "1986–1987",
+          "Instruments": [
+            "keyboards",
+            "harmonica",
+            "vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Steve McRay was part of the mid-1980s lineup on keys and harmonica, contributing additional color and harmony to the band’s live arrangements. His time with the group was brief but falls within the band’s most commercially prominent decade."
+        },
+        {
+          "Name": "Ken Lyons",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1974–1977",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Larry Junstrom",
+          "Overview": "Ken Lyons played bass in 38 Special’s earliest years as the band was building its Jacksonville identity and touring base. He left in 1977 and was later replaced on bass by Larry Junstrom."
+        }
+      ]
     },
     {
       "ArtistID": "a-flock-of-seagulls",
