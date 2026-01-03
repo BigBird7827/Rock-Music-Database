@@ -9211,27 +9211,546 @@
     {
       "ArtistID": "huey-lewis-and-the-news",
       "Name": "Huey Lewis and the News",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "Type": "Band",
+      "Origin": "San Francisco, California, United States",
+      "YearsActive": [
+        "1979–present"
+      ],
+      "Genres": [
+        "Rock",
+        "New wave",
+        "Rhythm & blues",
+        "Doo-wop"
+      ],
+      "Labels": [
+        "Chrysalis",
+        "EMI USA",
+        "Elektra",
+        "Silvertone",
+        "W.O.W.",
+        "BMG"
+      ],
+      "Overview": "Huey Lewis and the News are a San Francisco–based American rock band formed in 1979, built around singer and harmonica player Huey Lewis with a core Bay Area lineup that blended punchy rock, new wave, and R&B-influenced pop into radio-ready singles and tight, high-energy live shows.\n\nThey became one of the defining pop-rock acts of the 1980s, with the multi-platinum album “Sports” and a run of major hit singles including “The Power of Love” (from *Back to the Future*), “Stuck with You,” “Jacob’s Ladder,” and “Hip to Be Square.” The band has not toured since 2018 after Lewis was diagnosed with Ménière’s disease, though they released the album “Weather” in 2020 using material recorded before his hearing loss.",
+      "NotableAlbums": [
+        {
+          "Year": 1983,
+          "Title": "Sports",
+          "Details": "Breakthrough blockbuster that hit No. 1 in the U.S. and launched a string of Top 10 singles."
+        },
+        {
+          "Year": 1986,
+          "Title": "Fore!",
+          "Details": "Chart-topping follow-up featuring the No. 1 singles “Stuck with You” and “Jacob’s Ladder,” plus “Hip to Be Square.”"
+        },
+        {
+          "Year": 1982,
+          "Title": "Picture This",
+          "Details": "Early success that broke the band nationally, led by “Do You Believe in Love.”"
+        },
+        {
+          "Year": 2020,
+          "Title": "Weather",
+          "Details": "Return album assembled from recordings made prior to Lewis’s 2018 hearing loss."
+        },
+        {
+          "Year": 1994,
+          "Title": "Four Chords & Several Years Ago",
+          "Details": "A classic-R&B covers set reflecting the band’s long-running roots influences."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1985,
+          "Title": "The Power of Love",
+          "Details": "No. 1 U.S. hit tied to *Back to the Future*; one of the band’s signature anthems."
+        },
+        {
+          "Year": 1986,
+          "Title": "Stuck with You",
+          "Details": "No. 1 U.S. hit and one of the defining singles from *Fore!*."
+        },
+        {
+          "Year": 1986,
+          "Title": "Jacob’s Ladder",
+          "Details": "No. 1 U.S. hit showcasing the band’s tougher rock edge within their pop format."
+        },
+        {
+          "Year": 1986,
+          "Title": "Hip to Be Square",
+          "Details": "Cultural touchstone that became a durable radio staple and era marker."
+        },
+        {
+          "Year": 1984,
+          "Title": "I Want a New Drug",
+          "Details": "Biggest hit from *Sports*; a sharp, horn-driven pop-rock single."
+        },
+        {
+          "Year": 1984,
+          "Title": "The Heart of Rock & Roll",
+          "Details": "Up-tempo, road-ready anthem that became a defining concert track."
+        },
+        {
+          "Year": 1983,
+          "Title": "Heart and Soul",
+          "Details": "Top 10 single that helped propel *Sports* into blockbuster territory."
+        },
+        {
+          "Year": 1982,
+          "Title": "Do You Believe in Love",
+          "Details": "Breakout hit that pushed *Picture This* into the mainstream."
+        },
+        {
+          "Year": 1982,
+          "Title": "Workin' for a Livin'",
+          "Details": "Working-class rock staple and a cornerstone of the band’s live set."
+        },
+        {
+          "Year": 1984,
+          "Title": "If This Is It",
+          "Details": "Top 10 pop single pairing bright melody with a subtle edge of regret."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1984,
+          "Title": "One of the decade’s biggest albums",
+          "Details": "“Sports” reached No. 1 in the U.S. and became a multi-platinum pop-rock landmark."
+        },
+        {
+          "Year": 1985,
+          "Title": "Major film-era crossover",
+          "Details": "“The Power of Love” hit No. 1 and helped cement the band’s worldwide profile through *Back to the Future*."
+        },
+        {
+          "Year": 1986,
+          "Title": "International recognition",
+          "Details": "Won Best International Group at the Brit Awards."
+        },
+        {
+          "Year": 1986,
+          "Title": "Academy Award nomination",
+          "Details": "“The Power of Love” earned an Oscar nomination for Best Original Song for its composers."
+        },
+        {
+          "Year": 1990,
+          "Title": "Sustained chart dominance",
+          "Details": "Across the 1980s and early 1990s, the group amassed a large run of Top 10 singles across major U.S. charts."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1979 in San Francisco; originally performed briefly as “Huey Lewis & The American Express.”",
+        "Best known for the 1983 album “Sports” and its associated MTV-era videos.",
+        "The band has not toured since 2018 due to Huey Lewis’s Ménière’s disease and resulting hearing loss.",
+        "Released the album “Weather” in 2020 using recordings made before Lewis’s hearing loss."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "OfficialWebsite": "https://hueylewisandthenews.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Huey_Lewis_and_the_News",
+        "Discography": "https://en.wikipedia.org/wiki/Huey_Lewis_and_the_News_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Huey Lewis",
+          "Roles": [
+            "Lead vocals",
+            "Harmonica",
+            "Songwriting"
+          ],
+          "Years": "1979–present",
+          "Overview": "Frontman, co-founder, and primary voice of Huey Lewis and the News, known for a clean, punchy pop-rock delivery rooted in classic R&B and early rock ’n’ roll.",
+          "Bio": {
+            "BioID": "bio-huey-lewis",
+            "ArtistID": "huey-lewis-and-the-news",
+            "ArtistName": "Huey Lewis and the News",
+            "MemberName": "Huey Lewis",
+            "FullName": "Hugh Anthony Cregg III",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Harmonica"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Actor"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock and roll",
+              "Blue-eyed soul"
+            ],
+            "Birth": {
+              "Date": "1950-07-05",
+              "Place": "New York City, New York, United States"
+            },
+            "ActiveYears": [
+              "1967–present"
+            ],
+            "AssociatedActs": [
+              "Huey Lewis and the News",
+              "Clover"
+            ],
+            "KeyAlbums": [
+              "Sports",
+              "Fore!",
+              "Picture This"
+            ],
+            "KeySongs": [
+              "The Power of Love",
+              "I Want a New Drug",
+              "The Heart of Rock & Roll",
+              "Stuck with You"
+            ],
+            "Achievements": [
+              "Co-led one of the defining pop-rock runs of the 1980s with Huey Lewis and the News.",
+              "Helped write and popularize “The Power of Love,” an Academy Award–nominated song tied to *Back to the Future*.",
+              "Forced to step back from touring in 2018 due to Ménière’s disease–related hearing loss."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Huey_Lewis",
+              "OfficialBandSite": "https://hueylewisandthenews.com/the-band"
+            },
+            "Biography": "Hugh Anthony Cregg III—known professionally as Huey Lewis—was born on July 5, 1950, in New York City. He grew up in Northern California and gravitated early toward American roots music, R&B, and the direct punch of classic rock ’n’ roll.\n\nBefore fronting a hitmaking band, Lewis worked his way through the Bay Area club circuit and broader pub-rock scenes, building a reputation as a strong singer and harmonica player with a taste for tight arrangements and big hooks.\n\nHe spent a formative stretch in the 1970s with Clover, a band that sharpened his musicianship and stagecraft through relentless gigging. Those years shaped the no-nonsense, performance-first approach that later became a hallmark of Huey Lewis and the News.\n\nIn the late 1970s, Lewis began assembling the lineup that became “The News,” combining players from different Bay Area circles into a unit that could deliver radio-friendly pop rock with real band muscle. By 1979, the group was recording and building momentum toward a broader deal and a national audience.\n\nLewis’s writing and frontman instincts landed perfectly in the early MTV era, where bright choruses and clean, punchy production could take over both radio and video rotation. The 1983 album *Sports* became the turning point, launching the band into stadium-level visibility.\n\nAs the face of the group, Lewis balanced an everyman charm with a crisp, almost metronomic sense of rhythm that made the band’s singles feel immediate and durable. Songs like “I Want a New Drug,” “The Heart of Rock & Roll,” and “If This Is It” carried his signature mix of polish and grit.\n\nLewis’s cultural peak widened further when “The Power of Love” became a No. 1 hit tied to *Back to the Future*, bringing the band’s sound into a major film moment. The track’s success helped define the band’s legacy well beyond the album cycle that produced it.\n\nIn 2018, Lewis was diagnosed with Ménière’s disease, leading to severe hearing loss and an end to touring and live performance. Even with the band largely inactive as a touring unit, the catalogue remains a benchmark of 1980s pop-rock craft and live-band precision."
+          }
+        },
+        {
+          "Name": "Johnny Colla",
+          "Roles": [
+            "Guitar",
+            "Saxophone",
+            "Backing vocals",
+            "Songwriting"
+          ],
+          "Years": "1979–present",
+          "Overview": "Founding member and multi-instrumentalist whose guitar-and-sax identity helped define the band’s punchy, horn-forward sound.",
+          "Bio": {
+            "BioID": "bio-johnny-colla",
+            "ArtistID": "huey-lewis-and-the-news",
+            "ArtistName": "Huey Lewis and the News",
+            "MemberName": "Johnny Colla",
+            "FullName": "John Victor Colla",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Saxophone",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1952-07-02",
+              "Place": "Sacramento, California, United States"
+            },
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "AssociatedActs": [
+              "Huey Lewis and the News",
+              "Soundhole",
+              "Rubicon"
+            ],
+            "KeyAlbums": [
+              "Sports",
+              "Fore!",
+              "Picture This"
+            ],
+            "KeySongs": [
+              "The Power of Love",
+              "Hip to Be Square",
+              "Do You Believe in Love"
+            ],
+            "Achievements": [
+              "Core architect of the band’s guitar-and-sax blend during their 1980s peak.",
+              "Credited as a co-writer on major catalogue material including “The Power of Love.”"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Johnny_Colla",
+              "OfficialBandSite": "https://hueylewisandthenews.com/the-band"
+            },
+            "Biography": "Johnny Colla—born John Victor Colla on July 2, 1952, in Sacramento, California—grew up in Northern California with deep exposure to the Bay Area’s diverse live-music ecosystem. He developed as both a guitarist and saxophonist, a dual identity that later became central to Huey Lewis and the News’ sound.\n\nBefore forming the News, Colla moved through local bands and scene work that demanded versatility: switching instruments, supporting different singers, and adapting to everything from bar-band R&B to rock-driven club sets. That range trained him to think like an arranger as much as a player.\n\nColla’s early connections in the region intersected with the circle around Soundhole, a Bay Area group whose members would later become part of Huey Lewis and the News. Those relationships mattered—his musical chemistry with future bandmates was built in rehearsal rooms and on small stages long before the hits arrived.\n\nWhen Huey Lewis began assembling what would become “The News,” Colla was an obvious fit: he could provide rhythmic guitar, melodic fills, and sax lines that cut cleanly through a pop-rock mix. The band’s early identity leaned heavily on that compact, danceable combination of rock bite and horn color.\n\nAs the group moved into the studio years that culminated in *Sports*, Colla’s contributions helped keep the arrangements sharp and energetic—built for both radio and the stage. The band’s best singles often feel like a live ensemble captured with precision, and Colla’s parts are a big reason why.\n\nColla also became part of the songwriting engine around the band’s biggest moments. He is credited as a co-writer on “The Power of Love,” a track whose mass exposure via *Back to the Future* pushed the band into a new tier of cultural presence.\n\nThrough lineup changes and shifting eras, Colla remained a steady musical anchor—someone who could keep the band’s roots visible even as production styles changed. His ability to switch roles in the same song (guitar texture, horn punctuation, backing vocals) kept the live show cohesive.\n\nIn the band’s later years, as touring slowed and eventually stopped after 2018, Colla’s place in the story stayed clear: a founding member who helped define the group’s signature mix of rock, R&B-inflected pop, and horn-driven punch."
+          }
+        },
+        {
+          "Name": "Sean Hopper",
+          "Roles": [
+            "Keyboards",
+            "Backing vocals"
+          ],
+          "Years": "1979–present",
+          "Overview": "Founding keyboardist whose parts and textures helped balance the band’s rock edge with pop clarity and rhythmic bounce.",
+          "Bio": {
+            "BioID": "bio-sean-hopper",
+            "ArtistID": "huey-lewis-and-the-news",
+            "ArtistName": "Huey Lewis and the News",
+            "MemberName": "Sean Hopper",
+            "FullName": "Sean Thomas Hopper",
+            "PrimaryInstruments": [
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1953-03-31",
+              "Place": "San Francisco, California, United States"
+            },
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "AssociatedActs": [
+              "Huey Lewis and the News",
+              "Clover"
+            ],
+            "KeyAlbums": [
+              "Sports",
+              "Fore!",
+              "Picture This"
+            ],
+            "KeySongs": [
+              "Heart and Soul",
+              "If This Is It",
+              "The Heart of Rock & Roll"
+            ],
+            "Achievements": [
+              "Founding member and long-running keyboard anchor of the group’s signature sound."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Sean_Hopper",
+              "OfficialBandSite": "https://hueylewisandthenews.com/the-band"
+            },
+            "Biography": "Sean Thomas Hopper was born on March 31, 1953, in San Francisco, California. A lifelong Bay Area musician, he gravitated toward keyboards early and developed a feel for groove-first playing that fit both rock and R&B contexts.\n\nHopper’s formative experience came through bands that emphasized live performance and tight ensemble work. Long before major-label success, he learned to make keyboard parts functional—supporting vocals, driving rhythm, and shaping harmonic color without crowding the mix.\n\nA key chapter of his early career was Clover, where Hopper and Huey Lewis worked together before launching the News. That shared history mattered: it created a musical shorthand that later translated into the band’s clean, locked-in studio results.\n\nBy the late 1970s, as Lewis began assembling the players who would become Huey Lewis and the News, Hopper’s role was foundational. His keyboard textures helped bridge the band’s roots influences with the streamlined pop-rock sound that would travel on radio and MTV.\n\nOn the group’s biggest albums, Hopper’s work often functions as the glue: holding down chord movement, reinforcing horn stabs, and setting up rhythmic breaks for guitars and drums. The band’s signature bounce—bright but not lightweight—depends on that kind of disciplined playing.\n\nDuring the *Sports* era, the band’s songs became a showcase for concise arrangements, and Hopper’s parts reflect that approach. Instead of virtuoso display, he built lines that made choruses lift and verses move, keeping the overall machine running.\n\nAs the group expanded its touring lineup and adapted to changes over decades, Hopper remained one of the core constants. His presence preserved continuity in sound even when instrumentation around him shifted.\n\nWhen touring ended after 2018, Hopper’s contribution was already cemented: a founding member whose keyboard work helped define a durable, radio-perfect blend of rock energy and pop clarity."
+          }
+        },
+        {
+          "Name": "Bill Gibson",
+          "Roles": [
+            "Drums",
+            "Percussion",
+            "Backing vocals"
+          ],
+          "Years": "1979–present",
+          "Overview": "Founding drummer whose steady, driving pocket anchored the band’s tight arrangements and live precision.",
+          "Bio": {
+            "BioID": "bio-bill-gibson",
+            "ArtistID": "huey-lewis-and-the-news",
+            "ArtistName": "Huey Lewis and the News",
+            "MemberName": "Bill Gibson",
+            "FullName": "Bill Gibson",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Drummer"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1951-11-13",
+              "Place": "Sacramento, California, United States"
+            },
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "AssociatedActs": [
+              "Huey Lewis and the News"
+            ],
+            "KeyAlbums": [
+              "Sports",
+              "Fore!",
+              "Picture This"
+            ],
+            "KeySongs": [
+              "I Want a New Drug",
+              "The Heart of Rock & Roll",
+              "Hip to Be Square"
+            ],
+            "Achievements": [
+              "Founding rhythm-section driver behind the band’s 1980s hit run."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bill_Gibson_(drummer)"
+            },
+            "Biography": "Bill Gibson was born on November 13, 1951, in Sacramento, California. He began playing drums young and was influenced by big-band and jazz powerhouses, building a style that combined precision with a strong sense of swing.\n\nGibson’s early development was rooted in the kind of listening that rewards touch and timing—skills that later translated perfectly to pop-rock recording. Even when the band’s songs hit hard, his feel stayed controlled, keeping the groove clean and danceable.\n\nBefore Huey Lewis and the News became a national name, Gibson was already a key figure in the local Bay Area scene around Soundhole. That circle created the personnel bridge that eventually brought Gibson into the band’s founding lineup.\n\nWhen the group formed in 1979, Gibson helped establish its defining quality: a live-band tightness that made the recordings feel energetic without sounding sloppy. His drumming gave the band a solid, radio-friendly foundation that could still punch onstage.\n\nOn *Picture This* and especially *Sports*, Gibson’s pocket supports concise songwriting and sharp arrangement moves—breaks, stops, and rhythmic pivots that keep singles lively. The band’s horn-driven hits depend on that locked-in feel to keep the sound from getting cluttered.\n\nAs the band rose through the MTV era, Gibson remained a key reason the material translated to arenas. The tempos stayed steady, the backbeat stayed firm, and the group’s famous “tight but fun” identity held together night after night.\n\nThrough later lineup changes and shifting musical climates, Gibson continued as a core member, maintaining the band’s rhythmic identity even when production styles evolved. His backing vocals also reinforced the band’s stacked, chorus-forward sound.\n\nIn the band’s later period—especially after touring ceased following 2018—Gibson’s legacy is still easiest to hear in the classic singles: drums that feel simple on the surface, but are engineered for maximum drive, clarity, and mass appeal."
+          }
+        },
+        {
+          "Name": "Chris Hayes",
+          "Roles": [
+            "Guitar",
+            "Backing vocals"
+          ],
+          "Years": "1979–2001",
+          "Overview": "Founding-era lead guitarist whose crisp lines and solos became part of the band’s 1980s sonic signature.",
+          "Bio": {
+            "BioID": "bio-chris-hayes",
+            "ArtistID": "huey-lewis-and-the-news",
+            "ArtistName": "Huey Lewis and the News",
+            "MemberName": "Chris Hayes",
+            "FullName": "Christopher John Hayes",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1957-11-24",
+              "Place": "Sacramento, California, United States"
+            },
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "AssociatedActs": [
+              "Huey Lewis and the News"
+            ],
+            "KeyAlbums": [
+              "Sports",
+              "Fore!",
+              "Picture This",
+              "Plan B"
+            ],
+            "KeySongs": [
+              "The Power of Love",
+              "I Want a New Drug"
+            ],
+            "Achievements": [
+              "Key studio and touring guitarist during the band’s 1980s peak.",
+              "Credited as a co-writer on “The Power of Love,” an Academy Award–nominated song."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Huey_Lewis_and_the_News",
+              "GuitarWorld": "https://www.guitarworld.com/features/huey-lewis-and-the-news-chris-hayes",
+              "IMDbBio": "https://www.imdb.com/name/nm0370943/bio/"
+            },
+            "Biography": "Christopher John Hayes was born on November 24, 1957, in Sacramento, California. He grew into a guitarist with a sharp, articulate attack—equally comfortable with clean rhythm parts and concise, hooky solos.\n\nHayes joined the developing Huey Lewis and the News lineup in 1979, becoming the lead guitarist at the moment the band was shaping its identity. His playing gave the early material a bright edge that cut through pop arrangements without overpowering them.\n\nIn the studio, Hayes specialized in parts that feel simple but are meticulously placed: riffs that lock with the drums, fills that underline vocal phrasing, and solos that peak quickly then get out of the way. That approach matched the band’s philosophy of maximum impact with minimal clutter.\n\nAs the band moved from *Picture This* into the blockbuster *Sports* era, Hayes’s guitar became one of the signatures listeners associated with the group. The combination of tight rhythm work and crisp leads helped the songs feel like a real band captured at full energy.\n\nHayes was also part of the songwriting circle around the band’s biggest moments. He is credited as one of the composers of “The Power of Love,” which became a No. 1 hit tied to *Back to the Future* and earned an Academy Award nomination for Best Original Song.\n\nOnstage, his role was just as important: the band’s live reputation depended on precision, and Hayes delivered parts that sounded like the records while still feeling alive. The guitar lines supported the horns and vocals rather than competing with them.\n\nAfter decades in the group, Hayes stepped away in the early 2000s, retiring from full-time band duties after work around the *Plan B* period. His departure marked the end of the classic founding-guitar era for the group.\n\nEven after leaving the lineup, Hayes’s contribution remained embedded in the catalogue: the riffs, tones, and solo shapes that defined the band’s biggest singles and helped make their 1980s run feel both polished and genuinely band-driven."
+          }
+        },
+        {
+          "Name": "Mario Cipollina",
+          "Roles": [
+            "Bass"
+          ],
+          "Years": "1979–1995",
+          "Overview": "Founding bassist whose locked-in, groove-first playing helped drive the early albums and the band’s 1980s peak.",
+          "Bio": {
+            "BioID": "bio-mario-cipollina",
+            "ArtistID": "huey-lewis-and-the-news",
+            "ArtistName": "Huey Lewis and the News",
+            "MemberName": "Mario Cipollina",
+            "FullName": "Mario Cipollina",
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Bassist",
+              "Musician"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1954-11-10",
+              "Place": "San Rafael, California, United States"
+            },
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "AssociatedActs": [
+              "Huey Lewis and the News",
+              "Soundhole"
+            ],
+            "KeyAlbums": [
+              "Huey Lewis and the News",
+              "Picture This",
+              "Sports",
+              "Fore!"
+            ],
+            "KeySongs": [
+              "Workin' for a Livin'",
+              "Heart and Soul"
+            ],
+            "Achievements": [
+              "Founding bassist and a key part of the original rhythm section through 1995."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mario_Cipollina"
+            },
+            "Biography": "Mario Cipollina was born on November 10, 1954, in San Rafael, California. A Bay Area musician with deep local roots, he developed a bass style built on groove, clarity, and tight ensemble coordination.\n\nBefore Huey Lewis and the News, Cipollina played in Soundhole, one of the key Bay Area bands that intersected with Huey Lewis’s earlier circle. Those scene connections became the foundation for the hybrid lineup that formed the News in 1979.\n\nAs a founding member, Cipollina’s bass work helped give the early recordings a grounded, danceable feel. The band’s sound relied on rhythmic precision—tight drums, clean guitars, and bass lines that pushed the songs forward without muddying the mix.\n\nOn the first wave of albums—*Huey Lewis and the News*, *Picture This*, and *Sports*—his playing supported arrangements that combined rock drive with R&B bounce. That rhythmic DNA is a big part of why the band’s hits still feel energetic and immediate decades later.\n\nIn the *Sports* era, the band’s new visibility put a spotlight on how disciplined the core ensemble was. Cipollina’s role was often invisible in the best way: steady time, strong note choice, and a pocket that made the horn stabs and vocal hooks land cleanly.\n\nCipollina remained in the group through the peak years and the transition into later releases. His tenure covered the period when the band’s live reputation and studio polish were at their tightest alignment.\n\nHe left the band in 1995; reliable accounts note that he was fired during that period amid serious personal struggles with drug addiction. After his departure, the bass chair passed to John Pierce as the group moved into a new touring era.\n\nCipollina’s legacy inside the band is tied to the classic foundation: the original rhythm section feel that makes tracks like “Workin’ for a Livin’” and “Heart and Soul” sound like a working band at full cohesion rather than a studio construction."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John Pierce",
+          "Roles": [
+            "Bass"
+          ],
+          "Years": "1994–present",
+          "Overview": "Joined in the mid-1990s and became the band’s longtime bassist in the post-original lineup."
+        },
+        {
+          "Name": "Stef Burns",
+          "Roles": [
+            "Guitar",
+            "Backing vocals"
+          ],
+          "Years": "2001–present",
+          "Overview": "Joined in the 2000s as a touring and live guitarist after Chris Hayes’s retirement from full-time band duties."
+        },
+        {
+          "Name": "Marvin McFadden",
+          "Roles": [
+            "Trumpet"
+          ],
+          "Years": "1994–present",
+          "Overview": "Part of the band’s expanded horn lineup (“The Sports Section”), reinforcing the brass-driven punch of the classic hits in concert."
+        },
+        {
+          "Name": "Rob Sudduth",
+          "Roles": [
+            "Tenor saxophone"
+          ],
+          "Years": "1994–present",
+          "Overview": "Longtime horn-section member who helped carry the band’s live sound after the early touring-horn era."
+        },
+        {
+          "Name": "Johnnie Bamont",
+          "Roles": [
+            "Alto saxophone",
+            "Baritone saxophone",
+            "Flute"
+          ],
+          "Years": "2009–present",
+          "Overview": "Multi-reed player who joined the touring horn section in the late 2000s, expanding the live texture and flexibility."
+        },
+        {
+          "Name": "James Harrah",
+          "Roles": [
+            "Guitar",
+            "Backing vocals"
+          ],
+          "Years": "2016–present",
+          "Overview": "Additional touring guitarist who joined the later-era lineup, supporting the band’s dual-guitar live arrangements."
+        }
+      ]
     },
     {
       "ArtistID": "humble-pie",
