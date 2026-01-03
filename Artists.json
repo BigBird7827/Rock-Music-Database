@@ -5843,33 +5843,599 @@
     {
       "ArtistID": "electric-light-orchestra",
       "Name": "Electric Light Orchestra",
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "elo",
-      "Name": "ELO",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Birmingham",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": "1970–1986, 2000–2001, 2014–2025",
+      "Genres": [
+        "Progressive pop",
+        "Progressive rock",
+        "Orchestral pop",
+        "Art rock"
+      ],
+      "Labels": [
+        "Harvest",
+        "Warner Bros.",
+        "United Artists",
+        "Jet",
+        "Columbia",
+        "Epic",
+        "Sony",
+        "MCA",
+        "RCA"
+      ],
+      "Overview": "Electric Light Orchestra (ELO) emerged in Birmingham, England in 1970 with a simple but bold idea: write pop and rock songs that carried the sweep and color of orchestral music. Formed by Jeff Lynne and Roy Wood with drummer Bev Bevan as an offshoot of The Move, the group made strings and classical textures part of the band’s identity rather than an occasional garnish.\n\nAfter Wood’s early departure, Lynne became ELO’s primary songwriter and producer, steering the band through a prolific run in the 1970s and early 1980s. Their sound evolved from cello-driven rock into a meticulous studio blend of stacked harmonies, big hooks, and increasingly sophisticated keyboards—still anchored by the band’s “symphonic pop” ambition.\n\nELO’s catalogue is packed with era-defining singles and high-concept albums, from the lush mid‑’70s records through the blockbuster double set Out of the Blue and the chart-topping UK albums Discovery and Time. The band’s legacy continued into the modern era through Jeff Lynne’s revival of the name, culminating in a Rock & Roll Hall of Fame induction and a late-career return to arenas.",
+      "NotableAlbums": [
+        {
+          "Title": "Eldorado",
+          "Year": 1974,
+          "Notes": "A fully realized concept album that pushed ELO’s orchestral ambitions into cinematic territory, pairing big melodies with story-driven sequencing."
+        },
+        {
+          "Title": "Face the Music",
+          "Year": 1975,
+          "Notes": "A breakthrough set that tightened the band’s pop instincts while keeping the strings-and-rock signature, launching a run of international hits."
+        },
+        {
+          "Title": "A New World Record",
+          "Year": 1976,
+          "Notes": "Often cited as a creative peak, balancing meticulous production with radio-ready songwriting and richly layered vocals."
+        },
+        {
+          "Title": "Out of the Blue",
+          "Year": 1977,
+          "Notes": "The iconic double album that cemented ELO as arena-scale pop-rock architects, packed with hook-heavy singles and lavish studio craft."
+        },
+        {
+          "Title": "Discovery",
+          "Year": 1979,
+          "Notes": "A sleek, late‑’70s pivot that kept the harmonies and gloss while leaning into danceable rhythms; it became a UK chart-topper."
+        },
+        {
+          "Title": "Time",
+          "Year": 1981,
+          "Notes": "A futuristic concept album built around synth textures and narrative continuity, topping the UK chart and showcasing ELO’s evolving palette."
+        },
+        {
+          "Title": "Secret Messages",
+          "Year": 1983,
+          "Notes": "A dense, studio-driven album that reflects Lynne’s obsession with sound design and layered arrangements during the band’s later classic period."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Mr. Blue Sky",
+          "Year": 1977,
+          "Notes": "A sparkling pop mini‑suite from Out of the Blue, built on bright harmonies and a dramatic, arrangement-heavy payoff."
+        },
+        {
+          "Title": "Livin' Thing",
+          "Year": 1976,
+          "Notes": "A New World Record standout that pairs a buoyant groove with sweeping string lines and one of the band’s most enduring choruses."
+        },
+        {
+          "Title": "Evil Woman",
+          "Year": 1975,
+          "Notes": "A glossy, piano-led hit that helped break the band wide internationally, combining pop punch with orchestral sheen."
+        },
+        {
+          "Title": "Don't Bring Me Down",
+          "Year": 1979,
+          "Notes": "ELO’s biggest U.S. hit, driving hard without the band’s usual string bed while keeping the stacked hooks and studio polish."
+        },
+        {
+          "Title": "Telephone Line",
+          "Year": 1976,
+          "Notes": "A slow-burn ballad with lush production and emotional clarity, frequently cited among the group’s finest vocal performances."
+        },
+        {
+          "Title": "Turn to Stone",
+          "Year": 1977,
+          "Notes": "A kinetic opener that sets the tone for Out of the Blue, marrying crunchy guitars to layered vocals and bright synth details."
+        },
+        {
+          "Title": "Sweet Talkin' Woman",
+          "Year": 1977,
+          "Notes": "A propulsive, hook-first single that showcases the band’s knack for harmony stacks and precise, radio-perfect arranging."
+        },
+        {
+          "Title": "Xanadu (with Olivia Newton‑John)",
+          "Year": 1980,
+          "Notes": "A glittering pop collaboration tied to the film Xanadu, fusing ELO’s sheen with a dance-floor gloss that became a major hit."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 2017,
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "ELO were inducted into the Rock & Roll Hall of Fame, with Jeff Lynne, Roy Wood, Bev Bevan, and Richard Tandy recognized as the inducted lineup."
+        },
+        {
+          "Year": 1979,
+          "Title": "Discovery reaches UK No. 1",
+          "Details": "Discovery hit Number 1 on the UK Official Albums Chart, underscoring the band’s late‑’70s commercial peak in Britain."
+        },
+        {
+          "Year": 1981,
+          "Title": "Time reaches UK No. 1",
+          "Details": "Time topped the UK Official Albums Chart for two weeks, marking a successful shift toward a more synth-forward concept style."
+        },
+        {
+          "Year": 1979,
+          "Title": "\"Don't Bring Me Down\" becomes ELO’s biggest U.S. hit",
+          "Details": "The single peaked at Number 4 on the Billboard Hot 100, remaining the group’s highest-charting hit in the United States."
+        },
+        {
+          "Year": 1979,
+          "Title": "\"Don't Bring Me Down\" peaks at UK No. 3",
+          "Details": "The song reached Number 3 on the UK singles chart, becoming one of ELO’s biggest home‑market hits."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Birmingham in 1970 by Jeff Lynne and Roy Wood with drummer Bev Bevan, evolving from the band The Move.",
+        "Known for blending pop-rock songwriting with orchestral textures, then later expanding into synth-driven, high-gloss studio production.",
+        "Revived in the 2010s as Jeff Lynne’s ELO, bringing the catalogue back to arenas and major festivals decades after the original run."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.jefflynneselo.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Electric_Light_Orchestra",
+        "Discography": "https://en.wikipedia.org/wiki/Electric_Light_Orchestra_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Jeff Lynne",
+          "Roles": [
+            "lead vocals",
+            "guitars",
+            "songwriting",
+            "production",
+            "keyboards"
+          ],
+          "Years": "1970–1986, 2000–2001, 2014–2025",
+          "Overview": "Co-founder and principal songwriter/producer who shaped ELO’s signature blend of orchestral ambition and high-gloss pop craftsmanship.",
+          "Bio": {
+            "BioID": "electric-light-orchestra-jeff-lynne",
+            "ArtistName": "Electric Light Orchestra",
+            "MemberName": "Jeff Lynne",
+            "FullName": "Jeffrey Lynne",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Keyboards",
+              "Bass"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Progressive pop",
+              "Rock",
+              "Orchestral pop",
+              "Art rock"
+            ],
+            "Birth": {
+              "Date": "1947-12-30",
+              "Place": "Birmingham, England"
+            },
+            "ActiveYears": "1964–present",
+            "AssociatedActs": [
+              "Electric Light Orchestra",
+              "The Move",
+              "The Idle Race",
+              "Traveling Wilburys"
+            ],
+            "KeyAlbums": [
+              "A New World Record",
+              "Out of the Blue",
+              "Discovery",
+              "Time"
+            ],
+            "KeySongs": [
+              "Mr. Blue Sky",
+              "Evil Woman",
+              "Livin' Thing",
+              "Don't Bring Me Down",
+              "Telephone Line"
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame inductee (as part of ELO, 2017)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Jeff_Lynne"
+            },
+            "Biography": "Jeff Lynne was born and raised in Birmingham, England, and grew up absorbing the radio pop of the 1950s and 1960s while teaching himself guitar and songcraft. Even early on, his signature instincts were clear: strong melodies, tight chord movement, and an ear for stacked vocal harmonies.\n\nBefore ELO, Lynne built experience in local groups and gained wider attention with The Idle Race, where he began to refine a studio-minded approach to arrangement. Those years shaped the skills that would later define ELO—layered production, careful editing, and a willingness to chase a sound until it felt “finished.”\n\nIn 1970 Lynne joined The Move and, almost immediately, became central to a new offshoot project intended to carry rock forward beyond the Beatles-era string experiments. That project became Electric Light Orchestra, co-founded with Roy Wood and Bev Bevan around the idea of making “orchestral rock” a band’s default language.\n\nAfter Wood’s departure in the early 1970s, Lynne assumed leadership as ELO’s primary songwriter, vocalist, and producer. He guided the group from cello-led progressive pop into a sleek, chart-dominant style that kept the symphonic ambition while sharpening the singles.\n\nAcross the mid‑’70s through the early ’80s, Lynne’s fingerprints were everywhere: dense harmony stacks, hook-first choruses, and an exacting studio polish that made ELO sound bigger than the sum of its parts. His production choices—bright vocals, tightly gated rhythms, and carefully layered keyboards—helped the band stand out in an increasingly competitive pop landscape.\n\nAt the same time, Lynne’s writing broadened ELO’s emotional range, from widescreen optimism to late-night balladry. Songs like “Telephone Line” and “Mr. Blue Sky” show how he could frame simple sentiments with dramatic arrangement arcs and cinematic pacing.\n\nAfter ELO’s original run ended in the mid‑1980s, Lynne remained a high-impact figure as a producer and collaborator, working with major artists and helping shape records that became touchstones of late‑20th‑century rock and pop. The same craft that made ELO’s records gleam translated naturally to the studio work he took on outside the band.\n\nIn the 2010s, Lynne revived the ELO name for major live returns, presenting the catalogue with modern production while keeping the classic arrangements and vocal textures at the center. The revival also restored ELO’s place in the broader rock narrative for a new generation of listeners.\n\nHis legacy is twofold: as the voice and architect of ELO’s most enduring music, and as a producer-songwriter whose “big, bright, and precise” aesthetic became a recognizable signature across decades of popular music."
+          }
+        },
+        {
+          "Name": "Roy Wood",
+          "Roles": [
+            "lead vocals",
+            "multi-instrumentalist",
+            "songwriting"
+          ],
+          "Years": "1970–1972",
+          "Overview": "Co-founder whose early vision helped establish ELO’s orchestral-rock identity before he departed to pursue his own projects.",
+          "Bio": {
+            "BioID": "electric-light-orchestra-roy-wood",
+            "ArtistName": "Electric Light Orchestra",
+            "MemberName": "Roy Wood",
+            "FullName": "Roy Wood",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Cello",
+              "Woodwinds"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop",
+              "Orchestral pop"
+            ],
+            "Birth": {
+              "Date": "1946-11-08",
+              "Place": "Birmingham, England"
+            },
+            "ActiveYears": "1963–present",
+            "AssociatedActs": [
+              "Electric Light Orchestra",
+              "The Move",
+              "Wizzard"
+            ],
+            "KeyAlbums": [
+              "The Electric Light Orchestra (No Answer)"
+            ],
+            "KeySongs": [
+              "10538 Overture",
+              "Roll Over Beethoven"
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame inductee (as part of ELO, 2017)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Roy_Wood"
+            },
+            "Biography": "Roy Wood was born in Birmingham and emerged as one of the city’s most inventive multi-instrumentalists, comfortable moving between guitar-driven rock, orchestral color, and off-kilter pop experimentation. His early reputation was built on restless creativity and a knack for turning unusual sounds into catchy songs.\n\nWood rose to prominence with The Move, where he helped create a run of British hits and developed the bold, theatrical instincts that would later feed directly into ELO’s founding concept. He was already thinking in arrangements—how sections could shift, how timbres could surprise, and how pop could still feel adventurous.\n\nIn 1970 Wood co-founded Electric Light Orchestra with Jeff Lynne and Bev Bevan, aiming to continue the trajectory of rock music that incorporated classical instrumentation and ambitious structure. The earliest ELO recordings leaned heavily into that mission, with cellos and orchestral ideas placed right at the front of the mix.\n\nWood’s short ELO tenure was crucial in establishing the band’s identity: a group unafraid of big gestures, eccentric textures, and multi-part arrangements. Even when the sound later became more streamlined and radio-polished, the “anything is possible” attitude of the early period remained part of the band’s DNA.\n\nAfter leaving ELO in the early 1970s, Wood pursued his own vision more directly, forming Wizzard and building a solo career that kept his love of throwback styles and lush production in play. His work outside ELO reinforced his reputation as a shape-shifting craftsman rather than a single-lane rock musician.\n\nWood’s songwriting and arranging instincts continued to influence how later listeners heard ELO’s origin story: not as an accident, but as a deliberate attempt to build a new pop language out of rock, classical color, and studio invention.\n\nIn interviews and retrospectives, Wood is often described as the co-architect who helped spark the idea and proved it could work in practice. That early proof-of-concept mattered, because ELO’s success depended on making an unusual premise feel natural on the radio.\n\nHis recognition as part of ELO’s inducted lineup in the Rock & Roll Hall of Fame underscored how central his early contribution was to the band’s identity, even though the classic run most fans know was led by Lynne.\n\nWood’s lasting imprint on ELO is the foundational spark: the conviction that pop could be playful, baroque, and weird without losing its hooks."
+          }
+        },
+        {
+          "Name": "Bev Bevan",
+          "Roles": [
+            "drums",
+            "percussion",
+            "backing vocals"
+          ],
+          "Years": "1970–1986",
+          "Overview": "Founding drummer who anchored ELO’s shifting arrangements and remained one of the most consistent onstage elements of the classic era.",
+          "Bio": {
+            "BioID": "electric-light-orchestra-bev-bevan",
+            "ArtistName": "Electric Light Orchestra",
+            "MemberName": "Bev Bevan",
+            "FullName": "Beverley Bevan",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Drummer"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop",
+              "Orchestral pop"
+            ],
+            "Birth": {
+              "Date": "1944-11-25",
+              "Place": "Sparkhill, Birmingham, England"
+            },
+            "ActiveYears": "1964–present",
+            "AssociatedActs": [
+              "Electric Light Orchestra",
+              "The Move",
+              "ELO Part II",
+              "The Orchestra"
+            ],
+            "KeyAlbums": [
+              "A New World Record",
+              "Out of the Blue",
+              "Discovery"
+            ],
+            "KeySongs": [
+              "Mr. Blue Sky",
+              "Livin' Thing",
+              "Don't Bring Me Down"
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame inductee (as part of ELO, 2017)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bev_Bevan"
+            },
+            "Biography": "Bev Bevan was born in Birmingham and became known as a powerful, steady drummer with the stamina to anchor ELO’s evolving arrangements. His playing had to bridge multiple worlds—rock backbeat, orchestral dynamics, and the precise timing demanded by studio-layered production.\n\nBefore ELO, Bevan was a member of The Move, where he developed into a dependable rhythmic engine in a band built around strong singles and shifting lineups. That experience prepared him for the demands of ELO, where arrangements could be dense but still needed momentum.\n\nIn 1970 Bevan co-founded Electric Light Orchestra with Jeff Lynne and Roy Wood. From the beginning, his job was to make ambitious ideas feel grounded—keeping the songs moving even as cellos, strings, and layered vocals expanded around the rhythm section.\n\nDuring ELO’s classic era, Bevan served as one of the group’s most constant onstage presences. The band’s music could be studio-complex, but live performance still depended on a drummer who could keep the groove strong while the arrangements unfolded.\n\nAs the sound shifted toward glossy pop and synthesizer textures in the late 1970s and early 1980s, Bevan’s playing remained a stabilizing force. His drumming helped tie together very different eras of ELO—from the early orchestral-rock experiment to the later hit-driven, high-polish albums.\n\nAfter the original ELO run ended, Bevan remained closely associated with the band’s legacy and pursued projects that kept the ELO repertoire alive for audiences. Those later years underline how much of ELO’s identity in the public mind was built on a recognizable, consistent core.\n\nBevan also became a key source for telling the band’s story from the inside, speaking about the realities of touring, lineup changes, and the way ELO’s sound was constructed. His perspective helps balance the narrative of a studio-led band with the practical work of keeping it functional onstage.\n\nHis place in ELO history was formally acknowledged when the band’s key lineup was inducted into the Rock & Roll Hall of Fame. The honor reflected his role not just as a drummer, but as a founding member who helped turn a risky concept into a long-running enterprise.\n\nBevan’s legacy within ELO is endurance: the ability to hold the music together, night after night and record after record, as the band’s sonic ambitions kept growing."
+          }
+        },
+        {
+          "Name": "Richard Tandy",
+          "Roles": [
+            "keyboards",
+            "piano",
+            "synthesizers",
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "1972–1986, 2000–2001, 2014–2024",
+          "Overview": "Longtime keyboardist whose piano and synth textures were central to ELO’s late‑’70s and ’80s studio sound.",
+          "Bio": {
+            "BioID": "electric-light-orchestra-richard-tandy",
+            "ArtistName": "Electric Light Orchestra",
+            "MemberName": "Richard Tandy",
+            "FullName": "Richard Tandy",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Piano",
+              "Synthesizer"
+            ],
+            "Occupations": [
+              "Musician",
+              "Keyboardist"
+            ],
+            "Genres": [
+              "Rock",
+              "Progressive pop",
+              "Orchestral pop",
+              "Art rock"
+            ],
+            "Birth": {
+              "Date": "1948-03-26",
+              "Place": "Birmingham, England"
+            },
+            "Death": {
+              "Date": "2024-05-01",
+              "Place": "United Kingdom"
+            },
+            "ActiveYears": "1967–2024",
+            "AssociatedActs": [
+              "Electric Light Orchestra",
+              "The Move"
+            ],
+            "KeyAlbums": [
+              "Eldorado",
+              "Out of the Blue",
+              "Discovery",
+              "Time"
+            ],
+            "KeySongs": [
+              "Mr. Blue Sky",
+              "Telephone Line",
+              "Livin' Thing",
+              "Don't Bring Me Down"
+            ],
+            "Achievements": [
+              "Rock & Roll Hall of Fame inductee (as part of ELO, 2017)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Richard_Tandy"
+            },
+            "Biography": "Richard Tandy was born in Birmingham and became one of ELO’s most important sonic architects, known for turning keyboards into an orchestral force of their own. His parts often carried the “futuristic” sheen of the band’s classic sound—bright, melodic, and meticulously layered.\n\nTandy’s early professional work intersected with the same Birmingham scene that produced The Move and, eventually, ELO. He joined ELO in the early 1970s and became a central collaborator as the group’s arrangements grew more complex and studio-dependent.\n\nWhile ELO is famous for strings, Tandy helped define the band’s other signature: the keyboard palette. Piano, electric piano, and synthesizers became essential to the way ELO balanced warmth with gloss, especially as the band moved into late‑’70s and early ’80s production styles.\n\nOn record, Tandy’s playing supported both the big hooks and the subtle transitions—those small harmonic turns and texture shifts that make ELO songs feel like mini‑movies. His work is a major reason the band’s recordings remain instantly recognizable even to casual listeners.\n\nIn the classic run, he was part of the core that kept the band stable as other lineup roles shifted. That stability mattered because ELO’s sound wasn’t just songwriting; it was the continuity of how the songs were built and voiced.\n\nTandy’s contributions extended beyond the “parts,” into the broader craft of arrangement—working closely in a studio environment where details, timing, and tone were treated as compositional tools. The result is that many ELO tracks feel engineered for emotional impact as much as musical complexity.\n\nDecades later, he returned to the fold during Jeff Lynne’s revival of the ELO name, reconnecting the modern live version to the classic records’ sound. His presence helped underline that ELO’s identity lived in specific musical textures, not just in a logo or a catalogue.\n\nAfter a lifetime of shaping music that blended pop immediacy with orchestral ambition, Tandy’s passing in 2024 prompted a wave of recognition for how central he was to ELO’s sound world. For many fans, his keyboards are the band’s emotional “glue.”\n\nTandy’s legacy is the hidden architecture of ELO: the chords, tones, and melodic keyboard lines that made the band’s grand ideas feel sleek, modern, and enduring."
+          }
+        },
+        {
+          "Name": "Kelly Groucutt",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1974–1983",
+          "Overview": "Classic-era bassist and harmony vocalist whose parts helped define the band’s most commercially successful lineup.",
+          "Bio": {
+            "BioID": "electric-light-orchestra-kelly-groucutt",
+            "ArtistName": "Electric Light Orchestra",
+            "MemberName": "Kelly Groucutt",
+            "FullName": "Michael William Groucutt",
+            "PrimaryInstruments": [
+              "Bass",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Bassist"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop",
+              "Orchestral pop"
+            ],
+            "Birth": {
+              "Date": "1949-09-08",
+              "Place": "Coseley, Staffordshire, England"
+            },
+            "Death": {
+              "Date": "2009-02-19",
+              "Place": "England",
+              "Cause": "Heart attack"
+            },
+            "ActiveYears": "1966–2009",
+            "AssociatedActs": [
+              "Electric Light Orchestra"
+            ],
+            "KeyAlbums": [
+              "Face the Music",
+              "A New World Record",
+              "Out of the Blue",
+              "Discovery",
+              "Time"
+            ],
+            "KeySongs": [
+              "Don't Bring Me Down",
+              "Mr. Blue Sky",
+              "Livin' Thing"
+            ],
+            "Achievements": [
+              "Part of ELO’s classic touring and recording lineup during their peak hit-making years."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Kelly_Groucutt"
+            },
+            "Biography": "Kelly Groucutt was born in Birmingham and became widely known through his years in ELO as a bassist and distinctive harmony vocalist. In a band built on stacked voices and precise studio layering, his backing vocals became part of the signature blend.\n\nBefore joining ELO, Groucutt worked through the local circuit and developed a style that fit the band’s needs: melodic bass lines that served the song, and a voice capable of locking tightly into Jeff Lynne’s harmony architecture.\n\nHe joined ELO in the mid‑1970s, arriving as the band moved into its most commercially successful stretch. That era demanded both studio precision and arena-ready performance, and Groucutt’s role helped the classic lineup feel fuller and more cohesive.\n\nOn record, his bass work supported ELO’s shift toward a tighter pop-rock sound while still leaving space for strings and keyboards. Live, he helped deliver the multi-part vocal arrangements that were central to the band’s identity.\n\nGroucutt is often associated with the run of albums that defined ELO for many listeners, including the big mid‑to‑late‑’70s releases and the hit-heavy singles that followed. Those records required consistency, and he provided it—both musically and vocally.\n\nIn the early 1980s, as the band’s internal pressures rose and the music industry changed around them, lineup dynamics became more complicated. Groucutt eventually departed, and his exit marked the end of the band’s best-known touring configuration.\n\nAfter ELO, he continued making music and remained connected to the band’s legacy in the eyes of fans who recognized how much the classic sound depended on the full ensemble, not just the lead voice.\n\nHis death in 2009 led to renewed attention on his contributions, particularly the way his harmonies and stage presence helped ELO’s studio-crafted songs translate into a live experience.\n\nGroucutt’s legacy within ELO is the classic-era foundation: bass and harmony work that quietly supported some of the most recognizable pop-rock recordings of the late 1970s."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Mik Kaminski",
+          "Roles": [
+            "violin",
+            "backing vocals"
+          ],
+          "Years": "1973–1983",
+          "Instruments": [
+            "Violin"
+          ],
+          "Albums": [
+            "On the Third Day",
+            "Eldorado",
+            "Face the Music",
+            "A New World Record",
+            "Out of the Blue",
+            "Discovery",
+            "Xanadu",
+            "Time"
+          ],
+          "Overview": "A flamboyant, melodic violin presence who became a key visual and musical part of ELO’s classic-era stage show. His lines often reinforced the band’s “orchestral” identity in a live context, helping the arrangements land with arena-scale impact."
+        },
+        {
+          "Name": "Hugh McDowell",
+          "Roles": [
+            "cello",
+            "backing vocals"
+          ],
+          "Years": "1972, 1973–1980",
+          "Instruments": [
+            "Cello"
+          ],
+          "Albums": [
+            "ELO 2",
+            "On the Third Day",
+            "Eldorado",
+            "Face the Music",
+            "A New World Record",
+            "Out of the Blue",
+            "Discovery",
+            "Xanadu"
+          ],
+          "Overview": "A core part of the early string-led sound, providing the cello foundation that made ELO feel like a band with an orchestra built in. His playing helped bridge the group’s experimental beginnings and their later, more streamlined pop success."
+        },
+        {
+          "Name": "Melvyn Gale",
+          "Roles": [
+            "cello",
+            "backing vocals"
+          ],
+          "Years": "1974–1980",
+          "Instruments": [
+            "Cello"
+          ],
+          "Albums": [
+            "Face the Music",
+            "A New World Record",
+            "Out of the Blue",
+            "Discovery",
+            "Xanadu"
+          ],
+          "Overview": "Joined during the band’s mid‑’70s ascent, reinforcing the string section on the albums that defined ELO’s commercial peak. His work helped keep the orchestral texture prominent even as the sound became more radio-polished."
+        },
+        {
+          "Name": "Mike de Albuquerque",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1972–1974",
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [
+            "On the Third Day",
+            "Eldorado"
+          ],
+          "Overview": "Bassist during a pivotal transition period as ELO moved from early experimentation toward more focused album concepts. He contributed to the rhythm-and-harmony foundation before the classic late‑’70s lineup solidified."
+        },
+        {
+          "Name": "Wilfred Gibson",
+          "Roles": [
+            "violin"
+          ],
+          "Years": "1972–1973",
+          "Instruments": [
+            "Violin"
+          ],
+          "Albums": [
+            "ELO 2",
+            "On the Third Day"
+          ],
+          "Overview": "An early violinist who helped define ELO’s expanding string palette during the formative album years. His contributions supported the band’s initial mission to place classical instrumentation at the center of a rock group."
+        },
+        {
+          "Name": "Mike Edwards",
+          "Roles": [
+            "cello"
+          ],
+          "Years": "1972–1974",
+          "Instruments": [
+            "Cello"
+          ],
+          "Albums": [
+            "ELO 2",
+            "On the Third Day",
+            "Eldorado"
+          ],
+          "Overview": "Part of ELO’s early cello contingent, adding weight and texture to the band’s first major recordings. His playing helped cement the “rock band with strings up front” identity that set ELO apart from their contemporaries."
+        },
+        {
+          "Name": "Bill Hunt",
+          "Roles": [
+            "French horn",
+            "keyboards"
+          ],
+          "Years": "1971–1972",
+          "Instruments": [
+            "French horn",
+            "Keyboards"
+          ],
+          "Albums": [
+            "The Electric Light Orchestra (No Answer)"
+          ],
+          "Overview": "A short-tenure early member whose instrumentation highlighted how wide ELO’s palette could be at the start. His presence reflects the band’s early willingness to treat unusual timbres as normal rock-band tools."
+        },
+        {
+          "Name": "Rick Price",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1970",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "The Electric Light Orchestra (No Answer)"
+          ],
+          "Overview": "An original bassist in the band’s earliest configuration during the Move-to-ELO transition. His brief role sits at the foundation of ELO’s story before the more famous classic lineup took shape."
+        }
+      ]
     },
     {
       "ArtistID": "emerson-lake-palmer",
