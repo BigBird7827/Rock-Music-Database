@@ -530,27 +530,359 @@
     {
       "ArtistID": "a-flock-of-seagulls",
       "Name": "A Flock of Seagulls",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Liverpool",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1979–1986",
+        "1988–present"
+      ],
+      "Genres": [
+        "new wave",
+        "synth-pop"
+      ],
+      "Labels": [
+        "Jive",
+        "Arista",
+        "I.R.S."
+      ],
+      "Overview": "A Flock of Seagulls are a Liverpool-formed new wave and synth-pop band best known for a run of early-’80s singles that paired icy synthesizers with dramatic, chorus-soaked guitars. Their sound landed squarely in the “Second British Invasion” era, where striking visuals and high-rotation videos helped carry their music to international audiences.\n\nBeyond the hits, the band built a reputation for atmosphere: bright arpeggiated synth lines, spacious production, and melodic hooks designed for both dancefloors and late-night radio. They also earned a Grammy for the instrumental “D.N.A.,” a reminder that their appeal wasn’t only the singles—it was the textures and craft underneath them.",
+      "NotableAlbums": [
+        {
+          "Title": "A Flock of Seagulls",
+          "Year": "1982",
+          "Notes": "The breakthrough debut featuring “I Ran (So Far Away)” and “Space Age Love Song,” establishing their signature blend of synth sheen and guitar atmosphere."
+        },
+        {
+          "Title": "Listen",
+          "Year": "1983",
+          "Notes": "A more polished follow-up anchored by “Wishing (If I Had a Photograph of You),” one of the band’s most enduring songs."
+        },
+        {
+          "Title": "The Story of a Young Heart",
+          "Year": "1984",
+          "Notes": "A pop-forward set that continued their melodic approach and produced the hit “The More You Live, the More You Love.”"
+        },
+        {
+          "Title": "Dream Come True",
+          "Year": "1986",
+          "Notes": "The last studio album of the classic era before the band’s mid-’80s pause, capturing a late-period refinement of their sound."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "I Ran (So Far Away)",
+          "Year": "1982",
+          "Notes": "Their signature hit: urgent, romantic, and instantly recognizable—an MTV-era staple that helped break the band internationally."
+        },
+        {
+          "Title": "Space Age Love Song",
+          "Year": "1982",
+          "Notes": "A shimmering fan favorite that highlights their blend of synth melody and cinematic guitar textures."
+        },
+        {
+          "Title": "Wishing (If I Had a Photograph of You)",
+          "Year": "1982",
+          "Notes": "A bittersweet, big-chorus single that became one of the defining synth-pop songs of the decade."
+        },
+        {
+          "Title": "The More You Live, the More You Love",
+          "Year": "1984",
+          "Notes": "A later hit that leans into pop momentum while keeping their spacious, glossy production style."
+        },
+        {
+          "Title": "D.N.A.",
+          "Year": "1982",
+          "Notes": "Instrumental showcase that earned the band a Grammy and underlined the strength of their sound design and arrangement."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1983",
+          "Title": "Grammy Award – Best Rock Instrumental Performance",
+          "Details": "Won for the instrumental track “D.N.A.” at the 25th Annual Grammy Awards, an unusual crossover moment for a synth-pop/new wave act."
+        },
+        {
+          "Year": "1982–1984",
+          "Title": "International hit run during the MTV / Second British Invasion era",
+          "Details": "A string of widely played singles—including “I Ran (So Far Away),” “Space Age Love Song,” and “Wishing”—helped make the band one of the most recognizable pop exports of the early 1980s."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Liverpool in 1979 and broke internationally in the early 1980s.",
+        "Classic lineup: Mike Score (vocals/keys), Ali Score (drums), Frank Maudsley (bass), Paul Reynolds (guitar).",
+        "Known for combining synth-pop with prominent, effects-heavy guitar textures.",
+        "Won a Grammy for the instrumental “D.N.A.” (Best Rock Instrumental Performance)."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://aflockofseagulls.org",
+        "Wikipedia": "https://en.wikipedia.org/wiki/A_Flock_of_Seagulls",
+        "Discography": "https://en.wikipedia.org/wiki/A_Flock_of_Seagulls_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Mike Score",
+          "Roles": [
+            "founding member",
+            "lead vocals",
+            "keyboards",
+            "guitar"
+          ],
+          "Years": "1979–1986, 1988–present",
+          "Overview": "Founding frontman, primary vocalist, and key architect of the band’s synth-forward sound and melodic hooks.",
+          "Bio": {
+            "BioID": "a-flock-of-seagulls-mike-score",
+            "ArtistID": "a-flock-of-seagulls",
+            "ArtistName": "A Flock of Seagulls",
+            "MemberName": "Mike Score",
+            "FullName": "Michael Gordon Score",
+            "PrimaryInstruments": [
+              "lead vocals",
+              "keyboards",
+              "guitar"
+            ],
+            "Occupations": [
+              "singer-songwriter",
+              "musician"
+            ],
+            "Genres": [
+              "new wave",
+              "synth-pop"
+            ],
+            "Birth": {
+              "Date": "1957-11-05",
+              "Place": "Beverley, East Riding of Yorkshire, England"
+            },
+            "ActiveYears": "1976–present",
+            "AssociatedActs": [
+              "A Flock of Seagulls",
+              "Tontrix"
+            ],
+            "KeyAlbums": [
+              "A Flock of Seagulls",
+              "Listen",
+              "The Story of a Young Heart"
+            ],
+            "KeySongs": [
+              "I Ran (So Far Away)",
+              "Space Age Love Song",
+              "Wishing (If I Had a Photograph of You)"
+            ],
+            "Achievements": [
+              "Co-founded A Flock of Seagulls and became the band’s primary voice and visual identity during their early-’80s breakthrough.",
+              "Helped steer the band’s signature mix of synth-pop hooks and spacious, effects-driven textures."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://mikescore.com",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mike_Score"
+            },
+            "Biography": "Mike Score is the founding frontman of A Flock of Seagulls, known for pairing sharp pop instincts with an atmospheric, synth-forward sound. As lead vocalist and a key architect of the band’s arrangements, he helped define the group’s blend of melodic hooks and futuristic texture.\n\nBefore the band’s breakthrough, Score worked in Liverpool and played in earlier projects, building the basic toolkit that would later make A Flock of Seagulls stand out: simple, memorable chord movement, a sense of drama, and a strong ear for timbre.\n\nWhen the group formed in Liverpool, Score took on the central writing and presentation role. The band’s early shows and rehearsals quickly developed a recognizable identity—cool, spacious, and built around the contrast between bright synthesizers and wide, chorus-soaked guitars.\n\nThat approach paid off as the early-’80s singles found an international audience. “I Ran (So Far Away)” opened the door, and the follow-up run—especially “Space Age Love Song” and “Wishing (If I Had a Photograph of You)”—cemented the band as a defining name of the MTV-era pop landscape.\n\nScore’s writing tended to keep the lyric imagery slightly abstract while the melodies stayed direct. That combination gave the songs replay value: they felt cinematic and modern, but still worked as straightforward pop records with big choruses.\n\nEven as the band’s lineup shifted over time, Score remained the constant presence. For fans, that continuity matters: the vocal tone, the keyboard-led arrangements, and the overall mood of the songs connect the classic era to later performances.\n\nIn addition to the band’s catalog, Score has pursued solo work and continued touring, keeping the group’s best-known material in circulation for new waves of listeners. The live setting also highlights how much of the Seagulls’ sound depends on arrangement choices rather than studio tricks alone.\n\nTaken together, Score’s legacy is tied to an instantly identifiable aesthetic—one that helped define early-’80s synth-pop for a mass audience while leaving room for detail-oriented musicianship underneath the hits."
+          }
+        },
+        {
+          "Name": "Paul Reynolds",
+          "Roles": [
+            "classic lineup",
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "1980–1984",
+          "Overview": "Lead guitarist whose echo-drenched tone gave the band a signature guitar voice alongside the synthesizers.",
+          "Bio": {
+            "BioID": "a-flock-of-seagulls-paul-reynolds",
+            "ArtistID": "a-flock-of-seagulls",
+            "ArtistName": "A Flock of Seagulls",
+            "MemberName": "Paul Reynolds",
+            "FullName": "Paul Reynolds",
+            "PrimaryInstruments": [
+              "guitar",
+              "backing vocals"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "new wave",
+              "synth-pop"
+            ],
+            "Birth": {
+              "Date": "1962-08-04",
+              "Place": "Liverpool, Merseyside, England"
+            },
+            "ActiveYears": "1979–present",
+            "AssociatedActs": [
+              "A Flock of Seagulls"
+            ],
+            "KeyAlbums": [
+              "A Flock of Seagulls",
+              "Listen",
+              "The Story of a Young Heart"
+            ],
+            "KeySongs": [
+              "I Ran (So Far Away)",
+              "Space Age Love Song",
+              "Wishing (If I Had a Photograph of You)"
+            ],
+            "Achievements": [
+              "Helped define the band’s signature guitar tone—lush, echo-heavy, and unusually prominent for a synth-led act.",
+              "Played on the band’s early-’80s breakthrough recordings and toured during their peak period."
+            ],
+            "ExternalLinks": {
+              "Official Site": "",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Reynolds_(musician)"
+            },
+            "Biography": "Paul Reynolds is best known as the lead guitarist of A Flock of Seagulls during their classic early-’80s rise. While the band was often described as synth-pop, Reynolds’ playing is a big reason the records feel larger than a typical keyboard-driven act—his guitar lines add shimmer, motion, and drama.\n\nReynolds joined the group as a teenager in Liverpool, stepping into a sound that was still forming. The band’s arrangements left space for him to be more than a rhythm player; instead, the guitar became a leading texture, weaving around the synthesizers rather than sitting behind them.\n\nHis hallmark was an effects-rich tone—chorus, delay, and a smooth sustain that could turn simple figures into sweeping atmosphere. That approach is a major part of what makes songs like “Space Age Love Song” feel simultaneously romantic and futuristic.\n\nOn the early singles, Reynolds’ parts often act like a second melody. Even when the synth carries the hook, the guitar provides a moving counterline that keeps the track breathing and gives the choruses lift.\n\nDuring the band’s peak touring and promotional years, that sound translated well to the stage. The parts weren’t just studio decoration; they were playable, distinctive, and central to the identity of the songs.\n\nReynolds left the band in the mid-1980s, and his absence is one of the clearest dividing lines between the classic lineup era and later versions. For many listeners, his guitar voice is inseparable from the band’s most famous recordings.\n\nIn the broader story of early-’80s pop, Reynolds is a reminder that the era wasn’t strictly “synth vs. guitars.” A Flock of Seagulls worked because the band treated both as lead instruments and made them complement each other.\n\nHis legacy within the group is the sound itself: wide, echoing, and instantly identifiable—one of the signature guitar palettes of the new wave period."
+          }
+        },
+        {
+          "Name": "Frank Maudsley",
+          "Roles": [
+            "founding member",
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1979–1986 (classic era)",
+          "Overview": "Founding bassist who anchored the band’s groove and provided a melodic low-end under the layered production.",
+          "Bio": {
+            "BioID": "a-flock-of-seagulls-frank-maudsley",
+            "ArtistID": "a-flock-of-seagulls",
+            "ArtistName": "A Flock of Seagulls",
+            "MemberName": "Frank Maudsley",
+            "FullName": "Frank Maudsley",
+            "PrimaryInstruments": [
+              "bass",
+              "backing vocals"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "new wave",
+              "synth-pop"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1979–present (intermittent)",
+            "AssociatedActs": [
+              "A Flock of Seagulls"
+            ],
+            "KeyAlbums": [
+              "A Flock of Seagulls",
+              "Listen",
+              "The Story of a Young Heart"
+            ],
+            "KeySongs": [
+              "I Ran (So Far Away)",
+              "Space Age Love Song",
+              "Wishing (If I Had a Photograph of You)",
+              "D.N.A."
+            ],
+            "Achievements": [
+              "Founding bassist of A Flock of Seagulls and part of the band’s classic early-’80s lineup.",
+              "Helped shape the band’s tight, melodic low-end that supports the synth-and-guitar layering."
+            ],
+            "ExternalLinks": {
+              "Official Site": "",
+              "Wikipedia": ""
+            },
+            "Biography": "Frank Maudsley is the founding bassist of A Flock of Seagulls and a key part of the band’s classic lineup. In a style that can easily become top-heavy with synth layers, the bass has an important job: keep the songs grounded while still feeling sleek and modern.\n\nMaudsley’s parts tend to be direct and melodic, locking in with the drum patterns to give the songs forward motion. That steadiness is a major reason the band’s biggest tracks still feel like pop records rather than purely atmospheric pieces.\n\nOn the early albums, the bass often works as the hinge between instruments that live in different worlds—the bright synth lines and the wide, effects-heavy guitar. When those textures are swirling, the low end keeps the harmony readable and the groove consistent.\n\nThat role becomes especially clear on uptempo singles, where the energy comes less from busy playing and more from precise placement. It’s a performance style built for strong choruses and clean dynamics: pull back in verses, drive in hooks, and keep the transitions seamless.\n\nAs part of the original group, Maudsley also contributed backing vocals, reinforcing the band’s layered sound. Even when the vocals are subtle, the additional texture adds to the “big room” feel that defines their best-known recordings.\n\nLike many bands with long histories, A Flock of Seagulls has seen lineup shifts over time. Maudsley’s name remains tied to the era most listeners think of first—the early-’80s run that made the band an international fixture.\n\nIn the wider new wave landscape, the bass can be either synthetic (sequenced) or organic (played). Maudsley’s work helped keep the Seagulls’ sound rooted in band performance while still embracing the futuristic production choices of the period.\n\nThe result is music that balances texture with structure. When you hear the songs today, the flashy parts stand out—but the bass is one of the elements that makes them hold together."
+          }
+        },
+        {
+          "Name": "Ali Score",
+          "Roles": [
+            "founding member",
+            "drums",
+            "percussion"
+          ],
+          "Years": "1979–1986 (classic era)",
+          "Overview": "Original drummer whose steady, spacious approach helped the band’s textures and melodies land cleanly.",
+          "Bio": {
+            "BioID": "a-flock-of-seagulls-ali-score",
+            "ArtistID": "a-flock-of-seagulls",
+            "ArtistName": "A Flock of Seagulls",
+            "MemberName": "Ali Score",
+            "FullName": "Alister “Ali” Score",
+            "PrimaryInstruments": [
+              "drums",
+              "percussion"
+            ],
+            "Occupations": [
+              "drummer",
+              "musician"
+            ],
+            "Genres": [
+              "new wave",
+              "synth-pop"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1979–present (intermittent)",
+            "AssociatedActs": [
+              "A Flock of Seagulls"
+            ],
+            "KeyAlbums": [
+              "A Flock of Seagulls",
+              "Listen",
+              "The Story of a Young Heart"
+            ],
+            "KeySongs": [
+              "I Ran (So Far Away)",
+              "Space Age Love Song",
+              "Wishing (If I Had a Photograph of You)",
+              "D.N.A."
+            ],
+            "Achievements": [
+              "Co-founded A Flock of Seagulls with his brother Mike Score and anchored the band’s classic era rhythm section.",
+              "Part of the Grammy-winning era of the band’s early-1980s recordings."
+            ],
+            "ExternalLinks": {
+              "Official Site": "",
+              "Wikipedia": ""
+            },
+            "Biography": "Ali Score is the original drummer of A Flock of Seagulls and a key part of the band’s classic lineup. Alongside his brother Mike Score, he helped build the foundation of a sound that balanced crisp, machine-like pop precision with a human push-and-pull that made the songs feel alive.\n\nThe band’s early material relies on tight rhythmic structure: steady pulse, clean transitions, and a sense of space that lets synthesizers and guitar textures bloom. Score’s drumming supports that approach by staying disciplined and letting the arrangement do the dramatic work.\n\nOn the breakthrough singles, the percussion rarely calls attention to itself, but it’s essential. The kick-and-snare patterns keep the tracks propulsive, and the cymbal work helps define the glossy sheen associated with early-’80s new wave production.\n\nBecause the band’s sound often lives in layered textures, the drummer’s job is to keep the center solid. Score does that by emphasizing timekeeping and clarity—traits that help the hooks land cleanly even when the surrounding parts are spacious and swirling.\n\nIn interviews and retrospectives, the classic A Flock of Seagulls lineup is often cited as the band’s defining formation, and Score is central to that identity. The chemistry between the Score brothers, in particular, shaped both the music and the public image of the group during their peak years.\n\nAcross reunions and later eras, different lineups have carried the songs forward, but the original rhythm-section feel remains a reference point for fans. It’s the difference between the songs as arrangements and the songs as performances.\n\nScore’s contribution is best understood as structural: he helped give the band a steady engine so the melodies, synth lines, and guitar atmospheres could take center stage without losing momentum.\n\nFor listeners revisiting the catalog, the drumming may seem understated—and that’s the point. It’s the kind of playing that makes the whole record work, especially in music where texture is as important as melody."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Willie Woo",
+          "Roles": [
+            "early member",
+            "guitar"
+          ],
+          "Years": "1980",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Paul Reynolds",
+          "Overview": "Early guitarist during the band’s formation phase; he played briefly before Paul Reynolds joined the classic lineup."
+        },
+        {
+          "Name": "Mark Edmondson",
+          "Roles": [
+            "early member",
+            "drums"
+          ],
+          "Years": "1980",
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [],
+          "Replacing": "Ali Score (temporary)",
+          "ReplacedBy": "Ali Score",
+          "Overview": "Briefly handled drums during early lineup changes before Ali Score returned to the role."
+        }
+      ]
     },
     {
       "ArtistID": "a-ha",
