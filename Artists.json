@@ -4298,8 +4298,415 @@
     {
       "ArtistID": "cheap-trick",
       "Name": "Cheap Trick",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Rockford",
+        "Region": "Illinois",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1973–present"
+      ],
+      "Genres": [
+        "Power pop",
+        "Hard rock",
+        "Rock and roll",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Epic Records",
+        "Warner Bros. Records",
+        "Big Machine Records"
+      ],
+      "Overview": "Cheap Trick emerged from Rockford, Illinois in 1973 with a singular sound that bridged classic rock, power pop, and punk energy without belonging fully to any one camp. Built around the chemistry between Rick Nielsen's guitar firepower, Robin Zander's vocal range, Tom Petersson's inventive bass approach, and Bun E. Carlos's precise drumming, the band developed a live reputation and a songwriting style that balanced accessibility with musical ambition.\n\nTheir breakthrough came in an unexpected way. After three well-received but commercially modest studio albums, a live recording from their 1978 tour of Japan became the catalyst for mainstream success. Cheap Trick at Budokan turned arena-ready performances of songs like I Want You to Want Me and Surrender into hits in the United States, launching them from cult favorites to chart regulars. The album's success set up Dream Police, their most commercially successful studio album, and established them as a major force in late-1970s rock.\n\nAcross multiple decades and shifting musical landscapes, Cheap Trick has maintained its core identity while adapting to new contexts. Their 1988 comeback with The Flame brought them a number-one single and renewed commercial traction, and their influence on later generations of rock and alternative bands has been widely acknowledged. The band's 2016 induction into the Rock and Roll Hall of Fame recognized their impact as a working band that stayed focused on live performance, strong songwriting, and a distinctive approach that made them outliers in every era they worked in.",
+      "NotableAlbums": [
+        {
+          "Title": "Cheap Trick",
+          "Year": "1977",
+          "Notes": "The debut introduced the band's sharp pop hooks, witty lyrics, and muscular production, setting the template for their signature sound."
+        },
+        {
+          "Title": "In Color",
+          "Year": "1977",
+          "Notes": "A fast follow-up that refined the band's melodic instincts and featured early versions of songs that would become live staples."
+        },
+        {
+          "Title": "Heaven Tonight",
+          "Year": "1978",
+          "Notes": "Widely regarded as one of their strongest studio efforts, blending power and melody with sharp songwriting, including the classic Surrender."
+        },
+        {
+          "Title": "Cheap Trick at Budokan",
+          "Year": "1979",
+          "Notes": "The live album that became their commercial breakthrough in the United States, capturing the band's electrifying stage presence and delivering hit singles."
+        },
+        {
+          "Title": "Dream Police",
+          "Year": "1979",
+          "Notes": "Their most commercially successful studio album, reaching number six on the Billboard 200 and featuring orchestral arrangements alongside hard rock energy."
+        },
+        {
+          "Title": "Lap of Luxury",
+          "Year": "1988",
+          "Notes": "The comeback album that brought the band its first and only number-one single, The Flame, and re-established them as a commercial force."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "I Want You to Want Me",
+          "Year": "1977",
+          "Notes": "Originally a studio track, its live version from At Budokan became a top-ten hit and one of the band's most enduring anthems."
+        },
+        {
+          "Title": "Surrender",
+          "Year": "1978",
+          "Notes": "A perfect blend of humor and rock energy, telling a story of teenage rebellion with a chorus that became a rallying cry."
+        },
+        {
+          "Title": "Dream Police",
+          "Year": "1979",
+          "Notes": "The title track from their biggest studio album, featuring orchestral elements and a paranoid edge that showcased the band's range."
+        },
+        {
+          "Title": "The Flame",
+          "Year": "1988",
+          "Notes": "A power ballad that became the band's first and only number-one hit on the Billboard Hot 100, reviving their commercial fortunes."
+        },
+        {
+          "Title": "Don't Be Cruel",
+          "Year": "1988",
+          "Notes": "A high-energy cover of the Elvis Presley classic that reached the top five and became one of the most successful Elvis covers ever recorded."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1979",
+          "Title": "Cheap Trick at Budokan reaches number four on the Billboard 200",
+          "Details": "The live album became a triple-platinum seller and delivered the band's breakthrough hit I Want You to Want Me, reaching number seven on the Billboard Hot 100. It remains one of the most celebrated live albums in rock history."
+        },
+        {
+          "Year": "1979",
+          "Title": "Dream Police peaks at number six on the Billboard 200",
+          "Details": "The band's most commercially successful studio album went platinum and produced two hit singles, Dream Police and Voices, cementing their status as a major rock act."
+        },
+        {
+          "Year": "1988",
+          "Title": "First number-one single with The Flame",
+          "Details": "The power ballad topped the Billboard Hot 100 for two weeks in July 1988, becoming the band's only chart-topping single and bringing them back to mainstream prominence after years of commercial decline."
+        },
+        {
+          "Year": "1988",
+          "Title": "Lap of Luxury achieves platinum status",
+          "Details": "The comeback album reached number sixteen on the Billboard 200 and went platinum, driven by the success of The Flame and a top-five cover of Don't Be Cruel."
+        },
+        {
+          "Year": "2016",
+          "Title": "Inducted into the Rock and Roll Hall of Fame",
+          "Details": "The band was inducted in their first year of eligibility, with all four original members—Rick Nielsen, Robin Zander, Tom Petersson, and Bun E. Carlos—reuniting for the ceremony at the Barclays Center in Brooklyn, New York."
+        }
+      ],
+      "KeyFacts": [
+        "The band's name was inspired by a comment bassist Tom Petersson made after seeing Slade perform, remarking that the band used every cheap trick in the book as part of their act.",
+        "Tom Petersson pioneered the use of the 12-string bass guitar, working with Hamer Guitars to develop the instrument and creating a distinctive low-end sound that became central to the band's identity.",
+        "Cheap Trick has performed more than 5,000 live shows since their formation and has sold over 20 million albums worldwide, maintaining an active touring schedule across multiple decades.",
+        "The band's influence has been cited by a diverse range of artists, including Nirvana, Green Day, Pearl Jam, and Smashing Pumpkins, bridging hard rock, power pop, and alternative rock."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.cheaptrick.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Cheap_Trick",
+        "Discography": "https://www.cheaptrick.com/discography.html"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Rick Nielsen",
+          "Roles": [
+            "lead guitar",
+            "primary songwriter",
+            "backing vocals"
+          ],
+          "Years": "1973–present",
+          "Overview": "Founding member, principal songwriter, and lead guitarist known for his extensive custom guitar collection and onstage theatrics.",
+          "Bio": {
+            "BioID": "bio-cheap-trick-rick-nielsen",
+            "ArtistID": "cheap-trick",
+            "ArtistName": "Cheap Trick",
+            "MemberName": "Rick Nielsen",
+            "FullName": "Richard Alan Nielsen",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Guitarist"
+            ],
+            "Genres": [
+              "Power pop",
+              "Hard rock",
+              "Rock and roll"
+            ],
+            "Birth": {
+              "Date": "1948-12-22",
+              "Place": "Elmhurst, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1960s–present"
+            ],
+            "AssociatedActs": [
+              "Cheap Trick",
+              "Fuse",
+              "Sick Man of Europe",
+              "The Grim Reapers"
+            ],
+            "KeyAlbums": [
+              "Cheap Trick",
+              "In Color",
+              "Heaven Tonight",
+              "Cheap Trick at Budokan",
+              "Dream Police"
+            ],
+            "KeySongs": [
+              "I Want You to Want Me",
+              "Surrender",
+              "Dream Police",
+              "The Flame"
+            ],
+            "Achievements": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Cheap Trick in 2016, recognized for his songwriting contributions and guitar work that helped define power pop and hard rock.",
+              "Known for owning an estimated 2,000 guitars over the course of his career, including custom-made instruments from Hamer Guitars, such as his famous five-neck guitar."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.cheaptrick.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Rick_Nielsen"
+            },
+            "Biography": "Richard Alan Nielsen was born on December 22, 1948, in Elmhurst, Illinois, into a family steeped in music. His parents were both opera singers, and his father Ralph Nielsen directed choirs and symphonies, recording more than forty solo albums over his career. Growing up in this environment, Rick was surrounded by musical discipline and high standards, but his path diverged from his parents' classical roots. When the family moved to Rockford, Illinois, and opened a music store, young Rick found himself immersed in a different world—one where guitars, drum kits, and rock and roll records took center stage.\n\nRick initially played drums for six years before switching to guitar and keyboards, learning multiple instruments through the store and his own curiosity. His early school band, The Phaetons, evolved into The Grim Reapers, where he first teamed up with Tom Petersson. This partnership would become one of rock's most enduring, as the two musicians shared a commitment to original songwriting and a vision of what a rock band could be.\n\nBy the late 1960s, The Grim Reapers had transformed into Fuse, a group that released one poorly received album before disbanding in 1970. Undeterred, Nielsen and Petersson moved to Philadelphia and formed Sick Man of Europe, touring Europe in search of traction. When that effort failed to gain momentum, they returned to Rockford in 1973, regrouped with drummer Bun E. Carlos, and formed a new band that would eventually become Cheap Trick.\n\nFrom the beginning, Nielsen positioned himself as the band's primary songwriter and creative engine. His approach to songwriting balanced sharp pop hooks with a lyrical edge that could be funny, sarcastic, or unexpectedly earnest. Songs like Surrender and I Want You to Want Me showcased his ability to write choruses that stuck in the mind while maintaining a musical sophistication that set Cheap Trick apart from their peers.\n\nNielsen's stage presence became as much a part of his identity as his songwriting. He performed with an ever-growing collection of custom guitars, often switching between multiple instruments during a single show. His trademark look—a baseball cap, bowtie, and occasionally eccentric outfits—was inspired by Huntz Hall of The Bowery Boys and became inseparable from Cheap Trick's visual identity. His theatricality never overshadowed the music, but it added a layer of entertainment that made the band's live shows memorable.\n\nHis guitar collection grew to legendary proportions, eventually numbering around 2,000 instruments, including custom builds from Hamer Guitars. One of his most famous guitars is a five-neck instrument that became an icon of his showmanship. In 2012, the Burpee Museum of Natural History in Rockford hosted an exhibit called Rick's Picks: A Lifelong Affair with Guitars and Music, showcasing his collection and his deep connection to both the craft and history of the instrument.\n\nAs Cheap Trick's career unfolded, Nielsen remained the band's anchor through lineup changes, commercial highs and lows, and shifting musical trends. When the band broke through with Cheap Trick at Budokan in 1979, it was Nielsen's songs that connected with audiences around the world. When the band faced a commercial slump in the mid-1980s, he adapted, working with outside songwriters on Lap of Luxury and co-writing the band's only number-one hit, The Flame, even though he initially disliked the song.\n\nNielsen's influence extended beyond Cheap Trick. He collaborated with artists like John Lennon, recording a session for Lennon's Double Fantasy album in 1980, though those contributions did not appear on the final release. He worked with a wide range of musicians, from Glen Campbell to Foo Fighters, and his role as a co-owner of Chicago's Piece Brewery showed his entrepreneurial side.\n\nIn 2016, when Cheap Trick was inducted into the Rock and Roll Hall of Fame, Nielsen stood alongside his bandmates as a testament to decades of relentless work. He had built a career not on fleeting trends but on a commitment to songwriting, performance, and a vision of rock and roll that honored its roots while pushing forward. His legacy is measured not just in hit songs or platinum albums, but in the thousands of shows, the hundreds of guitars, and the unwavering belief that rock and roll could be smart, fun, and timeless all at once."
+          }
+        },
+        {
+          "Name": "Robin Zander",
+          "Roles": [
+            "lead vocals",
+            "rhythm guitar"
+          ],
+          "Years": "1974–present",
+          "Overview": "Lead vocalist and rhythm guitarist who joined the band in 1974, known for his powerful four-octave vocal range and dynamic stage presence.",
+          "Bio": {
+            "BioID": "bio-cheap-trick-robin-zander",
+            "ArtistID": "cheap-trick",
+            "ArtistName": "Cheap Trick",
+            "MemberName": "Robin Zander",
+            "FullName": "Robin Wayne Zander",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Rhythm guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Power pop",
+              "Hard rock",
+              "Rock and roll"
+            ],
+            "Birth": {
+              "Date": "1953-01-23",
+              "Place": "Beloit, Wisconsin, United States"
+            },
+            "ActiveYears": [
+              "1960s–present"
+            ],
+            "AssociatedActs": [
+              "Cheap Trick",
+              "Zander and Kent"
+            ],
+            "KeyAlbums": [
+              "Cheap Trick",
+              "Heaven Tonight",
+              "Cheap Trick at Budokan",
+              "Dream Police",
+              "Lap of Luxury"
+            ],
+            "KeySongs": [
+              "I Want You to Want Me",
+              "Surrender",
+              "The Flame",
+              "Dream Police"
+            ],
+            "Achievements": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Cheap Trick in 2016, recognized for his vocal contributions that helped define the band's sound.",
+              "Released a solo album, Robin Zander, in 1993, and collaborated with Ann Wilson on the 1988 hit Surrender to Me, which reached number six on the Billboard Hot 100."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.cheaptrick.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Robin_Zander"
+            },
+            "Biography": "Robin Wayne Zander was born on January 23, 1953, in Beloit, Wisconsin, and raised in nearby Loves Park, Illinois. Music was a constant presence in his childhood—his father played in a jazz band, and his mother's love for classic ballads and opera shaped his early musical awareness. By age twelve, Zander had picked up the guitar, inspired by The Beatles' appearances on The Ed Sullivan Show. He taught himself to play and began singing in school choirs and local talent shows, quickly standing out for his natural vocal power and range.\n\nIn the late 1960s, Zander played in high school bands, honing his skills as both a guitarist and a vocalist. By 1970, he had formed an acoustic duo called Zander and Kent with his former classmate and choirmate Brian Beebe. The duo built a following by performing six nights a week at the Lookout Lounge in Wisconsin Dells, a popular resort town, for four consecutive summers. During the off-season, they toured colleges across Wisconsin, Illinois, and as far west as Colorado, developing a reputation for tight harmonies and engaging performances.\n\nWhen Cheap Trick formed in 1973, the band initially invited Zander to join as their lead singer, but he declined due to his existing contract and commitments with the duo. The band instead recruited Randy Xeno Hogan, another former high school classmate. In the fall of 1974, Zander and Kent disbanded, and Zander accepted the invitation to join Cheap Trick, replacing Hogan and completing the band's classic lineup alongside Rick Nielsen, Tom Petersson, and Bun E. Carlos.\n\nZander's arrival transformed Cheap Trick. His vocal range, which spans four octaves, allowed him to tackle everything from aggressive rockers to tender ballads with equal conviction. His voice combined elements of classic rock singers like Robert Plant and Paul McCartney with a raw edge that fit the band's blend of power pop and hard rock. On early albums like Cheap Trick, In Color, and Heaven Tonight, Zander's vocals became the focal point, delivering Rick Nielsen's lyrics with energy, emotion, and precision.\n\nThe band's breakthrough came with Cheap Trick at Budokan in 1979, a live album recorded in Japan that captured the intensity of their performances. Zander's vocals on tracks like I Want You to Want Me and Surrender showcased his ability to command a crowd, and the album's success catapulted the band to international fame. His stage presence—blonde hair, striking looks, and effortless charisma—made him a natural frontman, and his ability to connect with audiences became a defining element of Cheap Trick's live shows.\n\nThroughout the 1980s, as the band navigated commercial ups and downs, Zander remained the steady voice at the center of their sound. When Cheap Trick scored their first and only number-one hit with The Flame in 1988, it was Zander's heartfelt vocal performance that turned the power ballad into a career-defining moment. His delivery on the song demonstrated his versatility, moving from vulnerability to power with effortless control.\n\nIn 1993, Zander released his self-titled solo album, Robin Zander, which showcased his range beyond the band's established sound. The same year, he married former Playboy Playmate Pamela Stein, and the couple has two children, both of whom followed in their father's musical footsteps. Zander's son, Robin Taylor Zander, even filled in for Tom Petersson on bass during the 2021 tour when Petersson was sidelined due to surgery.\n\nZander's collaborations extended beyond Cheap Trick. In 1988, he recorded Surrender to Me with Heart's Ann Wilson for the Tequila Sunrise soundtrack, a duet that reached number six on the Billboard Hot 100 and became one of the most successful rock ballads of the era. His voice has been featured on tracks with artists across multiple genres, and his influence on generations of rock singers—from Kurt Cobain to Billy Corgan—has been widely acknowledged.\n\nIn 2016, Zander was inducted into the Rock and Roll Hall of Fame alongside his bandmates, a recognition of his contributions to rock music over more than four decades. At the ceremony, he expressed gratitude to his parents, his family, and the fans who had supported the band through every phase of their career. He remains the lead singer of Cheap Trick, continuing to perform with the same vocal power and stage presence that made him a rock icon.\n\nZander's legacy is defined by his voice—a voice that can soar, growl, and seduce, often within the same song. He has spent five decades proving that a great rock singer isn't just about technical skill or range, but about knowing how to serve the song, connect with the audience, and deliver every performance with conviction. His work with Cheap Trick stands as a testament to the enduring power of rock and roll when it's done right."
+          }
+        },
+        {
+          "Name": "Tom Petersson",
+          "Roles": [
+            "bass guitar",
+            "12-string bass",
+            "backing vocals"
+          ],
+          "Years": "1973–1980, 1987–present",
+          "Overview": "Co-founding bassist who pioneered the use of the 12-string bass guitar, left the band in 1980, and rejoined in 1987 for their commercial comeback.",
+          "Bio": {
+            "BioID": "bio-cheap-trick-tom-petersson",
+            "ArtistID": "cheap-trick",
+            "ArtistName": "Cheap Trick",
+            "MemberName": "Tom Petersson",
+            "FullName": "Thomas John Peterson",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "12-string bass",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Bassist",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Power pop",
+              "Hard rock",
+              "Rock and roll"
+            ],
+            "Birth": {
+              "Date": "1950-05-09",
+              "Place": "Rockford, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1960s–present"
+            ],
+            "AssociatedActs": [
+              "Cheap Trick",
+              "Fuse",
+              "Sick Man of Europe",
+              "Another Language",
+              "Dagmar"
+            ],
+            "KeyAlbums": [
+              "Cheap Trick",
+              "In Color",
+              "Heaven Tonight",
+              "Cheap Trick at Budokan",
+              "Lap of Luxury"
+            ],
+            "KeySongs": [
+              "I Want You to Want Me",
+              "Surrender",
+              "Dream Police",
+              "I Know What I Want"
+            ],
+            "Achievements": [
+              "Pioneered the development and use of the 12-string bass guitar in collaboration with Hamer Guitars, creating a distinctive sound that became central to Cheap Trick's identity.",
+              "Inducted into the Rock and Roll Hall of Fame as a member of Cheap Trick in 2016, recognized for his innovative bass work and contributions to the band's success."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.cheaptrick.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Tom_Petersson"
+            },
+            "Biography": "Thomas John Peterson, known professionally as Tom Petersson, was born on May 9, 1950, in Rockford, Illinois. He grew up in a working-class environment, and music became his escape and ambition. Initially playing guitar in local bands, he switched to bass as he became more serious about forming a group that could make original music. His professional journey began in the late 1960s when he joined forces with Rick Nielsen in a series of bands that would eventually lead to the formation of Cheap Trick.\n\nPetersson and Nielsen first played together in The Grim Reapers, a local Rockford band, before forming Fuse in 1969. Fuse released one album on Epic Records, but it failed to gain traction, and the band moved to Philadelphia, where they became Sick Man of Europe. They toured Europe in 1973, hoping to break through, but returned to Rockford without success. It was there, in the summer of 1973, that Petersson, Nielsen, and drummer Bun E. Carlos regrouped and formed a new band, initially recruiting Randy Xeno Hogan as lead singer before Robin Zander took over in 1974.\n\nFrom the beginning, Petersson's bass playing stood out. He wasn't interested in simply holding down the low end—he wanted his bass to contribute melody, texture, and power. Influenced by bassists like Ron Wood of The Jeff Beck Group, Petersson developed an approach that blended the resonance of a traditional electric bass with the harmonic richness of a 12-string guitar. This ambition led him to collaborate with Hamer Guitars in the late 1970s to create the first production 12-string bass, an instrument that featured four sets of triple strings and became one of rock's most distinctive sounds.\n\nThe 12-string bass became Petersson's signature, and it gave Cheap Trick a sonic identity that no other band could replicate. On early albums like In Color and Heaven Tonight, his bass work was muscular and melodic, driving songs forward while adding layers of harmonic depth. His playing on I Want You to Want Me and Surrender became part of the band's DNA, and his stage presence—tall, blonde, and visually striking—made him one of rock's most recognizable bassists.\n\nDuring Cheap Trick's peak years, Petersson was a key creative force. He contributed to the band's songwriting, took lead vocals on tracks like I Know What I Want from Dream Police, and helped shape their sound in the studio. By 1980, however, the relentless pace of recording and touring had taken its toll. Petersson became disillusioned with life inside the band, frustrated by the lack of creative control and the exhausting schedule. In August 1980, he left Cheap Trick, just before the release of All Shook Up.\n\nPetersson spent the next few years pursuing solo projects. He worked with his then-wife Dagmar on material for a solo album, which was eventually released in 1984 as the six-song EP Tom Peterson and Another Language. He also toured with drummer Carmine Appice in 1982 and joined a reformed version of Sick Man of Europe from 1985 to 1987, playing with his temporary replacement in Cheap Trick, Pete Comita, and songwriter Janna Allen. During this period, Petersson remained active in the music scene, but his absence from Cheap Trick was felt by both the band and their fans.\n\nIn 1987, Petersson rejoined Cheap Trick at a time when the band was struggling to regain commercial traction. His return brought back a crucial element of their classic sound, and the timing proved fortunate. The following year, Cheap Trick released Lap of Luxury, produced by Richie Zito and featuring collaborations with outside songwriters. The album went platinum and produced the band's first and only number-one hit, The Flame, as well as a top-five cover of Elvis Presley's Don't Be Cruel. Petersson's return had coincided with the band's biggest commercial resurgence since the late 1970s.\n\nOver the following decades, Petersson continued to evolve as a musician. He endorsed Gretsch basses, including a pair of signature 12-string Falcon basses, and remained committed to pushing the boundaries of what the bass guitar could do. Outside of Cheap Trick, he worked with artists like Willie Nelson, Mick Jagger, Concrete Blonde, and members of The Mavericks, demonstrating his versatility and willingness to collaborate across genres.\n\nPetersson also became an advocate for autism awareness. In 2014, he and his wife Alison founded Rock Your Speech, a nonprofit organization dedicated to using music to help children with autism spectrum disorder develop speech and communication skills. The cause became personal after their son was diagnosed with autism, and Petersson has been a vocal supporter of research and treatment options.\n\nIn 2016, Petersson was inducted into the Rock and Roll Hall of Fame alongside his Cheap Trick bandmates. At the ceremony, he reflected on the band's early years, the sacrifices they made, and the unlikely path that led them from a cramped Pontiac Bonneville with no heat or air conditioning to one of rock's most enduring acts. His speech was characteristically modest, crediting the fans and the music itself for the band's longevity.\n\nPetersson's legacy is defined by innovation. He didn't just play bass—he reimagined what the instrument could do, creating a sound that influenced generations of musicians. His 12-string bass remains a symbol of rock innovation, and his work with Cheap Trick stands as proof that pushing boundaries and staying true to your vision can lead to something timeless."
+          }
+        },
+        {
+          "Name": "Bun E. Carlos",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1973–2010",
+          "Overview": "Original drummer and founding member known for his precise, powerful drumming style; stopped touring and recording with the band in 2010 but remains an official member.",
+          "Bio": {
+            "BioID": "bio-cheap-trick-bun-e-carlos",
+            "ArtistID": "cheap-trick",
+            "ArtistName": "Cheap Trick",
+            "MemberName": "Bun E. Carlos",
+            "FullName": "Brad M. Carlson",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Drummer"
+            ],
+            "Genres": [
+              "Power pop",
+              "Hard rock",
+              "Rock and roll"
+            ],
+            "Birth": {
+              "Date": "1950-06-12",
+              "Place": "Rockford, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1960s–present"
+            ],
+            "AssociatedActs": [
+              "Cheap Trick",
+              "Fuse",
+              "Sick Man of Europe",
+              "Tinted Windows",
+              "Candy Golde"
+            ],
+            "KeyAlbums": [
+              "Cheap Trick",
+              "In Color",
+              "Heaven Tonight",
+              "Cheap Trick at Budokan",
+              "Dream Police"
+            ],
+            "KeySongs": [
+              "I Want You to Want Me",
+              "Surrender",
+              "Dream Police",
+              "Who D'King"
+            ],
+            "Achievements": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Cheap Trick in 2016, recognized for his foundational drumming that helped define the band's sound.",
+              "Served as the band's archivist, maintaining meticulous recordings of all Cheap Trick shows, some of which were released under the name Bun E's Bootlegs."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.cheaptrick.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bun_E._Carlos"
+            },
+            "Biography": "Brad M. Carlson, known professionally as Bun E. Carlos, was born on June 12, 1950, in Rockford, Illinois, to Edwin and Violet Carlson. He was the third of six children in a musically inclined family. His father played the accordion, his mother was proficient with keyboards and other instruments, and his brother Kurt was a drummer in the high school band. Growing up in this environment, Carlson was surrounded by rhythm and melody, though his serious interest in music didn't fully develop until his early teenage years.\n\nCarlson initially taught himself to play piano, but when The Beatles' I Want to Hold Your Hand received radio airplay in the United States, he became a fan and decided to switch to drums. For his fourteenth birthday, his mother bought him a drum kit from Ralf Nielsen Music House in Rockford, a store owned by the father of his future bandmate, Rick Nielsen. That purchase set him on a path that would define his life.\n\nDuring high school, Carlson attended Lincoln Junior High School and graduated from Guilford High School, where he crossed paths with Nielsen and Tom Petersson. He enrolled at Rock Valley Junior College in 1969 to obtain an exemption from the draft, and during this period, he briefly played with Robin Zander, the future lead singer of Cheap Trick, in a local band. Carlson also toured in backup bands for Chuck Berry, Bo Diddley, and The Shirelles, gaining experience in the rigors of live performance and the mechanics of tight, professional drumming.\n\nBy 1970, Carlson had adopted the stage name Bun E. Carlos and joined Fuse, a band formed by Nielsen and Petersson that had released an unsuccessful album on Epic Records in 1969. When the record failed to gain attention, the band relocated to Philadelphia and changed its name to Sick Man of Europe. Carlson toured Germany with the band, with Nielsen taking on bass duties. In May 1973, the members of Sick Man of Europe returned to Rockford, and the band dissolved. Shortly after, in June 1973, Carlos and Nielsen formed a new band, auditioning several singers before bringing in Randy Xeno Hogan, and later, Robin Zander, to complete the lineup.\n\nCarlos's drumming style was defined by precision, power, and an ability to serve the song without overplaying. He combined the swagger of Keith Moon with the discipline of Buddy Rich, creating a rhythmic foundation that was both steady and dynamic. His playing on early Cheap Trick albums like Cheap Trick, In Color, and Heaven Tonight was straightforward but nuanced, providing the backbone for Rick Nielsen's guitar work and Robin Zander's vocals.\n\nThe band's breakthrough came with Cheap Trick at Budokan in 1979, a live album recorded during their tour of Japan. Carlos's drumming on tracks like I Want You to Want Me and Surrender showcased his ability to drive a song forward with energy and precision, and his iconic drum solo intro on Ain't That a Shame became one of the album's most memorable moments. The album's success catapulted Cheap Trick to international fame, and Carlos became recognized as one of rock's most reliable and distinctive drummers.\n\nBeyond his role as a performer, Carlos served as the band's archivist and set-lister, meticulously maintaining recordings of all Cheap Trick shows. Some of these recordings were later released under the name Bun E's Bootlegs, offering fans a behind-the-scenes look at the band's live evolution. He also contributed to the band's songwriting, with his most notable credit being the drum solo track Who D'King from the 1980 album All Shook Up.\n\nIn the late 1990s, Carlos introduced his own line of coffee, Bun E. Carlos' Coffee, which at one point included a special limited edition hand-signed numbered bag. The venture demonstrated his entrepreneurial spirit and his connection to his fans beyond music. In 2009, Carlos formed Tinted Windows, a supergroup featuring Hanson singer Taylor Hanson, former Smashing Pumpkins guitarist James Iha, and Fountains of Wayne bassist Adam Schlesinger. The band released a self-titled album and toured, showcasing Carlos's versatility and willingness to explore new musical contexts.\n\nOn March 19, 2010, Cheap Trick issued a statement that Carlos would no longer be the band's touring drummer, though he remained an official member. Rick Nielsen's son, Daxx, was named as the touring drummer. Carlos had previously suffered from back problems that had caused him to miss portions of some tours, but he repeatedly stated that he was healthy and capable of performing. The departure was complicated, and in 2013, Carlos filed a lawsuit against his former bandmates, alleging breach of contract and failure to pay royalties. The remaining three members countersued, seeking official affirmation of his removal. The legal battle was eventually settled in early 2015, allowing Carlos to remain a non-performing member and co-owner of the band.\n\nIn 2016, Carlos reunited with his bandmates for Cheap Trick's induction into the Rock and Roll Hall of Fame. At the ceremony held at the Barclays Center in Brooklyn, New York, he performed alongside Rick Nielsen, Robin Zander, and Tom Petersson for the first time in years, playing I Want You to Want Me, Dream Police, Surrender, and Ain't That a Shame. His return to the drum kit for that one night was emotional and widely celebrated by fans, marking a moment of reconciliation and recognition for the original lineup.\n\nAfter stepping back from Cheap Trick, Carlos remained active in music. He formed Bun E. Carlos & The Monday Night Band, playing regular shows in the Rockford area, and released a solo album, Greetings From Bunezuela!, in 2016. He continued to collaborate with other artists and remained a respected figure in the drumming community, known for his encyclopedic knowledge of rock music and his extensive collection of vintage drums.\n\nCarlos's legacy is defined by his role as the rhythmic foundation of Cheap Trick. His drumming was never flashy for the sake of flash, but it was always exactly what the song needed. His ability to combine technical skill with a deep understanding of rock and roll made him one of the most respected drummers of his generation, and his influence on the band's sound cannot be overstated."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Daxx Nielsen",
+          "Roles": [
+            "drums",
+            "touring member"
+          ],
+          "Years": "2010–present",
+          "Bio": "Son of Rick Nielsen, Daxx became the band's touring and recording drummer in 2010 after Bun E. Carlos stopped performing with the band. He had previously filled in for Carlos during tours in 2001 when Carlos was recovering from back surgery, and his permanent addition brought a new generation into the band's lineup while maintaining the precision and energy that defines Cheap Trick's rhythm section."
+        },
+        {
+          "Name": "Jon Brant",
+          "Roles": [
+            "bass guitar"
+          ],
+          "Years": "1981–1987",
+          "Bio": "Brant replaced Tom Petersson as bassist after Petersson's departure in 1980 and played on albums including All Shook Up, One on One, Next Position Please, Standing on the Edge, and The Doctor. He maintained the band's low-end presence during a transitional period in Cheap Trick's career, contributing to the band's touring and recording efforts until Petersson rejoined in 1987."
+        },
+        {
+          "Name": "Pete Comita",
+          "Roles": [
+            "bass guitar"
+          ],
+          "Years": "1980–1981",
+          "Bio": "Comita briefly replaced Tom Petersson in 1980, touring with the band and appearing on some recordings before Jon Brant became the steady replacement. After leaving Cheap Trick, he later played alongside Petersson in a reformed version of Sick Man of Europe from 1985 to 1987."
+        }
+      ]
     },
     {
       "ArtistID": "chic",
