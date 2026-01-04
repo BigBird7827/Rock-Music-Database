@@ -13187,27 +13187,367 @@
     {
       "ArtistID": "nirvana",
       "Name": "Nirvana",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "Type": "Band",
+      "Origin": "Aberdeen, Washington, United States",
+      "YearsActive": [
+        "1987–1994"
+      ],
+      "Genres": [
+        "Grunge",
+        "Alternative rock",
+        "Punk rock"
+      ],
+      "Labels": [
+        "Sub Pop",
+        "DGC"
+      ],
+      "Overview": "Nirvana were an American rock band formed in 1987 in Aberdeen, Washington, by singer/guitarist Kurt Cobain and bassist Krist Novoselic. After cycling through several drummers in their early club years, the band stabilized in 1990 with Dave Grohl on drums, and that trio became the definitive lineup. They emerged from the Pacific Northwest underground with a raw, heavy-but-melodic sound that fused punk urgency, classic rock dynamics, and pop-level hooks—music built on loud/soft tension, sharp choruses, and lyrics that felt both intimate and alienated. Their first album, “Bleach” (1989), established them on the Sub Pop circuit, but it was “Nevermind” (1991) that detonated globally, carrying grunge and alternative rock into mainstream culture and reshaping what rock radio and MTV could sound like in the early 1990s.\n\nAt the center was Cobain’s writing: deceptively simple riffs that hit like slogans, paired with a vocal style that could switch from weary mumble to torn-throat roar in a single line. Nirvana followed “Nevermind” with the darker, more abrasive “In Utero” (1993) and the stark, iconic “MTV Unplugged in New York” (recorded 1993; released 1994), which revealed the band’s control of mood and arrangement beyond distortion. Cobain’s death in April 1994 ended the band, but the catalogue has remained a cultural reference point for decades—songs that still read as emotionally direct, riffs that feel carved rather than decorated, and an influence that runs through alternative, punk, indie, and hard rock. Nirvana were inducted into the Rock & Roll Hall of Fame in 2014 (original lineup), and their music continues to define the idea of a band that sounded like a local scene one year and a global shift the next.",
+      "NotableAlbums": [
+        {
+          "Year": 1989,
+          "Title": "Bleach",
+          "Details": "Debut that captured the band’s early, heavy club sound and established them as a key Sub Pop-era act."
+        },
+        {
+          "Year": 1991,
+          "Title": "Nevermind",
+          "Details": "Global breakthrough that pushed alternative rock into the mainstream and became one of the defining albums of the 1990s."
+        },
+        {
+          "Year": 1992,
+          "Title": "Incesticide",
+          "Details": "B-sides and rarities collection that highlighted the band’s range, from pop instincts to noisy experiments."
+        },
+        {
+          "Year": 1993,
+          "Title": "In Utero",
+          "Details": "A darker, more abrasive follow-up that deliberately resisted polish while delivering major singles."
+        },
+        {
+          "Year": 1994,
+          "Title": "MTV Unplugged in New York",
+          "Details": "Stripped-down performance that reframed the band’s songs and became one of the era’s most iconic live albums."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1991,
+          "Title": "Smells Like Teen Spirit",
+          "Details": "Era-defining anthem that became a cultural pivot point and the band’s signature song."
+        },
+        {
+          "Year": 1991,
+          "Title": "Come as You Are",
+          "Details": "A major crossover single built on a hypnotic riff and one of their most enduring hooks."
+        },
+        {
+          "Year": 1991,
+          "Title": "Lithium",
+          "Details": "A loud/soft classic that shows the band’s dynamic control and Cobain’s melodic instinct."
+        },
+        {
+          "Year": 1991,
+          "Title": "In Bloom",
+          "Details": "A riff-driven staple that became one of the most recognizable tracks from “Nevermind.”"
+        },
+        {
+          "Year": 1993,
+          "Title": "Heart-Shaped Box",
+          "Details": "Lead single from “In Utero,” pairing surreal imagery with heavy, elastic dynamics."
+        },
+        {
+          "Year": 1993,
+          "Title": "All Apologies",
+          "Details": "A late-era defining song that became a signature emotional closer."
+        },
+        {
+          "Year": 1989,
+          "Title": "About a Girl",
+          "Details": "Early standout that proved the band’s pop songwriting strength long before mainstream fame."
+        },
+        {
+          "Year": 1993,
+          "Title": "Rape Me",
+          "Details": "Provocative, confrontational single that underscored the band’s punk roots and refusal to soften."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1991,
+          "Title": "Mainstream breakthrough for alternative rock",
+          "Details": "“Nevermind” helped move grunge and alternative rock from underground scenes into global pop culture."
+        },
+        {
+          "Year": 1999,
+          "Title": "Diamond-era sales milestone",
+          "Details": "“Nevermind” achieved Diamond certification in the United States, reflecting at least 10 million units shipped."
+        },
+        {
+          "Year": 1996,
+          "Title": "Grammy win",
+          "Details": "“MTV Unplugged in New York” won a Grammy (Best Alternative Music Performance), the band’s only Grammy award."
+        },
+        {
+          "Year": 2014,
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted into the Rock & Roll Hall of Fame (Cobain, Novoselic, Grohl)."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1987 in Aberdeen, Washington by Kurt Cobain and Krist Novoselic.",
+        "Definitive trio lineup: Cobain (vocals/guitar), Novoselic (bass), Dave Grohl (drums; joined 1990).",
+        "Breakthrough album: “Nevermind” (1991).",
+        "Final studio album: “In Utero” (1993).",
+        "Kurt Cobain died in April 1994; the band ended immediately afterward.",
+        "Inducted into the Rock & Roll Hall of Fame in 2014."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "OfficialWebsite": "https://www.nirvana.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+        "RIAA": "https://www.riaa.com/gold-platinum/?se=Nirvana"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Kurt Cobain",
+          "Roles": [
+            "Lead vocals",
+            "Guitar",
+            "Songwriting"
+          ],
+          "Years": "1987–1994",
+          "Overview": "Founding singer and principal songwriter whose riffs, melodies, and voice defined the band’s identity and its loud/soft dynamic.",
+          "Bio": {
+            "BioID": "bio-kurt-cobain",
+            "ArtistID": "nirvana",
+            "ArtistName": "Nirvana",
+            "MemberName": "Kurt Cobain",
+            "FullName": "Kurt Donald Cobain",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Grunge",
+              "Alternative rock",
+              "Punk rock"
+            ],
+            "Birth": {
+              "Date": "1967-02-20",
+              "Place": "Aberdeen, Washington, United States"
+            },
+            "ActiveYears": [
+              "1983–1994"
+            ],
+            "AssociatedActs": [
+              "Nirvana"
+            ],
+            "KeyAlbums": [
+              "Bleach",
+              "Nevermind",
+              "In Utero",
+              "MTV Unplugged in New York"
+            ],
+            "KeySongs": [
+              "Smells Like Teen Spirit",
+              "Come as You Are",
+              "Heart-Shaped Box",
+              "All Apologies"
+            ],
+            "Achievements": [
+              "Co-founded Nirvana and wrote the bulk of its catalogue, shaping the sound and language of early-1990s alternative rock.",
+              "Inducted into the Rock & Roll Hall of Fame as part of Nirvana (2014, posthumous)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Kurt_Cobain",
+              "OfficialSite": "https://www.nirvana.com/"
+            },
+            "Biography": "Kurt Cobain (born February 20, 1967, in Aberdeen, Washington) became one of the defining songwriters and frontmen of his era through a rare combination of blunt riff craft and pop-level melodic instinct. His songs often sound simple on paper, but the power comes from contrast—quiet verses that feel private, choruses that explode like a public confession.\n\nGrowing up in the Pacific Northwest, Cobain absorbed punk’s economy and attitude, but he also cared about hooks in a way many punk bands didn’t. He wrote riffs like slogans: short, memorable, and designed to carry emotion even when the lyrics stay ambiguous or fragmented.\n\nIn 1987, Cobain formed Nirvana with bassist Krist Novoselic, beginning as a scrappy local band that learned by playing loud rooms and recording on small budgets. The early lineup churned, but Cobain’s writing was already distinct—melodies that could sound sweet and threatening at the same time.\n\nThe debut album “Bleach” captured that early heaviness, but Cobain’s ambitions were never only about heaviness. He wanted the songs to land immediately, and as the band refined its dynamics, he leaned into the loud/soft structure that would become a template for decades of alternative rock.\n\n“Nevermind” (1991) turned Cobain into a global figure almost overnight. The record’s success wasn’t just sales; it was a shift in the sound of mainstream rock. Cobain’s voice—wounded, sarcastic, and fiercely melodic—made the songs feel like diary entries that somehow belonged to a whole generation.\n\nInstead of repeating the formula, Cobain pushed toward something rougher and less polished on “In Utero” (1993), aiming for an album that sounded like a band rather than a product. The songs remained hooky, but the surfaces were sharper and the mood darker, as if he was testing how much honesty the mainstream could tolerate.\n\nCobain’s public life became inseparable from the scrutiny that followed fame, and the tension between private pain and public myth kept tightening. Even when he tried to redirect attention to the music—through performances like “MTV Unplugged”—the narrative around him often swallowed the work itself.\n\nCobain died on April 5, 1994, ending Nirvana and freezing the band’s story at its peak of influence. His legacy isn’t only tragedy; it’s the songwriting: riffs that feel carved, melodies that stick like pop, and an emotional directness that still makes the music sound current decades later."
+          }
+        },
+        {
+          "Name": "Krist Novoselic",
+          "Roles": [
+            "Bass",
+            "Backing vocals"
+          ],
+          "Years": "1987–1994",
+          "Overview": "Co-founder and bassist whose melodic low-end and stage presence helped define Nirvana’s feel and made Cobain’s riffs hit harder.",
+          "Bio": {
+            "BioID": "bio-krist-novoselic",
+            "ArtistID": "nirvana",
+            "ArtistName": "Nirvana",
+            "MemberName": "Krist Novoselic",
+            "FullName": "Krist Anthony Novoselic",
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Bassist",
+              "Musician"
+            ],
+            "Genres": [
+              "Grunge",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1965-05-16",
+              "Place": "Compton, California, United States"
+            },
+            "ActiveYears": [
+              "1984–present"
+            ],
+            "AssociatedActs": [
+              "Nirvana",
+              "Sweet 75",
+              "Eyes Adrift",
+              "Flipper",
+              "Giants in the Trees"
+            ],
+            "KeyAlbums": [
+              "Bleach",
+              "Nevermind",
+              "In Utero",
+              "MTV Unplugged in New York"
+            ],
+            "KeySongs": [
+              "Smells Like Teen Spirit",
+              "Lithium",
+              "In Bloom"
+            ],
+            "Achievements": [
+              "Co-founded Nirvana and served as its bassist through the band’s entire run.",
+              "Inducted into the Rock & Roll Hall of Fame as part of Nirvana (2014)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Krist_Novoselic",
+              "OfficialSite": "https://www.nirvana.com/"
+            },
+            "Biography": "Krist Novoselic (born May 16, 1965, in Compton, California) became widely known as Nirvana’s bassist and co-founder, but his importance is deeper than the title. He helped shape the band’s physical feel—how the riffs sit on the beat, how choruses lift, and how the band’s dynamics land with maximum impact.\n\nNovoselic met Kurt Cobain in the Aberdeen scene and eventually agreed to start a band with him, a decision that turned a local friendship into one of the most influential partnerships in modern rock. The early years were trial-and-error: rehearsal spaces, small shows, and drummers rotating through the lineup.\n\nAs a bassist, Novoselic favored lines that were melodic but muscular. He often tracked the guitar just enough to reinforce it, then broke away at key moments to make a section feel larger. That approach is a big part of why Nirvana songs feel like they “open up” when the chorus hits.\n\nOn “Bleach,” his playing contributes to the record’s heavy, grinding character, but even there you can hear the instinct for movement and hook. He wasn’t interested in just holding root notes; he wanted the bass to speak, to steer the riff’s momentum.\n\n“Nevermind” pushed the band into a global spotlight, and Novoselic’s role became even more crucial: keep the bottom end clean, keep the band tight, and let the songs hit like a single unit. The record’s production is polished, but the internal push-and-pull still feels like a live band, and his bass is a major reason why.\n\nOn “In Utero,” the sound roughened, and Novoselic’s playing became a grounding force against the sharper edges. When the guitars get more abrasive, the bass keeps the song readable, making the chaos feel intentional rather than messy.\n\nAfter Cobain’s death ended Nirvana in 1994, Novoselic continued making music in various projects and also became publicly active in civic and political work. In music, he tended to choose band settings that valued collaboration over spotlight, consistent with his role in Nirvana.\n\nNovoselic’s lasting legacy is the architecture of Nirvana’s sound: the bassist who made the riffs feel heavy without feeling static, and the co-founder who helped turn a local scene into a global turning point. The songs still hit partly because his playing keeps them moving."
+          }
+        },
+        {
+          "Name": "Dave Grohl",
+          "Roles": [
+            "Drums",
+            "Backing vocals"
+          ],
+          "Years": "1990–1994",
+          "Overview": "Joined in 1990 and became the band’s definitive drummer, powering Nirvana with a huge, controlled attack and an instinct for chorus lift.",
+          "Bio": {
+            "BioID": "bio-dave-grohl",
+            "ArtistID": "nirvana",
+            "ArtistName": "Nirvana",
+            "MemberName": "Dave Grohl",
+            "FullName": "David Eric Grohl",
+            "PrimaryInstruments": [
+              "Drums",
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Hard rock",
+              "Grunge"
+            ],
+            "Birth": {
+              "Date": "1969-01-14",
+              "Place": "Warren, Ohio, United States"
+            },
+            "ActiveYears": [
+              "1986–present"
+            ],
+            "AssociatedActs": [
+              "Nirvana",
+              "Foo Fighters",
+              "Scream",
+              "Queens of the Stone Age"
+            ],
+            "KeyAlbums": [
+              "Nevermind",
+              "In Utero",
+              "MTV Unplugged in New York"
+            ],
+            "KeySongs": [
+              "Smells Like Teen Spirit",
+              "In Bloom",
+              "All Apologies"
+            ],
+            "Achievements": [
+              "Joined Nirvana in 1990 and helped define the band’s breakthrough-era sound.",
+              "Later founded Foo Fighters and became one of modern rock’s most visible multi-instrumentalists."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dave_Grohl",
+              "OfficialSite": "https://foofighters.com/"
+            },
+            "Biography": "Dave Grohl (born January 14, 1969, in Warren, Ohio) entered Nirvana in 1990 and immediately changed the band’s scale. His drumming is both heavy and melodic—fills that feel like hooks, a backbeat that makes choruses feel inevitable, and an instinct for dynamics that matches Nirvana’s loud/soft identity perfectly.\n\nBefore Nirvana, Grohl came up through the hardcore-punk circuit, most notably with Scream, where he learned stamina, speed, and the discipline of playing night after night. That background gave him the endurance and precision that later made Nirvana’s biggest songs feel like they were built for arenas.\n\nWhen Grohl joined, Nirvana became a different machine. The band already had strong writing, but Grohl’s attack gave it lift and authority—songs that previously sounded like great underground tracks suddenly sounded like they could take over radio without being diluted.\n\nHis work on “Nevermind” is a masterclass in rock drumming as song architecture. The intro of “Smells Like Teen Spirit” hits like a starting gun, and across the album his fills often function as transitions that pull you into the chorus rather than simply decorate the groove.\n\nOn “In Utero,” the production turned rougher and the mood darker, but Grohl’s role stayed the same: keep the band powerful and readable. Even when the guitars get abrasive, the drum sound and timing make the songs feel structured rather than chaotic.\n\nGrohl also contributed backing vocals and a sense of musical optimism that contrasted with the band’s bleaker public narrative. Inside the music, that balance matters: Nirvana songs can sound desperate, but they’re also propulsive, and Grohl’s drumming is a major source of that propulsion.\n\nAfter Cobain’s death ended Nirvana in 1994, Grohl pivoted into songwriting and formed Foo Fighters, becoming a rare figure who succeeded at the highest level both as a drummer and as a frontman. His later career expanded his reputation without erasing the Nirvana chapter that made him globally visible.\n\nGrohl’s legacy in Nirvana is the sound of the breakthrough: drums that don’t just keep time, but drive the emotional arc of the song. When people describe Nirvana as explosive, they’re often describing the moment Grohl’s kick and snare make the chorus feel like a physical impact."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Chad Channing",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1988–1990",
+          "Overview": "Early-era drummer who played on key pre-breakthrough recordings and helped stabilize the band before the Dave Grohl lineup."
+        },
+        {
+          "Name": "Pat Smear",
+          "Roles": [
+            "Rhythm guitar",
+            "Backing vocals"
+          ],
+          "Years": "1993–1994",
+          "Overview": "Joined as touring guitarist for the final tours, thickening the live sound and later participating in reunion performances."
+        },
+        {
+          "Name": "Jason Everman",
+          "Roles": [
+            "Rhythm guitar",
+            "Backing vocals"
+          ],
+          "Years": "1989",
+          "Overview": "Brief member during the late-’80s period; credited in the early history despite limited recorded output with the band."
+        },
+        {
+          "Name": "Dan Peters",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1990",
+          "Overview": "Served briefly as drummer between lineup shifts in 1990 during a transitional moment before Grohl joined."
+        },
+        {
+          "Name": "Dale Crover",
+          "Roles": [
+            "Drums",
+            "Backing vocals"
+          ],
+          "Years": "1988; 1990",
+          "Overview": "A key early session presence associated with the band’s beginnings, appearing on early recordings and helping bridge gaps during drummer changes."
+        },
+        {
+          "Name": "Aaron Burckhard",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1987; 1988",
+          "Overview": "One of the earliest drummers in Nirvana’s formation phase, part of the band’s first working lineup as they started playing locally."
+        }
+      ]
     },
     {
       "ArtistID": "no-doubt",
