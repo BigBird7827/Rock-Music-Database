@@ -12246,27 +12246,388 @@
     {
       "ArtistID": "matchbox-twenty",
       "Name": "Matchbox Twenty",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "Type": "Band",
+      "Origin": "Orlando, Florida, United States",
+      "YearsActive": [
+        "1995–2004",
+        "2007–present"
+      ],
+      "Genres": [
+        "Pop rock",
+        "Alternative rock",
+        "Post-grunge"
+      ],
+      "Labels": [
+        "Melisma",
+        "Lava",
+        "Atlantic"
+      ],
+      "Overview": "Matchbox Twenty are an American rock band formed in Orlando, Florida, in 1995, emerging from the local circuit around Tabitha’s Secret and solidifying as a four-piece anchored by singer and principal songwriter Rob Thomas. With lead guitarist Kyle Cook, bassist Brian Yale, and drummer Paul Doucette, the band built a radio-forward sound that mixed post‑grunge guitars with pop structure and adult-alternative polish—big choruses, clean hooks, and a mid‑tempo groove that translated equally well to arenas and FM rotation. Their debut album, “Yourself or Someone Like You” (1996), turned them into a late‑’90s rock staple, driven by singles like “Push,” “3AM,” and “Real World,” and it established their core identity: emotionally direct songwriting delivered with tight, band-first arrangements.\n\nThey expanded that template on “Mad Season” (2000) with broader dynamics and more textural production, scoring major hits like “Bent” and “If You’re Gone,” then leaned into punchier rock and darker lyrical edges on “More Than You Think You Are” (2002), highlighted by “Unwell” and “Disease.” After a hiatus beginning in 2004 following the departure of Adam Gaynor, Matchbox Twenty regrouped as a foursome, returning to touring and releasing the compilation “Exile on Mainstream” (2007). Their fourth studio album, “North” (2012), debuted at No. 1 on the Billboard 200, and they later returned with “Where the Light Goes” (2023). Across decades, the band’s longevity has come from consistency: Thomas’s narrative-driven vocal style, a restrained but effective guitar approach, and a rhythm section built for steady momentum rather than flash.",
+      "NotableAlbums": [
+        {
+          "Year": 1996,
+          "Title": "Yourself or Someone Like You",
+          "Details": "Breakthrough debut that became a defining late-’90s rock album and produced multiple enduring radio staples."
+        },
+        {
+          "Year": 2000,
+          "Title": "Mad Season",
+          "Details": "Bigger, more expansive follow-up that delivered major hits and cemented the band’s arena-level profile."
+        },
+        {
+          "Year": 2002,
+          "Title": "More Than You Think You Are",
+          "Details": "Punchier third album marked by darker themes and one of the band’s signature singles, “Unwell.”"
+        },
+        {
+          "Year": 2007,
+          "Title": "Exile on Mainstream",
+          "Details": "Hiatus-era compilation that doubled as a comeback moment and reset the band as a touring foursome."
+        },
+        {
+          "Year": 2012,
+          "Title": "North",
+          "Details": "Return to new studio material that debuted at No. 1 on the Billboard 200 and launched a new touring cycle."
+        },
+        {
+          "Year": 2023,
+          "Title": "Where the Light Goes",
+          "Details": "Fifth studio album that continued their adult-alternative lane with mature, band-forward songwriting."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1996,
+          "Title": "Push",
+          "Details": "A signature early single that helped establish the band’s late-’90s rock identity."
+        },
+        {
+          "Year": 1997,
+          "Title": "3AM",
+          "Details": "One of the group’s defining songs, pairing a memorable melody with intimate storytelling."
+        },
+        {
+          "Year": 1997,
+          "Title": "Real World",
+          "Details": "A core-era staple that showcased their blend of guitar rock and pop structure."
+        },
+        {
+          "Year": 1997,
+          "Title": "Back 2 Good",
+          "Details": "A fan and radio favorite highlighting Thomas’s narrative writing style."
+        },
+        {
+          "Year": 2000,
+          "Title": "Bent",
+          "Details": "A major hit from “Mad Season” that expanded their sound while keeping the chorus-first formula."
+        },
+        {
+          "Year": 2000,
+          "Title": "If You’re Gone",
+          "Details": "A melodic standout that became one of their best-known ballads."
+        },
+        {
+          "Year": 2002,
+          "Title": "Unwell",
+          "Details": "A defining 2000s single that earned a Grammy nomination and became a long-running radio staple."
+        },
+        {
+          "Year": 2002,
+          "Title": "Disease",
+          "Details": "A harder-edged single that underlined the band’s rock punch in the early 2000s."
+        },
+        {
+          "Year": 2012,
+          "Title": "She’s So Mean",
+          "Details": "Comeback-era single that introduced the “North” cycle with a brighter, pop-leaning bite."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1996,
+          "Title": "Blockbuster debut era",
+          "Details": "“Yourself or Someone Like You” became a long-running multi‑platinum success and anchored the band’s breakthrough worldwide."
+        },
+        {
+          "Year": 2012,
+          "Title": "Chart-topping return",
+          "Details": "“North” debuted at No. 1 on the Billboard 200, signaling a strong late‑career resurgence."
+        },
+        {
+          "Year": 2004,
+          "Title": "Grammy recognition",
+          "Details": "“Unwell” was nominated for Best Pop Performance by a Duo or Group with Vocal."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1995 in Orlando, Florida; originally grew out of the Tabitha’s Secret orbit.",
+        "Core lineup: Rob Thomas, Kyle Cook, Brian Yale, Paul Doucette; past member Adam Gaynor departed in 2004.",
+        "Active periods include 1995–2004 and 2007–present.",
+        "Released studio albums spanning 1996 to 2023, including a No. 1 U.S. album (“North”, 2012)."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "OfficialWebsite": "https://matchboxtwenty.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Matchbox_Twenty",
+        "AllMusic": "https://www.allmusic.com/artist/matchbox-twenty-mn0000383889"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Rob Thomas",
+          "Roles": [
+            "Lead vocals",
+            "Songwriting",
+            "Guitar",
+            "Keyboards"
+          ],
+          "Years": "1995–2004; 2007–present",
+          "Overview": "Lead singer and principal songwriter whose conversational, story-driven vocals and hook discipline defined the band’s adult-alternative identity.",
+          "Bio": {
+            "BioID": "bio-rob-thomas",
+            "ArtistID": "matchbox-twenty",
+            "ArtistName": "Matchbox Twenty",
+            "MemberName": "Rob Thomas",
+            "FullName": "Robert Kelly Thomas",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1972-02-14",
+              "Place": "Landstuhl, West Germany"
+            },
+            "ActiveYears": [
+              "1990–present"
+            ],
+            "AssociatedActs": [
+              "Matchbox Twenty",
+              "Tabitha's Secret"
+            ],
+            "KeyAlbums": [
+              "Yourself or Someone Like You",
+              "Mad Season",
+              "More Than You Think You Are",
+              "North"
+            ],
+            "KeySongs": [
+              "3AM",
+              "Push",
+              "Bent",
+              "Unwell"
+            ],
+            "Achievements": [
+              "Co-founded Matchbox Twenty and served as its primary voice and songwriter.",
+              "Expanded his profile through high-visibility collaborations and a parallel solo career while keeping Matchbox Twenty active across multiple eras."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Rob_Thomas_(musician)",
+              "OfficialWebsite": "https://robthomasmusic.com/"
+            },
+            "Biography": "Rob Thomas (born Robert Kelly Thomas on February 14, 1972, in Landstuhl, West Germany) became one of the defining adult-alternative voices of the late 1990s and early 2000s. His style blends direct, conversational phrasing with pop-structured hooks, aiming for clarity and emotional immediacy rather than vocal excess.\n\nHis early musical years were shaped by the Florida scene, where he built the instincts that later made his songwriting feel narrative and lived-in. That approach—short scenes, sharp details, and chorus lines that resolve like conclusions—became a signature across Matchbox Twenty’s catalogue.\n\nThomas first gained traction in the Orlando circuit through Tabitha’s Secret, where he developed as a frontman and writer in a working-band environment. Those years were less about polish and more about learning what consistently lands in a room: pacing, lyric economy, and choruses that invite a crowd in.\n\nIn 1995, Thomas helped form Matchbox Twenty, carrying that club-tested discipline into a band designed for larger stages. From the outset, he functioned as both storyteller and focal point, while the musicians around him emphasized restraint and groove so the vocal melody could remain the driver.\n\nThe debut album era made him a mainstream figure. Songs like “Push” and “3AM” positioned Thomas as a writer who could sound personal without sounding niche—confessional enough to be human, but structured enough to live on radio for years.\n\nAs the band’s sound broadened on “Mad Season” and “More Than You Think You Are,” Thomas’s role stayed consistent: he framed the songs around clean melodic arcs and a sense of forward motion, then let arrangement choices—dynamics, texture, and rhythm—do the work of variation.\n\nOutside Matchbox Twenty, Thomas also maintained a substantial solo lane and a reputation as a collaborator, which kept his songwriting visible even during band hiatus periods. That parallel career never replaced Matchbox Twenty; it functioned more like an extension of the same craft—hook-first songs with narrative clarity.\n\nAcross multiple reunions and later-era releases, Thomas remained the central identity of Matchbox Twenty. The reason is straightforward: his voice and writing style are the band’s through-line, turning changes in production and era into variations on a stable, recognizable core."
+          }
+        },
+        {
+          "Name": "Kyle Cook",
+          "Roles": [
+            "Lead guitar",
+            "Backing vocals",
+            "Mandolin",
+            "Banjo"
+          ],
+          "Years": "1995–2004; 2007–present",
+          "Overview": "Lead guitarist whose understated, melodic approach and texture-first parts helped define the band’s clean, chorus-forward sound.",
+          "Bio": {
+            "BioID": "bio-kyle-cook",
+            "ArtistID": "matchbox-twenty",
+            "ArtistName": "Matchbox Twenty",
+            "MemberName": "Kyle Cook",
+            "FullName": "David Kyle Cook",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Musician"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1975-08-29",
+              "Place": "Frankfort, Indiana, United States"
+            },
+            "ActiveYears": [
+              "1992–present"
+            ],
+            "AssociatedActs": [
+              "Matchbox Twenty",
+              "The New Left"
+            ],
+            "KeyAlbums": [
+              "Yourself or Someone Like You",
+              "Mad Season",
+              "More Than You Think You Are",
+              "North"
+            ],
+            "KeySongs": [
+              "Push",
+              "Bent",
+              "Unwell"
+            ],
+            "Achievements": [
+              "Joined at the band’s formation and remained a core musical identity across the band’s major eras.",
+              "Known for a parts-first guitar style that supports songs without overcrowding the vocal melody."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Kyle_Cook",
+              "OfficialWebsite": "https://kylecookmusic.com/"
+            },
+            "Biography": "Kyle Cook (born David Kyle Cook on August 29, 1975, in Frankfort, Indiana) is best known as the lead guitarist of Matchbox Twenty. His playing emphasizes melodic clarity and arrangement discipline—choices that let the band’s choruses feel large without turning the mix into a wall of guitar.\n\nCook joined Matchbox Twenty in 1995 as the other members transitioned out of their earlier band orbit. From the start, he functioned less like a flashy soloist and more like a musical editor, selecting riffs and textures that underline vocals and reinforce groove.\n\nA defining trait of Cook’s approach is restraint. Many Matchbox Twenty songs depend on steady momentum rather than constant peaks, and Cook’s parts—clean arpeggios, rhythmic chugs, and concise lead lines—are built to keep verses moving and choruses lifting.\n\nAcross the debut era, his guitar work helped set the band’s identity: contemporary rock tones paired with pop structure. Even on heavier tracks, the lines are shaped to serve the hook rather than compete with it.\n\nAs the band expanded its palette on “Mad Season,” Cook’s role grew into more textural territory, supporting broader dynamics while still maintaining the band’s signature cleanliness. That balance—bigger sound, same clarity—became a hallmark of the band’s 2000s peak.\n\nCook also contributed backing vocals and additional instrumentation, giving live shows a fuller palette without needing to over-arrange the core songs. His willingness to add color—rather than constant lead fireworks—fits the band’s overall design philosophy.\n\nDuring hiatus periods and reunions, Cook remained an essential continuity piece. When a band is built around vocal storytelling, the guitarist’s job is to make the emotional arc feel stable; Cook’s steady tone and parts-first choices do that work reliably.\n\nOver decades, Cook’s legacy within Matchbox Twenty is the craft of support: guitar lines that are memorable without being loud, and arrangements that keep the band sounding like a band—even when production trends change."
+          }
+        },
+        {
+          "Name": "Brian Yale",
+          "Roles": [
+            "Bass"
+          ],
+          "Years": "1995–2004; 2007–present",
+          "Overview": "Bassist whose clean, anchored low-end keeps the band’s mid-tempo drive steady and gives the songs their groove-first foundation.",
+          "Bio": {
+            "BioID": "bio-brian-yale",
+            "ArtistID": "matchbox-twenty",
+            "ArtistName": "Matchbox Twenty",
+            "MemberName": "Brian Yale",
+            "FullName": "Brian Joseph Yale",
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Bassist",
+              "Musician"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1968-11-14",
+              "Place": "United States"
+            },
+            "ActiveYears": [
+              "1978–present"
+            ],
+            "AssociatedActs": [
+              "Matchbox Twenty",
+              "Tabitha's Secret"
+            ],
+            "KeyAlbums": [
+              "Yourself or Someone Like You",
+              "Mad Season",
+              "More Than You Think You Are",
+              "North"
+            ],
+            "KeySongs": [
+              "3AM",
+              "Bent",
+              "Unwell"
+            ],
+            "Achievements": [
+              "Longtime bassist and core member across the band’s classic period and later returns.",
+              "Known for a controlled, supportive pocket that keeps the band’s arrangements clean and vocal-forward."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Yale"
+            },
+            "Biography": "Brian Yale (born Brian Joseph Yale on November 14, 1968) is the bassist of Matchbox Twenty and one of the band’s core continuity anchors. His role is foundational: keep the songs moving, keep the groove steady, and keep the low end clean enough that the vocals and guitars can stay sharply defined.\n\nBefore Matchbox Twenty, Yale played in Tabitha’s Secret with Rob Thomas and Paul Doucette, developing the working-band instincts that later translated to mainstream records. That shared history matters because Matchbox Twenty’s sound is built on ensemble tightness rather than individual flash.\n\nYale’s background includes formal music study, and that training shows in how he supports arrangements. Instead of showy fills, he prioritizes consistent timing, strong note choice, and bass lines that guide chord movement without drawing attention away from the hook.\n\nOn the debut era material, Yale’s bass provides the glue between guitar rhythm and drum pocket, giving the songs their steady adult-alternative drive. The band’s biggest singles often sit in a mid-tempo lane, and that lane depends on a bassist who can make “steady” feel alive rather than static.\n\nAs the band expanded on “Mad Season,” the rhythm section had to support larger dynamics and a broader sonic palette. Yale’s approach stayed consistent: tighten the bottom, leave space in the midrange, and let the chorus lift without muddying the vocal.\n\nAcross the 2002 material, the band leaned into punchier rock tones while keeping pop structure. Yale’s playing remains an example of restraint used as power—when you keep the foundation stable, the chorus impact feels bigger with less effort.\n\nDuring hiatus and reunion cycles, Yale remained part of the band’s identity. With Matchbox Twenty, listeners often recognize the band’s “feel” as much as its melodies, and that feel is a direct product of the bass-and-drums relationship.\n\nYale’s legacy in the group is the invisible strength of consistency: a bassist who keeps the band’s core sound intact across eras, making stylistic shifts feel like evolution rather than reinvention."
+          }
+        },
+        {
+          "Name": "Paul Doucette",
+          "Roles": [
+            "Drums",
+            "Percussion",
+            "Rhythm guitar",
+            "Backing vocals"
+          ],
+          "Years": "1995–2004; 2007–present",
+          "Overview": "Drummer and later-era rhythm guitarist whose steady pocket and production-aware timing keep the band’s songs moving with controlled energy.",
+          "Bio": {
+            "BioID": "bio-paul-doucette",
+            "ArtistID": "matchbox-twenty",
+            "ArtistName": "Matchbox Twenty",
+            "MemberName": "Paul Doucette",
+            "FullName": "Paul John Doucette",
+            "PrimaryInstruments": [
+              "Drums",
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Musician"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1972-08-22",
+              "Place": "North Huntingdon, Pennsylvania, United States"
+            },
+            "ActiveYears": [
+              "1980s–present"
+            ],
+            "AssociatedActs": [
+              "Matchbox Twenty",
+              "Tabitha's Secret",
+              "The Break and Repair Method"
+            ],
+            "KeyAlbums": [
+              "Yourself or Someone Like You",
+              "Mad Season",
+              "More Than You Think You Are",
+              "North"
+            ],
+            "KeySongs": [
+              "Push",
+              "Bent",
+              "Unwell"
+            ],
+            "Achievements": [
+              "Core rhythm-section driver and key continuity member across the band’s classic period and later returns.",
+              "Expanded his role over time to include rhythm guitar and additional musical support within the touring and studio setup."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Doucette"
+            },
+            "Biography": "Paul Doucette (born Paul John Doucette on August 22, 1972, in North Huntingdon, Pennsylvania) is best known as Matchbox Twenty’s drummer and a core member of the band’s long-running lineup. His playing style emphasizes steadiness and control—traits that are crucial for a catalogue built around vocal storytelling and chorus impact.\n\nAfter moving to Florida, Doucette connected with the scene that also produced Tabitha’s Secret, where he played with Rob Thomas and Brian Yale before the Matchbox Twenty formation. Those years sharpened his “song-first” instincts: the job is to make the lyric land, not to crowd the arrangement.\n\nWhen Matchbox Twenty formed in 1995, Doucette’s pocket became part of the band’s identity. The groove is often understated, but it’s engineered for momentum—mid-tempo songs that feel like they’re always moving forward, with choruses that open up rather than simply get louder.\n\nOn the debut era recordings, Doucette’s drumming supports clean guitar layering and vocal prominence. He tends to avoid flashy fills in favor of consistency, using small changes in emphasis to mark song sections and keep the listener oriented.\n\nAs the band broadened its sound on “Mad Season,” Doucette adapted to bigger dynamics and more expansive production while keeping the core feel tight. A band can add texture and still lose its identity; Doucette’s steadiness helped prevent that.\n\nOver time, his role expanded beyond drums, including rhythm guitar and other supporting parts, especially as the band regrouped after lineup changes. That flexibility mattered in later touring eras, where a four-piece needs to cover more ground without sacrificing the sense of fullness audiences expect.\n\nOutside Matchbox Twenty, Doucette pursued additional creative lanes, including work with his own band projects. Those outlets highlight another side of his musicianship, but the defining public identity remains the drummer who keeps Matchbox Twenty’s catalogue locked and reliable.\n\nDoucette’s lasting contribution is the feel: a rhythm approach designed for durability. When a band’s biggest songs are meant to live on radio for decades, the drummer’s consistency becomes the difference between “dated” and “timeless,” and Doucette’s work is a major reason these tracks still move the way they do."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Adam Gaynor",
+          "Roles": [
+            "Rhythm guitar",
+            "Backing vocals"
+          ],
+          "Years": "1995–2004",
+          "Overview": "Original rhythm guitarist who was part of the band’s breakthrough and core 1990s/early‑2000s run. He departed in 2004, after which the band regrouped later as a foursome with Paul Doucette covering rhythm guitar."
+        }
+      ]
     },
     {
       "ArtistID": "max-webster",
