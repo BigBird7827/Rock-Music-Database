@@ -2262,27 +2262,505 @@
     {
       "ArtistID": "abba",
       "Name": "ABBA",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Stockholm",
+        "Region": "Stockholm",
+        "Country": "Sweden"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1972–1982",
+        "2016–present"
+      ],
+      "Genres": [
+        "Pop",
+        "Disco",
+        "Europop",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Polar",
+        "Epic",
+        "Atlantic",
+        "Universal"
+      ],
+      "Overview": "ABBA are a Swedish pop group formed in Stockholm by Agnetha Fältskog, Björn Ulvaeus, Benny Andersson, and Anni‑Frid “Frida” Lyngstad. After years of songwriting and session work in Sweden, the quartet broke through internationally when “Waterloo” won the Eurovision Song Contest in 1974, opening the door to a run of impeccably crafted singles that blended bright pop hooks with disco-era rhythm, layered harmonies, and studio polish.\n\nBetween the mid‑1970s and early 1980s, ABBA became one of the world’s defining pop acts, anchored by Ulvaeus and Andersson’s songwriting/production partnership and the contrasting lead vocals of Fältskog and Lyngstad. Their catalogue—packed with global staples like “Dancing Queen,” “Mamma Mia,” and “The Winner Takes It All”—has remained a cultural touchstone through compilations, the stage musical and films inspired by their songs, and a modern revival that included the comeback album Voyage and the ABBA Voyage concert built around digital “ABBAtars.”",
+      "NotableAlbums": [
+        {
+          "Title": "Waterloo",
+          "Year": "1974",
+          "Notes": "The breakthrough album tied to their Eurovision win, pairing glam-leaning pop with the confident melodic style that would define their international rise."
+        },
+        {
+          "Title": "Arrival",
+          "Year": "1976",
+          "Notes": "Often cited as a creative peak: sleek, emotionally direct pop writing and signature layered production, featuring enduring hits like “Dancing Queen” and “Knowing Me, Knowing You.”"
+        },
+        {
+          "Title": "The Album",
+          "Year": "1977",
+          "Notes": "A slightly broader, more ambitious set that balances radio-ready singles with more expansive arrangements and a refined studio sheen."
+        },
+        {
+          "Title": "Voulez-Vous",
+          "Year": "1979",
+          "Notes": "Their most overtly disco-oriented studio album, built around dance-floor grooves and sharp pop songwriting, while still leaving room for dramatic ballads."
+        },
+        {
+          "Title": "Super Trouper",
+          "Year": "1980",
+          "Notes": "A mature late-period classic that mixes stadium-bright pop with bittersweet storytelling, including major singles like “The Winner Takes It All.”"
+        },
+        {
+          "Title": "The Visitors",
+          "Year": "1981",
+          "Notes": "Darker, more electronic and emotionally complex, reflecting the group’s late-era perspective and the early-’80s shift in pop production."
+        },
+        {
+          "Title": "Voyage",
+          "Year": "2021",
+          "Notes": "A widely celebrated return after decades without a new studio album, pairing classic ABBA melodic instincts with modern production and reflective lyrics."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Waterloo",
+          "Year": "1974",
+          "Notes": "The Eurovision-winning single that launched ABBA’s global profile and introduced their high-gloss pop spectacle to a huge international audience."
+        },
+        {
+          "Title": "Mamma Mia",
+          "Year": "1975",
+          "Notes": "A defining hit whose instantly recognizable riff and call-and-response chorus became a cornerstone of ABBA’s legacy and later stage/film adaptations."
+        },
+        {
+          "Title": "Dancing Queen",
+          "Year": "1976",
+          "Notes": "Their signature disco-pop anthem and their only U.S. Billboard Hot 100 No. 1, celebrated for its buoyant groove and soaring chorus."
+        },
+        {
+          "Title": "Take a Chance on Me",
+          "Year": "1978",
+          "Notes": "A bold, rhythmic pop single built around stacked vocals and playful momentum, emblematic of their late-’70s hit-making precision."
+        },
+        {
+          "Title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+          "Year": "1979",
+          "Notes": "A synth-driven disco staple that has remained a club favorite and a frequently referenced pop sample/interpolation point."
+        },
+        {
+          "Title": "The Winner Takes It All",
+          "Year": "1980",
+          "Notes": "A dramatic, heart-on-sleeve ballad showcasing ABBA’s late-era emotional depth and Fältskog’s powerful lead vocal."
+        },
+        {
+          "Title": "Fernando",
+          "Year": "1976",
+          "Notes": "A warm, melodic classic that highlights the group’s gift for cinematic storytelling and richly blended vocals."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1974",
+          "Title": "Won the Eurovision Song Contest with “Waterloo”",
+          "Details": "ABBA’s performance of “Waterloo” won Eurovision in Brighton, becoming Sweden’s first contest win and a launch point for their international breakthrough."
+        },
+        {
+          "Year": "1970s–present",
+          "Title": "One of the best-selling pop acts in modern music",
+          "Details": "Major reference sources commonly cite ABBA’s worldwide record sales in the hundreds of millions, with a frequently repeated baseline estimate of around 150 million or more sold globally."
+        },
+        {
+          "Year": "2010",
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Details": "ABBA were inducted as Performers, recognizing their enduring influence and the long-tail cultural impact of their catalogue."
+        },
+        {
+          "Year": "2021",
+          "Title": "Returned with Voyage, their first studio album in nearly four decades",
+          "Details": "Voyage debuted as a major global event release, topping charts in multiple countries and posting exceptionally strong first-week sales for a veteran act."
+        },
+        {
+          "Year": "2022–present",
+          "Title": "Launched ABBA Voyage, a purpose-built digital-avatar concert experience in London",
+          "Details": "The production presents the group as digital “ABBAtars” with a live band in a dedicated arena, bringing ABBA’s music to a new generation of concertgoers."
+        }
+      ],
+      "KeyFacts": [
+        "The name ABBA is an acronym formed from the first initials of Agnetha, Björn, Benny, and Anni‑Frid.",
+        "Björn Ulvaeus and Benny Andersson were the group’s primary songwriters and producers, shaping ABBA’s hallmark blend of crisp hooks and layered studio craft.",
+        "ABBA’s catalogue became the foundation for the long-running stage musical Mamma Mia!, helping drive a major 21st‑century resurgence in their popularity.",
+        "“Dancing Queen” became ABBA’s only No. 1 single on the U.S. Billboard Hot 100, underscoring their rare crossover success outside Europe.",
+        "A tight circle of Swedish studio musicians and engineers—especially sound engineer Michael B. Tretow—were central to the distinctive ‘ABBA sound’ on record."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://abbasite.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/ABBA",
+        "Discography": "https://en.wikipedia.org/wiki/ABBA_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Agnetha Fältskog",
+          "Roles": [
+            "lead vocals",
+            "backing vocals"
+          ],
+          "Years": "1972–1982, 2016–present",
+          "Overview": "A co-lead singer whose clear, emotive tone anchored many of ABBA’s most famous ballads and pop anthems, and whose solo success both preceded and followed the group’s peak years.",
+          "Bio": {
+            "BioID": "bio-abba-agnetha-faltskog",
+            "ArtistID": "abba",
+            "ArtistName": "ABBA",
+            "MemberName": "Agnetha Fältskog",
+            "FullName": "Agnetha Åse Fältskog",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Piano"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Pop",
+              "Schlager",
+              "Easy listening"
+            ],
+            "Birth": {
+              "Date": "1950-04-05",
+              "Place": "Jönköping, Sweden"
+            },
+            "ActiveYears": [
+              "1967–present"
+            ],
+            "AssociatedActs": [
+              "ABBA"
+            ],
+            "KeyAlbums": [
+              "Arrival",
+              "Super Trouper",
+              "The Visitors",
+              "Voyage"
+            ],
+            "KeySongs": [
+              "Dancing Queen",
+              "The Winner Takes It All",
+              "Take a Chance on Me",
+              "Mamma Mia"
+            ],
+            "Achievements": [
+              "Became one of pop’s signature lead vocalists through ABBA, delivering many of the group’s most emotionally resonant performances.",
+              "Maintained a parallel solo career in Sweden and internationally, returning periodically with new recordings and high-profile releases."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://abbasite.com/people/agnetha-faltskog/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Agnetha_F%C3%A4ltskog"
+            },
+            "Biography": "Agnetha Fältskog emerged from Sweden’s pop circuit as a self-driven singer and songwriter, performing publicly from a young age and finding early recognition before ABBA existed as a formal group. That early grounding—writing, arranging, and recording—helped shape her confidence as a front-line vocalist in a future global pop phenomenon.\n\nBefore ABBA’s breakthrough, she had already experienced national success as a recording artist, developing a clean, bright tone that could carry both intimate verses and big, melodic choruses. Those strengths later became essential to ABBA’s blend of radio-friendly immediacy and emotional specificity.\n\nWithin ABBA, Fältskog served as one of two primary lead singers, often chosen for songs that demanded a direct, vulnerable delivery. Her voice—clear, controlled, and able to turn on a dramatic surge—became a defining element in the group’s biggest ballads and mid-tempo classics.\n\nA major part of her impact came from contrast: ABBA’s vocal arrangements frequently played Fältskog’s tone against Anni‑Frid Lyngstad’s richer, darker timbre. That pairing allowed the group to build harmonies with unusual depth while still keeping lead melodies sharply focused.\n\nAs ABBA’s catalog matured, Fältskog’s performances helped give the late-era material a more reflective, grown-up emotional palette. Songs built around heartbreak, hindsight, and hard-earned clarity became some of the group’s most enduring work, and her vocals are central to that reputation.\n\nOutside the group, she maintained a solo identity that wasn’t simply a side-note to ABBA, returning to recording at different points with material that leaned into her strengths as an interpreter of melody and mood. Her solo work reinforced the sense that ABBA’s vocal excellence came from two fully formed artists, not just a group format.\n\nIn ABBA’s modern revival era, her presence carried a particular symbolic weight: the return of a voice so closely associated with the group’s most iconic recordings. That continuity helped newer audiences connect the contemporary projects to the original run, rather than experiencing them as nostalgia alone.\n\nToday, Fältskog’s legacy is inseparable from ABBA’s global story—one of pop’s most distinctive vocal signatures, delivering performances that remain emotionally immediate decades after their first release. Her work with ABBA continues to define what ‘classic pop’ can sound like when melody, production, and vocal character all lock into place."
+          }
+        },
+        {
+          "Name": "Björn Ulvaeus",
+          "Roles": [
+            "songwriting",
+            "guitar",
+            "vocals",
+            "production"
+          ],
+          "Years": "1972–1982, 2016–present",
+          "Overview": "Co-writer and co-producer (with Benny Andersson) who helped craft ABBA’s melodic style, lyric approach, and polished studio sound, while also contributing guitar and vocals.",
+          "Bio": {
+            "BioID": "bio-abba-bjorn-ulvaeus",
+            "ArtistID": "abba",
+            "ArtistName": "ABBA",
+            "MemberName": "Björn Ulvaeus",
+            "FullName": "Björn Kristian Ulvaeus",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Pop",
+              "Europop",
+              "Folk rock",
+              "Disco"
+            ],
+            "Birth": {
+              "Date": "1945-04-25",
+              "Place": "Gothenburg, Sweden"
+            },
+            "ActiveYears": [
+              "1963–present"
+            ],
+            "AssociatedActs": [
+              "Hootenanny Singers",
+              "ABBA"
+            ],
+            "KeyAlbums": [
+              "Arrival",
+              "Voulez-Vous",
+              "Super Trouper",
+              "Voyage"
+            ],
+            "KeySongs": [
+              "Waterloo",
+              "Mamma Mia",
+              "Take a Chance on Me",
+              "The Winner Takes It All"
+            ],
+            "Achievements": [
+              "Co-wrote and co-produced ABBA’s core catalogue with Benny Andersson, shaping one of pop’s most enduring bodies of work.",
+              "Extended ABBA’s songwriting legacy into major stage and screen projects connected to the group’s music."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://abbasite.com/people/bjorn-ulvaeus/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Ulvaeus"
+            },
+            "Biography": "Björn Ulvaeus developed as a performer and songwriter in Sweden’s folk-leaning pop scene, gaining early experience in a successful vocal group before ABBA took shape. That background gave him a practical understanding of arrangement, harmony, and what makes a song connect quickly with listeners.\n\nHis pivotal partnership began when he met Benny Andersson, and the two started writing together in a way that blended pop immediacy with meticulous craft. Their collaboration became ABBA’s engine: melody-first songwriting paired with disciplined studio decision-making.\n\nWithin ABBA, Ulvaeus contributed guitar and vocals, but his biggest imprint came through composition, lyric development, and production choices. He helped steer the group toward a sound that could travel across languages and markets—bright, precise hooks built on carefully layered textures.\n\nUlvaeus’s lyrical perspective evolved over ABBA’s career, moving from youthful pop narratives toward more complex emotional storytelling. That shift helped ABBA’s late-era work feel more mature, keeping the group artistically compelling even as pop trends changed around them.\n\nIn the studio, Ulvaeus worked closely with Andersson and key collaborators to refine ABBA’s signature clarity—tight rhythm beds, stacked vocals, and crisp arrangement logic where every element supports the chorus. This attention to detail is a major reason ABBA’s records continue to sound modern and sharply engineered.\n\nAfter ABBA’s initial run, Ulvaeus continued creating large-scale works connected to songwriting and musical theatre, carrying the group’s melodic sensibility into new formats. Those projects reinforced the idea that ABBA’s success wasn’t accidental—it came from writers who understood structure, drama, and emotional payoff.\n\nWhen ABBA returned with new recording projects decades later, Ulvaeus’s role was again central: shaping how the group’s classic approach could live in a contemporary release without losing its identity. The result was a comeback that felt intentional rather than merely commemorative.\n\nUlvaeus remains a key figure in the ABBA story as both architect and performer—one half of a songwriting partnership that helped define an era of global pop, and a creative force whose work continues to ripple through modern popular culture."
+          }
+        },
+        {
+          "Name": "Benny Andersson",
+          "Roles": [
+            "songwriting",
+            "keyboards",
+            "vocals",
+            "production"
+          ],
+          "Years": "1972–1982, 2016–present",
+          "Overview": "Co-writer and co-producer who supplied ABBA’s harmonic and melodic DNA at the keyboard, shaping the group’s arrangements and studio approach alongside Björn Ulvaeus.",
+          "Bio": {
+            "BioID": "bio-abba-benny-andersson",
+            "ArtistID": "abba",
+            "ArtistName": "ABBA",
+            "MemberName": "Benny Andersson",
+            "FullName": "Göran Bror Benny Andersson",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Piano",
+              "Synthesizer"
+            ],
+            "Occupations": [
+              "Musician",
+              "Composer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Pop",
+              "Europop",
+              "Disco",
+              "Swedish folk"
+            ],
+            "Birth": {
+              "Date": "1946-12-16",
+              "Place": "Stockholm, Sweden"
+            },
+            "ActiveYears": [
+              "1964–present"
+            ],
+            "AssociatedActs": [
+              "Hep Stars",
+              "ABBA",
+              "Benny Anderssons orkester"
+            ],
+            "KeyAlbums": [
+              "Arrival",
+              "The Album",
+              "Super Trouper",
+              "Voyage"
+            ],
+            "KeySongs": [
+              "Dancing Queen",
+              "Waterloo",
+              "Knowing Me, Knowing You",
+              "The Winner Takes It All"
+            ],
+            "Achievements": [
+              "Co-wrote and co-produced ABBA’s defining songs, bringing strong harmonic movement and keyboard-driven arrangement craft to the group’s sound.",
+              "Sustained a long post-ABBA career as a composer and bandleader, extending his influence across Swedish popular music and musical theatre."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://abbasite.com/people/11413-2/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Benny_Andersson"
+            },
+            "Biography": "Benny Andersson rose to prominence in Sweden before ABBA through work in a major 1960s pop group, where he honed the quick instincts and musical discipline required by constant recording and touring. That early environment trained him to think in hooks, chord movement, and arrangement momentum.\n\nHis meeting and subsequent partnership with Björn Ulvaeus became one of pop’s most productive collaborations. Together they developed a songwriting language that fused bright, accessible melodies with harmonic turns that gave ABBA’s music extra lift and emotional color.\n\nIn ABBA, Andersson’s keyboard work sat at the center of the band’s sound—piano patterns, synth lines, and chord voicings that made the songs feel both grounded and expansive. He also contributed vocals, helping build the stacked harmonies that became a key ABBA signature.\n\nAs a producer, Andersson helped translate songwriting into records that felt pristine but energetic. ABBA’s sound is often described as ‘clean,’ yet it’s also dense: layered parts arranged so the chorus arrives with maximum impact without becoming cluttered.\n\nAcross ABBA’s peak years, Andersson and Ulvaeus continually refined their approach, adapting to shifts from early-’70s pop into late-’70s disco and early-’80s synth-driven production. That flexibility kept ABBA competitive on the charts while preserving a consistent melodic identity.\n\nAfter ABBA paused as an active recording unit, Andersson remained a central figure in Swedish music, continuing to write, produce, and lead projects that drew on both pop craft and traditional musical influences. His post-ABBA work reinforced his reputation not just as a hitmaker, but as a composer with breadth.\n\nABBA’s return to the studio decades later again highlighted Andersson’s strengths: building arrangements that feel unmistakably ABBA while using contemporary tools and textures. That balance—classic melody with modern sound—was crucial to making the comeback resonate beyond nostalgia.\n\nAndersson’s legacy is embedded in ABBA’s harmonic personality: songs that feel instantly singable yet musically richer than they first appear, driven by keyboard-centric writing and an arranger’s instinct for emotional payoff."
+          }
+        },
+        {
+          "Name": "Anni‑Frid Lyngstad",
+          "Roles": [
+            "lead vocals",
+            "backing vocals"
+          ],
+          "Years": "1972–1982, 2016–present",
+          "Overview": "A co-lead singer whose warm, darker timbre complemented Agnetha Fältskog and helped give ABBA’s harmonies their distinctive depth and blend.",
+          "Bio": {
+            "BioID": "bio-abba-anni-frid-lyngstad",
+            "ArtistID": "abba",
+            "ArtistName": "ABBA",
+            "MemberName": "Anni‑Frid Lyngstad",
+            "FullName": "Anni‑Frid Synni Lyngstad",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer"
+            ],
+            "Genres": [
+              "Pop"
+            ],
+            "Birth": {
+              "Date": "1945-11-15",
+              "Place": "Bjørkåsen (Ballangen), Norway"
+            },
+            "ActiveYears": [
+              "1958–present"
+            ],
+            "AssociatedActs": [
+              "ABBA"
+            ],
+            "KeyAlbums": [
+              "Arrival",
+              "Voulez-Vous",
+              "The Visitors",
+              "Voyage"
+            ],
+            "KeySongs": [
+              "Dancing Queen",
+              "Mamma Mia",
+              "Fernando",
+              "Knowing Me, Knowing You"
+            ],
+            "Achievements": [
+              "Helped define ABBA’s vocal identity through powerful lead performances and a harmony blend that became instantly recognizable worldwide.",
+              "Maintained a notable solo profile alongside ABBA’s work, contributing to the group’s depth as a collection of individual artists."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://abbasite.com/people/anni-frid-lyngstad/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Anni-Frid_Lyngstad"
+            },
+            "Biography": "Anni‑Frid “Frida” Lyngstad began performing early, building her voice and stage presence long before ABBA became a global name. Her background in Sweden’s music scene gave her practical experience as a working singer, with a style that could shift from intimate phrasing to full, commanding choruses.\n\nWhen ABBA formed, Lyngstad arrived as a fully capable lead vocalist rather than simply a supporting harmony singer. That mattered: ABBA’s signature sound relies on two strong lead voices that can alternate, blend, and contrast without weakening the center of a song.\n\nLyngstad’s timbre—warmer and darker than Agnetha Fältskog’s—became the perfect counterpart in ABBA’s arrangements. Together they created a vocal blend that felt both glossy and human, especially when the harmonies stack into the chorus and the record seems to ‘open up.’\n\nAs ABBA’s catalog expanded, Lyngstad took lead on key tracks and helped carry the group’s ability to switch emotional registers. ABBA could be bright and playful, but also dramatic and reflective, and her performances were central to that wider palette.\n\nThe group’s studio approach emphasized precision, and Lyngstad’s control made her an ideal fit for layered vocal production. Multiple takes, harmony builds, and carefully shaped phrasing created records that still sound detailed and intentional decades later.\n\nOutside ABBA, Lyngstad maintained a distinct solo identity, reinforcing the idea that ABBA’s vocal excellence came from two major artists sharing the spotlight. That individual strength helped ABBA avoid the ‘one singer plus backing’ dynamic common to many pop groups.\n\nIn ABBA’s modern projects, her presence again reinforced continuity with the classic era: the same recognizable voice, now framed in new recordings and contemporary presentation formats. The result was a revival that felt rooted in the original personalities, not just the songs.\n\nLyngstad’s legacy within ABBA is the depth she brought to the group’s sound—an essential half of one of pop music’s most celebrated vocal pairings, and a performer whose tone remains instantly tied to ABBA’s enduring catalog."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Michael B. Tretow",
+          "Roles": [
+            "audio engineer",
+            "record producer"
+          ],
+          "Years": "1972–1982 (primary ABBA studio era)",
+          "Instruments": [],
+          "Albums": [
+            "Ring Ring",
+            "Waterloo",
+            "ABBA",
+            "Arrival",
+            "The Album",
+            "Voulez-Vous",
+            "Super Trouper",
+            "The Visitors"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "ABBA’s key studio engineer, widely credited with helping shape the group’s signature recorded sound through inventive recording techniques and meticulous layering. His work is frequently cited as foundational to the clarity, punch, and sheen associated with classic ABBA productions."
+        },
+        {
+          "Name": "Rutger Gunnarsson",
+          "Roles": [
+            "bass",
+            "arranger"
+          ],
+          "Years": "1972–1982 (studio and touring)",
+          "Instruments": [
+            "Bass",
+            "Guitar"
+          ],
+          "Albums": [
+            "Ring Ring",
+            "Waterloo",
+            "ABBA",
+            "Arrival",
+            "The Album",
+            "Voulez-Vous",
+            "Super Trouper",
+            "The Visitors"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A closely associated ABBA musician who played bass across the group’s core album run and participated in tours, while also contributing arranging work. His steady, melodic bass parts are a subtle but consistent element in many classic ABBA tracks."
+        },
+        {
+          "Name": "Ola Brunkert",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1972–1982 (primary session drummer)",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Ring Ring",
+            "Waterloo",
+            "ABBA",
+            "Arrival",
+            "The Album",
+            "Voulez-Vous",
+            "Super Trouper",
+            "The Visitors"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "One of ABBA’s main session drummers during the classic era, providing the tight, clean rhythmic foundation behind their pop and disco arrangements. He is often noted as one of the most consistently present side musicians across ABBA’s early album catalogue."
+        },
+        {
+          "Name": "Janne Schaffer",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "early 1970s (frequent session work)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Ring Ring",
+            "Waterloo"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A widely used Swedish session guitarist who played on early ABBA recordings and helped establish the group’s studio polish in the pre-global-breakthrough period. His reputation as a first-call player made him a natural fit for the Andersson/Ulvaeus recording circle."
+        },
+        {
+          "Name": "Lasse Wellander",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1974–1982; 2021 (return-era recording)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "ABBA",
+            "Arrival",
+            "The Album",
+            "Voulez-Vous",
+            "Super Trouper",
+            "The Visitors",
+            "Voyage"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A long-serving ABBA-associated guitarist who recorded with the group starting in the mid‑1970s and played on all studio albums from ABBA (1975) through Voyage (2021). He also toured with the band in multiple years, helping translate the studio sound to the stage."
+        }
+      ]
     },
     {
       "ArtistID": "acdc",
