@@ -10290,27 +10290,687 @@
     {
       "ArtistID": "counting-crows",
       "Name": "Counting Crows",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Berkeley",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1991–present"
+      ],
+      "Genres": [
+        "alternative rock",
+        "roots rock",
+        "folk rock",
+        "pop rock"
+      ],
+      "Labels": [
+        "Geffen Records",
+        "Interscope Records",
+        "Capitol Records",
+        "BMG",
+        "Cooking Vinyl"
+      ],
+      "Overview": "Counting Crows are a Berkeley, California–formed rock band led by singer-songwriter Adam Duritz and rhythm guitarist David Bryson. Breaking nationally in the mid‑1990s with the radio staple “Mr. Jones,” the group became known for Duritz’s character-driven lyrics and a sound that blends jangly guitars, rootsy textures, and big, sing‑along choruses. Their 1993 debut, *August and Everything After*, turned them into one of the defining U.S. alternative-rock acts of the era, and the band quickly proved it was more than a single-hit story when *Recovering the Satellites* debuted at No. 1 in the United States.\n\nOver the decades, Counting Crows have balanced hit singles with album-focused writing—moving from the restless, road‑worn energy of *Recovering the Satellites* to the more expansive moods of *This Desert Life* and *Hard Candy*, and later returning with new material in the 2020s. They’ve earned major-awards recognition (including Grammy nominations and an Academy Award nomination for “Accidentally in Love”) while keeping their catalog anchored in storytelling, melody, and a live reputation for reshaping songs in the moment.",
+      "NotableAlbums": [
+        {
+          "Title": "August and Everything After",
+          "Year": "1993",
+          "Notes": "The breakthrough debut that introduced “Mr. Jones” and “Round Here,” pairing jangly guitars with Duritz’s vivid storytelling and turning the band into a major 1990s radio presence."
+        },
+        {
+          "Title": "Recovering the Satellites",
+          "Year": "1996",
+          "Notes": "A darker, road-scarred follow-up that broadened the band’s sound and debuted at No. 1 in the U.S., featuring fan favorites like “A Long December.”"
+        },
+        {
+          "Title": "This Desert Life",
+          "Year": "1999",
+          "Notes": "A sleek, late‑’90s set that mixed hooks and atmosphere, highlighted by “Hanginaround” and the cinematic ballad “Colorblind.”"
+        },
+        {
+          "Title": "Hard Candy",
+          "Year": "2002",
+          "Notes": "A punchier, early‑2000s album that kept the band in heavy rotation with songs like “American Girls,” while maintaining their lyrical, character-based approach."
+        },
+        {
+          "Title": "Saturday Nights & Sunday Mornings",
+          "Year": "2008",
+          "Notes": "A conceptually split record—rock-leaning “Saturday” energy against more reflective “Sunday” moods—showing the band’s range well into their second decade."
+        },
+        {
+          "Title": "Somewhere Under Wonderland",
+          "Year": "2014",
+          "Notes": "A long-form, suite-like return that leaned into extended storytelling and shifting arrangements, emphasizing the band’s album-first ambitions."
+        },
+        {
+          "Title": "Butter Miracle, The Complete Sweets!",
+          "Year": "2025",
+          "Notes": "A late-career statement that expands the *Butter Miracle* era into a full album, pairing the earlier suite material with new songs and underscoring the band’s continued momentum on the road."
+        },
+        {
+          "Title": "Films About Ghosts: The Best Of…",
+          "Year": "2003",
+          "Notes": "A widely used entry point into the catalog, collecting the band’s best-known singles from the 1990s and early 2000s."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Mr. Jones",
+          "Year": "1993",
+          "Notes": "The breakout single that introduced the band’s blend of jangly rock and character-driven lyricism, becoming a lasting ’90s alternative staple."
+        },
+        {
+          "Title": "Round Here",
+          "Year": "1993",
+          "Notes": "A slow-burning early centerpiece that showcases Duritz’s scene-setting writing and the band’s ability to build a song into a cathartic climax."
+        },
+        {
+          "Title": "Rain King",
+          "Year": "1994",
+          "Notes": "A driving, radio-friendly cut that captures the band’s early urgency and became a staple of their live shows."
+        },
+        {
+          "Title": "A Long December",
+          "Year": "1996",
+          "Notes": "One of their signature ballads—reflective, melodic, and widely identified with the band’s mid‑’90s peak."
+        },
+        {
+          "Title": "Hanginaround",
+          "Year": "1999",
+          "Notes": "A crunchy, upbeat hit that kept them on rock radio into the end of the decade, with a chorus built for crowd sing‑alongs."
+        },
+        {
+          "Title": "Colorblind",
+          "Year": "1999",
+          "Notes": "A stripped, intimate song often associated with its prominent film placement and a showcase for Duritz’s quieter delivery."
+        },
+        {
+          "Title": "Accidentally in Love",
+          "Year": "2004",
+          "Notes": "A bright, pop-leaning single written for *Shrek 2* that earned major awards recognition and introduced the band to a new generation."
+        },
+        {
+          "Title": "Big Yellow Taxi",
+          "Year": "2002",
+          "Notes": "Their popular cover of Joni Mitchell’s classic, featuring a duet version that became a notable early‑2000s radio hit."
+        },
+        {
+          "Title": "Omaha",
+          "Year": "1993",
+          "Notes": "A fan favorite from the debut era that highlights the band’s early, roots-tinged alternative rock approach."
+        },
+        {
+          "Title": "Anna Begins",
+          "Year": "1993",
+          "Notes": "A key deep cut from the debut that many longtime fans point to as a pure example of the band’s early storytelling style."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1993–1994",
+          "Title": "Breakthrough with *August and Everything After*",
+          "Details": "The debut album made Counting Crows a major U.S. alternative-rock act, driven by heavy airplay for “Mr. Jones” and follow-up singles that kept the record on rock radio for years."
+        },
+        {
+          "Year": "1994",
+          "Title": "MTV Video Music Award win for “Mr. Jones”",
+          "Details": "The “Mr. Jones” video won the MTV Video Music Award for Best New Artist in a Video, reflecting the band’s rapid rise during the early‑’90s alternative boom."
+        },
+        {
+          "Year": "1995",
+          "Title": "Grammy nominations",
+          "Details": "The band earned two nominations at the 37th Annual GRAMMY Awards, including Best New Artist and Best Rock Performance by a Duo or Group with Vocal for “Round Here.”"
+        },
+        {
+          "Year": "1995",
+          "Title": "American Music Award: Favorite Alternative Artist",
+          "Details": "Counting Crows won Favorite Alternative Artist at the American Music Awards, further cementing their mainstream breakthrough."
+        },
+        {
+          "Year": "1996",
+          "Title": "*Recovering the Satellites* reaches No. 1 in the U.S.",
+          "Details": "Their second album debuted at No. 1 on the Billboard 200, proving the band’s success extended beyond a single hit and deepening their album-driven reputation."
+        },
+        {
+          "Year": "2005",
+          "Title": "Academy Award nomination for “Accidentally in Love”",
+          "Details": "Written for *Shrek 2*, the song received an Academy Award nomination for Best Original Song and additional major-awards recognition."
+        },
+        {
+          "Year": "2025",
+          "Title": "Return with *Butter Miracle, The Complete Sweets!*",
+          "Details": "The band released a new full-length album via BMG and supported it with extensive touring, extending their catalog into the 2020s while remaining a reliable concert draw."
+        }
+      ],
+      "KeyFacts": [
+        "Founded by Adam Duritz and David Bryson in the Berkeley, California area, with a core identity built around narrative songwriting and performance-driven arrangements.",
+        "The debut album *August and Everything After* became a multi‑platinum release in the U.S., and its singles established the band as a defining presence on 1990s alternative rock radio.",
+        "Counting Crows are known for reshaping songs live—extended intros, altered tempos, and dynamic builds are common in concert.",
+        "“Accidentally in Love,” written for *Shrek 2*, brought Academy Award recognition and remains one of the band’s biggest crossover singles.",
+        "In 2025, the band expanded the *Butter Miracle* era into a full album with *Butter Miracle, The Complete Sweets!*."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.countingcrows.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Counting_Crows",
+        "Discography": "https://en.wikipedia.org/wiki/Counting_Crows_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Adam Duritz",
+          "Roles": [
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1991–present",
+          "Overview": "Founding frontman and principal lyricist whose narrative songwriting and expressive vocals define Counting Crows on record and in their improvisational live shows.",
+          "Bio": {
+            "BioID": "bio-counting-crows-adam-duritz",
+            "ArtistID": "counting-crows",
+            "ArtistName": "Counting Crows",
+            "MemberName": "Adam Duritz",
+            "FullName": "Adam Fredric Duritz",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Piano",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "alternative rock",
+              "folk rock",
+              "pop rock"
+            ],
+            "Birth": {
+              "Date": "1964-08-01",
+              "Place": "Baltimore, Maryland, United States"
+            },
+            "ActiveYears": [
+              "1990–present"
+            ],
+            "AssociatedActs": [
+              "Counting Crows",
+              "The Himalayans",
+              "Sordid Humor",
+              "Mod-L Society"
+            ],
+            "KeyAlbums": [
+              "August and Everything After",
+              "Recovering the Satellites",
+              "This Desert Life",
+              "Hard Candy",
+              "Saturday Nights & Sunday Mornings",
+              "Somewhere Under Wonderland",
+              "Butter Miracle, The Complete Sweets!"
+            ],
+            "KeySongs": [
+              "Mr. Jones",
+              "Round Here",
+              "A Long December",
+              "Accidentally in Love",
+              "Hanginaround",
+              "Colorblind"
+            ],
+            "Achievements": [
+              "Primary lyricist and co-founder of Counting Crows, central to the band’s multi‑platinum breakthrough and long-term touring identity.",
+              "Co-wrote “Accidentally in Love” for *Shrek 2*, earning Academy Award recognition and widening the band’s audience."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.countingcrows.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Adam_Duritz"
+            },
+            "Biography": "Adam Duritz is the founding vocalist, primary lyricist, and most recognizable voice of Counting Crows. His writing centers on characters and scenes—small conversations, late‑night streets, fleeting romances—and he delivers them with an elastic phrasing that can turn intimate details into arena-sized choruses.\n\nBorn in Baltimore, Maryland, in 1964, Duritz moved to California as a child and developed a strong attachment to the Bay Area’s music culture. Before Counting Crows, he sang in local projects and honed a songwriter’s ear for melody and narrative, building the habits that would define the band’s debut era.\n\nIn 1991 he and guitarist/producer David Bryson formed the band that became Counting Crows, quickly gaining attention for the strength of Duritz’s songs and his intense, lived‑in vocal performances. Early demos drew label interest and led to a major deal that set the stage for their rapid breakout.\n\n*August and Everything After* (1993) introduced Duritz’s signature mix of yearning and observational detail. Songs like “Mr. Jones” and “Round Here” made him a defining voice of 1990s alternative rock while still feeling rooted in folk storytelling and classic songcraft.\n\nDuritz pushed the band into more expansive, road-worn territory on *Recovering the Satellites* (1996), where his lyrics often feel like pages written between shows. The album’s success helped move Counting Crows from a debut phenomenon to an enduring headlining act.\n\nAcross later records—from *This Desert Life* and *Hard Candy* to *Saturday Nights & Sunday Mornings*—Duritz kept the band’s identity anchored in story and melody while experimenting with tone, tempo, and arrangement. Whether writing a driving rock single or a quiet ballad, he tends to favor specificity: names, places, and moments that feel real even when the story is impressionistic.\n\nDuritz also co-wrote “Accidentally in Love” for *Shrek 2*, a rare Counting Crows song designed for pure lift and bright momentum. The track brought Academy Award recognition and underscored his versatility—able to pivot from introspective character studies to pop craftsmanship without losing his distinctive voice.\n\nIn the 2020s, Duritz led the band’s return to new material culminating in *Butter Miracle, The Complete Sweets!* (2025). The release highlighted his continued focus on long-form storytelling and reaffirmed why Counting Crows remain a concert staple: he can still make a room feel like it’s living inside a song."
+          }
+        },
+        {
+          "Name": "David Bryson",
+          "Roles": [
+            "rhythm guitar",
+            "backing vocals",
+            "songwriting"
+          ],
+          "Years": "1991–present",
+          "Overview": "Founding guitarist whose steady rhythm work and arranging instincts helped define the band’s early sound and remain a constant through decades of touring.",
+          "Bio": {
+            "BioID": "bio-counting-crows-david-bryson",
+            "ArtistID": "counting-crows",
+            "ArtistName": "Counting Crows",
+            "MemberName": "David Bryson",
+            "FullName": "David Bryson",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Guitarist",
+              "Songwriter"
+            ],
+            "Genres": [
+              "alternative rock",
+              "roots rock",
+              "jangle pop"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1991–present"
+            ],
+            "AssociatedActs": [
+              "Counting Crows"
+            ],
+            "KeyAlbums": [
+              "August and Everything After",
+              "Recovering the Satellites",
+              "This Desert Life",
+              "Hard Candy",
+              "Saturday Nights & Sunday Mornings",
+              "Somewhere Under Wonderland",
+              "Butter Miracle, The Complete Sweets!"
+            ],
+            "KeySongs": [
+              "Mr. Jones",
+              "Round Here",
+              "Rain King",
+              "A Long December",
+              "Hanginaround"
+            ],
+            "Achievements": [
+              "Co-founded Counting Crows with Adam Duritz and helped shape the band’s guitar-forward, album-first identity.",
+              "A long-term touring anchor whose rhythm-guitar feel supports the band’s dynamic, reimagined live arrangements."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.countingcrows.com/"
+            },
+            "Biography": "David Bryson is Counting Crows’ founding rhythm guitarist and a key architect of the band’s early sound. His playing favors clarity and momentum—ringing chord shapes, bright arpeggios, and a steady rhythmic pulse that gives Duritz’s vocal lines room to land.\n\nAs co-founder (with Adam Duritz), Bryson helped shape the group in Berkeley’s early‑’90s scene, guiding arrangements and building the musical framework for songs that would become staples of modern rock radio. His ear for texture and structure is a big part of why the debut record feels both intimate and anthemic.\n\nOn *August and Everything After*, Bryson’s guitar work bridges classic jangle pop and roots rock with the alternative-rock energy of the era. Even in a band with multiple guitar voices, his role is often the glue—keeping the harmonic center stable while leads and keyboards color around it.\n\nBryson has remained a constant presence through lineup changes, tours, and long album cycles, which is rare for a 1990s breakout act with a decades-long career. That continuity makes him central to the “Counting Crows sound,” even when the band experiments with different tempos and production styles.\n\nLive, Bryson’s rhythm playing is the engine that lets the band stretch songs without losing shape. Counting Crows are known for improvisational sections and dynamic builds in concert, and his steady time and chord choices help those moments feel earned rather than loose.\n\nAs the catalog expanded through *Recovering the Satellites*, *This Desert Life*, and beyond, Bryson’s job increasingly became balancing detail and drive—finding parts that support Duritz’s storytelling while still pushing the band forward. He’s a quiet arranger, often choosing the simplest part that makes everything else read more clearly.\n\nBryson has also contributed within the band’s collaborative writing process, helping shape ideas from early sketches into finished recordings. His influence is apparent in the way many Counting Crows songs bloom from conversational verses into wide-open choruses.\n\nDecades into the band’s run, Bryson remains the anchor of the rhythm-guitar chair. In Counting Crows, his consistency is part of the identity: bright, human guitar tones and a feel that keeps the band grounded no matter how far the performance wanders."
+          }
+        },
+        {
+          "Name": "Dan Vickrey",
+          "Roles": [
+            "lead guitar",
+            "backing vocals",
+            "songwriting"
+          ],
+          "Years": "1994–present",
+          "Overview": "Lead guitarist since 1994, known for melodic, song-serving lead work and co-writing contributions that helped define the band’s post-debut sound.",
+          "Bio": {
+            "BioID": "bio-counting-crows-dan-vickrey",
+            "ArtistID": "counting-crows",
+            "ArtistName": "Counting Crows",
+            "MemberName": "Dan Vickrey",
+            "FullName": "Daniel Vickrey",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Guitarist",
+              "Songwriter"
+            ],
+            "Genres": [
+              "alternative rock",
+              "pop rock",
+              "rock"
+            ],
+            "Birth": {
+              "Date": "1966-08-26",
+              "Place": "Walnut Creek, California, United States"
+            },
+            "ActiveYears": [
+              "1994–present"
+            ],
+            "AssociatedActs": [
+              "Counting Crows"
+            ],
+            "KeyAlbums": [
+              "Recovering the Satellites",
+              "This Desert Life",
+              "Hard Candy",
+              "Saturday Nights & Sunday Mornings",
+              "Somewhere Under Wonderland",
+              "Butter Miracle, The Complete Sweets!"
+            ],
+            "KeySongs": [
+              "A Long December",
+              "Hanginaround",
+              "Colorblind",
+              "Accidentally in Love"
+            ],
+            "Achievements": [
+              "Joined in 1994 and became the band’s long-term lead guitarist, adding melodic hooks and textures central to their live identity.",
+              "Co-wrote “Accidentally in Love,” which earned Academy Award recognition and remains a key late-era signature."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.countingcrows.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dan_Vickrey"
+            },
+            "Biography": "Dan Vickrey joined Counting Crows in 1994 and became the band’s lead guitarist, adding a sharper, more melodic edge to their sound. His parts often function like a second voice—answering Duritz’s lines with hooks, bends, and brief, expressive phrases rather than flashy solos.\n\nBorn in Walnut Creek, California, in 1966, Vickrey arrived just as the band’s debut success was turning them into a relentless touring machine. His ability to play with precision while still sounding loose and human fit perfectly with a group that valued performance dynamics as much as studio polish.\n\nVickrey’s guitar work helped define the mid‑’90s era, when Counting Crows shifted from the debut’s jangly immediacy to the more expansive moods of *Recovering the Satellites*. The record’s darker textures and bigger crescendos gave him space to craft lines that feel both lyrical and urgent.\n\nOver time, Vickrey became a key collaborator in the band’s writing room, shaping arrangements with a player’s sense of what will translate on stage. In Counting Crows, lead guitar isn’t just ornamentation; it’s part of the storytelling, and Vickrey leans into that.\n\nHe’s also known for adding harmony vocals and subtle backing textures, helping the band move between intimate verses and explosive choruses without a hard seam. That supporting role matters in a catalog that often hinges on tension-and-release.\n\nVickrey co-wrote “Accidentally in Love,” the *Shrek 2* single that earned Academy Award recognition, demonstrating his ability to contribute to a song built for bright, pop-forward lift. It’s a different kind of Counting Crows track—less brooding, more immediate—and his contributions helped it land with wide audiences.\n\nOn later albums like *Hard Candy* and *Saturday Nights & Sunday Mornings*, Vickrey continued to balance drive and detail, often using tone and phrasing to suggest mood shifts rather than changing the core groove. His playing can be crisp and biting or warm and round, depending on what the story needs.\n\nLong-term, Vickrey’s presence is one reason Counting Crows still sound unmistakably like themselves in concert. He brings both craft and feel: the kind of guitarist who can make a chorus lift a little higher, and a live jam feel like it always belonged there."
+          }
+        },
+        {
+          "Name": "Charlie Gillingham",
+          "Roles": [
+            "keyboards",
+            "piano",
+            "organ"
+          ],
+          "Years": "1992–present",
+          "Overview": "Keyboardist who provides harmonic depth and cinematic atmosphere, shaping both studio arrangements and the extended dynamics of the live show.",
+          "Bio": {
+            "BioID": "bio-counting-crows-charlie-gillingham",
+            "ArtistID": "counting-crows",
+            "ArtistName": "Counting Crows",
+            "MemberName": "Charlie Gillingham",
+            "FullName": "Charlie Gillingham",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Piano",
+              "Organ"
+            ],
+            "Occupations": [
+              "Musician",
+              "Keyboardist"
+            ],
+            "Genres": [
+              "alternative rock",
+              "roots rock",
+              "pop rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1992–present"
+            ],
+            "AssociatedActs": [
+              "Counting Crows"
+            ],
+            "KeyAlbums": [
+              "August and Everything After",
+              "Recovering the Satellites",
+              "This Desert Life",
+              "Hard Candy",
+              "Saturday Nights & Sunday Mornings",
+              "Somewhere Under Wonderland",
+              "Butter Miracle, The Complete Sweets!"
+            ],
+            "KeySongs": [
+              "Round Here",
+              "A Long December",
+              "Colorblind",
+              "Anna Begins",
+              "Hanginaround"
+            ],
+            "Achievements": [
+              "A core architect of the band’s atmosphere and build-and-release dynamics through piano and organ textures.",
+              "Helps the group reshape familiar songs live with alternate voicings, transitions, and mood-setting intros/outros."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.countingcrows.com/"
+            },
+            "Biography": "Charlie Gillingham is Counting Crows’ keyboardist, responsible for much of the band’s harmonic color and atmospheric weight. His parts often sit just under the guitars—piano figures, organ swells, and small melodic accents that turn a verse into a scene.\n\nJoining the group in the early years of their rise, Gillingham helped expand Counting Crows beyond a straightforward guitar band. The keyboards add warmth and drama, especially in songs that build slowly toward catharsis, where his sustained chords and rising lines help the band climb.\n\nOn the band’s classic mid‑’90s material, Gillingham’s role is frequently to deepen the emotional space without crowding the vocal. The best Counting Crows arrangements leave plenty of air around Duritz’s phrasing, and keyboards are crucial to making that space feel intentional rather than empty.\n\nLive, his contributions are even more obvious: he can shift the mood of a familiar hit with a different piano voicing, a darker organ tone, or a subtle rhythmic push. Counting Crows concerts often feature extended intros and outros, and keyboards are a major tool for setting those scenes.\n\nGillingham’s playing supports the band’s roots influences, adding gospel‑leaning chord movement or barroom‑piano energy when a song wants to feel closer to Americana than alternative rock. That flexibility helps the group move between styles without sounding like they’re changing bands.\n\nAcross albums from *Recovering the Satellites* through later releases, Gillingham has been a stabilizing force when the guitar lineup and bass chair have shifted. His consistent palette—warm keys, supportive dynamics—keeps the band’s emotional signature intact.\n\nIn the studio, he’s the kind of musician who makes songs feel finished: a short counter‑melody here, a soft chord swell there, the detail that makes the chorus land. Those choices often don’t call attention to themselves, but they’re what listeners miss when they’re gone.\n\nDecades into the band’s career, Gillingham remains central to the Counting Crows sound, especially in their most cinematic moments. When a song needs to feel like a memory opening up, he’s often the one holding the door."
+          }
+        },
+        {
+          "Name": "David Immerglück",
+          "Roles": [
+            "guitar",
+            "multi-instrumentalist",
+            "backing vocals"
+          ],
+          "Years": "1999–present",
+          "Overview": "Multi-instrumentalist who broadened the band’s sound with guitars, mandolin, and roots-oriented textures, becoming central to the modern lineup.",
+          "Bio": {
+            "BioID": "bio-counting-crows-david-immergl-ck",
+            "ArtistID": "counting-crows",
+            "ArtistName": "Counting Crows",
+            "MemberName": "David Immerglück",
+            "FullName": "David A. Immerglück",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Mandolin",
+              "Pedal steel guitar",
+              "Bass"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "alternative rock",
+              "folk rock",
+              "rock"
+            ],
+            "Birth": {
+              "Date": "1961-05-03",
+              "Place": "Berkeley, California, United States"
+            },
+            "ActiveYears": [
+              "1985–present"
+            ],
+            "AssociatedActs": [
+              "Counting Crows",
+              "Camper Van Beethoven",
+              "Monks of Doom",
+              "Cracker"
+            ],
+            "KeyAlbums": [
+              "This Desert Life",
+              "Hard Candy",
+              "Saturday Nights & Sunday Mornings",
+              "Somewhere Under Wonderland",
+              "Butter Miracle, The Complete Sweets!"
+            ],
+            "KeySongs": [
+              "Hanginaround",
+              "Colorblind",
+              "Accidentally in Love"
+            ],
+            "Achievements": [
+              "Joined in the late 1990s and became a key part of Counting Crows’ expanded instrumentation and improvisational live approach.",
+              "Known for multi-instrument versatility that adds Americana and roots detail to the band’s guitar-and-keys foundation."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.countingcrows.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/David_Immergl%C3%BCck"
+            },
+            "Biography": "David Immerglück is Counting Crows’ multi-instrumentalist, widely admired for adding color and versatility to the band’s live and studio sound. Best known for guitar, he also brings mandolin, pedal steel, bass, and other textures that widen the band’s roots-rock palette.\n\nBorn in Berkeley, California, in 1961, Immerglück built a reputation in the alternative scene well before joining Counting Crows, notably through his work with Camper Van Beethoven and related projects. That background gave him a knack for moving between styles—folk, rock, and experimental textures—without losing the thread of a song.\n\nHe joined Counting Crows in the late 1990s, a point when the band was already established and looking to expand its sonic vocabulary. Immerglück’s ability to switch instruments and tones helped the group evolve beyond its early jangle-driven identity while staying true to its narrative core.\n\nIn live settings, he’s often the band’s secret weapon: layering parts, taking melodic leads, or adding Americana flourishes that make a familiar hit feel freshly arranged. Because Counting Crows are known for stretching songs in concert, that flexibility matters as much as virtuosity.\n\nImmerglück’s playing supports Duritz’s storytelling by shaping the emotional temperature of a section—bright, chiming lines for lift; darker, sliding tones for regret; spare, acoustic touches for intimacy. It’s less about spotlight solos and more about creating the world a lyric lives in.\n\nHis broader career also includes collaborations outside the band, reinforcing the sense that he’s valued for reliability, taste, and the ability to serve the song. In Counting Crows, those strengths show up whenever the arrangement needs a new color without clutter.\n\nAs the band moved into the 2000s and beyond, Immerglück helped keep the live show dynamic, offering alternate textures that let the group reimagine older material without rewriting it. That’s part of why Counting Crows sets can feel unpredictable even when they’re playing well-known songs.\n\nToday, Immerglück is a defining part of the modern Counting Crows lineup, embodying the band’s blend of rock muscle and roots detail. His presence makes the catalog feel bigger—more places to go inside the same story."
+          }
+        },
+        {
+          "Name": "Jim Bogios",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1996–present",
+          "Overview": "Drummer who anchors the band’s dynamic live shows with feel-driven grooves and controlled builds that support their performance-first approach.",
+          "Bio": {
+            "BioID": "bio-counting-crows-jim-bogios",
+            "ArtistID": "counting-crows",
+            "ArtistName": "Counting Crows",
+            "MemberName": "Jim Bogios",
+            "FullName": "Jim Bogios",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Drummer"
+            ],
+            "Genres": [
+              "alternative rock",
+              "roots rock",
+              "rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": "San Francisco Bay Area, California, United States"
+            },
+            "ActiveYears": [
+              "1990s–present"
+            ],
+            "AssociatedActs": [
+              "Counting Crows"
+            ],
+            "KeyAlbums": [
+              "This Desert Life",
+              "Hard Candy",
+              "Saturday Nights & Sunday Mornings",
+              "Somewhere Under Wonderland",
+              "Butter Miracle, The Complete Sweets!"
+            ],
+            "KeySongs": [
+              "Hanginaround",
+              "Accidentally in Love"
+            ],
+            "Achievements": [
+              "Longtime drummer who helped carry the band’s catalog through decades of touring with flexible dynamics and steady feel.",
+              "A key part of the live sound, supporting extended sections and reimagined arrangements without losing the groove."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://jimbogios.com/bio/"
+            },
+            "Biography": "Jim Bogios is Counting Crows’ drummer, known for grounding the band’s live shows with a mix of restraint and drive. In a group that often stretches songs and plays with tempo and dynamics on stage, his ability to keep the center steady is a major part of their concert identity.\n\nRaised in California’s Bay Area, Bogios developed as a working drummer in a region with deep rock and roots-music traditions. His approach favors feel over flash—locking in with bass and rhythm guitar, then opening up when a chorus needs to lift.\n\nBogios joined Counting Crows as the band’s catalog expanded and the touring schedule demanded both stamina and flexibility. His job was never simply to replicate drum parts; it was to help the band breathe and shift as performances evolved night to night.\n\nIn performance, Bogios often shapes songs through dynamics—tight, controlled verses and bigger, more explosive choruses that make Duritz’s vocal climaxes land. Counting Crows are a band that thrives on emotional build, and drums are a core tool for making that build feel physical.\n\nHe supports the group’s stylistic range, shifting from straight alternative-rock punch to looser, rootsy grooves when the arrangement leans toward Americana. That adaptability helps the band move between albums and eras inside the same set without jarring transitions.\n\nOffstage, Bogios represents the craft of being in a major touring band for decades: consistency, musical empathy, and the ability to keep time and feel intact across long runs. Those qualities are easy to underestimate until a band needs to stretch without drifting.\n\nHis drumming is often most noticeable in the in-between moments—small pushes into a chorus, subtle cymbal work under a quieter verse, a steady kick pattern that keeps a jam from floating away. It’s the kind of musicianship that disappears into the song because that’s the point.\n\nAs a longtime member of Counting Crows, Bogios has helped turn the band’s catalog into a living thing onstage. The records are the blueprint, but the show is the experience—and his drumming is one of the reasons it holds together."
+          }
+        },
+        {
+          "Name": "Millard Powers",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "2005–present",
+          "Overview": "Bassist since 2005 whose supportive, melodic low end and touring consistency helped stabilize the rhythm section through the band’s later era.",
+          "Bio": {
+            "BioID": "bio-counting-crows-millard-powers",
+            "ArtistID": "counting-crows",
+            "ArtistName": "Counting Crows",
+            "MemberName": "Millard Powers",
+            "FullName": "Avery Millard Powers III",
+            "PrimaryInstruments": [
+              "Bass",
+              "Upright bass",
+              "Piano",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Producer",
+              "Recording engineer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "alternative rock",
+              "power pop"
+            ],
+            "Birth": {
+              "Date": "1965-12-24",
+              "Place": "Greensboro, North Carolina, United States"
+            },
+            "ActiveYears": [
+              "1980s–present"
+            ],
+            "AssociatedActs": [
+              "Counting Crows",
+              "The Semantics",
+              "Majosha",
+              "Ben Folds"
+            ],
+            "KeyAlbums": [
+              "Saturday Nights & Sunday Mornings",
+              "Somewhere Under Wonderland",
+              "Butter Miracle, The Complete Sweets!"
+            ],
+            "KeySongs": [
+              "—"
+            ],
+            "Achievements": [
+              "Joined after Matt Malley’s departure and has played bass through the band’s later studio era while touring extensively as part of the core lineup.",
+              "A versatile musician and producer/engineer whose broader career informs a practical, song-first approach in Counting Crows’ rhythm section."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.countingcrows.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Millard_Powers"
+            },
+            "Biography": "Millard Powers is the bassist for Counting Crows, bringing a musical, melodic low end that supports the band’s guitar-and-keys arrangements. He joined the group in the mid‑2000s, helping stabilize the rhythm section through a long stretch of touring and later-era releases.\n\nBorn in Greensboro, North Carolina, in 1965, Powers built a career that spans performing, producing, and engineering. That broad background shows in his practical musicianship and studio-minded attention to detail.\n\nPowers stepped in after the departure of longtime bassist Matt Malley, first touring and then becoming a full member. That meant learning a deep catalog of well-known songs while also adapting to Counting Crows’ habit of reshaping arrangements onstage.\n\nAs a player, he tends toward supportive lines that keep the pocket clear for Duritz’s phrasing while still adding melodic movement when the band opens up. In Counting Crows, the bass role is as much about guiding the band through dynamic shifts as it is about underpinning chords.\n\nHe has appeared on the band’s later studio work, including *Saturday Nights & Sunday Mornings* and subsequent releases, helping carry the sound into the 2010s and 2020s. His steady presence matters in a band where the emotional arc of a song often depends on a controlled, gradual build.\n\nBeyond Counting Crows, Powers has been involved in projects with other notable musicians and has a reputation for being versatile across styles. That versatility fits a band whose catalog can move from jangly rock to balladry to roots-leaning grooves in a single set.\n\nOn stage, Powers often anchors the band during extended sections—keeping the groove consistent while guitars and keys explore alternate textures. In a performance-driven group, that kind of grounding allows the frontman to take risks with phrasing and pacing.\n\nOverall, Powers represents the later-era continuity of Counting Crows: a musician who helps keep a classic catalog alive and adaptable while the band continues to release and tour with new material."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Steve Bowman",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1991–1994",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "August and Everything After"
+          ],
+          "Replacing": "Original drummer in the band’s formative Berkeley period and on the breakthrough debut era",
+          "ReplacedBy": "Ben Mize",
+          "Overview": "Counting Crows’ original drummer during their early rise, appearing in the debut era and helping establish the band’s initial live identity before the group’s mid‑’90s lineup shift."
+        },
+        {
+          "Name": "Ben Mize",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1994–2002",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Recovering the Satellites",
+            "This Desert Life",
+            "Hard Candy"
+          ],
+          "Replacing": "Joined after the debut era as the band transitioned into a heavier touring schedule and a more expansive second-album sound",
+          "ReplacedBy": "Jim Bogios",
+          "Overview": "Drummer through the band’s key late‑’90s and early‑2000s releases, helping power the dynamic builds and radio-forward sound of albums like *Recovering the Satellites* and *This Desert Life*."
+        },
+        {
+          "Name": "Matt Malley",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1991–2005",
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [
+            "August and Everything After",
+            "Recovering the Satellites",
+            "This Desert Life",
+            "Hard Candy"
+          ],
+          "Replacing": "Founding-era bassist who helped anchor the debut through the band’s early peak years",
+          "ReplacedBy": "Millard Powers",
+          "Overview": "Longtime bassist during Counting Crows’ classic run from the debut through the early 2000s, providing a steady low-end foundation as the band moved from jangly breakthrough singles to bigger, moodier album statements."
+        }
+      ]
     },
     {
       "ArtistID": "the-cranberries",
