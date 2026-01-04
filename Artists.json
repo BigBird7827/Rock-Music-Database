@@ -8721,8 +8721,729 @@
     {
       "ArtistID": "chicago",
       "Name": "Chicago",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Chicago",
+        "Region": "Illinois",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1967–present"
+      ],
+      "Genres": [
+        "rock",
+        "soft rock",
+        "pop rock",
+        "jazz rock"
+      ],
+      "Labels": [
+        "Columbia",
+        "Warner Bros.",
+        "Full Moon",
+        "Rhino",
+        "Reprise",
+        "Chicago Records/Chicago Records II",
+        "Frontiers",
+        "BMG"
+      ],
+      "Overview": "Chicago is a long-running American rock band formed in Chicago, Illinois, in 1967, famous for proving that horns could be a core rock instrument rather than a novelty. Their classic-era sound married a tight rhythm section and electric guitar with bold brass and woodwind writing—often mixing rock, jazz, and pop into songs that could stretch on stage but still land as radio singles.\n\nAfter breaking through in the early 1970s, Chicago became one of the most commercially durable acts in U.S. music, scoring hits across multiple decades. The band’s catalog ranges from hard-driving early staples like “25 or 6 to 4” to era-defining ballads such as “If You Leave Me Now” and “Hard to Say I’m Sorry,” and their longevity has kept them on the road as a major touring attraction well into the modern era.",
+      "NotableAlbums": [
+        {
+          "Title": "Chicago Transit Authority",
+          "Year": "1969",
+          "Notes": "The explosive debut: long-form horn-rock, bluesy guitar, and multiple future classics—an immediate statement of the band’s 'rock with horns' identity."
+        },
+        {
+          "Title": "Chicago II",
+          "Year": "1970",
+          "Notes": "A landmark double album balancing radio hits with ambitious suites, including the multi-part 'Ballet for a Girl in Buchannon' that defined their early scope."
+        },
+        {
+          "Title": "Chicago V",
+          "Year": "1972",
+          "Notes": "A tighter, more single-focused record that still hits hard, featuring one of their most enduring anthems, “Saturday in the Park.”"
+        },
+        {
+          "Title": "Chicago VII",
+          "Year": "1974",
+          "Notes": "A sprawling mid-’70s peak that leans into jazz-fusion textures while retaining pop craft—often cited as a high point of the classic lineup’s musicianship."
+        },
+        {
+          "Title": "Chicago X",
+          "Year": "1976",
+          "Notes": "The album that delivered their first U.S. No. 1 single, “If You Leave Me Now,” and cemented Chicago as a soft-rock powerhouse as well as a horn band."
+        },
+        {
+          "Title": "Chicago 16",
+          "Year": "1982",
+          "Notes": "A major comeback that relaunched the band in the MTV era; sleek production and huge ballads helped Chicago dominate early-’80s radio again."
+        },
+        {
+          "Title": "Chicago 17",
+          "Year": "1984",
+          "Notes": "Their biggest 1980s blockbuster, packed with hits and polished pop-rock that expanded Chicago’s audience and kept them at the top of the charts."
+        },
+        {
+          "Title": "Chicago 19",
+          "Year": "1986",
+          "Notes": "A late-’80s hit machine with multiple big singles, continuing the band’s run as an adult-contemporary and pop staple."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "25 or 6 to 4",
+          "Year": "1970",
+          "Notes": "A classic riff-driven rocker that became one of Chicago’s definitive early tracks and a staple of horn-driven rock radio."
+        },
+        {
+          "Title": "Does Anybody Really Know What Time It Is?",
+          "Year": "1969",
+          "Notes": "A witty, horn-forward early hit that showcased the band’s knack for merging sharp songwriting with ambitious arrangements."
+        },
+        {
+          "Title": "Beginnings",
+          "Year": "1969",
+          "Notes": "A warm, building groove that captures the band’s optimistic early voice, blending pop accessibility with ensemble muscle."
+        },
+        {
+          "Title": "Saturday in the Park",
+          "Year": "1972",
+          "Notes": "One of their most enduring sing-alongs—bright, cinematic, and instantly recognizable from the first horn figure."
+        },
+        {
+          "Title": "If You Leave Me Now",
+          "Year": "1976",
+          "Notes": "Chicago’s first U.S. No. 1 single and a defining soft-rock ballad of the era, anchored by Peter Cetera’s lead vocal."
+        },
+        {
+          "Title": "Hard to Say I’m Sorry",
+          "Year": "1982",
+          "Notes": "A massive early-’80s comeback ballad that helped reintroduce Chicago to pop radio and a new generation of listeners."
+        },
+        {
+          "Title": "You’re the Inspiration",
+          "Year": "1984",
+          "Notes": "A signature power ballad from the band’s 1980s peak—one of their most-requested songs and a long-running concert highlight."
+        },
+        {
+          "Title": "Look Away",
+          "Year": "1988",
+          "Notes": "A late-’80s chart-topper that extended Chicago’s hit streak into another decade and reinforced their adult-pop dominance."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2016",
+          "Title": "Rock and Roll Hall of Fame induction",
+          "Details": "Chicago’s original lineup was inducted into the Rock and Roll Hall of Fame, recognizing the band’s long-term impact and enduring commercial success."
+        },
+        {
+          "Year": "1976",
+          "Title": "First U.S. No. 1 single with “If You Leave Me Now”",
+          "Details": "The ballad became Chicago’s first Billboard Hot 100 No. 1 and one of their biggest international hits, defining their soft-rock crossover."
+        },
+        {
+          "Year": "1977",
+          "Title": "Grammy wins tied to “If You Leave Me Now”",
+          "Details": "The song earned Grammy recognition, including awards for the group’s vocal performance and for the arrangement, marking Chicago’s first Grammy wins."
+        },
+        {
+          "Year": "1970s–1980s",
+          "Title": "Hits across multiple decades",
+          "Details": "Chicago placed major singles on U.S. charts in five different decades, with a catalog that spans hard rock staples, horn-driven pop, and era-defining ballads."
+        },
+        {
+          "Year": "Career",
+          "Title": "One of the best-selling American bands",
+          "Details": "Over their long recording and touring run, Chicago became one of America’s most commercially successful bands, with record sales measured in the tens of millions and a deep run of Top 10 singles."
+        }
+      ],
+      "KeyFacts": [
+        "Chicago’s signature concept is a 'rock band with horns' where brass and woodwinds carry hooks as prominently as guitars and vocals.",
+        "Their early albums blended extended suite-style writing with radio-ready singles, helping them bridge progressive ambition and mainstream pop reach.",
+        "The band’s catalog includes hard-driving classic-rock staples and some of the most-played soft-rock ballads of the 1970s and 1980s."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://chicagotheband.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Chicago_(band)",
+        "Discography": "https://en.wikipedia.org/wiki/Chicago_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Robert Lamm",
+          "Roles": [
+            "keyboards",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1967–present",
+          "Overview": "Founding keyboardist and one of Chicago’s primary writer-singers, responsible for many of the band’s defining early hits and a consistent voice across decades.",
+          "Bio": {
+            "BioID": "bio-chicago-robert-lamm",
+            "ArtistID": "chicago",
+            "ArtistName": "Chicago",
+            "MemberName": "Robert Lamm",
+            "FullName": "Robert William Lamm",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "pop rock",
+              "jazz rock",
+              "soft rock"
+            ],
+            "Birth": {
+              "Date": "1944-10-13",
+              "Place": "Brooklyn, New York, United States"
+            },
+            "ActiveYears": [
+              "1967–present"
+            ],
+            "AssociatedActs": [
+              "Chicago"
+            ],
+            "KeyAlbums": [
+              "Chicago Transit Authority",
+              "Chicago II",
+              "Chicago V",
+              "Chicago X",
+              "Chicago 17"
+            ],
+            "KeySongs": [
+              "Does Anybody Really Know What Time It Is?",
+              "Beginnings",
+              "25 or 6 to 4",
+              "Saturday in the Park",
+              "Dialogue (Parts I & II)"
+            ],
+            "Achievements": [
+              "Primary writer and lead vocalist on a large share of Chicago’s classic-era catalog, helping define the band’s identity as a horn-driven rock group with pop reach.",
+              "Wrote or co-wrote multiple signature songs that became staples of 1970s rock radio and remain central to Chicago’s live set."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://robertlammsolo.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Robert_Lamm"
+            },
+            "Biography": "Robert William Lamm (born October 13, 1944, in Brooklyn, New York) is a founding member of Chicago and one of the band’s defining writer-singers. As a keyboardist and vocalist, he helped set the group’s early identity: big, horn-driven rock built around strong melodies, sharp lyrics, and a band that could stretch like a jazz ensemble without losing the hook.\n\nLamm moved through the late-1960s Chicago music scene as the group formed from a circle of friends who wanted something bigger than a typical rock lineup. In the band’s earliest years—first under names like The Big Thing and then as The Chicago Transit Authority—he was central to shaping the repertoire and the idea that horns would be a front-line voice, not just decoration.\n\nOn the debut album, Chicago Transit Authority (1969), Lamm emerged immediately as a primary songwriter and lead voice. Songs such as “Does Anybody Really Know What Time It Is?” and “Beginnings” showed a gift for mixing everyday observations with ambitious arrangements, and they helped establish Chicago as a band that could compete on rock radio while still sounding unlike anyone else.\n\nIn the early 1970s, Lamm’s writing continued to supply the band’s backbone as Chicago expanded from long-form suites into concise singles without abandoning its musicianship. “25 or 6 to 4” became one of the era’s great rock riffs, while “Saturday in the Park” captured a vivid, sing-along snapshot that turned into a perennial classic.\n\nLamm was also a key “band glue” figure as Chicago navigated the pressures of nonstop touring, shifting musical trends, and major internal changes. The loss of guitarist Terry Kath in 1978 and later lineup transitions forced the group to redefine itself, and Lamm’s presence and catalog helped keep continuity between Chicago’s early, experimental years and its later pop era.\n\nEven as Chicago leaned more heavily into ballads and polished production in the 1980s, Lamm remained a consistent creative force—writing, singing, and keeping the band’s earlier DNA in the set list and arrangements. He continued recording and touring across decades, making him one of the longest-running voices in the group’s live identity.\n\nOutside the band, Lamm has pursued solo work and side projects, but his public legacy is inseparable from Chicago’s greatest run of songs. His writing is often the bridge between Chicago’s brass-and-guitar power and its pop accessibility: tunes that feel big and musical, but still land like radio singles.\n\nAcross Chicago’s long career, Lamm’s signature is a combination of melodic clarity and band-sized ambition—songs built to be sung by crowds, but arranged like a working musician’s dream. For many listeners, his voice and keyboard lines are the sound of classic Chicago: warm, sharp, and instantly recognizable."
+          }
+        },
+        {
+          "Name": "James Pankow",
+          "Roles": [
+            "trombone",
+            "horn arranger",
+            "songwriting",
+            "backing vocals"
+          ],
+          "Years": "1967–present",
+          "Overview": "Founding trombonist and the band’s best-known horn arranger, shaping the brass writing that made Chicago’s sound instantly recognizable.",
+          "Bio": {
+            "BioID": "bio-chicago-james-pankow",
+            "ArtistID": "chicago",
+            "ArtistName": "Chicago",
+            "MemberName": "James Pankow",
+            "FullName": "James Carter Pankow",
+            "PrimaryInstruments": [
+              "Trombone",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Arranger"
+            ],
+            "Genres": [
+              "rock",
+              "pop rock",
+              "jazz rock",
+              "soft rock"
+            ],
+            "Birth": {
+              "Date": "1947-08-20",
+              "Place": "St. Louis, Missouri, United States"
+            },
+            "ActiveYears": [
+              "1967–present"
+            ],
+            "AssociatedActs": [
+              "Chicago"
+            ],
+            "KeyAlbums": [
+              "Chicago II",
+              "Chicago V",
+              "Chicago VII",
+              "Chicago X",
+              "Chicago 17"
+            ],
+            "KeySongs": [
+              "Make Me Smile",
+              "Colour My World",
+              "Saturday in the Park",
+              "Just You 'n' Me",
+              "Feelin' Stronger Every Day"
+            ],
+            "Achievements": [
+              "Composed and arranged horn parts that turned Chicago’s brass into hook-making lead voices across decades of hits.",
+              "Created the multi-part 'Ballet for a Girl in Buchannon' suite on Chicago II, producing enduring classics and showcasing Chicago’s ambitious early style."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://chicagotheband.com/james-pankow/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/James_Pankow"
+            },
+            "Biography": "James Carter Pankow (born August 20, 1947, in St. Louis, Missouri) is Chicago’s founding trombonist and the architect of much of the band’s horn identity. Beyond performance, he became the group’s best-known brass arranger, shaping the way the horn section functions as a second lead voice—answering, reinforcing, and sometimes competing with the vocals.\n\nPankow came up as a dedicated young musician who was as interested in arranging as he was in playing. When Chicago formed in the late 1960s, he helped prove the band’s core concept: horns weren’t an add-on, they were a defining character in the songs. That idea became a Chicago trademark and one of the reasons the band stood out immediately from guitar-only rock groups.\n\nHis most famous early contribution is “Ballet for a Girl in Buchannon,” a multi-part suite that takes up much of Chicago II (1970). Within that long-form framework are enduring staples like “Make Me Smile” and “Colour My World,” songs that demonstrated Chicago could be both adventurous and emotional without sounding academic or stiff.\n\nThrough the band’s 1970s peak, Pankow’s arrangements gave Chicago its distinctive punch—tight riffs, bright stabs, and melodic counterlines that felt like another singer. Even when the band moved toward shorter singles, his brass writing kept the sound immediate and physical, the way a great horn band can turn a chorus into a celebration.\n\nPankow also contributed as a songwriter and occasional lead vocalist, but his deeper impact is structural: he helped Chicago sound like Chicago from the inside out. The horn section’s blend, voicing, and pacing—how it builds tension, releases it, and then steps aside for the next lyric—owes a lot to his arranging instincts.\n\nAs musical tastes shifted, the band’s production changed, and the lineup evolved, Pankow remained a constant musical identity marker. Whether Chicago was stretching out onstage or chasing radio formats, his trombone tone and horn architecture kept the group’s sound grounded in that original “rock band with horns” vision.\n\nOver time, Pankow’s work has also made him a model for rock-and-pop horn writing—arrangements that are hooky enough to be remembered, but musical enough to reward close listening. Many listeners can hum Chicago horn lines the way they hum guitar riffs, and that is largely by design.\n\nDecades into the band’s career, Pankow’s legacy is the idea that horns can be as central as guitars in rock. Chicago’s biggest songs often feel inseparable from their brass hooks, and his arranging helped make that possible—turning the horn section into one of the most recognizable voices in American popular music."
+          }
+        },
+        {
+          "Name": "Lee Loughnane",
+          "Roles": [
+            "trumpet",
+            "flugelhorn",
+            "backing vocals",
+            "songwriting"
+          ],
+          "Years": "1967–present",
+          "Overview": "Founding trumpet/flugelhorn player whose bright, precise horn lines are a core part of Chicago’s signature sound on record and on stage.",
+          "Bio": {
+            "BioID": "bio-chicago-lee-loughnane",
+            "ArtistID": "chicago",
+            "ArtistName": "Chicago",
+            "MemberName": "Lee Loughnane",
+            "FullName": "Lee David Loughnane",
+            "PrimaryInstruments": [
+              "Trumpet",
+              "Flugelhorn",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "pop rock",
+              "jazz rock",
+              "soft rock"
+            ],
+            "Birth": {
+              "Date": "1946-10-21",
+              "Place": "Elmwood Park, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1966–present"
+            ],
+            "AssociatedActs": [
+              "Chicago"
+            ],
+            "KeyAlbums": [
+              "Chicago Transit Authority",
+              "Chicago II",
+              "Chicago V",
+              "Chicago X",
+              "Chicago 17"
+            ],
+            "KeySongs": [
+              "25 or 6 to 4",
+              "Does Anybody Really Know What Time It Is?",
+              "Saturday in the Park",
+              "Hard to Say I'm Sorry",
+              "You're the Inspiration"
+            ],
+            "Achievements": [
+              "Core member of Chicago’s horn front line, helping define the band’s 'rock with horns' identity from the debut onward.",
+              "Maintained a consistent touring presence across decades, keeping the band’s classic-era sound anchored in its original brass voice."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://chicagotheband.com/lee-loughnane/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Lee_Loughnane"
+            },
+            "Biography": "Lee David Loughnane (born October 21, 1946, in the Chicago area) is Chicago’s founding trumpet and flugelhorn player and a key part of the band’s signature brass sound. Alongside trombonist James Pankow and woodwind multi-instrumentalist Walter Parazaider, he helped build the horn front line that made Chicago instantly identifiable.\n\nLoughnane’s playing is defined by precision and brightness—cutting through dense arrangements without sounding harsh, and adding melodic hooks that function like riffs. From Chicago’s earliest recordings, his trumpet lines helped translate the band’s jazz-influenced ambition into something that still felt like rock: loud, rhythmic, and built for big rooms.\n\nIn the early era, Chicago’s music often moved between extended passages and tight single-ready moments, and Loughnane’s role was to keep the horn voice clear in both settings. Whether the band was building long crescendos or snapping into a chorus, the trumpet was frequently the “headline” instrument—introducing themes, punctuating transitions, and giving the songs that stadium-sized shine.\n\nLive, Loughnane became part of Chicago’s identity as a touring powerhouse. The band’s reputation was built as much on stage as in the studio, and his consistency helped Chicago perform complex arrangements night after night with the confidence of a well-drilled big band—only louder, and with rock energy.\n\nHe has also contributed vocals and songwriting across Chicago’s catalog, but his most obvious fingerprint is the way the trumpet sits inside the band’s sound—never merely ornamental. Chicago’s horn section is often treated like a character that speaks back to the lead singer, and Loughnane’s tone is one of that character’s defining voices.\n\nAs Chicago’s lineup evolved through decades, Loughnane’s presence became a living connection to the band’s origin story. Even when the group’s production style shifted toward softer textures in the 1980s and beyond, the trumpet remained a reminder of the original concept: a rock band with horns up front.\n\nOver time, he has been one of the public faces of the group, representing the band’s history and continuing mission. For longtime fans, seeing Loughnane on stage is a direct link back to the late-1960s and early-1970s era when Chicago’s approach felt revolutionary on mainstream radio.\n\nLoughnane’s legacy is the sound of Chicago’s brass at full strength: bold, melodic, and disciplined. In a band built around ensemble playing, his trumpet is one of the clearest signatures—an instantly recognizable tone that helped define a whole lane of horn-driven American rock."
+          }
+        },
+        {
+          "Name": "Terry Kath",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1967–1978",
+          "Overview": "Original guitarist and a major early lead vocalist whose blues-rock power and expressive solos gave Chicago its edge in the classic era.",
+          "Bio": {
+            "BioID": "bio-chicago-terry-kath",
+            "ArtistID": "chicago",
+            "ArtistName": "Chicago",
+            "MemberName": "Terry Kath",
+            "FullName": "Terry Alan Kath",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "jazz rock",
+              "blues rock"
+            ],
+            "Birth": {
+              "Date": "1946-01-31",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1967–1978"
+            ],
+            "AssociatedActs": [
+              "Chicago"
+            ],
+            "KeyAlbums": [
+              "Chicago Transit Authority",
+              "Chicago II",
+              "Chicago III",
+              "Chicago V",
+              "Chicago VII"
+            ],
+            "KeySongs": [
+              "25 or 6 to 4",
+              "I'm a Man",
+              "Make Me Smile",
+              "Colour My World",
+              "Dialogue (Parts I & II)"
+            ],
+            "Achievements": [
+              "Defined Chicago’s early guitar sound—equal parts blues fire and rock discipline—on the band’s most ambitious records.",
+              "Remembered as a key creative force of the classic lineup; his death in 1978 marked a major turning point in the band’s history."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Terry_Kath"
+            },
+            "Biography": "Terry Alan Kath (January 31, 1946 – January 23, 1978) was Chicago’s original guitarist and one of its most distinctive early voices. A powerful player with a blues-rock edge, he gave the band its grit and fire—balancing the horn section’s precision with a guitar sound that could be tender, explosive, or both in the same song.\n\nIn Chicago’s formative years, Kath wasn’t only a guitarist; he was also a compelling vocalist and songwriter whose personality helped define the group’s early stage presence. The band’s first records captured a musician who could move from tight funk grooves to extended rock solos without losing the pocket, which is a big reason Chicago’s early music felt so alive.\n\nOn Chicago Transit Authority (1969) and Chicago II (1970), Kath’s playing anchored the band’s long-form ambition. When Chicago stretched into suites and extended performances, he provided the “rock spine” that kept the music from drifting too far into jazz abstraction—always pulling it back toward feel, tone, and momentum.\n\nHe also sang lead on several standout tracks in the early catalog, giving Chicago an additional vocal color beyond the band’s primary singer-songwriters. That combination—strong guitar identity plus lead vocals—made him essential to the band’s balance, especially in the years when Chicago’s sound was a true hybrid of rock, brass, and improvisation.\n\nKath’s reputation among musicians has grown steadily over time because his playing sounds both technically capable and deeply human. He could phrase like a blues player, drive like a rock guitarist, and still lock in with horn arrangements that demanded discipline. Few players fit that kind of ensemble so naturally while still sounding unmistakably like themselves.\n\nHis death in 1978, from an accidental, self-inflicted gunshot wound, was a devastating break in Chicago’s history. The band considered ending at that point, and the grief and shock around his loss marked a clear dividing line between Chicago’s earliest era and everything that followed.\n\nChicago continued after Kath, but his presence remains a defining reference point for fans of the early albums. Reissues, tributes, and documentaries have kept attention on his musicianship, and many listeners still view the band’s first decade as the “Kath era,” when the guitar and horns were in constant, thrilling conversation.\n\nKath’s enduring legacy is that he made Chicago dangerous—in the best way. In a group celebrated for polish and arrangement, he supplied raw electricity. His tone, feel, and fearless approach are still cited as a standard for horn-rock guitar, and his work remains central to why Chicago’s early recordings feel timeless."
+          }
+        },
+        {
+          "Name": "Peter Cetera",
+          "Roles": [
+            "bass",
+            "lead vocals",
+            "songwriting"
+          ],
+          "Years": "1967–1985",
+          "Overview": "Classic-era bassist and lead vocalist whose smooth tenor powered many of Chicago’s biggest ballads and pop hits, including the band’s first No. 1 single.",
+          "Bio": {
+            "BioID": "bio-chicago-peter-cetera",
+            "ArtistID": "chicago",
+            "ArtistName": "Chicago",
+            "MemberName": "Peter Cetera",
+            "FullName": "Peter Paul Cetera",
+            "PrimaryInstruments": [
+              "Bass",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "pop rock",
+              "soft rock",
+              "adult contemporary"
+            ],
+            "Birth": {
+              "Date": "1944-09-13",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1967–present"
+            ],
+            "AssociatedActs": [
+              "Chicago"
+            ],
+            "KeyAlbums": [
+              "Chicago II",
+              "Chicago X",
+              "Chicago 16",
+              "Chicago 17"
+            ],
+            "KeySongs": [
+              "If You Leave Me Now",
+              "Hard to Say I'm Sorry",
+              "You're the Inspiration",
+              "Look Away",
+              "Glory of Love"
+            ],
+            "Achievements": [
+              "Sang and wrote 'If You Leave Me Now,' Chicago’s first No. 1 hit and a defining soft-rock standard of the 1970s.",
+              "Left the band in the mid-1980s and immediately became a major solo pop vocalist, including a U.S. No. 1 with 'Glory of Love'."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Peter_Cetera"
+            },
+            "Biography": "Peter Paul Cetera (born September 13, 1944, in Chicago, Illinois) is best known as Chicago’s bassist and one of its most recognizable lead vocalists. His smooth tenor and melodic instincts became central to the band’s mainstream success, especially as Chicago’s sound evolved from long-form horn-rock into radio-dominating pop and ballads.\n\nCetera joined the group in its earliest period and was part of the classic, original lineup that recorded Chicago’s landmark first decade of albums. While Chicago was famous for its ensemble approach, his voice often became the emotional focal point—an identifiable sound that could turn a complex arrangement into a personal, intimate record.\n\nAs a bassist, he helped lock Chicago’s rhythm section to the horn lines, which is not a small task in a band built around layered arrangements. His playing had to be steady enough for the brass to dance on top, but flexible enough to move between rock, soul, and jazz-adjacent grooves as the songs demanded.\n\nAs a songwriter and singer, Cetera delivered some of Chicago’s biggest hits. “If You Leave Me Now,” written and sung by Cetera, became the band’s first No. 1 single and a defining soft-rock standard, helping open the door to the group’s next phase of chart success.\n\nIn the early 1980s, Cetera remained a key face and voice as Chicago leaned further into polished pop. Songs such as “Hard to Say I’m Sorry” and “You’re the Inspiration” became era-defining ballads, and his vocal presence was central to why those records worked as mass-appeal hits without abandoning musical professionalism.\n\nAfter years of relentless touring and recording, Cetera left Chicago in the mid-1980s to pursue a solo career. The move was immediately validated on the charts, as he scored major hits and became widely recognized as a standalone pop vocalist beyond the band’s brand.\n\nHis solo breakthrough “Glory of Love” (the theme from The Karate Kid Part II) went to No. 1 in the United States and cemented his post-Chicago identity. He followed with additional successes, including high-profile duets and adult-contemporary staples that kept his voice in heavy rotation for years.\n\nCetera’s legacy is the voice of Chicago’s most romantic era and one of the great crossover sounds of late-1970s and 1980s pop-rock. Even listeners who don’t track band lineups often recognize his singing instantly, and his run of hits—both with Chicago and solo—remains a defining chapter in American radio history."
+          }
+        },
+        {
+          "Name": "Walter Parazaider",
+          "Roles": [
+            "saxophones",
+            "flute",
+            "clarinet",
+            "woodwinds"
+          ],
+          "Years": "1967–2017",
+          "Overview": "Founding woodwind multi-instrumentalist whose saxophone, flute, and clarinet expanded Chicago’s palette beyond typical rock instrumentation.",
+          "Bio": {
+            "BioID": "bio-chicago-walter-parazaider",
+            "ArtistID": "chicago",
+            "ArtistName": "Chicago",
+            "MemberName": "Walter Parazaider",
+            "FullName": "Walter Parazaider",
+            "PrimaryInstruments": [
+              "Saxophone",
+              "Flute",
+              "Clarinet"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "rock",
+              "pop rock",
+              "jazz rock"
+            ],
+            "Birth": {
+              "Date": "1945-03-14",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1967–2017"
+            ],
+            "AssociatedActs": [
+              "Chicago"
+            ],
+            "KeyAlbums": [
+              "Chicago Transit Authority",
+              "Chicago II",
+              "Chicago V",
+              "Chicago VII",
+              "Chicago X"
+            ],
+            "KeySongs": [
+              "Does Anybody Really Know What Time It Is?",
+              "Beginnings",
+              "Make Me Smile",
+              "Colour My World",
+              "Saturday in the Park"
+            ],
+            "Achievements": [
+              "Helped create Chicago’s defining horn/woodwind front line, bringing sax, flute, and clarinet colors into mainstream rock hits.",
+              "A key contributor to the band’s classic-era arrangements and live sound, enabling Chicago to move fluidly between rock and jazz textures."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Walter_Parazaider"
+            },
+            "Biography": "Walter Parazaider (born March 14, 1945) is a founding member of Chicago and the band’s original woodwind multi-instrumentalist. Playing saxophone, flute, and clarinet, he helped complete the “horn front line” concept that set Chicago apart: a rock group where brass and woodwinds were as central as guitars and vocals.\n\nParazaider’s role in the band was unusually broad. Because Chicago’s arrangements often called for different textures—punchy sax lines, lyrical flute passages, or clarinet colors—he became a crucial tone-shifter, helping the band move between rock drive and more orchestral, atmospheric moments within the same song.\n\nIn the earliest years, Chicago’s music leaned heavily on extended arrangements and ensemble interplay, and Parazaider’s musicianship helped the horn section function as a coherent voice rather than a collection of featured solos. The woodwinds gave Chicago a wider palette than most rock acts, and his parts often acted as the “glue” between brass, rhythm section, and vocals.\n\nOn classic albums like Chicago Transit Authority and Chicago II, Parazaider’s playing is part of what makes the music feel cinematic. The band could open up into long passages, and the woodwinds allowed Chicago to shift mood quickly—moving from hard rock to jazzy swing to reflective ballad textures without sounding like a different band.\n\nLive, his versatility helped Chicago reproduce complex studio arrangements on stage in an era before touring technology made that easy. The band’s reputation as a powerful live act depended on players who could cover a lot of musical ground, and Parazaider’s ability to switch instruments and roles was part of that professionalism.\n\nOver decades of touring and recording, he remained a defining member of the group’s identity, even as the band’s production style changed. When Chicago moved toward slicker pop in the 1980s, the presence of woodwinds in the larger horn family still connected the sound back to the band’s origin story.\n\nIn later years, Parazaider stepped away from active touring, but his influence remains baked into Chicago’s musical DNA. Many later horn players in rock-pop contexts followed a path Chicago helped popularize: treating horns as a core hook machine rather than an occasional special effect.\n\nParazaider’s legacy is that he helped make Chicago sound “bigger” than a typical rock band—not through volume alone, but through color. His woodwinds expanded the band’s vocabulary and helped define an approach that still feels unique in mainstream American rock."
+          }
+        },
+        {
+          "Name": "Danny Seraphine",
+          "Roles": [
+            "drums",
+            "percussion",
+            "songwriting"
+          ],
+          "Years": "1967–1990",
+          "Overview": "Original drummer whose jazz-rock feel and power helped drive Chicago’s early albums and touring reputation; also co-wrote several tracks.",
+          "Bio": {
+            "BioID": "bio-chicago-danny-seraphine",
+            "ArtistID": "chicago",
+            "ArtistName": "Chicago",
+            "MemberName": "Danny Seraphine",
+            "FullName": "Daniel Peter Seraphine",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Producer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "rock",
+              "jazz rock",
+              "pop rock"
+            ],
+            "Birth": {
+              "Date": "1948-08-28",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1967–present"
+            ],
+            "AssociatedActs": [
+              "Chicago"
+            ],
+            "KeyAlbums": [
+              "Chicago Transit Authority",
+              "Chicago II",
+              "Chicago V",
+              "Chicago X",
+              "Chicago 16"
+            ],
+            "KeySongs": [
+              "25 or 6 to 4",
+              "Saturday in the Park",
+              "Feelin' Stronger Every Day",
+              "If You Leave Me Now",
+              "Hard to Say I'm Sorry"
+            ],
+            "Achievements": [
+              "Drove Chicago’s classic-era sound with a distinctive jazz-rock approach that supported both extended suites and hit singles.",
+              "Inducted into the Rock and Roll Hall of Fame as a member of Chicago as part of the original lineup."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.dannyseraphine.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Danny_Seraphine"
+            },
+            "Biography": "Daniel Peter “Danny” Seraphine (born August 28, 1948, in Chicago, Illinois) is Chicago’s original drummer and a founding architect of the band’s jazz-rock rhythmic feel. His playing combined rock power with the precision and swing of a trained musician, giving Chicago a groove that could support both extended suites and concise hit singles.\n\nSeraphine was there from the beginning, helping turn a group of ambitious players into a tight working band. In Chicago’s early era, the drums weren’t just timekeeping—they were part of the arrangement, pushing horn figures, setting up dynamic shifts, and driving the band through long sections where energy and focus had to be sustained.\n\nOn Chicago Transit Authority and the early 1970s run of albums, his drumming is a major reason the music sounds so physical. The band’s horn lines and rhythmic accents often rely on a drummer who can lock into complex patterns while still making them feel like rock, and Seraphine delivered that balance consistently.\n\nHe also contributed as a co-writer on several tracks, reflecting how collaborative Chicago’s early years could be. The band’s identity was ensemble-first, and Seraphine’s influence shows up not only in the feel but in the way songs are structured to hit hard in choruses and transition smoothly through multiple sections.\n\nSeraphine remained with Chicago through major changes, including the loss of Terry Kath and the band’s shift toward a more radio-focused pop sound. As Chicago became a hit-making machine across multiple decades, his drumming helped keep continuity between the band’s improvisational roots and its later polished productions.\n\nIn 1990, he departed the band after a long tenure that covered Chicago’s classic period and much of its mainstream peak. His years behind the kit remain a key reference point for fans and drummers alike, especially for those who love the tight, muscular “jazz-rock” approach that Chicago helped bring into the pop charts.\n\nAfter leaving, Seraphine continued working in music, including projects that revisited Chicago’s sound and showcased his drumming in different contexts. His career has been recognized in part through Chicago’s Rock and Roll Hall of Fame induction, which honored the original lineup’s impact on American music.\n\nSeraphine’s legacy is the engine of early Chicago: confident, crisp, and explosive without losing musical detail. In a band famous for horns and harmony, he helped ensure the rhythm section hit like a rock band—making the ambitious arrangements move like something you could dance to."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Bill Champlin",
+          "Roles": [
+            "lead vocals",
+            "keyboards",
+            "songwriting"
+          ],
+          "Years": "1981–2009",
+          "Instruments": [
+            "Vocals",
+            "Keyboards"
+          ],
+          "Albums": [
+            "Chicago 16",
+            "Chicago 17",
+            "Chicago 18",
+            "Chicago 19",
+            "Twenty 1"
+          ],
+          "Replacing": "Expanded the band’s lead vocal/keyboard lineup after the late-1970s and early-1980s transitions",
+          "ReplacedBy": "",
+          "Overview": "A major 1980s-era lead vocalist and keyboardist who helped power Chicago’s slick pop period, sharing vocals on many of the band’s biggest radio hits."
+        },
+        {
+          "Name": "Jason Scheff",
+          "Roles": [
+            "bass",
+            "lead vocals"
+          ],
+          "Years": "1985–2016",
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [
+            "Chicago 18",
+            "Chicago 19",
+            "Twenty 1",
+            "Night & Day Big Band"
+          ],
+          "Replacing": "Peter Cetera",
+          "ReplacedBy": "Jeff Coffey",
+          "Overview": "Joined as bassist and a principal lead singer after Cetera’s departure, becoming a long-running voice of Chicago’s live show and later studio releases."
+        },
+        {
+          "Name": "Tris Imboden",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1990–2016",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Chicago 18",
+            "Chicago 19",
+            "Twenty 1",
+            "Chicago XXXVI: Now"
+          ],
+          "Replacing": "Danny Seraphine",
+          "ReplacedBy": "Walfredo Reyes Jr.",
+          "Overview": "A long-tenured drummer who carried the band through decades of touring, keeping a steady, arena-ready groove as Chicago’s lineup modernized."
+        },
+        {
+          "Name": "Laudir de Oliveira",
+          "Roles": [
+            "percussion"
+          ],
+          "Years": "1974–1980 (touring intermittently later)",
+          "Instruments": [
+            "Percussion"
+          ],
+          "Albums": [
+            "Chicago VII",
+            "Chicago VIII",
+            "Chicago X",
+            "Chicago XI"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Brazilian percussionist who added a distinctive Latin texture to mid-1970s Chicago, contributing to the warmer, groove-forward feel of that era’s albums."
+        },
+        {
+          "Name": "Keith Howland",
+          "Roles": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "1986–2021",
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "Chicago 19",
+            "Twenty 1",
+            "Chicago XXXVI: Now"
+          ],
+          "Replacing": "Dawayne Bailey",
+          "ReplacedBy": "Tony Obrohta",
+          "Overview": "The band’s long-running guitarist through the late-1980s to 2020s touring era, providing stable rhythm/lead parts and backing vocals in the live show."
+        },
+        {
+          "Name": "Walfredo Reyes Jr.",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "2016–present",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Chicago XXXVI: Now"
+          ],
+          "Replacing": "Tris Imboden",
+          "ReplacedBy": "",
+          "Overview": "Current-era drummer who joined after Imboden’s departure, helping Chicago maintain a tight, professional live sound in its modern touring lineup."
+        }
+      ]
     },
     {
       "ArtistID": "christopher-cross",
