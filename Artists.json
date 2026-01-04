@@ -11253,8 +11253,527 @@
     {
       "ArtistID": "kiss",
       "Name": "Kiss",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": "New York City, New York, United States",
+      "YearsActive": [
+        "1973–2023"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Heavy metal",
+        "Shock rock",
+        "Glam metal"
+      ],
+      "Labels": [
+        "Casablanca",
+        "Mercury",
+        "Roadrunner",
+        "Kiss",
+        "Universal"
+      ],
+      "Overview": "KISS were an American hard-rock band formed in New York City in 1973 by Paul Stanley (vocals/rhythm guitar) and Gene Simmons (vocals/bass), soon joined by Ace Frehley (lead guitar) and Peter Criss (drums). They became one of rock’s most recognizable stage acts by pairing arena-sized hooks with theatrical makeup personas, pyrotechnics, and a comic-book sense of spectacle that turned concerts into events. After grinding through the early club years and releasing several studio albums, their breakthrough came with the live album “Alive!” (1975), which captured the band’s stage power and helped ignite a long run of platinum releases and global touring.\n\nAcross the 1970s and beyond, KISS combined hard rock riffs with pop precision, scoring enduring staples like “Rock and Roll All Nite,” “Detroit Rock City,” “Beth,” “Love Gun,” and “I Was Made for Lovin’ You.” The band went through major lineup changes, dropped the makeup in 1983 to reset for the MTV era (with hits like “Lick It Up” and “Heaven’s on Fire”), and later reunited the original lineup in 1996 for a massive revival. KISS were inducted into the Rock & Roll Hall of Fame in 2014 (original lineup). They concluded their “End of the Road” farewell tour with a final show at Madison Square Garden in December 2023, leaving a legacy defined as much by performance craft and branding as by the music itself.",
+      "NotableAlbums": [
+        {
+          "Year": 1974,
+          "Title": "Kiss",
+          "Details": "Debut that established the core sound and the band’s early cult following."
+        },
+        {
+          "Year": 1975,
+          "Title": "Alive!",
+          "Details": "Breakthrough live album that transformed KISS into an arena-level phenomenon."
+        },
+        {
+          "Year": 1976,
+          "Title": "Destroyer",
+          "Details": "Studio peak of the original era featuring some of their most enduring songs and production."
+        },
+        {
+          "Year": 1977,
+          "Title": "Love Gun",
+          "Details": "A late-’70s signature that captured their larger-than-life arena identity."
+        },
+        {
+          "Year": 1979,
+          "Title": "Dynasty",
+          "Details": "Pop-leaning blockbuster era led by “I Was Made for Lovin’ You.”"
+        },
+        {
+          "Year": 1983,
+          "Title": "Lick It Up",
+          "Details": "Makeup-free reset that kicked off their MTV-era resurgence."
+        },
+        {
+          "Year": 1992,
+          "Title": "Revenge",
+          "Details": "Heavier early-’90s comeback that reasserted the band’s hard-rock credibility."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1975,
+          "Title": "Rock and Roll All Nite",
+          "Details": "Defining anthem and a cornerstone of their live identity."
+        },
+        {
+          "Year": 1976,
+          "Title": "Detroit Rock City",
+          "Details": "High-octane fan favorite and a signature of their classic period."
+        },
+        {
+          "Year": 1976,
+          "Title": "Beth",
+          "Details": "Crossover ballad hit that broadened their audience dramatically."
+        },
+        {
+          "Year": 1977,
+          "Title": "Love Gun",
+          "Details": "Arena-ready staple closely tied to their late-’70s peak."
+        },
+        {
+          "Year": 1979,
+          "Title": "I Was Made for Lovin’ You",
+          "Details": "Global smash that fused hard-rock swagger with dance-floor momentum."
+        },
+        {
+          "Year": 1983,
+          "Title": "Lick It Up",
+          "Details": "Title track of the makeup-free relaunch and a durable concert track."
+        },
+        {
+          "Year": 1984,
+          "Title": "Heaven’s on Fire",
+          "Details": "One of the era-defining singles of their ’80s mainstream resurgence."
+        },
+        {
+          "Year": 1989,
+          "Title": "Forever",
+          "Details": "Late-career power ballad that became one of their biggest radio hits."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1975,
+          "Title": "Arena breakthrough",
+          "Details": "“Alive!” turned KISS into a major touring and sales force and cemented their live reputation."
+        },
+        {
+          "Year": 1970,
+          "Title": "One of rock’s biggest brands",
+          "Details": "Built a landmark merchandising and fan-culture machine that helped redefine how rock bands operated as businesses."
+        },
+        {
+          "Year": 2014,
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted as KISS (original lineup: Stanley, Simmons, Frehley, Criss)."
+        },
+        {
+          "Year": 2023,
+          "Title": "Farewell tour finale",
+          "Details": "Closed the “End of the Road” farewell tour with a final show at Madison Square Garden."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1973 in New York City; original lineup: Paul Stanley, Gene Simmons, Ace Frehley, Peter Criss.",
+        "Known for makeup personas, elaborate stage shows, and pyrotechnics alongside radio-ready hard-rock hooks.",
+        "Their breakthrough came via the live album “Alive!” in 1975.",
+        "Went makeup-free in 1983 and returned to makeup for a major original-lineup reunion in 1996.",
+        "Inducted into the Rock & Roll Hall of Fame in 2014 (original lineup).",
+        "Concluded the “End of the Road” farewell tour in December 2023."
+      ],
+      "ExternalLinks": {
+        "OfficialWebsite": "https://www.kissonline.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Kiss_(band)",
+        "RockHall": "https://rockhall.com/inductees/kiss/"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Paul Stanley",
+          "Roles": [
+            "Lead vocals",
+            "Rhythm guitar"
+          ],
+          "Years": "1973–2023",
+          "Overview": "Co-founder and primary frontman whose songwriting and stagecraft defined KISS’ voice, hooks, and live identity.",
+          "Bio": {
+            "BioID": "bio-paul-stanley",
+            "ArtistID": "kiss",
+            "ArtistName": "Kiss",
+            "MemberName": "Paul Stanley",
+            "FullName": "Stanley Bert Eisen",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Heavy metal"
+            ],
+            "Birth": {
+              "Date": "1952-01-20",
+              "Place": "New York City, New York, United States"
+            },
+            "ActiveYears": [
+              "1970–present"
+            ],
+            "AssociatedActs": [
+              "Kiss",
+              "Wicked Lester",
+              "Paul Stanley's Soul Station"
+            ],
+            "KeyAlbums": [
+              "Alive!",
+              "Destroyer",
+              "Love Gun",
+              "Lick It Up"
+            ],
+            "KeySongs": [
+              "Rock and Roll All Nite",
+              "Detroit Rock City",
+              "Love Gun",
+              "Lick It Up"
+            ],
+            "Achievements": [
+              "Co-founded KISS and served as its primary stage frontman for five decades.",
+              "Inducted into the Rock & Roll Hall of Fame (KISS, 2014)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Stanley",
+              "OfficialWebsite": "https://www.paulstanley.com/"
+            },
+            "Biography": "Paul Stanley (born Stanley Bert Eisen on January 20, 1952, in New York City) became one of rock’s most recognizable frontmen through a mix of high, cutting vocals and relentless stage energy. From the beginning, he pushed KISS toward songs that sounded bigger than the room—choruses designed to lift crowds, riffs designed to hit fast and hard.\n\nBefore KISS, Stanley worked through the New York rock scene and co-led Wicked Lester with Gene Simmons. When that project stalled, the two regrouped with a new plan: strip away anything that felt timid and build a band that looked and sounded like an event.\n\nIn 1973, Stanley and Simmons formed KISS, soon completing the original lineup with guitarist Ace Frehley and drummer Peter Criss. Stanley shaped the “Starchild” persona and became the focal point of the group’s show, balancing swagger with a sharp sense of pacing and audience control.\n\nThe early years were a grind of clubs, constant touring, and fast album cycles. When the band’s first studio releases didn’t initially explode, Stanley doubled down on stage performance as the band’s weapon—turning every show into a larger-than-life spectacle that made people talk.\n\nThe breakthrough arrived with “Alive!” in 1975, which captured the electricity of the concerts and helped flip KISS into an arena band. From there, Stanley’s role expanded: he became not just the singer out front, but a key driver of the band’s songwriting discipline—hook-first, punchy, and built for live impact.\n\nThrough the late 1970s peak, Stanley’s stamp is all over the catalogue: the crowd-aimed choruses, the rhythmic guitar engine, and the theatrical confidence that made songs feel like rally cries. Even as the band’s sound shifted toward pop and later returned to heavier textures, his instinct for what worked onstage remained central.\n\nWhen KISS removed the makeup in 1983, Stanley helped steer the band through the MTV era by emphasizing contemporary production while keeping the core identity intact: big choruses, strong grooves, and a showman’s sense of presentation. He remained the public face of the band through multiple lineup changes and stylistic pivots.\n\nStanley’s legacy is inseparable from the live experience KISS built—an approach where the performance is part of the composition. Even after the band concluded its farewell touring in 2023, the template he helped create remains one of the most influential models for arena rock frontmanship."
+          }
+        },
+        {
+          "Name": "Gene Simmons",
+          "Roles": [
+            "Bass",
+            "Co-lead vocals"
+          ],
+          "Years": "1973–2023",
+          "Overview": "Co-founder and co-lead singer whose songwriting, branding instincts, and larger-than-life ‘Demon’ persona made KISS a cultural phenomenon.",
+          "Bio": {
+            "BioID": "bio-gene-simmons",
+            "ArtistID": "kiss",
+            "ArtistName": "Kiss",
+            "MemberName": "Gene Simmons",
+            "FullName": "Chaim Witz",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Entrepreneur"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Heavy metal"
+            ],
+            "Birth": {
+              "Date": "1949-08-25",
+              "Place": "Haifa, Israel"
+            },
+            "ActiveYears": [
+              "1970–present"
+            ],
+            "AssociatedActs": [
+              "Kiss",
+              "Wicked Lester"
+            ],
+            "KeyAlbums": [
+              "Alive!",
+              "Destroyer",
+              "Love Gun",
+              "Revenge"
+            ],
+            "KeySongs": [
+              "Rock and Roll All Nite",
+              "God of Thunder",
+              "Calling Dr. Love"
+            ],
+            "Achievements": [
+              "Co-founded KISS and helped build one of the most successful branding and merchandising operations in rock history.",
+              "Inducted into the Rock & Roll Hall of Fame (KISS, 2014)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Gene_Simmons",
+              "OfficialWebsite": "https://www.genesimmons.com/"
+            },
+            "Biography": "Gene Simmons (born Chaim Witz on August 25, 1949, in Haifa, Israel) became a defining figure in theatrical hard rock as the bassist and co-lead singer of KISS. He paired a blunt, heavy musical approach with an unmistakable stage character—the tongue-out, blood-spitting “Demon” who turned shock value into a mainstream draw.\n\nSimmons moved through the New York rock circuit in the early 1970s and co-led Wicked Lester with Paul Stanley. When that project failed to break through, he and Stanley rebuilt from the ground up with a clearer goal: a harder sound, a stronger visual identity, and a band that treated performance as part of the product.\n\nIn 1973, Simmons co-founded KISS and helped assemble the original lineup with Ace Frehley and Peter Criss. From the start, he pushed the idea that KISS should be instantly recognizable—logo, costumes, makeup personas, and a stage show designed to make the band feel larger than life.\n\nMusically, Simmons brought a deep-pocket bass approach and a knack for blunt, memorable hooks. His co-lead vocals—often the darker counterpoint to Stanley—helped broaden the band’s vocal character across the classic albums and live staples.\n\nThe turning point was “Alive!” (1975), which amplified the band’s concert reputation and launched KISS into arena-level success. Simmons leaned into the momentum by expanding KISS’ presence beyond albums: fan culture, branding, and a business model that treated the band as a full ecosystem rather than just a touring act.\n\nThrough the late 1970s boom and the later shifts—disco-era crossover, the makeup-free MTV years, and the 1996 reunion—Simmons remained a constant. Even when the lineup changed, his role as a public face and strategic driver kept KISS aligned around the same core promise: spectacle, hooks, and a crowd-first live experience.\n\nSimmons’ persona became a symbol of rock excess, but his deeper impact was structural: he helped normalize the idea that a band could be a global brand without losing its identity as a live attraction. That combination influenced generations of arena acts in metal and hard rock.\n\nBy the time KISS ended its farewell touring in 2023, Simmons’ place in the story was fixed: co-founder, co-lead voice, and one of the key architects of how modern rock acts think about presentation, merchandising, and fan community."
+          }
+        },
+        {
+          "Name": "Ace Frehley",
+          "Roles": [
+            "Lead guitar",
+            "Vocals"
+          ],
+          "Years": "1973–1982; 1996–2002",
+          "Overview": "Original lead guitarist whose melodic, riff-heavy style and ‘Spaceman’ persona became inseparable from KISS’ classic sound and look.",
+          "Bio": {
+            "BioID": "bio-ace-frehley",
+            "ArtistID": "kiss",
+            "ArtistName": "Kiss",
+            "MemberName": "Ace Frehley",
+            "FullName": "Paul Daniel Frehley",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Heavy metal"
+            ],
+            "Birth": {
+              "Date": "1951-04-27",
+              "Place": "The Bronx, New York, United States"
+            },
+            "ActiveYears": [
+              "1960s–2025"
+            ],
+            "AssociatedActs": [
+              "Kiss",
+              "Frehley's Comet"
+            ],
+            "KeyAlbums": [
+              "Alive!",
+              "Destroyer",
+              "Love Gun",
+              "Dynasty"
+            ],
+            "KeySongs": [
+              "Cold Gin",
+              "Shock Me",
+              "New York Groove"
+            ],
+            "Achievements": [
+              "Helped define KISS’ original-era guitar sound and stage identity as the ‘Spaceman.’",
+              "Inducted into the Rock & Roll Hall of Fame (KISS, 2014)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ace_Frehley"
+            },
+            "Biography": "Ace Frehley (Paul Daniel Frehley, born April 27, 1951, in the Bronx) became one of the most influential guitar voices of 1970s arena rock through his work with KISS. His playing blended blues-based phrasing with a bright, melodic attack that made riffs memorable and solos singable—an approach that fit perfectly with the band’s chorus-driven songwriting.\n\nFrehley joined the developing KISS lineup in 1973 and quickly became central to the band’s visual mythology as the ‘Spaceman.’ His persona—silver makeup, sci‑fi styling, and pyrotechnic guitar theatrics—helped make the band instantly identifiable from across an arena.\n\nOn the classic 1970s run, Frehley’s leads and riffs served as the sharp edge of the KISS sound. Even when arrangements leaned pop or theatrical, his guitar provided the rock spine that kept songs aggressive, simple, and stage-ready.\n\nHe also emerged as an occasional lead vocalist within the group, adding contrast to Stanley and Simmons and giving KISS additional sonic variety. Tracks associated with Frehley became fan favorites, reinforcing the band’s “four characters” identity rather than a single-frontman model.\n\nFrehley left KISS in the early 1980s, then later returned for the massive original-lineup reunion that began in 1996. That era re-established the classic makeup-era image for a new generation and proved the lasting demand for the original lineup’s chemistry.\n\nAfter departing again in the early 2000s, Frehley continued as a solo artist, remaining a reference point for guitarists drawn to concise, hook-forward lead work. His influence is audible in countless hard-rock and metal acts that value melody inside heavy riffing.\n\nIn 2014, Frehley was inducted into the Rock & Roll Hall of Fame as part of KISS’ original lineup, acknowledging his role in shaping one of rock’s most iconic bands. The induction cemented his place in the formal history of the genre even as his relationship with the band had long been complicated.\n\nFrehley died on October 16, 2025, at age 74. His legacy within KISS endures through the classic recordings and the visual archetype of the ‘Spaceman’—a model for guitar heroes who understood that tone, phrasing, and stage identity could be equally unforgettable."
+          }
+        },
+        {
+          "Name": "Peter Criss",
+          "Roles": [
+            "Drums",
+            "Vocals"
+          ],
+          "Years": "1973–1980; 1996–2001",
+          "Overview": "Original drummer and ‘Catman’ whose swing-inflected feel and distinctive voice powered early KISS and delivered one of their biggest crossover hits.",
+          "Bio": {
+            "BioID": "bio-peter-criss",
+            "ArtistID": "kiss",
+            "ArtistName": "Kiss",
+            "MemberName": "Peter Criss",
+            "FullName": "George Peter John Criscuola",
+            "PrimaryInstruments": [
+              "Drums",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Singer"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Rock and roll"
+            ],
+            "Birth": {
+              "Date": "1945-12-20",
+              "Place": "Brooklyn, New York, United States"
+            },
+            "ActiveYears": [
+              "1960s–present"
+            ],
+            "AssociatedActs": [
+              "Kiss"
+            ],
+            "KeyAlbums": [
+              "Alive!",
+              "Destroyer",
+              "Love Gun"
+            ],
+            "KeySongs": [
+              "Beth",
+              "Black Diamond"
+            ],
+            "Achievements": [
+              "Original drummer and co-lead vocalist on select classics including “Beth.”",
+              "Inducted into the Rock & Roll Hall of Fame (KISS, 2014)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Peter_Criss"
+            },
+            "Biography": "Peter Criss (George Peter John Criscuola, born December 20, 1945, in Brooklyn) became famous as KISS’ original drummer and the ‘Catman’ persona. His playing brought a swing and looseness to the early KISS sound that kept the band’s hard-rock attack from feeling rigid, especially in the pre-arena club years.\n\nCriss joined the emerging band in 1973, completing the original lineup that became KISS. He contributed not only drums but also a distinctive singing voice that added character to the band’s four-member identity—each member a different persona with a different vocal color.\n\nOn the early albums and especially the band’s live breakthrough, Criss’ drumming anchored the songs with a strong backbeat and a gritty, working-band feel. That rhythmic foundation helped the group’s simple riffs hit harder onstage, where KISS built their reputation long before mainstream recognition caught up.\n\nCriss’ most famous vocal moment is “Beth,” which became one of KISS’ biggest crossover hits and expanded their audience beyond hard-rock fans. The song’s success demonstrated the band’s range and showed that the KISS brand could carry ballads as well as anthems.\n\nHe departed the band’s day-to-day lineup in the early 1980s and later returned for the original-lineup reunion beginning in 1996. That era emphasized the classic makeup personas and the nostalgia power of the original four, with Criss’ ‘Catman’ returning as a core part of the visual mythology.\n\nAfter leaving again in the early 2000s, Criss kept a lower public profile than some of his bandmates, but his role in the classic era remained central in fan memory—particularly for listeners who preferred the rawer, early-’70s KISS feel.\n\nIn 2014, Criss was inducted into the Rock & Roll Hall of Fame with the original KISS lineup, formalizing his place in the band’s legacy. The honor framed his contribution as foundational: a drummer-vocalist whose identity helped define what KISS was at the moment it became KISS.\n\nCriss’ lasting imprint is the combination of groove and character. Even for people who come to KISS through the larger spectacle, the early records and the live breakthrough still carry the DNA of his drumming and the emotional contrast his voice brought to the catalogue."
+          }
+        },
+        {
+          "Name": "Tommy Thayer",
+          "Roles": [
+            "Lead guitar",
+            "Vocals"
+          ],
+          "Years": "2002–2023",
+          "Overview": "Later-era lead guitarist who took on the ‘Spaceman’ role in the touring lineup and helped keep the classic material stage-perfect for modern arena production.",
+          "Bio": {
+            "BioID": "bio-tommy-thayer",
+            "ArtistID": "kiss",
+            "ArtistName": "Kiss",
+            "MemberName": "Tommy Thayer",
+            "FullName": "Thomas Cunningham Thayer",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Heavy metal",
+              "Glam metal"
+            ],
+            "Birth": {
+              "Date": "1960-11-07",
+              "Place": "Portland, Oregon, United States"
+            },
+            "ActiveYears": [
+              "1978–present"
+            ],
+            "AssociatedActs": [
+              "Kiss",
+              "Black 'n Blue"
+            ],
+            "KeyAlbums": [
+              "Sonic Boom",
+              "Monster"
+            ],
+            "KeySongs": [
+              "Modern Day Delilah",
+              "Hell or Hallelujah"
+            ],
+            "Achievements": [
+              "Served as KISS’ lead guitarist from 2002 through the band’s 2023 farewell touring finale."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Tommy_Thayer",
+              "OfficialWebsite": "https://tommythayer.com/"
+            },
+            "Biography": "Tommy Thayer (born November 7, 1960, in Portland, Oregon) became best known internationally as KISS’ later-era lead guitarist. He brought a disciplined, detail-oriented approach that made classic KISS songs translate cleanly to modern arena sound systems and touring production.\n\nBefore KISS, Thayer built his reputation in hard rock as a member of Black ’n Blue, developing the polished riffing and tight rhythm work that later suited KISS’ catalogue. His playing favors clarity and control—important traits when the job is to replicate iconic parts night after night.\n\nThayer initially worked behind the scenes in the KISS organization, becoming deeply familiar with the band’s history, stagecraft, and touring requirements. That combination of musicianship and institutional knowledge positioned him uniquely when the band needed continuity in its touring lineup.\n\nIn 2002, Thayer officially joined KISS as lead guitarist and took on the ‘Spaceman’ role associated with Ace Frehley. The challenge was not simply to play the parts, but to embody a visual and sonic archetype that fans recognized instantly.\n\nThrough the 2000s and 2010s, Thayer helped keep the band’s live show precise while retaining the “bigger than life” illusion that defines KISS. His steadiness allowed the show to function as a machine—pyro cues, choreography, vocal changes, and tightly timed medleys.\n\nIn the later studio era, Thayer contributed to the band’s final albums and maintained a professional touring rhythm as KISS shifted into long-term farewell-mode. The emphasis remained on delivering a classic catalogue with consistent, crowd-pleasing execution.\n\nAs the “End of the Road” tour stretched into a multi-year global run, Thayer’s role became even more central: a guitarist whose job was to preserve the classic KISS sound and presentation for audiences who expected the hits to land exactly as remembered.\n\nWhen KISS concluded its farewell touring in 2023, Thayer’s tenure was defined by continuity. He helped keep the KISS experience reliable for modern arenas—an essential piece of how the band extended its live legacy into its final touring era."
+          }
+        },
+        {
+          "Name": "Eric Singer",
+          "Roles": [
+            "Drums",
+            "Vocals"
+          ],
+          "Years": "1991–1996; 2001–2002; 2004–2023",
+          "Overview": "Longtime later-era drummer who provided power, consistency, and vocal support across multiple stints, including the band’s final touring era.",
+          "Bio": {
+            "BioID": "bio-eric-singer",
+            "ArtistID": "kiss",
+            "ArtistName": "Kiss",
+            "MemberName": "Eric Singer",
+            "FullName": "Eric Doyle Mensinger",
+            "PrimaryInstruments": [
+              "Drums",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Musician"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Heavy metal",
+              "Glam metal"
+            ],
+            "Birth": {
+              "Date": "1958-05-12",
+              "Place": "Cleveland, Ohio, United States"
+            },
+            "ActiveYears": [
+              "1984–present"
+            ],
+            "AssociatedActs": [
+              "Kiss",
+              "Black Sabbath",
+              "Badlands",
+              "The Brian May Band"
+            ],
+            "KeyAlbums": [
+              "Revenge",
+              "Sonic Boom",
+              "Monster"
+            ],
+            "KeySongs": [
+              "Unholy",
+              "Modern Day Delilah"
+            ],
+            "Achievements": [
+              "Served as KISS’ drummer across three stints and anchored the band’s final touring era through 2023."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Eric_Singer"
+            },
+            "Biography": "Eric Singer (born Eric Doyle Mensinger on May 12, 1958, in Cleveland, Ohio) built a career as a hard-rock drummer known for power, precision, and professionalism. His playing style is designed for big stages: loud, consistent, and able to lock tightly with guitars while leaving space for vocal hooks.\n\nBefore KISS, Singer performed with a wide range of rock and metal artists, gaining the kind of touring discipline that later made him a natural fit for an arena-production band. That experience also developed his versatility—important for a catalogue that ranges from ’70s rock to ’80s glam-era material.\n\nSinger first joined KISS in the early 1990s, stepping into a difficult role after the death of drummer Eric Carr. He debuted on the album “Revenge” (1992), helping power a heavier, more aggressive sound that reasserted the band’s hard-rock edge in a changing musical landscape.\n\nDuring his first stint, Singer also supported the live show with backing vocals and the kind of reliable timing a production-heavy band requires. KISS’ concerts depend on cues—pyro, lighting hits, and choreography—and Singer’s precision helped keep the machinery tight.\n\nHe left the lineup when KISS reunited the original members in 1996, then returned for additional stints in the 2000s as the band stabilized its later touring configuration. Over time, he became the long-term rhythmic anchor of the modern-era version of KISS.\n\nSinger took on the ‘Catman’ makeup persona associated with Peter Criss in the later-era lineup, a role that required both musical authority and visual continuity. His drumming is more modern and forceful than the early 1970s feel, reflecting the realities of contemporary arena sound and the band’s later material.\n\nIn the band’s final touring chapter, Singer’s steadiness was essential: long tours, large venues, and a show designed to look identical night after night. His consistency helped deliver the “KISS experience” as a reliable spectacle even as the band moved toward its farewell.\n\nSinger’s legacy within KISS is that of the closer: a drummer who helped carry the band through late-era decades and into its 2023 touring finale—keeping the catalogue strong, the show precise, and the rhythm section built for arenas."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Eric Carr",
+          "Roles": [
+            "Drums",
+            "Vocals"
+          ],
+          "Years": "1980–1991",
+          "Overview": "Joined in 1980 and became the band’s drummer through the ’80s transition years, bringing heavier, more modern rock power before his death in 1991."
+        },
+        {
+          "Name": "Vinnie Vincent",
+          "Roles": [
+            "Guitar"
+          ],
+          "Years": "1982–1984",
+          "Overview": "Brief but influential early-’80s lead guitarist who helped bridge the band from the last makeup-era lineup into the “unmasked” MTV period."
+        },
+        {
+          "Name": "Mark St. John",
+          "Roles": [
+            "Guitar"
+          ],
+          "Years": "1984",
+          "Overview": "Short-tenure guitarist in 1984 whose time with the band was brief but historically notable during a high-visibility MTV-era moment."
+        },
+        {
+          "Name": "Bruce Kulick",
+          "Roles": [
+            "Guitar"
+          ],
+          "Years": "1984–1996",
+          "Overview": "Long-serving guitarist through the late ’80s and early ’90s who provided stability and strong lead work until the original-lineup reunion."
+        }
+      ]
     },
     {
       "ArtistID": "kix",
