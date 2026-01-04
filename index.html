@@ -534,6 +534,74 @@ display:none;
 
     const state = { artists: [], filtered: [], selectedId: null };
 
+    const PREVIEW_SECONDS = 15;
+    let previewAudio = null;
+    let previewTimer = null;
+    let previewAbort = null;
+
+    const ensurePreviewAudio = () => {
+      if (!previewAudio) {
+        previewAudio = new Audio();
+        previewAudio.preload = "none";
+      }
+      return previewAudio;
+    };
+
+    const stopPreview = () => {
+      if (previewTimer) {
+        clearTimeout(previewTimer);
+        previewTimer = null;
+      }
+      if (previewAbort) {
+        try { previewAbort.abort(); } catch (_) {}
+        previewAbort = null;
+      }
+      if (previewAudio) {
+        try { previewAudio.pause(); } catch (_) {}
+        try { previewAudio.currentTime = 0; } catch (_) {}
+        try { previewAudio.removeAttribute("src"); } catch (_) {}
+        try { previewAudio.load(); } catch (_) {}
+      }
+    };
+
+    const normArtistName = (s) => safe(s).toLowerCase().trim().replace(/^the\s+/i, "").replace(/[^a-z0-9]+/g, "");
+
+    const getItunesPreviewUrl = async (artistName) => {
+      const term = encodeURIComponent(artistName);
+      const url = `https://itunes.apple.com/search?term=${term}&entity=song&limit=10&media=music&attribute=artistTerm`;
+      previewAbort = new AbortController();
+      const res = await fetch(url, { signal: previewAbort.signal });
+      const data = await res.json();
+      const results = Array.isArray(data.results) ? data.results : [];
+      const target = normArtistName(artistName);
+      const match = results.find(r => r && r.previewUrl && normArtistName(r.artistName || "") === target)
+        || results.find(r => r && r.previewUrl);
+      return match ? match.previewUrl : "";
+    };
+
+    const playArtistPreview = async (artist) => {
+      stopPreview();
+      const name = artist && artist.Name ? artist.Name : "";
+      if (!name) return;
+      let previewUrl = "";
+      try {
+        previewUrl = await getItunesPreviewUrl(name);
+      } catch (_) {
+        previewUrl = "";
+      }
+      if (!previewUrl) return;
+      const audio = ensurePreviewAudio();
+      audio.src = previewUrl;
+      audio.currentTime = 0;
+      const p = audio.play();
+      if (p && typeof p.catch === "function") p.catch(() => {});
+      previewTimer = setTimeout(() => {
+        if (!previewAudio) return;
+        try { previewAudio.pause(); } catch (_) {}
+      }, PREVIEW_SECONDS * 1000);
+    };
+
+
     const el = {
       list: document.getElementById("list"),
       detail: document.getElementById("detail"),
@@ -907,7 +975,7 @@ display:none;
       const a = state.artists.find(x => safe(x.ArtistID || x.Name) === safe(id));
       renderList();
       if (el.detail) el.detail.scrollTop = 0;
-      if (a) renderDetail(a);
+      if (a) { renderDetail(a); playArtistPreview(a); }
     };
 
     const onListActivate = (target) => {
