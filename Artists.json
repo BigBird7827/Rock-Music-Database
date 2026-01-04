@@ -9537,27 +9537,730 @@
     {
       "ArtistID": "collective-soul",
       "Name": "Collective Soul",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Stockbridge",
+        "Region": "Georgia",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1992–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Post-grunge",
+        "Hard rock"
+      ],
+      "Labels": [
+        "Rising Storm Records",
+        "Atlantic Records",
+        "El Music Group",
+        "Fuzze‑Flex Records"
+      ],
+      "Overview": "Collective Soul is an American rock band formed in 1992 in Stockbridge, Georgia. Built around the songwriting of vocalist and guitarist Ed Roland, the group broke nationally when the single “Shine” surged from college-radio rotation into heavy rock-radio play, leading to a major-label deal and a rapid jump to large-scale touring in the mid‑1990s.\n\nAcross the decade, Collective Soul became a durable presence on U.S. rock radio with hook-forward, guitar-driven songs that bridged alternative rock, post‑grunge, and melodic hard rock. Their 1995 self‑titled album (often nicknamed the “Blue Album”) became their biggest commercial release and was certified triple‑platinum, while later records like Disciplined Breakdown and Dosage extended their streak with multiple No. 1 Mainstream Rock singles—including “Heavy,” which held the top spot for 15 weeks—and helped cement the band as one of the era’s most reliable mainstream rock acts.",
+      "NotableAlbums": [
+        {
+          "Title": "Hints, Allegations, and Things Left Unsaid",
+          "Year": "1993/1994",
+          "Notes": "Originally released independently in 1993, then reissued in 1994 after the band signed with Atlantic. The album introduced Collective Soul to a national audience through the breakout single “Shine” and set the template for their melodic, riff-driven approach."
+        },
+        {
+          "Title": "Collective Soul (\"Blue Album\")",
+          "Year": "1995",
+          "Notes": "The band’s commercial peak: a tighter, more polished follow-up that delivered a run of major rock-radio staples (“December,” “The World I Know,” “Where the River Flows”) and became their highest-selling release, later certified triple‑platinum."
+        },
+        {
+          "Title": "Disciplined Breakdown",
+          "Year": "1997",
+          "Notes": "A heavier, tour-hardened album that produced more No. 1 rock hits (“Precious Declaration,” “Listen”). It reached the Billboard 200’s Top 20 and was later certified platinum."
+        },
+        {
+          "Title": "Dosage",
+          "Year": "1999",
+          "Notes": "A late‑’90s high point that kept the band at the center of rock radio. The lead single “Heavy” spent 15 weeks at No. 1 on Billboard’s Mainstream Rock chart, and the album was certified platinum."
+        },
+        {
+          "Title": "Blender",
+          "Year": "2000",
+          "Notes": "The last studio album with the band’s best-known 1990s lineup. It continued their chart presence before a major lineup change in the early 2000s."
+        },
+        {
+          "Title": "See What You Started by Continuing",
+          "Year": "2015",
+          "Notes": "A strong modern-era statement that reaffirmed the band’s classic sound while highlighting the newer lineup’s guitar and rhythm-section chemistry."
+        },
+        {
+          "Title": "Blood",
+          "Year": "2019",
+          "Notes": "A later-career album that leaned into the band’s hard-rock edge and showcased their continuing focus on big choruses and guitar hooks."
+        },
+        {
+          "Title": "Vibrating",
+          "Year": "2022",
+          "Notes": "A contemporary release that balances punchy rock tracks with melodic, mid-tempo songwriting in the band’s longtime style."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Shine",
+          "Year": "1993",
+          "Notes": "The song that launched the band nationally—first exploding on college radio and then becoming a major rock-radio hit, establishing Ed Roland’s voice and the band’s signature blend of grit and melody."
+        },
+        {
+          "Title": "December",
+          "Year": "1995",
+          "Notes": "A defining mid‑’90s rock single with a slow-burn build and huge chorus; one of their best-known songs and a cornerstone of the “Blue Album” era."
+        },
+        {
+          "Title": "The World I Know",
+          "Year": "1995",
+          "Notes": "A reflective, melodic hit that crossed beyond rock formats and remains one of the band’s most recognized and enduring singles."
+        },
+        {
+          "Title": "Where the River Flows",
+          "Year": "1996",
+          "Notes": "A heavier, riff-led track that reinforced the band’s rock credentials and continued their string of chart-topping singles."
+        },
+        {
+          "Title": "Gel",
+          "Year": "1995",
+          "Notes": "An upbeat, hooky radio favorite that highlights the band’s knack for bright guitar textures and big pop-rock choruses."
+        },
+        {
+          "Title": "Precious Declaration",
+          "Year": "1997",
+          "Notes": "A driving opener and lead single from Disciplined Breakdown that became another No. 1 rock hit and a staple of their live set."
+        },
+        {
+          "Title": "Listen",
+          "Year": "1997",
+          "Notes": "A moody, mid-tempo rock single that also reached No. 1 on Mainstream Rock, showing the band’s range beyond straight-up riff rock."
+        },
+        {
+          "Title": "Heavy",
+          "Year": "1999",
+          "Notes": "A muscular late‑’90s single that dominated rock radio, spending 15 weeks at No. 1 on Billboard’s Mainstream Rock chart."
+        },
+        {
+          "Title": "Run",
+          "Year": "1999",
+          "Notes": "A fast, energetic cut from Dosage that became a popular rock-radio track and a live favorite for its momentum and sing-along chorus."
+        },
+        {
+          "Title": "Tremble for My Beloved",
+          "Year": "1999",
+          "Notes": "A darker, textured track from Dosage that highlights the band’s heavier side and remained a notable rock-radio presence."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1995",
+          "Title": "Breakthrough commercial peak with the self-titled “Blue Album”",
+          "Details": "The 1995 self-titled album became Collective Soul’s highest-selling release and is certified triple‑platinum, powered by a run of major rock-radio staples including “December” and “The World I Know”."
+        },
+        {
+          "Year": "1997",
+          "Title": "Disciplined Breakdown extends their No. 1 rock streak",
+          "Details": "The album reached the Billboard 200’s Top 20 and was later certified platinum, producing two more Billboard Mainstream Rock No. 1 singles: “Precious Declaration” and “Listen”."
+        },
+        {
+          "Year": "1999",
+          "Title": "“Heavy” posts a record-setting run at No. 1",
+          "Details": "The Dosage lead single “Heavy” spent 15 weeks at No. 1 on Billboard’s Mainstream Rock chart, one of the longest runs at the top at the time, underscoring the band’s late‑’90s radio dominance."
+        },
+        {
+          "Year": "2004",
+          "Title": "Launched an independent era through their own label",
+          "Details": "After their initial run on Atlantic, the band established their own label (El Music Group, later renamed Fuzze‑Flex Records), supporting a steady output of independent releases while maintaining an active touring presence."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Stockbridge, Georgia in 1992, centered on the songwriting of Ed Roland.",
+        "Broke nationally with “Shine,” which gained momentum through college radio before becoming a major rock-radio hit.",
+        "The 1995 self-titled “Blue Album” is the band’s highest-selling album and is certified triple‑platinum.",
+        "Logged multiple No. 1 hits on Billboard’s Mainstream Rock chart across the 1990s, including “December,” “The World I Know,” “Where the River Flows,” “Precious Declaration,” “Listen,” and “Heavy.”",
+        "Continued releasing new studio albums into the 2010s and 2020s while touring consistently."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://collectivesoul.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Collective_Soul",
+        "Discography": "https://en.wikipedia.org/wiki/Collective_Soul_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Ed Roland",
+          "Roles": [
+            "lead vocals",
+            "guitar",
+            "keyboards",
+            "songwriting"
+          ],
+          "Years": "1992–present",
+          "Overview": "Lead vocalist and primary songwriter; the band’s founding creative center and guiding voice.",
+          "Bio": {
+            "BioID": "bio-collective-soul-ed-roland",
+            "ArtistID": "collective-soul",
+            "ArtistName": "Collective Soul",
+            "MemberName": "Ed Roland",
+            "FullName": "Edgar Eugene Roland Jr.",
+            "Birth": {
+              "Date": "1963-08-03",
+              "Place": "Stockbridge, Georgia, United States"
+            },
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Keyboards"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician",
+              "Record producer"
+            ],
+            "ActiveYears": "1985–present",
+            "AssociatedActs": [
+              "Collective Soul",
+              "Ed Roland and the Sweet Tea Project",
+              "Marching Two-Step"
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Hints, Allegations, and Things Left Unsaid",
+                "Year": "1993/1994",
+                "Notes": "Wrote and produced the songs that became the band’s breakout demo/indie debut, including “Shine.”"
+              },
+              {
+                "Title": "Collective Soul (\"Blue Album\")",
+                "Year": "1995",
+                "Notes": "Primary songwriter and co-producer for the band’s highest-selling album."
+              },
+              {
+                "Title": "Dosage",
+                "Year": "1999",
+                "Notes": "Frontman and songwriter during the “Heavy” era and the band’s late‑’90s radio peak."
+              },
+              {
+                "Title": "See What You Started by Continuing",
+                "Year": "2015",
+                "Notes": "Led the modern lineup through a strong late-career release cycle."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Shine",
+                "Year": "1993",
+                "Notes": "Wrote the breakthrough single that took the band from local/college radio to national success."
+              },
+              {
+                "Title": "December",
+                "Year": "1995",
+                "Notes": "Signature mid‑’90s hit anchored by Roland’s vocal delivery and melodic songwriting."
+              },
+              {
+                "Title": "The World I Know",
+                "Year": "1995",
+                "Notes": "One of the band’s most enduring crossover hits."
+              },
+              {
+                "Title": "Heavy",
+                "Year": "1999",
+                "Notes": "Fronted the single that spent 15 weeks at No. 1 on Mainstream Rock."
+              }
+            ],
+            "Achievements": [
+              "Primary songwriter and frontman of Collective Soul from its formation in 1992 through decades of touring and recording.",
+              "Helped drive a 1990s run that included multiple Billboard Mainstream Rock No. 1 singles and multi‑platinum album sales.",
+              "Guided the band through a successful independent era with steady releases and long-term fanbase growth."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ed_Roland",
+              "Official Site": "https://collectivesoul.com/"
+            },
+            "Biography": "Ed Roland is the founding voice, primary songwriter, and creative center of Collective Soul, and the figure most closely associated with the band’s distinctive mix of grit and melody. Raised in Georgia, he developed a practical, studio-minded approach to songwriting that would later make the band’s records feel both immediate and radio-ready.\n\nBefore Collective Soul became a full-time band, Roland built experience on the local circuit and in studio work. That behind-the-scenes grounding shaped how he arranged songs—often writing with the final recorded sound in mind, from vocal phrasing to guitar textures and how the chorus should “lift.”\n\nCollective Soul began as recordings made to showcase Roland’s writing, not as a carefully planned band-launch. When “Shine” caught fire on college radio and quickly jumped to major rock-radio rotation, the project turned into a working group almost overnight, and Roland assembled a touring lineup around the songs.\n\nAs the band moved from the early demo-era material into the 1995 self-titled “Blue Album,” Roland’s songwriting tightened and broadened. Tracks like “December” and “The World I Know” showed his knack for pairing a straightforward hook with a slightly darker emotional undercurrent, a combination that helped the band cross over beyond strictly rock formats.\n\nAcross the late 1990s, Roland steered Collective Soul through stylistic shifts without abandoning their core identity. Whether the songs leaned heavier or more melodic, his approach stayed consistent: keep the chorus strong, keep the guitars purposeful, and make sure the track lands with a clear emotional point.\n\nRoland’s role also expanded beyond frontman duties into production and overall direction. Collective Soul’s catalog reflects an artist comfortable making decisions about tone, pacing, and track sequencing—details that can separate a collection of songs from an album that feels cohesive from start to finish.\n\nWhen the band transitioned into a more independent phase in the 2000s and beyond, Roland remained the anchor. The industry around them changed dramatically, but the group continued releasing records and touring, with Roland keeping the focus on songwriting and performance rather than chasing trends.\n\nOver time, Roland’s legacy has become inseparable from the band’s durability. From a surprise college-radio breakout to decades of releases, he has led Collective Soul as a working rock band—one that can still deliver big choruses, recognizable riffs, and a live show built on songs that have stayed in rotation for years."
+          }
+        },
+        {
+          "Name": "Dean Roland",
+          "Roles": [
+            "rhythm guitar",
+            "keyboards",
+            "backing vocals"
+          ],
+          "Years": "1992–present",
+          "Overview": "Longtime rhythm guitarist who anchors the band’s live and studio arrangements across eras.",
+          "Bio": {
+            "BioID": "bio-collective-soul-dean-roland",
+            "ArtistID": "collective-soul",
+            "ArtistName": "Collective Soul",
+            "MemberName": "Dean Roland",
+            "FullName": "Michael Dean Roland",
+            "Birth": {
+              "Date": "",
+              "Place": "Stockbridge, Georgia, United States"
+            },
+            "PrimaryInstruments": [
+              "Guitar",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "ActiveYears": "1992–present",
+            "AssociatedActs": [
+              "Collective Soul",
+              "Magnets & Ghosts"
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Collective Soul (\"Blue Album\")",
+                "Year": "1995",
+                "Notes": "Rhythm-guitar foundation and touring presence during the band’s commercial peak."
+              },
+              {
+                "Title": "Disciplined Breakdown",
+                "Year": "1997",
+                "Notes": "Helped define the heavier late‑’90s sound and supported the band’s No. 1 rock hits."
+              },
+              {
+                "Title": "Dosage",
+                "Year": "1999",
+                "Notes": "Part of the lineup during the “Heavy” era and one of the band’s most recognized cycles."
+              },
+              {
+                "Title": "Vibrating",
+                "Year": "2022",
+                "Notes": "Continued as a key guitarist in the band’s modern lineup and ongoing release schedule."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "December",
+                "Year": "1995",
+                "Notes": "A defining single from the “Blue Album” era and a constant of the band’s live set."
+              },
+              {
+                "Title": "The World I Know",
+                "Year": "1995",
+                "Notes": "A melodic staple that helped broaden the band’s audience."
+              },
+              {
+                "Title": "Listen",
+                "Year": "1997",
+                "Notes": "A major rock-radio single from the Disciplined Breakdown period."
+              },
+              {
+                "Title": "Heavy",
+                "Year": "1999",
+                "Notes": "A signature late‑’90s hit that anchored the Dosage album cycle."
+              }
+            ],
+            "Achievements": [
+              "Longtime rhythm guitarist and key onstage presence from the band’s earliest national success through decades of touring.",
+              "Helped sustain Collective Soul’s live sound by anchoring arrangements behind the lead guitar and vocal melodies.",
+              "Expanded his creative output through side projects while remaining a consistent part of the band’s core identity."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dean_Roland",
+              "Official Site": "https://collectivesoul.com/"
+            },
+            "Biography": "Dean Roland is Collective Soul’s longtime rhythm guitarist and one of the band’s most consistent stabilizing forces. While his brother Ed is the primary songwriter and lead voice, Dean’s role has been crucial in translating those songs into a full-band sound that works on record and on stage.\n\nFrom the early days of the band’s rapid rise, Dean provided the dependable guitar framework that lets hooks land cleanly. In Collective Soul’s style, rhythm guitar isn’t just background—those parts often shape the song’s pulse, define the chord color, and set up the dynamics that make the chorus feel bigger.\n\nDuring the mid‑1990s breakout, Dean was part of the lineup that moved quickly from regional recognition to national touring. As “Shine” and the early material pulled listeners in, the band’s live show had to scale fast, and his steady playing helped keep the performance tight and consistent night after night.\n\nThe 1995 self-titled “Blue Album” put Collective Soul at the center of mainstream rock, and Dean’s guitar work is woven throughout the record’s clean, punchy arrangements. The songs feel direct and accessible, and a lot of that clarity comes from the way the guitars are layered and balanced around the vocal lines.\n\nAs the band’s sound shifted heavier for albums like Disciplined Breakdown and Dosage, Dean’s approach adapted without losing focus. He supported the aggressive moments with firmer attack and tighter rhythms, but he also left space for the band’s melodic side—an important part of why their heavier singles still felt singable and radio-friendly.\n\nBeyond Collective Soul, Dean has also explored other musical avenues, including the duo Magnets & Ghosts. That work highlights a different palette than the band’s main catalog, but it also reflects the same instinct for texture, atmosphere, and songcraft that defines his role in Collective Soul.\n\nIn the 2000s and beyond, as the industry shifted and the band moved into a more independent mode, Dean remained a key part of their continuity. Lineups can change, and trends can change, but the band’s core guitar identity—built from Ed’s songs and Dean’s foundation—stayed recognizable.\n\nAcross decades of touring, Dean has become part of what fans expect when they see Collective Soul live: the familiar guitar voicings, the locked-in groove behind the chorus, and a stage presence that supports the band without competing with the song. His strength is consistency, and in a working rock band, that consistency is invaluable."
+          }
+        },
+        {
+          "Name": "Will Turpin",
+          "Roles": [
+            "bass",
+            "backing vocals",
+            "keyboards"
+          ],
+          "Years": "1993–present",
+          "Overview": "Bassist who joined early in the band’s rise and remains a core rhythmic and melodic anchor.",
+          "Bio": {
+            "BioID": "bio-collective-soul-will-turpin",
+            "ArtistID": "collective-soul",
+            "ArtistName": "Collective Soul",
+            "MemberName": "Will Turpin",
+            "FullName": "William Ross Turpin",
+            "Birth": {
+              "Date": "1971-02-08",
+              "Place": "Fairbanks, Alaska, United States"
+            },
+            "PrimaryInstruments": [
+              "Bass",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Producer"
+            ],
+            "ActiveYears": "1993–present",
+            "AssociatedActs": [
+              "Collective Soul",
+              "Will Turpin + The Way"
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Collective Soul (\"Blue Album\")",
+                "Year": "1995",
+                "Notes": "Joined early in the band’s rise and helped lock in the rhythm-section feel behind its biggest hits."
+              },
+              {
+                "Title": "Disciplined Breakdown",
+                "Year": "1997",
+                "Notes": "Bassist during a heavier era that still produced multiple No. 1 rock singles."
+              },
+              {
+                "Title": "Dosage",
+                "Year": "1999",
+                "Notes": "Played on the album featuring “Heavy,” the band’s 15‑week No. 1 Mainstream Rock single."
+              },
+              {
+                "Title": "See What You Started by Continuing",
+                "Year": "2015",
+                "Notes": "Continued as the band’s bassist through its later independent era and modern lineup."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "The World I Know",
+                "Year": "1995",
+                "Notes": "A signature single whose melodic foundation benefits from the song’s restrained bass movement and groove."
+              },
+              {
+                "Title": "Listen",
+                "Year": "1997",
+                "Notes": "A moody hit driven by locked-in rhythm section support."
+              },
+              {
+                "Title": "Heavy",
+                "Year": "1999",
+                "Notes": "A riff-heavy single anchored by a tight bass-and-drum pocket that helped it dominate rock radio."
+              },
+              {
+                "Title": "Run",
+                "Year": "1999",
+                "Notes": "A high-energy track where the bass helps push the momentum through fast transitions."
+              }
+            ],
+            "Achievements": [
+              "Joined the band early in its breakout period and became a long-running member through decades of touring and recording.",
+              "Helped shape Collective Soul’s live sound with a bass style that supports big choruses while staying rhythmically precise.",
+              "Maintained parallel work as a producer and solo/side-project artist while remaining a core band member."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Will_Turpin",
+              "Official Site": "https://collectivesoul.com/"
+            },
+            "Biography": "Will Turpin is Collective Soul’s longtime bassist, joining the band as it was transitioning from a local breakout into a national act. His playing sits at the intersection of groove and songcraft: supportive, clean, and built to keep the chorus hitting with authority.\n\nBorn in Fairbanks, Alaska and raised in Georgia, Turpin’s path into music combined formal study with hands-on experience. That background shows in his versatility—he’s associated not only with bass but also with keys and vocals, skills that can matter in a band that leans heavily on layered textures.\n\nTurpin came into Collective Soul in the early stage of their rise, helping solidify a lineup that could handle the demands of major touring and major-label recording schedules. As the band’s songs started living on radio, the rhythm section had to become a dependable engine, and he became a key part of that engine.\n\nOn the 1995 self-titled “Blue Album,” the bass works less as a spotlight instrument and more as an anchor for hook-driven rock arrangements. That approach matches the band’s strengths: clear melodies, strong chord movement, and choruses that open up without getting messy.\n\nAs the band moved into heavier territory later in the decade, Turpin’s role became even more critical. Songs built around thicker riffs and more aggressive dynamics still need definition, and his lines help keep the low end focused while leaving room for the guitars to bite.\n\nThe Dosage era, anchored by the single “Heavy,” is a prime example of how the rhythm section can drive a rock hit. The song’s success depended on the pocket feeling locked and relentless, and Turpin’s bass work supports that sense of momentum without overcrowding the mix.\n\nOutside the band, Turpin has pursued music as a broader craft, including production work and his own projects. That wider perspective fits a musician who has spent years inside studios and on tour, learning what makes songs translate across systems—headphones, car radios, clubs, and big rooms.\n\nAcross the long arc of Collective Soul’s career, Turpin represents continuity. Lineups shift and styles evolve, but the band’s live show and records keep returning to the same essentials—tight grooves, clear hooks, and disciplined arrangement choices—and his playing helps make that consistency possible."
+          }
+        },
+        {
+          "Name": "Ross Childress",
+          "Roles": [
+            "lead guitar",
+            "songwriting"
+          ],
+          "Years": "1992–2001",
+          "Overview": "Original lead guitarist and key architect of the band’s 1990s guitar sound; co-wrote select material.",
+          "Bio": {
+            "BioID": "bio-collective-soul-ross-childress",
+            "ArtistID": "collective-soul",
+            "ArtistName": "Collective Soul",
+            "MemberName": "Ross Childress",
+            "FullName": "Ross Childress",
+            "Birth": {
+              "Date": "1971-09-08",
+              "Place": "Stockbridge, Georgia, United States"
+            },
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Occupations": [
+              "Musician",
+              "Guitarist",
+              "Songwriter"
+            ],
+            "ActiveYears": "1992–2001",
+            "AssociatedActs": [
+              "Collective Soul"
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Hints, Allegations, and Things Left Unsaid",
+                "Year": "1993/1994",
+                "Notes": "Played on early recordings tied to the breakout of “Shine.”"
+              },
+              {
+                "Title": "Collective Soul (\"Blue Album\")",
+                "Year": "1995",
+                "Notes": "Original lead guitarist; helped define the band’s guitar sound on their biggest-selling album."
+              },
+              {
+                "Title": "Disciplined Breakdown",
+                "Year": "1997",
+                "Notes": "Contributed to a heavier era that produced No. 1 rock hits."
+              },
+              {
+                "Title": "Dosage",
+                "Year": "1999",
+                "Notes": "Part of the lineup during the “Heavy” cycle and late‑’90s radio dominance."
+              },
+              {
+                "Title": "Blender",
+                "Year": "2000",
+                "Notes": "Last studio album with the classic 1990s lineup before his departure in 2001."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "The World I Know",
+                "Year": "1995",
+                "Notes": "Co-wrote the music for one of the band’s biggest crossover hits."
+              },
+              {
+                "Title": "Simple",
+                "Year": "1995",
+                "Notes": "Helped write the song, reflecting the more collaborative feel of the “Blue Album” sessions."
+              },
+              {
+                "Title": "December",
+                "Year": "1995",
+                "Notes": "Key lead-guitar presence on a defining mid‑’90s radio hit."
+              },
+              {
+                "Title": "Heavy",
+                "Year": "1999",
+                "Notes": "Played lead guitar during the era of the band’s extended No. 1 run on rock radio."
+              }
+            ],
+            "Achievements": [
+              "Original lead guitarist and co-songwriter who helped shape Collective Soul’s signature guitar tone during their peak 1990s run.",
+              "Recorded and toured with the band through five studio albums that powered multiple No. 1 rock singles.",
+              "Left the band in 2001 after the release cycle that culminated in their greatest-hits period."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ross_Childress"
+            },
+            "Biography": "Ross Childress was Collective Soul’s original lead guitarist and a defining part of the band’s peak 1990s lineup. His playing blended thick, metallic tones with melodic phrasing, helping the band stand out in an era crowded with guitar-driven radio rock.\n\nGrowing up in Stockbridge, Georgia, Childress was close to the circles that formed around Ed Roland’s early recording projects. When “Shine” began spreading beyond local radio, he became part of the group that turned a studio-focused songwriting showcase into a real touring band.\n\nOn the 1995 self-titled “Blue Album,” Childress’s guitar textures became a major part of the record’s identity. The album’s hooks are direct and vocal-led, but the guitar layers—especially the lead parts—give the songs their bite and their sense of lift in the chorus.\n\nChildress was also involved creatively beyond performance. He is credited as a co-writer on key material from the band’s breakthrough era, including music contributions to “The World I Know,” one of their most enduring songs, and to “Simple,” reflecting how the “Blue Album” sessions encouraged more band input.\n\nAs the band moved into heavier albums like Disciplined Breakdown and Dosage, Childress’s style fit naturally. Those records leaned into thicker riffs and more aggressive dynamics, and his lead work helped carry the songs while still making space for the melodies that kept the band accessible.\n\nThe Dosage cycle, anchored by “Heavy,” showcased the kind of muscular guitar sound associated with Childress’s era in the band. Even in songs built around force, his parts often focused on clarity and feel—elements that make riffs memorable rather than just loud.\n\nAfter recording and touring through Blender, Childress departed Collective Soul in 2001. The band continued with new lead guitarists, but many listeners associate the classic mid‑’90s and late‑’90s sound with the tonal choices and lead style he brought to their best-known singles.\n\nIn the history of Collective Soul, Childress represents the lead-guitar voice of their commercial peak. His contribution is audible not only in individual solos or riffs, but in the broader sonic character of the band’s most iconic era: polished, heavy enough to hit rock radio hard, and melodic enough to stick."
+          }
+        },
+        {
+          "Name": "Shane Evans",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1992–2005",
+          "Overview": "Original drummer whose steady, forceful feel helped define the band’s platinum-era groove.",
+          "Bio": {
+            "BioID": "bio-collective-soul-shane-evans",
+            "ArtistID": "collective-soul",
+            "ArtistName": "Collective Soul",
+            "MemberName": "Shane Evans",
+            "FullName": "Shane Evans",
+            "Birth": {
+              "Date": "1970-04-26",
+              "Place": "United States"
+            },
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Occupations": [
+              "Musician",
+              "Drummer"
+            ],
+            "ActiveYears": "1989–present",
+            "AssociatedActs": [
+              "Collective Soul",
+              "Marching Two-Step"
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Hints, Allegations, and Things Left Unsaid",
+                "Year": "1993/1994",
+                "Notes": "Played on early tracks tied to the “Shine” breakout."
+              },
+              {
+                "Title": "Collective Soul (\"Blue Album\")",
+                "Year": "1995",
+                "Notes": "Drummer during the band’s commercial peak and biggest radio era."
+              },
+              {
+                "Title": "Disciplined Breakdown",
+                "Year": "1997",
+                "Notes": "Part of the lineup that generated more No. 1 rock singles."
+              },
+              {
+                "Title": "Dosage",
+                "Year": "1999",
+                "Notes": "Drummer during the “Heavy” era and late‑’90s dominance."
+              },
+              {
+                "Title": "Youth",
+                "Year": "2004",
+                "Notes": "One of the last studio albums he recorded with the band before moving on."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Shine",
+                "Year": "1993",
+                "Notes": "Early track associated with the band’s breakthrough and the momentum that led to major success."
+              },
+              {
+                "Title": "December",
+                "Year": "1995",
+                "Notes": "A defining hit whose dynamics rely on a steady, patient build."
+              },
+              {
+                "Title": "Precious Declaration",
+                "Year": "1997",
+                "Notes": "A driving rock single where the drum groove helps propel the chorus."
+              },
+              {
+                "Title": "Heavy",
+                "Year": "1999",
+                "Notes": "A riff-led hit that depended on tight, forceful drum feel to sustain its intensity."
+              }
+            ],
+            "Achievements": [
+              "Original drummer of Collective Soul and part of the lineup that delivered the band’s best-known 1990s run of hits.",
+              "Recorded and toured through multiple platinum-era album cycles, helping define the feel behind songs that dominated rock radio.",
+              "Brought a solid, song-first approach that supported both heavier riffs and more melodic, dynamic arrangements."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Shane_Evans_(musician)"
+            },
+            "Biography": "Shane Evans was Collective Soul’s original drummer and a key part of the band’s rise from a Georgia-based project into a national rock-radio force. His approach behind the kit focused on feel and structure—keeping songs steady enough to support big hooks while still hitting hard when the arrangement called for it.\n\nEvans had deep roots in the same local scene that produced the earliest Collective Soul recordings. He played with Ed Roland in earlier projects, and that shared history mattered when the group had to move quickly from studio demos to a functioning live band.\n\nThe band’s earliest success came through “Shine,” a song that spread from college radio into heavy rock rotation. In that period, Evans helped give the music a confident pulse that could translate from the original recordings into a live show, which became essential as the band’s audience expanded fast.\n\nOn the 1995 self-titled “Blue Album,” Evans’s drumming supports songs built on gradual builds and wide choruses. Tracks like “December” rely on patience as much as power, and the ability to hold back while still creating tension is a big part of what makes those songs work.\n\nAs the band turned heavier in the late 1990s, Evans adapted to the shift without losing the song-first mindset. Albums like Disciplined Breakdown and Dosage demanded a firmer attack, but the grooves remained disciplined and consistent—qualities that helped those singles connect on radio and in big rooms.\n\nThe Dosage era in particular highlighted the value of a locked-in rock drummer. “Heavy” became one of the band’s signature later hits, and sustaining that kind of intensity requires tight time, strong dynamics, and a feel that keeps the riff driving rather than dragging.\n\nEvans remained part of the band through a long and demanding run of touring and recording. Those years helped define what many listeners think of as the classic Collective Soul rhythm-section feel: straightforward, muscular, and always designed to serve the chorus.\n\nIn retrospect, Evans’s contribution is foundational to the band’s best-known era. When fans talk about Collective Soul as a dependable, hook-driven rock band of the 1990s, they’re also talking about the steady, confident drum work that kept those songs moving and made them feel strong in both recorded and live contexts."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "David Neal",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1992–1993",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "Hints, Allegations, and Things Left Unsaid (original release)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Will Turpin",
+          "Overview": "Early bassist credited on the band’s initial recordings before the lineup solidified for the major-label era. His brief tenure is tied to the earliest stage of the project becoming a working band."
+        },
+        {
+          "Name": "Joel Kosche",
+          "Roles": [
+            "lead guitar",
+            "backing vocals"
+          ],
+          "Years": "2001–2008",
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "Youth",
+            "From the Ground Up",
+            "Home",
+            "Afterwords"
+          ],
+          "Replacing": "Ross Childress",
+          "ReplacedBy": "",
+          "Overview": "Stepped in as lead guitarist after the classic 1990s era, helping carry the band through a transitional period and into the early independent releases. His playing kept the sound guitar-forward while bringing a slightly different lead tone and phrasing."
+        },
+        {
+          "Name": "John Bush",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "2005–2006",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "From the Ground Up (live)",
+            "Home (live/orchestral project)"
+          ],
+          "Replacing": "Shane Evans",
+          "ReplacedBy": "",
+          "Overview": "Joined after the original drummer’s departure and contributed to a period when the band emphasized live performance and special projects. His tenure bridged eras before the later, more stable rhythm-section lineup."
+        },
+        {
+          "Name": "Johnny Rabb",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "2012–present",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "See What You Started by Continuing",
+            "Blood",
+            "Vibrating"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Became the band’s touring and recording drummer in the 2010s, bringing a highly technical, energetic style shaped by years of clinics and instructional work. His precise, powerful playing supports the band’s modern live show and late-career studio output."
+        },
+        {
+          "Name": "Jesse Triplett",
+          "Roles": [
+            "lead guitar"
+          ],
+          "Years": "2014–present",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "See What You Started by Continuing",
+            "Blood",
+            "Vibrating"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Joined as lead guitarist in the mid‑2010s and helped refresh the band’s guitar voice while staying faithful to the hook-driven, riff-forward sound fans expect. In the current lineup, he handles the lead parts that keep classic songs recognizable and newer material punchy."
+        }
+      ]
     },
     {
       "ArtistID": "the-commodores",
