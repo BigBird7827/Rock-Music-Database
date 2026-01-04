@@ -20065,27 +20065,523 @@
     {
       "ArtistID": "red-hot-chili-peppers",
       "Name": "Red Hot Chili Peppers",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Los Angeles",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1982–present"
+      ],
+      "Genres": [
+        "alternative rock",
+        "funk rock",
+        "rap rock",
+        "funk metal",
+        "punk rock"
+      ],
+      "Labels": [
+        "EMI",
+        "Capitol",
+        "Warner Bros. Records"
+      ],
+      "Overview": "Red Hot Chili Peppers are a Los Angeles–formed rock band whose signature sound fuses funk-driven basslines, punk energy, and melodic alternative rock. Emerging from the early-1980s club scene, they built a reputation on fearless live shows and a style that could swing from loose, groove-heavy jams to tightly written pop-rock hooks.\n\nThe band’s mainstream breakthrough arrived in the early 1990s, and their later run of records in the late 1990s and 2000s turned them into one of the era’s defining rock acts. Across decades of lineup changes and stylistic pivots, the Peppers’ core identity has stayed centered on Anthony Kiedis’s elastic vocal approach, Flea’s percussive bass playing, and a band chemistry that thrives on rhythmic interplay as much as on riffs.",
+      "NotableAlbums": [
+        {
+          "Title": "Blood Sugar Sex Magik",
+          "Year": "1991",
+          "Notes": "A career-defining breakthrough that pushed the band from cult favorites to global rock staples, pairing funk edge with more spacious, song-forward writing."
+        },
+        {
+          "Title": "Californication",
+          "Year": "1999",
+          "Notes": "A major late-career resurgence built on melodic guitar textures and big choruses, cementing their status as a stadium-level alternative rock band."
+        },
+        {
+          "Title": "By the Way",
+          "Year": "2002",
+          "Notes": "Leans into harmony-rich, melodic songwriting while keeping the rhythm section’s bounce, showing the group’s pop instincts without losing their snap."
+        },
+        {
+          "Title": "Stadium Arcadium",
+          "Year": "2006",
+          "Notes": "A sprawling, ambitious double album that balances funk, psychedelia, and arena rock polish, packed with radio staples and deep cuts."
+        },
+        {
+          "Title": "Mother’s Milk",
+          "Year": "1989",
+          "Notes": "A key transitional record that sharpened their attack and widened their audience, setting the stage for the early-’90s breakout."
+        },
+        {
+          "Title": "One Hot Minute",
+          "Year": "1995",
+          "Notes": "A darker, heavier detour that reflects a different guitar voice and a more brooding tone, while still anchored by Flea’s groove."
+        },
+        {
+          "Title": "Unlimited Love",
+          "Year": "2022",
+          "Notes": "A later-era record that reconnects classic band chemistry with modern polish, leaning on feel and interplay more than trend-chasing."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Under the Bridge",
+          "Year": "1992",
+          "Notes": "A landmark single that revealed the band’s emotional, melodic side and became one of the defining alternative rock songs of the decade."
+        },
+        {
+          "Title": "Give It Away",
+          "Year": "1991",
+          "Notes": "A kinetic funk-rock anthem driven by Flea’s bass and a relentless groove, often treated as the band’s purest mission statement."
+        },
+        {
+          "Title": "Californication",
+          "Year": "1999",
+          "Notes": "A sleek, bittersweet single that helped define their late-’90s comeback and became one of their most enduring radio staples."
+        },
+        {
+          "Title": "Scar Tissue",
+          "Year": "1999",
+          "Notes": "A laid-back, melodic hit whose guitar lines and reflective mood signaled the band’s shift toward songcraft-forward alternative rock."
+        },
+        {
+          "Title": "Otherside",
+          "Year": "2000",
+          "Notes": "A moody, hook-heavy track that kept the comeback momentum rolling and became a staple of rock radio and live sets."
+        },
+        {
+          "Title": "By the Way",
+          "Year": "2002",
+          "Notes": "Bright, fast, and melody-packed, capturing the band’s pop instincts while keeping their rhythmic urgency front and center."
+        },
+        {
+          "Title": "Can’t Stop",
+          "Year": "2002",
+          "Notes": "A riff-and-groove showcase built on rhythmic guitar and propulsive bass, frequently used as an opener and crowd igniter in concert."
+        },
+        {
+          "Title": "Dani California",
+          "Year": "2006",
+          "Notes": "A swaggering single that blends classic-rock nods with modern punch, helping anchor the Stadium Arcadium era on radio."
+        },
+        {
+          "Title": "Snow (Hey Oh)",
+          "Year": "2006",
+          "Notes": "Known for its looping guitar figure and melodic lift, a late-2000s staple that shows the band’s knack for hypnotic hooks."
+        },
+        {
+          "Title": "Dark Necessities",
+          "Year": "2016",
+          "Notes": "A sleek, groove-forward single that highlighted the band’s ability to evolve while keeping their rhythmic DNA intact."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1992",
+          "Title": "Major mainstream breakthrough with Blood Sugar Sex Magik",
+          "Details": "The album’s singles and sustained popularity turned the band into a global rock presence and made their funk-rock hybrid a defining part of early-’90s alternative."
+        },
+        {
+          "Year": "1999–2000s",
+          "Title": "Sustained stadium-era success and radio dominance",
+          "Details": "With a run of multi-era hits and heavily toured album cycles, the band became one of the most recognizable rock acts of the late 1990s and 2000s."
+        },
+        {
+          "Year": "2012",
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Details": "The group was honored for their long-term impact and for bringing funk and rhythmic experimentation into the core of modern rock."
+        },
+        {
+          "Year": "2000s–present",
+          "Title": "Multiple Grammy Award wins and nominations",
+          "Details": "Their recordings and performances have been recognized repeatedly by the Recording Academy, reflecting both commercial success and peer respect."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Los Angeles, California, in 1982 and became closely associated with the city’s alternative and funk-rock scenes.",
+        "Known for an unusually rhythm-centric band identity: bass, drums, and guitar often operate like interlocking percussion as much as traditional rock accompaniment.",
+        "Experienced notable lineup changes over the decades, especially in the guitar chair, while maintaining a consistent core of Kiedis and Flea.",
+        "Live performances are a central part of their reputation, with setlists that often blend era-spanning hits and extended, groove-based jams."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://redhotchilipeppers.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers",
+        "Discography": "https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Anthony Kiedis",
+          "Roles": [
+            "lead vocals",
+            "lyrics",
+            "songwriting"
+          ],
+          "Years": "1982–present",
+          "Overview": "Co-founding frontman whose rhythmic phrasing and lyrical voice helped define the band’s blend of funk, punk energy, and melodic alternative rock.",
+          "Bio": {
+            "BioID": "bio-red-hot-chili-peppers-anthony-kiedis",
+            "ArtistID": "red-hot-chili-peppers",
+            "ArtistName": "Red Hot Chili Peppers",
+            "MemberName": "Anthony Kiedis",
+            "FullName": "Anthony Kiedis",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "alternative rock",
+              "funk rock",
+              "rap rock",
+              "funk metal",
+              "punk rock"
+            ],
+            "Birth": {
+              "Date": "1962-11-01",
+              "Place": "Grand Rapids, Michigan, United States"
+            },
+            "ActiveYears": [
+              "1982–present"
+            ],
+            "AssociatedActs": [
+              "Red Hot Chili Peppers"
+            ],
+            "KeyAlbums": [
+              "Blood Sugar Sex Magik",
+              "Californication",
+              "By the Way",
+              "Stadium Arcadium",
+              "Unlimited Love"
+            ],
+            "KeySongs": [
+              "Under the Bridge",
+              "Give It Away",
+              "Californication",
+              "Scar Tissue",
+              "By the Way"
+            ],
+            "Achievements": [
+              "Co-founded Red Hot Chili Peppers and has remained their frontman across every era of the band’s career.",
+              "Primary lyric voice for many of the group’s best-known songs, balancing rhythmic delivery with melodic hooks as the band’s sound evolved."
+            ],
+            "ExternalLinks": {
+              "Official Site": "",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Anthony_Kiedis"
+            },
+            "Biography": "Anthony Kiedis is the lead vocalist and frontman of Red Hot Chili Peppers, recognized for a delivery that can shift from rhythmic, rap-like phrasing to melodic singing depending on the song’s needs.\n\nRaised between the Midwest and Southern California, he became closely tied to the Los Angeles scene that shaped the band’s early identity—equal parts punk attitude, funk swagger, and streetwise humor.\n\nIn the Peppers, Kiedis’s role has often been less about traditional vocal virtuosity and more about feel: shaping cadences that lock to the bass and drums and making hooks land with conversational immediacy.\n\nAcross the band’s catalog, he’s also been a primary lyric voice, mixing character sketches, personal confession, and a vivid sense of place—especially when writing about Los Angeles and the pressures of fame.\n\nThe early years were defined by chaotic energy and a live reputation built on risk-taking, but the band’s evolution required him to develop more controlled melody and broader emotional range.\n\nThat growth is especially evident in the era where the band embraced bigger choruses and more reflective songwriting, without abandoning the rhythmic bite that made them distinctive.\n\nOutside the band, Kiedis has been associated with writing and long-form storytelling about his life and the group’s journey, which further cemented his image as more than a performer.\n\nDecades into the band’s run, he remains a defining presence—an unconventional frontman whose voice, phrasing, and persona are inseparable from the Peppers’ sound."
+          }
+        },
+        {
+          "Name": "Flea",
+          "Roles": [
+            "bass",
+            "backing vocals",
+            "songwriting"
+          ],
+          "Years": "1982–present",
+          "Overview": "Co-founding bassist whose percussive funk technique and melodic instincts are the band’s most identifiable musical signature.",
+          "Bio": {
+            "BioID": "bio-red-hot-chili-peppers-flea",
+            "ArtistID": "red-hot-chili-peppers",
+            "ArtistName": "Red Hot Chili Peppers",
+            "MemberName": "Flea",
+            "FullName": "Michael Peter Balzary",
+            "PrimaryInstruments": [
+              "Bass",
+              "Trumpet",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Bassist"
+            ],
+            "Genres": [
+              "alternative rock",
+              "funk rock",
+              "rap rock",
+              "funk metal",
+              "punk rock"
+            ],
+            "Birth": {
+              "Date": "1962-10-16",
+              "Place": "Melbourne, Victoria, Australia"
+            },
+            "ActiveYears": [
+              "1982–present"
+            ],
+            "AssociatedActs": [
+              "Red Hot Chili Peppers"
+            ],
+            "KeyAlbums": [
+              "Blood Sugar Sex Magik",
+              "Californication",
+              "By the Way",
+              "Stadium Arcadium",
+              "Unlimited Love"
+            ],
+            "KeySongs": [
+              "Give It Away",
+              "Can’t Stop",
+              "Californication",
+              "Otherside",
+              "Dani California"
+            ],
+            "Achievements": [
+              "Co-founded the band and serves as its rhythmic and melodic anchor, widely recognized for a funk-forward bass approach in a rock context.",
+              "Key architect of the group’s groove-first identity and a central presence in both studio arrangements and live performance."
+            ],
+            "ExternalLinks": {
+              "Official Site": "",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Flea_(musician)"
+            },
+            "Biography": "Michael Peter Balzary—known worldwide as Flea—is the bassist and co-founding engine of Red Hot Chili Peppers, celebrated for a fiercely percussive style that pulls funk technique into rock volume.\n\nBorn in Australia and raised in the United States, he developed as a musician in environments that valued both improvisation and raw energy—an upbringing that fed the band’s hybrid identity.\n\nFlea’s playing is often the band’s most recognizable fingerprint: slap-and-pop attack when a song needs bite, deep pocket groove when it needs swing, and melodic movement when the arrangement opens up.\n\nBeyond technique, his sense of dynamics helps define the group’s best work; he can drive a track relentlessly or leave space so the song breathes, often acting as both rhythm and counter-melody.\n\nAs the band’s sound expanded into more song-centered alternative rock, Flea’s role broadened from pure funk propulsion to more harmonic and melodic responsibility, anchoring choruses and bridges.\n\nHe’s also known as an energetic live performer, using stage movement and improvisational instincts to keep concerts feeling alive rather than scripted.\n\nOutside the Peppers, Flea has explored broader musical interests and collaborations, reflecting a long-standing connection to jazz and experimental approaches to rhythm and tone.\n\nWithin the band’s history, lineup changes and era shifts come and go, but Flea’s musical identity remains the steady core that makes Red Hot Chili Peppers instantly recognizable."
+          }
+        },
+        {
+          "Name": "John Frusciante",
+          "Roles": [
+            "guitar",
+            "backing vocals",
+            "songwriting"
+          ],
+          "Years": "1988–1992; 1998–2009; 2019–present",
+          "Overview": "Guitarist whose melodic, texture-rich approach helped define the band’s biggest creative and commercial peaks across multiple eras.",
+          "Bio": {
+            "BioID": "bio-red-hot-chili-peppers-john-frusciante",
+            "ArtistID": "red-hot-chili-peppers",
+            "ArtistName": "Red Hot Chili Peppers",
+            "MemberName": "John Frusciante",
+            "FullName": "John Anthony Frusciante",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Guitarist",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "alternative rock",
+              "funk rock",
+              "rap rock",
+              "funk metal",
+              "punk rock"
+            ],
+            "Birth": {
+              "Date": "1970-03-05",
+              "Place": "Queens, New York City, New York, United States"
+            },
+            "ActiveYears": [
+              "1988–1992",
+              "1998–2009",
+              "2019–present"
+            ],
+            "AssociatedActs": [
+              "Red Hot Chili Peppers"
+            ],
+            "KeyAlbums": [
+              "Mother’s Milk",
+              "Blood Sugar Sex Magik",
+              "Californication",
+              "By the Way",
+              "Stadium Arcadium",
+              "Unlimited Love"
+            ],
+            "KeySongs": [
+              "Under the Bridge",
+              "Scar Tissue",
+              "Can’t Stop",
+              "By the Way",
+              "Snow (Hey Oh)"
+            ],
+            "Achievements": [
+              "Contributed signature guitar parts and tonal approach across the band’s most celebrated album runs, blending groove support with memorable melodic lines.",
+              "Known for shaping the band’s shift toward more song-centered alternative rock while maintaining the rhythmic interplay at the core of their sound."
+            ],
+            "ExternalLinks": {
+              "Official Site": "",
+              "Wikipedia": "https://en.wikipedia.org/wiki/John_Frusciante"
+            },
+            "Biography": "John Frusciante is a guitarist whose multiple tenures with Red Hot Chili Peppers helped shape their most iconic eras, bringing a melodic sensibility that balanced the band’s rhythmic intensity.\n\nComing up as a devoted fan of the group before joining, he entered with deep respect for their chemistry and an instinct for guitar parts that serve the groove rather than dominate it.\n\nFrusciante’s style is often defined by economy: clean, memorable lines, carefully chosen chords, and textures that frame Kiedis’s vocal while leaving room for Flea and the drums to drive momentum.\n\nHis contributions helped move the band toward more emotionally direct songwriting, where a single riff or repeating figure could carry a track’s identity without crowding the arrangement.\n\nIn the studio, his ear for tone and layering became central—adding harmonies, subtle overdubs, and atmospheric details that gave the band a broader palette than pure funk-rock attack.\n\nHis absences and returns have marked distinct chapters in the band’s story, and each return has sparked renewed interest in the group’s classic interplay and melodic focus.\n\nOutside the band, Frusciante is also associated with a wide-ranging solo output and experimental interests, which informs the adventurous edges of his work even in mainstream settings.\n\nWhen he’s in the lineup, the Peppers often sound both sharper and more expansive—still groove-first, but with a strong melodic spine that defines their biggest records."
+          }
+        },
+        {
+          "Name": "Chad Smith",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1988–present",
+          "Overview": "Long-running drummer whose hard-hitting, groove-centric style provides the pocket and power behind the band’s modern-era sound.",
+          "Bio": {
+            "BioID": "bio-red-hot-chili-peppers-chad-smith",
+            "ArtistID": "red-hot-chili-peppers",
+            "ArtistName": "Red Hot Chili Peppers",
+            "MemberName": "Chad Smith",
+            "FullName": "Chad Gaylord Smith",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Drummer"
+            ],
+            "Genres": [
+              "alternative rock",
+              "funk rock",
+              "rap rock",
+              "funk metal",
+              "punk rock"
+            ],
+            "Birth": {
+              "Date": "1961-10-25",
+              "Place": "Saint Paul, Minnesota, United States"
+            },
+            "ActiveYears": [
+              "1988–present"
+            ],
+            "AssociatedActs": [
+              "Red Hot Chili Peppers"
+            ],
+            "KeyAlbums": [
+              "Mother’s Milk",
+              "Blood Sugar Sex Magik",
+              "Californication",
+              "By the Way",
+              "Stadium Arcadium",
+              "Unlimited Love"
+            ],
+            "KeySongs": [
+              "Give It Away",
+              "Can’t Stop",
+              "Dani California",
+              "By the Way",
+              "Otherside"
+            ],
+            "Achievements": [
+              "Joined during a pivotal transition and became the durable rhythmic foundation behind the band’s most successful multi-decade runs.",
+              "Praised for combining funk pocket with rock power, allowing the band to pivot between styles without losing momentum."
+            ],
+            "ExternalLinks": {
+              "Official Site": "",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Chad_Smith"
+            },
+            "Biography": "Chad Smith is the drummer of Red Hot Chili Peppers, known for a powerful, feel-heavy approach that can swing like funk while hitting with the impact of hard rock.\n\nJoining after the band’s early period, he became the long-running rhythmic anchor behind their most commercially successful eras and many of their defining songs.\n\nSmith’s playing emphasizes pocket and momentum: tight hi-hat work, deep backbeat, and fills that feel musical rather than flashy, keeping the band’s groove intact even at high speed.\n\nHe’s especially effective at bridging styles—supporting rap-like vocal phrasing, open melodic choruses, and heavier rock sections without making the transitions feel stitched together.\n\nIn live settings, his consistency allows the band’s improvisational instincts to flourish; when the rhythm section stays locked, the guitar and vocals can take risks without losing the song.\n\nHis sound is also part of the band’s identity: big, clear, and direct, with a human looseness that keeps tracks from feeling overly polished or mechanical.\n\nBeyond Red Hot Chili Peppers, Smith has been active in side projects and collaborations that highlight his versatility and love of groove-based music.\n\nDecades into the band’s run, he remains the dependable engine under the hood—steady, hard-hitting, and crucial to the Peppers’ balance of funk swing and rock force."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Hillel Slovak",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1982–1983; 1985–1988",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "The Uplift Mofo Party Plan"
+          ],
+          "Replacing": "Jack Sherman (second guitarist era ended)",
+          "ReplacedBy": "John Frusciante",
+          "Overview": "Early guitarist whose funky, raw playing helped define the band’s original sound and chemistry. His era is closely tied to the group’s formative club reputation and early recordings, and his loss marked a major turning point in the band’s history."
+        },
+        {
+          "Name": "Jack Sherman",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1983–1984",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Red Hot Chili Peppers"
+          ],
+          "Replacing": "Hillel Slovak (temporarily)",
+          "ReplacedBy": "Hillel Slovak",
+          "Overview": "Early guitarist who played on the band’s debut album during a period when the lineup was still taking shape. His time captures the group’s earliest studio attempt to bottle their live energy before the classic chemistry fully locked in."
+        },
+        {
+          "Name": "Jack Irons",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1982–1984; 1986–1988",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Freaky Styley",
+            "The Uplift Mofo Party Plan"
+          ],
+          "Replacing": "Original co-founding drum chair",
+          "ReplacedBy": "Chad Smith",
+          "Overview": "Co-founding drummer whose feel helped establish the band’s early funk-punk identity. His departures and returns marked the volatile early years, and his exit preceded the lineup that powered the band’s mainstream breakthrough."
+        },
+        {
+          "Name": "Cliff Martinez",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1983–1986",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Red Hot Chili Peppers",
+            "Freaky Styley"
+          ],
+          "Replacing": "Jack Irons (first departure)",
+          "ReplacedBy": "Jack Irons (returned) / later Chad Smith era",
+          "Overview": "Drummer during the band’s early recording years, appearing on their debut and second album. His playing sits at the point where the band’s punk edge and funk grooves were still being welded into a single style."
+        },
+        {
+          "Name": "Dave Navarro",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1993–1998",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "One Hot Minute"
+          ],
+          "Replacing": "John Frusciante (post-1992 departure)",
+          "ReplacedBy": "John Frusciante",
+          "Overview": "Guitarist for the One Hot Minute era, bringing a heavier, darker tone and a different rhythmic feel than the band’s classic sound. His tenure shows how flexible the Peppers can be while still keeping Flea and Kiedis at the center."
+        },
+        {
+          "Name": "Josh Klinghoffer",
+          "Roles": [
+            "guitar",
+            "backing vocals",
+            "multi-instrumentalist"
+          ],
+          "Years": "2009–2019",
+          "Instruments": [
+            "Guitar",
+            "Vocals",
+            "Keyboards"
+          ],
+          "Albums": [
+            "I’m with You",
+            "The Getaway"
+          ],
+          "Replacing": "John Frusciante (2009 departure)",
+          "ReplacedBy": "John Frusciante",
+          "Overview": "Guitarist and frequent multi-instrumentalist who guided the band through a full decade of touring and recording. His era kept the group active at arena scale while leaning into a slightly sleeker, modern alternative-rock palette."
+        }
+      ]
     },
     {
       "ArtistID": "red-rider",
