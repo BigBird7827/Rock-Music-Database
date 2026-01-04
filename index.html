@@ -587,9 +587,10 @@ display:none;
 
     const badgeHTML = (a) => {
       const filled = isFilled(a);
-      return `<span class="badge" title="${filled ? "Filled" : "TODO"}">
-        <span class="dot ${filled ? "full" : "todo"}"></span>
-        ${filled ? "FULL" : "TODO"}
+      if (filled) return "";
+      return `<span class="badge" title="TODO">
+        <span class="dot todo"></span>
+        TODO
       </span>`;
     };
 
@@ -605,10 +606,12 @@ display:none;
       return normKey(hay).includes(normKey(q));
     };
 
-    const sortArtists = (arr) => [...arr].sort((a, b) => safe(a.Name).localeCompare(safe(b.Name)));
+    const stripThe = (n) => safe(n).replace(/^the\s+/i, "");
+
+    const sortArtists = (arr) => [...arr].sort((a, b) => stripThe(a.Name).localeCompare(stripThe(b.Name)));
 
     const itemHTML = (a) => {
-      const name = escapeHtml(a.Name);
+      const name = escapeHtml(stripThe(a.Name));
       const id = escapeHtml(a.ArtistID || a.Name);
       const active = state.selectedId === id ? "active" : "";
       return `
