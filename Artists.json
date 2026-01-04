@@ -1900,27 +1900,364 @@
     {
       "ArtistID": "a-ha",
       "Name": "a-ha",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Oslo",
+        "Region": "Oslo",
+        "Country": "Norway"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1982–1994",
+        "1998–2010",
+        "2015–present"
+      ],
+      "Genres": [
+        "Synth-pop",
+        "New wave",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Warner Bros.",
+        "WEA",
+        "Polydor",
+        "RCA"
+      ],
+      "Overview": "a-ha are a Norwegian synth-pop/pop-rock trio formed in Oslo in 1982 by guitarist and principal songwriter Paul Waaktaar-Savoy, keyboardist/guitarist Magne Furuholmen, and vocalist Morten Harket. After relocating to London and grinding through early singles that didn’t break internationally, they hit a global tipping point with “Take On Me” and its rotoscoped, pencil-sketch music video—an MTV-era signature that pushed the song to the top of the U.S. Billboard Hot 100 on October 19, 1985.\n\nRather than disappearing after that crossover moment, a-ha built a deep European catalog anchored by sharply written pop melodrama, ice-bright synth textures, and Harket’s high-tenor lead. Their run of key singles includes “The Sun Always Shines on T.V.,” “Hunting High and Low,” “Stay on These Roads,” and the 1987 James Bond theme “The Living Daylights” (a major U.K. hit). The band have navigated hiatuses and reunions, continuing to tour and release new work into the 21st century, including the album True North (2022).",
+      "NotableAlbums": [
+        {
+          "Title": "Hunting High and Low",
+          "Year": "1985",
+          "Notes": "Breakthrough debut featuring “Take On Me,” “The Sun Always Shines on T.V.,” and the title track; established their signature blend of synth-pop sheen and pop-rock songwriting."
+        },
+        {
+          "Title": "Scoundrel Days",
+          "Year": "1986",
+          "Notes": "A darker, more cinematic follow-up built around “Cry Wolf” and “Manhattan Skyline,” showing the band could evolve beyond the debut’s MTV moment."
+        },
+        {
+          "Title": "Stay on These Roads",
+          "Year": "1988",
+          "Notes": "Polished late-’80s pop-rock/synth production with the title single and the Bond-era momentum carried forward; includes their U.S. Top 20 ballad “Stay on These Roads.”"
+        },
+        {
+          "Title": "East of the Sun, West of the Moon",
+          "Year": "1990",
+          "Notes": "Leans warmer and more organic in places while keeping the melodic core intact; highlights include “Crying in the Rain” and “Early Morning.”"
+        },
+        {
+          "Title": "Minor Earth Major Sky",
+          "Year": "2000",
+          "Notes": "Return-era album that reintroduced a-ha as a contemporary touring and recording act, balancing modern textures with their classic melodic approach."
+        },
+        {
+          "Title": "Foot of the Mountain",
+          "Year": "2009",
+          "Notes": "A late-career high point that consciously reconnects with their early synth-pop palette while keeping the writing mature and understated."
+        }
+      ],
+      "SignatureSongs": [
+        "Take On Me",
+        "The Sun Always Shines on T.V.",
+        "Hunting High and Low",
+        "Cry Wolf",
+        "Manhattan Skyline",
+        "The Living Daylights",
+        "Stay on These Roads",
+        "Crying in the Rain",
+        "Summer Moved On",
+        "Foot of the Mountain"
+      ],
+      "Achievements": [
+        {
+          "Year": "1985",
+          "Title": "“Take On Me” reaches #1 in the United States",
+          "Details": "The single hit #1 on the Billboard Hot 100 dated October 19, 1985, giving a Norwegian band a rare U.S. pop breakthrough in the MTV era."
+        },
+        {
+          "Year": "1986",
+          "Title": "MTV Video Music Awards breakout for “Take On Me”",
+          "Details": "The “Take On Me” video became one of the defining clips of the decade and won six awards at the 1986 MTV Video Music Awards."
+        },
+        {
+          "Year": "1987",
+          "Title": "James Bond theme and U.K. hit: “The Living Daylights”",
+          "Details": "a-ha recorded the theme song for the 1987 Bond film The Living Daylights; the single peaked at #5 on the U.K. Singles Chart."
+        },
+        {
+          "Year": "2012",
+          "Title": "National honor in Norway",
+          "Details": "All three members were appointed Knights of the 1st Class of the Royal Norwegian Order of St. Olav for contributions to Norwegian music."
+        },
+        {
+          "Year": "2020",
+          "Title": "“Take On Me” video passes 1 billion YouTube views",
+          "Details": "The official music video crossed 1 billion views in February 2020, underlining the song’s long-running pop-cultural reach."
+        }
+      ],
+      "KeyFacts": [
+        "Core identity: a three-piece band where Waaktaar-Savoy’s songwriting and guitar textures meet Furuholmen’s hooks and synth architecture, all fronted by Harket’s high-tenor lead.",
+        "Their best-known U.S. moment is “Take On Me,” but their long-term career is defined by sustained European success, touring, and a catalog that runs well beyond the mid-’80s peak.",
+        "They were able to translate the MTV-era visual breakthrough into a broader run of hits, including a James Bond theme (“The Living Daylights”) and multiple era-spanning comebacks."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://a-ha.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/A-ha",
+        "Discography": "https://en.wikipedia.org/wiki/A-ha_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Morten Harket",
+          "Roles": [
+            "lead vocals",
+            "songwriting",
+            "occasional guitar"
+          ],
+          "Years": "1982–present",
+          "Overview": "Lead vocalist and primary frontman of a-ha, known for a wide-ranging high tenor that became the band’s calling card. He has maintained a parallel solo career while remaining the group’s central live presence.",
+          "Bio": {
+            "BioID": "bio-a-ha-morten-harket",
+            "ArtistID": "a-ha",
+            "ArtistName": "a-ha",
+            "MemberName": "Morten Harket",
+            "FullName": "Morten Harket",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Synth-pop",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1959-09-14",
+              "Place": "Kongsberg, Norway"
+            },
+            "ActiveYears": [
+              "1982–present"
+            ],
+            "AssociatedActs": [
+              "a-ha"
+            ],
+            "KeyAlbums": [
+              "Hunting High and Low",
+              "Scoundrel Days",
+              "Stay on These Roads",
+              "Minor Earth Major Sky",
+              "Foot of the Mountain"
+            ],
+            "KeySongs": [
+              "Take On Me",
+              "The Sun Always Shines on T.V.",
+              "Hunting High and Low",
+              "Stay on These Roads",
+              "The Living Daylights"
+            ],
+            "Achievements": [
+              "As a-ha’s lead vocalist, helped drive “Take On Me” to #1 on the U.S. Billboard Hot 100 and anchor the band’s mid-’80s global breakthrough.",
+              "Sustained the group through multiple eras—hiatus, reunion, and late-career touring—while keeping a-ha’s live identity centered on vocal performance.",
+              "Received national recognition in Norway as a Knight of the 1st Class of the Order of St. Olav (as part of a-ha) for contributions to Norwegian music."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://a-ha.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Morten_Harket"
+            },
+            "Biography": "Morten Harket (born September 14, 1959, in Kongsberg, Norway) is the voice most listeners associate with a-ha: a high, agile tenor that can shift from bright pop immediacy to stark, dramatic restraint. He joined Paul Waaktaar-Savoy and Magne Furuholmen in 1982, completing the trio that would soon move beyond the Norwegian scene and chase an international breakthrough.\n\nIn the early years, Harket’s job was both musical and strategic—selling songs that were repeatedly reworked until the right version landed. That persistence paid off with “Take On Me,” a track that finally connected once the band paired the definitive studio recording with a then-radical rotoscoped video. The combination made Harket’s vocal performance inseparable from the MTV-era image of the band.\n\nHarket’s role inside a-ha has always been more than simply “the singer.” The group’s best-known hits rely on a precise interplay: Waaktaar-Savoy’s melodic writing, Furuholmen’s keyboard architecture, and Harket’s ability to float a hook without losing emotional weight. On songs like “The Sun Always Shines on T.V.” and “Hunting High and Low,” he brings a dramatic, almost cinematic phrasing that helped the band outgrow one-hit labeling.\n\nAs the band’s popularity expanded, Harket became a recognizable frontman across Europe and beyond. Live, the material asks a lot of him—especially the upper-register lines that made their singles radio staples—and he has long been credited for keeping those signature melodies intact on stage while letting arrangements flex with the era.\n\nAcross a-ha’s timeline—initial run through the early ’90s, later reunions, and modern touring—Harket has remained the constant point of connection between new releases and the classic catalog. Even as the band’s sound shifted from glossy synth-pop toward moodier pop-rock and later, more contemporary production, his voice stayed the through-line.\n\nParallel to a-ha, Harket has pursued solo work that lets him explore different pacing and songwriting approaches than the band’s trio dynamic typically allows. That independent path has helped keep his creative identity from being limited to a single global hit, while also feeding back into a-ha’s later-era performances.\n\nIn 2012, Harket—along with the other two a-ha members—was appointed a Knight of the 1st Class of the Royal Norwegian Order of St. Olav for contributions to Norwegian music. The honor underscored that, in Norway, a-ha are viewed not as an ’80s curiosity but as a foundational modern pop act with international impact.\n\nDecades into the band’s career, Harket remains central to why the catalog endures: the songs are carefully written, but they land because he can make polished pop feel urgent and human. Whether delivering the soaring leap of “Take On Me” or the darker emotional pull of later material, he’s the performer who turns the trio’s craftsmanship into a lived-in story."
+          }
+        },
+        {
+          "Name": "Magne Furuholmen",
+          "Roles": [
+            "keyboards",
+            "guitar",
+            "backing vocals",
+            "songwriting"
+          ],
+          "Years": "1982–present",
+          "Overview": "Keyboardist and co-songwriter whose synth lines and melodic hooks are foundational to a-ha’s sound. Also active as a solo musician and visual artist.",
+          "Bio": {
+            "BioID": "bio-a-ha-magne-furuholmen",
+            "ArtistID": "a-ha",
+            "ArtistName": "a-ha",
+            "MemberName": "Magne Furuholmen",
+            "FullName": "Magne Furuholmen",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Visual artist"
+            ],
+            "Genres": [
+              "Synth-pop",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1962-11-01",
+              "Place": "Oslo, Norway"
+            },
+            "ActiveYears": [
+              "1980–present"
+            ],
+            "AssociatedActs": [
+              "a-ha",
+              "Apparatjik",
+              "Bridges"
+            ],
+            "KeyAlbums": [
+              "Hunting High and Low",
+              "Scoundrel Days",
+              "Stay on These Roads",
+              "Foot of the Mountain",
+              "True North"
+            ],
+            "KeySongs": [
+              "Take On Me",
+              "The Sun Always Shines on T.V.",
+              "Stay on These Roads",
+              "Manhattan Skyline",
+              "Analogue (All I Want)"
+            ],
+            "Achievements": [
+              "Co-wrote key a-ha songs including “Take On Me,” helping define the band’s hook-forward, synth-driven identity.",
+              "Expanded the band’s palette by contributing both keyboards and guitar, bridging synth-pop textures with pop-rock arrangement choices.",
+              "Recognized in Norway as a Knight of the 1st Class of the Order of St. Olav (as part of a-ha) for contributions to Norwegian music."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://magnefuruholmen.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Magne_Furuholmen"
+            },
+            "Biography": "Magne Furuholmen (born November 1, 1962, in Oslo, Norway) is the keyboardist and one of the key songwriting voices in a-ha. If Waaktaar-Savoy provides much of the band’s melodic architecture, Furuholmen is the musician who turns that architecture into hooks—the synthesizer lines and chord colors that listeners can recognize in seconds.\n\nBefore a-ha, Furuholmen and Waaktaar-Savoy played together in the band Bridges, a formative partnership that shaped how the two would collaborate as writers. When they brought in vocalist Morten Harket and committed to becoming a three-piece act, Furuholmen’s job became both practical and aesthetic: build a live keyboard rig that could drive songs, and craft parts that felt as physical as guitar riffs.\n\nHis co-writing credit on “Take On Me” captures what he brings to the group—clarity, lift, and a sense of pop momentum that keeps even moody material moving forward. In the band’s mid-’80s rise, those choices mattered: the difference between an interesting track and a mass-audience anthem is often the precision of the hook, and Furuholmen specialized in that precision.\n\nAcross albums like Hunting High and Low and Scoundrel Days, his playing helped define a-ha’s “cool” surface: bright synth timbres, tight rhythmic punctuation, and harmonies that hinted at drama without tipping into excess. He also brought guitar into the mix, giving the trio flexibility in arrangement and letting them shift between synth-pop sheen and pop-rock bite.\n\nAs the band matured, Furuholmen’s contributions tracked the evolution. Late-’80s and early-’90s material leaned more into atmospheric writing and refined production, and his keyboard choices often provided the emotional lighting—subtle pads, sharp stabs, and melodic counterlines that keep choruses from repeating the same way twice.\n\nOutside a-ha, Furuholmen has released solo work and participated in projects like Apparatjik, using collaboration to explore ideas that don’t fit neatly into the trio’s established identity. He is also known as a visual artist, an additional creative life that mirrors his musical role: assembling composition, texture, and color into something immediately readable.\n\nIn 2012, he and his bandmates were appointed Knights of the 1st Class of the Royal Norwegian Order of St. Olav for their contribution to Norwegian music. The award reflects the broader cultural position a-ha occupy at home—an international success story that also helped define modern Norwegian pop in public imagination.\n\nFuruholmen’s lasting impact is that he made a-ha’s sound both memorable and adaptable. From the unmistakable opening gestures of their biggest singles to the quieter sophistication of later records, his playing and writing keep the band’s music anchored in melody first—the rare trait that lets synth-pop age into something closer to classic pop-rock songwriting."
+          }
+        },
+        {
+          "Name": "Paul Waaktaar-Savoy",
+          "Roles": [
+            "guitar",
+            "backing vocals",
+            "songwriting",
+            "programming"
+          ],
+          "Years": "1982–present",
+          "Overview": "Guitarist and principal songwriter for a-ha, responsible for much of the band’s melodic identity and lyrical tone. Also active through the project Savoy and other solo work.",
+          "Bio": {
+            "BioID": "bio-a-ha-paul-waaktaar-savoy",
+            "ArtistID": "a-ha",
+            "ArtistName": "a-ha",
+            "MemberName": "Paul Waaktaar-Savoy",
+            "FullName": "Paul Waaktaar-Savoy (born Pål Gamst)",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Singer"
+            ],
+            "Genres": [
+              "Synth-pop",
+              "New wave",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1961-09-06",
+              "Place": "Tonsenhagen, Oslo, Norway"
+            },
+            "ActiveYears": [
+              "1976–present"
+            ],
+            "AssociatedActs": [
+              "a-ha",
+              "Savoy",
+              "Bridges"
+            ],
+            "KeyAlbums": [
+              "Hunting High and Low",
+              "Scoundrel Days",
+              "Stay on These Roads",
+              "East of the Sun, West of the Moon",
+              "Minor Earth Major Sky"
+            ],
+            "KeySongs": [
+              "Take On Me",
+              "The Sun Always Shines on T.V.",
+              "Hunting High and Low",
+              "The Living Daylights",
+              "Summer Moved On"
+            ],
+            "Achievements": [
+              "Principal songwriter for a-ha, writing or co-writing many of the band’s defining singles including “Take On Me.”",
+              "Co-wrote the 1987 James Bond theme “The Living Daylights,” expanding the band’s profile beyond their debut-era breakthrough.",
+              "Recognized in Norway as a Knight of the 1st Class of the Order of St. Olav (as part of a-ha) for contributions to Norwegian music."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://a-ha.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Waaktaar-Savoy"
+            },
+            "Biography": "Paul Waaktaar-Savoy (born Pål Gamst on September 6, 1961, in the Tonsenhagen area of Oslo, Norway) is the guitarist and principal songwriter behind a-ha’s catalog. While the band’s public image is often tied to the high-drama vocal of Morten Harket and the iconic “Take On Me” video, the deeper engine is Waaktaar-Savoy’s writing: melodies built to last and lyrics that balance romantic intensity with cool distance.\n\nHis partnership with Magne Furuholmen predates a-ha itself. The two played together in Bridges, a stepping-stone that sharpened their collaborative instincts and set up the songwriting division-of-labor that would define a-ha. When Harket joined in 1982, the trio gained the final piece they needed to pursue the kind of pop music Waaktaar-Savoy was aiming for—hooky, modern, and emotionally charged without being melodramatic.\n\nThe long road to “Take On Me” shows his persistence as a writer. The song existed in earlier forms before the hit version finally landed, and its success depended on locking in the right recording, the right production, and the right presentation. Once it did, it wasn’t just a single—it became a template for how ’80s pop could fuse synth-forward production with guitar-based songwriting.\n\nWaaktaar-Savoy’s guitar work in a-ha is often textural rather than flashy. In a band driven by keyboards and vocal melody, he uses guitar to add edge, rhythm, and atmosphere—a pop-rock sensibility that keeps the songs from floating away into purely electronic polish. That balance helped the group sustain momentum across multiple albums instead of being trapped by one defining hit.\n\nHis songwriting range is apparent in the catalog’s contrasts: the bright lift of “Take On Me,” the darker sweep of “The Sun Always Shines on T.V.,” and the elegant restraint of later ballads. He also co-wrote the 1987 James Bond theme “The Living Daylights,” a high-profile commission that required the band’s pop instincts to fit within a cinematic franchise framework.\n\nAfter a-ha’s initial run slowed in the mid-’90s, Waaktaar-Savoy continued making music outside the trio’s spotlight, including work under the Savoy project. Those releases show the same priorities—strong melody and a slightly moody emotional tone—while allowing him to explore pacing and guitar-centric arrangements in ways that differ from a-ha’s keyboard-led identity.\n\nIn 2012, Waaktaar-Savoy and his bandmates were appointed Knights of the 1st Class of the Royal Norwegian Order of St. Olav for their contribution to Norwegian music. The honor functions as a career-spanning stamp: regardless of shifting global tastes, the songs have remained part of the modern pop canon.\n\nUltimately, Waaktaar-Savoy’s legacy is authorship. a-ha’s biggest moments are instantly recognizable, but the reason the catalog holds up is that the writing is sturdy: melodies that can survive changing production fashions, and lyrics that invite re-interpretation. In that sense, his work operates like classic rock songwriting—built for the long haul, not the trend cycle."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Karl-Oluf Wennerberg",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "2009–present",
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Long-running touring drummer in a-ha’s modern era, supporting the band’s return to large-scale live shows beginning around the Foot of the Mountain period. His role is to translate the catalog’s programmed and studio-driven rhythms into a consistent, powerful live backbone."
+        },
+        {
+          "Name": "Erik Ljunggren",
+          "Roles": [
+            "programming",
+            "keyboards",
+            "backing vocals",
+            "bass"
+          ],
+          "Years": "2009–2016, 2019–present",
+          "Instruments": [
+            "keyboards",
+            "programming",
+            "bass",
+            "vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Touring multi-instrumentalist and programmer who helps recreate a-ha’s layered studio arrangements on stage, especially the synth and sequencing elements central to the band’s sound. His flexibility across keyboards, backing vocals, and bass duties makes the trio’s live production feel full without changing the band’s core identity."
+        },
+        {
+          "Name": "Even Ormestad",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "2015–present",
+          "Instruments": [
+            "bass",
+            "keybass"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Modern-era touring bassist who joined as the band resumed full touring activity in the mid-2010s. He anchors the low end and supports the groove-first side of the catalog, letting the trio’s synth and guitar layers sit on a stable, punchy foundation in live settings."
+        }
+      ]
     },
     {
       "ArtistID": "abba",
