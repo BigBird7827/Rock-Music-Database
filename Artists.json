@@ -504,7 +504,482 @@
     },
     {
       "ArtistID": "3-doors-down",
-      "Name": "3 Doors Down"
+      "Name": "3 Doors Down",
+      "Type": "Band",
+      "Origin": "Escatawpa, Mississippi, U.S.",
+      "YearsActive": [
+        "1996–present"
+      ],
+      "Genres": [
+        "Post-grunge",
+        "Alternative rock",
+        "Hard rock"
+      ],
+      "Labels": [
+        "Republic Records",
+        "Universal Records"
+      ],
+      "Overview": "3 Doors Down emerged from Escatawpa, Mississippi in the late 1990s and became one of the defining radio-rock acts of the early 2000s. They broke nationally with “Kryptonite,” a melodic, riff-forward single that crossed from modern rock into the mainstream pop charts and set the stage for their major-label debut, The Better Life. That album delivered a run of staples—“Kryptonite,” “Loser,” and “Be Like That”—and turned their hometown momentum into a long touring career built on big choruses and straight-ahead songcraft.\n\nRather than chasing trends, the band doubled down on arena-ready hooks and emotionally direct songwriting. Away from the Sun expanded their reach with “When I’m Gone” and “Here Without You,” and they kept their commercial profile strong through the mid-2000s with Seventeen Days and the self-titled 3 Doors Down, both of which opened at No. 1 on the Billboard 200. Lineup shifts over time changed the faces on stage, but the group’s identity stayed consistent: relatable narratives, muscular guitars, and songs designed to hit hard in a packed amphitheater.",
+      "NotableAlbums": [
+        {
+          "Title": "The Better Life",
+          "Year": "2000",
+          "Notes": "Breakthrough debut anchored by “Kryptonite,” “Loser,” and “Be Like That”; a defining early-2000s rock-radio album."
+        },
+        {
+          "Title": "Away from the Sun",
+          "Year": "2002",
+          "Notes": "Expanded their mainstream footprint with major singles “When I’m Gone” and “Here Without You.”"
+        },
+        {
+          "Title": "Seventeen Days",
+          "Year": "2005",
+          "Notes": "Debuted at No. 1 in the U.S.; leaned into heavier guitars while keeping the band’s melodic core intact."
+        },
+        {
+          "Title": "3 Doors Down",
+          "Year": "2008",
+          "Notes": "Second consecutive No. 1 U.S. debut; featured “It’s Not My Time” and other late-2000s rock-radio staples."
+        },
+        {
+          "Title": "Time of My Life",
+          "Year": "2011",
+          "Notes": "A late-career high point that continued their run as a major touring and radio act."
+        },
+        {
+          "Title": "Us and the Night",
+          "Year": "2016",
+          "Notes": "A modern-era release that reaffirmed the band’s arena-rock approach and touring strength."
+        }
+      ],
+      "SignatureSongs": [
+        "Kryptonite",
+        "When I'm Gone",
+        "Here Without You",
+        "Be Like That",
+        "Loser",
+        "Let Me Go",
+        "It's Not My Time"
+      ],
+      "Achievements": [
+        {
+          "Year": "2000",
+          "Title": "Breakthrough hit with “Kryptonite”",
+          "Details": "“Kryptonite” became the band’s signature song, peaking at No. 3 on the Billboard Hot 100 and turning 3 Doors Down into a national rock-radio mainstay."
+        },
+        {
+          "Year": "2000",
+          "Title": "Major multi-platinum success for The Better Life",
+          "Details": "The Better Life became one of the best-selling rock albums of its era and was certified 7× Platinum by the RIAA (U.S. units), driven by multiple hit singles."
+        },
+        {
+          "Year": "2002",
+          "Title": "Sustained crossover success with Away from the Sun",
+          "Details": "Away from the Sun debuted in the U.S. Top 10 and produced two Hot 100 Top 5 singles: “When I’m Gone” and “Here Without You.”"
+        },
+        {
+          "Year": "2005",
+          "Title": "No. 1 U.S. debut for Seventeen Days",
+          "Details": "Seventeen Days debuted at No. 1 on the Billboard 200, confirming the band’s staying power beyond their initial breakthrough."
+        },
+        {
+          "Year": "2008",
+          "Title": "Second consecutive No. 1 U.S. debut (3 Doors Down)",
+          "Details": "The self-titled 3 Doors Down debuted at No. 1 on the Billboard 200, led by the hit single “It’s Not My Time.”"
+        },
+        {
+          "Year": "2000s",
+          "Title": "Enduring concert presence",
+          "Details": "Across multiple album cycles, the band remained a reliable arena/amphitheater draw, built around a catalog of radio staples and consistent touring."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1996 in Escatawpa, Mississippi; the original trio was Brad Arnold, Matt Roberts, and Todd Harrell.",
+        "“Kryptonite” was the breakout single and crossed from rock radio into the Billboard Hot 100 Top 5.",
+        "The Better Life earned multi-platinum sales in the U.S. and produced multiple hit singles.",
+        "Away from the Sun added two more major crossover singles: “When I’m Gone” and “Here Without You.”",
+        "Seventeen Days (2005) and 3 Doors Down (2008) both debuted at No. 1 on the Billboard 200.",
+        "Current touring lineup centers on Brad Arnold and Chris Henderson, with later additions filling bass, drums, and second guitar."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://3doorsdown.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/3_Doors_Down",
+        "Discography": "https://en.wikipedia.org/wiki/3_Doors_Down_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Brad Arnold",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1996–present",
+          "Overview": "Founding member and frontman; his vocal delivery and plainspoken lyrics sit at the center of the band’s biggest hits.",
+          "Bio": {
+            "BioID": "bio-3-doors-down-brad-arnold",
+            "ArtistID": "3-doors-down",
+            "ArtistName": "3 Doors Down",
+            "MemberName": "Brad Arnold",
+            "FullName": "Bradley Kirk Arnold",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Post-grunge",
+              "Alternative rock",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1978-09-27",
+              "Place": "Escatawpa, Mississippi, U.S."
+            },
+            "ActiveYears": [
+              "1996–present"
+            ],
+            "AssociatedActs": [
+              "3 Doors Down"
+            ],
+            "KeyAlbums": [
+              "The Better Life",
+              "Away from the Sun",
+              "Seventeen Days",
+              "3 Doors Down"
+            ],
+            "KeySongs": [
+              "Kryptonite",
+              "When I'm Gone",
+              "Here Without You",
+              "It's Not My Time"
+            ],
+            "Achievements": [
+              "Co-founded 3 Doors Down as a teenager and became the band’s defining voice through its peak radio era and beyond.",
+              "Fronted multiple multi-platinum album cycles and helped shape a catalog that remains a staple of early-2000s rock radio."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://3doorsdown.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brad_Arnold"
+            },
+            "Biography": "Bradley Kirk Arnold grew up in Escatawpa, Mississippi and co-founded 3 Doors Down in the mid-1990s with friends from the Gulf Coast scene. In the earliest version of the band he handled drums as well as vocals, helping shape a tight, driving approach that would translate well to radio.\n\nThe group’s local breakthrough became a national one when “Kryptonite” caught fire beyond Mississippi, eventually becoming a crossover hit and introducing a wide audience to their blend of melody and grit. As the band’s frontman, Arnold’s voice—raspy, direct, and emotionally unguarded—made the song’s hook feel personal rather than polished.\n\nOn The Better Life, Arnold’s vocals helped turn a set of compact rock songs into a mainstream phenomenon. The album’s run of singles gave 3 Doors Down a catalog that could anchor both rock and pop-leaning sets, and it established Arnold as the recognizable face of the group.\n\nAway from the Sun expanded their reach, pairing the driving momentum of “When I’m Gone” with the ballad weight of “Here Without You.” Across both tracks, Arnold leaned into the band’s strength: simple phrasing, big emotion, and choruses that land cleanly in a large room.\n\nAs the band moved through later releases, the lineup evolved, but Arnold remained the constant. He carried the group through the mid-2000s touring grind and the shift in rock radio’s center of gravity, keeping their sound rooted in sing-along hooks and straight-ahead arrangements.\n\nOn Seventeen Days and the self-titled 3 Doors Down, Arnold fronted two albums that debuted at No. 1 in the U.S., underscoring that the band’s audience was still showing up—on release week and at the gates on tour night.\n\nIn the 2010s, 3 Doors Down continued as a reliable live act, playing festivals and amphitheaters on the strength of a deep setlist. Arnold’s role became as much about pacing a show and connecting with a crowd as it was about recording new music.\n\nThrough every era, Arnold’s identity as a singer is tied to accessibility: lyrics built for listeners who want a song to say exactly what it feels like. That clarity—paired with a hard-won road-tested delivery—is a big part of why the band’s best-known singles still get a reaction the moment the first riff hits."
+          }
+        },
+        {
+          "Name": "Chris Henderson",
+          "Roles": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "1998–present",
+          "Overview": "Longstanding guitarist who joined before the band’s mainstream breakthrough and helped define their live sound through every touring era.",
+          "Bio": {
+            "BioID": "bio-3-doors-down-chris-henderson",
+            "ArtistID": "3-doors-down",
+            "ArtistName": "3 Doors Down",
+            "MemberName": "Chris Henderson",
+            "FullName": "Chris Henderson",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Guitarist"
+            ],
+            "Genres": [
+              "Post-grunge",
+              "Alternative rock",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1998–present"
+            ],
+            "AssociatedActs": [
+              "3 Doors Down"
+            ],
+            "KeyAlbums": [
+              "The Better Life",
+              "Away from the Sun",
+              "Seventeen Days",
+              "3 Doors Down"
+            ],
+            "KeySongs": [
+              "Kryptonite",
+              "When I'm Gone",
+              "Here Without You",
+              "Let Me Go"
+            ],
+            "Achievements": [
+              "Joined 3 Doors Down prior to their major-label breakthrough and remained a core onstage and studio presence through decades of touring.",
+              "Helped translate the band’s studio hooks into a consistent, guitar-driven live show across multiple lineup changes."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://3doorsdown.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/3_Doors_Down"
+            },
+            "Biography": "Chris Henderson joined 3 Doors Down in 1998, arriving just before the band’s leap from local buzz to national exposure. That timing mattered: he was there as the group tightened its sound for bigger stages and bigger rooms.\n\nAs the band broke through with “Kryptonite” and The Better Life, Henderson became part of the guitar wall that made those choruses feel larger than the small-town story behind them. In concert, his role has been equal parts muscle and glue—locking in rhythm parts, supporting leads, and keeping the songs driving.\n\nThrough the early-2000s run of hits, Henderson helped the group maintain a consistent tone: polished enough for radio, but still grounded in straightforward rock dynamics. That balance is a big reason the band could sit comfortably on modern-rock playlists while also fitting multi-act amphitheater bills.\n\nOn later albums and tours, Henderson’s presence became a stabilizer as other chairs changed around him. Fans often associate the band’s live identity with the way the guitars hit—firm, bright, and built for sing-along endings—and Henderson has been central to that feel.\n\nIn the studio, he has contributed to the band’s signature approach: riffs and chord patterns that support a vocal hook rather than competing with it. That priority—song first—keeps 3 Doors Down’s catalog accessible even when the guitars get heavier.\n\nIn the 2010s, as the band continued touring at scale, Henderson’s job became partly logistical: keeping the live show tight and repeatable night after night. That’s the work that rarely shows up in headlines, but it’s the difference between a nostalgia set and a band that still sounds like itself.\n\nHenderson’s longevity also means he’s one of the key bridges between the early lineups and the modern one. When newer members came in, he helped keep the arrangements and tones aligned with what audiences expect from the songs.\n\nAt this point, Henderson’s impact is inseparable from the band’s durability. If Brad Arnold is the voice listeners recognize instantly, Henderson is part of the reason the band’s sound remains instantly recognizable when the first chorus lands."
+          }
+        },
+        {
+          "Name": "Greg Upchurch",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "2005–present",
+          "Overview": "Drummer who joined during the mid-2000s peak era and helped power the band’s tight, arena-ready live feel.",
+          "Bio": {
+            "BioID": "bio-3-doors-down-greg-upchurch",
+            "ArtistID": "3-doors-down",
+            "ArtistName": "3 Doors Down",
+            "MemberName": "Greg Upchurch",
+            "FullName": "Greg David Upchurch",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Drummer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1971-12-01",
+              "Place": "Houma, Louisiana, U.S."
+            },
+            "ActiveYears": [
+              "1990s–present"
+            ],
+            "AssociatedActs": [
+              "3 Doors Down",
+              "Puddle of Mudd",
+              "Eleven"
+            ],
+            "KeyAlbums": [
+              "Seventeen Days",
+              "3 Doors Down",
+              "Time of My Life",
+              "Us and the Night"
+            ],
+            "KeySongs": [
+              "Let Me Go",
+              "It's Not My Time",
+              "When You're Young"
+            ],
+            "Achievements": [
+              "Joined 3 Doors Down during their run of high-profile tours and helped solidify the band’s modern touring lineup.",
+              "Brought a punchy, disciplined groove that supports the band’s hook-forward songwriting in large venues."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://3doorsdown.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/3_Doors_Down"
+            },
+            "Biography": "Greg David Upchurch was born in Houma, Louisiana and later raised in Kingston, Oklahoma, where he played through school programs and early rock projects. That mix—structured training plus bar-band reality—shows up in his style: clean timekeeping with just enough flash to lift a chorus.\n\nBefore joining 3 Doors Down, Upchurch built a resume in modern rock, including stints connected to bands like Puddle of Mudd. By the time he entered the 3 Doors Down orbit, he had the practical touring instincts that matter more than studio trivia: consistency, stamina, and a feel that doesn’t drift.\n\nHe became the band’s drummer in the mid-2000s, a period when the group was moving from breakout success into the longer, harder phase of being a working arena act. That means long runs of shows, changing bills, and crowds that expect the hits to sound exactly right.\n\nUpchurch’s approach fits that job. He plays to the song—locking the kick and snare into the guitar pattern, leaving room for the vocal to lead, and saving bigger fills for moments where the band needs a lift. It’s a style designed for outdoor sheds and sports arenas.\n\nOn songs like “Let Me Go” and “It’s Not My Time,” the drums help define the pulse that drives a chorus into a crowd chant. That’s where Upchurch’s work becomes obvious: the band sounds tight, and the tempo feels confident even when the room is enormous.\n\nAs the band moved through later albums and tours, he remained part of the stable core around Brad Arnold and Chris Henderson. In a lineup that evolved over time, that continuity helps keep the show consistent for fans who’ve seen the band in multiple decades.\n\nBeyond technique, Upchurch’s value is professional: showing up prepared, hitting the set the same way on night 40 as on night one, and giving the band a foundation that doesn’t wobble. That reliability is the quiet engine behind long careers.\n\nIn a catalog built on big, emotional hooks, the drummer’s job is to make the band feel inevitable—like the chorus can’t miss. Upchurch’s playing does exactly that, and it’s a key reason 3 Doors Down’s live sound has stayed locked-in across eras."
+          }
+        },
+        {
+          "Name": "Chet Roberts",
+          "Roles": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "2012–present",
+          "Overview": "Guitarist who moved from behind-the-scenes work into the touring lineup, helping keep the band’s guitar sound thick and stage-ready.",
+          "Bio": {
+            "BioID": "bio-3-doors-down-chet-roberts",
+            "ArtistID": "3-doors-down",
+            "ArtistName": "3 Doors Down",
+            "MemberName": "Chet Roberts",
+            "FullName": "Chet Roberts",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Guitarist",
+              "Engineer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "2012–present"
+            ],
+            "AssociatedActs": [
+              "3 Doors Down"
+            ],
+            "KeyAlbums": [
+              "Us and the Night"
+            ],
+            "KeySongs": [
+              "Kryptonite",
+              "When I'm Gone",
+              "Here Without You",
+              "It's Not My Time"
+            ],
+            "Achievements": [
+              "Transitioned from studio/road support roles into a permanent onstage guitarist position, reinforcing the band’s modern touring lineup.",
+              "Helped preserve the band’s recognizable guitar textures after key lineup changes."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://3doorsdown.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/3_Doors_Down"
+            },
+            "Biography": "Chet Roberts is one of those players whose story starts behind the curtain. Before he was a visible member of 3 Doors Down, he worked around the band’s touring and studio world, learning the songs, tones, and onstage rhythms from the inside out.\n\nThat apprenticeship matters. It means that when he stepped into the lineup, he wasn’t learning the catalog from scratch—he was already fluent in how the band’s guitars are supposed to feel in a live mix.\n\nWhen 3 Doors Down faced a major guitar transition, Roberts became a key part of keeping the show intact. Fans come to hear “Kryptonite” hit with the same weight they remember, and Roberts’ job is to make sure those parts land the way the crowd expects.\n\nHis role often centers on rhythm support and texture—doubling riffs, filling out chord changes, and reinforcing the chorus impact. In a band whose songs are built around singable hooks, that thickness is what turns a good chorus into a stadium chorus.\n\nRoberts also carries the practical mindset of someone who has lived the logistics of the road. He understands what it takes to deliver a consistent guitar sound night after night, regardless of venue, weather, or schedule.\n\nAs the band continued touring through the 2010s, Roberts helped keep the guitar section balanced—bright enough to cut, heavy enough to feel physical, and tight enough to sound unified with the drums.\n\nHe’s part of the modern identity of 3 Doors Down: a lineup built not only on original history, but on players who can keep the catalog alive without turning it into a museum piece.\n\nIn that sense, Roberts’ contribution is about continuity. He helps the band sound like itself—exactly what long-time fans want when the opening riff hits and the whole place starts singing."
+          }
+        },
+        {
+          "Name": "Justin Biltonen",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "2013–present",
+          "Overview": "Bassist who joined in the 2010s and became part of the band’s steady modern touring unit, anchoring the low end under their biggest sing-along choruses.",
+          "Bio": {
+            "BioID": "bio-3-doors-down-justin-biltonen",
+            "ArtistID": "3-doors-down",
+            "ArtistName": "3 Doors Down",
+            "MemberName": "Justin Biltonen",
+            "FullName": "Justin Biltonen",
+            "PrimaryInstruments": [
+              "Bass"
+            ],
+            "Occupations": [
+              "Musician",
+              "Bassist",
+              "Singer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Post-grunge",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": "North Carolina, U.S."
+            },
+            "ActiveYears": [
+              "2000s–present"
+            ],
+            "AssociatedActs": [
+              "3 Doors Down",
+              "The Campaign 1984"
+            ],
+            "KeyAlbums": [
+              "Us and the Night"
+            ],
+            "KeySongs": [
+              "Kryptonite",
+              "When I'm Gone",
+              "Here Without You",
+              "It's Not My Time"
+            ],
+            "Achievements": [
+              "Joined 3 Doors Down during a major lineup shift and helped stabilize the band’s touring rhythm through the 2010s.",
+              "Reinforced the band’s live low end across a setlist that spans multiple platinum-era albums."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://3doorsdown.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/3_Doors_Down"
+            },
+            "Biography": "Justin Biltonen came into 3 Doors Down in the early 2010s, stepping into a role that matters more than people realize. The bassist in a hook-first rock band isn’t just holding root notes—he’s the weight under the chorus and the engine under the groove.\n\nBefore joining the band, Biltonen played in other rock projects and built the kind of touring experience that prepares you for big stages and tight schedules. That background made him a practical fit for a group that lives on the road.\n\nWhen he entered the lineup, 3 Doors Down already had a catalog that audiences knew by heart. That means there’s little room to “reimagine” parts—fans want the songs to feel exactly like the records, just louder and bigger.\n\nBiltonen’s playing supports that expectation. He locks with the kick drum, reinforces the guitar riffs, and keeps the momentum steady so the vocal can drive the emotional center of the song.\n\nIn the live setting, his job is also about consistency. Outdoor venues, festivals, arenas—each room behaves differently, and a bassist has to keep the band grounded regardless of the mix.\n\nAs the group continued touring at scale in the 2010s, Biltonen became part of the stable modern unit that carries the catalog forward. That stability helps the band keep their setlist broad—early hits, mid-career singles, and later material—without the show feeling fragmented.\n\nEven when he’s not in the spotlight, the bass work is what makes a chorus land physically. That’s the difference between a crowd singing along and a crowd feeling the song.\n\nBiltonen’s contribution is straightforward: make the songs feel big, keep the groove locked, and help a band with a long history sound confident in the present tense."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Matt Roberts",
+          "Roles": [
+            "lead guitar",
+            "backing vocals"
+          ],
+          "Years": "1996–2012",
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "The Better Life",
+            "Away from the Sun",
+            "Seventeen Days",
+            "3 Doors Down",
+            "Time of My Life"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Chet Roberts (touring guitarist)",
+          "Overview": "Founding guitarist whose riffs and leads helped shape the band’s early sound and their biggest early-2000s singles. He stepped away in 2012 for health reasons and later died in 2016."
+        },
+        {
+          "Name": "Todd Harrell",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1996–2012",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "The Better Life",
+            "Away from the Sun",
+            "Seventeen Days",
+            "3 Doors Down",
+            "Time of My Life"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Justin Biltonen",
+          "Overview": "Founding bassist who anchored the band through their breakthrough and multi-platinum run. He left the group in the early 2010s, and the bass role later shifted to Justin Biltonen."
+        },
+        {
+          "Name": "Daniel Adair",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "2002–2005",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Away from the Sun (touring/studio sessions)"
+          ],
+          "Replacing": "Richard Liles (touring drummer)",
+          "ReplacedBy": "Greg Upchurch",
+          "Overview": "Drummer who toured and worked with the band during the Away from the Sun era, helping maintain the live show as the catalog expanded. He later moved on, and the drum seat passed to Greg Upchurch."
+        },
+        {
+          "Name": "Richard Liles",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "2000–2002 (touring)",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "The Better Life (touring)"
+          ],
+          "Replacing": "Brad Arnold (when Arnold moved to full-time frontman)",
+          "ReplacedBy": "Daniel Adair",
+          "Overview": "Early touring drummer brought in so Brad Arnold could stay at the front of the stage as lead vocalist. He supported the band’s first major tours as their debut singles took off."
+        }
+      ]
     },
     {
       "ArtistID": "38-special",
