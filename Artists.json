@@ -3854,7 +3854,238 @@
     },
     {
       "ArtistID": "al-stewart",
-      "Name": "Al Stewart"
+      "Name": "Al Stewart",
+      "Type": "Solo",
+      "Origin": {
+        "City": "Wimborne",
+        "Region": "Dorset, England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1966–present"
+      ],
+      "Genres": [
+        "Folk rock",
+        "Soft rock",
+        "Singer-songwriter",
+        "Rock",
+        "Pop"
+      ],
+      "Labels": [
+        "CBS",
+        "RCA",
+        "Janus",
+        "Arista",
+        "EMI"
+      ],
+      "Overview": "Al Stewart is a British singer‑songwriter whose work blends folk‑rock songwriting with a distinctive, detail‑rich approach to storytelling—often drawing from history, literature, and vivid character sketches. After emerging from the U.K. folk scene in the late 1960s, he built a devoted audience through albums that favored narrative scope over simple pop forms, culminating in a mainstream breakthrough in the mid‑to‑late 1970s.\n\nThat commercial peak arrived with the Alan Parsons–produced album Year of the Cat (1976) and its title track, followed by Time Passages (1978), which delivered his biggest U.S. chart single. Even outside the hit era, Stewart’s catalogue is prized for songs that feel like short stories—whether tracing 20th‑century decades, spotlighting historical figures, or capturing the atmosphere of a place and moment. He has continued recording and touring for decades, keeping a strong concert reputation built on musicianship and the strength of the writing.",
+      "NotableAlbums": [
+        {
+          "Title": "Bedsitter Images",
+          "Year": "1967",
+          "Notes": "Debut album that established Stewart in the British folk milieu, mixing acoustic songwriting with baroque-leaning arrangements."
+        },
+        {
+          "Title": "Past, Present and Future",
+          "Year": "1973",
+          "Notes": "A concept-driven record with songs tied to different decades of the 20th century; widely cited as a key artistic statement in his catalogue."
+        },
+        {
+          "Title": "Year of the Cat",
+          "Year": "1976",
+          "Notes": "Breakthrough album produced by Alan Parsons; a U.S. Top 5 album anchored by the enduring title track."
+        },
+        {
+          "Title": "Time Passages",
+          "Year": "1978",
+          "Notes": "Late‑’70s soft‑rock staple produced by Alan Parsons; features the Top 10 title track and highlights Stewart’s polished studio sound."
+        },
+        {
+          "Title": "24 Carrots",
+          "Year": "1980",
+          "Notes": "A follow‑up that kept the late‑’70s production sheen while leaning into narrative songwriting and melodic pop craft."
+        },
+        {
+          "Title": "Last Days of the Century",
+          "Year": "1988",
+          "Notes": "A later‑period favorite among longtime listeners, continuing his historical and travelogue-style writing."
+        },
+        {
+          "Title": "Sparks of Ancient Light",
+          "Year": "2008",
+          "Notes": "A mature, reflective studio album that shows his long-running commitment to literate songwriting."
+        }
+      ],
+      "SignatureSongs": [
+        "Year of the Cat",
+        "Time Passages",
+        "On the Border",
+        "Song on the Radio",
+        "Roads to Moscow",
+        "Nostradamus",
+        "Broadway Hotel"
+      ],
+      "Achievements": [
+        {
+          "Year": "1967",
+          "Title": "Released his debut album Bedsitter Images",
+          "Details": "The album introduced Stewart’s early folk writing and began a long recording career that would expand into more rock-oriented arrangements over the 1970s."
+        },
+        {
+          "Year": "1977",
+          "Title": "‘Year of the Cat’ became a major U.S. hit and established his signature era",
+          "Details": "The single reached the U.S. Top 10 and the album became a major U.S. success, earning platinum certification and cementing the Alan Parsons collaboration as a defining chapter in his career."
+        },
+        {
+          "Year": "1978–1979",
+          "Title": "‘Time Passages’ became his biggest U.S. chart single",
+          "Details": "The title track reached the U.S. Top 10 and topped the Adult Contemporary chart for an extended run, helping the album become another marquee late‑’70s release."
+        },
+        {
+          "Year": "1970s–present",
+          "Title": "Enduring catalogue reputation for historically themed songwriting",
+          "Details": "Across multiple decades of albums and tours, Stewart’s storytelling approach—songs framed like scenes, biographies, or time-capsules—has kept him a staple for listeners who value narrative rock songwriting."
+        }
+      ],
+      "KeyFacts": [
+        "Born Alastair Ian Stewart (5 September 1945) in Scotland; he grew up in Wimborne, Dorset, and began performing in the U.K. folk scene during the 1960s.",
+        "His writing style is known for weaving historical events, literary references, and character portraits into folk‑rock and soft‑rock arrangements.",
+        "Producer/engineer Alan Parsons helped shape Stewart’s best‑known studio sound on Modern Times, Year of the Cat, and Time Passages.",
+        "‘Year of the Cat’ and ‘Time Passages’ remain his defining radio staples, often serving as entry points to a deeper album catalogue."
+      ],
+      "ExternalLinks": [
+        {
+          "Label": "Official Site",
+          "URL": "https://alstewart.com/"
+        },
+        {
+          "Label": "Wikipedia",
+          "URL": "https://en.wikipedia.org/wiki/Al_Stewart"
+        }
+      ],
+      "CoreMembers": [
+        {
+          "Name": "Al Stewart",
+          "Roles": [
+            "lead vocals",
+            "guitar",
+            "piano",
+            "songwriting"
+          ],
+          "Years": "1966–present",
+          "Overview": "British singer‑songwriter whose folk‑rock narratives and polished late‑’70s recordings made him a long-running staple of album‑oriented rock and adult contemporary radio.",
+          "Bio": {
+            "BioID": "bio-al-stewart-al-stewart",
+            "ArtistID": "al-stewart",
+            "ArtistName": "Al Stewart",
+            "MemberName": "Al Stewart",
+            "FullName": "Alastair Ian Stewart",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Piano"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Folk rock",
+              "Soft rock",
+              "Singer-songwriter",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1945-09-05",
+              "Place": "Greenock, Renfrewshire, Scotland"
+            },
+            "ActiveYears": [
+              "1966–present"
+            ],
+            "AssociatedActs": [
+              "Al Stewart"
+            ],
+            "KeyAlbums": [
+              "Bedsitter Images",
+              "Past, Present and Future",
+              "Year of the Cat",
+              "Time Passages",
+              "24 Carrots",
+              "Last Days of the Century",
+              "Sparks of Ancient Light"
+            ],
+            "KeySongs": [
+              "Year of the Cat",
+              "Time Passages",
+              "On the Border",
+              "Song on the Radio",
+              "Roads to Moscow"
+            ],
+            "Achievements": [
+              "Built a distinctive songwriting identity by fusing folk‑rock with historical and literary storytelling, influencing how narrative could function inside radio-friendly soft rock.",
+              "Achieved major late‑1970s U.S. success with the albums Year of the Cat and Time Passages while sustaining a decades-long touring and recording career."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://alstewart.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Al_Stewart"
+            },
+            "Biography": "Al Stewart came up through the British folk revival, drawn as much to words and atmosphere as to traditional pop structures. From the start, his songs leaned toward scenes and characters—compact narratives where a small detail could carry the emotional weight.\n\nHis first recordings in the late 1960s placed him in the London folk ecosystem, where storytelling and lyrical craft were the currency. Even at that early stage, Stewart’s writing stood out for its cinematic specificity—less diary, more documentary.\n\nAs the 1970s began, he pushed beyond strict acoustic formats and began building albums with broader musical palettes. Rather than abandoning folk roots, he used rock arrangements as a frame for longer arcs and bigger subject matter.\n\nA major artistic milestone arrived with Past, Present and Future, a concept-driven set that treats history as a sequence of human stories. Songs from this period show his method in full: research-like texture on the surface, but always anchored in feeling and perspective.\n\nMainstream recognition followed when he paired his songwriting with sleek, radio-ready production in the mid‑1970s. Year of the Cat brought him a career-defining signature, balancing extended instrumental color with a melody built for repeat listening.\n\nHe sustained that visibility with Time Passages, a late‑’70s staple whose title track became his biggest U.S. chart single. The era’s recordings highlight a rare combination: narrative lyrics that still fit comfortably inside soft‑rock and adult contemporary programming.\n\nAfter the hit period, Stewart continued to release studio work that doubled down on what he did best—songs that read like short stories, often shaped by travel, memory, and historical resonance. Many longtime listeners value the deeper cuts as much as the well-known singles.\n\nAcross decades of touring, he has maintained a reputation as a strong live performer, delivering the classic material with clarity while keeping room for newer songs. The through-line is consistent: a songwriter committed to detail, perspective, and the kind of musical storytelling that rewards close listening."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Peter White",
+          "Roles": [
+            "guitar",
+            "co-writing"
+          ],
+          "Years": "1978 (key collaboration era)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Time Passages"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A guitarist and songwriter who co-wrote material on Time Passages, contributing to the album’s smoother late‑’70s sound and its hit-ready framing."
+        },
+        {
+          "Name": "Peter Wood",
+          "Roles": [
+            "keyboards",
+            "co-writing"
+          ],
+          "Years": "1976 (key collaboration era)",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Year of the Cat"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A collaborator credited as co-writer on ‘Year of the Cat,’ associated with the track’s distinctive harmonic character and the album’s breakthrough period."
+        },
+        {
+          "Name": "Tim Renwick",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1976 (session work)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Year of the Cat"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A session guitarist who played on the ‘Year of the Cat’ recording, helping deliver the song’s memorable instrumental sections and polished studio feel."
+        }
+      ]
     },
     {
       "ArtistID": "alabama",
