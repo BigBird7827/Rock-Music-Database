@@ -13577,27 +13577,568 @@
     {
       "ArtistID": "oasis",
       "Name": "Oasis",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "Type": "Band",
+      "Origin": "Manchester, England",
+      "YearsActive": [
+        "1991–2009",
+        "2024–present"
+      ],
+      "Genres": [
+        "Britpop",
+        "Rock",
+        "Alternative rock"
+      ],
+      "Labels": [
+        "Creation",
+        "Epic",
+        "Big Brother"
+      ],
+      "Overview": "Oasis are an English rock band formed in Manchester in 1991, built around the combustible chemistry of brothers Liam Gallagher (lead vocals) and Noel Gallagher (songwriter, lead guitar, co-lead vocals). They grew out of the city’s club circuit with a sound that mixed loud, chiming guitars and stadium-sized hooks with the swagger of classic British rock. After signing to Creation Records, Oasis released “Definitely Maybe” (1994), a debut that exploded at home and set the tone: fast, anthemic songs, huge choruses, and a belief that rock could still feel like a cultural event. The follow-up “(What’s the Story) Morning Glory?” (1995) turned that momentum into global dominance, producing signature era-definers like “Wonderwall” and “Don’t Look Back in Anger,” and making Oasis one of the most visible bands of the Britpop boom.\n\nTheir rise wasn’t only about records—it was about scale. From relentless touring to landmark shows like Knebworth in 1996, Oasis became a symbol of mid‑’90s UK pop culture: massive crowds, headline drama, and songs that sounded designed for thousands of voices at once. Lineup changes arrived over time, but Noel’s songwriting kept the band’s identity centered on melody, attitude, and sing-along catharsis across later albums such as “Be Here Now” (1997), “Standing on the Shoulder of Giants” (2000), and “Dig Out Your Soul” (2008). The band split in 2009 after Noel’s departure, with both brothers pursuing successful solo careers. In 2024, Oasis reformed and returned to the stage in 2025 with the Oasis Live ’25 Tour—proof that, decades on, their catalogue still works as a shared language for fans who want rock music to feel bigger than the room.",
+      "NotableAlbums": [
+        {
+          "Year": 1994,
+          "Title": "Definitely Maybe",
+          "Details": "Breakthrough debut that captured the band’s early swagger and helped define Britpop’s arrival."
+        },
+        {
+          "Year": 1995,
+          "Title": "(What's the Story) Morning Glory?",
+          "Details": "Global peak-era classic that produced defining singles and cemented Oasis as a stadium-scale band."
+        },
+        {
+          "Year": 1997,
+          "Title": "Be Here Now",
+          "Details": "Maximal, high-pressure follow-up that reflected the band’s mid-’90s fame at full blast."
+        },
+        {
+          "Year": 2000,
+          "Title": "Standing on the Shoulder of Giants",
+          "Details": "A post-’90s reset with a darker, more experimental edge and the start of a new lineup era."
+        },
+        {
+          "Year": 2002,
+          "Title": "Heathen Chemistry",
+          "Details": "Early‑2000s rebound that delivered big singles and kept the band anchored to sing-along rock."
+        },
+        {
+          "Year": 2005,
+          "Title": "Don't Believe the Truth",
+          "Details": "Late-career surge praised for energy, tighter songwriting, and renewed band chemistry."
+        },
+        {
+          "Year": 2008,
+          "Title": "Dig Out Your Soul",
+          "Details": "Final studio album before the 2009 split, leaning into heavier grooves and modern production."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1994,
+          "Title": "Live Forever",
+          "Details": "Early mission-statement anthem that became one of the band’s defining songs."
+        },
+        {
+          "Year": 1994,
+          "Title": "Supersonic",
+          "Details": "Debut-era calling card with instant hooks and attitude."
+        },
+        {
+          "Year": 1995,
+          "Title": "Wonderwall",
+          "Details": "Signature global hit and one of the era’s most enduring sing-along songs."
+        },
+        {
+          "Year": 1995,
+          "Title": "Don't Look Back in Anger",
+          "Details": "Noel-led anthem built for arenas, now a cultural staple in the UK."
+        },
+        {
+          "Year": 1995,
+          "Title": "Champagne Supernova",
+          "Details": "Epic, slow-burn closer that showcases the band’s scale and melodic ambition."
+        },
+        {
+          "Year": 1995,
+          "Title": "Some Might Say",
+          "Details": "Their first UK number‑one single and a core mid‑’90s setlist pillar."
+        },
+        {
+          "Year": 1997,
+          "Title": "D'You Know What I Mean?",
+          "Details": "Bombastic lead single that signaled the ‘everything bigger’ mood of the late‑’90s peak."
+        },
+        {
+          "Year": 2005,
+          "Title": "Lyla",
+          "Details": "A major 2000s-era single that helped reintroduce Oasis as a live powerhouse."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1996,
+          "Title": "Brit Awards: British Album of the Year",
+          "Details": "Won British Album of the Year for “(What's the Story) Morning Glory?” at the 1996 BRIT Awards."
+        },
+        {
+          "Year": 1996,
+          "Title": "Knebworth 1996 became a defining live landmark",
+          "Details": "The two Knebworth shows drew around 250,000 attendees and became a shorthand for Oasis at their peak."
+        },
+        {
+          "Year": 2000,
+          "Title": "Launched Big Brother Recordings",
+          "Details": "Established their own label to release Oasis material in the UK and Ireland starting in 2000."
+        },
+        {
+          "Year": 2025,
+          "Title": "Return to the stage: Oasis Live ’25 Tour",
+          "Details": "Reunited lineup returned for their first shows since 2009 and toured internationally through 2025."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Manchester in 1991; Noel joined the early lineup soon after Liam took over as vocalist.",
+        "Best-known classic lineup: Liam Gallagher (vocals), Noel Gallagher (guitar/songwriting), Paul “Bonehead” Arthurs (guitar), Paul “Guigsy” McGuigan (bass), Alan White (drums).",
+        "Defining albums: “Definitely Maybe” (1994) and “(What's the Story) Morning Glory?” (1995).",
+        "Split in 2009 after Noel Gallagher’s departure; reformed in 2024 and returned to touring in 2025.",
+        "Associated acts after the split included Beady Eye (formed by remaining members) and both Gallagher brothers’ solo projects."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "OfficialWebsite": "https://oasisinet.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Oasis_(band)"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Liam Gallagher",
+          "Roles": [
+            "Lead vocals",
+            "Percussion"
+          ],
+          "Years": "1991–2009; 2024–present",
+          "Overview": "Co-founder and frontman with a distinctive vocal delivery and stage presence that became inseparable from the band’s identity.",
+          "Bio": {
+            "BioID": "bio-liam-gallagher",
+            "ArtistID": "oasis",
+            "ArtistName": "Oasis",
+            "MemberName": "Liam Gallagher",
+            "FullName": "William John Paul Gallagher",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Britpop",
+              "Rock",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1972-09-21",
+              "Place": "Manchester, England"
+            },
+            "ActiveYears": [
+              "1991–present"
+            ],
+            "AssociatedActs": [
+              "Oasis",
+              "Beady Eye"
+            ],
+            "KeyAlbums": [
+              "Definitely Maybe",
+              "(What's the Story) Morning Glory?",
+              "Be Here Now",
+              "Dig Out Your Soul"
+            ],
+            "KeySongs": [
+              "Live Forever",
+              "Wonderwall",
+              "Champagne Supernova",
+              "Don't Look Back in Anger"
+            ],
+            "Achievements": [
+              "Co-founded Oasis and helped define the band’s voice and public persona during Britpop’s peak years.",
+              "Returned to the stage with Noel Gallagher as Oasis reformed in 2024 and toured in 2025."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Liam_Gallagher",
+              "OfficialSite": "https://liamgallagher.com/"
+            },
+            "Biography": "Liam Gallagher (born 21 September 1972 in Manchester) became one of the most recognizable frontmen in British rock through a mix of swagger, bite, and an unmistakable voice. His delivery—nasal, urgent, and emotionally blunt—helped Oasis songs feel like chants you could shout in a pub or a stadium.\n\nOasis began as a local Manchester band with Liam stepping into the role of vocalist early on, and his presence immediately set a tone: direct, confrontational, and totally convinced the band belonged on the biggest stages. That confidence wasn’t a marketing pose; it was a core ingredient of how Oasis connected with fans.\n\nWhen Noel Gallagher joined and began supplying the band with a flood of anthems, Liam became the megaphone for that songwriting. His voice gave Noel’s melodies a street-level edge—romantic without sounding precious, vulnerable without sounding delicate.\n\nOn “Definitely Maybe,” Liam sounds like the band is already headlining, even while they’re still breaking through. Songs like “Supersonic” and “Live Forever” hit with the certainty of a band announcing its own destiny, and Liam’s phrasing is a huge part of why those songs feel immediate decades later.\n\n“(What's the Story) Morning Glory?” expanded the scale to the world, and Liam’s vocals turned tracks like “Wonderwall” into communal sing-alongs. The emotional directness—melody first, attitude always—made Oasis feel accessible even at their most famous.\n\nAs the band moved through the late ’90s and 2000s, the public often focused on volatility and headlines, but Liam’s best moments remained musical: selling a chorus, leaning into a melody, and making songs sound bigger than their parts. Even in later eras, he could still make a simple line land like a slogan.\n\nIn 2009, Oasis ended after Noel’s departure. Liam continued performing and recording in the years that followed, including fronting Beady Eye before building a successful solo run. His relationship with the Oasis catalogue stayed central—those songs remained his natural language on stage.\n\nOasis reforming in 2024 brought Liam back to the role he was built for: leading a crowd through songs that operate like shared memory. The reunion-era performances underline what the records already proved—his voice and presence are not just part of Oasis; they’re one of the reasons the band ever felt inevitable."
+          }
+        },
+        {
+          "Name": "Noel Gallagher",
+          "Roles": [
+            "Lead guitar",
+            "Vocals",
+            "Primary songwriter",
+            "Keyboards"
+          ],
+          "Years": "1991–2009; 2024–present",
+          "Overview": "Primary songwriter and lead guitarist whose melodies and choruses gave Oasis their defining catalogue.",
+          "Bio": {
+            "BioID": "bio-noel-gallagher",
+            "ArtistID": "oasis",
+            "ArtistName": "Oasis",
+            "MemberName": "Noel Gallagher",
+            "FullName": "Noel Thomas David Gallagher",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Britpop",
+              "Rock",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1967-05-29",
+              "Place": "Manchester, England"
+            },
+            "ActiveYears": [
+              "1991–present"
+            ],
+            "AssociatedActs": [
+              "Oasis"
+            ],
+            "KeyAlbums": [
+              "Definitely Maybe",
+              "(What's the Story) Morning Glory?",
+              "Be Here Now",
+              "Don't Believe the Truth"
+            ],
+            "KeySongs": [
+              "Don't Look Back in Anger",
+              "Wonderwall",
+              "Live Forever",
+              "Champagne Supernova"
+            ],
+            "Achievements": [
+              "Wrote the bulk of Oasis’s best-known catalogue and shaped the band’s melodic identity.",
+              "Helped lead the 2024 reunion and 2025 return to touring."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Noel_Gallagher",
+              "OfficialSite": "https://noelgallagher.com/"
+            },
+            "Biography": "Noel Gallagher (born 29 May 1967 in Manchester) is Oasis’s primary songwriter and the architect of the band’s most enduring anthems. His gift is turning classic rock ambition into pop-clarity melodies—songs that feel instantly familiar without sounding generic.\n\nHe joined Oasis soon after the early lineup had formed, bringing with him a backlog of strong songs and a clear sense of direction. The result was immediate: a local band suddenly had world-class choruses and a songwriting engine that could support an album, a tour, and the next album right behind it.\n\nOn “Definitely Maybe,” Noel’s writing established Oasis’s DNA: confidence, uplift, and hooks that land on the first listen. The riffs are simple but purposeful, and the melodies aim straight at the emotional center—big enough to be triumphant, grounded enough to sound like real people.\n\n“(What's the Story) Morning Glory?” turned that approach into a cultural takeover. Noel wrote songs that could function as radio hits, pub chants, and stadium finales all at once, while also stepping forward as a vocalist on “Don’t Look Back in Anger,” proving Oasis wasn’t only a frontman vehicle.\n\nNoel’s relationship with tradition is part of his skill: he borrows the feeling of classic British rock and makes it work for his own era. The songs are built for crowds, but the emotional tone is often reflective—nostalgia, regret, hope—wrapped in confident guitar lines.\n\nAs Oasis moved into the late ’90s and 2000s, Noel’s writing remained the band’s anchor through lineup changes. Even when the sound shifted—heavier grooves, different textures—the core remained melody and chorus-first craft.\n\nIn 2009, Noel left Oasis, and that decision effectively ended the band in its original form. His post-Oasis work continued to emphasize songwriting and arrangement, showing a more deliberate approach while keeping the melodic priorities that made him famous.\n\nThe 2024 reunion and 2025 tour returned Noel to the role of guitarist-songwriter inside Oasis’s machinery. The comeback underscored what fans always believed: the catalogue is the band’s foundation, and Noel’s writing is a large part of why Oasis still feels like a band people want back."
+          }
+        },
+        {
+          "Name": "Paul \"Bonehead\" Arthurs",
+          "Roles": [
+            "Rhythm guitar",
+            "Keyboards"
+          ],
+          "Years": "1991–1999; 2024–present",
+          "Overview": "Co-founder and rhythm guitarist whose chunky, chiming parts helped define the early Oasis sound.",
+          "Bio": {
+            "BioID": "bio-paul-arthurs",
+            "ArtistID": "oasis",
+            "ArtistName": "Oasis",
+            "MemberName": "Paul \"Bonehead\" Arthurs",
+            "FullName": "Paul Benjamin Arthurs",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Britpop",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1965-06-23",
+              "Place": "Manchester, England"
+            },
+            "ActiveYears": [
+              "1991–present"
+            ],
+            "AssociatedActs": [
+              "Oasis"
+            ],
+            "KeyAlbums": [
+              "Definitely Maybe",
+              "(What's the Story) Morning Glory?",
+              "Be Here Now"
+            ],
+            "KeySongs": [
+              "Supersonic",
+              "Live Forever",
+              "Some Might Say"
+            ],
+            "Achievements": [
+              "Co-founded Oasis and helped establish the band’s early live and studio sound.",
+              "Returned to the band for the 2024 reunion and 2025 touring cycle."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_%22Bonehead%22_Arthurs"
+            },
+            "Biography": "Paul “Bonehead” Arthurs (born 23 June 1965 in Manchester) is a founding member of Oasis and a key part of the band’s original identity. His rhythm guitar style is less about flashy leads and more about weight and shimmer—parts that make choruses feel wide and unstoppable.\n\nBefore Oasis became Oasis, Bonehead was central to the early Manchester band scene that produced the group. The pre-fame years were about building volume, attitude, and tightness in small rooms, and Bonehead’s playing helped the band sound solid even when everything else was chaotic.\n\nOn the earliest records, his guitar provides the thick body under Noel’s leads and the vocal melodies. It’s a foundational role: making riffs sound bigger, giving songs a wall to lean on, and ensuring the band’s sound feels like a band rather than a collection of parts.\n\nBonehead’s contribution is most obvious on the classic mid‑’90s material—those huge, ringing chords that turn a chorus into something you can chant. In a group famous for melody, his job was to make those melodies feel like they had a physical shape in the air.\n\nHe remained with Oasis through their peak period, including the run from “Definitely Maybe” to “Be Here Now,” and he was part of the touring machine that made the band feel like the center of the culture in the mid‑’90s. That era’s live power owes a lot to his ability to hold the rhythm guitar steady and loud.\n\nIn 1999, he left the band during a period of internal strain and looming change. His departure marked the end of the original founding lineup’s core, and it coincided with Oasis shifting into a new phase with different personnel and different musical textures.\n\nAfter leaving, Bonehead continued making music and remained connected to the Oasis orbit, including working with Liam in later years. That long-running association kept him linked to the catalogue even when Oasis itself wasn’t active as a band.\n\nWhen Oasis reformed in 2024, Bonehead’s return felt symbolic: a tangible bridge back to the classic era. On stage, his role is the same as ever—make the songs sound like they’re built for the biggest possible crowd, then let the chorus do the rest."
+          }
+        },
+        {
+          "Name": "Paul \"Guigsy\" McGuigan",
+          "Roles": [
+            "Bass"
+          ],
+          "Years": "1991–1999",
+          "Overview": "Founding bassist whose low-end groove and understated presence were part of the classic early lineup.",
+          "Bio": {
+            "BioID": "bio-paul-mcguigan",
+            "ArtistID": "oasis",
+            "ArtistName": "Oasis",
+            "MemberName": "Paul \"Guigsy\" McGuigan",
+            "FullName": "Paul McGuigan",
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Britpop",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1971-05-09",
+              "Place": "Manchester, England"
+            },
+            "ActiveYears": [
+              "1991–2002"
+            ],
+            "AssociatedActs": [
+              "Oasis"
+            ],
+            "KeyAlbums": [
+              "Definitely Maybe",
+              "(What's the Story) Morning Glory?",
+              "Be Here Now"
+            ],
+            "KeySongs": [
+              "Live Forever",
+              "Wonderwall",
+              "Champagne Supernova"
+            ],
+            "Achievements": [
+              "Co-founded Oasis and played bass on the band’s defining mid‑’90s albums.",
+              "Part of the classic lineup that turned Oasis into a global headliner."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_McGuigan_(musician)"
+            },
+            "Biography": "Paul McGuigan (born 9 May 1971 in Manchester), known as “Guigsy,” was Oasis’s founding bassist and part of the band’s most iconic lineup. In a group remembered for choruses and headlines, Guigsy’s value is quieter: a steady low end that makes the songs feel grounded while the guitars and vocals aim for the sky.\n\nHe was involved from the Rain-era roots that evolved into Oasis, helping form the band’s early identity before fame arrived. Those years were about learning how to sound big with limited means—tight playing, loud amps, and songs built to land immediately in clubs.\n\nOn “Definitely Maybe,” Guigsy’s bass supports the band’s drive with simple, locked-in lines that let the guitars dominate without the mix collapsing. The feel is blunt and direct, which suits the early material: fast songs, big hooks, and zero hesitation.\n\nAs Oasis expanded into “Morning Glory,” the bass continued to do its job—hold the center while the choruses rise. The record’s sound is massive, but it works because the rhythm section is consistent, giving the guitars and vocals a stable platform.\n\nGuigsy’s public profile remained low compared with the Gallagher brothers, but the playing is embedded in the classic recordings. When fans think of the band’s mid‑’90s sweep, his bass is part of the texture that makes those songs feel like a full unit rather than a two-brother project.\n\nTouring during Oasis’s peak was relentless, and the pressure around the band intensified. Through that era, Guigsy remained a foundational stage presence—steady, minimal, and focused on keeping the performance tight.\n\nIn 1999, he left the band during a period when internal tensions and creative shifts were pulling the original lineup apart. That departure marked a turning point: Oasis continued, but the founding group chemistry had changed permanently.\n\nGuigsy’s legacy is the classic era itself. He’s the bassist on the records that defined Britpop’s stadium scale, and his playing remains part of why those songs still feel sturdy enough to carry a crowd."
+          }
+        },
+        {
+          "Name": "Alan White",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Years": "1995–2004",
+          "Overview": "Longest-serving Oasis drummer, central to the band’s peak-era and early-2000s studio run.",
+          "Bio": {
+            "BioID": "bio-alan-white",
+            "ArtistID": "oasis",
+            "ArtistName": "Oasis",
+            "MemberName": "Alan White",
+            "FullName": "Alan Victor White",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Drummer"
+            ],
+            "Genres": [
+              "Britpop",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1972-05-26",
+              "Place": "Lewisham, London, England"
+            },
+            "ActiveYears": [
+              "1987–2004",
+              "2008"
+            ],
+            "AssociatedActs": [
+              "Oasis"
+            ],
+            "KeyAlbums": [
+              "(What's the Story) Morning Glory?",
+              "Be Here Now",
+              "Standing on the Shoulder of Giants",
+              "Heathen Chemistry"
+            ],
+            "KeySongs": [
+              "Some Might Say",
+              "Don't Look Back in Anger",
+              "Champagne Supernova"
+            ],
+            "Achievements": [
+              "Joined in 1995 and became Oasis’s longest-serving drummer during their peak popularity.",
+              "Performed on multiple landmark albums spanning the mid‑’90s through early‑2000s eras."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Alan_White_(Oasis_drummer)"
+            },
+            "Biography": "Alan White (born 26 May 1972 in Lewisham, London) became Oasis’s defining drummer for most of their peak period. His playing brought punch and control—big rock grooves that could carry stadium tempos without losing swing.\n\nHe joined Oasis in April 1995, arriving at a moment when the band’s trajectory was steep and unforgiving. The material demanded a drummer who could hit hard, lock in with the bass, and keep choruses feeling like a lift rather than a rush.\n\nWhite’s drumming helped shape the band’s live power in the mid‑’90s, when Oasis performances were designed to sound like a single, roaring engine. The job was less about technical display and more about making the songs feel unstoppable.\n\nAcross “Morning Glory” and “Be Here Now,” his approach emphasized weight and momentum. When Oasis leaned into huge choruses and long codas, he kept the groove steady enough that the songs could expand without falling apart.\n\nAs Oasis moved into “Standing on the Shoulder of Giants” and “Heathen Chemistry,” White remained a constant through lineup shifts and changing production choices. Even when textures changed, the drum feel stayed recognizably “Oasis”—straightforward, loud, and built for the crowd.\n\nWhite was also part of the touring era that made Oasis a landmark live act, with massive shows and a setlist that demanded endurance. His role was to keep the engine running regardless of the band’s internal volatility.\n\nHe left the band in early 2004, closing the chapter on the longest and most commercially dominant drumming tenure in Oasis history. After his departure, Oasis continued with a different rhythm section feel, but the mid‑’90s peak is closely associated with his sound.\n\nWhite’s legacy inside Oasis is the backbone of their biggest era: drums that don’t distract, drums that don’t compromise, and drums that make songs like they were designed to be shouted back at the stage."
+          }
+        },
+        {
+          "Name": "Gem Archer",
+          "Roles": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Years": "1999–2009; 2024–present",
+          "Overview": "Joined in 1999 and helped carry Oasis through the 2000s, adding a tighter, more modern guitar approach to the live band.",
+          "Bio": {
+            "BioID": "bio-gem-archer",
+            "ArtistID": "oasis",
+            "ArtistName": "Oasis",
+            "MemberName": "Gem Archer",
+            "FullName": "Colin Murray Archer",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Britpop",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1966-12-07",
+              "Place": "Hunwick, County Durham, England"
+            },
+            "ActiveYears": [
+              "1981–present"
+            ],
+            "AssociatedActs": [
+              "Oasis"
+            ],
+            "KeyAlbums": [
+              "Standing on the Shoulder of Giants",
+              "Heathen Chemistry",
+              "Don't Believe the Truth",
+              "Dig Out Your Soul"
+            ],
+            "KeySongs": [
+              "The Hindu Times",
+              "Lyla"
+            ],
+            "Achievements": [
+              "Became a core part of Oasis’s 2000s lineup after joining in 1999.",
+              "Returned in the reunion era as part of the 2024–present lineup."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Gem_Archer"
+            },
+            "Biography": "Gem Archer (born 7 December 1966) joined Oasis at a turning point, when the founding lineup was fracturing and the band needed new blood without losing its identity. He brought a disciplined, modern guitar sensibility that helped the group transition into the 2000s.\n\nBefore Oasis, Archer built credibility in UK rock circles, including fronting Heavy Stereo. That experience mattered: he arrived not as a star-struck hire, but as a seasoned musician who understood arrangements, stagecraft, and the pressure of being in a working band.\n\nWhen he joined in 1999, Oasis were rebuilding after key departures. Archer’s role was practical and essential—support Noel’s leads, thicken the live sound, and help the band feel like a full guitar unit even as the internal dynamic shifted.\n\nOn stage, Archer contributed stability. The 2000s Oasis shows rely heavily on tight execution—classic anthems alongside newer material—and he helped make the newer songs sit comfortably next to the mid‑’90s giants.\n\nIn the studio era from “Standing on the Shoulder of Giants” through “Dig Out Your Soul,” Archer was part of a lineup that kept Oasis viable in a changing rock landscape. The band’s sound remained recognizably Oasis, but the guitar textures became leaner and more controlled.\n\nArcher also represented a different kind of band member for Oasis: less headline noise, more professional consistency. In a group famous for volatility, that kind of steadiness is a musical asset even when it isn’t a tabloid story.\n\nAfter the 2009 split, Archer remained within the broader Oasis family of projects, working in bands connected to the Gallagher brothers’ post‑Oasis years. That continuity kept him linked to the catalogue and the fan base.\n\nWith the 2024 reunion, Archer’s return signaled that the comeback wasn’t only about the brothers—it was also about building a lineup capable of playing the full catalogue at full power. His guitar work helps translate Oasis’s biggest songs into a modern live setting without losing their core punch."
+          }
+        },
+        {
+          "Name": "Andy Bell",
+          "Roles": [
+            "Bass",
+            "Guitar",
+            "Vocals"
+          ],
+          "Years": "1999–2009; 2024–present",
+          "Overview": "Joined in 1999 on bass and became a key 2000s-era member, helping widen the band’s musical palette while keeping the live sound strong.",
+          "Bio": {
+            "BioID": "bio-andy-bell",
+            "ArtistID": "oasis",
+            "ArtistName": "Oasis",
+            "MemberName": "Andy Bell",
+            "FullName": "Andrew Piran Bell",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Britpop"
+            ],
+            "Birth": {
+              "Date": "1970-08-11",
+              "Place": "Cardiff, Wales"
+            },
+            "ActiveYears": [
+              "1988–present"
+            ],
+            "AssociatedActs": [
+              "Oasis",
+              "Ride",
+              "Beady Eye"
+            ],
+            "KeyAlbums": [
+              "Standing on the Shoulder of Giants",
+              "Heathen Chemistry",
+              "Don't Believe the Truth",
+              "Dig Out Your Soul"
+            ],
+            "KeySongs": [
+              "Lyla",
+              "The Importance of Being Idle"
+            ],
+            "Achievements": [
+              "Joined Oasis in 1999 and served through the band’s 2000s studio and touring run.",
+              "Returned for the reunion era as part of the current live lineup."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Andy_Bell_(Welsh_musician)"
+            },
+            "Biography": "Andy Bell (born 11 August 1970 in Cardiff) joined Oasis in 1999, stepping into a band that needed to rebuild without shrinking. Known also for his work with Ride, Bell brought musical depth and a different background than the original Manchester core.\n\nHis entry came after the departure of founding bassist Paul “Guigsy” McGuigan, during a period when Oasis were reshaping their lineup and looking for stability. Bell’s role was immediately practical: anchor the low end, lock in with the drums, and help the band stay huge on stage.\n\nBell’s musicianship added flexibility. He could approach Oasis’s catalogue with respect for the original feel while also contributing to newer arrangements in the studio and live settings. That balance mattered as Oasis moved away from the pure mid‑’90s Britpop frame into 2000s rock.\n\nAcross albums like “Standing on the Shoulder of Giants” and “Heathen Chemistry,” Bell was part of the engine that kept Oasis moving forward. The band’s identity remained chorus-driven, but the rhythm section feel evolved, and Bell’s playing helped smooth that transition.\n\nOn stage, Bell helped keep classic songs powerful while making newer material land in big venues. Oasis’s live sets are built on momentum and familiarity, and Bell’s job was to keep that momentum steady regardless of what era the song came from.\n\nAfter the band split in 2009, Bell continued in music, including work within the Oasis orbit. That continuity shows his place in the story: not just a late addition, but a central part of how Oasis operated in their last decade before the reunion.\n\nBell’s reputation is also tied to versatility—bass, guitar, songwriting, and an ability to fit into different band personalities. In Oasis, that meant supporting the Gallagher-led identity while providing dependable musicianship night after night.\n\nWith Oasis reforming in 2024, Bell’s return completed the sense that the comeback would draw from both the classic and later eras. His presence helps the 2000s catalogue feel like a natural part of the live story, not an add-on, and it strengthens the band’s overall sound in the reunion era."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Tony McCarroll",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1991–1995",
+          "Overview": "Founding drummer who played on the debut era, including “Definitely Maybe,” before leaving in 1995 as the band’s ambitions and pressures intensified."
+        },
+        {
+          "Name": "Zak Starkey",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Years": "2004–2008 (touring/recording)",
+          "Overview": "Joined after Alan White’s departure and provided a punchier, more aggressive feel on stage and in the mid‑2000s period."
+        },
+        {
+          "Name": "Chris Sharrock",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Years": "2008–2009 (touring)",
+          "Overview": "Touring drummer late in the band’s original run, helping power the final pre‑split tours with a hard-hitting style."
+        }
+      ]
     },
     {
       "ArtistID": "oingo-boingo",
@@ -15208,10 +15749,387 @@
       "NonCoreMembers": []
     },
     {
-      "ArtistID": "r-e-m",
+      "ArtistID": "rem",
       "Name": "R.E.M.",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": "Athens, Georgia, United States",
+      "YearsActive": [
+        "1980–2011"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "College rock",
+        "Jangle pop",
+        "Folk rock",
+        "Post-punk"
+      ],
+      "Labels": [
+        "I.R.S.",
+        "Warner Bros."
+      ],
+      "Overview": "R.E.M. were an American rock band formed in Athens, Georgia, in 1980 by Michael Stipe (vocals), Peter Buck (guitar), Mike Mills (bass, vocals), and Bill Berry (drums). They built an early reputation on ringing, arpeggiated guitars, melodic bass lines, and Stipe’s elliptical lyrics—music that sounded both immediate and mysterious. Through the 1980s they became a flagship of American “college rock,” proving an independent-minded band could grow steadily on its own terms while refining a signature style that blended jangle, folk-rock, and post‑punk energy. Albums like “Murmur” (1983), “Reckoning” (1984), and “Document” (1987) helped define the alternative rock template long before the term was mainstream, and their live shows cemented them as a band that could sound intimate and urgent at the same time.\n\nIn the 1990s, R.E.M. expanded from cult success to global scale without losing their identity. “Out of Time” (1991) and “Automatic for the People” (1992) delivered era-defining songs—“Losing My Religion,” “Everybody Hurts,” and “Man on the Moon”—and showed their range from mandolin-driven pop to cinematic balladry. After Berry left in 1997, the remaining trio continued as R.E.M., releasing ambitious late‑career work and maintaining a reputation for strong albums, social conscience, and a deep catalogue that rewarded repeat listening. They announced an amicable breakup on September 21, 2011, ending a 31‑year run that helped shape modern alternative rock; their influence is still audible in indie, punk, and mainstream guitar music that values melody, atmosphere, and emotional restraint over flash.",
+      "NotableAlbums": [
+        {
+          "Year": 1983,
+          "Title": "Murmur",
+          "Details": "Breakthrough debut that defined their early mystique and became a cornerstone of American alternative rock."
+        },
+        {
+          "Year": 1984,
+          "Title": "Reckoning",
+          "Details": "A punchier follow-up that sharpened the band’s live energy into tighter, hookier songs."
+        },
+        {
+          "Year": 1987,
+          "Title": "Document",
+          "Details": "Their biggest commercial leap of the 1980s, balancing urgency, satire, and stadium-ready choruses."
+        },
+        {
+          "Year": 1991,
+          "Title": "Out of Time",
+          "Details": "Massive crossover success that expanded their palette and delivered their most globally recognized hit."
+        },
+        {
+          "Year": 1992,
+          "Title": "Automatic for the People",
+          "Details": "A critically revered, emotionally weighty classic built on craft, atmosphere, and unforgettable ballads."
+        },
+        {
+          "Year": 1994,
+          "Title": "Monster",
+          "Details": "A loud, distorted pivot that leaned into glam and fuzz while keeping the band’s melodic core intact."
+        },
+        {
+          "Year": 1996,
+          "Title": "New Adventures in Hi-Fi",
+          "Details": "Wide-ranging, road-shaped album that many fans and critics view as a late‑’90s peak."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1981,
+          "Title": "Radio Free Europe",
+          "Details": "Early calling card that announced their sound and became a foundational anthem of college rock."
+        },
+        {
+          "Year": 1987,
+          "Title": "The One I Love",
+          "Details": "Breakthrough hit with a deceptively dark edge and one of their most memorable riffs."
+        },
+        {
+          "Year": 1987,
+          "Title": "It's the End of the World as We Know It (And I Feel Fine)",
+          "Details": "A rapid-fire classic that became a pop-culture shorthand for chaos—delivered with bright, controlled panic."
+        },
+        {
+          "Year": 1991,
+          "Title": "Losing My Religion",
+          "Details": "Defining 1990s alternative hit built around mandolin and emotional tension."
+        },
+        {
+          "Year": 1991,
+          "Title": "Shiny Happy People",
+          "Details": "Ironic, brightly melodic single that showed the band’s willingness to subvert expectations."
+        },
+        {
+          "Year": 1992,
+          "Title": "Everybody Hurts",
+          "Details": "A global anthem of empathy and endurance, anchored by restrained performance and huge emotional lift."
+        },
+        {
+          "Year": 1992,
+          "Title": "Man on the Moon",
+          "Details": "Wry, warm, and cinematic—one of their most beloved mid‑’90s staples."
+        },
+        {
+          "Year": 1992,
+          "Title": "Nightswimming",
+          "Details": "A graceful, intimate highlight that captures the band’s gift for atmosphere and memory."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1991,
+          "Title": "Grammy wins for “Out of Time” era work",
+          "Details": "Won three Grammy Awards, including for “Losing My Religion” and for “Out of Time” in the alternative category."
+        },
+        {
+          "Year": 2007,
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted as Performers in 2007, reflecting their foundational influence on alternative rock."
+        },
+        {
+          "Year": 2011,
+          "Title": "Three-decade run ended on their own terms",
+          "Details": "Announced an amicable breakup on September 21, 2011 after 31 years together."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Athens, Georgia in 1980 by Michael Stipe, Peter Buck, Mike Mills, and Bill Berry.",
+        "Classic early-to-mid era spanned “Murmur” (1983) through “Automatic for the People” (1992).",
+        "Bill Berry left the band in 1997; the remaining trio continued until disbanding in 2011.",
+        "Inducted into the Rock & Roll Hall of Fame in 2007.",
+        "Known for jangle-guitar textures, melodic bass lines, and lyrics that favor mood and ambiguity."
+      ],
+      "ExternalLinks": {
+        "OfficialWebsite": "https://remhq.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/R.E.M.",
+        "GRAMMY": "https://www.grammy.com/artists/rem/16369",
+        "RockHall": "https://rockhall.com/inductees/rem/"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Michael Stipe",
+          "Roles": [
+            "Lead vocals"
+          ],
+          "Years": "1980–2011",
+          "Overview": "Vocalist and lyricist whose voice and oblique writing gave R.E.M. their mystery, empathy, and emotional precision.",
+          "Bio": {
+            "BioID": "bio-michael-stipe",
+            "ArtistID": "rem",
+            "ArtistName": "R.E.M.",
+            "MemberName": "Michael Stipe",
+            "FullName": "John Michael Stipe",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Lyricist",
+              "Producer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "College rock"
+            ],
+            "Birth": {
+              "Date": "1960-01-04",
+              "Place": "Decatur, Georgia, United States"
+            },
+            "ActiveYears": [
+              "1980–present"
+            ],
+            "AssociatedActs": [
+              "R.E.M."
+            ],
+            "KeyAlbums": [
+              "Murmur",
+              "Document",
+              "Out of Time",
+              "Automatic for the People"
+            ],
+            "KeySongs": [
+              "Losing My Religion",
+              "Everybody Hurts",
+              "Man on the Moon"
+            ],
+            "Achievements": [
+              "Co-founded R.E.M. and served as its lead vocalist and primary lyricist for the band’s entire run.",
+              "Helped shape the lyrical and emotional vocabulary of modern alternative rock."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Michael_Stipe",
+              "OfficialSite": "https://remhq.com/"
+            },
+            "Biography": "Michael Stipe (born January 4, 1960, in Decatur, Georgia) became one of alternative rock’s most distinctive vocalists and lyricists through an approach that prized mood and implication over obvious statement. In R.E.M., his voice could sound intimate, anxious, tender, or defiant—often within the same song—turning ambiguity into a kind of emotional clarity.\n\nHe met Peter Buck in Athens, Georgia, where the two bonded over records and shared sensibilities. The early R.E.M. identity came from that meeting: Buck’s chiming guitars, the band’s propulsive rhythm section, and Stipe’s lyrics that felt like fragments of dreams—suggestive, personal, and open to interpretation.\n\nIn the early 1980s, Stipe’s stage presence and vocal style helped R.E.M. stand out from both mainstream rock and punk. He didn’t perform like a conventional frontman; he performed like someone letting you overhear something private, then daring you to make meaning from it.\n\nAs the band grew through albums like “Murmur,” “Reckoning,” and “Document,” Stipe’s writing matured from impressionistic imagery into sharper emotional and social focus without losing mystery. The band could deliver a hook, but Stipe rarely delivered a single, fixed explanation—he gave listeners room to live inside the song.\n\nThe global breakthrough era of “Out of Time” and “Automatic for the People” showed how powerful his restraint could be. “Losing My Religion” made uncertainty sound like an anthem, while “Everybody Hurts” offered direct compassion without melodrama—proof that sincerity could land hardest when it stayed controlled.\n\nStipe also became associated with R.E.M.’s public conscience. While the band avoided preaching, Stipe’s lyrics and advocacy helped position R.E.M. as artists who cared about the world beyond the stage, and he carried that sensibility into interviews and public appearances.\n\nAfter drummer Bill Berry left in 1997, Stipe helped steer the band through a long final chapter, adapting to changing sounds and changing eras. Even as R.E.M. experimented with texture and production, his voice remained the center—an anchor that made the band instantly recognizable.\n\nWhen R.E.M. ended in 2011, Stipe’s legacy was already sealed: a lyricist who made uncertainty poetic, and a vocalist whose emotional precision helped define what “alternative” could mean. His work continues to influence singers who value atmosphere, honesty, and the power of what’s left unsaid."
+          }
+        },
+        {
+          "Name": "Peter Buck",
+          "Roles": [
+            "Guitar",
+            "Backing vocals"
+          ],
+          "Years": "1980–2011",
+          "Overview": "Guitarist whose ringing, arpeggiated style became a blueprint for jangle-driven alternative rock.",
+          "Bio": {
+            "BioID": "bio-peter-buck",
+            "ArtistID": "rem",
+            "ArtistName": "R.E.M.",
+            "MemberName": "Peter Buck",
+            "FullName": "Peter Lawrence Buck",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Mandolin"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Jangle pop"
+            ],
+            "Birth": {
+              "Date": "1956-12-06",
+              "Place": "Berkeley, California, United States"
+            },
+            "ActiveYears": [
+              "1980–present"
+            ],
+            "AssociatedActs": [
+              "R.E.M."
+            ],
+            "KeyAlbums": [
+              "Murmur",
+              "Document",
+              "Automatic for the People"
+            ],
+            "KeySongs": [
+              "Radio Free Europe",
+              "The One I Love",
+              "Man on the Moon"
+            ],
+            "Achievements": [
+              "Co-founded R.E.M. and developed one of the most influential guitar signatures in alternative rock.",
+              "Helped shape the sound of 1980s college rock and its 1990s mainstream expansion."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Peter_Buck",
+              "OfficialSite": "https://remhq.com/"
+            },
+            "Biography": "Peter Buck (born December 6, 1956, in Berkeley, California) is the guitarist whose ringing, arpeggiated style became a defining texture of R.E.M. and a template for decades of jangle-driven alternative rock. He didn’t play like a typical lead guitarist; he played like an arranger, building patterns that made the whole band sound larger and more alive.\n\nIn Athens, Georgia, Buck’s job at Wuxtry Records put him at the center of a music-obsessed community. Meeting Michael Stipe there sparked the collaboration that became R.E.M., and Buck’s guitar vocabulary—bright, chiming, rhythmic—helped set the band apart from both punk’s bluntness and rock’s blues-based habits.\n\nEarly R.E.M. songs often feel like they’re moving forward even when the chords don’t change much, and that’s Buck’s gift: motion through pattern. His arpeggios and counter-melodies create momentum, and they leave space for Stipe’s lyrics to hover without needing to be pinned down.\n\nAcross “Murmur” and “Reckoning,” Buck’s playing is the band’s most immediate signature. You can hear the influence of folk-rock and post‑punk, but the result feels uniquely R.E.M.—a sound that’s sunny on the surface and restless underneath.\n\nAs R.E.M. grew into bigger stages, Buck adapted without abandoning his identity. On albums like “Document,” he could be sharp and forceful; on the 1990s classics, he could be graceful and restrained, shaping songs where atmosphere mattered as much as volume.\n\nBuck also helped broaden the band’s instrumental palette, including mandolin and other textures that opened the sound beyond guitar rock. That curiosity mattered on “Out of Time” and “Automatic for the People,” where the band proved it could be massive without relying on distortion.\n\nAfter Bill Berry’s departure in 1997, Buck remained a co‑pilot through R.E.M.’s final chapter, balancing experimentation with recognizability. His playing continued to signal “this is R.E.M.” even when production trends changed around them.\n\nBuck’s lasting legacy is how many guitarists learned from him without needing to copy him: the idea that a guitar part can be rhythmic, melodic, and structural at the same time. In R.E.M., he made the guitar sing without demanding the spotlight, and that approach still echoes through alternative rock."
+          }
+        },
+        {
+          "Name": "Mike Mills",
+          "Roles": [
+            "Bass",
+            "Backing vocals",
+            "Keyboards"
+          ],
+          "Years": "1980–2011",
+          "Overview": "Bassist and harmony anchor whose melodic lines and high backing vocals gave R.E.M. much of its lift and warmth.",
+          "Bio": {
+            "BioID": "bio-mike-mills",
+            "ArtistID": "rem",
+            "ArtistName": "R.E.M.",
+            "MemberName": "Mike Mills",
+            "FullName": "Michael Edward Mills",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1958-12-17",
+              "Place": "Orange County, California, United States"
+            },
+            "ActiveYears": [
+              "1980–present"
+            ],
+            "AssociatedActs": [
+              "R.E.M."
+            ],
+            "KeyAlbums": [
+              "Reckoning",
+              "Out of Time",
+              "Automatic for the People"
+            ],
+            "KeySongs": [
+              "Everybody Hurts",
+              "Nightswimming",
+              "What's the Frequency, Kenneth?"
+            ],
+            "Achievements": [
+              "Co-founded R.E.M. and helped define the band’s melodic low end and vocal harmony sound.",
+              "Served as a key musical arranger, often shaping chord movement and song dynamics."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mike_Mills",
+              "OfficialSite": "https://remhq.com/"
+            },
+            "Biography": "Mike Mills (born December 17, 1958) is R.E.M.’s melodic engine: a bassist whose lines often function like secondary melodies and a vocalist whose high harmonies give the band much of its emotional lift. If Buck’s guitar is the shimmer and Stipe’s voice is the mystery, Mills is the glue that makes the songs feel complete.\n\nBefore R.E.M., Mills and Bill Berry had played together, and that rhythm‑section bond helped the band lock in quickly. When the four founding members began rehearsing in Athens, Mills’s musicality—bass, harmony sense, and keyboard color—made the band sound more arranged than its early stage could have justified.\n\nMills rarely plays bass as a simple root-note anchor. His lines move, answer the vocal, and sometimes lead the chord changes forward. That approach is a big reason early R.E.M. material feels buoyant even when the lyrics and mood are shadowy.\n\nVocally, Mills is essential. His backing vocals brighten choruses, add emotional contrast, and give R.E.M. a choral dimension that many rock bands lack. When the band leans into an anthem, Mills’s harmony often becomes the moment the song turns from statement into communal sing-along.\n\nDuring the 1990s peak, Mills’s musicianship helped R.E.M. expand their sound without losing identity. On songs like “Everybody Hurts” and “Nightswimming,” the arrangements rely on restraint and atmosphere, and Mills’s role is to keep the emotional core steady while the surfaces stay delicate.\n\nAfter Bill Berry left in 1997, Mills’s importance arguably increased. With a founding rhythm partner gone, Mills helped maintain continuity, supporting the band’s shifts in texture and production while ensuring the music still felt like a collaborative unit rather than a backing track for a vocalist.\n\nMills also became a visible spokesman for the band’s musical decisions—grounded, pragmatic, and deeply invested in craft. That steadiness matters in a group with a reputation for thoughtfulness and long-term integrity.\n\nMills’s legacy is embedded in how R.E.M. songs feel: melodic, emotional, and balanced. His bass and harmonies are often the parts people don’t notice until they’re gone, but they’re a major reason the catalogue still sounds alive rather than dated."
+          }
+        },
+        {
+          "Name": "Bill Berry",
+          "Roles": [
+            "Drums",
+            "Backing vocals"
+          ],
+          "Years": "1980–1997",
+          "Overview": "Founding drummer whose tight, economical playing and musical instincts helped build R.E.M.’s early momentum and discipline.",
+          "Bio": {
+            "BioID": "bio-bill-berry",
+            "ArtistID": "rem",
+            "ArtistName": "R.E.M.",
+            "MemberName": "Bill Berry",
+            "FullName": "William Thomas Berry",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Musician"
+            ],
+            "Genres": [
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "1958-07-31",
+              "Place": "Duluth, Minnesota, United States"
+            },
+            "ActiveYears": [
+              "1980–1997"
+            ],
+            "AssociatedActs": [
+              "R.E.M."
+            ],
+            "KeyAlbums": [
+              "Murmur",
+              "Document",
+              "Automatic for the People"
+            ],
+            "KeySongs": [
+              "The One I Love",
+              "Losing My Religion",
+              "It's the End of the World as We Know It (And I Feel Fine)"
+            ],
+            "Achievements": [
+              "Co-founded R.E.M. and served as its drummer through the band’s most formative and commercially dominant eras.",
+              "Helped define a drum feel that was tight, propulsive, and song-first rather than showy."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bill_Berry_(musician)",
+              "OfficialSite": "https://remhq.com/"
+            },
+            "Biography": "Bill Berry (born July 31, 1958, in Duluth, Minnesota) was R.E.M.’s founding drummer and one of the band’s key architects of discipline and momentum. His style was economical—tight grooves, precise accents, and fills that served the song rather than announcing themselves.\n\nBefore R.E.M., Berry and Mike Mills had played together, and that shared rhythm sense became one of the band’s hidden strengths. When R.E.M. formed in Athens, Berry’s ability to keep the music driving while leaving air around the guitars and vocals helped the early material feel urgent without feeling crowded.\n\nBerry’s drumming is a big reason early R.E.M. doesn’t drift. The guitars may shimmer and the lyrics may feel dreamlike, but the rhythm section is firm. That contrast—mystery on top, propulsion underneath—became a signature of the band’s first decade.\n\nAs the band matured into larger stages and sharper songwriting, Berry’s role remained song-first. On hits like “The One I Love,” his drumming supports the tension: steady enough to be hypnotic, forceful enough to make the chorus hit like a release.\n\nThe 1990s era required new kinds of control. When R.E.M. leaned into ballads and atmosphere, Berry’s restraint made the emotion land without sentimentality. When the band leaned into rock, he could still hit hard, but with a pocket that kept everything grounded.\n\nBerry’s musicianship extended beyond drums—he contributed to the collaborative spirit that defined R.E.M.’s internal identity. The band’s reputation for being a true unit, not a frontman project, is tied to how the founding four worked and trusted one another.\n\nIn 1997, Berry left the band, ending the classic four‑member era. His departure changed the band’s internal balance and its rhythmic feel, even as the remaining members continued and evolved through new textures and production choices.\n\nBerry’s legacy is the foundation: the drummer who made R.E.M. sound tight without sounding rigid. His playing helped give the band its forward motion, and it’s one of the reasons the early catalogue still feels alive and purposeful decades later."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Peter Holsapple",
+          "Roles": [
+            "Guitar",
+            "Keyboards",
+            "Bass (auxiliary)"
+          ],
+          "Years": "1989–1991 (touring/auxiliary)",
+          "Overview": "Auxiliary musician during the “Green” touring era and associated with the development period leading into “Out of Time,” adding guitar and keyboard support on the road."
+        },
+        {
+          "Name": "Scott McCaughey",
+          "Roles": [
+            "Guitar",
+            "Keyboards",
+            "Backing vocals (auxiliary)"
+          ],
+          "Years": "1994–2011 (touring/auxiliary)",
+          "Overview": "Longtime auxiliary member who expanded the live lineup and contributed across the late‑career era, helping R.E.M. translate studio textures into a fuller stage sound."
+        }
+      ]
     },
     {
       "ArtistID": "radiohead",
@@ -15496,8 +16414,324 @@
     {
       "ArtistID": "rush",
       "Name": "Rush",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": "Toronto, Ontario, Canada",
+      "YearsActive": [
+        "1968–2015"
+      ],
+      "Genres": [
+        "Progressive rock",
+        "Hard rock",
+        "Heavy metal"
+      ],
+      "Labels": [
+        "Moon",
+        "Mercury",
+        "Anthem",
+        "Atlantic"
+      ],
+      "Overview": "Rush were a Canadian rock band formed in Toronto in 1968, celebrated for a rare combination of precision musicianship, adventurous songwriting, and a sense of humor about their own intensity. The classic lineup—Geddy Lee (bass, vocals, keyboards), Alex Lifeson (guitars), and Neil Peart (drums, primary lyricist)—locked in after Peart joined in July 1974, and that power‑trio format became the band’s defining identity. Rush started with a hard‑rock foundation, then expanded into progressive rock: long-form compositions, shifting time signatures, and concepts that borrowed from science fiction, philosophy, and personal reflection without sacrificing riffs or momentum. They built a deep catalogue across multiple eras, moving from the breakthrough ambition of “2112” (1976) to the streamlined, radio-ready strength of “Permanent Waves” (1980) and “Moving Pictures” (1981), then into a synth-forward 1980s phase that still sounded unmistakably like Rush.\n\nWhat separates Rush is how consistently they evolved without abandoning their core strengths. Lee’s melodic bass and distinctive voice, Lifeson’s textural guitar approach, and Peart’s exacting drumming created a band sound that was both technical and emotional—songs that could be cerebral but still hit hard, and lyrics that could wrestle with big ideas while staying human. They toured relentlessly and became one of rock’s most respected live acts, earning a reputation for playing complex music with clarity and power night after night. Rush were inducted into the Canadian Music Hall of Fame in 1994 and the Rock & Roll Hall of Fame in 2013, and the three members were made Officers of the Order of Canada in 1996. citeturn0search0 citeturn0search5",
+      "NotableAlbums": [
+        {
+          "Year": 1974,
+          "Title": "Rush",
+          "Details": "Debut album that introduced the band’s early hard‑rock foundation before the classic lineup fully solidified."
+        },
+        {
+          "Year": 1976,
+          "Title": "2112",
+          "Details": "Career‑defining breakthrough that established Rush’s progressive ambition and long‑form storytelling."
+        },
+        {
+          "Year": 1978,
+          "Title": "Hemispheres",
+          "Details": "A peak-era progressive statement balancing intricate suites with sharp, riff-driven songs."
+        },
+        {
+          "Year": 1980,
+          "Title": "Permanent Waves",
+          "Details": "A pivot toward tighter song structures while keeping progressive ideas and signature playing."
+        },
+        {
+          "Year": 1981,
+          "Title": "Moving Pictures",
+          "Details": "Creative and commercial high point that paired concise writing with virtuoso performances."
+        },
+        {
+          "Year": 2012,
+          "Title": "Clockwork Angels",
+          "Details": "Late-career concept album that showed the band still working at an ambitious scale."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1976,
+          "Title": "2112",
+          "Details": "Epic suite that became a signature statement of the band’s progressive era."
+        },
+        {
+          "Year": 1980,
+          "Title": "The Spirit of Radio",
+          "Details": "A defining single that captures Rush’s blend of hooks, ideas, and musical agility."
+        },
+        {
+          "Year": 1981,
+          "Title": "Tom Sawyer",
+          "Details": "Their best-known anthem—riff-forward, rhythmically sharp, and instantly recognizable."
+        },
+        {
+          "Year": 1981,
+          "Title": "Limelight",
+          "Details": "A classic reflection on fame built on a huge chorus and Lifeson’s clean, chiming guitar."
+        },
+        {
+          "Year": 1981,
+          "Title": "YYZ",
+          "Details": "Instrumental showpiece that became a live staple and a shorthand for the band’s musicianship."
+        },
+        {
+          "Year": 1982,
+          "Title": "Subdivisions",
+          "Details": "Synth-era cornerstone with lyrics about conformity and identity, framed by a massive hook."
+        },
+        {
+          "Year": 1977,
+          "Title": "Closer to the Heart",
+          "Details": "One of the band’s most enduring, uplifting songs and a longtime setlist favorite."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1994,
+          "Title": "Canadian Music Hall of Fame induction",
+          "Details": "Inducted into the Canadian Music Hall of Fame. citeturn0search0turn0search5"
+        },
+        {
+          "Year": 1996,
+          "Title": "Officers of the Order of Canada",
+          "Details": "Lee, Lifeson, and Peart were made Officers of the Order of Canada. citeturn0search0"
+        },
+        {
+          "Year": 2013,
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted into the Rock & Roll Hall of Fame. citeturn0search0turn0search5"
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Toronto in 1968. citeturn0search0",
+        "Classic power‑trio lineup established when Neil Peart joined in July 1974. citeturn0search0",
+        "Known for progressive ambition, technical precision, and a long-running live reputation.",
+        "Inducted into the Canadian Music Hall of Fame (1994) and Rock & Roll Hall of Fame (2013). citeturn0search0turn0search5",
+        "Members made Officers of the Order of Canada in 1996. citeturn0search0"
+      ],
+      "ExternalLinks": {
+        "OfficialWebsite": "https://www.rush.com/",
+        "Albums": "https://www.rush.com/albums/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Rush_(band)"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Geddy Lee",
+          "Roles": [
+            "Bass",
+            "Lead vocals",
+            "Keyboards"
+          ],
+          "Years": "1968–2015",
+          "Overview": "Frontman whose melodic bass, high-range vocals, and keyboard work helped define Rush’s sound across every era.",
+          "Bio": {
+            "BioID": "bio-geddy-lee",
+            "ArtistID": "rush",
+            "ArtistName": "Rush",
+            "MemberName": "Geddy Lee",
+            "FullName": "Gary Lee Weinrib",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1953-07-29",
+              "Place": "Toronto, Ontario, Canada"
+            },
+            "ActiveYears": [
+              "1968–present"
+            ],
+            "AssociatedActs": [
+              "Rush"
+            ],
+            "KeyAlbums": [
+              "2112",
+              "Permanent Waves",
+              "Moving Pictures",
+              "Clockwork Angels"
+            ],
+            "KeySongs": [
+              "Tom Sawyer",
+              "The Spirit of Radio",
+              "Limelight",
+              "Subdivisions"
+            ],
+            "Achievements": [
+              "Co-led Rush from local beginnings to global stature as one of rock’s most identifiable bassist-vocalists.",
+              "Inducted into the Rock & Roll Hall of Fame as part of Rush (2013). citeturn0search0"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Geddy_Lee",
+              "OfficialSite": "https://www.rush.com/"
+            },
+            "Biography": "Geddy Lee (born Gary Lee Weinrib on July 29, 1953, in Toronto) is Rush’s most immediate signature: a bassist who plays like a lead instrument, a vocalist with a uniquely high, urgent tone, and a bandleader whose musical curiosity kept Rush evolving for decades. In a power trio, the bass can’t hide—Lee made it the engine and the melody at the same time.\n\nRush began as a local Toronto band, and Lee was there as the group sharpened into a working unit—clubs, early recordings, and the grind of becoming tight enough to sound bigger than three people. Even in the earliest material, his instinct was not to merely support the guitar; he pushed forward, filling space with motion and counter-melody.\n\nAs the band moved into progressive rock, Lee’s role expanded. He didn’t just “hold down the low end”—he helped write the band’s rhythmic identity, building riffs that could turn on a dime and grooves that stayed muscular even when the time signatures shifted. His bass parts often feel like hooks you can hum, not just notes you feel.\n\nWhen Neil Peart joined in 1974 and became the primary lyricist, Lee’s vocals became the vehicle for words that tackled ideas beyond typical rock topics. That pairing is part of Rush’s uniqueness: complex, concept-driven themes delivered through a voice that sounded raw and human rather than theatrical.\n\nThe breakthrough years around “2112” established Rush’s scale, and Lee’s performance made the ambition feel physical. Even when the music sprawled into suites, the playing stayed punchy—his lines kept the music moving forward instead of drifting into abstraction.\n\nIn the early 1980s, Rush tightened their songwriting without losing sophistication. Albums like “Permanent Waves” and “Moving Pictures” show Lee balancing clarity and virtuosity—bass lines that are still intricate, but also direct enough to anchor huge singles. That era made him a reference point for generations of rock and metal bassists.\n\nDuring the 1980s, Lee also took on a larger keyboard role, letting Rush explore synth-driven textures while remaining a guitar band at heart. The trick was integration: the keys didn’t replace the bass or guitar; they widened the palette, and Lee handled that expansion from inside the trio.\n\nLee’s stage role became central to Rush’s live reputation. Night after night, he carried vocals, bass, and often keyboards while keeping the band locked. Rush’s concerts earned a reputation for clarity and precision, and Lee’s ability to juggle multiple musical jobs was a big reason why the live show felt effortless despite the complexity.\n\nAfter the band’s active run ended, Lee’s legacy stayed tied to the catalogue and to the example Rush set: take musicianship seriously without turning it into ego. His playing remains a blueprint for how to be technical while still being emotional—music that hits the head and the gut at the same time."
+          }
+        },
+        {
+          "Name": "Alex Lifeson",
+          "Roles": [
+            "Guitar",
+            "Backing vocals"
+          ],
+          "Years": "1968–2015",
+          "Overview": "Guitarist whose blend of riff power, textural color, and inventive chord work gave Rush its wide sonic range.",
+          "Bio": {
+            "BioID": "bio-alex-lifeson",
+            "ArtistID": "rush",
+            "ArtistName": "Rush",
+            "MemberName": "Alex Lifeson",
+            "FullName": "Alexandar Živojinović",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1953-08-27",
+              "Place": "Fernie, British Columbia, Canada"
+            },
+            "ActiveYears": [
+              "1968–present"
+            ],
+            "AssociatedActs": [
+              "Rush"
+            ],
+            "KeyAlbums": [
+              "2112",
+              "Hemispheres",
+              "Moving Pictures",
+              "Permanent Waves"
+            ],
+            "KeySongs": [
+              "Tom Sawyer",
+              "Limelight",
+              "Closer to the Heart"
+            ],
+            "Achievements": [
+              "Co-founded Rush and developed a guitar style that combined heavy riffing with atmospheric arrangement.",
+              "Inducted into the Rock & Roll Hall of Fame as part of Rush (2013). citeturn0search0"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Alex_Lifeson",
+              "OfficialSite": "https://www.rush.com/"
+            },
+            "Biography": "Alex Lifeson (born Alexandar Živojinović on August 27, 1953) is Rush’s guitarist and a co-founder whose playing is often underestimated by people who only know the hits. He can riff like a hard‑rock player, but his deeper gift is arrangement: building guitar parts that make a trio sound wide, layered, and cinematic.\n\nFrom the beginning, Lifeson helped form Rush’s identity as a band that could play loud and fast without becoming one-dimensional. Even in the early hard‑rock period, his chords and voicings had a slightly different color—less blues-rock default, more angular shapes that hinted at the progressive direction to come.\n\nWhen Rush embraced long-form progressive rock, Lifeson didn’t just stack solos on top of complexity. He used texture—arpeggios, suspended chords, dynamic swells—to create space for the bass, vocals, and drums to move. In a trio, that kind of spatial thinking is crucial: it prevents density from becoming clutter.\n\nOn landmark works like “2112,” Lifeson’s guitar helps sell the drama. He’s heavy when the story demands heaviness, but he’s also lyrical, using melodic lines and clean sections to widen the emotional range. The contrast between force and finesse became one of Rush’s core strengths.\n\nThe late 1970s and early 1980s show his evolution into a guitarist who can make complexity feel simple. The riffs are direct, but the details—rhythm accents, chord extensions, the way he interlocks with Lee’s bass—make the songs feel engineered without sounding cold.\n\nLifeson’s playing on “Moving Pictures” is a masterclass in clarity. Songs like “Limelight” sound massive, yet every part is readable. His tone and chord choices give the chorus its lift, while the verses remain tight and propulsive—proof that ‘big’ doesn’t have to mean ‘messy.’\n\nAs Rush moved into more synthesizer-driven textures, Lifeson adapted by becoming even more deliberate with guitar placement. Instead of competing with keyboards, he often provided punctuation—sharp riffs, atmospheric layers, and distinctive rhythmic patterns that kept the band’s identity anchored in guitar even when the palette expanded.\n\nIn the later years, Lifeson remained a player’s player: inventive, reliable, and unpretentious about the technical side. Rush’s reputation for high-level musicianship could have turned sterile; Lifeson’s humor and looseness on stage helped keep the band human.\n\nLifeson’s legacy is the sound of a trio refusing to sound small. He proved that guitar greatness isn’t only about speed—it’s about architecture, texture, and the courage to let a part be exactly as complex as it needs to be, and no more."
+          }
+        },
+        {
+          "Name": "Neil Peart",
+          "Roles": [
+            "Drums",
+            "Primary lyricist"
+          ],
+          "Years": "1974–2015",
+          "Overview": "Drummer and lyricist whose precision, endurance, and intellectual curiosity became central to Rush’s identity.",
+          "Bio": {
+            "BioID": "bio-neil-peart",
+            "ArtistID": "rush",
+            "ArtistName": "Rush",
+            "MemberName": "Neil Peart",
+            "FullName": "Neil Ellwood Peart",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Lyricist",
+              "Author"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1952-09-12",
+              "Place": "Hamilton, Ontario, Canada"
+            },
+            "Death": {
+              "Date": "2020-01-07",
+              "Place": "Santa Monica, California, United States"
+            },
+            "ActiveYears": [
+              "1971–2015"
+            ],
+            "AssociatedActs": [
+              "Rush"
+            ],
+            "KeyAlbums": [
+              "2112",
+              "Hemispheres",
+              "Moving Pictures",
+              "Clockwork Angels"
+            ],
+            "KeySongs": [
+              "Tom Sawyer",
+              "YYZ",
+              "The Spirit of Radio",
+              "Subdivisions"
+            ],
+            "Achievements": [
+              "Joined Rush in July 1974, completing the classic power‑trio lineup. citeturn0search0",
+              "Helped define Rush’s lyrical voice and rhythmic signature across four decades."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Neil_Peart",
+              "OfficialSite": "https://www.rush.com/"
+            },
+            "Biography": "Neil Peart (born September 12, 1952) joined Rush in July 1974 and instantly changed what the band could be. He brought a level of rhythmic precision and endurance that matched the group’s growing ambition, and he also became the primary lyricist—an unusual dual role that made him both the band’s rhythmic architect and its narrative voice. citeturn0search0\n\nAs a drummer, Peart combined power with detail. His parts are built from clear motifs—fills that you remember, accents that guide the form—rather than random displays of technique. Even when the patterns are complex, the intent is obvious: drive the song forward and make each section feel distinct.\n\nPeart’s arrival coincided with Rush leaning harder into progressive rock, and his playing made that leap credible. The long-form suites and shifting meters worked because he could execute them with consistency while still sounding like a rock drummer—forceful, grounded, and alive.\n\nHis lyrical contributions gave Rush a different kind of subject matter. Instead of defaulting to romance or clichés, Peart wrote about individualism, imagination, social pressure, and the tension between freedom and control. Over time, that broadened into more personal reflection, making the band’s themes feel like they matured alongside the audience.\n\nDuring the band’s 1970s progressive peak, Peart’s drumming became a magnet for musicians. He made technical playing feel purposeful, and his kit became a kind of instrument within the instrument—patterns that could function like riffs, with recurring shapes and identifiable ‘hooks’ in the percussion itself.\n\nIn the early 1980s, when Rush tightened their songwriting, Peart adjusted without simplifying into blandness. Tracks like “Tom Sawyer” and “YYZ” showcase the balance: parts that are still challenging, but structured to serve concise songs with massive hooks and clear dynamics.\n\nAcross the synth-era 1980s and the later 1990s/2000s work, Peart continued evolving—incorporating new textures, refining his sound, and maintaining an almost obsessive dedication to practice. That commitment underpinned Rush’s live reputation: the band could reliably perform demanding music at a high level for decades.\n\nPeart was also known as a writer beyond lyrics, documenting experiences with a reflective, detail-oriented voice. That extension of his personality—disciplined, inquisitive, and often philosophical—mirrors what listeners hear in Rush: a band that treats rock as a craft worth studying, not just a vibe.\n\nPeart retired from touring and drumming with Rush at the end of the band’s active run, and his death in 2020 deepened the sense that the classic era had truly closed. His legacy remains enormous: a drummer who raised the technical bar while keeping the music emotional, and a lyricist who helped give rock a more thoughtful vocabulary."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John Rutsey",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1968–1974",
+          "Overview": "Original drummer who played on the debut era before leaving in 1974, shortly after the first album’s release."
+        },
+        {
+          "Name": "Jeff Jones",
+          "Roles": [
+            "Bass",
+            "Lead vocals"
+          ],
+          "Years": "1968 (early)",
+          "Overview": "Early bassist/frontman in the band’s formation phase before Geddy Lee became the long-term vocalist and bassist. citeturn0search0"
+        }
+      ]
     },
     {
       "ArtistID": "sade",
@@ -15718,9 +16952,257 @@
       "NonCoreMembers": []
     },
     {
-      "ArtistID": "simon-garfunkel",
+      "ArtistID": "simonandgarfunkel",
       "Name": "Simon & Garfunkel",
-      "CoreMembers": [],
+      "Type": "Duo",
+      "Origin": "Forest Hills, Queens, New York City, United States",
+      "YearsActive": [
+        "1956–1958",
+        "1963–1970",
+        "1972",
+        "1975–1977",
+        "1981–1984",
+        "1990",
+        "1993",
+        "2003–2005",
+        "2007–2010"
+      ],
+      "Genres": [
+        "Folk rock",
+        "Pop",
+        "Rock"
+      ],
+      "Labels": [
+        "Columbia"
+      ],
+      "Overview": "Simon & Garfunkel were an American folk‑rock duo from Forest Hills, Queens—singer‑songwriter Paul Simon and vocalist Art Garfunkel—whose close harmonies and literate songs became one of the defining sounds of the 1960s. After earlier teen recordings under the name Tom & Jerry, they broke through in the mid‑1960s and quickly developed a signature blend of acoustic intimacy and pop craft, pairing Simon’s storytelling with Garfunkel’s clear tenor. Across five core studio albums, they moved from spare folk arrangements to richer, more orchestral production while keeping the emotional focus tight and human.\n\nTheir run culminated with “Bridge over Troubled Water” (1970), one of the era’s biggest and most acclaimed albums, before the duo split later that year and pursued solo careers. They reunited periodically—most famously for the massive 1981 Central Park concert—cementing a legacy built on timeless songwriting and performances that feel both personal and cinematic.",
+      "NotableAlbums": [
+        {
+          "Year": 1964,
+          "Title": "Wednesday Morning, 3 A.M.",
+          "Details": "Debut that introduced their early folk approach and the seed of their harmony-driven identity."
+        },
+        {
+          "Year": 1966,
+          "Title": "Sounds of Silence",
+          "Details": "Breakthrough album that brought their songs to a mass audience and established their core sound."
+        },
+        {
+          "Year": 1966,
+          "Title": "Parsley, Sage, Rosemary and Thyme",
+          "Details": "A confident step forward in writing and arrangement, balancing intimacy with sharper pop craft."
+        },
+        {
+          "Year": 1968,
+          "Title": "Bookends",
+          "Details": "A concept-leaning, late‑’60s peak that paired social observation with vivid personal scenes."
+        },
+        {
+          "Year": 1970,
+          "Title": "Bridge over Troubled Water",
+          "Details": "Final studio album—bigger in scope and emotion, and one of the most acclaimed best-sellers of its era."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1965,
+          "Title": "The Sound of Silence",
+          "Details": "Their signature breakthrough—quiet tension, unforgettable harmony, and a song that became a cultural touchstone."
+        },
+        {
+          "Year": 1966,
+          "Title": "I Am a Rock",
+          "Details": "A sharp, solitary statement set to a driving folk‑rock arrangement."
+        },
+        {
+          "Year": 1966,
+          "Title": "Homeward Bound",
+          "Details": "A restless travel-song classic—simple, direct, and deeply human."
+        },
+        {
+          "Year": 1966,
+          "Title": "Scarborough Fair/Canticle",
+          "Details": "A haunting, interwoven arrangement that showed how adventurous their studio work could be."
+        },
+        {
+          "Year": 1967,
+          "Title": "A Hazy Shade of Winter",
+          "Details": "Brisk and urgent—one of their hardest-hitting recordings."
+        },
+        {
+          "Year": 1968,
+          "Title": "Mrs. Robinson",
+          "Details": "A defining hit tied to *The Graduate*, blending wit, bite, and instant-hook melody."
+        },
+        {
+          "Year": 1968,
+          "Title": "America",
+          "Details": "A wide-screen road song that feels like a small novel in under four minutes."
+        },
+        {
+          "Year": 1969,
+          "Title": "The Boxer",
+          "Details": "A narrative epic built on empathy, drama, and one of their most famous choruses."
+        },
+        {
+          "Year": 1970,
+          "Title": "Bridge over Troubled Water",
+          "Details": "A towering ballad and enduring anthem of reassurance and support."
+        },
+        {
+          "Year": 1970,
+          "Title": "Cecilia",
+          "Details": "Rhythmic and playful—a reminder they could be light on their feet, too."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1971,
+          "Title": "Grammy Awards sweep for “Bridge over Troubled Water”",
+          "Details": "The album won Album of the Year at the 1971 Grammy Awards, and the title track won Record of the Year and Song of the Year."
+        },
+        {
+          "Year": 1990,
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted into the Rock & Roll Hall of Fame."
+        },
+        {
+          "Year": 1981,
+          "Title": "The Concert in Central Park",
+          "Details": "Reunion performance in New York City’s Central Park drew an estimated 500,000 attendees and became a landmark live document."
+        }
+      ],
+      "KeyFacts": [
+        "Duo formed by Paul Simon and Art Garfunkel, friends since childhood in Queens, New York.",
+        "Known for close harmony singing, acoustic-to-orchestral arrangements, and literate songwriting.",
+        "Released five core studio albums as Simon & Garfunkel, ending with “Bridge over Troubled Water” (1970).",
+        "Inducted into the Rock & Roll Hall of Fame in 1990.",
+        "Reunited periodically, including the 1981 Central Park concert."
+      ],
+      "ExternalLinks": {
+        "OfficialWebsite": "https://simonandgarfunkel.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Simon_%26_Garfunkel"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Paul Simon",
+          "Roles": [
+            "Songwriter",
+            "Guitar",
+            "Lead vocals"
+          ],
+          "Years": "1956–1958, 1963–1970 (plus reunions)",
+          "Overview": "Primary songwriter whose melodies and narratives gave the duo its emotional range, from quiet confession to wide-screen storytelling.",
+          "Bio": {
+            "BioID": "bio-paul-simon",
+            "ArtistID": "simonandgarfunkel",
+            "ArtistName": "Simon & Garfunkel",
+            "MemberName": "Paul Simon",
+            "FullName": "Paul Frederic Simon",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer-songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Folk rock",
+              "Pop",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1941-10-13",
+              "Place": "Newark, New Jersey, United States"
+            },
+            "ActiveYears": [
+              "1956–present"
+            ],
+            "AssociatedActs": [
+              "Simon & Garfunkel"
+            ],
+            "KeyAlbums": [
+              "Sounds of Silence",
+              "Bookends",
+              "Bridge over Troubled Water"
+            ],
+            "KeySongs": [
+              "The Sound of Silence",
+              "Mrs. Robinson",
+              "The Boxer",
+              "Bridge over Troubled Water"
+            ],
+            "Achievements": [
+              "Co-founded Simon & Garfunkel and wrote the vast majority of the duo’s catalogue.",
+              "Helped define 1960s folk‑rock songwriting with concise stories and unforgettable melodies."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Simon",
+              "OfficialDuoSite": "https://simonandgarfunkel.com/"
+            },
+            "Biography": "Paul Simon (born October 13, 1941) became one of popular music’s most respected songwriters by making small scenes feel universal. In Simon & Garfunkel, his gift was compression: lyrics that read like short stories, melodies that land instantly, and arrangements that leave room for emotion without overexplaining it.\n\nHe grew up in Queens, New York, where he met Art Garfunkel as a kid. Their early bond turned into an early duo—first as teenage performers, then later as Simon & Garfunkel—built around the simple but powerful idea that two voices could carry a whole world if the songs were strong enough.\n\nSimon’s writing often begins with a person in motion: a traveler, an outsider, someone trying to keep it together. That perspective runs through the catalogue, whether the song is quiet and intimate or grand and dramatic. Even when the lyrics are poetic, the feelings are concrete—loneliness, hope, fear, pride, tenderness.\n\nAs the duo’s career accelerated in the mid‑1960s, Simon’s songwriting sharpened. He could write a hit that felt personal rather than manufactured, and he could write a deep cut that felt like it belonged in a novel. That balance—craft without cynicism—became a defining strength.\n\nHis melodies are as important as his words. Simon writes lines that sound inevitable once you hear them, and he’s unusually skilled at building a chorus that feels like a release rather than a repetition. That melodic instinct is why songs from this era still feel “current” decades later.\n\nSimon also understood the studio as an instrument. As Simon & Garfunkel moved from spare folk to richer production, he kept the heart of the song intact—letting orchestration and texture enlarge the emotion without burying the lyric. The music grew, but the point stayed clear.\n\nThe duo’s breakup didn’t erase what Simon built; it framed it. Their five core albums became a complete story arc, and Simon’s writing stands as the throughline—an evolving voice that could be witty, compassionate, skeptical, and sincere within the same record.\n\nSimon’s long-term legacy is the standard he set: songs that don’t chase trends, songs that reward repeat listening, and songs that treat listeners like adults. In Simon & Garfunkel, he helped prove that popular music could be both accessible and deeply written—without choosing one over the other."
+          }
+        },
+        {
+          "Name": "Art Garfunkel",
+          "Roles": [
+            "Lead vocals",
+            "Harmony vocals"
+          ],
+          "Years": "1956–1958, 1963–1970 (plus reunions)",
+          "Overview": "Vocalist whose clear tenor and high harmonies gave the duo its luminous, instantly recognizable blend.",
+          "Bio": {
+            "BioID": "bio-art-garfunkel",
+            "ArtistID": "simonandgarfunkel",
+            "ArtistName": "Simon & Garfunkel",
+            "MemberName": "Art Garfunkel",
+            "FullName": "Arthur Ira Garfunkel",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Actor",
+              "Poet"
+            ],
+            "Genres": [
+              "Folk rock",
+              "Pop",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1941-11-05",
+              "Place": "Forest Hills, Queens, New York City, United States"
+            },
+            "ActiveYears": [
+              "1956–present"
+            ],
+            "AssociatedActs": [
+              "Simon & Garfunkel"
+            ],
+            "KeyAlbums": [
+              "Sounds of Silence",
+              "Bookends",
+              "Bridge over Troubled Water"
+            ],
+            "KeySongs": [
+              "Bridge over Troubled Water",
+              "The Sound of Silence",
+              "Mrs. Robinson"
+            ],
+            "Achievements": [
+              "Co-founded Simon & Garfunkel and helped create one of the most distinctive harmony sounds in popular music.",
+              "Became known for a bright, pure tenor that could deliver both intimacy and grandeur."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Art_Garfunkel",
+              "OfficialSite": "https://www.artgarfunkel.com/"
+            },
+            "Biography": "Art Garfunkel (born November 5, 1941) is the voice that many listeners identify first in Simon & Garfunkel: a clear, soaring tenor that can sound tender, lonely, or majestic without raising its volume. His singing helped give the duo a kind of light—an emotional glow that made even sad songs feel strangely beautiful.\n\nHe grew up in Forest Hills, Queens, and met Paul Simon in childhood. Their friendship turned into music early, and Garfunkel’s ear for harmony became a major part of why the pairing worked: Simon could write densely and idiosyncratically, and Garfunkel could lift the lines into something open and radiant.\n\nGarfunkel’s strength isn’t only tone; it’s control. He phrases with clarity and restraint, letting the words land cleanly and letting the melody carry the feeling. That approach made the duo’s recordings feel intimate, as if the singers were right in the room with you.\n\nOn many of the biggest recordings, Garfunkel’s role is to provide the emotional “ceiling.” When the chorus arrives, he gives the song altitude—harmonies that bloom, sustained notes that feel like breath held and finally released. That effect is a large reason their catalogue feels timeless rather than dated.\n\nHe also had an instinct for drama in performance. Without turning songs into theater, Garfunkel could make a lyric feel like a scene: a glance, a pause, a quiet emphasis that changes how the line hits. It’s a subtle skill, and it’s central to why their records feel cinematic.\n\nThe apex of that vocal presence is the title track of “Bridge over Troubled Water,” where his lead vocal turns the song into a statement larger than the duo’s usual scale. The performance is big, but it never feels like showing off; it feels like commitment to the emotion.\n\nAfter the original run ended, Garfunkel pursued solo work and acting, but the duo’s reunions repeatedly proved how distinctive the blend remained. Even after years apart, the harmony sound could reappear instantly—two voices finding the old shape again.\n\nGarfunkel’s legacy in the duo is simple but rare: he made harmony singing feel like a main event. In Simon & Garfunkel, he helped turn great songs into classic recordings by adding a vocal signature that’s both beautiful and unmistakable."
+          }
+        }
+      ],
       "NonCoreMembers": []
     },
     {
