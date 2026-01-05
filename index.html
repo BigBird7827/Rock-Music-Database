@@ -851,6 +851,48 @@ display:none;
 
     const joinNonEmpty = (parts, sep) => parts.map(safe).map(s => s.trim()).filter(Boolean).join(sep);
 
+    const formatUSDate = (v) => {
+      const raw = safe(v).trim();
+      if (!raw) return raw;
+
+      const s = raw.replace(/\s+/g, " ").trim();
+
+      // ISO: YYYY-MM-DD or YYYY/MM/DD (optionally with time)
+      const iso = s.match(/^(\d{4})[\/-](\d{1,2})[\/-](\d{1,2})(?:[T\s].*)?$/);
+      if (iso) {
+        const yyyy = iso[1];
+        const mm = String(iso[2]).padStart(2, "0");
+        const dd = String(iso[3]).padStart(2, "0");
+        return `${mm}/${dd}/${yyyy}`;
+      }
+
+      // Already US: MM/DD/YYYY
+      const us = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+      if (us) {
+        const mm = String(us[1]).padStart(2, "0");
+        const dd = String(us[2]).padStart(2, "0");
+        const yyyy = us[3];
+        return `${mm}/${dd}/${yyyy}`;
+      }
+
+      // UK or ambiguous numeric: DD/MM/YYYY or DD-MM-YYYY (default to DD/MM when ambiguous)
+      const uk = s.match(/^(\d{1,2})[\/-](\d{1,2})[\/-](\d{4})$/);
+      if (uk) {
+        const a = parseInt(uk[1], 10);
+        const b = parseInt(uk[2], 10);
+        const yyyy = uk[3];
+
+        let dd, mm;
+        if (a > 12 && b <= 12) { dd = a; mm = b; }
+        else if (b > 12 && a <= 12) { mm = a; dd = b; }
+        else { dd = a; mm = b; }
+
+        return `${String(mm).padStart(2, "0")}/${String(dd).padStart(2, "0")}/${yyyy}`;
+      }
+
+      return s;
+    };
+
     const renderBioOverlay = (artist, memberName) => {
       const core = Array.isArray(artist.CoreMembers) ? artist.CoreMembers : [];
       const member = core.find(m => normKey(m.Name) === normKey(memberName));
@@ -864,8 +906,8 @@ display:none;
       const birth = bio && bio.Birth ? bio.Birth : null;
       const death = bio && bio.Death ? bio.Death : null;
 
-      const birthLine = birth ? joinNonEmpty([birth.Date || birth.Year, birth.Place], " • ") : "";
-      const deathLine = death ? joinNonEmpty([death.Date || death.Year, death.Place, death.Cause], " • ") : "";
+      const birthLine = birth ? joinNonEmpty([formatUSDate(birth.Date) || birth.Year, birth.Place], " • ") : "";
+      const deathLine = death ? joinNonEmpty([formatUSDate(death.Date) || death.Year, death.Place, death.Cause], " • ") : "";
 
       const cards = [];
       if (hasText(birthLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Birth</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(birthLine)}</p></div>`);
