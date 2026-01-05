@@ -4858,7 +4858,262 @@
     },
     {
       "ArtistID": "alice-cooper",
-      "Name": "Alice Cooper"
+      "Name": "Alice Cooper",
+      "Type": "Solo",
+      "Origin": {
+        "City": "Phoenix",
+        "Region": "Arizona",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1964–present"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Shock rock",
+        "Glam rock",
+        "Heavy metal"
+      ],
+      "Labels": [
+        "Straight",
+        "Warner Bros.",
+        "Atlantic",
+        "MCA",
+        "Epic"
+      ],
+      "Overview": "Alice Cooper (born Vincent Damon Furnier) is an American rock singer and songwriter whose mix of big hooks and theatrical shock‑rock staging helped define how hard rock could look as well as sound. Rising first with the original Alice Cooper band in the early 1970s, he paired riff-heavy songs with a darkly comic, horror‑tinged stage show—guillotines, mock executions, and macabre props—while still delivering radio‑ready singles that broke through far beyond the gimmick.\n\nAcross the band era and his long solo career, Cooper built a catalog that spans snarling hard rock, glam‑leaning anthems, and later arena‑metal revival hits. Classic releases such as *School’s Out* (1972) and *Billion Dollar Babies* (1973) cemented his mainstream impact, while the solo debut *Welcome to My Nightmare* (1975) expanded his taste for concept‑driven storytelling. Decades later he scored a major late‑career crossover hit with “Poison” (1989), and his influence on stagecraft and persona-driven rock remains a touchstone for metal and punk performers alike.",
+      "NotableAlbums": [
+        {
+          "Title": "Love It to Death",
+          "Year": "1971",
+          "Notes": "Breakthrough album for the original Alice Cooper band, featuring “I’m Eighteen” and establishing the sleazy, theatrical hard‑rock template that would drive their early‑’70s rise."
+        },
+        {
+          "Title": "School’s Out",
+          "Year": "1972",
+          "Notes": "A signature-era album built around the title single; it captured Cooper’s blend of bratty teenage anthems and razor-edged riffs at the peak of the band’s popularity."
+        },
+        {
+          "Title": "Billion Dollar Babies",
+          "Year": "1973",
+          "Notes": "The band’s commercial high‑water mark and a defining shock‑rock statement, hitting #1 in both the U.S. and the U.K. and spawning staples like “No More Mr. Nice Guy.”"
+        },
+        {
+          "Title": "Welcome to My Nightmare",
+          "Year": "1975",
+          "Notes": "Cooper’s debut solo studio album and a major reinvention—concept‑leaning, cinematic hard rock shaped with producer Bob Ezrin, and anchored by the enduring ballad “Only Women Bleed.”"
+        },
+        {
+          "Title": "Trash",
+          "Year": "1989",
+          "Notes": "A late‑career comeback set that reintroduced Cooper to a new MTV/arena audience and delivered the hit single “Poison,” one of his biggest chart successes."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "I’m Eighteen",
+          "Year": "1971",
+          "Notes": "The breakout single that announced Cooper as more than a cult stage act—darkly funny, rebellious, and built for loud guitars and loud crowds."
+        },
+        {
+          "Title": "School’s Out",
+          "Year": "1972",
+          "Notes": "His signature anthem; it became a major international hit and remains a concert centerpiece decades later."
+        },
+        {
+          "Title": "No More Mr. Nice Guy",
+          "Year": "1973",
+          "Notes": "A snarling, sing‑along hard‑rock staple from the *Billion Dollar Babies* era that helped define Cooper’s classic radio footprint."
+        },
+        {
+          "Title": "Only Women Bleed",
+          "Year": "1975",
+          "Notes": "A standout from *Welcome to My Nightmare* that showcased Cooper’s ability to deliver theatrical rock with genuine emotional weight."
+        },
+        {
+          "Title": "Poison",
+          "Year": "1989",
+          "Notes": "The comeback single from *Trash* that brought Cooper back to the top tier of rock radio and MTV in the late ’80s."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1972",
+          "Title": "“School’s Out” became a major international hit",
+          "Details": "Released as a single in 1972, “School’s Out” broke into the Top 10 in the U.S. and reached #1 in the U.K., turning the band into a true mainstream phenomenon."
+        },
+        {
+          "Year": "1973",
+          "Title": "*Billion Dollar Babies* hit #1 in the U.S. and the U.K.",
+          "Details": "The album topped both charts and became the best‑selling Alice Cooper record at the time, later earning RIAA platinum certification."
+        },
+        {
+          "Year": "1975",
+          "Title": "Launched a successful solo career with *Welcome to My Nightmare*",
+          "Details": "Cooper’s debut solo album expanded his theatrical concept approach and set the template for decades of arena-scale shock‑rock touring."
+        },
+        {
+          "Year": "1989",
+          "Title": "“Poison” marked a major late‑career comeback",
+          "Details": "The single became one of Cooper’s biggest hits, reaching the Top 10 on the U.S. Billboard Hot 100 and climbing to #2 in the U.K."
+        },
+        {
+          "Year": "2011",
+          "Title": "Inducted into the Rock & Roll Hall of Fame (original Alice Cooper group)",
+          "Details": "The classic lineup was inducted as performers, recognizing their early‑’70s impact on hard rock, glam, metal, and punk‑adjacent stagecraft."
+        },
+        {
+          "Year": "2015",
+          "Title": "“School’s Out” inducted into the Grammy Hall of Fame",
+          "Details": "The song received Grammy Hall of Fame recognition for its lasting cultural and musical significance."
+        }
+      ],
+      "KeyFacts": [
+        "Born Vincent Damon Furnier (Detroit, Michigan), he later made “Alice Cooper” his legal name and continued under it as a solo artist after the original band era.",
+        "Cooper is widely known for theatrical shock‑rock stage shows featuring horror and vaudeville-style illusions, blending spectacle with hook-driven hard rock.",
+        "The original Alice Cooper band’s classic lineup was Vincent Furnier (vocals), Glen Buxton (lead guitar), Michael Bruce (rhythm guitar/keys), Dennis Dunaway (bass), and Neal Smith (drums).",
+        "Producer Bob Ezrin was a key creative partner during the breakthrough years, helping shape albums that balanced radio-ready choruses with darker storytelling.",
+        "His catalog spans multiple eras of rock radio, from early-’70s classics (“I’m Eighteen,” “School’s Out”) to the late-’80s comeback hit “Poison.”"
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://alicecooper.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Alice_Cooper",
+        "Discography": "https://en.wikipedia.org/wiki/Alice_Cooper_discography",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/alice-cooper/"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Alice Cooper",
+          "Roles": [
+            "lead vocals",
+            "songwriter",
+            "showman"
+          ],
+          "Years": "1964–present",
+          "Overview": "Stage name and legal name of Vincent Damon Furnier, the singer who fronted the original Alice Cooper band and then built a decades-spanning solo career defined by theatrical shock‑rock performance and durable rock radio staples.",
+          "Bio": "Vincent Damon Furnier was born in Detroit, Michigan, and moved with his family to Phoenix, Arizona as a child. In high school he formed a band with friends that evolved through several names and lineups before adopting the “Alice Cooper” identity, pairing raw garage-rock energy with a flair for dark humor and showmanship.\n\nAfter relocating to Los Angeles, the group’s unconventional look and aggressive stage presentation drew attention—especially once they began leaning into a deliberately unsettling, theatrical persona. That sense of performance was never just window dressing; it was built around tight songs that could stand up on radio and in clubs.\n\nThe breakthrough arrived in the early 1970s with a run of albums that pushed hard rock toward something more cinematic and confrontational. Tracks like “I’m Eighteen” captured teenage frustration with a sneer and a hook, while the band’s live shows amplified the attitude with props, costume, and horror‑movie timing.\n\nWith “School’s Out,” Cooper delivered a generational anthem and one of rock’s most durable choruses. The song’s success helped move the act from cult notoriety to full mainstream impact, setting the stage for the era when spectacle-driven rock concerts became a norm rather than a novelty.\n\n*Billion Dollar Babies* represented the commercial peak of the original band, topping charts and producing staples that remain classic‑rock fixtures. Cooper’s persona—equal parts ringmaster, villain, and comedian—made the music feel like it belonged to a bigger world, turning albums into events and tours into must‑see theater.\n\nAfter the original group era, Cooper continued as a solo artist, legally adopting the Alice Cooper name and reshaping the project around his voice, characters, and storytelling. The solo debut *Welcome to My Nightmare* leaned into concept-driven material and helped prove that the act could evolve beyond the band format.\n\nIn the late 1980s, Cooper pulled off one of rock’s most prominent comebacks with “Poison,” reintroducing himself to a new generation through modern production and arena-sized choruses without abandoning the macabre charm that defined his brand. The hit revived his visibility on rock radio and on music television.\n\nAcross decades of touring, Cooper became a blueprint for performance-focused hard rock—an artist who understood that the stage can be a narrative space as much as a place to play songs. His influence shows up in metal and punk alike, especially among performers who treat persona, costume, and shock as part of the music’s language.\n\nRecognition followed in major institutional ways as well, including Rock & Roll Hall of Fame induction for the original group. Through every era, the common thread has been the same: sharp songs, a distinctive voice, and a commitment to turning rock shows into unforgettable theater."
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Glen Buxton",
+          "Roles": [
+            "lead guitar"
+          ],
+          "Years": "1964–1974 (original band era)",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [
+            "Love It to Death",
+            "Killer",
+            "School’s Out",
+            "Billion Dollar Babies",
+            "Muscle of Love"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Lead guitarist of the original Alice Cooper band and a key architect of its early hard‑rock bite. Buxton’s riffs and leads helped define the band’s classic‑era sound before his death in 1997."
+        },
+        {
+          "Name": "Michael Bruce",
+          "Roles": [
+            "rhythm guitar",
+            "keyboards",
+            "songwriter"
+          ],
+          "Years": "1966–1974 (original band era)",
+          "Instruments": [
+            "guitar",
+            "keyboards"
+          ],
+          "Albums": [
+            "Love It to Death",
+            "Killer",
+            "School’s Out",
+            "Billion Dollar Babies",
+            "Muscle of Love"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Rhythm guitarist and keyboardist in the original band, and a principal co-writer on many of the era’s best-known songs. Bruce’s playing and songwriting supported the tight, chorus-forward approach that made the band’s theatrics land with mainstream audiences."
+        },
+        {
+          "Name": "Dennis Dunaway",
+          "Roles": [
+            "bass",
+            "songwriter"
+          ],
+          "Years": "1964–1974 (original band era)",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [
+            "Love It to Death",
+            "Killer",
+            "School’s Out",
+            "Billion Dollar Babies",
+            "Muscle of Love"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Original bassist and co-writer whose melodic, driving lines anchored the band’s early hits. Dunaway has periodically rejoined Cooper for special performances and reunions celebrating the classic lineup."
+        },
+        {
+          "Name": "Neal Smith",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1967–1974 (original band era)",
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [
+            "Love It to Death",
+            "Killer",
+            "School’s Out",
+            "Billion Dollar Babies",
+            "Muscle of Love"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Drummer for the original Alice Cooper band, known for propulsive, straight-ahead rock grooves that kept the songs punchy and radio-ready. Smith has been part of multiple reunion appearances tied to the band’s legacy."
+        },
+        {
+          "Name": "Dick Wagner",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1974–1983 (key solo-era collaborator)",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [
+            "Welcome to My Nightmare",
+            "Alice Cooper Goes to Hell",
+            "Lace and Whiskey"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A major guitar partner in Cooper’s mid‑’70s solo launch, contributing to the polished, arena-scale sound of the period. Wagner’s playing helped bridge the original band’s bite with the solo years’ more cinematic rock arrangements."
+        },
+        {
+          "Name": "Steve Hunter",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1974–1976 (solo-era sessions/touring)",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [
+            "Welcome to My Nightmare"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Guitarist associated with Cooper’s early solo era, including work around *Welcome to My Nightmare*. His bright, aggressive lead style complemented the album’s dramatic production and helped translate the material to the stage."
+        }
+      ]
     },
     {
       "ArtistID": "alice-in-chains",
