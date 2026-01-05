@@ -11981,8 +11981,640 @@
     {
       "ArtistID": "eagles",
       "Name": "Eagles",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Los Angeles",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1971–1980",
+        "1994–present"
+      ],
+      "Genres": [
+        "Country rock",
+        "Rock",
+        "Soft rock"
+      ],
+      "Labels": [
+        "Asylum",
+        "Geffen",
+        "Eagles Recording Company",
+        "Lost Highway"
+      ],
+      "Overview": "Eagles are an American rock band formed in Los Angeles in 1971, built around tight vocal harmonies, radio-ready songwriting, and a blend of country-rock roots with polished West Coast pop and guitar-driven rock. Emerging from the same Southern California scene that surrounded artists like Linda Ronstadt and Jackson Browne, the group quickly became one of the defining hit-makers of the 1970s, balancing acoustic balladry with sharp electric edge and studio craftsmanship.\n\nAcross multiple eras and lineup changes, Eagles’ catalogue became a cornerstone of classic rock—early staples like “Take It Easy” and “Desperado,” mid‑’70s chart dominance with “One of These Nights” and “Lyin’ Eyes,” and the cinematic peak of Hotel California. After disbanding in 1980, they reunited in 1994 for Hell Freezes Over and returned to the road as a major touring draw. Their greatest-hits collection and signature albums remain among the most commercially successful releases in U.S. recording history.",
+      "NotableAlbums": [
+        {
+          "Title": "Eagles",
+          "Year": "1972",
+          "Notes": "The debut that introduced the band’s harmony-led country-rock sound and established early staples like “Take It Easy” and “Witchy Woman.”"
+        },
+        {
+          "Title": "Desperado",
+          "Year": "1973",
+          "Notes": "A concept-leaning follow-up that deepened their songwriting identity and later became central to their live repertoire through the title track."
+        },
+        {
+          "Title": "On the Border",
+          "Year": "1974",
+          "Notes": "A transitional record that leaned harder into rock and broadened their studio palette as the lineup evolved mid‑decade."
+        },
+        {
+          "Title": "One of These Nights",
+          "Year": "1975",
+          "Notes": "A commercial breakthrough that delivered a No. 1 album and refined the band’s mix of ballads, grooves, and radio rock."
+        },
+        {
+          "Title": "Hotel California",
+          "Year": "1976",
+          "Notes": "The landmark album that became their signature statement, pairing dark, cinematic storytelling with arena-sized guitar work."
+        },
+        {
+          "Title": "The Long Run",
+          "Year": "1979",
+          "Notes": "The last studio album of the original run, featuring late‑’70s hits like “Heartache Tonight” and “I Can’t Tell You Why.”"
+        },
+        {
+          "Title": "Hell Freezes Over",
+          "Year": "1994",
+          "Notes": "Reunion live album with new studio tracks, built around the band’s high-profile MTV performance and return to touring."
+        },
+        {
+          "Title": "Long Road Out of Eden",
+          "Year": "2007",
+          "Notes": "A long-awaited studio return (double album) that reflected the modern touring lineup’s approach and mature songwriting."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Take It Easy",
+          "Year": "1972",
+          "Notes": "The breakout single that crystallized their early country-rock charm and became a defining opener in later concerts."
+        },
+        {
+          "Title": "Desperado",
+          "Year": "1973",
+          "Notes": "A signature ballad that grew into one of their most enduring standards."
+        },
+        {
+          "Title": "Lyin’ Eyes",
+          "Year": "1975",
+          "Notes": "A narrative classic that showcased their pop craftsmanship and harmony blend."
+        },
+        {
+          "Title": "One of These Nights",
+          "Year": "1975",
+          "Notes": "A sleek, groove-driven hit that helped push the band into blockbuster status."
+        },
+        {
+          "Title": "Take It to the Limit",
+          "Year": "1975",
+          "Notes": "Known for its soaring vocal and emotional build, long associated with Randy Meisner’s lead performance."
+        },
+        {
+          "Title": "Hotel California",
+          "Year": "1976",
+          "Notes": "Their signature epic—instantly recognizable from its opening to the iconic twin‑guitar finale."
+        },
+        {
+          "Title": "New Kid in Town",
+          "Year": "1976",
+          "Notes": "A chart-topping single that captured the band’s smooth, melodic peak era."
+        },
+        {
+          "Title": "Life in the Fast Lane",
+          "Year": "1976",
+          "Notes": "A riff-driven rocker that became a staple of classic-rock radio and live shows."
+        },
+        {
+          "Title": "Heartache Tonight",
+          "Year": "1979",
+          "Notes": "A late-’70s hit that kept the band on top of pop and rock radio as their original run neared its end."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1975",
+          "Title": "First GRAMMY win (\"Lyin’ Eyes\")",
+          "Details": "The band earned its first career GRAMMY for “Lyin’ Eyes” (Best Pop Vocal Performance by a Duo, Group or Chorus), cementing their reputation as top-tier hitmakers and harmony singers."
+        },
+        {
+          "Year": "1978",
+          "Title": "Record of the Year for “Hotel California”",
+          "Details": "“Hotel California” won the GRAMMY Award for Record of the Year at the 20th Annual GRAMMY Awards, a rare crossover honor that underscored the song’s impact beyond rock radio."
+        },
+        {
+          "Year": "1998",
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Details": "Eagles were inducted as performers, with past and present members reuniting for the ceremony and performances that highlighted the group’s multi-era legacy."
+        },
+        {
+          "Year": "2018",
+          "Title": "Top-certified albums in U.S. history (RIAA)",
+          "Details": "RIAA certification updates placed Their Greatest Hits (1971–1975) and Hotel California among the highest-certified albums ever in the United States, reflecting decades of sustained demand."
+        },
+        {
+          "Year": "1970s–present",
+          "Title": "One of the best-selling and most played catalogues in classic rock",
+          "Details": "With multiple era-defining singles and long-lived albums, Eagles’ music remains a perennial centerpiece of classic-rock radio formats and major concert touring."
+        }
+      ],
+      "KeyFacts": [
+        "The band formed in 1971 after Glenn Frey and Don Henley played in Linda Ronstadt’s touring band alongside Bernie Leadon and Randy Meisner.",
+        "Their Greatest Hits (1971–1975) and Hotel California rank among the most commercially successful albums in U.S. recording history, with exceptionally high RIAA certifications.",
+        "Eagles disbanded in 1980 and reunited in 1994, with the phrase “hell freezes over” becoming shorthand for how unlikely the reunion once seemed.",
+        "The core songwriting and vocal identity of the band is strongly associated with the Frey–Henley partnership, with both sharing lead-singer and frontman duties.",
+        "Key lineup changes included Joe Walsh replacing Bernie Leadon in 1975 and Timothy B. Schmit replacing Randy Meisner in 1977.",
+        "After Glenn Frey’s death in 2016, the band resumed touring in 2017 with a new configuration that included Deacon Frey and Vince Gill."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://eagles.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Eagles_(band)",
+        "Discography": "https://en.wikipedia.org/wiki/Eagles_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Glenn Frey",
+          "Roles": [
+            "lead vocals",
+            "guitar",
+            "keyboards"
+          ],
+          "Years": "1971–1980, 1994–2016",
+          "Overview": "Co-founder, co-lead vocalist, and principal songwriter whose warm delivery and narrative instincts shaped many of the band’s biggest hits.",
+          "Bio": {
+            "BioID": "bio-eagles-glenn-frey",
+            "ArtistID": "eagles",
+            "ArtistName": "Eagles",
+            "MemberName": "Glenn Frey",
+            "FullName": "Glenn Lewis Frey",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician",
+              "Actor"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock",
+              "Soft rock",
+              "Country rock"
+            ],
+            "Birth": "Born November 6, 1948 (Detroit, Michigan, U.S.); died January 18, 2016 (New York City, U.S.)",
+            "ActiveYears": "1966–2015",
+            "AssociatedActs": [
+              "Eagles",
+              "Longbranch Pennywhistle"
+            ],
+            "KeyAlbums": [
+              "Eagles (1972)",
+              "One of These Nights (1975)",
+              "Hotel California (1976)",
+              "The Long Run (1979)",
+              "Hell Freezes Over (1994)"
+            ],
+            "KeySongs": [
+              "Take It Easy",
+              "Tequila Sunrise",
+              "Lyin’ Eyes",
+              "New Kid in Town",
+              "Heartache Tonight",
+              "The Heat Is On",
+              "You Belong to the City"
+            ],
+            "Achievements": [
+              "Co-founded Eagles in 1971 and became one of the band’s co-lead vocalists and principal writers.",
+              "Inducted into the Rock & Roll Hall of Fame with Eagles (1998)."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://eagles.com/pages/glenn-frey",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Glenn_Frey"
+            },
+            "Biography": "Glenn Frey was one of the two defining frontmen of the Eagles, sharing lead-singer duties and songwriting leadership with Don Henley. From the band’s earliest days, his voice—easy, conversational, and instantly recognizable—helped sell a West Coast sound that felt both intimate and arena-ready.\n\nBefore the Eagles became a phenomenon, Frey worked his way into the Los Angeles scene through bands and sessions, then crossed paths with Henley in the early 1970s. Their chemistry, sharpened in the pressure of backing a major touring artist, became the backbone of a group that could write, sing, and arrange with rare efficiency.\n\nAs a guitarist and occasional keyboard player, Frey also shaped the band’s musical feel: a mix of country phrasing, pop structure, and rock punch. That balance is all over the early hits—bright acoustic strums, tight harmonies, and a sense of forward motion that made the songs feel like they belonged on the open road.\n\nFrey’s writing and vocal presence remained central as the band’s sound grew darker and more cinematic in the mid‑’70s. Songs like “Lyin’ Eyes,” “New Kid in Town,” and “Heartache Tonight” showcased his ability to deliver a narrative with warmth while still landing a hook that worked on radio for decades.\n\nWithin the Eagles’ famously demanding studio culture, Frey was both a craftsman and a driver—someone who cared about finishing the track and making it competitive. That perfectionism, paired with the band’s enormous success, also contributed to the tensions that eventually led to the original breakup in 1980.\n\nAfter the band split, Frey built a parallel career as a solo artist, leaning into sleek ’80s pop-rock production while keeping his songwriter’s instincts intact. His solo catalogue produced major hits that extended his cultural presence beyond the Eagles’ era and kept him a fixture on radio and soundtrack-heavy media.\n\nHe also pursued acting, using the same relaxed confidence that worked on stage to play roles in film and television. That cross-media visibility made him one of the rare rock frontmen who stayed broadly recognizable even during periods when the band itself was inactive.\n\nWhen the Eagles reunited in 1994, Frey returned as a key leader and onstage anchor, proving the group’s catalogue could command stadiums and arenas across new generations. The reunion era reintroduced the band as a touring powerhouse rather than a nostalgia act.\n\nFrey remained an essential part of the Eagles’ identity until health issues forced him off the road, and he died in 2016. The band’s later touring lineup, which includes his son Deacon in a prominent role, underscores how closely Frey’s voice and presence are tied to what audiences hear as “the Eagles sound.”"
+          }
+        },
+        {
+          "Name": "Don Henley",
+          "Roles": [
+            "lead vocals",
+            "drums",
+            "percussion",
+            "guitar"
+          ],
+          "Years": "1971–1980, 1994–present",
+          "Overview": "Co-founder, drummer, and co-lead vocalist known for defining performances on many of the band’s most iconic recordings.",
+          "Bio": {
+            "BioID": "bio-eagles-don-henley",
+            "ArtistID": "eagles",
+            "ArtistName": "Eagles",
+            "MemberName": "Don Henley",
+            "FullName": "Donald Hugh Henley",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Drums",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Rock",
+              "Country rock",
+              "Pop rock",
+              "Hard rock",
+              "Folk rock"
+            ],
+            "Birth": "Born July 22, 1947 (Gilmer, Texas, U.S.)",
+            "ActiveYears": "1970–present",
+            "AssociatedActs": [
+              "Eagles"
+            ],
+            "KeyAlbums": [
+              "Eagles (1972)",
+              "One of These Nights (1975)",
+              "Hotel California (1976)",
+              "The Long Run (1979)",
+              "Hell Freezes Over (1994)"
+            ],
+            "KeySongs": [
+              "Witchy Woman",
+              "Desperado",
+              "Best of My Love",
+              "One of These Nights",
+              "Hotel California",
+              "Life in the Fast Lane",
+              "The Long Run",
+              "The Boys of Summer",
+              "Dirty Laundry"
+            ],
+            "Achievements": [
+              "Co-founded Eagles in 1971; one of the band’s primary lead vocalists and songwriters.",
+              "Won the GRAMMY Award for Record of the Year as Eagles’ vocalist on “Hotel California” (1978).",
+              "Inducted into the Rock & Roll Hall of Fame with Eagles (1998)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Don_Henley",
+              "Official Site": "https://www.donhenley.com/"
+            },
+            "Biography": "Don Henley is the Eagles’ co-founder, drummer, and one of the band’s defining voices—an artist whose phrasing can sound both weary and razor-sharp in the same line. Alongside Glenn Frey, he helped build the group’s vocal identity and pushed their material toward songs with strong character, atmosphere, and consequence.\n\nHenley came to Los Angeles as part of a working musician’s grind, then found himself in the orbit of the Southern California singer‑songwriter scene. The pivot point was the Linda Ronstadt touring band, where the blend of professionalism and chemistry created the conditions for the Eagles to form in 1971.\n\nAs a drummer who also carried major lead vocals, Henley gave the band a rhythmic center that supported intricate harmony arrangements without ever sounding stiff. His singing—often slightly behind the beat, with a storyteller’s bite—became a signature feature on some of the group’s most famous records.\n\nHenley’s lead performances anchor Eagles classics across eras: the early mystique of “Witchy Woman,” the slow-burn grandeur of “Desperado,” and the radio-perfect melancholy of “Best of My Love.” By the mid‑’70s, he was at the center of the band’s biggest cultural moments, with “Hotel California” becoming one of rock’s defining recordings.\n\nHe also helped steer the band’s lyrical tone toward themes that felt larger than romance: ambition, disillusionment, the cost of success, and the glamour-and-decay mythology of the American West. Those ideas gave the Eagles’ hits a narrative pull that kept them from feeling disposable, even when they were dominating pop charts.\n\nThe band’s internal pressures and perfectionism eventually became part of the story, and Henley was at the center of both the craft and the conflict. When the Eagles ended their original run in 1980, his reputation as a serious writer and vocalist only grew.\n\nHenley’s solo career expanded that reputation, delivering major hits and a more personal, reflective lens on the same era that had made the Eagles famous. His best-known solo work became a key part of ’80s rock radio and proved he could thrive beyond the band’s shared identity.\n\nWhen the Eagles reunited in 1994, Henley’s voice and songwriting sensibility remained the north star, helping the group sound authoritative rather than nostalgic. The reunion era reinforced the band’s role as a living institution in American rock rather than a sealed chapter.\n\nHenley has continued as a central figure in the band’s modern lineup, carrying the group through later touring eras and preserving the vocal standard that audiences associate with the Eagles’ recordings. His ongoing presence links the band’s 1970s peak to its present-day stature as a top-tier live draw."
+          }
+        },
+        {
+          "Name": "Bernie Leadon",
+          "Roles": [
+            "guitar",
+            "banjo",
+            "mandolin",
+            "vocals"
+          ],
+          "Years": "1971–1975",
+          "Overview": "Founding member whose multi-instrumental, roots-oriented approach anchored the band’s early country-rock identity.",
+          "Bio": {
+            "BioID": "bio-eagles-bernie-leadon",
+            "ArtistID": "eagles",
+            "ArtistName": "Eagles",
+            "MemberName": "Bernie Leadon",
+            "FullName": "Bernard Matthew Leadon III",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Banjo",
+              "Mandolin",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Country",
+              "Country rock",
+              "Bluegrass"
+            ],
+            "Birth": "Born July 19, 1947 (Minneapolis, Minnesota, U.S.)",
+            "ActiveYears": "1961–present",
+            "AssociatedActs": [
+              "Eagles",
+              "The Flying Burrito Brothers",
+              "Hearts & Flowers",
+              "Dillard & Clark"
+            ],
+            "KeyAlbums": [
+              "Eagles (1972)",
+              "Desperado (1973)",
+              "On the Border (1974)",
+              "One of These Nights (1975)"
+            ],
+            "KeySongs": [
+              "Take It Easy",
+              "Witchy Woman",
+              "Bitter Creek",
+              "My Man",
+              "I Wish You Peace",
+              "Journey of the Sorcerer"
+            ],
+            "Achievements": [
+              "Founding member of Eagles (1971) and part of the band’s early country-rock blueprint.",
+              "Inducted into the Rock & Roll Hall of Fame with Eagles (1998)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bernie_Leadon"
+            },
+            "Biography": "Bernie Leadon was a founding member of the Eagles and a key architect of their early blend of country rock and acoustic string-band textures. Coming from a background steeped in bluegrass and country, he brought a multi-instrumental sensibility that helped the band feel authentic in its roots, even as it moved toward pop-scale success.\n\nBefore forming the Eagles, Leadon built his reputation inside the Southern California country-rock ecosystem, working with groups that were central to the genre’s emergence. That experience gave him a fluent understanding of harmony singing, acoustic arrangement, and the kind of rhythmic feel that made the Eagles’ early records sound effortless.\n\nIn the band’s first phase, Leadon’s guitars and banjo work added a distinct flavor—bright, nimble lines that complemented the group’s layered vocals. Those textures are part of why the debut and early follow-ups still read as a bridge between the singer‑songwriter movement and the country traditions that fed it.\n\nLeadon’s contributions were not limited to playing: he co-wrote and helped shape a number of songs during the foundational years when the Eagles were still defining their identity. His musical instincts leaned toward country and bluegrass, and that perspective acted as a counterweight to the harder rock direction the band would later pursue.\n\nAs the Eagles’ commercial ambitions and sonic choices evolved mid‑decade, internal creative tensions became harder to manage. Leadon increasingly felt the band was moving away from the style that had attracted him, especially as the group embraced a sleeker, more rock-oriented approach aimed at stadium-level dominance.\n\nHis departure in late 1975 marked a turning point: the band’s lineup—and therefore its sound—shifted decisively toward electric guitar-driven rock and more aggressive grooves. That change helped set the stage for the Hotel California era, but it also meant the Eagles’ earliest country-rock balance was no longer their center of gravity.\n\nEven after leaving, Leadon’s role in establishing the Eagles’ credibility and musical foundation remained undeniable. The harmonies, the acoustic polish, and the sense of craft that audiences associate with the band’s early hits are inseparable from his presence.\n\nWhen the Eagles were inducted into the Rock & Roll Hall of Fame in 1998, Leadon’s inclusion reinforced that the story of the band is larger than any single era. It also served as a reminder that the Eagles’ later blockbuster identity grew out of an earlier, more roots-based vision.\n\nLeadon has continued to be recognized as a versatile, musician’s musician—someone whose influence on one of America’s biggest rock bands began with the small details: the right voicing, the right instrument color, and the right feel beneath a harmony line."
+          }
+        },
+        {
+          "Name": "Randy Meisner",
+          "Roles": [
+            "bass",
+            "vocals"
+          ],
+          "Years": "1971–1977",
+          "Overview": "Founding bassist and harmony singer, best remembered for his soaring lead vocal on “Take It to the Limit.”",
+          "Bio": {
+            "BioID": "bio-eagles-randy-meisner",
+            "ArtistID": "eagles",
+            "ArtistName": "Eagles",
+            "MemberName": "Randy Meisner",
+            "FullName": "Randall Herman Meisner",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer-songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Country rock",
+              "Pop rock",
+              "Hard rock"
+            ],
+            "Birth": "Born March 8, 1946 (Scottsbluff, Nebraska, U.S.); died July 26, 2023 (Los Angeles, California, U.S.)",
+            "ActiveYears": "1961–2008, 2020",
+            "AssociatedActs": [
+              "Eagles",
+              "Poco",
+              "Rick Nelson & the Stone Canyon Band"
+            ],
+            "KeyAlbums": [
+              "Eagles (1972)",
+              "Desperado (1973)",
+              "On the Border (1974)",
+              "One of These Nights (1975)",
+              "Hotel California (1976)"
+            ],
+            "KeySongs": [
+              "Take It to the Limit",
+              "Take It Easy",
+              "Tryin’",
+              "Take the Devil",
+              "Certain Kind of Fool"
+            ],
+            "Achievements": [
+              "Founding member and original bassist of Eagles (1971–1977).",
+              "Inducted into the Rock & Roll Hall of Fame with Eagles (1998)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Randy_Meisner",
+              "Eagles Tribute": "https://eagles.com/blogs/news/rest-in-peace-randy-meisner"
+            },
+            "Biography": "Randy Meisner was the Eagles’ original bassist and one of the band’s founding members, valued for both his steady low-end foundation and his distinctive high harmony singing. In a group famous for vocal blend, his voice—clear, urgent, and capable of reaching striking heights—was a crucial part of the early signature.\n\nBefore the Eagles formed, Meisner had already built a reputation as a working musician in the late‑’60s and early‑’70s California scene, including high-profile backing-band work. That experience made him a natural fit for the musicianship-heavy environment that produced the Eagles out of the Linda Ronstadt touring circle.\n\nOn the band’s first albums, Meisner’s bass playing helped lock the songs into a relaxed but propulsive groove, supporting acoustic guitars and harmony stacks without clutter. His musical role was often understated in the mix, but it was essential to making the group’s early country-rock feel confident and clean.\n\nMeisner is especially associated with “Take It to the Limit,” where he delivered one of the Eagles’ most famous lead vocals. The song’s emotional climb and demanding upper register became part of band lore, and it remains a showcase for how his voice could cut through a dense arrangement while still sounding vulnerable.\n\nAs the Eagles’ fame exploded, the pressures of touring, recording, and internal expectations intensified. Meisner’s temperament was often described as less interested in the spotlight than some of his bandmates, and that mismatch became harder to manage as the group’s success scaled into stadium territory.\n\nHe left the Eagles in 1977 and was replaced by Timothy B. Schmit, a change that altered the band’s vocal blend while keeping their commercial momentum intact. Even so, Meisner’s imprint remained on the group’s early peak period, including the run that led into the Hotel California era.\n\nAfter his departure, Meisner pursued solo projects and additional collaborations, but his public identity stayed closely tied to the Eagles’ classic years. Fans and bandmates alike continued to reference his voice as a key ingredient in what made the early records feel luminous and alive.\n\nWhen the Eagles were inducted into the Rock & Roll Hall of Fame in 1998, Meisner’s presence at the reunion highlighted how central the original lineup had been to the band’s rise. It was a rare, public moment of recognition that placed the founding era alongside the later blockbuster identity.\n\nMeisner died in 2023, and tributes emphasized both his foundational musicianship and the unique vocal character he brought to the Eagles’ sound. For many listeners, his singing on “Take It to the Limit” remains one of the band’s most emotionally direct recordings."
+          }
+        },
+        {
+          "Name": "Don Felder",
+          "Roles": [
+            "lead guitar",
+            "vocals"
+          ],
+          "Years": "1974–2001",
+          "Overview": "Lead guitarist during the band’s blockbuster years, closely associated with the signature guitar architecture of “Hotel California.”",
+          "Bio": {
+            "BioID": "bio-eagles-don-felder",
+            "ArtistID": "eagles",
+            "ArtistName": "Eagles",
+            "MemberName": "Don Felder",
+            "FullName": "Donald William Felder",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Blues rock",
+              "Country rock",
+              "Soft rock"
+            ],
+            "Birth": "Born September 21, 1947 (Gainesville, Florida, U.S.)",
+            "ActiveYears": "1966–present",
+            "AssociatedActs": [
+              "Eagles"
+            ],
+            "KeyAlbums": [
+              "On the Border (1974)",
+              "One of These Nights (1975)",
+              "Hotel California (1976)",
+              "The Long Run (1979)"
+            ],
+            "KeySongs": [
+              "Hotel California",
+              "Victim of Love",
+              "Those Shoes"
+            ],
+            "Achievements": [
+              "Lead guitarist of Eagles (1974–2001) and co-writer of “Hotel California.”",
+              "Inducted into the Rock & Roll Hall of Fame with Eagles (1998)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Don_Felder",
+              "Official Site": "https://donfelder.com/"
+            },
+            "Biography": "Don Felder joined the Eagles in 1974 and became a central force in their transformation from country-rock hitmakers into a harder-edged arena rock band. As lead guitarist, he expanded the group’s sonic range, adding sharper riffs, more aggressive textures, and a signature sense of melodic guitar architecture.\n\nFelder’s arrival coincided with a period when the band was pushing beyond its early acoustic balance. His playing helped the Eagles sound bigger and more electric without losing the polish that made them a radio staple—an important bridge as they moved into the mid‑’70s blockbuster years.\n\nHe is most famously associated with “Hotel California,” where his guitar concepts and co-writing credit tie him directly to one of rock’s most enduring recordings. The song’s extended twin‑guitar finale became a defining moment in classic rock guitar culture and a benchmark for arena-scale arrangement.\n\nBeyond the headline hit, Felder contributed to the band’s broader guitar identity: tight rhythmic figures, layered leads, and parts designed to serve the song rather than simply display technique. That discipline matched the Eagles’ studio mindset, where every element was expected to justify its place.\n\nDuring the late‑’70s period, as the group prepared The Long Run under enormous commercial pressure, Felder remained an important musical voice inside a famously tense environment. The band’s perfectionism and internal conflicts often became inseparable from the music’s final sheen.\n\nFelder continued with the Eagles through the reunion era launched by Hell Freezes Over, returning as a key guitar presence for the high-profile MTV performance and the subsequent touring machine. His playing helped prove the band could reproduce its classic textures in a modern live setting.\n\nIn 2001, Felder’s tenure with the Eagles ended, and the split became widely publicized. The separation underscored how business structures, touring economics, and personal relationships can collide inside legacy bands—especially ones operating at the highest commercial level.\n\nEven after leaving, Felder’s contributions to the Eagles’ defining years remain clear on record: the band’s most iconic guitar moments bear his fingerprints. For listeners, his work is part of what makes the Hotel California era feel simultaneously elegant and dangerous.\n\nFelder has continued his career as a solo artist and collaborator, but his legacy in popular music is indelibly tied to the Eagles’ peak years and the guitar language he helped write into classic rock’s vocabulary."
+          }
+        },
+        {
+          "Name": "Joe Walsh",
+          "Roles": [
+            "guitar",
+            "vocals",
+            "keyboards"
+          ],
+          "Years": "1975–1980, 1994–present",
+          "Overview": "Brought a tougher electric edge and a distinctive guitar personality that expanded the band’s arena-rock range.",
+          "Bio": {
+            "BioID": "bio-eagles-joe-walsh",
+            "ArtistID": "eagles",
+            "ArtistName": "Eagles",
+            "MemberName": "Joe Walsh",
+            "FullName": "Joseph Fidler Walsh",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Blues rock",
+              "Pop rock",
+              "Country rock"
+            ],
+            "Birth": "Born November 20, 1947 (Wichita, Kansas, U.S.)",
+            "ActiveYears": "1957–present",
+            "AssociatedActs": [
+              "Eagles",
+              "James Gang",
+              "Barnstorm"
+            ],
+            "KeyAlbums": [
+              "One of These Nights (1975)",
+              "Hotel California (1976)",
+              "The Long Run (1979)",
+              "Hell Freezes Over (1994)"
+            ],
+            "KeySongs": [
+              "Life in the Fast Lane",
+              "In the City",
+              "Those Shoes",
+              "Rocky Mountain Way"
+            ],
+            "Achievements": [
+              "Joined Eagles in 1975, helping shape the band’s more rock-forward sound.",
+              "Inducted into the Rock & Roll Hall of Fame with Eagles (1998)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Joe_Walsh",
+              "Official Site": "https://joewalsh.com/"
+            },
+            "Biography": "Joe Walsh is the Eagles’ most immediately recognizable guitar personality: witty, elastic, and capable of turning a riff into a hook as memorable as any vocal line. When he joined the band in 1975, he pushed their sound toward a tougher, more electric identity while still fitting the group’s meticulous studio standards.\n\nWalsh came into the Eagles with a strong reputation from earlier bands and solo work, known for a blend of muscular rock playing and playful, off-kilter phrasing. That background made him ideal for a band that wanted to expand beyond country-rock without losing the melodic discipline that kept them on pop radio.\n\nIn the studio, Walsh’s contributions often show up as texture and attitude—guitars that feel like they’re smirking while still landing every note with purpose. Tracks like “Life in the Fast Lane” capture that approach, turning a lean riff into a statement about speed, excess, and consequence.\n\nWalsh also helped the Eagles become a more formidable live act. His energy and tonal range made it easier for the band to move from harmony-driven ballads to full-throttle rockers within the same set, which became a crucial part of their arena identity.\n\nDespite the band’s famously controlled sound, Walsh brought a looseness that prevented the Eagles from feeling overly polished. That contrast—precision vocals on top of guitars that could bite—became part of what made the Hotel California era so enduring.\n\nHe remained with the band through the original split and returned for the 1994 reunion, where his playing helped reintroduce the Eagles as a major contemporary touring force. In the reunion era, his guitar voice often served as the bridge between the ’70s recordings and modern-stage volume and dynamics.\n\nWalsh is also an established solo artist, and his outside catalogue reinforces what he brought to the Eagles: an instinct for riffs, a sense of humor, and a knack for capturing a character in the sound of a guitar part. That identity kept him distinct even inside a group packed with strong musical personalities.\n\nWithin the Eagles’ long touring history, Walsh’s role has been both musical and emotional—an artist who can lighten a room while still delivering high-stakes performances night after night. That combination helped stabilize the band through multiple lineup eras.\n\nDecades into the band’s legacy, Walsh remains a key part of what audiences expect from an Eagles concert: the classic songs, the tight harmonies—and the guitar lines that feel alive, slightly unpredictable, and unmistakably his."
+          }
+        },
+        {
+          "Name": "Timothy B. Schmit",
+          "Roles": [
+            "bass",
+            "vocals",
+            "harmonica"
+          ],
+          "Years": "1977–1980, 1994–present",
+          "Overview": "Replaced Meisner and became a key voice of the late-’70s and reunion eras, including lead vocals on “I Can’t Tell You Why.”",
+          "Bio": {
+            "BioID": "bio-eagles-timothy-b-schmit",
+            "ArtistID": "eagles",
+            "ArtistName": "Eagles",
+            "MemberName": "Timothy B. Schmit",
+            "FullName": "Timothy Bruce Schmit",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Country rock",
+              "Soft rock",
+              "Hard rock"
+            ],
+            "Birth": "Born October 30, 1947 (Oakland, California, U.S.)",
+            "ActiveYears": "1960–present",
+            "AssociatedActs": [
+              "Eagles",
+              "Poco"
+            ],
+            "KeyAlbums": [
+              "Hotel California (1976)",
+              "The Long Run (1979)",
+              "Hell Freezes Over (1994)",
+              "Long Road Out of Eden (2007)"
+            ],
+            "KeySongs": [
+              "I Can’t Tell You Why",
+              "Love Will Keep Us Alive"
+            ],
+            "Achievements": [
+              "Joined Eagles in 1977 as bassist and vocalist, replacing Randy Meisner.",
+              "Inducted into the Rock & Roll Hall of Fame with Eagles (1998)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Timothy_B._Schmit",
+              "Official Site": "https://timothybschmit.com/"
+            },
+            "Biography": "Timothy B. Schmit joined the Eagles in 1977, stepping into one of the most scrutinized roles in classic rock: replacing a founding member at the height of fame. His arrival kept the band’s signature harmony sound intact while adding a smoother, airy vocal quality that became essential to their late‑’70s and reunion-era identity.\n\nSchmit was already known for his work with Poco, and his musical résumé made him a natural fit for the Eagles’ high expectations. He brought a precise bass foundation and a vocalist’s instinct for blend, making it possible for the band to maintain its layered harmonies even as the lineup changed.\n\nOn The Long Run, Schmit’s presence is especially visible on “I Can’t Tell You Why,” where his lead vocal carries a soft, bittersweet tone that fits the band’s most melodic side. The song became a major hit and remains a key example of how the Eagles could pivot from hard-edged rockers to intimate, late-night balladry.\n\nAs a bassist, Schmit’s playing supported the band’s clean, studio-polished aesthetic: lines that serve the groove, stay out of the way of the harmonies, and still feel grounded and musical. That approach was crucial for a group whose arrangements relied on clarity rather than raw chaos.\n\nWhen the Eagles ended their original run in 1980, Schmit’s tenure had been relatively short but deeply consequential—he was part of the band’s final studio statement of the era. His role in the late-’70s touring machine also helped lock in the band’s reputation as an elite live act.\n\nThe 1994 reunion returned Schmit to the spotlight, and his lead vocal on “Love Will Keep Us Alive” became one of the signature moments of the Hell Freezes Over era. It demonstrated that the band could still introduce new material that sounded authentic alongside the classics.\n\nSchmit stayed with the Eagles through the decades of major touring that followed, becoming one of the stable links between the band’s classic era and its modern identity. His vocal blend and calm stage presence helped preserve the band’s signature sound as audiences expanded across generations.\n\nOn Long Road Out of Eden, he remained an important part of the lineup’s studio return, helping translate a legacy band’s strengths into a modern recording context. The record reflected the maturity of the group’s musicianship and the endurance of their vocal approach.\n\nSchmit’s legacy within the Eagles is often about continuity: the ability to step into a huge role, maintain the band’s defining harmonies, and contribute signature performances that became permanent parts of the catalogue."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Vince Gill",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "backing vocals"
+          ],
+          "Years": "2017–present",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [],
+          "Replacing": "Glenn Frey (as touring/frontline performer following Frey’s death)",
+          "ReplacedBy": "",
+          "Overview": "Country and rock vocalist-guitarist who joined the post-2016 touring lineup, sharing frontline vocal and guitar duties while preserving the band’s harmony-heavy live sound."
+        },
+        {
+          "Name": "Deacon Frey",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "backing vocals"
+          ],
+          "Years": "2017–present (with a brief hiatus noted in some tour lineups)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [],
+          "Replacing": "Glenn Frey (as touring/frontline performer)",
+          "ReplacedBy": "",
+          "Overview": "Glenn Frey’s son, brought in for the 2017 return to touring to help cover key vocals and guitar parts closely associated with his father’s role in the band’s classic catalogue."
+        },
+        {
+          "Name": "Steuart Smith",
+          "Roles": [
+            "guitar",
+            "mandolin",
+            "arrangements",
+            "co-writer (select later material)"
+          ],
+          "Years": "2001–2024 (touring / later-era studio involvement)",
+          "Instruments": [
+            "Guitar",
+            "Mandolin"
+          ],
+          "Albums": [
+            "Long Road Out of Eden"
+          ],
+          "Replacing": "Don Felder (touring guitar chair following Felder’s departure)",
+          "ReplacedBy": "",
+          "Overview": "Longtime touring guitarist and musical director figure in the post-2001 era, widely credited with maintaining the band’s intricate guitar arrangements in modern live performances."
+        }
+      ]
     },
     {
       "ArtistID": "earth-wind-and-fire",
