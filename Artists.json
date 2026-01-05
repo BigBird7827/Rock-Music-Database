@@ -5691,27 +5691,633 @@
     {
       "ArtistID": "atlanta-rhythm-section",
       "Name": "Atlanta Rhythm Section",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Doraville",
+        "State": "Georgia",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1970–present"
+      ],
+      "Genres": [
+        "Southern rock",
+        "Soft rock",
+        "Blues rock"
+      ],
+      "Labels": [
+        "Polydor",
+        "Columbia",
+        "CMI",
+        "Platinum"
+      ],
+      "Overview": "Atlanta Rhythm Section (ARS) are a Georgia-born institution that grew out of an unusual advantage: they weren’t a garage band learning in public, but a crew of working studio musicians who became the in-house band at Studio One in Doraville, just outside Atlanta. Producer and songwriter Buddy Buie helped shape the project, and ARS turned that session-musician precision into records that felt smooth and confident—Southern rock at the foundation, but built with pop-minded structure, clean arrangements, and hooks that arrived on time. The result was a band that could sound tough without dragging, and polished without losing the feel of a live rhythm section.\n\nThe classic lineup—guitarists Barry Bailey and J. R. Cobb, bassist Paul Goddard, keyboardist Dean Daughtry, and drummer Robert Nix—reached its greatest chart success after Ronnie Hammond took over lead vocals in the early 1970s. By the late 1970s, ARS were a staple of AOR and adult-leaning rock playlists with a run of tightly crafted singles, most notably the Top 10 hits “So in to You” (1977) and “Imaginary Lover” (1978). They also landed multiple additional Hot 100 entries, including “I’m Not Gonna Let It Bother Me Tonight” (#14), “Do It or Die” (#19), “Spooky” (#17), and the early breakthrough “Doraville” (#35). Their songs are deceptively sharp: twin-guitar interplay instead of endless soloing, a rhythm section that stays locked, and choruses that feel inevitable.\n\nAfter the hit era, ARS never fully left the road. Lineups shifted and labels changed, but the mission increasingly became keeping the catalog alive for new crowds and longtime fans, with the band continuing to tour into the modern era. That longevity—plus their deep connection to Georgia’s recording history—helped cement their legacy, including a 1996 induction into the Georgia Music Hall of Fame. Today, ARS are remembered for a distinctive lane in Southern rock: studio-sharp, song-first, and instantly recognizable the moment the chorus lands.",
+      "KeyFacts": [
+        {
+          "Label": "Also known as",
+          "Value": "ARS"
+        },
+        {
+          "Label": "Studio roots",
+          "Value": "Formed from a group of studio musicians who served as the house band at Studio One in Doraville, Georgia."
+        },
+        {
+          "Label": "Producer/songwriter connection",
+          "Value": "Closely associated with producer and songwriter Buddy Buie, who helped shape the band’s early direction and recordings."
+        },
+        {
+          "Label": "Breakthrough era",
+          "Value": "Late 1970s AOR success with a run of charting singles and heavy classic-rock radio rotation."
+        },
+        {
+          "Label": "Biggest U.S. singles",
+          "Value": "“So in to You” (Top 10) and “Imaginary Lover” (Top 10)."
+        },
+        {
+          "Label": "Notable sound",
+          "Value": "Known for tight, song-first arrangements and twin-guitar interplay rather than extended jam-style soloing."
+        },
+        {
+          "Label": "Georgia legacy honor",
+          "Value": "Inducted into the Georgia Music Hall of Fame (1996)."
+        },
+        {
+          "Label": "Enduring status",
+          "Value": "Continues touring with evolving lineups, keeping the classic catalog active for longtime fans and new audiences."
+        }
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "Third Annual Pipe Dream",
+          "Year": "1974",
+          "Notes": "Early fan favorite featuring “Doraville” and a sharper Southern-rock edge."
+        },
+        {
+          "Title": "A Rock and Roll Alternative",
+          "Year": "1976",
+          "Notes": "Breakout album best known for “So in to You.”"
+        },
+        {
+          "Title": "Champagne Jam",
+          "Year": "1978",
+          "Notes": "Commercial peak era with “Imaginary Lover” and one of the band’s best-known sets."
+        },
+        {
+          "Title": "Underdog",
+          "Year": "1979",
+          "Notes": "Follow-up hit album from the classic lineup era, with additional charting singles."
+        },
+        {
+          "Title": "Quinella",
+          "Year": "1981",
+          "Notes": "Later-era studio album that kept the band on radio with “Alien.”"
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "So in to You",
+          "Year": "1977",
+          "Notes": "Signature hit; reached the Top 10 on the Billboard Hot 100."
+        },
+        {
+          "Title": "Imaginary Lover",
+          "Year": "1978",
+          "Notes": "Signature hit; reached the Top 10 on the Billboard Hot 100."
+        },
+        {
+          "Title": "Doraville",
+          "Year": "1974",
+          "Notes": "Early breakout single and enduring concert staple."
+        },
+        {
+          "Title": "I’m Not Gonna Let It Bother Me Tonight",
+          "Year": "1978",
+          "Notes": "Major late-’70s single that expanded ARS’s radio presence."
+        },
+        {
+          "Title": "Spooky",
+          "Year": "1979",
+          "Notes": "Successful ARS re-recording of the Classics IV song, strongly tied to the band’s Georgia roots."
+        },
+        {
+          "Title": "Do It or Die",
+          "Year": "1979",
+          "Notes": "High-energy single that became a staple of classic ARS setlists."
+        },
+        {
+          "Title": "Alien",
+          "Year": "1981",
+          "Notes": "One of the band’s best-known early-’80s singles."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1977",
+          "Title": "Top 10 single: “So in to You”",
+          "Details": "The band’s best-known radio staple and a defining AOR hit, reaching the Top 10 of the Billboard Hot 100."
+        },
+        {
+          "Year": "1978",
+          "Title": "Top 10 single: “Imaginary Lover”",
+          "Details": "A second Top 10 Hot 100 hit that reinforced ARS as a major late-’70s rock-radio presence."
+        },
+        {
+          "Year": "1974–1981",
+          "Title": "Sustained U.S. chart run",
+          "Details": "A multi-year stretch of Hot 100 singles and steady album-era touring that kept ARS in heavy rotation across rock and adult-oriented formats."
+        },
+        {
+          "Year": "1996",
+          "Title": "Georgia Music Hall of Fame induction",
+          "Details": "Honored for their long-term impact on Georgia’s music legacy and their role in shaping the state’s Southern rock and studio history."
+        },
+        {
+          "Year": "1970s–present",
+          "Title": "Long-running touring catalog",
+          "Details": "The band’s songs remain staples of classic rock radio, supporting decades of continued touring under the ARS name with evolving lineups."
+        }
+      ],
+      "CoreMembers": [
+        {
+          "Name": "Ronnie Hammond",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1972–1982",
+          "Overview": "Lead singer during ARS’s biggest hit era, fronting the band’s best-known Top 10 singles in the late 1970s.",
+          "Bio": {
+            "BioID": "bio-atlanta-rhythm-section-ronnie-hammond",
+            "ArtistID": "atlanta-rhythm-section",
+            "ArtistName": "Atlanta Rhythm Section",
+            "MemberName": "Ronnie Hammond",
+            "FullName": "Ronald “Ronnie” Hammond",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Musician"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Soft rock",
+              "Blues rock"
+            ],
+            "Birth": {
+              "Date": "1950-11-10",
+              "Place": "Macon, Georgia, United States"
+            },
+            "ActiveYears": [
+              "1972–1982"
+            ],
+            "AssociatedActs": [
+              "Atlanta Rhythm Section"
+            ],
+            "KeyAlbums": [
+              "A Rock and Roll Alternative",
+              "Champagne Jam",
+              "Underdog"
+            ],
+            "KeySongs": [
+              "So in to You",
+              "Imaginary Lover",
+              "I’m Not Gonna Let It Bother Me Tonight"
+            ],
+            "Achievements": [
+              {
+                "Year": "1977",
+                "Title": "Frontman on “So in to You”",
+                "Details": "Sang lead on the band’s breakthrough Top 10 Hot 100 single that became their signature radio track."
+              },
+              {
+                "Year": "1978",
+                "Title": "Frontman on “Imaginary Lover”",
+                "Details": "Sang lead on ARS’s second major Top 10 Hot 100 hit, a cornerstone of the band’s late-’70s popularity."
+              }
+            ],
+            "ExternalLinks": {
+              "Atlanta Rhythm Section (band page)": "https://en.wikipedia.org/wiki/Atlanta_Rhythm_Section",
+              "Macon Telegraph (death report)": "https://www.macon.com/news/article28606693.html"
+            },
+            "Biography": "Ronnie Hammond became the voice most listeners associate with Atlanta Rhythm Section’s run of radio staples in the 1970s. Joining after the band’s early Studio One period, he stepped into a group that already had studio-honed discipline—tight arrangements, clean rhythm parts, and a bias toward songs that got to the hook quickly.\n\nHis tenure coincided with the stretch where ARS bridged Southern rock roots with a smoother pop-rock finish. On record, Hammond’s delivery leaned conversational and warm, which helped the band’s singles sit comfortably beside both guitar-driven rock and softer AOR programming without losing the band’s Georgia identity.\n\nHammond was the lead vocalist during the band’s biggest Hot 100 breakthroughs, including the Top 10 hits “So in to You” (1977) and “Imaginary Lover” (1978). Those singles typified the ARS approach: sturdy rhythm section, melodic guitar lines, and vocal phrasing that kept the stories grounded rather than theatrical.\n\nWithin the band’s ecosystem, Hammond also worked as part of a writing-and-production pipeline shaped by Buddy Buie and the Studio One circle. ARS songs often arrived as carefully constructed tracks, and Hammond’s job was to make them feel effortless—turning a meticulously arranged studio performance into something that sounded like it belonged on a stage.\n\nThrough the late 1970s, his voice stayed central as ARS stacked additional charting singles and expanded its touring footprint. Even when the band’s material flirted with lighter pop, Hammond’s tone kept the songs from drifting too far from their Southern rock base.\n\nAfter the initial hit era, Hammond returned for later phases of the group’s history, reconnecting with the ARS name and its catalog as audiences kept those songs alive on classic rock and adult radio formats. In that sense, he became both a frontman and a caretaker of a live tradition that had outlasted the band’s original chart moment.\n\nHammond’s later years included personal struggles, and his story is often told alongside the harder realities that can follow long careers in touring music. Despite those challenges, his recordings remain a defining slice of 1970s American radio rock—songs built for the car stereo, the summer night drive, and the “one more track” feeling.\n\nRonnie Hammond died on March 14, 2011, in Forsyth, Georgia, with reporting at the time citing heart failure. For ARS fans, his legacy is direct: when the opening lines of “So in to You” or “Imaginary Lover” hit, it’s Hammond’s voice that still makes the band instantly recognizable.",
+            "Death": {
+              "Date": "2011-03-14",
+              "Place": "Forsyth, Georgia, United States",
+              "Cause": "Heart failure"
+            }
+          }
+        },
+        {
+          "Name": "Barry Bailey",
+          "Roles": [
+            "lead guitar"
+          ],
+          "Years": "1970–2006",
+          "Overview": "Lead guitarist whose melodic, song-first approach became one of ARS’s defining sonic signatures.",
+          "Bio": {
+            "BioID": "bio-atlanta-rhythm-section-barry-bailey",
+            "ArtistID": "atlanta-rhythm-section",
+            "ArtistName": "Atlanta Rhythm Section",
+            "MemberName": "Barry Bailey",
+            "FullName": "Barry Bailey",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Musician"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Soft rock",
+              "Blues rock"
+            ],
+            "Birth": {
+              "Date": "1948-06-12",
+              "Place": "Decatur, Georgia, United States"
+            },
+            "ActiveYears": [
+              "1970–2006"
+            ],
+            "AssociatedActs": [
+              "Atlanta Rhythm Section",
+              "The Candymen"
+            ],
+            "KeyAlbums": [
+              "Third Annual Pipe Dream",
+              "A Rock and Roll Alternative",
+              "Champagne Jam"
+            ],
+            "KeySongs": [
+              "So in to You",
+              "Imaginary Lover",
+              "Do It or Die"
+            ],
+            "Achievements": [
+              {
+                "Year": "1970s",
+                "Title": "Defined ARS lead-guitar voice",
+                "Details": "Built the band’s radio-friendly guitar identity with concise melodic leads and tasteful solos."
+              },
+              {
+                "Year": "2006",
+                "Title": "Retired from performing",
+                "Details": "Retired from touring after multiple sclerosis made long-term performing impractical."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Barry_Bailey",
+              "Ultimate Classic Rock": "https://ultimateclassicrock.com/barry-bailey-atlanta-rhythm-section-dead/"
+            },
+            "Biography": "Barry Bailey’s lead guitar work was one of the clearest signatures in Atlanta Rhythm Section’s sound. While ARS often avoided the extended, showy soloing associated with some Southern rock peers, Bailey still made the guitar a melodic narrator—building lines that were memorable, economical, and built to serve the song.\n\nRaised in Georgia and coming up through local bands and studio work, Bailey arrived with the kind of versatility that made the Studio One environment thrive. He could play with bite when the track needed it, but he was just as comfortable coloring the arrangement with clean, sustained notes and rhythmic accents that supported the vocal.\n\nIn ARS, Bailey helped define the group’s blend: Southern rock foundation, pop-rock polish, and radio-friendly structure. His playing often sounded “finished” even on first listen, as if the parts were inevitable—an effect that came from a studio musician’s discipline and a songwriter’s sense of where the spotlight should land.\n\nOn hits like “So in to You,” his guitar lines are less about overpowering the mix and more about shaping the atmosphere around the chorus. That approach made ARS songs feel tight and replayable, the kind of tracks where the instrumental hooks stay in your head without calling attention to themselves as technical showcases.\n\nBailey was also part of the wider network of Georgia musicians who crossed between touring bands and session rooms. That ecosystem—Studio One, producers like Buddy Buie, and musicians who could track quickly and cleanly—helped ARS maintain consistency even as the band moved through changing label eras and shifting radio tastes.\n\nIn later decades, as ARS became more of a touring institution than a chart act, Bailey’s role shifted toward preserving the band’s classic-era feel onstage. The challenge was to reproduce recordings that fans knew by heart while still keeping the performances lively, and his steady, song-first guitar approach fit that mission.\n\nHealth issues eventually forced a change. Bailey retired from performing after dealing with multiple sclerosis, and his story is often cited as a reminder that the endurance required for long touring careers can be fragile, even for musicians who seem built for the road.\n\nBarry Bailey died on March 12, 2022, at age 73. For listeners, his legacy lives in the way ARS records feel crafted: the guitar is always present, always musical, and always aimed at making the song work—exactly the kind of artistry that can be easy to overlook until you try to imagine those tracks without it.",
+            "Death": {
+              "Date": "2022-03-12",
+              "Place": "Madison, Georgia, United States",
+              "Cause": "Complications from multiple sclerosis"
+            }
+          }
+        },
+        {
+          "Name": "Dean Daughtry",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "1971–2019",
+          "Overview": "Founding keyboardist and the band’s longest-serving member, central to ARS’s studio-polished sound.",
+          "Bio": {
+            "BioID": "bio-atlanta-rhythm-section-dean-daughtry",
+            "ArtistID": "atlanta-rhythm-section",
+            "ArtistName": "Atlanta Rhythm Section",
+            "MemberName": "Dean Daughtry",
+            "FullName": "William Dean Daughtry",
+            "PrimaryInstruments": [
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Keyboardist",
+              "Musician"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Soft rock",
+              "Blues rock"
+            ],
+            "Birth": {
+              "Date": "1946-09-08",
+              "Place": "Kinston, Alabama, United States"
+            },
+            "ActiveYears": [
+              "1971–2019"
+            ],
+            "AssociatedActs": [
+              "Atlanta Rhythm Section",
+              "The Candymen",
+              "Classics IV"
+            ],
+            "KeyAlbums": [
+              "A Rock and Roll Alternative",
+              "Champagne Jam",
+              "Underdog"
+            ],
+            "KeySongs": [
+              "So in to You",
+              "Imaginary Lover",
+              "Spooky"
+            ],
+            "Achievements": [
+              {
+                "Year": "1977–1978",
+                "Title": "Top 10 hit era",
+                "Details": "Played on ARS’s two biggest Hot 100 hits during the band’s commercial peak."
+              },
+              {
+                "Year": "1971–2019",
+                "Title": "Longest-tenured founding member",
+                "Details": "Remained the band’s steady constant through decades of lineup changes until retiring from performing."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dean_Daughtry",
+              "Atlanta Journal-Constitution": "https://www.ajc.com/life/arts-culture/dean-daughtry-a-founding-member-of-atlanta-rhythm-section-is-dead/GXP2ZVHTQFBG3BSENPR4NRBXGU/"
+            },
+            "Biography": "Dean Daughtry was the architectural glue in Atlanta Rhythm Section, the keyboardist whose touch helped the band sound both Southern and sophisticated. Before ARS, he worked with groups connected to Roy Orbison and the Atlanta pop-rock scene, building the kind of professional chops that fit the Studio One “house band” concept perfectly.\n\nHis playing rarely demanded center stage, but it shaped the band’s entire palette. Daughtry could fill the space between guitar and vocal with organ swells, piano figures, and subtle textures that made ARS records sound complete—polished without feeling sterile, and warm without turning muddy.\n\nAs ARS emerged from the Doraville, Georgia studio circuit, Daughtry became a founding pillar of a band designed around songcraft. Producer and songwriter Buddy Buie’s approach emphasized structure and hooks, and Daughtry’s keyboards often acted like the scaffolding that held those hooks in place from verse to chorus.\n\nDuring the band’s peak years, his parts were essential to the soft-rock sheen that helped ARS cross formats. The keys could lean “rock” with grit when the track called for it, or brighten a chorus with pop clarity—an adaptability that helped the same band thrive on both classic rock and adult contemporary radio.\n\nOffstage, Daughtry’s longevity became part of the band’s identity. While members came and went over the decades, he remained a steady center, helping ARS keep its sound recognizable even as lineups evolved and the group increasingly became a touring act anchored by its catalog.\n\nThat continuity mattered because ARS songs are deceptively detailed. The difference between “close enough” and “this sounds like the record” often lives in the small choices—how the chords breathe, where the fills land, how the dynamics move into the hook—and Daughtry’s keyboard sense consistently nailed those details.\n\nIn the late 2010s, health concerns led him to retire from performing, ending a run that had stretched back to ARS’s founding era. Fans and bandmates often described him as a professional’s professional: someone who did the work, night after night, to make the music feel effortless.\n\nDean Daughtry died on January 26, 2023, in Huntsville, Alabama, at age 76. His imprint on ARS is not a single flashy moment but a whole body of feel and texture—proof that sometimes the most important player in the room is the one who makes everyone else sound better.",
+            "Death": {
+              "Date": "2023-01-26",
+              "Place": "Huntsville, Alabama, United States",
+              "Cause": "Natural causes"
+            }
+          }
+        },
+        {
+          "Name": "Robert Nix",
+          "Roles": [
+            "drums",
+            "songwriter"
+          ],
+          "Years": "1971–1979",
+          "Overview": "Founding drummer whose groove-first playing and songwriting credits helped define early ARS records.",
+          "Bio": {
+            "BioID": "bio-atlanta-rhythm-section-robert-nix",
+            "ArtistID": "atlanta-rhythm-section",
+            "ArtistName": "Atlanta Rhythm Section",
+            "MemberName": "Robert Nix",
+            "FullName": "Robert Nix",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Soft rock",
+              "Blues rock"
+            ],
+            "Birth": {
+              "Date": "1948-10-08",
+              "Place": "Macon, Georgia, United States"
+            },
+            "ActiveYears": [
+              "1971–1979"
+            ],
+            "AssociatedActs": [
+              "Atlanta Rhythm Section",
+              "The Candymen"
+            ],
+            "KeyAlbums": [
+              "Third Annual Pipe Dream",
+              "A Rock and Roll Alternative",
+              "Champagne Jam"
+            ],
+            "KeySongs": [
+              "So in to You",
+              "Imaginary Lover",
+              "Doraville"
+            ],
+            "Achievements": [
+              {
+                "Year": "1971–1979",
+                "Title": "Studio One foundation years",
+                "Details": "Helped build the band’s disciplined, song-first rhythm approach in the Doraville studio era."
+              },
+              {
+                "Year": "1977–1978",
+                "Title": "Co-writer on major hits",
+                "Details": "Co-wrote key singles from ARS’s peak period, including their best-known Top 10 hits."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Robert_Nix_(drummer)"
+            },
+            "Biography": "Robert Nix was the rhythmic engine behind Atlanta Rhythm Section’s Studio One origins and early identity. Coming out of the Georgia music scene with deep R&B and rock instincts, he helped form a band that behaved like seasoned session players—tight, controlled, and focused on making records that sounded finished rather than improvised.\n\nAs a drummer, Nix favored groove and momentum over flash. ARS songs often depend on the band locking into a pocket that feels relaxed but exact, and his playing provided that foundation: steady kick and snare, tasteful cymbal work, and fills that pushed the music forward without breaking the spell.\n\nNix was also part of the extended circle around Buddy Buie and the Doraville studio operation. In that environment, musicians needed to track quickly and reliably, and Nix’s professionalism fit the house-band model—show up prepared, serve the song, and make the take count.\n\nIn ARS’s early albums and touring years, he helped define the “tight Southern rock” approach that distinguished the group from peers known for looser jamming. The band’s material often leaned melodic and structured, and a disciplined rhythm section was essential to making those arrangements land with radio clarity.\n\nHe contributed beyond the drum kit as well, earning songwriting credits within the ARS catalog. That dual role—player and writer—fit the group’s collaborative identity, where members were more than hired hands for a producer’s vision and instead participated in shaping the band’s own voice.\n\nOver time, as ARS cycled through label changes and shifting commercial winds, Nix’s connection to the classic lineup became part of the group’s narrative. For fans, his drumming is one of the consistent fingerprints on the records most closely associated with the band’s formative and most widely remembered period.\n\nIn later years, the story of ARS became inseparable from the realities of long careers: health issues, personal loss, and the challenge of keeping a working band alive as eras change. Nix’s name remains tied to the foundation—those early studio years where the sound was set and the band’s discipline became its calling card.\n\nRobert Nix died on May 20, 2012. His legacy in ARS is the kind that musicians recognize immediately: the groove is solid, the arrangement feels supported, and the song sounds like it knows exactly where it’s going.",
+            "Death": {
+              "Date": "2012-05-20",
+              "Place": "Atlanta, Georgia, United States",
+              "Cause": ""
+            }
+          }
+        },
+        {
+          "Name": "J. R. Cobb",
+          "Roles": [
+            "guitar",
+            "songwriter"
+          ],
+          "Years": "1972–1986",
+          "Overview": "Founding guitarist and songwriter whose Georgia pop-rock craft fed directly into ARS’s hook-forward style.",
+          "Bio": {
+            "BioID": "bio-atlanta-rhythm-section-j-r-cobb",
+            "ArtistID": "atlanta-rhythm-section",
+            "ArtistName": "Atlanta Rhythm Section",
+            "MemberName": "J. R. Cobb",
+            "FullName": "James Barney Cobb Jr.",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Soft rock",
+              "Blues rock"
+            ],
+            "Birth": {
+              "Date": "1944-02-05",
+              "Place": "Birmingham, Alabama, United States"
+            },
+            "ActiveYears": [
+              "1972–1986"
+            ],
+            "AssociatedActs": [
+              "Atlanta Rhythm Section",
+              "Classics IV"
+            ],
+            "KeyAlbums": [
+              "Third Annual Pipe Dream",
+              "Champagne Jam",
+              "Underdog"
+            ],
+            "KeySongs": [
+              "Do It or Die",
+              "Spooky",
+              "Champagne Jam"
+            ],
+            "Achievements": [
+              {
+                "Year": "1968–1969",
+                "Title": "Co-wrote Classics IV standards",
+                "Details": "Co-wrote pop-rock standards including “Spooky,” “Stormy,” and “Traces,” later tied to ARS’s story as well."
+              },
+              {
+                "Year": "1979",
+                "Title": "Co-wrote ARS hit singles",
+                "Details": "Co-wrote ARS songs including “Do It or Die” and the ARS remake of “Spooky,” both charting singles."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/J._R._Cobb",
+              "Atlanta Journal-Constitution": "https://www.ajc.com/blog/music/atlanta-rhythm-section-founding-member-cobb-dies/4WWm4LHg7enmZ5AY6pAADP/"
+            },
+            "Biography": "J. R. Cobb brought a songwriter’s ear and a guitarist’s discipline to Atlanta Rhythm Section, helping shape the band’s reputation for concise, hook-forward Southern rock. Before ARS, Cobb had already made his mark as part of the Classics IV world, where melody and craft mattered as much as instrumental firepower.\n\nThat background was crucial to ARS’s identity. The band grew out of a studio environment in Doraville, Georgia, where musicians were expected to think like arrangers. Cobb’s approach fit perfectly: write or choose the part that makes the chorus lift, keep the rhythm tight, and let the song’s architecture do the heavy emotional work.\n\nAs a player, Cobb’s guitar role often leaned rhythmic and supportive, helping create the interlocking patterns between two guitars that gave ARS tracks their smooth, driving feel. In recordings, you can hear the difference between “a guitar part” and “the guitar part” that belongs in that exact spot—Cobb specialized in the latter.\n\nCobb’s songwriting reputation extends beyond ARS, but within the band he is closely associated with pieces that reflect the group’s blend of pop structure and Southern grit. His credits underscore that ARS was not simply a touring outfit that happened to have hits; it was a writing-and-recording machine built from people who knew how to make songs work.\n\nThe group’s famous polish sometimes leads listeners to underestimate the musicianship involved. Cobb’s strength was making complexity sound easy: a chord change that feels natural, a riff that’s memorable without being busy, a rhythmic figure that gives a track its identity while leaving space for the vocal.\n\nAs ARS moved through its classic era and beyond, Cobb’s name remained part of the band’s core story—one of the founding members whose studio roots and writing ability helped separate ARS from Southern rock stereotypes. The band could rock, but it could also glide, and Cobb’s sensibility helped make that duality believable.\n\nIn the later decades, fans often traced the “classic” feel of ARS back to the founding lineup and the Studio One ecosystem. Cobb represented both: a musician tied to Georgia’s mid-century pop-rock craftsmanship and the later Southern rock boom that ARS helped define on radio.\n\nJ. R. Cobb died on May 4, 2019. For anyone digging into how ARS achieved its clean, song-first sound, Cobb is a key answer: a guitarist who thought like a writer and a writer who understood exactly what a band needs to make a record stick.",
+            "Death": {
+              "Date": "2019-05-04",
+              "Place": "Covington, Georgia, United States",
+              "Cause": "Heart attack"
+            }
+          }
+        },
+        {
+          "Name": "Paul Goddard",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1970–1984; 2011–2014",
+          "Overview": "Founding bassist whose steady low-end anchored ARS’s studio-polished Southern rock sound.",
+          "Bio": {
+            "BioID": "bio-atlanta-rhythm-section-paul-goddard",
+            "ArtistID": "atlanta-rhythm-section",
+            "ArtistName": "Atlanta Rhythm Section",
+            "MemberName": "Paul Goddard",
+            "FullName": "Paul Goddard",
+            "PrimaryInstruments": [
+              "Bass"
+            ],
+            "Occupations": [
+              "Bassist",
+              "Musician"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Soft rock",
+              "Blues rock"
+            ],
+            "Birth": {
+              "Date": "1945-06-23",
+              "Place": "Rome, Georgia, United States"
+            },
+            "ActiveYears": [
+              "1970–1984",
+              "2011–2014"
+            ],
+            "AssociatedActs": [
+              "Atlanta Rhythm Section"
+            ],
+            "KeyAlbums": [
+              "A Rock and Roll Alternative",
+              "Champagne Jam",
+              "Underdog"
+            ],
+            "KeySongs": [
+              "So in to You",
+              "Imaginary Lover",
+              "I’m Not Gonna Let It Bother Me Tonight"
+            ],
+            "Achievements": [
+              {
+                "Year": "1970–1984",
+                "Title": "Founding-era rhythm foundation",
+                "Details": "Anchored the band’s groove and clarity through the classic lineup years and the peak run of radio hits."
+              },
+              {
+                "Year": "2011–2014",
+                "Title": "Returned for modern touring era",
+                "Details": "Rejoined ARS in its later chapter, reconnecting the touring band to its original lineup roots."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Goddard",
+              "The Hollywood Reporter": "https://www.hollywoodreporter.com/music/music-news/atlanta-rhythm-section-bassist-paul-700245/"
+            },
+            "Biography": "Paul Goddard anchored Atlanta Rhythm Section with a bassist’s combination of restraint and authority. ARS records are built on groove and clarity—lines that move the song forward without crowding the vocal—and Goddard’s bass work provided that center of gravity.\n\nLike several ARS founders, Goddard came out of the Georgia studio-and-road circuit, where musicians had to be adaptable. In the Studio One environment, a bassist needed to lock quickly with the drummer, follow arrangement cues precisely, and still leave the track feeling alive. Goddard’s playing was reliably steady, which is exactly what made it powerful.\n\nIn the band’s classic era, his parts helped connect the polished soft-rock surface to a deeper Southern rhythm feel. Even when ARS leaned toward pop-friendly choruses, the rhythm section rarely sounded lightweight; Goddard’s bass kept the music grounded and physical.\n\nHis role was also practical. ARS songs often feature layered guitars and keyboards, and without a firm low-end anchor the arrangements could blur. Goddard’s approach—clean tone, purposeful note choices, and an emphasis on time—helped the band’s recordings translate well to radio and to the stage.\n\nGoddard was part of the founding lineup that formed ARS around the Doraville studio scene, and that origin story matters: the band wasn’t assembled as a one-off project but as a working unit of professionals who were already playing together as a studio house band. Goddard’s consistency was a big reason that concept worked.\n\nIn later years, as ARS became a touring legacy act, Goddard’s connection to the original lineup carried symbolic weight for fans. His return to the band in the early 2010s brought a sense of continuity—an audible link back to the years when the songs first hit the airwaves.\n\nThat second chapter was short. Goddard died of cancer on April 29, 2014. The loss was felt not only because he was a founding member, but because bassists like Goddard often function as the quiet stabilizers of a group—the person you notice most when the foundation is gone.\n\nPaul Goddard’s legacy is embedded in ARS’s feel. If the band’s biggest songs sound smooth without being soft, and tight without being rigid, a large share of that balance comes from the way his bass lines sit right where they need to be—supportive, confident, and built for the groove.",
+            "Death": {
+              "Date": "2014-04-29",
+              "Place": "United States",
+              "Cause": "Cancer"
+            }
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Rodney Justo",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1970–1971; 2011–present",
+          "Overview": "Founding vocalist from the Studio One era and later the long-running frontman who helped keep ARS touring into the modern era."
+        },
+        {
+          "Name": "Andy Anderson",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "2001–2006; intermittent stand-ins",
+          "Overview": "Served as ARS lead singer during the early-2000s lineup and returned as a temporary replacement when needed, helping keep the touring schedule intact."
+        },
+        {
+          "Name": "Roy Yeager",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1979–1981",
+          "Overview": "Joined after the classic lineup’s late-’70s peak and played on early-’80s era touring and recordings during a transition period for the band."
+        },
+        {
+          "Name": "Lee Shealy",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "2017–present",
+          "Overview": "Brought in as the keyboard chair after Dean Daughtry’s later touring years, continuing the band’s signature mix of rock keys and melodic textures onstage."
+        },
+        {
+          "Name": "Steve Stone",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1995–present",
+          "Overview": "Long-running guitarist in the modern touring lineup, helping reproduce the two-guitar ARS sound in live performances."
+        },
+        {
+          "Name": "Justin Senker",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1990s–present",
+          "Overview": "Modern-era bassist who has helped keep the band’s rhythmic foundation consistent through lineup changes and ongoing touring."
+        }
+      ],
+      "Influences": [],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+        "Official Website": "https://www.atlantarhythmsection.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Atlanta_Rhythm_Section",
+        "New Georgia Encyclopedia": "https://www.georgiaencyclopedia.org/articles/arts-culture/atlanta-rhythm-section/"
+      }
     },
     {
       "ArtistID": "autograph",
