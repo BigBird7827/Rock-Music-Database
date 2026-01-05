@@ -28437,7 +28437,404 @@
     },
     {
       "ArtistID": "staind",
-      "Name": "Staind"
+      "Name": "Staind",
+      "Type": "Band",
+      "Origin": {
+        "City": "Springfield",
+        "Region": "Massachusetts",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1995–2012",
+        "2014",
+        "2017",
+        "2019–present"
+      ],
+      "Genres": [
+        "Alternative metal",
+        "Post-grunge",
+        "Hard rock",
+        "Nu metal"
+      ],
+      "Labels": [
+        "Flip",
+        "Elektra",
+        "Atlantic",
+        "Roadrunner",
+        "BMG"
+      ],
+      "Overview": "Staind emerged from Springfield, Massachusetts in the mid‑1990s with a sound that sat at the intersection of heavy, down‑tuned alternative metal and the bruised melodicism that later defined a lot of post‑grunge radio. Built around Aaron Lewis’ stark, confessional vocals and Mike Mushok’s thick baritone‑guitar riffs, the band became known for songs that could pivot from jagged aggression to acoustic vulnerability without losing intensity.\n\nTheir mainstream breakthrough arrived in the early 2000s, when anthems like “It’s Been Awhile” helped push Staind into the center of modern rock and crossover pop charts. After periods of hiatus and intermittent touring, the group returned to active recording with 2023’s Confessions of the Fallen, continuing a catalog that balances hard‑hitting grooves with emotionally direct songwriting.",
+      "NotableAlbums": [
+        {
+          "Title": "Dysfunction",
+          "Year": "1999",
+          "Notes": "Major‑label debut that introduced the band’s heavy, down‑tuned attack to a national audience, anchored by the breakout single “Mudshovel.”"
+        },
+        {
+          "Title": "Break the Cycle",
+          "Year": "2001",
+          "Notes": "Commercial peak and defining statement, pairing hard‑rock weight with vulnerable balladry; it produced the signature hit “It’s Been Awhile.”"
+        },
+        {
+          "Title": "14 Shades of Grey",
+          "Year": "2003",
+          "Notes": "A more melodic, radio‑leaning set that kept the band’s emotional core while expanding the palette with songs like “So Far Away.”"
+        },
+        {
+          "Title": "Chapter V",
+          "Year": "2005",
+          "Notes": "A darker, heavier follow‑up that tightened the grooves and leaned into modern‑rock punch, showcasing the band’s post‑breakthrough confidence."
+        },
+        {
+          "Title": "Staind",
+          "Year": "2011",
+          "Notes": "The last album before a long recording gap, balancing thick riffs with introspective hooks and closing out the original studio run."
+        },
+        {
+          "Title": "Confessions of the Fallen",
+          "Year": "2023",
+          "Notes": "Return album after a lengthy hiatus, reconnecting with the band’s blunt, riff‑driven style while reflecting a more seasoned, hard‑won perspective."
+        }
+      ],
+      "SignatureSongs": [
+        "It’s Been Awhile",
+        "Outside",
+        "So Far Away",
+        "Mudshovel",
+        "Fade",
+        "For You",
+        "Right Here",
+        "Price to Play",
+        "Epiphany",
+        "Believe"
+      ],
+      "Achievements": [
+        {
+          "Year": "2001",
+          "Title": "Breakthrough with “It’s Been Awhile” and Break the Cycle",
+          "Details": "The single “It’s Been Awhile” became Staind’s defining crossover hit, driving the success of Break the Cycle and turning the band into a mainstay of early‑2000s rock radio."
+        },
+        {
+          "Year": "2001",
+          "Title": "Multi‑platinum success for Break the Cycle",
+          "Details": "Break the Cycle became the band’s commercial high point, earning multi‑platinum certification in the United States and establishing Staind as a major modern‑rock act."
+        },
+        {
+          "Year": "2001–2005",
+          "Title": "Three consecutive Billboard 200 No. 1 albums",
+          "Details": "Break the Cycle, 14 Shades of Grey, and Chapter V each debuted at No. 1 on the Billboard 200, a rare run that reflected Staind’s sustained peak‑era momentum."
+        },
+        {
+          "Year": "1999–2001",
+          "Title": "Signature singles that defined an era of modern rock",
+          "Details": "Tracks like “Mudshovel,” “Outside,” and “Fade” helped codify the band’s balance of heavy riffs and emotionally direct writing, keeping them in rotation across rock formats."
+        },
+        {
+          "Year": "2023",
+          "Title": "Return to studio albums with Confessions of the Fallen",
+          "Details": "After more than a decade without a new studio record, Staind released Confessions of the Fallen, re‑establishing the band as an active touring and recording unit."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Springfield, Massachusetts in 1995.",
+        "Known for contrasting heavy, down‑tuned riffs with stripped‑down acoustic performances and confessional lyrics.",
+        "Original lineup: Aaron Lewis (vocals/rhythm guitar), Mike Mushok (lead guitar), Johnny April (bass), Jon Wysocki (drums).",
+        "Drummer Jon Wysocki departed in 2011; Sal Giancarelli became the band’s drummer in the years that followed.",
+        "Break the Cycle (2001) is widely regarded as the band’s defining album and commercial peak.",
+        "After hiatus periods in the 2010s, the band resumed more regular activity and released Confessions of the Fallen in 2023."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.staindofficial.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Staind",
+        "Discography": "https://en.wikipedia.org/wiki/Staind_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Aaron Lewis",
+          "Roles": [
+            "lead vocals",
+            "rhythm guitar"
+          ],
+          "Years": "1995–2012, 2014, 2017, 2019–present",
+          "Overview": "Founding frontman whose confessional vocals and acoustic‑to‑heavy dynamics define the band’s identity.",
+          "Bio": {
+            "BioID": "bio-staind-aaron-lewis",
+            "ArtistID": "staind",
+            "ArtistName": "Staind",
+            "MemberName": "Aaron Lewis",
+            "FullName": "Aaron Francis Lewis",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Alternative metal",
+              "Post-grunge",
+              "Hard rock",
+              "Nu metal",
+              "Country"
+            ],
+            "Birth": {
+              "Date": "1972-04-13",
+              "Place": "Rutland, Vermont, United States"
+            },
+            "ActiveYears": [
+              "1990–present"
+            ],
+            "AssociatedActs": [
+              "Staind"
+            ],
+            "KeyAlbums": [
+              "Dysfunction",
+              "Break the Cycle",
+              "14 Shades of Grey",
+              "Chapter V",
+              "Confessions of the Fallen"
+            ],
+            "KeySongs": [
+              "It’s Been Awhile",
+              "Outside",
+              "So Far Away",
+              "Mudshovel",
+              "Right Here"
+            ],
+            "Achievements": [
+              "Fronted Staind through their breakthrough era, with songs like “It’s Been Awhile” becoming defining crossover hits of early‑2000s rock radio.",
+              "Helped establish the band’s signature contrast between heavy, down‑tuned riffs and intimate acoustic performances."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.aaronlewismusic.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Aaron_Lewis"
+            },
+            "Biography": "Aaron Lewis is the voice at the center of Staind’s identity—an intense, emotionally direct singer whose delivery can shift from restrained baritone to raw, full‑throated grit within a single chorus. As the band’s frontman and primary lyric presence, he helped define Staind’s signature balance: heavy, down‑tuned riffs paired with candid, vulnerable storytelling.\n\nComing out of the New England club circuit, Lewis and guitarist Mike Mushok built Staind around a tight four‑piece core that could play with metal weight while still leaving room for melody. That early blend of heaviness and confession became the band’s calling card, especially as they began reaching audiences beyond the regional scene.\n\nLewis’ writing is often rooted in personal tension—regret, anger, self‑reflection, and the uneasy space between them. Rather than leaning on cryptic imagery, he tends to use plainspoken phrasing and clear emotional stakes, which is a big reason the songs connected so broadly outside the heavy‑music world.\n\nThe band’s early‑2000s breakthrough put Lewis’ voice on mainstream radio, with “It’s Been Awhile” becoming the track most closely associated with Staind. The song’s mix of hard‑rock dynamics and a hook that feels conversational showcased what he does best: making the intimate sound anthemic without sanding down the edges.\n\nLive, Lewis became equally identified with Staind’s quieter side—stripped‑down moments where the band’s emotional core is most exposed. Acoustic performances and slower, spacious arrangements highlighted the same thing the heavier tracks do: the lyrics land hardest when they’re delivered plainly and without distance.\n\nAcross later albums, Lewis remained the consistent emotional anchor as the band’s sound moved between aggressive modern‑rock punch and more melodic, introspective material. Even when the riffs got heavier or the production got more polished, his voice and phrasing kept the songs grounded in the same confessional DNA.\n\nBeginning in the 2010s, Lewis also pursued a solo path that leaned into country and singer‑songwriter traditions, expanding his public identity well beyond the rock format. That parallel career is part of why Staind’s activity became intermittent for stretches, but it also underlined the same core strength: direct storytelling and a voice built for front‑and‑center delivery.\n\nIn Staind’s later‑era returns to the road and studio, Lewis continued to front the band with the same combination of intensity and restraint that fueled the classic records. Whether he’s delivering a full‑band chorus or a bare acoustic verse, his role in Staind remains simple to describe and hard to replicate: he makes the songs feel personal, even in an arena."
+          }
+        },
+        {
+          "Name": "Mike Mushok",
+          "Roles": [
+            "lead guitar"
+          ],
+          "Years": "1995–2012, 2014, 2017, 2019–present",
+          "Overview": "Lead guitarist known for thick baritone‑style riffing that blends heavy groove with radio‑ready hooks.",
+          "Bio": {
+            "BioID": "bio-staind-mike-mushok",
+            "ArtistID": "staind",
+            "ArtistName": "Staind",
+            "MemberName": "Mike Mushok",
+            "FullName": "Michael Mushok",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Guitarist"
+            ],
+            "Genres": [
+              "Alternative metal",
+              "Post-grunge",
+              "Hard rock",
+              "Nu metal"
+            ],
+            "Birth": {
+              "Date": "1970-04-10",
+              "Place": "Ludlow, Massachusetts, United States"
+            },
+            "ActiveYears": [
+              "1995–present"
+            ],
+            "AssociatedActs": [
+              "Staind",
+              "Saint Asonia",
+              "Newsted"
+            ],
+            "KeyAlbums": [
+              "Dysfunction",
+              "Break the Cycle",
+              "14 Shades of Grey",
+              "Chapter V",
+              "The Illusion of Progress"
+            ],
+            "KeySongs": [
+              "Mudshovel",
+              "It’s Been Awhile",
+              "Fade",
+              "For You",
+              "So Far Away"
+            ],
+            "Achievements": [
+              "Co‑founded Staind’s signature guitar sound, built on down‑tuned, groove‑driven riffs that defined the band’s biggest singles.",
+              "Expanded his profile through additional projects while remaining the primary guitar voice behind Staind’s catalog."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mike_Mushok"
+            },
+            "Biography": "Mike Mushok is the architect of Staind’s thick, down‑tuned guitar sound—riff‑first writing that can feel punishing, hypnotic, or unexpectedly melodic depending on the song. As the band’s lead guitarist, he helped build a style where weight and hook aren’t opposites, but two sides of the same groove.\n\nFrom the beginning, Mushok’s approach emphasized tone, tuning, and feel as much as flashy technique. His parts often rely on baritone‑leaning thickness, wide‑open chord shapes, and rhythmic precision, creating a wall of sound that leaves space for vocals while still driving the song.\n\nStaind’s early material showcased that balance between aggression and atmosphere: riffs that hit like concrete, then open into choruses that breathe. Mushok’s playing is central to that push‑pull—he can make a verse feel claustrophobic and then let the chorus expand without changing the band’s emotional temperature.\n\nDuring the band’s peak‑era run, the guitar work became a defining part of modern‑rock radio’s vocabulary. The riffs are memorable because they’re built like hooks: simple enough to stick, heavy enough to feel physical, and arranged to lock in with the drums and bass rather than float above them.\n\nBeyond the signature singles, Mushok’s strength shows in the deep cuts—where texture and pacing matter more than immediate payoff. He frequently uses repetition as tension, letting small changes in dynamics or voicing create momentum instead of constant chord churn.\n\nAs Staind’s schedule shifted in the 2010s, Mushok broadened his profile through other projects, including work with the band Saint Asonia. Those outside lanes didn’t replace Staind so much as underline what he does consistently: write riffs that serve the song’s emotional center rather than compete with it.\n\nEven as production styles evolved from late‑’90s grit to more modern polish, Mushok’s role stayed constant—he’s the one shaping the sonic foundation the band stands on. When Staind goes heavy, it’s his tone; when Staind goes melodic, it’s his restraint.\n\nAcross decades of releases and tours, Mushok’s playing remains one of Staind’s most recognizable fingerprints. You can hear it in a single chord: the tuning, the thickness, the control, and the way the riff moves like a pulse rather than a lead line."
+          }
+        },
+        {
+          "Name": "Johnny April",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1995–2012, 2014, 2017, 2019–present",
+          "Overview": "Longtime bassist and backing vocalist who anchors Staind’s heavy grooves with a steady, song‑first pocket.",
+          "Bio": {
+            "BioID": "bio-staind-johnny-april",
+            "ArtistID": "staind",
+            "ArtistName": "Staind",
+            "MemberName": "Johnny April",
+            "FullName": "Johnny April",
+            "PrimaryInstruments": [
+              "Bass",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Bassist"
+            ],
+            "Genres": [
+              "Alternative metal",
+              "Post-grunge",
+              "Hard rock",
+              "Nu metal"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1995–present"
+            ],
+            "AssociatedActs": [
+              "Staind"
+            ],
+            "KeyAlbums": [
+              "Dysfunction",
+              "Break the Cycle",
+              "14 Shades of Grey",
+              "Chapter V",
+              "Staind"
+            ],
+            "KeySongs": [
+              "Mudshovel",
+              "It’s Been Awhile",
+              "Outside",
+              "So Far Away",
+              "Right Here"
+            ],
+            "Achievements": [
+              "Provided the bass foundation across Staind’s breakthrough and peak‑charting albums, helping lock the band’s riffs into a consistent groove.",
+              "Maintained a steady onstage presence through the band’s hiatuses and returns, supporting both heavy sets and acoustic arrangements."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.staindofficial.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Staind"
+            },
+            "Biography": "Johnny April is the low‑end anchor of Staind, providing the bass foundation that keeps the band’s heavy riffs grounded and the quieter songs steady. As both bassist and backing vocalist, he’s been a constant presence through the band’s major eras and returns to activity.\n\nStaind’s music depends on groove—on riffs that feel like they’re pulling the song forward by the collar. April’s role is to lock that motion in place, reinforcing the down‑tuned guitar weight while keeping the rhythm section tight and propulsive.\n\nIn the band’s early years, the bass helped bridge the gap between the raw aggression of the verses and the more melodic openness of the choruses. April’s playing tends to serve the arrangement, adding thickness and drive without crowding the vocal lines that carry the emotional story.\n\nDuring the breakout period, his parts became a subtle but essential layer in songs that had to work on both heavy‑music stages and mainstream radio. When the guitars drop out or the dynamics shift, the bass line is often what keeps the track feeling full and inevitable.\n\nLive, April’s contribution is as much about stamina and consistency as it is about tone. Staind’s setlists rely on long, mid‑tempo grooves that need to feel relentless without becoming flat, and the bass is the piece that makes that balance possible night after night.\n\nAcross later albums, the rhythm section continued to be the engine under Staind’s blend of heaviness and confession. April’s playing supports both extremes—he can sit under an acoustic verse without distraction and then hit with full force when the band pivots back into distortion.\n\nBecause he’s not positioned as the band’s public spokesman, April’s impact is easy to underestimate until you hear the songs without that bottom‑end weight. Staind’s signature feel—thick, tense, and grounded—depends on what he does in the pocket.\n\nOver the long arc of Staind’s career, April has remained the steadying counterweight to the band’s emotional volatility. His role is foundational: keep the groove intact, keep the songs heavy when they need to be, and let the vocals carry the story on top."
+          }
+        },
+        {
+          "Name": "Jon Wysocki",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1995–2011",
+          "Overview": "Original drummer whose groove‑driven power helped shape the band’s classic sound and peak‑era records.",
+          "Bio": {
+            "BioID": "bio-staind-jon-wysocki",
+            "ArtistID": "staind",
+            "ArtistName": "Staind",
+            "MemberName": "Jon Wysocki",
+            "FullName": "Jon Wysocki",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Musician",
+              "Drummer"
+            ],
+            "Genres": [
+              "Alternative metal",
+              "Post-grunge",
+              "Hard rock",
+              "Nu metal"
+            ],
+            "Birth": {
+              "Date": "1971-01-17",
+              "Place": "Westfield, Massachusetts, United States"
+            },
+            "ActiveYears": [
+              "1995–2011"
+            ],
+            "AssociatedActs": [
+              "Staind",
+              "SOiL"
+            ],
+            "KeyAlbums": [
+              "Tormented",
+              "Dysfunction",
+              "Break the Cycle",
+              "14 Shades of Grey",
+              "Chapter V"
+            ],
+            "KeySongs": [
+              "Mudshovel",
+              "It’s Been Awhile",
+              "Outside",
+              "For You",
+              "So Far Away"
+            ],
+            "Achievements": [
+              "Helped establish Staind’s groove‑heavy, dynamic feel across the albums that defined their rise and early‑2000s peak.",
+              "Recorded and toured through the band’s most successful era before departing in 2011."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Staind"
+            },
+            "Biography": "Jon Wysocki was the original drummer of Staind and a key part of the band’s classic lineup, helping define the feel of their most successful era. His playing combined hard‑rock impact with a steady, groove‑driven pulse that made the band’s down‑tuned riffs feel both heavy and controlled.\n\nIn Staind’s formative years, Wysocki helped translate raw, aggressive material into songs that could hold together live and in the studio. The early records depend on dynamics—tight, tense verses that open into big choruses—and his ability to shift energy without losing the pocket is central to that approach.\n\nOn the band’s breakthrough releases, the drums are built less around flashy fills and more around insistence. Wysocki’s patterns emphasize weight and forward motion, giving tracks like the band’s biggest singles a physical drive that works just as well on radio as it does onstage.\n\nPart of what made Staind distinctive was how their heavy side and their acoustic side shared the same emotional tone. Wysocki supported that range by playing with restraint when the arrangement thinned out, then returning to full‑kit power when the songs demanded lift.\n\nAfter years of recording and touring, Wysocki’s tenure with Staind ended in 2011, closing the chapter on the original four‑member lineup that many fans associate with the band’s defining sound. His drumming remains a major part of the records that established Staind as a dominant modern‑rock name in the early 2000s.\n\nFollowing his departure, he continued making music outside of Staind, including a brief stint with the band SOiL. Those later projects highlighted the same core strength that powered his Staind work: a direct, hard‑hitting approach that prioritizes groove and song structure.\n\nWysocki’s legacy is closely tied to the band’s peak‑era run—when Staind’s mix of heaviness and confession hit a cultural nerve. The drum feel on those albums is a big reason the songs still land: they move with tension, then release, then hit again.\n\nHis passing in 2024 prompted a wave of tributes that underscored how important his role was to Staind’s story. For fans, the simplest way to describe his impact is also the most accurate: if you grew up on those records, you grew up on his pocket."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Sal Giancarelli",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "2011–2012, 2014, 2017, 2019–present",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Confessions of the Fallen"
+          ],
+          "Replacing": "Jon Wysocki (as the band’s drummer after 2011)",
+          "ReplacedBy": "",
+          "Overview": "Joined as drummer after the original lineup era, bringing a steady, modern hard‑rock feel to Staind’s later tours and their return to studio albums in the 2020s."
+        },
+        {
+          "Name": "Pete McEwan",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1995",
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Johnny April",
+          "Overview": "Early bassist in Staind’s very first year before the classic lineup solidified; he appears in the band’s early history as a pre‑breakthrough member."
+        }
+      ]
     },
     {
       "ArtistID": "the-standells",
