@@ -22074,27 +22074,566 @@
     {
       "ArtistID": "paul-revere-and-the-raiders",
       "Name": "Paul Revere & the Raiders",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Boise",
+        "Region": "Idaho",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1958–1976",
+        "1978–2014",
+        "2014–2022 (as Paul Revere’s Raiders)"
+      ],
+      "Genres": [
+        "Garage rock",
+        "Rock and roll",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Gardena",
+        "Sandē",
+        "Columbia"
+      ],
+      "Overview": "Paul Revere & the Raiders were a high-energy American rock band that rose from the Pacific Northwest to national stardom in the mid‑1960s. Formed in 1958 by keyboardist and bandleader Paul Revere Dick, with singer Mark Lindsay soon becoming the face and voice of the group, they first reached the U.S. charts with the instrumental “Like, Long Hair” in 1961. After signing with Columbia Records and working closely with producer Terry Melcher, they sharpened a punchy, guitar-forward approach that blended garage-rock urgency with radio-ready pop hooks.\n\nThe Raiders became a defining TV-era rock act: as regular performers and the de facto house band on Dick Clark’s weekday show *Where the Action Is* (1965–1967), their Revolutionary War costumes and fast, choreographed presentation made them instantly recognizable. The exposure fueled a string of Hot 100 hits including “Just Like Me,” “Kicks,” “Hungry,” “Good Thing,” and “Him or Me – What’s It Gonna Be?” In 1971 they achieved their only U.S. No. 1 single with “Indian Reservation (The Lament of the Cherokee Reservation Indian),” underscoring the band’s ability to adapt and remain commercially relevant beyond their 1960s peak.",
+      "NotableAlbums": [
+        {
+          "Title": "Just Like Us!",
+          "Year": "1966",
+          "Notes": "The first album released as the band’s TV profile exploded, capturing their tougher, R&B-tinged garage-rock sound under producer Terry Melcher and anchoring the run that made them teen‑idol staples."
+        },
+        {
+          "Title": "Midnight Ride",
+          "Year": "1966",
+          "Notes": "Often treated as a signature Raiders LP; it includes the hit “Kicks” and showcases their crisp blend of fuzz guitars, tight rhythm section work, and pop-ready hooks."
+        },
+        {
+          "Title": "The Spirit of '67",
+          "Year": "1966",
+          "Notes": "A hit-heavy set featuring “Hungry,” “Good Thing,” and “The Great Airplane Strike,” balancing energetic singles with deeper cuts that highlight the band’s musicianship."
+        },
+        {
+          "Title": "Revolution!",
+          "Year": "1967",
+          "Notes": "A pivot toward a slightly broader pop-rock palette while still delivering big singles, including “Him or Me – What’s It Gonna Be?”"
+        },
+        {
+          "Title": "Something Happening",
+          "Year": "1968",
+          "Notes": "Documents the group’s late‑’60s transition as musical tastes shifted, with material aimed beyond the earlier costumed-TV identity."
+        },
+        {
+          "Title": "Collage",
+          "Year": "1970",
+          "Notes": "A more ambitious, album-minded effort that pushes toward harder rock and contemporary production touches, reflecting their attempt to evolve with the era."
+        },
+        {
+          "Title": "Indian Reservation",
+          "Year": "1971",
+          "Notes": "Built around their U.S. No. 1 single “Indian Reservation,” this period captures the group’s final major commercial peak on Columbia."
+        },
+        {
+          "Title": "Greatest Hits",
+          "Year": "1967",
+          "Notes": "A classic summary of the Raiders’ core hits from the Action-era run, frequently cited as the quickest entry point for the band’s best-known material."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Just Like Me",
+          "Year": "1965",
+          "Notes": "Their breakthrough Columbia single and one of their defining garage-rock recordings; it reached the U.S. Top 20 and helped kick off their mid‑’60s hit streak."
+        },
+        {
+          "Title": "Kicks",
+          "Year": "1966",
+          "Notes": "A signature hit that became one of the band’s biggest records and a flagship of their tough, radio-ready sound in the Action era."
+        },
+        {
+          "Title": "Hungry",
+          "Year": "1966",
+          "Notes": "A driving, riff-centered Top 10 single that kept the band’s momentum rolling through 1966 and became a staple of their catalogue."
+        },
+        {
+          "Title": "Good Thing",
+          "Year": "1966",
+          "Notes": "A major Top 10 hit co-written by Mark Lindsay and Terry Melcher, pairing bright pop craft with the Raiders’ punchy band sound."
+        },
+        {
+          "Title": "Him or Me – What’s It Gonna Be?",
+          "Year": "1967",
+          "Notes": "A late‑’60s standout that extended their chart run and is closely associated with their TV-era popularity."
+        },
+        {
+          "Title": "Indian Reservation (The Lament of the Cherokee Reservation Indian)",
+          "Year": "1971",
+          "Notes": "Their only U.S. No. 1 single, reviving the band’s chart fortunes in the early ’70s and becoming their biggest hit record."
+        },
+        {
+          "Title": "Steppin' Out",
+          "Year": "1965",
+          "Notes": "An earlier hit that helped set the stage for the national breakthrough to come and remains a fan favorite from their mid‑’60s rise."
+        },
+        {
+          "Title": "The Great Airplane Strike",
+          "Year": "1966",
+          "Notes": "A dramatic, high-energy single that showcased the Raiders’ flair for punchy production and distinctive hooks."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1965–1967",
+          "Title": "House band on ABC’s Where the Action Is",
+          "Details": "The Raiders served as the show’s most prominent regular act, gaining daily TV exposure that helped turn them into one of the biggest American hit-makers of the mid‑1960s."
+        },
+        {
+          "Year": "1966",
+          "Title": "Multiple Top 10 singles during their commercial peak",
+          "Details": "The consecutive Top 10 run that included “Kicks,” “Hungry,” and “Good Thing” cemented the Raiders as a premier AM-radio band and a defining sound of the era."
+        },
+        {
+          "Year": "1966",
+          "Title": "Gold-certified album run on Columbia",
+          "Details": "Their hit-driven 1966 albums—Just Like Us!, Midnight Ride, and The Spirit of ’67—were certified gold, reflecting how strongly the singles translated into full-length sales."
+        },
+        {
+          "Year": "1971",
+          "Title": "Only U.S. No. 1 single with “Indian Reservation”",
+          "Details": "The recording topped the Billboard Hot 100 on July 24, 1971 and became their biggest-selling hit, earning major sales certifications."
+        },
+        {
+          "Year": "1960s–1970s",
+          "Title": "Enduring presence in American pop culture",
+          "Details": "Their music and iconic Revolutionary War look became shorthand for the TV-driven pop-rock moment, keeping their best-known hits in regular oldies rotation for decades."
+        }
+      ],
+      "KeyFacts": [
+        "Originally known as the Downbeats, the group was formed in 1958 and first reached the U.S. charts with the 1961 instrumental “Like, Long Hair.”",
+        "Their national breakthrough came after signing with Columbia Records and working with producer Terry Melcher.",
+        "They were widely recognized for Revolutionary War-style stage costumes, a visual hook that became central to their TV image.",
+        "From 1965 to 1967 they were the de facto house band on Dick Clark’s weekday TV show Where the Action Is, giving them unusually frequent exposure for a rock act of the period.",
+        "Major Hot 100 hits include “Just Like Me,” “Kicks,” “Hungry,” “Good Thing,” and “Him or Me – What’s It Gonna Be?”",
+        "“Indian Reservation (The Lament of the Cherokee Reservation Indian)” reached U.S. No. 1 in 1971 and remains the band’s biggest chart hit."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.paulrevereandtheraiders.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Revere_%26_the_Raiders",
+        "Discography": "https://en.wikipedia.org/wiki/Paul_Revere_%26_the_Raiders_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Paul Revere",
+          "Roles": [
+            "Keyboards",
+            "Bandleader",
+            "Co-founder"
+          ],
+          "Years": "1958–2014",
+          "Instruments": [
+            "Organ",
+            "Piano",
+            "Keyboards"
+          ],
+          "Overview": "Keyboardist Paul Revere Dick founded the group in 1958 and became its on-stage ringleader, playing the ‘madman’ to Mark Lindsay’s teen-idol frontman. He kept the Raiders brand alive through shifting lineups for decades, touring until illness forced his retirement in 2014.",
+          "Bio": {
+            "BioID": "bio-paul-revere-and-the-raiders-paul-revere",
+            "ArtistID": "paul-revere-and-the-raiders",
+            "ArtistName": "Paul Revere & the Raiders",
+            "MemberName": "Paul Revere",
+            "FullName": "Paul Revere Dick",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Organ",
+              "Piano"
+            ],
+            "Occupations": [
+              "Musician",
+              "Bandleader"
+            ],
+            "Genres": [
+              "Garage rock",
+              "Rock and roll",
+              "Pop rock"
+            ],
+            "Birth": "January 7, 1938 (Harvard, Nebraska, U.S.) – October 4, 2014 (Garden Valley, Idaho, U.S.)",
+            "ActiveYears": "1958–2014",
+            "AssociatedActs": [
+              "Paul Revere & the Raiders"
+            ],
+            "KeyAlbums": [
+              "Just Like Us!",
+              "Midnight Ride",
+              "The Spirit of '67",
+              "Greatest Hits"
+            ],
+            "KeySongs": [
+              "Like, Long Hair",
+              "Just Like Me",
+              "Kicks",
+              "Hungry",
+              "Good Thing",
+              "Indian Reservation"
+            ],
+            "Achievements": [
+              "Founded the band that became Paul Revere & the Raiders and led it for more than five decades.",
+              "Became a recognizable TV personality during the Where the Action Is era, reinforcing the band’s signature image and stagecraft.",
+              "Continued touring under the Raiders name long after the original hit years, keeping the catalogue in front of new audiences."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Revere_(musician)",
+              "Official Site": "https://paulreveresraiders.com/"
+            },
+            "Biography": "Paul Revere Dick was the band’s founder, keyboardist, and master of ceremonies—the figure who turned a regional rock group into a national brand. Although he played organ and piano with a strong, driving feel, his most visible contribution was often the show: he cultivated a mischievous, larger‑than‑life persona that contrasted with the group’s tight musical discipline.\n\nIn 1958, Revere formed a fast, instrumental‑leaning rock combo in the Pacific Northwest that became known as the Downbeats. The early years were rooted in dance‑hall rhythms and surf‑adjacent instrumentals, and that foundation carried through even as the band’s sound evolved toward harder, more guitar-led singles.\n\nThe first real national breakthrough came with the 1961 instrumental hit “Like, Long Hair.” It didn’t make them superstars overnight, but it proved the group could compete on a national stage and helped establish Revere as a working bandleader with the stamina to keep a lineup moving forward.\n\nBy the mid‑1960s, the Raiders’ career accelerated after signing with Columbia and collaborating with producer Terry Melcher. Revere’s role expanded beyond playing keys—he became a steady hand in a fast-moving operation built around singles, television appearances, and a relentlessly rehearsed live show.\n\nWhen Dick Clark’s *Where the Action Is* adopted the Raiders as a core act, Revere leaned into the part of the ‘madman’ of the group. The Revolutionary War costumes and broad physical comedy might have been the hook, but Revere treated it like a professional craft: the same care that went into the look also went into staying musically sharp day after day.\n\nOn record, Revere’s keyboards helped knit together the band’s mix of garage-rock bite and pop polish. The Raiders’ biggest hits often hinge on tight rhythmic interplay rather than flash, and Revere’s parts were built to support that punchy band sound without crowding the vocal.\n\nAs the original hit era gave way to changing tastes, Revere became the through-line across multiple Raiders lineups. Even when the band name shifted (and when the culture moved beyond the TV-pop moment), he kept the touring unit active, preserving the group’s identity as a live, audience-facing act.\n\nIn the final decades of his career, Revere’s work was as much about stewardship as performance—maintaining the Raiders name, keeping a professional road band together, and ensuring the signature songs stayed in rotation. That long-running commitment is a major reason the Raiders remained visible long after the 1960s.\n\nRevere toured until cancer forced his retirement in 2014, and he died later that year in Idaho. His legacy is inseparable from the Raiders’ combination of showmanship and hit-making: a bandleader who treated rock performance like a full-spectrum entertainment job and helped define an entire TV-driven era of American pop rock."
+          }
+        },
+        {
+          "Name": "Mark Lindsay",
+          "Roles": [
+            "Lead vocals",
+            "Saxophone",
+            "Songwriter",
+            "Producer"
+          ],
+          "Years": "1958–1975; 1978–1985 (intermittent)",
+          "Instruments": [
+            "Vocals",
+            "Saxophone"
+          ],
+          "Overview": "Mark Lindsay was the Raiders’ signature frontman—lead vocalist, teen-idol face of the TV era, and later a key creative driver as a writer and producer. His voice anchors the band’s biggest hits and he also scored a major solo success with “Arizona.”",
+          "Bio": {
+            "BioID": "bio-paul-revere-and-the-raiders-mark-lindsay",
+            "ArtistID": "paul-revere-and-the-raiders",
+            "ArtistName": "Paul Revere & the Raiders",
+            "MemberName": "Mark Lindsay",
+            "FullName": "Mark Lindsay",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Saxophone"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Garage rock",
+              "Pop rock",
+              "Rock and roll"
+            ],
+            "Birth": "March 9, 1942 (Eugene, Oregon, U.S.)",
+            "ActiveYears": "1958–present",
+            "AssociatedActs": [
+              "Paul Revere & the Raiders"
+            ],
+            "KeyAlbums": [
+              "Midnight Ride",
+              "The Spirit of '67",
+              "Revolution!",
+              "Indian Reservation"
+            ],
+            "KeySongs": [
+              "Just Like Me",
+              "Kicks",
+              "Hungry",
+              "Good Thing",
+              "Him or Me – What’s It Gonna Be?",
+              "Indian Reservation",
+              "Arizona (solo)"
+            ],
+            "Achievements": [
+              "Became one of the most visible American rock frontmen of the mid‑1960s through daily TV exposure on Where the Action Is.",
+              "Co-wrote the hit “Good Thing” with Terry Melcher, one of the band’s defining singles.",
+              "Scored a U.S. Top 10 solo hit with “Arizona,” reaching No. 10 on the Billboard Hot 100 in February 1970."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.marklindsay.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mark_Lindsay"
+            },
+            "Biography": "Mark Lindsay was the Raiders’ unmistakable voice and the public face of their mid‑1960s breakthrough. With a bright, urgent vocal style that could push hard rockers and pop singles with equal conviction, he helped make the band’s run of hits feel immediate and youthful without sacrificing musical punch.\n\nLindsay joined Paul Revere’s early lineup while the band was still building its reputation in the Pacific Northwest circuit. Those formative years—steady gigs, constant rehearsal, and the pressure to win over dance-hall crowds—shaped his performance style into something direct and audience-first.\n\nThe Raiders’ move into national prominence accelerated after their Columbia signing and producer Terry Melcher’s guidance. Lindsay’s lead on “Just Like Me” became a calling card: a tight, radio-ready single that opened the door to a sustained chart presence and introduced his voice to a national teen audience.\n\nTelevision amplified everything. As a featured act and house band on *Where the Action Is*, the Raiders had a level of weekday exposure most rock groups could only dream of. Lindsay’s camera-friendly charisma, combined with the band’s costumed image, turned him into a recognizable pop culture figure during the peak years of the show.\n\nMusically, Lindsay’s performances on hits like “Kicks,” “Hungry,” and “Him or Me – What’s It Gonna Be?” demonstrate the Raiders’ sweet spot: hard-edged enough to feel like garage rock, polished enough to dominate AM radio. Lindsay’s phrasing is a big part of that balance—he sells hooks cleanly but keeps a bite in the delivery.\n\nHe also grew into a creative role beyond singing. Lindsay co-wrote key material, including “Good Thing” with Terry Melcher, and he increasingly shaped the band’s direction as musical tastes shifted at the end of the decade. That adaptability is part of why the Raiders remained commercially relevant longer than many of their TV-era peers.\n\nDuring the late 1960s and early 1970s, Lindsay pursued solo work in parallel with the band. His single “Arizona” became a notable success, reaching the U.S. Top 10 and showing that his voice could carry a record outside the Raiders’ established brand.\n\nEven as the Raiders’ lineup changed, Lindsay remained the most identifiable sonic signature on their biggest records. That continuity mattered when the group hit again with “Indian Reservation” in 1971—a late-career high point that put them at the top of the charts one more time.\n\nLindsay’s legacy is the combination of pop visibility and durable recordings: a frontman whose voice is inseparable from the Raiders’ greatest hits, and a creative contributor who helped steer the band through shifting eras while also proving he could stand on his own as a solo artist."
+          }
+        },
+        {
+          "Name": "Drake Levin",
+          "Roles": [
+            "Lead guitar"
+          ],
+          "Years": "1963–1967",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Overview": "Nicknamed “The Kid,” Drake Levin joined the Raiders as a teenager and helped define their mid‑’60s guitar sound. His double‑tracked solo on “Just Like Me” is one of the band’s most-cited instrumental signatures.",
+          "Bio": {
+            "BioID": "bio-paul-revere-and-the-raiders-drake-levin",
+            "ArtistID": "paul-revere-and-the-raiders",
+            "ArtistName": "Paul Revere & the Raiders",
+            "MemberName": "Drake Levin",
+            "FullName": "Drake Maxwell Levin",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Garage rock",
+              "Pop rock",
+              "Rock"
+            ],
+            "Birth": "August 17, 1946 (Chicago, Illinois, U.S.) – July 4, 2009 (San Francisco, California, U.S.)",
+            "ActiveYears": "1963–2009",
+            "AssociatedActs": [
+              "Paul Revere & the Raiders",
+              "Brotherhood",
+              "Lee Michaels",
+              "Emitt Rhodes"
+            ],
+            "KeyAlbums": [
+              "Just Like Us!",
+              "Midnight Ride",
+              "The Spirit of '67"
+            ],
+            "KeySongs": [
+              "Just Like Me",
+              "Kicks",
+              "Hungry"
+            ],
+            "Achievements": [
+              "Helped shape the Raiders’ hit-era sound as lead guitarist during their most visible mid‑1960s run.",
+              "Recorded the distinctive double‑tracked guitar solo on “Just Like Me,” a defining moment in the band’s early national breakthrough.",
+              "Continued performing and recording beyond the Raiders with a range of artists and reunion projects."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Drake_Levin"
+            },
+            "Biography": "Drake Levin was the Raiders’ lead guitarist during the band’s rise from regional success to nationwide fame. Joining in 1963 at just sixteen, he brought a sharp, melodic attack that could cut through radio mixes while still sounding raw enough to fit the group’s garage-rock edge.\n\nWithin the Raiders’ classic mid‑’60s lineup, Levin’s playing often provided the band’s most immediate jolt of attitude. The Raiders were built around tight rhythm and strong vocal hooks, but Levin added the kind of short, memorable guitar statements that made the singles feel tougher than many of their pop peers.\n\nHis best-known recorded moment is the double‑tracked guitar solo on “Just Like Me,” a breakthrough Columbia single that helped open the door to the band’s sustained chart run. It’s a concise, high-impact passage—more about phrasing and tone than flash—and it remains one of the Raiders’ most recognizable instrumental statements.\n\nLevin’s period in the band coincided with relentless touring and constant television exposure. As the Raiders’ profile grew through *Where the Action Is* and other Dick Clark productions, Levin’s guitar helped keep the music tougher than the costumes might suggest.\n\nBecause the Raiders worked at a pace defined by hit singles, Levin had to be both fast and precise: parts needed to be memorable immediately, and performances needed to be reliable under the pressure of TV tapings and rapid road schedules.\n\nLevin left the band in 1967 as musical fashions shifted and some members sought more artistic control. His departure marked the end of the original hit-era guitar voice, but his imprint remained on the key records that defined ‘Raider-Mania.’\n\nAfter the Raiders, Levin continued a varied musical life, performing with other artists and participating in projects that kept him connected to the wider rock scene. He also collaborated intermittently with former bandmates, underscoring the long musical ties within the Raiders’ classic lineup.\n\nIn retrospect, Levin’s contribution is easy to underestimate because the Raiders are often remembered for TV image and chart hits. Listen closely to the early Columbia singles and the edge in the guitar lines is unmistakable—Levin helped make those records hit with authority, not just polish.\n\nLevin died of cancer in 2009 in San Francisco. For many listeners, he remains the definitive Raiders guitarist: the player who captured the band’s garage-rock bite at exactly the moment they became national stars."
+          }
+        },
+        {
+          "Name": "Phil Volk",
+          "Roles": [
+            "Bass guitar",
+            "Backing vocals",
+            "Songwriter"
+          ],
+          "Years": "1965–1967",
+          "Instruments": [
+            "Bass guitar"
+          ],
+          "Overview": "Phil “Fang” Volk anchored the Raiders’ rhythm section during their biggest mid‑’60s breakthrough and was a visible part of the band’s daily TV era. His bass riff drives the Top 10 hit “Hungry,” and he contributed songwriting and a tougher edge to the classic lineup.",
+          "Bio": {
+            "BioID": "bio-paul-revere-and-the-raiders-phil-volk",
+            "ArtistID": "paul-revere-and-the-raiders",
+            "ArtistName": "Paul Revere & the Raiders",
+            "MemberName": "Phil Volk",
+            "FullName": "Phillip Edward Volk",
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Garage rock",
+              "Pop rock",
+              "Rock"
+            ],
+            "Birth": "October 25, 1945 (Burbank, California, U.S.)",
+            "ActiveYears": "1960s–present",
+            "AssociatedActs": [
+              "Paul Revere & the Raiders",
+              "Brotherhood"
+            ],
+            "KeyAlbums": [
+              "Midnight Ride",
+              "The Spirit of '67",
+              "Revolution!"
+            ],
+            "KeySongs": [
+              "Kicks",
+              "Hungry",
+              "Good Thing",
+              "Just Like Me"
+            ],
+            "Achievements": [
+              "Served as the Raiders’ bassist during their peak TV-and-hits era (1965–1967).",
+              "Appeared extensively on television with the band, including hundreds of episodes of Where the Action Is.",
+              "Played the signature bass riff that drives the hit single “Hungry.”"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Phil_Volk",
+              "Official Site": "http://www.philfangvolk.com"
+            },
+            "Biography": "Phil “Fang” Volk was the Raiders’ bassist during the exact window when their music, image, and TV exposure aligned into mass popularity. Joining at the height of ‘Raider-Mania,’ he helped lock the band’s rhythm section into a tighter, harder-driving groove that suited their garage-rock leanings and hit-making pace.\n\nVolk’s time with the group overlapped with the daily grind of television. By his own career record, he appeared in hundreds of episodes of *Where the Action Is* and in a very large number of other TV spots—an unusual level of exposure that required not just playing chops but the ability to deliver consistent performances under studio pressure.\n\nMusically, Volk’s most famous recorded fingerprint is the main bass riff on “Hungry.” The line is assertive and melodic, pushing the song’s momentum as much as the guitar or vocal, and it’s a reminder that the Raiders’ best singles were built on band interplay, not just a frontman and a hook.\n\nIn the Raiders’ classic lineup, Volk’s bass gave the recordings a sturdier low-end foundation than many contemporary pop-rock productions. That weight matters on tracks like “Kicks” and “Good Thing,” where the band’s punch comes from tight rhythmic coordination as much as from fuzz guitar or vocal dynamics.\n\nVolk also contributed creatively beyond the bass chair. He wrote or co-wrote material during his tenure, and his musical instincts leaned toward a tougher, more band-centric approach—one of the reasons the Raiders’ mid‑’60s records can sound surprisingly hard-edged beneath their polished singles sheen.\n\nLike several members of the classic lineup, Volk left in 1967 as musical tastes and ambitions shifted. The departure closed a chapter on the original hit-era unit, but it also reflected the broader late‑’60s transition from singles-and-TV pop to more album-oriented rock identity.\n\nAfter leaving the Raiders, Volk continued working in rock music in other groups and projects, including work with former bandmates. That continuity speaks to how tight the Raiders’ core musicianship was at their peak: even after the commercial moment shifted, the musical relationships remained.\n\nIn live settings, Volk’s role was always about propulsion—keeping the band’s tempo and dynamics locked while the front line delivered the show. That combination of reliable groove and visible stage presence was central to why the Raiders could keep pace with the demanding performance schedule of their peak years.\n\nVolk’s legacy within the Raiders story is the sound of the rhythm section during the big-hit run and a handful of unmistakable moments—especially the “Hungry” bass line—that prove how much of the band’s identity was built from the ground up."
+          }
+        },
+        {
+          "Name": "Mike \"Smitty\" Smith",
+          "Roles": [
+            "Drums",
+            "Backing vocals",
+            "Songwriter"
+          ],
+          "Years": "1962–1967; 1971–1972",
+          "Instruments": [
+            "Drums"
+          ],
+          "Overview": "Mike “Smitty” Smith was the Raiders’ powerhouse drummer through their mid‑’60s peak and a notable personality in the band’s live-and-TV presentation. He also wrote material and occasionally sang lead, including on “Our Candidate.”",
+          "Bio": {
+            "BioID": "bio-paul-revere-and-the-raiders-mike-smitty-smith",
+            "ArtistID": "paul-revere-and-the-raiders",
+            "ArtistName": "Paul Revere & the Raiders",
+            "MemberName": "Mike \"Smitty\" Smith",
+            "FullName": "Michael Leroy \"Smitty\" Smith",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Garage rock",
+              "Pop rock",
+              "Rock"
+            ],
+            "Birth": "March 27, 1942 (Portland, Oregon, U.S.) – March 6, 2001 (Kailua-Kona, Hawaii, U.S.)",
+            "ActiveYears": "1962–1972",
+            "AssociatedActs": [
+              "Paul Revere & the Raiders",
+              "Brotherhood",
+              "Friendsound"
+            ],
+            "KeyAlbums": [
+              "Midnight Ride",
+              "The Spirit of '67",
+              "Revolution!",
+              "Indian Reservation"
+            ],
+            "KeySongs": [
+              "Kicks",
+              "Hungry",
+              "Good Thing",
+              "Our Candidate"
+            ],
+            "Achievements": [
+              "Provided the driving drum sound for the Raiders’ biggest hit-era singles and their Where the Action Is performances.",
+              "Contributed songwriting during the band’s peak, including writing and singing lead on “Our Candidate.”",
+              "Returned for the early-’70s period that included the No. 1 single “Indian Reservation.”"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mike_%22Smitty%22_Smith"
+            },
+            "Biography": "Mike “Smitty” Smith was the Raiders’ drummer during the band’s most visible years, supplying the heavy, energetic playing that made their singles hit with authority. In a group known for stage antics and a recognizable TV image, Smith helped ensure the underlying music never felt lightweight.\n\nSmith joined the Raiders’ orbit in the early 1960s and quickly became part of the band’s core engine. The Raiders’ best records rely on tight, emphatic groove, and Smith’s drumming is a key reason songs like “Kicks” and “Hungry” feel like band performances rather than studio constructions.\n\nThe Raiders’ television workload required drummers who could deliver the same intensity in controlled studio conditions, day after day. Smith was not just steady; he was performative—his playing translated visually as well as sonically, a crucial asset in the *Where the Action Is* era.\n\nBeyond drums, Smith contributed as a writer and occasional vocalist. He wrote and sang lead on “Our Candidate,” a track from *The Spirit of ’67*, demonstrating that the Raiders’ musicianship extended beyond a single frontman model.\n\nIn the band’s classic mid‑’60s lineup, Smith’s style combined power with enough nuance to serve pop songcraft. The Raiders needed punch for hard-driving singles, but they also needed control and dynamics to keep radio mixes tight—Smith’s playing managed both.\n\nSmith left the group during the late‑’60s period when several members pursued different creative paths, but he later returned for the early‑’70s chapter of the Raiders story. That return connected him to the period that produced “Indian Reservation,” the band’s biggest commercial success.\n\nAfter the Raiders, Smith remained active in music through other projects, reflecting the broader pattern among Raiders alumni: musicians who were far more serious and skilled than the band’s costumed image sometimes suggested.\n\nSmith died in 2001 in Hawaii. In the Raiders’ catalogue, his contribution is felt most in the physical force of the recordings—the way the grooves stay tight while still sounding like a band pushing hard in real time.\n\nToday, Smith is often remembered as the drummer who helped make ‘Raider-Mania’ work: a player who could handle pop precision, rock energy, and the demands of constant performance without letting the music slip behind the show."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Jim \"Harpo\" Valley",
+          "Roles": [
+            "Lead guitar"
+          ],
+          "Years": "1966–1967",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "The Spirit of '67 (era)"
+          ],
+          "Replacing": "—",
+          "ReplacedBy": "Freddy Weller",
+          "Overview": "Jim “Harpo” Valley was part of the Raiders’ late‑1966/1967 transition period, credited as lead guitarist during a key moment when the band’s visibility and output were still extremely high. He appears in period photos from the era and is associated with the lineup changes that bridged the classic hit years into the next phase."
+        },
+        {
+          "Name": "Freddy Weller",
+          "Roles": [
+            "Lead guitar"
+          ],
+          "Years": "1967–1973",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Revolution!",
+            "Something Happening",
+            "Collage (era)"
+          ],
+          "Replacing": "Drake Levin (live/TV lead guitar role)",
+          "ReplacedBy": "Doug Heath (later lead guitar role)",
+          "Overview": "Freddy Weller took over as lead guitarist in 1967 and remained a major on-stage and studio presence through the early 1970s. His tenure covered the band’s shift toward the shortened name “Raiders” and the period leading up to their “Indian Reservation” resurgence. After leaving, he found notable success in country music, reflecting his stylistic range beyond the Raiders’ pop-rock format."
+        },
+        {
+          "Name": "Joe Correro Jr.",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1967–1971",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Something Happening (era)",
+            "Collage (era)",
+            "Indian Reservation (era)"
+          ],
+          "Replacing": "Mike \"Smitty\" Smith",
+          "ReplacedBy": "Omar Martinez (later era)",
+          "Overview": "Joe Correro Jr. joined after the classic lineup began to break apart and kept the Raiders’ live engine running through a crucial late‑’60s/early‑’70s transition. He handled the demanding touring schedule as the group adjusted its sound and personnel. In later years he remained active as a working musician, including jazz performance work."
+        },
+        {
+          "Name": "Keith Allison",
+          "Roles": [
+            "Bass guitar"
+          ],
+          "Years": "1968–1975",
+          "Instruments": [
+            "Bass guitar"
+          ],
+          "Albums": [
+            "Collage",
+            "Indian Reservation"
+          ],
+          "Replacing": "—",
+          "ReplacedBy": "Ron Foos (later bass role)",
+          "Overview": "Keith Allison became the Raiders’ bassist in 1968 and stayed through the band’s final Columbia years, spanning the shortened “Raiders” name and the early‑’70s chart revival. His period includes the band’s biggest late-career hit, “Indian Reservation,” and much of the touring that followed. He remained part of the Raiders story until his death in 2021."
+        },
+        {
+          "Name": "Charlie Coe",
+          "Roles": [
+            "Lead guitar",
+            "Bass guitar"
+          ],
+          "Years": "1963; 1967–1968",
+          "Instruments": [
+            "Guitar",
+            "Bass guitar"
+          ],
+          "Albums": [
+            "Early singles (1963 era)",
+            "Revolution! (era)"
+          ],
+          "Replacing": "—",
+          "ReplacedBy": "—",
+          "Overview": "Charlie Coe played in the Raiders during two different stretches—first as a 1963-era guitarist, and later returning in 1967 on bass as the classic lineup splintered. He was part of the personnel bridge that kept the group functioning through rapid changes. Coe has remained tied to the Raiders’ legacy through later appearances and association with Raiders alumni."
+        },
+        {
+          "Name": "Doug Heath",
+          "Roles": [
+            "Lead guitar"
+          ],
+          "Years": "1973–1976; 1978; 1980–2014",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Later touring era"
+          ],
+          "Replacing": "Freddy Weller (lead guitar role)",
+          "ReplacedBy": "—",
+          "Overview": "Doug Heath joined as lead guitarist in the 1970s and became one of the longest-running Raiders musicians in the later touring era. His extended tenure helped keep the live show consistent as the band operated more as a road institution than a fixed studio lineup. Heath is strongly associated with the post‑hit decades when the Raiders’ catalogue lived primarily through performance."
+        }
+      ]
     },
     {
       "ArtistID": "paul-simon",
