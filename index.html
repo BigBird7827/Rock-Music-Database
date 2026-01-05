@@ -1033,6 +1033,14 @@ const itemHTML = (a) => {
 
     const joinNonEmpty = (parts, sep) => parts.map(safe).map(s => s.trim()).filter(Boolean).join(sep);
 
+    const formatDateUS = (v) => {
+      const s = safe(v).trim();
+      const m = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+      if (!m) return s;
+      return `${m[2]}/${m[3]}/${m[1]}`;
+    };
+
+
     const renderBioOverlay = (artist, memberName) => {
       const core = Array.isArray(artist.CoreMembers) ? artist.CoreMembers : [];
       const member = core.find(m => normKey(m.Name) === normKey(memberName));
@@ -1046,8 +1054,8 @@ const itemHTML = (a) => {
       const birth = bio && bio.Birth ? bio.Birth : null;
       const death = bio && bio.Death ? bio.Death : null;
 
-      const birthLine = birth ? joinNonEmpty([birth.Date || birth.Year, birth.Place], " • ") : "";
-      const deathLine = death ? joinNonEmpty([death.Date || death.Year, death.Place, death.Cause], " • ") : "";
+      const birthLine = birth ? joinNonEmpty([birth.Date ? formatDateUS(birth.Date) : birth.Year, birth.Place], " • ") : "";
+      const deathLine = death ? joinNonEmpty([death.Date ? formatDateUS(death.Date) : death.Year, death.Place, death.Cause], " • ") : "";
 
       const cards = [];
       if (hasText(birthLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Birth</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(birthLine)}</p></div>`);
