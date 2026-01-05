@@ -7901,8 +7901,387 @@
     {
       "ArtistID": "billy-joel",
       "Name": "Billy Joel",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Solo",
+      "Origin": {
+        "City": "Hicksville",
+        "Region": "New York",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1965–present"
+      ],
+      "Genres": [
+        "Pop",
+        "Rock",
+        "Pop rock",
+        "Soft rock"
+      ],
+      "Labels": [
+        "Columbia",
+        "Family Productions",
+        "Sony Classical"
+      ],
+      "Overview": "Billy Joel is a New York–bred singer‑songwriter and pianist whose catalog helped define the album‑oriented rock and pop mainstream of the 1970s and 1980s. After early band work and an uneven start with his debut *Cold Spring Harbor* (1971), he broke through as a solo artist on Columbia Records—building a reputation for sharp, character‑driven storytelling and melodies that sit comfortably between rock drive and classic pop craft. His 1977 album *The Stranger* became a career‑turning blockbuster, and the follow‑up *52nd Street* topped the charts and won the Grammy for Album of the Year, cementing him as a major American songwriter.\n\nJoel’s best‑known songs—like “Piano Man,” “Just the Way You Are,” “Uptown Girl,” and “We Didn’t Start the Fire”—pair vivid scenes and conversational detail with a pianist’s sense of harmony and dynamics. While he largely stepped away from releasing new pop studio albums after *River of Dreams* (1993), his touring career remained enormous, culminating in a long-running monthly residency at Madison Square Garden that began on January 27, 2014. Honors including inductions into the Songwriters Hall of Fame and the Rock & Roll Hall of Fame, plus major cultural awards like the Kennedy Center Honors and the Library of Congress Gershwin Prize, reflect both his commercial reach and his lasting influence as a craftsman of modern American song.",
+      "NotableAlbums": [
+        {
+          "Title": "Cold Spring Harbor",
+          "Year": "1971",
+          "Notes": "A debut that introduced his piano‑led songwriting voice—rawer and more searching than the later hits, but already packed with character and melodic ambition."
+        },
+        {
+          "Title": "Piano Man",
+          "Year": "1973",
+          "Notes": "The record that turned him into a household name, pairing bar‑room storytelling with radio-ready hooks and establishing the “Piano Man” persona for good."
+        },
+        {
+          "Title": "Turnstiles",
+          "Year": "1976",
+          "Notes": "A New York statement piece—streetwise, emotional, and big‑hearted—often cited as the bridge between the early years and his blockbuster late‑’70s run."
+        },
+        {
+          "Title": "The Stranger",
+          "Year": "1977",
+          "Notes": "The career‑changing breakthrough: a hit‑packed album that proved he could deliver pop singles without losing depth, detail, or scene-setting."
+        },
+        {
+          "Title": "52nd Street",
+          "Year": "1978",
+          "Notes": "A chart‑topping follow‑up with a sleek, late‑night city feel—his first No. 1 album and a Grammy Album of the Year winner."
+        },
+        {
+          "Title": "Glass Houses",
+          "Year": "1980",
+          "Notes": "A sharpened rock posture with punchier rhythms and attitude, balancing arena energy with the piano‑writer’s sense of structure and release."
+        },
+        {
+          "Title": "The Nylon Curtain",
+          "Year": "1982",
+          "Notes": "More ambitious and darker in tone, it leans into heavier themes and meticulous studio texture while still delivering big melodic moments."
+        },
+        {
+          "Title": "An Innocent Man",
+          "Year": "1983",
+          "Notes": "A loving homage to doo‑wop and early R&B, showing his ability to inhabit older styles while keeping the songs unmistakably his own."
+        },
+        {
+          "Title": "Storm Front",
+          "Year": "1989",
+          "Notes": "A late‑’80s pivot with modern polish and major hits—combining big choruses with narrative bite and topical swing."
+        },
+        {
+          "Title": "River of Dreams",
+          "Year": "1993",
+          "Notes": "His last pop studio album for decades: soulful, reflective, and rooted in groove, with writing that feels older, wiser, and still sharply observant."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Piano Man",
+          "Year": "1973",
+          "Notes": "The definitive sing‑along narrative: a bar full of regulars sketched with novelistic detail, built on a rolling piano figure and a chorus that never leaves."
+        },
+        {
+          "Title": "New York State of Mind",
+          "Year": "1976",
+          "Notes": "A city-love ballad that captures New York as both place and temperament—melodic, restrained, and emotionally roomy."
+        },
+        {
+          "Title": "Just the Way You Are",
+          "Year": "1977",
+          "Notes": "A tender, classic-pop declaration that became one of his signature slow songs and a major awards-era centerpiece."
+        },
+        {
+          "Title": "It’s Still Rock and Roll to Me",
+          "Year": "1980",
+          "Notes": "A sly, self-aware rocker that flips trends into a catchy punchline—proof he could write with bite and still land a huge chorus."
+        },
+        {
+          "Title": "Uptown Girl",
+          "Year": "1983",
+          "Notes": "A sparkling doo‑wop throwback with a modern pop sheen—one of his most recognizable worldwide hits."
+        },
+        {
+          "Title": "We Didn’t Start the Fire",
+          "Year": "1989",
+          "Notes": "A rapid‑fire timeline of post‑war headlines and pop culture—part history lesson, part generational snapshot, delivered at breakneck speed."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1979",
+          "Title": "Grammy wins for *The Stranger* era singles and *52nd Street*",
+          "Details": "His run of late‑’70s releases culminated in *52nd Street* taking Album of the Year at the Grammys, alongside major song and performance awards for “Just the Way You Are.”"
+        },
+        {
+          "Year": "1990",
+          "Title": "Grammy Legend Award",
+          "Details": "Recognized by the Recording Academy for an exceptional body of work and long-term impact on popular music."
+        },
+        {
+          "Year": "1992",
+          "Title": "Songwriters Hall of Fame induction",
+          "Details": "Honored for songwriting that combines vivid narrative detail with durable pop craftsmanship."
+        },
+        {
+          "Year": "1999",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Celebrated as one of the defining American singer‑songwriters of the rock era."
+        },
+        {
+          "Year": "2013",
+          "Title": "Kennedy Center Honors",
+          "Details": "Received one of the United States’ highest cultural honors for his influence on American music and popular culture."
+        },
+        {
+          "Year": "2014",
+          "Title": "Library of Congress Gershwin Prize for Popular Song",
+          "Details": "Awarded for lifetime contributions to popular song and the enduring cultural reach of his catalog."
+        },
+        {
+          "Year": "2014",
+          "Title": "Madison Square Garden monthly residency launched",
+          "Details": "Began a long‑running monthly series at MSG on January 27, 2014—an unprecedented modern-era residency anchored by a deep catalog of hits."
+        }
+      ],
+      "KeyFacts": [
+        "Born May 9, 1949, in New York City and raised in Hicksville on Long Island.",
+        "Years active: 1965–present; established as a major solo artist on Columbia Records in the 1970s.",
+        "Breakthrough album: *The Stranger* (1977); first No. 1 album: *52nd Street* (1978).",
+        "Inducted into the Songwriters Hall of Fame (1992) and Rock & Roll Hall of Fame (1999).",
+        "Began a monthly Madison Square Garden residency on January 27, 2014."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.billyjoel.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Billy_Joel",
+        "Discography": "https://en.wikipedia.org/wiki/Billy_Joel_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Billy Joel",
+          "Roles": [
+            "lead vocals",
+            "piano",
+            "keyboards",
+            "harmonica",
+            "songwriting"
+          ],
+          "Years": "1965–present",
+          "Overview": "Pianist‑frontman and storyteller whose character sketches, New York portraits, and classic-pop craft made him one of the defining American hitmakers of the rock era.",
+          "Bio": {
+            "BioID": "bio-billy-joel-billy-joel",
+            "ArtistID": "billy-joel",
+            "ArtistName": "Billy Joel",
+            "MemberName": "Billy Joel",
+            "FullName": "William Martin Joel",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Piano",
+              "Keyboards",
+              "Harmonica"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Pianist",
+              "Musician"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Pop rock",
+              "Soft rock"
+            ],
+            "Birth": {
+              "Date": "1949-05-09",
+              "Place": "Bronx, New York City, New York, U.S."
+            },
+            "ActiveYears": [
+              "1965–present"
+            ],
+            "AssociatedActs": [
+              "The Hassles",
+              "Attila",
+              "Billy Joel Band"
+            ],
+            "KeyAlbums": [
+              "Piano Man",
+              "Turnstiles",
+              "The Stranger",
+              "52nd Street",
+              "Glass Houses",
+              "The Nylon Curtain",
+              "An Innocent Man",
+              "Storm Front",
+              "River of Dreams"
+            ],
+            "KeySongs": [
+              "Piano Man",
+              "New York State of Mind",
+              "Just the Way You Are",
+              "It’s Still Rock and Roll to Me",
+              "Uptown Girl",
+              "We Didn’t Start the Fire"
+            ],
+            "Achievements": [
+              "Became a defining American songwriter by pairing piano-driven pop craft with rock energy and novelistic, character-based lyrics.",
+              "Earned top-tier industry recognition, including a Grammy Legend Award and inductions into the Songwriters Hall of Fame and Rock & Roll Hall of Fame.",
+              "Built a rare long-term live legacy, including a landmark monthly Madison Square Garden residency beginning in 2014."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.billyjoel.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Billy_Joel"
+            },
+            "Biography": "William Martin “Billy” Joel was born in New York City on May 9, 1949, and grew up on Long Island in Hicksville, absorbing the sounds that would later echo through his writing—early rock and roll, classic pop standards, and the rhythm of New York streets. Piano lessons came early, and even as a teenager he treated music as something practical as well as passionate: a skill you could work at, refine, and ultimately live by.\n\nBefore he became a household name, Joel learned the realities of the business in local bands, chasing gigs, studio time, and momentum. Those years sharpened his instincts for arrangement and performance—the push and pull between a hook that lands immediately and a song that keeps unfolding on repeat listens. They also gave him a songwriter’s eye for the small details of everyday life that later became his signature.\n\nHis solo debut, *Cold Spring Harbor* (1971), didn’t immediately deliver the breakthrough he wanted, but it established the core of his identity: a pianist-frontman writing from the inside of ordinary conversations and late-night scenes. The early 1970s were a grind of rebuilding—finding the right label situation, the right band chemistry, and the right platform for songs to travel beyond the clubs.\n\nThat platform arrived when “Captain Jack” became a word-of-mouth radio phenomenon and led to a new deal with Columbia Records. With *Piano Man* (1973), Joel found the voice the public would recognize: half narrator, half participant, turning bars, diners, and city blocks into little short stories with choruses you could sing on the first listen. The title song, released as a 1973 single, became his calling card and a lifelong concert centerpiece.\n\nThrough the mid‑1970s, albums like *Turnstiles* (1976) expanded his palette—more New York, more bite, more confidence in mixing rock energy with piano‑driven elegance. By then he was also building a touring and recording ensemble that could play the music with both precision and swing, giving the songs the feel of a working band rather than a studio construction.\n\n*The Stranger* (1977) was the moment everything connected: writing, production, and timing. It produced a run of enduring hits and established Joel as someone who could write pop singles without sacrificing character or atmosphere. The immediate follow‑up, *52nd Street* (1978), pushed him to the top tier commercially and earned the Grammy for Album of the Year—proof that his blend of craft and accessibility could dominate both radio and the album charts.\n\nIn the 1980s, Joel kept changing the frame without losing the core. *Glass Houses* leaned harder into rock posture, while *The Nylon Curtain* aimed for darker, more ambitious themes and textures. Then *An Innocent Man* (1983) pivoted again—an affectionate salute to the vocal-group and R&B styles he loved growing up—showing how easily he could translate older musical languages into modern pop.\n\nLater albums like *Storm Front* (1989) and *River of Dreams* (1993) brought another wave of hits and an older perspective, culminating in what became his last pop studio album for many years. Even without a steady stream of new releases, his catalog stayed alive through constant re‑discovery: on radio, in film and television, and in concerts that treated the songs like shared cultural property rather than period pieces.\n\nJoel’s legacy is also inseparable from the stage. Decades into his career, he launched a monthly residency at Madison Square Garden in 2014, turning a hometown arena into a long-running chapter of his story and reaffirming the simple truth behind his durability: these songs still feel like people talking, laughing, arguing, and dreaming in real time. Whether he’s writing about a bartender’s regulars, a restless city, or the sweep of recent history, his best work sounds immediate—built from lived detail, crafted with a pianist’s touch, and engineered to last."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Liberty DeVitto",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1975–1990 (key touring/studio era)",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Turnstiles",
+            "The Stranger",
+            "52nd Street",
+            "Glass Houses",
+            "The Nylon Curtain",
+            "An Innocent Man",
+            "The Bridge",
+            "Kohuept"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A hard-hitting drummer central to Joel’s classic live feel, anchoring the groove through his late‑’70s and ’80s peak and helping translate piano-driven songs into arena-ready rock."
+        },
+        {
+          "Name": "Doug Stegmeyer",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1974–1989 (recording/touring)",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "Turnstiles",
+            "The Stranger",
+            "52nd Street",
+            "Glass Houses",
+            "The Nylon Curtain",
+            "An Innocent Man",
+            "The Bridge",
+            "Kohuept"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Longtime bassist whose tight, melodic playing and steady pocket were part of the signature “Billy Joel Band” sound across many of the era-defining records."
+        },
+        {
+          "Name": "Russell Javors",
+          "Roles": [
+            "guitar",
+            "harmonica",
+            "backing vocals"
+          ],
+          "Years": "1976–1987 (classic band era)",
+          "Instruments": [
+            "Guitar",
+            "Harmonica"
+          ],
+          "Albums": [
+            "Turnstiles",
+            "The Stranger",
+            "52nd Street",
+            "Glass Houses",
+            "The Nylon Curtain"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Rhythm guitarist and harmonica player who helped shape the mid‑to‑late‑’70s touring lineup, adding texture and vocal support to the songs that became live staples."
+        },
+        {
+          "Name": "Richie Cannata",
+          "Roles": [
+            "saxophone",
+            "woodwinds",
+            "keyboards",
+            "percussion"
+          ],
+          "Years": "1975–1981 (classic era)",
+          "Instruments": [
+            "Saxophone",
+            "Flute",
+            "Clarinet",
+            "Keyboards"
+          ],
+          "Albums": [
+            "Turnstiles",
+            "The Stranger",
+            "52nd Street",
+            "Glass Houses",
+            "Songs in the Attic"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Multi-instrumentalist best known for the early classic lineup, bringing distinctive sax and woodwind colors that broadened Joel’s sound beyond straight rock instrumentation."
+        },
+        {
+          "Name": "David Brown",
+          "Roles": [
+            "lead guitar",
+            "backing vocals"
+          ],
+          "Years": "1978–1990 (key band years)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "52nd Street",
+            "Glass Houses",
+            "Songs in the Attic",
+            "The Nylon Curtain",
+            "An Innocent Man",
+            "The Bridge"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Lead guitarist who added sharper edge and melodic leads during the late‑’70s/’80s run, helping the band hit harder live while keeping the arrangements polished."
+        },
+        {
+          "Name": "Mark Rivera",
+          "Roles": [
+            "saxophone",
+            "woodwinds",
+            "vocals",
+            "percussion"
+          ],
+          "Years": "1982–present (long-running band member)",
+          "Instruments": [
+            "Saxophone",
+            "Flute",
+            "Clarinet"
+          ],
+          "Albums": [
+            "The Nylon Curtain",
+            "An Innocent Man",
+            "The Bridge",
+            "Storm Front",
+            "River of Dreams"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A longtime horn-and-woodwinds presence in Joel’s live band, known for adding energy, harmonies, and punchy instrumental color across decades of touring."
+        }
+      ]
     },
     {
       "ArtistID": "billy-ocean",
