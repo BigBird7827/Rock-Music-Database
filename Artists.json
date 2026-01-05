@@ -28579,8 +28579,366 @@
     {
       "ArtistID": "steve-miller-band",
       "Name": "Steve Miller Band",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "San Francisco",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1966–present"
+      ],
+      "Genres": [
+        "Blues rock",
+        "Psychedelic rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Capitol",
+        "Mercury",
+        "Polydor",
+        "Roadrunner",
+        "Loud & Proud"
+      ],
+      "Overview": "The Steve Miller Band is an American rock band formed in San Francisco in 1966 and led by guitarist, singer, and songwriter Steve Miller. Rooted in late‑’60s psychedelic blues, the group’s early records helped place Miller in the Bay Area’s counterculture scene before the band pivoted toward a leaner, hook‑heavy style that blended blues phrasing with pop‑rock polish.\n\nThat shift paid off in the 1970s and early 1980s with a run of radio staples and major singles, including multiple U.S. Hot 100 No. 1 hits. Albums such as The Joker, Fly Like an Eagle, and Book of Dreams became era-defining releases, while the compilation Greatest Hits 1974–78 grew into one of the best‑selling titles in classic rock history. The band has continued as a touring and recording entity across decades, with Miller remaining its constant center.",
+      "NotableAlbums": [
+        {
+          "Title": "Children of the Future",
+          "Year": 1968,
+          "Notes": "Debut LP on Capitol, mixing blues foundations with psychedelic textures from the San Francisco scene."
+        },
+        {
+          "Title": "Sailor",
+          "Year": 1968,
+          "Notes": "Follow‑up album that kept the psychedelic blues approach while sharpening the band’s songwriting and groove."
+        },
+        {
+          "Title": "Brave New World",
+          "Year": 1969,
+          "Notes": "A key early-era release that leaned into acid‑blues experimentation and extended arrangements."
+        },
+        {
+          "Title": "The Joker",
+          "Year": 1973,
+          "Notes": "Breakthrough album anchored by the title track, which became the band’s first U.S. No. 1 hit."
+        },
+        {
+          "Title": "Fly Like an Eagle",
+          "Year": 1976,
+          "Notes": "Commercial peak that reached No. 2 on the Billboard 200 and produced several signature singles."
+        },
+        {
+          "Title": "Book of Dreams",
+          "Year": 1977,
+          "Notes": "Hit-packed follow‑up featuring staples like “Jet Airliner” and “Jungle Love.”"
+        },
+        {
+          "Title": "Greatest Hits 1974–78",
+          "Year": 1978,
+          "Notes": "Blockbuster compilation that later earned RIAA Diamond certification."
+        },
+        {
+          "Title": "Abracadabra",
+          "Year": 1982,
+          "Notes": "Early-’80s comeback album led by the synth‑tinged No. 1 single “Abracadabra.”"
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "The Joker",
+          "Year": 1973,
+          "Notes": "Signature groove-rock single that topped the U.S. Hot 100 and later returned to major charts internationally."
+        },
+        {
+          "Title": "Take the Money and Run",
+          "Year": 1976,
+          "Notes": "One of the defining singles from Fly Like an Eagle, pairing a tight narrative lyric with a big FM hook."
+        },
+        {
+          "Title": "Fly Like an Eagle",
+          "Year": 1976,
+          "Notes": "Title-track staple built around a floating groove and spacey production that became a classic-rock mainstay."
+        },
+        {
+          "Title": "Rock'n Me",
+          "Year": 1976,
+          "Notes": "High-energy rocker that became the band’s second U.S. Hot 100 No. 1 hit."
+        },
+        {
+          "Title": "Jet Airliner",
+          "Year": 1977,
+          "Notes": "A radio perennial from Book of Dreams, driven by a chugging riff and road-song momentum."
+        },
+        {
+          "Title": "Jungle Love",
+          "Year": 1977,
+          "Notes": "A punchy single from Book of Dreams that’s become a staple in the band’s hit canon."
+        },
+        {
+          "Title": "Swingtown",
+          "Year": 1977,
+          "Notes": "Bright, singalong pop-rock single that helped define the band’s late-’70s sound."
+        },
+        {
+          "Title": "Abracadabra",
+          "Year": 1982,
+          "Notes": "Synth-forward title track that became the band’s third U.S. Hot 100 No. 1 hit."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1974,
+          "Title": "U.S. Hot 100 No. 1 — “The Joker”",
+          "Details": "The band scored its first U.S. chart-topper with the title track from The Joker, establishing Steve Miller as a hitmaker beyond the Bay Area scene."
+        },
+        {
+          "Year": 1976,
+          "Title": "Fly Like an Eagle becomes a blockbuster era-definer",
+          "Details": "The album climbed to No. 2 on the Billboard 200 and yielded a run of staples including “Fly Like an Eagle,” “Take the Money and Run,” and “Rock'n Me.”"
+        },
+        {
+          "Year": 1976,
+          "Title": "U.S. Hot 100 No. 1 — “Rock'n Me”",
+          "Details": "The single reached the top spot on the Billboard Hot 100, confirming the band’s mid‑’70s commercial peak."
+        },
+        {
+          "Year": 1978,
+          "Title": "Greatest Hits 1974–78 becomes a long-term best-seller",
+          "Details": "The compilation grew into a perennial catalog title and later earned RIAA Diamond certification, placing it among the best-selling albums in U.S. history."
+        },
+        {
+          "Year": 1982,
+          "Title": "U.S. Hot 100 No. 1 — “Abracadabra”",
+          "Details": "The title track from Abracadabra hit No. 1 on the Billboard Hot 100, giving the band its third U.S. chart-topper."
+        },
+        {
+          "Year": 2016,
+          "Title": "Steve Miller inducted into the Rock & Roll Hall of Fame",
+          "Details": "Miller’s induction recognized his role as the band’s founder, principal songwriter, and defining voice across its most influential decades."
+        },
+        {
+          "Year": 2022,
+          "Title": "Steve Miller inducted into the Songwriters Hall of Fame",
+          "Details": "The honor highlighted Miller’s long-running songwriting catalog, including the band’s best-known singles and album tracks."
+        }
+      ],
+      "KeyFacts": [
+        "Originally formed under names including the Steve Miller Blues Band, with the core project evolving into the Steve Miller Band.",
+        "The band’s hit run spans three decades of major U.S. radio, with multiple Billboard Hot 100 No. 1 singles.",
+        "Greatest Hits 1974–78 is one of the most durable catalog titles in classic rock and earned RIAA Diamond certification.",
+        "“The Joker” gained a second wave of mainstream success internationally after appearing in a Levi’s television ad campaign in 1990."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.stevemillerband.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Steve_Miller_Band",
+        "Steve Miller (Rock Hall)": "https://rockhall.com/inductees/steve-miller/"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Steve Miller",
+          "Roles": [
+            "lead vocals",
+            "guitar",
+            "harmonica",
+            "keyboards",
+            "songwriter",
+            "producer"
+          ],
+          "Overview": "Founder, frontman, and principal songwriter whose guitar style and studio craft defined the band’s blend of blues roots and pop-rock hooks.",
+          "YearsActive": "1966–present",
+          "Years": "1966–present",
+          "Bio": {
+            "Birth": {
+              "Date": "October 5, 1943",
+              "Place": "Milwaukee, Wisconsin, U.S."
+            },
+            "Nationality": "American",
+            "Roles": "Musician, singer-songwriter, guitarist, bandleader, producer",
+            "Instruments": "Vocals, guitar, harmonica, keyboards",
+            "FullText": "Steven Haworth Miller was born in Milwaukee, Wisconsin, into a household where music was treated as both art and craft. His father, a physician with recording know-how, and his mother, a jazz-influenced singer, filled the home with musicians and sessions, giving Miller an unusually hands-on view of how sound is made.\n\nA family friendship with guitar innovator Les Paul and vocalist-guitarist Mary Ford became a formative early influence. Paul not only encouraged the young Miller’s interest in guitar, but also became his godfather—an origin story that helps explain Miller’s lifelong focus on tone, clarity, and studio detail.\n\nAfter the family moved to Dallas, Miller immersed himself in blues and R&B guitar traditions. He has credited the Texas environment—and direct contact with major blues figures—with deepening his vocabulary beyond rock’s surface gestures, pushing him toward the feel and phrasing that stayed in his playing for decades.\n\nBy the mid‑1960s Miller was working seriously as a musician, including a stint in Chicago’s blues orbit where he co-founded the Goldberg–Miller Blues Band with keyboardist Barry Goldberg. That period sharpened his bandleading instincts and connected him to a working-musician culture that prized groove, discipline, and repertoire.\n\nIn 1966 he relocated to San Francisco and formed what began as the Steve Miller Blues Band, quickly becoming a regular presence in the city’s exploding live scene. The group’s first wave of albums—Children of the Future, Sailor, Brave New World, and others—captured a psychedelic blues approach that fit the era while still pointing to Miller’s love of traditional American forms.\n\nThe breakthrough arrived in the 1970s when Miller streamlined his writing and production into concise, melodic singles without losing the blues bite in his guitar. The Joker delivered a signature title track and turned the band into a mainstream force, setting the stage for the hit-heavy mid‑’70s run.\n\nFly Like an Eagle and Book of Dreams cemented his reputation as a master of radio architecture: riff-first hooks, clean rhythmic pockets, and a studio sheen that could feel futuristic without sounding detached. Songs like “Rock'n Me,” “Take the Money and Run,” and “Jet Airliner” became staples, and the Greatest Hits 1974–78 compilation later grew into one of the era’s defining catalog juggernauts.\n\nMiller proved adaptable again in the early 1980s with Abracadabra, folding contemporary synth textures into his established approach and scoring another U.S. No. 1 single. Across later decades he kept the band active as a touring entity, often emphasizing blues fundamentals in live performance while maintaining the hit-driven setlists audiences expect.\n\nIndustry recognition eventually caught up with the breadth of his work: he was inducted into the Rock & Roll Hall of Fame in 2016 and the Songwriters Hall of Fame in 2022. Taken together, those honors underscore what listeners already knew—Miller’s catalog is built on songs that are simple on the surface, carefully engineered underneath, and unusually durable in the culture.",
+            "HonoursAndMilestones": [
+              "Founded the Steve Miller Band in 1966 and remained its only constant original member and principal songwriter.",
+              "Scored three U.S. Hot 100 No. 1 singles with the band: “The Joker,” “Rock'n Me,” and “Abracadabra.”",
+              "Greatest Hits 1974–78 earned RIAA Diamond certification and became one of the most enduring best-sellers in classic rock.",
+              "Inducted into the Rock & Roll Hall of Fame (2016).",
+              "Inducted into the Songwriters Hall of Fame (2022)."
+            ],
+            "FunFacts": [
+              "Les Paul—guitar innovator and recording pioneer—was Steve Miller’s godfather and an early musical influence.",
+              "Miller’s early records are as tied to the San Francisco psychedelic era as his later work is to FM radio’s classic-rock canon."
+            ],
+            "Sources": [
+              {
+                "Title": "Steve Miller Band (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Miller_Band"
+              },
+              {
+                "Title": "Steve Miller (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Miller_(musician)"
+              },
+              {
+                "Title": "Steve Miller Band — Bio (Official)",
+                "Url": "https://www.stevemillerband.com/bio/"
+              },
+              {
+                "Title": "Steve Miller — Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/steve-miller/"
+              },
+              {
+                "Title": "Steve Miller — Songwriters Hall of Fame",
+                "Url": "https://www.songhall.org/profiles/steve-miller"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Kenny Lee Lewis",
+          "Roles": [
+            "guitar",
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1982–1988, 1994–present (plus touring/return periods)",
+          "Instruments": [
+            "Guitar",
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Longtime touring and recording member who has alternated between guitar and bass roles while helping anchor the band’s live harmonies and rhythmic drive."
+        },
+        {
+          "Name": "Joseph Wooten",
+          "Roles": [
+            "keyboards",
+            "backing vocals"
+          ],
+          "Years": "1993–present",
+          "Instruments": [
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Keyboardist and vocalist who became a key part of the modern touring lineup, supporting the band’s groove-centered arrangements with organ and synth textures."
+        },
+        {
+          "Name": "Boz Scaggs",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "backing vocals"
+          ],
+          "Years": "1967–1968",
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "Children of the Future (1968)",
+            "Sailor (1968)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Early member who contributed guitar and vocals during the band’s first Capitol-era recordings before launching a major solo career."
+        },
+        {
+          "Name": "Lonnie Turner",
+          "Roles": [
+            "bass",
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "1966–1970, 1975–1978",
+          "Instruments": [
+            "Bass",
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "Children of the Future (1968)",
+            "Sailor (1968)",
+            "Fly Like an Eagle (1976)",
+            "Book of Dreams (1977)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Foundational bassist who helped shape the band’s early live sound and returned for the mid‑’70s hit era that produced many of its best-known singles."
+        },
+        {
+          "Name": "Ben Sidran",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "1968–1970 (recurring), 1987–1991",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Keyboardist who appeared in multiple periods of the band’s history, contributing to the evolving live arrangements across different eras."
+        },
+        {
+          "Name": "Gary Mallaber",
+          "Roles": [
+            "drums",
+            "keyboards",
+            "backing vocals"
+          ],
+          "Years": "1972, 1975–1987",
+          "Instruments": [
+            "Drums",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Fly Like an Eagle (1976)",
+            "Book of Dreams (1977)",
+            "Abracadabra (1982)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Key drummer during the band’s biggest commercial stretch, credited with helping lock in the tight, radio-friendly feel of the mid‑’70s and early ’80s records."
+        },
+        {
+          "Name": "Norton Buffalo",
+          "Roles": [
+            "harmonica",
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "1975–1978, 1982–1987, 1989–2009",
+          "Instruments": [
+            "Harmonica",
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Longtime harmonica player and vocalist whose parts became a signature live texture, especially in the band’s post‑’70s touring identity."
+        },
+        {
+          "Name": "Gordy Knudtson",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1987–2021",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Drummer who held the chair for decades in the modern touring lineup, providing continuity as the band continued performing its classic catalog."
+        }
+      ]
     },
     {
       "ArtistID": "stevie-nicks",
