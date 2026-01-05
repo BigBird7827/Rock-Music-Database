@@ -9925,26 +9925,276 @@
     {
       "ArtistID": "carpenters",
       "Name": "Carpenters",
-      "Type": "",
+      "Type": "Duo",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Downey",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1965–1983"
+      ],
+      "Genres": [
+        "Pop rock",
+        "Soft rock",
+        "Adult contemporary",
+        "Easy listening"
+      ],
+      "Labels": [
+        "A&M Records"
+      ],
+      "Overview": "Carpenters were an American sibling duo—Karen Carpenter (vocals, drums) and Richard Carpenter (keyboards, vocals)—whose clean, melodic blend of pop and soft rock made them one of the defining hitmakers of the early 1970s. Anchored by Karen’s warm contralto and Richard’s meticulous arranging and studio craft, they turned carefully chosen songs into radio staples, pairing intimate ballads with bright, mid‑tempo pop that fit both Top 40 and adult‑leaning formats.\n\nAfter signing with A&M Records in 1969, the duo broke wide with “(They Long to Be) Close to You,” then followed with a run of classic singles including “We’ve Only Just Begun,” “Rainy Days and Mondays,” “Superstar,” and “Top of the World.” Their albums—especially Close to You, Carpenters, and A Song for You—balanced studio polish with emotional directness, and their visibility was boosted by constant touring, television appearances, and dedicated TV specials. Karen’s death in 1983 ended the group’s original story, but the catalog has remained a perennial entry point for listeners discovering harmony‑driven pop songwriting and one of the era’s most distinctive voices.",
+      "NotableAlbums": [
+        {
+          "Title": "Ticket to Ride (originally released as Offering)",
+          "Year": 1969,
+          "Notes": "Debut album; later reissued under the title Ticket to Ride."
+        },
+        {
+          "Title": "Close to You",
+          "Year": 1970,
+          "Notes": "Breakthrough LP anchored by the No. 1 single “(They Long to Be) Close to You.”"
+        },
+        {
+          "Title": "Carpenters",
+          "Year": 1971,
+          "Notes": "Multi‑platinum core release featuring major hits including “For All We Know” and “Rainy Days and Mondays.”"
+        },
+        {
+          "Title": "A Song for You",
+          "Year": 1972,
+          "Notes": "Fan‑favorite studio set featuring “Top of the World” and “Goodbye to Love.”"
+        },
+        {
+          "Title": "Now & Then",
+          "Year": 1973,
+          "Notes": "Includes “Yesterday Once More” and the “Oldies Medley.”"
+        },
+        {
+          "Title": "The Singles: 1969–1973",
+          "Year": 1973,
+          "Notes": "Blockbuster compilation that became a signature entry point to the catalog."
+        },
+        {
+          "Title": "Horizon",
+          "Year": 1975,
+          "Notes": "Mid‑’70s studio album highlighted by “Only Yesterday” and “Solitaire.”"
+        },
+        {
+          "Title": "A Kind of Hush",
+          "Year": 1976,
+          "Notes": "Includes the title track and “I Need to Be in Love.”"
+        },
+        {
+          "Title": "Made in America",
+          "Year": 1981,
+          "Notes": "Final studio album released during the duo’s late‑career period."
+        }
+      ],
+      "SignatureSongs": [
+        "(They Long to Be) Close to You",
+        "We've Only Just Begun",
+        "For All We Know",
+        "Rainy Days and Mondays",
+        "Superstar",
+        "Top of the World",
+        "Goodbye to Love",
+        "Yesterday Once More",
+        "Only Yesterday",
+        "Please Mr. Postman",
+        "There's a Kind of Hush",
+        "I Need to Be in Love"
+      ],
+      "Achievements": [
+        {
+          "Year": "1970–1971",
+          "Title": "Three Grammy Awards (career total)",
+          "Details": "Won Best New Artist and a pop performance Grammy for “(They Long to Be) Close to You,” then won another pop performance Grammy the following year."
+        },
+        {
+          "Year": "1970s",
+          "Title": "Era‑defining chart run",
+          "Details": "Scored multiple No. 1 singles and a long string of Top 10/Top 40 hits, crossing from mainstream pop into adult contemporary radio."
+        },
+        {
+          "Year": "1973",
+          "Title": "The Singles: 1969–1973 became a landmark compilation",
+          "Details": "The collection dominated internationally and cemented the duo’s reputation as single‑focused hitmakers with a deep bench of recognizable songs."
+        },
+        {
+          "Year": "1974",
+          "Title": "American Music Awards recognition",
+          "Details": "Voted Favorite Pop/Rock Band, Duo, or Group at the first annual American Music Awards."
+        },
+        {
+          "Year": "1971–1975",
+          "Title": "Heavy touring and television visibility",
+          "Details": "Combined frequent one‑night concerts with major TV appearances and dedicated television specials, keeping the duo constantly in front of a mainstream audience."
+        },
+        {
+          "Year": "Legacy",
+          "Title": "Long‑running catalog impact",
+          "Details": "The duo’s recordings remain staples of oldies, soft rock, and adult contemporary playlists, with Karen’s voice often cited as one of pop’s most distinctive contraltos."
+        }
+      ],
+      "KeyFacts": [
+        "Although commonly referred to as “The Carpenters,” authorized recordings and press materials used the name “Carpenters.”",
+        "The duo’s signature sound paired Karen Carpenter’s contralto lead vocals with Richard Carpenter’s harmony stacks, arranging, and production.",
+        "They signed with A&M Records in 1969 and broke through nationally the following year with “(They Long to Be) Close to You.”",
+        "Karen was also a notable drummer; early performances often featured her singing from the kit before the stage show shifted to spotlight her at the front.",
+        "Their most concentrated hitmaking period came in the early‑to‑mid 1970s, supported by relentless touring and frequent television work.",
+        "Karen Carpenter died on February 4, 1983, ending the duo’s original run."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.carpentersofficial.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Carpenters",
+        "Discography": "https://en.wikipedia.org/wiki/The_Carpenters_discography"
       },
-      "CoreMembers": [],
+      "CoreMembers": [
+        {
+          "Name": "Karen Carpenter",
+          "Roles": [
+            "Lead vocals",
+            "Drums",
+            "Percussion"
+          ],
+          "Years": "1965–1983",
+          "Overview": "Karen Carpenter was the duo’s lead singer and an accomplished drummer whose warm contralto and intimate phrasing defined the Carpenters’ sound on record and onstage.",
+          "Bio": {
+            "BioID": "carpenters-karen-carpenter",
+            "ArtistID": "carpenters",
+            "ArtistName": "Carpenters",
+            "MemberName": "Karen Carpenter",
+            "FullName": "Karen Anne Carpenter",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Drums",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Singer",
+              "Drummer",
+              "Musician"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Soft rock",
+              "Adult contemporary",
+              "Easy listening"
+            ],
+            "Birth": {
+              "Date": "1950-03-02",
+              "Place": "New Haven, Connecticut, United States"
+            },
+            "Death": {
+              "Date": "1983-02-04",
+              "Place": "Downey, California, United States",
+              "Cause": "Heart failure related to complications of anorexia nervosa"
+            },
+            "ActiveYears": "1965–1983",
+            "AssociatedActs": [
+              "Carpenters",
+              "The Richard Carpenter Trio",
+              "Spectrum"
+            ],
+            "KeyAlbums": [
+              "Close to You (1970)",
+              "Carpenters (1971)",
+              "A Song for You (1972)",
+              "Now & Then (1973)"
+            ],
+            "KeySongs": [
+              "(They Long to Be) Close to You",
+              "We've Only Just Begun",
+              "Superstar",
+              "Rainy Days and Mondays",
+              "Top of the World",
+              "Yesterday Once More"
+            ],
+            "Achievements": [
+              "Recognized for a rare combination of lead‑vocal intimacy and serious drumming ability in a mainstream pop act.",
+              "Fronted a run of early‑1970s hits that helped define soft rock and adult contemporary radio.",
+              "Her 1983 death drew broad attention to eating disorders and their medical consequences."
+            ],
+            "Biography": "Karen Anne Carpenter grew up in a music‑minded household with her older brother Richard, and the two developed a tight musical bond long before they became stars. In school she initially leaned into performance as a drummer, building the kind of steady time and dynamic control that later made her feel uncommonly “grounded” as a singer.\n\nAs the siblings moved toward Los Angeles and began making demos, Karen’s voice quickly became the element that stopped people in their tracks. She wasn’t a showy belter; she sang with a close‑mic honesty that made listeners feel like she was in the room with them, and that intimacy became the emotional center of the duo’s records.\n\nWhen the Carpenters formed in the late 1960s, Karen’s early onstage role often combined singing with drumming, a visual and musical setup that set them apart from other pop acts of the time. Even when the show format later shifted to put her at the front of the stage for maximum connection, the “drummer who sang” identity stayed baked into how fans understood her musicianship.\n\nKaren’s best‑known performances are defined by restraint and control: she could float a line softly, then lean into a chorus with just enough weight to make it land without ever sounding forced. That approach fit the Carpenters’ repertoire perfectly—songs that relied on melody, harmony, and careful dynamic builds rather than big rock theatrics.\n\nIn the studio, her voice also worked as an instrument inside Richard’s dense, layered arrangements. She could deliver a lead that stayed clear and present while the background harmonies and orchestration swelled around it, which helped the group sound polished without feeling cold.\n\nThe early 1970s brought relentless momentum: hit singles, major television exposure, and a touring schedule that kept the duo constantly visible. For Karen, that pace came with pressure—public expectations, perfectionism, and the strain of keeping a pristine vocal sound night after night.\n\nBehind the scenes, Karen’s health began to deteriorate as an eating disorder took hold, and the problem intensified during the peak years when the schedule left little room to recover. Friends and colleagues later described a pattern of escalating control and anxiety, paired with a determination to meet every professional obligation.\n\nIn the later years of the duo’s career, Karen remained the unmistakable voice audiences came to hear, even as touring slowed and the group’s public activity became more intermittent. Her performances still carried that same combination of softness and strength—an ability to sound vulnerable while staying technically precise.\n\nKaren died on February 4, 1983, in Downey, California, at age 32, from heart failure related to complications of anorexia nervosa. The loss abruptly ended the Carpenters’ original story and reshaped how many listeners heard the emotional weight in her recordings.\n\nToday, Karen Carpenter is remembered not only for a run of classic songs, but for a vocal style that remains instantly recognizable—warm, human, and quietly devastating at its best. Her influence shows up whenever singers prioritize phrasing and emotional truth over flash, and her recordings continue to introduce new generations to the power of understatement in pop.",
+            "ExternalLinks": {
+              "Official Site": "https://www.carpentersofficial.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Karen_Carpenter"
+            }
+          }
+        },
+        {
+          "Name": "Richard Carpenter",
+          "Roles": [
+            "Keyboards",
+            "Vocals",
+            "Arranger",
+            "Producer",
+            "Songwriter"
+          ],
+          "Years": "1965–1983",
+          "Overview": "Richard Carpenter shaped the duo’s sound as its primary arranger and producer, building the layered harmonies and orchestration that framed Karen’s voice and kept the catalog instantly identifiable.",
+          "Bio": {
+            "BioID": "carpenters-richard-carpenter",
+            "ArtistID": "carpenters",
+            "ArtistName": "Carpenters",
+            "MemberName": "Richard Carpenter",
+            "FullName": "Richard Lynn Carpenter",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Piano",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Record producer",
+              "Arranger"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Soft rock",
+              "Adult contemporary",
+              "Easy listening"
+            ],
+            "Birth": {
+              "Date": "1946-10-15",
+              "Place": "New Haven, Connecticut, United States"
+            },
+            "ActiveYears": "1965–present",
+            "AssociatedActs": [
+              "Carpenters",
+              "The Richard Carpenter Trio",
+              "Spectrum"
+            ],
+            "KeyAlbums": [
+              "Close to You (1970)",
+              "Carpenters (1971)",
+              "A Song for You (1972)",
+              "Now & Then (1973)"
+            ],
+            "KeySongs": [
+              "We've Only Just Begun",
+              "Top of the World",
+              "Yesterday Once More",
+              "Superstar",
+              "Only Yesterday",
+              "Goodbye to Love"
+            ],
+            "Achievements": [
+              "Widely regarded for meticulous pop arranging and multi‑layered vocal production.",
+              "Helped define the polished soft‑rock sound that dominated mainstream and adult radio in the early 1970s.",
+              "Has overseen numerous reissues and remasters that shaped how later audiences discovered the catalog."
+            ],
+            "Biography": "Richard Lynn Carpenter showed an early aptitude for music and gravitated to piano and arranging, building a foundation that would later power the Carpenters’ studio identity. Long before the hits, he was already thinking like a producer—how to balance parts, how to stack harmonies, and how to make a pop record feel bigger than the sum of its instruments.\n\nWith Karen, Richard formed a sibling partnership that worked because their strengths interlocked. Karen’s voice carried emotional immediacy; Richard’s job was to build the environment around it—harmonies that supported the melody, chord choices that deepened the mood, and an overall sheen that still felt inviting.\n\nIn the late 1960s, the pair’s early groups and demo work sharpened Richard’s sense of repertoire and presentation. He developed a knack for hearing what a song could become after rearranging it—altering intros, tightening structures, and spotlighting the moments that would catch radio programmers and listeners.\n\nOnce the Carpenters signed with A&M Records, Richard’s role expanded quickly from band member to architect. He became closely associated with the group’s layered vocal sound, using harmonies and careful overdubs to create a bright, enveloping texture without losing clarity.\n\nRichard’s arranging also leaned orchestral without turning bombastic. Strings, horns, and woodwinds were used like color—sometimes just a line or a swell to lift a chorus, sometimes a fuller arrangement to give a ballad its gravity—always with the lead vocal kept front and center.\n\nThe duo’s peak years demanded constant output while they toured heavily, and Richard maintained a high standard of polish even under pressure. He balanced writing and co‑writing, arrangement decisions, and studio oversight with the practical reality that the act had to function night after night on the road.\n\nAs musical trends shifted later in the 1970s, Richard kept the core Carpenters identity intact while looking for ways to modernize the palette—new keyboard sounds, updated rhythms, and repertoire that could sit alongside contemporary radio without chasing it. That tightrope—evolving without erasing the brand—became a central challenge of the late‑career releases.\n\nAfter Karen’s death in 1983, Richard became the primary steward of the Carpenters’ recorded legacy. He has been involved in curated compilations, remastering work, and archival releases, shaping how the duo is presented to listeners who weren’t alive for the original run.\n\nPart of Richard’s reputation rests on craft: the ability to make harmony‑rich pop feel effortless, and to arrange vocals so they sound natural even when constructed from many layers. That skill has made the Carpenters a frequent reference point for musicians and producers studying how mainstream pop can be both clean and emotionally resonant.\n\nToday, Richard Carpenter is remembered not just as “the other half” of a famous duo, but as a producer‑arranger whose fingerprints are on every detail of the Carpenters’ sound—an enduring template for melody‑first pop that still feels carefully made and deeply human.",
+            "ExternalLinks": {
+              "Official Site": "https://www.richardandkarencarpenter.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Richard_Carpenter_(musician)"
+            }
+          }
+        }
+      ],
       "NonCoreMembers": []
     },
     {
