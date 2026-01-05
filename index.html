@@ -489,7 +489,7 @@ display:none;
         <div class="controls">
           <div class="pill" title="Search artists">
             <span style="color:rgba(242,242,247,.75);font-size:14px">🔎</span>
-            <input id="search" type="search" placeholder="Search artists…" autocomplete="off" />
+            <input id="search" type="search" placeholder="Search artists…" autocomplete="off" autofocus />
           </div>
         </div>
       </div>
@@ -530,6 +530,13 @@ display:none;
   </div>
 
   <script>
+    window.addEventListener("DOMContentLoaded", () => {
+      const s = document.getElementById("search");
+      if (s) {
+        try { s.focus({ preventScroll: true }); } catch (_) { try { s.focus(); } catch (_) {} }
+      }
+    });
+
     const RAW_ARTISTS_URL = "https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json";
 
     const state = { artists: [], filtered: [], selectedId: null };
