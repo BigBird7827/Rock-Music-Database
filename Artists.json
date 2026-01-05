@@ -7843,27 +7843,482 @@
     {
       "ArtistID": "bee-gees",
       "Name": "Bee Gees",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Redcliffe",
+        "Region": "Queensland",
+        "Country": "Australia"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1958–2003",
+        "2009–2012"
+      ],
+      "Genres": [
+        "Pop",
+        "Rock",
+        "Disco",
+        "Soul",
+        "Soft rock"
+      ],
+      "Labels": [
+        "Leedon",
+        "Spin",
+        "Festival",
+        "Polydor",
+        "Atco",
+        "RSO",
+        "Warner Bros.",
+        "Capitol"
+      ],
+      "Overview": "Bee Gees were a brother-led pop group built around the songwriting and harmonies of Barry, Robin, and Maurice Gibb. Formed in 1958 and refined through constant performing and recording, they developed a sound that could pivot from tender ballads to tightly arranged pop without losing their instantly recognizable three‑part blend. Their early international breakthrough in the late 1960s established them as major hitmakers, with dramatic melodies, vivid lyrics, and Robin’s distinctive lead vocal style becoming a hallmark of that era.\n\nIn the 1970s they reinvented themselves again—leaner, funkier, and dance‑floor ready—while still writing songs with strong hooks and emotional stakes. That evolution culminated in the massive global success of the *Saturday Night Fever* era, where their falsetto‑driven singles and immaculate studio craft helped define mainstream disco and pop at once. Across decades, the Bee Gees remained unusually consistent as writers and arrangers, shaping not only their own catalog but also the broader pop landscape through their production and songwriting for other artists, and earning major industry recognition for both performance and composition.",
+      "NotableAlbums": [
+        {
+          "Title": "Bee Gees' 1st",
+          "Year": "1967",
+          "Notes": "Their major international debut album, anchoring the group’s late‑’60s breakthrough with ornate pop arrangements and early classics like “To Love Somebody.”"
+        },
+        {
+          "Title": "Odessa",
+          "Year": "1969",
+          "Notes": "A lavish, ambitious double‑album that expanded their melodic and orchestral palette and is often cited as a high‑water mark of their late‑’60s artistry."
+        },
+        {
+          "Title": "Trafalgar",
+          "Year": "1971",
+          "Notes": "A return to chart dominance in the early ’70s, pairing big choruses with intimate ballad writing and setting up their next reinvention."
+        },
+        {
+          "Title": "Main Course",
+          "Year": "1975",
+          "Notes": "The turning point into a funk‑leaning, groove‑first sound; its sleek production and rhythmic focus paved the way for their late‑’70s peak."
+        },
+        {
+          "Title": "Children of the World",
+          "Year": "1976",
+          "Notes": "A stadium‑scale pop record that sharpened the band’s new identity and helped cement their mid‑’70s run of major hits."
+        },
+        {
+          "Title": "Saturday Night Fever (Soundtrack)",
+          "Year": "1977",
+          "Notes": "A cultural phenomenon and one of the best‑selling soundtracks ever; Bee Gees songs like “Stayin’ Alive,” “Night Fever,” and “How Deep Is Your Love” became era‑defining singles."
+        },
+        {
+          "Title": "Spirits Having Flown",
+          "Year": "1979",
+          "Notes": "A blockbuster follow‑up that sustained their chart dominance, balancing glossy disco‑pop with high‑end vocal harmonies and major radio singles."
+        },
+        {
+          "Title": "Still Waters",
+          "Year": "1997",
+          "Notes": "A late‑career comeback that reintroduced the group to a new generation, proving their songwriting and harmonies could thrive in a modern pop landscape."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "To Love Somebody",
+          "Year": "1967",
+          "Notes": "A signature early ballad that showcased their emotional songwriting and became a lasting standard covered widely across genres."
+        },
+        {
+          "Title": "Massachusetts",
+          "Year": "1967",
+          "Notes": "One of their defining early hits, built on bittersweet melody and the group’s blended vocals at full strength."
+        },
+        {
+          "Title": "I Started a Joke",
+          "Year": "1968",
+          "Notes": "A dramatic, introspective song associated with Robin’s lead vocal style and the group’s late‑’60s peak."
+        },
+        {
+          "Title": "How Can You Mend a Broken Heart",
+          "Year": "1971",
+          "Notes": "A soaring comeback ballad that reset their chart momentum and remains one of their most enduring recordings."
+        },
+        {
+          "Title": "Jive Talkin'",
+          "Year": "1975",
+          "Notes": "A groove‑centric reinvention that signaled their shift toward danceable R&B‑inflected pop."
+        },
+        {
+          "Title": "Nights on Broadway",
+          "Year": "1975",
+          "Notes": "A key step in developing Barry’s falsetto‑forward approach that would define their late‑’70s sound."
+        },
+        {
+          "Title": "Stayin' Alive",
+          "Year": "1977",
+          "Notes": "A defining *Saturday Night Fever* single—propulsive, sharp, and instantly recognizable—often treated as one of pop’s most iconic grooves."
+        },
+        {
+          "Title": "Night Fever",
+          "Year": "1977",
+          "Notes": "Another cornerstone of the soundtrack era, pairing bright falsetto hooks with immaculate studio polish."
+        },
+        {
+          "Title": "How Deep Is Your Love",
+          "Year": "1977",
+          "Notes": "A warm, romantic centerpiece of the *Saturday Night Fever* period and one of their most durable cross‑format hits."
+        },
+        {
+          "Title": "Tragedy",
+          "Year": "1979",
+          "Notes": "A late‑’70s peak single that fused pop melodrama with dance‑floor power and radio‑ready intensity."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1979",
+          "Title": "Grammy: Album of the Year for *Saturday Night Fever* (Soundtrack)",
+          "Details": "At the 21st Grammy Awards, the *Saturday Night Fever* soundtrack won Album of the Year, with the Bee Gees central to the record’s identity and global impact."
+        },
+        {
+          "Year": "1978",
+          "Title": "Grammy: Best Pop Performance by a Group for “How Deep Is Your Love”",
+          "Details": "Their *Saturday Night Fever* era included major Grammy recognition, including a win for the vocal performance on “How Deep Is Your Love.”"
+        },
+        {
+          "Year": "1994",
+          "Title": "Songwriters Hall of Fame induction (Barry, Robin & Maurice Gibb)",
+          "Details": "The brothers were honored for a songwriting catalog that shaped pop across multiple eras and influenced countless later writers and producers."
+        },
+        {
+          "Year": "1997",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted as performers for a decades‑spanning body of work that ran from late‑’60s pop classics through the defining singles of the disco era and beyond."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1958 by brothers Barry, Robin, and Maurice Gibb; the group’s name evolved from “BGs” to “Bee Gees.”",
+        "Known for tight three‑part harmonies and for reinventing their sound across eras, from late‑’60s orchestral pop to mid‑’70s groove‑driven hits.",
+        "Their songs for *Saturday Night Fever* became defining recordings of the late 1970s and helped make the soundtrack one of the best‑selling albums ever.",
+        "The group retired the Bee Gees name after Maurice Gibb’s death in January 2003; Barry and Robin later performed together again before Robin’s death in May 2012."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.beegees.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Bee_Gees",
+        "Discography": "https://en.wikipedia.org/wiki/Bee_Gees_discography",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/bee-gees/",
+        "Songwriters Hall of Fame (1994 Gala)": "https://www.songhall.org/shof-gala/1994-award-and-induction-ceremony"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Barry Gibb",
+          "Roles": [
+            "vocals",
+            "guitar",
+            "songwriting",
+            "production"
+          ],
+          "Years": "1958–2003; 2009–2012",
+          "Overview": "Eldest Gibb brother and the group’s most visible frontman, known for songwriting leadership and the falsetto-driven late‑’70s sound.",
+          "Bio": {
+            "BioID": "bio-bee-gees-barry-gibb",
+            "ArtistID": "bee-gees",
+            "ArtistName": "Bee Gees",
+            "MemberName": "Barry Gibb",
+            "FullName": "Barry Alan Crompton Gibb",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Disco",
+              "Soul",
+              "Soft rock"
+            ],
+            "Birth": {
+              "Date": "1946-09-01",
+              "Place": "Douglas, Isle of Man"
+            },
+            "ActiveYears": [
+              "1955–present"
+            ],
+            "AssociatedActs": [
+              "Bee Gees"
+            ],
+            "KeyAlbums": [
+              "Bee Gees' 1st",
+              "Main Course",
+              "Saturday Night Fever (Soundtrack)",
+              "Spirits Having Flown",
+              "Still Waters"
+            ],
+            "KeySongs": [
+              "Stayin' Alive",
+              "Night Fever",
+              "How Deep Is Your Love",
+              "Jive Talkin'",
+              "How Can You Mend a Broken Heart",
+              "Too Much Heaven",
+              "Tragedy",
+              "To Love Somebody"
+            ],
+            "Achievements": [
+              "Inducted into the Songwriters Hall of Fame (1994) for a catalog that helped define modern pop songwriting.",
+              "Inducted into the Rock & Roll Hall of Fame with the Bee Gees (1997).",
+              "Central to the *Saturday Night Fever* era, which earned major Grammy recognition and became one of the most commercially successful soundtrack projects ever."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Barry_Gibb",
+              "Official Bee Gees": "https://www.beegees.com/",
+              "Songwriters Hall of Fame": "https://www.songhall.org/shof-gala/1994-award-and-induction-ceremony"
+            },
+            "Biography": "Barry Gibb is the eldest of the Gibb brothers and the most enduring public face of the Bee Gees, known for steering the group through multiple stylistic reinventions without losing its melodic identity.\n\nBorn in 1946, Barry grew up in a household where music was both pastime and ambition; by his early teens he and his brothers were already performing regularly, learning crowd craft, timing, and harmony by necessity rather than theory.\n\nAs the Bee Gees coalesced into a serious writing-and-recording unit, Barry’s role expanded beyond lead vocal duties into arranging, directing sessions, and pushing songs from sketch to finished record with an editor’s instinct for structure.\n\nIn the late 1960s, the group’s breakthrough placed Barry inside the machinery of international pop, and he helped shape the Bee Gees’ signature approach: dramatic chord changes, stacked harmonies, and choruses engineered to feel inevitable.\n\nEven in that early era, Barry’s strengths weren’t limited to one style. He could write tender ballads with classical-like patience or lean into brighter, radio-forward pop without sacrificing emotional weight.\n\nThe mid‑1970s demanded reinvention, and Barry became central to the Bee Gees’ pivot toward rhythm and groove. The band’s writing tightened, the productions became leaner, and the songs started to move like dance records while still reading like pop songs.\n\nBarry’s falsetto—often treated as a novelty by outsiders—became a precision tool: expressive, athletic, and instantly identifiable. It turned the Bee Gees from respected hitmakers into a defining sound of late‑’70s pop.\n\nThe *Saturday Night Fever* period crystallized that transformation. Barry co-wrote and performed songs that felt both of the moment and oddly timeless, balancing club energy with craftsmanship that held up outside the dance floor.\n\nBeyond the Bee Gees’ own catalog, Barry became a high-impact songwriter and producer for other artists, applying the same hook discipline and harmonic sensibility to projects that ranged far outside the group’s core sound.\n\nThat behind-the-scenes work mattered because it proved the Bee Gees weren’t only performers of a trend—they were builders of songs. Even when fashion shifted, the writing remained portable and the melodies traveled.\n\nIn later decades, Barry helped guide the group through mature pop records and occasional comebacks, emphasizing vocals, storytelling, and the kind of chord movement that had always been their quiet signature.\n\nAfter Maurice’s death in 2003 and Robin’s in 2012, Barry became the sole surviving brother. His stewardship of the Bee Gees legacy has focused on the music itself—how the songs were made, how the harmonies were built, and why the records still connect.\n\nAcross eras, Barry’s defining trait is continuity: a willingness to change surface style while protecting the core values of melody, harmony, and emotional clarity that made the Bee Gees more than a phase in pop history."
+          }
+        },
+        {
+          "Name": "Robin Gibb",
+          "Roles": [
+            "vocals",
+            "songwriting"
+          ],
+          "Years": "1958–2003; 2009–2012",
+          "Overview": "The group’s dramatic early lead vocalist, recognized for a distinctive vibrato and emotionally direct performances on many late‑’60s classics.",
+          "Bio": {
+            "BioID": "bio-bee-gees-robin-gibb",
+            "ArtistID": "bee-gees",
+            "ArtistName": "Bee Gees",
+            "MemberName": "Robin Gibb",
+            "FullName": "Robin Hugh Gibb",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Disco",
+              "Soul",
+              "Soft rock"
+            ],
+            "Birth": {
+              "Date": "1949-12-22",
+              "Place": "Douglas, Isle of Man"
+            },
+            "ActiveYears": [
+              "1955–2012"
+            ],
+            "AssociatedActs": [
+              "Bee Gees",
+              "The Rattlesnakes"
+            ],
+            "KeyAlbums": [
+              "Bee Gees' 1st",
+              "Odessa",
+              "Trafalgar",
+              "Saturday Night Fever (Soundtrack)",
+              "Still Waters"
+            ],
+            "KeySongs": [
+              "Massachusetts",
+              "I Started a Joke",
+              "Words",
+              "How Can You Mend a Broken Heart",
+              "Stayin' Alive",
+              "Night Fever",
+              "How Deep Is Your Love"
+            ],
+            "Achievements": [
+              "Inducted into the Songwriters Hall of Fame (1994) with his brothers.",
+              "Inducted into the Rock & Roll Hall of Fame with the Bee Gees (1997)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Robin_Gibb",
+              "Official Bee Gees": "https://www.beegees.com/",
+              "Songwriters Hall of Fame": "https://www.songhall.org/shof-gala/1994-award-and-induction-ceremony"
+            },
+            "Biography": "Robin Gibb was the Bee Gees’ unmistakable emotional center in their early peak, celebrated for a lead vocal style that could sound fragile, urgent, and commanding in the same line.\n\nBorn in 1949 in the Isle of Man, Robin and his twin Maurice grew up alongside Barry in a family that treated music as a shared project; their childhood performing hardened them into professionals long before adulthood.\n\nIn the group’s formative years, Robin’s voice became a defining signature—clear, vibrato-rich, and dramatically expressive—perfect for the Bee Gees’ late‑’60s songs that often carried a theatrical sense of longing or tension.\n\nSongs associated with Robin’s leads helped establish the band’s identity as writers of sophisticated pop, where melodies turned unexpectedly and harmonies landed like punctuation instead of decoration.\n\nRobin also developed as a writer within the Bee Gees’ intensely collaborative process. The brothers’ habit of co-writing blurred individual credit lines, but Robin’s instincts for mood and narrative consistently shaped the band’s most bittersweet material.\n\nWhen the group’s sound shifted in the 1970s toward groove and dance‑floor momentum, Robin adapted rather than resisted, fitting his voice into new arrangements while keeping the melodic drama that made Bee Gees songs feel larger than their runtime.\n\nDuring the *Saturday Night Fever* era, Robin’s harmonies and vocal textures remained essential to the “Bee Gees” sound, even when Barry’s falsetto became the headline feature. The blend—the specific interlocking of timbres—was the real engine.\n\nRobin’s career also included solo work, where he explored similar emotional terrain with a different spotlight: less about the three‑brother blend and more about his singular phrasing and lyrical presence.\n\nEven as the Bee Gees navigated changing musical climates in the 1980s and 1990s, Robin continued to emphasize songwriting craft and melody, anchoring the group’s later records with the same seriousness they brought to the late 1960s.\n\nRecognition for the Gibb brothers’ writing arrived formally with major honors, reflecting the scale of their catalog and the fact that their biggest songs survived the era that birthed them.\n\nIn the final years of his life, Robin remained publicly identified with the Bee Gees story—part nostalgia, part ongoing work—until illness forced him out of the spotlight.\n\nRobin died in 2012, closing the chapter on the Bee Gees as a living, active group. What remains is the sound of his voice inside the band’s harmonies—an emotional fingerprint that fans can identify within seconds.\n\nRobin’s lasting legacy is the combination of vulnerability and precision: a pop vocalist unafraid of drama, delivering it with exacting control and a songwriter’s instinct for lines that land.",
+            "Death": {
+              "Date": "2012-05-20",
+              "Place": "London, England"
+            }
+          }
+        },
+        {
+          "Name": "Maurice Gibb",
+          "Roles": [
+            "vocals",
+            "multi-instrumentalist",
+            "songwriting",
+            "arrangement"
+          ],
+          "Years": "1958–2003",
+          "Overview": "Multi‑instrumentalist and harmony anchor whose musicianship and studio instincts helped shape the group’s arrangements across decades.",
+          "Bio": {
+            "BioID": "bio-bee-gees-maurice-gibb",
+            "ArtistID": "bee-gees",
+            "ArtistName": "Bee Gees",
+            "MemberName": "Maurice Gibb",
+            "FullName": "Maurice Ernest Gibb",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Bass",
+              "Guitar",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Disco",
+              "Soul",
+              "Soft rock"
+            ],
+            "Birth": {
+              "Date": "1949-12-22",
+              "Place": "Douglas, Isle of Man"
+            },
+            "ActiveYears": [
+              "1955–2003"
+            ],
+            "AssociatedActs": [
+              "Bee Gees"
+            ],
+            "KeyAlbums": [
+              "Bee Gees' 1st",
+              "Odessa",
+              "Main Course",
+              "Saturday Night Fever (Soundtrack)",
+              "Spirits Having Flown"
+            ],
+            "KeySongs": [
+              "To Love Somebody",
+              "Words",
+              "Jive Talkin'",
+              "Stayin' Alive",
+              "Night Fever",
+              "How Deep Is Your Love",
+              "Too Much Heaven",
+              "Tragedy"
+            ],
+            "Achievements": [
+              "Inducted into the Songwriters Hall of Fame (1994) with his brothers.",
+              "Inducted into the Rock & Roll Hall of Fame with the Bee Gees (1997).",
+              "His death in January 2003 led the group to retire the Bee Gees name."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Maurice_Gibb",
+              "Official Bee Gees": "https://www.beegees.com/",
+              "Songwriters Hall of Fame": "https://www.songhall.org/shof-gala/1994-award-and-induction-ceremony"
+            },
+            "Biography": "Maurice Gibb was the Bee Gees’ quiet multi-instrumental backbone, a musician’s musician who strengthened the band from the inside—arrangements, studio choices, and the flexible playing that made their productions feel complete.\n\nBorn in 1949 as Robin’s twin, Maurice grew up in the same fast-learning environment that shaped all three brothers: constant performing, constant harmonizing, and a belief that songs were built through repetition and refinement.\n\nWhile the Bee Gees are often summarized as “three voices,” Maurice helped make them sound like records rather than demos. He contributed across instruments and sessions, adding texture that supported the lead without crowding it.\n\nIn the late 1960s, as the group became international stars, Maurice’s musicianship and ear for harmony were key to translating ambitious songwriting into finished recordings that could stand beside the era’s most sophisticated pop.\n\nHis role became even more important during the 1970s reinvention, when the Bee Gees shifted toward rhythm-forward writing. Groove-heavy tracks demanded tighter band interplay and cleaner production decisions, and Maurice thrived in that space.\n\nMaurice’s contributions weren’t always flashy, but they were structural: parts that locked songs together, harmonies that balanced the blend, and subtle choices that made choruses hit harder.\n\nDuring the *Saturday Night Fever* period, the Bee Gees’ sound was famously precise. That precision depended on internal musicianship as much as on any single vocal feature, and Maurice’s steadiness helped keep the machine running.\n\nOutside the spotlight moments, he was known for being the brother who could move between roles—player, arranger, session collaborator—doing what a song needed rather than what an image required.\n\nAs the Bee Gees aged into later decades, Maurice remained central to their identity as a functioning band: not only a brand or a vocal trio, but a working unit that still cared about parts, takes, and the feel of a track.\n\nThe group’s major honors reflected decades of work, but Maurice’s legacy is easiest to hear in the records themselves: the way the harmony stack sits, the way the rhythm breathes, and the way the sound stays polished without turning sterile.\n\nMaurice died in January 2003, and the Bee Gees retired the group name afterward, acknowledging that the chemistry of the three brothers was inseparable from the identity of the band.\n\nHis death effectively ended the Bee Gees as an ongoing recording entity, but it also clarified how essential he had been—not just as a voice in the blend, but as the internal musician who helped make their best songs feel inevitable.\n\nMaurice’s place in the story is the craft behind the glamour: the musical completeness that allowed Bee Gees songs to travel across decades and still sound finished, alive, and deeply considered.",
+            "Death": {
+              "Date": "2003-01-12",
+              "Place": "Miami Beach, Florida, United States"
+            }
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Colin Petersen",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1967–1969",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Bee Gees' 1st",
+            "Horizontal",
+            "Idea",
+            "Odessa"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "The original non‑Gibb member during the group’s late‑’60s breakthrough, playing on key early recordings and helping solidify their live band sound before exiting in 1969."
+        },
+        {
+          "Name": "Vince Melouney",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1967–1969",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Bee Gees' 1st",
+            "Horizontal",
+            "Idea"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "An early guitarist who contributed during the band’s first international run, adding rock edge to the late‑’60s lineup before departing as the group’s direction shifted."
+        },
+        {
+          "Name": "Geoff Bridgford",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1971–1972",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Trafalgar",
+            "To Whom It May Concern"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A short-tenure drummer in the early 1970s, present during the band’s post‑comeback period as they refined the sound that would later evolve into their mid‑’70s reinvention."
+        },
+        {
+          "Name": "Dennis Bryon",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1974–1981",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Main Course",
+            "Children of the World",
+            "Saturday Night Fever (Soundtrack)",
+            "Spirits Having Flown"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A key drummer of the classic mid‑’70s through *Saturday Night Fever* era, helping drive the tight, dance‑ready grooves that powered their biggest global hits."
+        },
+        {
+          "Name": "Alan Kendall",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1971–1981",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Trafalgar",
+            "Main Course",
+            "Children of the World",
+            "Spirits Having Flown"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A longtime touring and studio guitarist who supported the band through multiple eras, including the run-up to their late‑’70s peak, adding steady rock guitar to polished pop productions."
+        }
+      ]
     },
     {
       "ArtistID": "berlin",
