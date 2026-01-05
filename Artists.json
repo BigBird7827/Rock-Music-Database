@@ -22069,7 +22069,302 @@
     },
     {
       "ArtistID": "paul-mccartney",
-      "Name": "Paul McCartney"
+      "Name": "Paul McCartney",
+      "Type": "Solo",
+      "Origin": {
+        "City": "Liverpool",
+        "Region": "Merseyside, England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1957–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Pop rock",
+        "Soft rock",
+        "Folk rock",
+        "Art rock"
+      ],
+      "Labels": [
+        "Apple",
+        "Parlophone",
+        "Capitol",
+        "Columbia",
+        "Hear Music",
+        "Concord"
+      ],
+      "Overview": "Paul McCartney is an English singer, songwriter, and multi-instrumentalist whose career spans from the Liverpool beat boom of the early 1960s to decades of stadium tours as a solo headliner. After co-founding The Beatles and helping define modern pop and rock songwriting, he launched a prolific solo catalog marked by melodic craft, genre-hopping curiosity, and a distinctive bass-and-voice signature that remains instantly recognizable.\n\nMcCartney’s post-Beatles work ranges from intimate, home-recorded experiments to polished pop, arena rock, and large-scale classical and collaborative projects. His early 1970s band Wings became one of the era’s biggest live and chart acts, and his later career has balanced new releases with a touring setlist that connects Beatles-era songwriting to enduring solo staples.",
+      "Achievements": [
+        {
+          "Year": "1963–1970",
+          "Title": "Global songwriting and recording dominance with The Beatles",
+          "Details": "As a principal songwriter and bassist in The Beatles, McCartney co-wrote and recorded a landmark body of work that reshaped popular music, studio practice, and international touring culture, establishing a catalog that remains among the most influential in rock and pop history."
+        },
+        {
+          "Year": "1971",
+          "Title": "Breakthrough of Wings and an early solo peak with “Ram”",
+          "Details": "In the first years after The Beatles, McCartney quickly proved his independence as a writer and producer. “Ram” helped establish his post-group voice—melodic, playful, and sonically adventurous—and became a long-running reference point for later power-pop and indie artists."
+        },
+        {
+          "Year": "1973–1974",
+          "Title": "Wings’ “Band on the Run” era becomes a defining 1970s rock peak",
+          "Details": "“Band on the Run” and its singles turned Wings into a dominant radio and touring force, combining cinematic rock writing with pop precision. The album’s success became the backbone of McCartney’s reputation as a major post-Beatles artist on his own terms."
+        },
+        {
+          "Year": "1982",
+          "Title": "Major pop resurgence with “Tug of War”",
+          "Details": "With “Tug of War,” McCartney returned to the top tier of mainstream pop and rock, pairing carefully crafted songs with high-profile collaborations and modern production for the era—reinforcing his ability to evolve without losing his melodic identity."
+        },
+        {
+          "Year": "1997",
+          "Title": "Knighted for services to music",
+          "Details": "McCartney was knighted in the United Kingdom, reflecting both his cultural impact and his long-running achievements as a songwriter, performer, and recording artist."
+        },
+        {
+          "Year": "1999",
+          "Title": "Inducted into the Rock & Roll Hall of Fame as a solo artist",
+          "Details": "After being inducted with The Beatles, McCartney received a separate Hall of Fame induction recognizing the breadth and longevity of his solo and post-Beatles work."
+        }
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "McCartney",
+          "Year": "1970",
+          "Notes": "A home-recorded, self-contained statement that introduced his post-Beatles independence—loose, intimate, and surprisingly influential for later DIY rock and pop approaches."
+        },
+        {
+          "Title": "Ram",
+          "Year": "1971",
+          "Notes": "A richly arranged, melody-forward album that blends pop sheen with eccentric textures; its reputation has grown steadily as one of his most creatively distinctive records."
+        },
+        {
+          "Title": "Band on the Run (Wings)",
+          "Year": "1973",
+          "Notes": "The signature Wings album and a career cornerstone—big hooks, adventurous structures, and a cinematic sweep that made it a perennial classic-rock staple."
+        },
+        {
+          "Title": "Venus and Mars (Wings)",
+          "Year": "1975",
+          "Notes": "A stadium-minded, song-dense record that captures Wings at full scale, mixing punchy rockers with lush pop and show-opening theatrics."
+        },
+        {
+          "Title": "Tug of War",
+          "Year": "1982",
+          "Notes": "A polished, emotionally varied pop-rock set that re-established him at the center of mainstream radio, pairing classic songwriting with an early-’80s sonic palette."
+        },
+        {
+          "Title": "Flaming Pie",
+          "Year": "1997",
+          "Notes": "A warm, back-to-basics collection that balances reflective writing with crisp craft, often cited as one of his strongest later-era studio albums."
+        },
+        {
+          "Title": "Chaos and Creation in the Backyard",
+          "Year": "2005",
+          "Notes": "A focused, performance-driven album with introspective songwriting and lean arrangements, highlighting McCartney’s musicianship and melodic discipline."
+        },
+        {
+          "Title": "Egypt Station",
+          "Year": "2018",
+          "Notes": "A modern, stylistically varied record framed as a journey, showing his continued interest in contemporary textures while keeping the songwriting center stage."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Maybe I’m Amazed",
+          "Year": "1970",
+          "Notes": "A towering, gospel-tinged rock ballad that became one of his most enduring solo performances, often treated as the definitive early post-Beatles statement."
+        },
+        {
+          "Title": "Uncle Albert/Admiral Halsey",
+          "Year": "1971",
+          "Notes": "A suite-like pop single that showcases his love of shifting sections and vocal character work, blending whimsy with meticulous studio craft."
+        },
+        {
+          "Title": "Live and Let Die",
+          "Year": "1973",
+          "Notes": "A Bond-theme blockbuster that fuses orchestral drama with rock attack, remaining a live-show peak and one of his biggest crossover hits."
+        },
+        {
+          "Title": "Band on the Run",
+          "Year": "1973",
+          "Notes": "A multi-part anthem that condenses cinematic storytelling into radio-friendly form—one of Wings’ defining tracks and a classic-rock staple."
+        },
+        {
+          "Title": "Jet",
+          "Year": "1973",
+          "Notes": "A hard-edged, riff-forward single that cemented Wings’ arena credentials and remains a signature burst of 1970s McCartney rock."
+        },
+        {
+          "Title": "Silly Love Songs",
+          "Year": "1976",
+          "Notes": "A buoyant, bass-driven pop-funk hit that doubles as a defense of romantic songwriting, built around one of his most memorable basslines."
+        },
+        {
+          "Title": "Coming Up",
+          "Year": "1980",
+          "Notes": "A playful, synthy pop-rock single that captured his knack for reinventing his sound while keeping the hook and vocal character front and center."
+        },
+        {
+          "Title": "Ebony and Ivory (with Stevie Wonder)",
+          "Year": "1982",
+          "Notes": "A massive early-’80s pop duet built around a simple, universal message, reflecting his collaborative reach and radio ubiquity in that era."
+        },
+        {
+          "Title": "Wonderful Christmastime",
+          "Year": "1979",
+          "Notes": "A seasonal staple that became a recurring holiday radio fixture, pairing a simple melody with bright, era-defining synth color."
+        }
+      ],
+      "KeyFacts": [
+        "McCartney is known for combining melodic bass lines with lead vocal and songwriting duties, making his bass work a defining part of the song rather than just the foundation.",
+        "His first decade after The Beatles includes both DIY home-recorded releases and large-scale arena productions, showing an unusual range of production approaches under one artist name.",
+        "Wings became one of the biggest touring and chart acts of the 1970s, giving McCartney a second blockbuster chapter beyond his Beatles-era success.",
+        "Across decades he has moved fluidly between rock, pop, acoustic songwriting, orchestral projects, and high-profile collaborations while keeping a recognizable melodic fingerprint.",
+        "His live shows are typically structured as a career-spanning set that treats Beatles, Wings, and solo material as one continuous catalog rather than separate eras."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.paulmccartney.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney",
+        "Discography": "https://en.wikipedia.org/wiki/Paul_McCartney_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Paul McCartney",
+          "Roles": [
+            "lead vocals",
+            "bass",
+            "guitar",
+            "piano",
+            "songwriter",
+            "producer"
+          ],
+          "Years": "1957–present",
+          "Overview": "Singer, songwriter, and multi-instrumentalist whose Beatles-era work and decades of solo output made him one of the defining figures in modern popular music.",
+          "Bio": "Paul McCartney was born in Liverpool, England, and grew up surrounded by the post-war mixture of radio pop, music-hall tradition, and American rock ’n’ roll that fueled the city’s teenage bands. Early on he showed the rare combination of quick musical learning, melodic instinct, and a competitive drive to turn ideas into finished songs.\n\nAs a teenager he met John Lennon and joined the group that became The Beatles, bringing a musician’s ear for harmony and arrangement to a partnership built on constant writing. McCartney’s gift for memorable melodic lines—often matched with tight chord movement—became central to the band’s evolving sound as they moved from club sets to global pop phenomena.\n\nDuring The Beatles’ peak years he expanded beyond bass-and-vocal duties into piano-driven ballads, hard rock, and studio experimentation, helping push the group toward increasingly ambitious recordings. His writing often balanced craft and accessibility, delivering hooks that felt effortless while hiding careful structure and arrangement behind the surface.\n\nWhen The Beatles ended, McCartney’s first solo phase emphasized independence and momentum rather than waiting for permission or perfect conditions. He recorded at home, played multiple instruments, and released music that ranged from intimate sketches to fully realized pop, proving he could build complete records outside the group framework.\n\nIn the early 1970s he formed Wings, turning a new band into a major touring and chart force. Wings’ best work combined arena-ready rock energy with pop clarity, and the group’s success gave McCartney a second headline era that stood on its own rather than living in Beatles shadow.\n\nHis 1980s output showed another reinvention: modernized production, high-profile collaborations, and a renewed presence on mainstream radio. Even when the sound shifted with the decade, his songwriting identity remained anchored in melody, harmonic movement, and a performer’s sense of how a chorus should land.\n\nFrom the 1990s onward, McCartney balanced new studio projects with a live career that became a global event in itself. His concerts typically link Beatles classics, Wings anthems, and solo staples into one continuous narrative, with a setlist designed to feel like a tour through modern pop history.\n\nOutside straightforward rock releases he has pursued orchestral and experimental interests, reflecting a long-running curiosity about composition and sound beyond the band format. That willingness to explore has helped keep the later decades of his catalog from feeling like mere nostalgia maintenance.\n\nAcross more than half a century, McCartney’s reputation rests on both volume and quality: a deep catalog of songs that range from intimate to epic, and a performance style that still treats the hook as sacred. His enduring appeal comes from the sense that the craft is real—the melodies, the bass lines, and the emotional clarity that keeps the songs alive for new listeners."
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Linda McCartney",
+          "Roles": [
+            "keyboards",
+            "backing vocals",
+            "songwriter"
+          ],
+          "Years": "1971–1998",
+          "Instruments": [
+            "keyboards",
+            "vocals"
+          ],
+          "Albums": [
+            "Ram",
+            "Band on the Run",
+            "Venus and Mars",
+            "Wings at the Speed of Sound",
+            "London Town",
+            "Back to the Egg"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "A central partner in McCartney’s early solo era and a core presence in Wings, contributing keyboards and vocals while helping define the band’s family-on-the-road identity and stage chemistry."
+        },
+        {
+          "Name": "Denny Laine",
+          "Roles": [
+            "guitar",
+            "backing vocals",
+            "songwriter"
+          ],
+          "Years": "1971–1981 (Wings era)",
+          "Instruments": [
+            "guitar",
+            "vocals"
+          ],
+          "Albums": [
+            "Red Rose Speedway",
+            "Band on the Run",
+            "Venus and Mars",
+            "Wings at the Speed of Sound",
+            "London Town",
+            "Back to the Egg"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "Long-time Wings guitarist and co-writer who provided a steady band counterweight to McCartney’s shifting arrangements, helping translate studio ambition into a durable touring unit."
+        },
+        {
+          "Name": "Henry McCullough",
+          "Roles": [
+            "lead guitar"
+          ],
+          "Years": "1972–1973 (Wings era)",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [
+            "Red Rose Speedway"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "Jimmy McCulloch",
+          "Overview": "Wings lead guitarist in the early touring years, known for a tougher rock tone that pushed the band toward a more aggressive live sound before the lineup evolved again."
+        },
+        {
+          "Name": "Jimmy McCulloch",
+          "Roles": [
+            "lead guitar"
+          ],
+          "Years": "1974–1977 (Wings era)",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [
+            "Venus and Mars",
+            "Wings at the Speed of Sound"
+          ],
+          "Replacing": "Henry McCullough",
+          "ReplacedBy": "Laurence Juber",
+          "Overview": "A young, highly regarded guitarist who brought sharp leads and rock credibility to Wings’ mid-’70s peak, adding bite and precision to a catalog built on melodic songwriting."
+        },
+        {
+          "Name": "Joe English",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1975–1977 (Wings era)",
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [
+            "Venus and Mars",
+            "Wings at the Speed of Sound"
+          ],
+          "Replacing": "Geoff Britton",
+          "ReplacedBy": "Steve Holly",
+          "Overview": "Wings drummer during the band’s arena years, providing a consistent, driving foundation on major tours and helping keep the live show tight as the arrangements expanded."
+        },
+        {
+          "Name": "Paul “Wix” Wickens",
+          "Roles": [
+            "keyboards",
+            "musical director",
+            "backing vocals"
+          ],
+          "Years": "1989–present (touring band)",
+          "Instruments": [
+            "keyboards",
+            "vocals"
+          ],
+          "Albums": [
+            "Tripping the Live Fantastic",
+            "Back in the U.S.",
+            "Good Evening New York City"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "Long-running keyboardist and stage anchor in McCartney’s modern touring band, known for keeping complex multi-era setlists cohesive while adding textures that support both Beatles classics and solo material."
+        }
+      ]
     },
     {
       "ArtistID": "paul-revere-and-the-raiders",
