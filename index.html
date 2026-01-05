@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Classic Rock Artists</title>
   <style>
-
     :root{
       --bg:#12113d;
       --panel:rgba(255,255,255,.07);
@@ -72,57 +71,19 @@
     .controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end}
     .pill{
       display:flex;align-items:center;gap:10px;
-      background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,.28));
-      border:1px solid rgba(212,175,55,.35);
+      background: rgba(0,0,0,.22);
+      border:1px solid rgba(255,255,255,.12);
       border-radius:16px;
       padding:10px 12px;
-      box-shadow: 0 12px 34px rgba(0,0,0,.50), inset 0 0 0 1px rgba(255,255,255,.06), 0 0 18px rgba(212,175,55,.10);
-      backdrop-filter: blur(8px);
-      transition: box-shadow .18s ease, border-color .18s ease, background .18s ease;
-}
-    .pill:focus-within{
-      border-color: rgba(212,175,55,.80);
-      box-shadow: 0 14px 40px rgba(0,0,0,.55), inset 0 0 0 1px rgba(212,175,55,.25), 0 0 0 3px rgba(212,175,55,.20);
+      box-shadow: 0 10px 30px rgba(0,0,0,.35);
 }
     .pill input{
-      border:0;outline:0;
-      background: rgba(255,255,255,.06);
-      color:var(--text);
+      border:0;outline:0;background:transparent;color:var(--text);
       width:260px;max-width:40vw;font-size:14px;
-      padding:6px 10px;
-      border-radius:12px;
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,.10);
-      caret-color: var(--gold);
-      transition: background .18s ease, box-shadow .18s ease;
     }
-    .pill input:focus{
-      background: rgba(255,255,255,.09);
-      box-shadow: inset 0 0 0 1px rgba(212,175,55,.28);
-    }
-    .pill input::placeholder{color:rgba(242,242,247,.72)}
-    /* Make the native search clear (“x”) button more visible */
-    #search::-webkit-search-cancel-button{
-      -webkit-appearance:none;
-      height:18px;width:18px;
-      cursor:pointer;
-      border-radius:999px;
-      background:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M7 7l10 10M17 7L7 17' stroke='%23000' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") center/12px 12px no-repeat,
-        linear-gradient(180deg, rgba(255,255,255,.85), rgba(212,175,55,.78));
-      box-shadow: 0 0 0 1px rgba(0,0,0,.38), 0 10px 22px rgba(0,0,0,.35);
-      opacity:.92;
-      margin-left:6px;
-    }
-    #search::-webkit-search-cancel-button:hover{
-      opacity:1;
-      box-shadow: 0 0 0 1px rgba(0,0,0,.45), 0 12px 26px rgba(0,0,0,.40), 0 0 0 3px rgba(212,175,55,.18);
-    }
-    #search::-webkit-search-cancel-button:active{
-      transform: scale(.96);
-    }
-    #search::-ms-clear{ display:none; }
+    .pill input::placeholder{color:rgba(242,242,247,.55)}
 
-main{
+    main{
       width:100%;
       padding:14px 0 18px;
       display:grid;
@@ -270,7 +231,6 @@ main{
       color: rgba(242,242,247,.78);
       line-height:1.1;
     }
-
 
     .grid{
       margin-top:14px;
@@ -462,7 +422,6 @@ display:none;
       background: rgba(242,242,247,.32);
     }
 
-
     .bioCard h3{
       margin:0 0 10px;
       font-size:14px;
@@ -511,7 +470,11 @@ display:none;
       .bioShell{inset: 14px 16px}
       .bioCard{grid-column: span 12}
     }
-  
+/* Virtualized list performance */
+    .list.vlist{position:relative}
+    .list.vlist .vItems{position:absolute;left:0;right:0;top:0}
+    .list.vlist .vSpacer{width:1px}
+    .list.vlist .item{margin-bottom:0}
 </style>
 </head>
 <body>
@@ -531,8 +494,7 @@ display:none;
             <span style="color:rgba(242,242,247,.75);font-size:14px">🔎</span>
             <input id="search" type="search" placeholder="Search artists…" autocomplete="off" autofocus />
           </div>
-        </div>
-      </div>
+</div>
     </header>
 
     <main>
@@ -580,6 +542,18 @@ display:none;
     const RAW_ARTISTS_URL = "https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json";
 
     const state = { artists: [], filtered: [], selectedId: null };
+
+
+    const focusSearch = () => {
+      if (!el.search) return;
+      try { el.search.focus({ preventScroll: true }); } catch (_) { try { el.search.focus(); } catch (_) {} }
+      try {
+        const v = safe(el.search.value);
+        el.search.setSelectionRange(v.length, v.length);
+      } catch (_) {}
+    };
+
+
 
     const PREVIEW_SECONDS = 15;
     let previewAudio = null;
@@ -658,8 +632,7 @@ display:none;
       bioTitle: document.getElementById("bioTitle"),
       bioSub: document.getElementById("bioSub"),
       bioBody: document.getElementById("bioBody"),
-      bioReturnBtn: document.getElementById("bioReturnBtn"),
-    };
+      bioReturnBtn: document.getElementById("bioReturnBtn")};
 
     const safe = (v) => (v == null ? "" : String(v));
     const escapeHtml = (s) => safe(s)
@@ -674,7 +647,141 @@ display:none;
       .replace(/[’‘]/g, "'")
       .replace(/[“”]/g, '"');
 
-    const withCacheBust = (url) => {
+    
+
+    function firstYearFromYearsActive(arr) {
+      if (!Array.isArray(arr)) return null;
+      let best = null;
+      for (const raw of arr) {
+        const s = String(raw || "");
+        const nums = s.match(/\b(19\d{2}|20\d{2})\b/g);
+        if (!nums || !nums.length) continue;
+        const y = parseInt(nums[0], 10);
+        if (!Number.isFinite(y)) continue;
+        if (best === null || y < best) best = y;
+      }
+      return best;
+    }
+
+    function computeArtistIndex(a) {
+      if (!a) return a;
+      try { a._sortName = stripThe(a.Name || ""); } catch (_) {}
+      try { a._filled = isFilled(a); } catch (_) {}
+      try { a._startYear = firstYearFromYearsActive(a.YearsActive); } catch (_) {}
+      try {
+        const hay = [
+          a.Name,
+          ...(a.Genres || []),
+          ...(a.YearsActive || []),
+          a.Type,
+          a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
+        ].filter(Boolean).join(" • ");
+        a._searchKey = normKey(hay);
+      } catch (_) {}
+      return a;
+    }
+
+    const vlist = {
+      enabled: false,
+      container: null,
+      spacer: null,
+      itemsHost: null,
+      pool: [],
+      data: [],
+      step: 64,
+      overscan: 8,
+      raf: 0,
+      setData(arr) {
+        this.data = Array.isArray(arr) ? arr : [];
+        if (!this.enabled) return;
+        const total = this.data.length;
+        this.spacer.style.height = Math.max(0, total * this.step) + "px";
+        this.render();
+      },
+      schedule() {
+        if (this.raf) return;
+        this.raf = requestAnimationFrame(() => {
+          this.raf = 0;
+          this.render();
+        });
+      },
+      ensurePool() {
+        const h = this.container.clientHeight || 0;
+        const needed = Math.min(this.data.length, Math.ceil(h / this.step) + this.overscan);
+        while (this.pool.length < needed) {
+          const node = document.createElement("div");
+          node.className = "item";
+          node.setAttribute("role", "button");
+          node.setAttribute("tabindex", "0");
+          node.style.position = "absolute";
+          node.style.left = "0";
+          node.style.right = "0";
+          this.itemsHost.appendChild(node);
+          this.pool.push(node);
+        }
+        while (this.pool.length > needed) {
+          const node = this.pool.pop();
+          try { node.remove(); } catch (_) {}
+        }
+      },
+      render() {
+        if (!this.enabled) return;
+        this.ensurePool();
+        const top = this.container.scrollTop || 0;
+        const start = Math.max(0, Math.floor(top / this.step));
+        for (let i = 0; i < this.pool.length; i++) {
+          const idx = start + i;
+          const node = this.pool[i];
+          if (idx >= this.data.length) {
+            node.style.display = "none";
+            continue;
+          }
+          const a = this.data[idx];
+          const id = safe(a.ArtistID || a.Name);
+          const active = state.selectedId === id ? "active" : "";
+          node.style.display = "";
+          node.style.transform = "translateY(" + (idx * this.step) + "px)";
+          node.setAttribute("data-id", id);
+          node.className = "item " + active;
+          node.innerHTML = `
+            <div><div class="itemName">${escapeHtml(a.Name)}</div></div>
+            <div class="itemMeta">${badgeHTML(a)}</div>
+          `;
+        }
+      },
+      init(container) {
+        this.container = container;
+        container.classList.add("vlist");
+        container.innerHTML = "";
+        const spacer = document.createElement("div");
+        spacer.className = "vSpacer";
+        const host = document.createElement("div");
+        host.className = "vItems";
+        container.appendChild(spacer);
+        container.appendChild(host);
+        this.spacer = spacer;
+        this.itemsHost = host;
+
+        const probe = document.createElement("div");
+        probe.className = "item";
+        probe.style.position = "absolute";
+        probe.style.visibility = "hidden";
+        probe.style.left = "0";
+        probe.style.right = "0";
+        probe.style.top = "0";
+        probe.innerHTML = `<div><div class="itemName">Probe</div></div><div class="itemMeta"></div>`;
+        host.appendChild(probe);
+        const gap = 10;
+        const h = probe.offsetHeight || 54;
+        try { probe.remove(); } catch (_) {}
+        this.step = Math.max(44, h + gap);
+        this.enabled = true;
+
+        container.addEventListener("scroll", () => this.schedule(), { passive: true });
+        window.addEventListener("resize", () => this.schedule(), { passive: true });
+      }
+    };
+const withCacheBust = (url) => {
       const u = new URL(url);
       const params = new URLSearchParams(window.location.search);
       if (params.get("cb") === "1") u.searchParams.set("cb", String(Date.now()));
@@ -695,6 +802,7 @@ display:none;
       if (!a) return false;
       for (const [k, v] of Object.entries(a)) {
         if (k === "ArtistID" || k === "Name") continue;
+        if (k && k.startsWith("_")) continue;
         if (hasMeaningfulValue(v)) return true;
       }
       return false;
@@ -709,23 +817,25 @@ display:none;
       </span>`;
     };
 
-    const matches = (a, q) => {
-      if (!q) return true;
-      const hay = [
-        a.Name,
-        ...(a.Genres || []),
-        ...(a.YearsActive || []),
-        a.Type,
-        a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
-      ].filter(Boolean).join(" • ");
-      return normKey(hay).includes(normKey(q));
+    
+    const matches = (a, qKey) => {
+      if (!qKey) return true;
+      const hayKey = a && a._searchKey ? a._searchKey : normKey([
+        a && a.Name,
+        ...((a && a.Genres) || []),
+        ...((a && a.YearsActive) || []),
+        a && a.Type,
+        a && a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
+      ].filter(Boolean).join(" • "));
+      return hayKey.includes(qKey);
     };
 
     const stripThe = (n) => safe(n).replace(/^the\s+/i, "");
 
+    
     const sortArtists = (arr) => [...arr].sort((a, b) => stripThe(a.Name).localeCompare(stripThe(b.Name)));
 
-    const itemHTML = (a) => {
+const itemHTML = (a) => {
       const name = escapeHtml(a.Name);
       const id = escapeHtml(a.ArtistID || a.Name);
       const active = state.selectedId === id ? "active" : "";
@@ -744,12 +854,19 @@ display:none;
       el.count.textContent = `${shown} shown • ${total} total • ${filled} filled`;
     };
 
+    
     const renderList = () => {
       const q = safe(el.search.value);
-      const filtered = state.artists.filter(a => matches(a, q));
+      const qKey = normKey(q);
+      let filtered = state.artists.filter(a => matches(a, qKey));
       state.filtered = sortArtists(filtered);
       setCount();
-      el.list.innerHTML = state.filtered.map(itemHTML).join("");
+
+      if (vlist.enabled) {
+        vlist.setData(state.filtered);
+      } else {
+        el.list.innerHTML = state.filtered.map(itemHTML).join("");
+      }
     };
 
     const chips = (a) => {
@@ -891,48 +1008,6 @@ display:none;
 
     const joinNonEmpty = (parts, sep) => parts.map(safe).map(s => s.trim()).filter(Boolean).join(sep);
 
-    const formatUSDate = (v) => {
-      const raw = safe(v).trim();
-      if (!raw) return raw;
-
-      const s = raw.replace(/\s+/g, " ").trim();
-
-      // ISO: YYYY-MM-DD or YYYY/MM/DD (optionally with time)
-      const iso = s.match(/^(\d{4})[\/-](\d{1,2})[\/-](\d{1,2})(?:[T\s].*)?$/);
-      if (iso) {
-        const yyyy = iso[1];
-        const mm = String(iso[2]).padStart(2, "0");
-        const dd = String(iso[3]).padStart(2, "0");
-        return `${mm}/${dd}/${yyyy}`;
-      }
-
-      // Already US: MM/DD/YYYY
-      const us = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
-      if (us) {
-        const mm = String(us[1]).padStart(2, "0");
-        const dd = String(us[2]).padStart(2, "0");
-        const yyyy = us[3];
-        return `${mm}/${dd}/${yyyy}`;
-      }
-
-      // UK or ambiguous numeric: DD/MM/YYYY or DD-MM-YYYY (default to DD/MM when ambiguous)
-      const uk = s.match(/^(\d{1,2})[\/-](\d{1,2})[\/-](\d{4})$/);
-      if (uk) {
-        const a = parseInt(uk[1], 10);
-        const b = parseInt(uk[2], 10);
-        const yyyy = uk[3];
-
-        let dd, mm;
-        if (a > 12 && b <= 12) { dd = a; mm = b; }
-        else if (b > 12 && a <= 12) { mm = a; dd = b; }
-        else { dd = a; mm = b; }
-
-        return `${String(mm).padStart(2, "0")}/${String(dd).padStart(2, "0")}/${yyyy}`;
-      }
-
-      return s;
-    };
-
     const renderBioOverlay = (artist, memberName) => {
       const core = Array.isArray(artist.CoreMembers) ? artist.CoreMembers : [];
       const member = core.find(m => normKey(m.Name) === normKey(memberName));
@@ -946,8 +1021,8 @@ display:none;
       const birth = bio && bio.Birth ? bio.Birth : null;
       const death = bio && bio.Death ? bio.Death : null;
 
-      const birthLine = birth ? joinNonEmpty([formatUSDate(birth.Date) || birth.Year, birth.Place], " • ") : "";
-      const deathLine = death ? joinNonEmpty([formatUSDate(death.Date) || death.Year, death.Place, death.Cause], " • ") : "";
+      const birthLine = birth ? joinNonEmpty([birth.Date || birth.Year, birth.Place], " • ") : "";
+      const deathLine = death ? joinNonEmpty([death.Date || death.Year, death.Place, death.Cause], " • ") : "";
 
       const cards = [];
       if (hasText(birthLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Birth</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(birthLine)}</p></div>`);
@@ -1082,17 +1157,35 @@ display:none;
       return Array.isArray(data) ? data : (Array.isArray(data.Artists) ? data.Artists : []);
     };
 
-    const init = async () => {
+    
+    window.addEventListener("pageshow", () => {
+      setTimeout(focusSearch, 0);
+      setTimeout(focusSearch, 120);
+    });
+
+    document.addEventListener("visibilitychange", () => {
+      if (!document.hidden) {
+        setTimeout(focusSearch, 0);
+        setTimeout(focusSearch, 120);
+      }
+    });
+
+const init = async () => {
       try {
-        state.artists = await loadArtists();
+        state.artists = (await loadArtists()).map(computeArtistIndex);
+        if (el.list && !vlist.enabled) vlist.init(el.list);
         state.filtered = sortArtists(state.artists);
         setCount();
-        el.list.innerHTML = state.filtered.map(itemHTML).join("");
-      } catch (e) {
+        renderList();
+} catch (e) {
         el.count.textContent = "Failed to load Artists.json";
         el.list.innerHTML = `<div class="empty" style="margin:10px"><h2>Error</h2><p>${escapeHtml(e && (e.message || e))}</p></div>`;
       }
+
+      setTimeout(focusSearch, 0);
+      setTimeout(focusSearch, 120);
     };
+
 
     el.list.addEventListener("click", (e) => onListActivate(e.target));
     el.list.addEventListener("keydown", (e) => {
