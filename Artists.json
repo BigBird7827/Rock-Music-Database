@@ -28048,8 +28048,286 @@
     {
       "ArtistID": "styx",
       "Name": "Styx",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Chicago",
+        "Region": "Illinois",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1972–1984",
+        "1990–1992",
+        "1995–present"
+      ],
+      "Genres": [
+        "Progressive rock",
+        "Art rock",
+        "Hard rock",
+        "Arena rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Wooden Nickel",
+        "A&M",
+        "Sanctuary",
+        "CMC International",
+        "New Door"
+      ],
+      "Overview": "Styx are a Chicago rock band formed in 1972, best known for mixing muscular guitar-driven rock with layered vocal harmonies, keyboards, and a theatrical streak that let them move easily between progressive-leaning album tracks and radio-ready singles. Across the late 1970s and early 1980s, they became an arena headliner with a run of blockbuster albums and a catalog that still anchors classic‑rock radio, including “Come Sail Away,” “Renegade,” “Too Much Time on My Hands,” and “Mr. Roboto.”\n\nTheir peak era is often framed by two signature approaches: big hooks delivered by multiple lead vocalists, and ambitious concept-driven releases. In 1979, “Babe” became the band’s only U.S. No. 1 single, and in 1981 Paradise Theatre reached No. 1 on the Billboard 200 and stayed there for a total of three nonconsecutive weeks. Even with lineup changes and long hiatuses, Styx’s identity has remained tied to that blend of melodic craft, technical polish, and stage-sized drama.",
+      "NotableAlbums": [
+        {
+          "Year": "1973",
+          "Title": "Styx II",
+          "Details": "The album that introduced the band to a wider audience thanks to the later breakout single “Lady,” helping set the template for Styx’s mix of melodic rock and big choruses."
+        },
+        {
+          "Year": "1977",
+          "Title": "The Grand Illusion",
+          "Details": "The breakthrough A&M release that pushed Styx into arena level, pairing sharp hooks with prog‑leaning arrangements; it later earned RIAA certification and produced enduring staples like “Come Sail Away.”"
+        },
+        {
+          "Year": "1978",
+          "Title": "Pieces of Eight",
+          "Details": "A peak‑era follow‑up that kept the band’s momentum rolling and produced major rock-radio favorites including “Renegade” and “Blue Collar Man (Long Nights).”"
+        },
+        {
+          "Year": "1979",
+          "Title": "Cornerstone",
+          "Details": "A cleaner, more pop‑leaning album that still carried the band’s signature harmonies and keyboards; it included “Babe,” their lone U.S. No. 1 single."
+        },
+        {
+          "Year": "1981",
+          "Title": "Paradise Theatre",
+          "Details": "A concept album built around the rise-and-fall story of a once-great venue; it became Styx’s biggest commercial success and peaked at No. 1 on the Billboard 200."
+        },
+        {
+          "Year": "1983",
+          "Title": "Kilroy Was Here",
+          "Details": "A highly theatrical, story-driven record that produced “Mr. Roboto” and remains a lightning-rod entry in the band’s catalog for its ambition and synth-forward sound."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": "1975",
+          "Title": "Lady",
+          "Details": "A slow-building ballad that became Styx’s first major hit and helped turn their early catalog into a long-running radio presence."
+        },
+        {
+          "Year": "1977",
+          "Title": "Come Sail Away",
+          "Details": "Written and sung by Dennis DeYoung, the band’s signature crossover hit; it peaked at No. 8 on the Billboard Hot 100 and became one of their defining songs."
+        },
+        {
+          "Year": "1978",
+          "Title": "Fooling Yourself (The Angry Young Man)",
+          "Details": "A driving, keyboard-and-guitar showcase that captures Styx at their progressive‑rock peak and remains a classic-rock staple."
+        },
+        {
+          "Year": "1979",
+          "Title": "Renegade",
+          "Details": "Tommy Shaw’s hard-rock anthem about a captured outlaw; it peaked at No. 16 on the Billboard Hot 100 and is one of the band’s most recognizable riffs."
+        },
+        {
+          "Year": "1979",
+          "Title": "Babe",
+          "Details": "A power ballad written by Dennis DeYoung; Styx’s first and only U.S. No. 1 single."
+        },
+        {
+          "Year": "1981",
+          "Title": "The Best of Times",
+          "Details": "A major Paradise Theatre single written by Dennis DeYoung that reached the Top 5 on the Billboard Hot 100 and became one of the band’s best-known later hits."
+        },
+        {
+          "Year": "1981",
+          "Title": "Too Much Time on My Hands",
+          "Details": "Written by Tommy Shaw, a high-energy single from Paradise Theatre that reached the Top 10 on the Billboard Hot 100."
+        },
+        {
+          "Year": "1983",
+          "Title": "Mr. Roboto",
+          "Details": "A synth-driven, story-anchored hit from Kilroy Was Here that remains one of Styx’s most culturally recognizable songs."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1984",
+          "Title": "RIAA certification for The Grand Illusion",
+          "Details": "The Grand Illusion received an RIAA certification dated November 14, 1984, reflecting its long-running U.S. sales strength and its role as Styx’s arena-era breakthrough."
+        },
+        {
+          "Year": "1984",
+          "Title": "RIAA certification for Pieces of Eight",
+          "Details": "Pieces of Eight received an RIAA certification dated November 14, 1984, bolstered by enduring radio staples including “Renegade” and “Blue Collar Man (Long Nights).”"
+        },
+        {
+          "Year": "1984",
+          "Title": "RIAA certification for Cornerstone",
+          "Details": "Cornerstone received an RIAA certification dated November 14, 1984; the album includes “Babe,” the band’s only U.S. No. 1 single."
+        },
+        {
+          "Year": "1981",
+          "Title": "Paradise Theatre reaches No. 1 on the Billboard 200",
+          "Details": "Paradise Theatre became Styx’s most commercially successful album, peaking at No. 1 on the Billboard 200 and spending three nonconsecutive weeks at the top in spring 1981."
+        },
+        {
+          "Year": "1979",
+          "Title": "“Babe” becomes Styx’s only U.S. No. 1 single",
+          "Details": "“Babe” reached No. 1 on the Billboard Hot 100 in December 1979 and remains the band’s sole U.S. chart-topper."
+        },
+        {
+          "Year": "1983",
+          "Title": "RIAA certification for Kilroy Was Here and “Mr. Roboto”",
+          "Details": "RIAA listings show Kilroy Was Here (album) certified April 29, 1983 and “Mr. Roboto” (single) certified May 16, 1983, reflecting the commercial impact of the band’s theatrical early‑’80s era."
+        }
+      ],
+      "KeyFacts": [
+        "Styx’s classic era is defined by multiple lead singers (Dennis DeYoung, Tommy Shaw, and James “J.Y.” Young), allowing the band to shift tone from hard rock to power ballads without changing identity.",
+        "The band’s commercial peak produced an unusual balance of radio singles and album-driven concepts, with Paradise Theatre standing out as their most successful full-length release.",
+        "Signature Styx songs often hinge on big vocal hooks and dynamic arrangements—quiet-to-loud builds, layered harmonies, and keyboard/guitar interplay—built for arena-sized impact."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://styxworld.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Styx_(band)"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Dennis DeYoung",
+          "Roles": [
+            "lead vocals",
+            "keyboards",
+            "songwriter"
+          ],
+          "Years": "1972–1984; 1990–1992; 1995–1999",
+          "Overview": "Co-founding keyboardist and one of Styx’s primary vocalists and writers during the band’s classic run, closely identified with their biggest crossover singles and concept-album ambition.",
+          "Bio": "Dennis DeYoung co‑founded Styx in Chicago and became one of the band’s most identifiable creative forces. As the keyboardist and a principal lead vocalist, he helped define the group’s blend of melodic rock, layered harmonies, and theatrical ambition that translated so well to big stages.\n\n From the start, DeYoung’s writing and arranging instincts leaned cinematic: songs that build, pivot, and pay off with memorable hooks. That approach gave Styx a distinctive profile in the 1970s—polished enough for pop radio, but still driven by rock dynamics and band interplay.\n\n He wrote and sang “Come Sail Away,” one of Styx’s signature tracks and a cornerstone of their breakthrough era. The song’s dramatic shifts—from intimate opening to full‑band lift—capture the kind of storytelling structure that became a Styx hallmark.\n\n DeYoung also wrote “Babe,” the band’s only U.S. No. 1 single, proving how effectively Styx could pivot into a pure pop‑rock ballad without losing their identity. A few years later, he wrote “The Best of Times,” another major hit from the Paradise Theatre era that kept the band at the top of mainstream radio.\n\n Beyond individual singles, DeYoung’s biggest imprint is on the band’s album‑level ambition. Paradise Theatre—Styx’s most commercially successful album—pairs radio singles with a broader concept framework, and it reflects DeYoung’s comfort with big themes and stage‑friendly drama.\n\n Styx’s catalog works in part because it balances different musical personalities, and DeYoung’s role sat right at the center of that push‑and‑pull. His keyboard-forward sensibility, high harmonies, and theatrical storytelling often contrasted with the band’s harder guitar side, creating a productive tension in the classic lineup.\n\n DeYoung’s time as an active member spans the band’s prime arena years as well as later reunions, and his songs remain key setlist anchors across decades. Even when Styx’s lineup changed, the core repertoire he wrote continued to define how audiences recognize the band in the first place.\n\n Today, DeYoung is remembered as a primary architect of the “Styx sound”: melodic, dramatic, and built for big rooms. Whether through sweeping epics or chart‑topping ballads, his writing remains inseparable from the band’s classic‑rock legacy."
+        },
+        {
+          "Name": "James “J.Y.” Young",
+          "Roles": [
+            "guitar",
+            "vocals"
+          ],
+          "Years": "1972–present",
+          "Overview": "Founding guitarist and vocalist whose tougher rhythm-and-lead style grounded Styx’s glossy harmonies with a hard-rock spine, remaining a constant through the band’s lineup changes.",
+          "Bio": "James “J.Y.” Young has been Styx’s most consistent presence since the band’s Chicago formation in 1972. As a founding guitarist and vocalist, he provided a hard-rock backbone that kept the band grounded even when arrangements grew elaborate or keyboard-heavy.\n\nYoung’s playing style is direct and muscular, built around strong rhythm work and confident lead lines. That combination helped Styx translate studio polish into an arena‑ready live sound, especially in the late 1970s when the band’s audience exploded.\n\nBecause Styx featured multiple lead singers, Young’s vocal role was an important part of the group’s identity. His voice added contrast—tougher and more straightforward—against the band’s more melodic or theatrical leads, widening Styx’s range without changing their core sound.\n\nHe’s also a defining part of the band’s guitar chemistry: the blend of complementary parts rather than a single spotlight. That approach is clear on many of the band’s biggest tracks, where riffs and hooks feel as central as the vocal melody.\n\nOn “Renegade,” one of Styx’s most enduring rock staples, Young plays the song’s lead guitar part and delivers the featured solo that fans know by heart. It’s a good example of how his playing can be both technically clean and immediately memorable.\n\nAcross lineup shifts and long gaps in recording, Young remained central to Styx’s touring identity. For audiences, he became a recognizable anchor: the player who keeps the band’s classic catalog sounding like itself, night after night.\n\nYoung’s longevity also speaks to the way Styx operates as a band of strong personalities. Even when different eras emphasized different sounds—harder rock, radio ballads, or concept‑album theatrics—his guitar remained a stabilizing thread.\n\nToday, J.Y. Young is often viewed as the band’s steady hand: a founding member whose tone and stage presence embody Styx’s rock side. His consistency is part of why the group’s classic material still hits with weight and clarity in modern performances."
+        },
+        {
+          "Name": "Tommy Shaw",
+          "Roles": [
+            "guitar",
+            "lead vocals",
+            "songwriter"
+          ],
+          "Years": "1975–1984; 1990–1992; 1995–present",
+          "Overview": "Guitarist, singer, and writer who joined in the mid-’70s and became a defining voice of Styx’s arena era, fronting and writing several of their most enduring rock staples.",
+          "Bio": "Tommy Shaw joined Styx in late 1975, stepping into the guitarist role after John “J.C.” Curulewski’s departure. His arrival expanded Styx’s front‑line identity by adding another strong lead vocalist and a songwriter with a sharp sense for rock hooks.\n\nShaw’s voice and guitar style helped push Styx toward a more aggressive, riff-driven sound that still kept the band’s trademark harmonies intact. In the late 1970s, that combination became essential to the group’s arena breakthrough: melodic enough for radio, but powerful enough for big rooms.\n\nHis writing became central to the band’s classic catalog. Shaw wrote and sang “Renegade,” a hard‑rock narrative single from Pieces of Eight that remains a defining Styx track and a staple of classic‑rock radio.\n\nHe also wrote and sang “Too Much Time on My Hands,” the second single from Paradise Theatre and a Top 10 hit in the U.S. The song highlights his knack for pairing a punchy guitar approach with a chorus built for mass sing‑along.\n\nShaw’s role in Styx was never just “the guitarist.” With multiple lead singers in the band, he helped create the rotating-vocal identity that let Styx move easily between different moods—hard rock anthems, melodic mid‑tempo tracks, and album‑level concepts—without sounding scattered.\n\nHis guitar work often functions as a bridge between the band’s keyboard textures and their heavier rock side. That’s especially noticeable in live performance, where Styx songs depend on crisp transitions and dynamic builds to land their big moments.\n\nShaw’s tenure includes the band’s peak years and later reunion eras, making him a key part of both the classic story and the modern touring machine. For many listeners, his voice is inseparable from the band’s most adrenaline-driven songs.\n\nTaken together, Shaw’s impact is clear: he helped define what Styx sounds like at full power. His combination of songwriting, lead vocals, and guitar energy is a major reason the band’s biggest rock tracks have stayed durable across generations."
+        },
+        {
+          "Name": "Chuck Panozzo",
+          "Roles": [
+            "bass",
+            "vocals"
+          ],
+          "Years": "1972–1984; 1990–1992; 1995–present",
+          "Overview": "Founding bassist whose steady, supportive playing anchored Styx’s layered arrangements, part of the band’s original Chicago core alongside his brother, drummer John Panozzo.",
+          "Bio": "Chuck Panozzo is a founding member of Styx and the band’s original bassist, part of the Chicago core that formed the group in 1972. In a band known for big arrangements and layered vocals, his job was to make the foundation feel stable and confident.\n\nStyx songs often rely on tight interplay between drums, bass, and rhythm guitars to support shifting dynamics—quiet openings that swell into arena-sized choruses. Panozzo’s bass work helped those transitions feel natural rather than stitched together.\n\nDuring the band’s peak late‑’70s and early‑’80s run, the rhythm section had to be both precise and powerful. Panozzo’s playing provided that balance: clear lines that serve the song, and enough weight to make the band’s rock moments hit hard on large stages.\n\nHe’s also part of the band’s collaborative studio identity. For example, “Babe”—Styx’s only U.S. No. 1 single—credits Chuck Panozzo among the track’s producers, reflecting the group’s hands-on approach in the studio during their commercial peak.\n\nAs Styx became an arena headliner, consistency became just as important as flash. Panozzo’s steady presence helped keep the band’s sound recognizable, even as different lead singers and writers took turns shaping individual songs.\n\nBeyond the records, his long association with the band made him a key figure in the Styx story for fans who track the lineup across eras. The Panozzo name, in particular, is tied closely to the band’s original identity and rise from the Chicago scene to national success.\n\nIn later years, Styx’s lineup shifted, but the classic catalog remained at the center of the band’s audience connection. Panozzo’s role—whether on record, in historical memory, or in the band’s extended legacy—anchors that classic era.\n\nChuck Panozzo is remembered as a foundational player: the kind of bassist whose contribution is felt in the band’s tightness and momentum. In a group built on big moments, his steady musical support helped those moments land."
+        },
+        {
+          "Name": "John Panozzo",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1972–1984; 1990–1992; 1995–1996",
+          "Overview": "Founding drummer whose powerful, precise style helped define Styx’s arena-era punch; part of the original core lineup and the rhythmic partner to his brother Chuck Panozzo.",
+          "Bio": "John Panozzo was Styx’s original drummer and a founding member of the band’s Chicago lineup. His playing combined power and control, crucial for a group whose songs often move through multiple sections and dynamic shifts.\n\nFrom the early Wooden Nickel years into the A&M breakthrough era, Panozzo’s drums helped keep Styx sounding tight even as arrangements grew more ambitious. That sense of precision became a major part of the band’s arena credibility in the late 1970s.\n\nStyx’s classic material depends on the rhythm section driving dramatic builds—quiet intros that explode into full-band choruses, and riffs that need a strong pocket to feel heavy. Panozzo’s approach supported those structural swings without losing momentum.\n\nHe also shares in the band’s hands-on studio identity. The single “Babe,” written by Dennis DeYoung and the band’s only U.S. No. 1 hit, credits John Panozzo among its producers—an example of how Styx members were directly involved in shaping their biggest releases.\n\nOn “Renegade,” one of Styx’s most enduring hard-rock songs, Panozzo’s part is integral to the track’s sense of urgency. The song’s classic lineup personnel includes him on drums, and the track became a signature live moment for the band in their peak era.\n\nIn the 1990s, as Styx moved into reunion touring, Panozzo’s place in the band remained part of the group’s identity. When health issues prevented him from performing, drummer Todd Sucherman filled in—later becoming the full-time drummer after Panozzo’s death in 1996.\n\nHis death marked a major turning point in the band’s history, closing the chapter on the original rhythm-section pairing of John and his brother Chuck. For long-time fans, that original lineup period remains a core part of what “classic Styx” means.\n\nJohn Panozzo is remembered for giving Styx both muscle and discipline. In a band built on big melodies and big concepts, his drumming provided the engine that made those ideas feel real and stage-ready."
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John “J.C.” Curulewski",
+          "Roles": [
+            "guitar",
+            "vocals"
+          ],
+          "Years": "1972–1975",
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "Styx",
+            "Styx II",
+            "The Serpent Is Rising",
+            "Man of Miracles"
+          ],
+          "Replacing": "Founding guitarist (original lineup)",
+          "ReplacedBy": "Tommy Shaw",
+          "Overview": "An original member of Styx who played guitar and sang during the band’s early Wooden Nickel era. He left in late 1975 and was replaced by Tommy Shaw, a change that helped set up the band’s late-’70s commercial breakthrough."
+        },
+        {
+          "Name": "Todd Sucherman",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1995–present",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Greatest Hits (1995)",
+            "Return to Paradise",
+            "Cyclorama",
+            "The Mission",
+            "Crash of the Crown"
+          ],
+          "Replacing": "John Panozzo (touring fill-in, later full-time)",
+          "ReplacedBy": "N/A",
+          "Overview": "Joined Styx in the mid-1990s, initially recording with the band in 1995 and then stepping in on tour when original drummer John Panozzo was unable to perform. After Panozzo’s death in 1996, Sucherman became the band’s full-time drummer and has been a core part of their modern touring era."
+        },
+        {
+          "Name": "Lawrence Gowan",
+          "Roles": [
+            "keyboards",
+            "lead vocals"
+          ],
+          "Years": "1999–present",
+          "Instruments": [
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Cyclorama",
+            "Big Bang Theory",
+            "The Mission",
+            "Crash of the Crown"
+          ],
+          "Replacing": "Dennis DeYoung (keyboard/lead vocal role)",
+          "ReplacedBy": "N/A",
+          "Overview": "Became Styx’s keyboardist and a lead vocalist in 1999, taking over much of the band’s classic keyboard-fronted repertoire onstage. His presence helped define the group’s post-1990s era, keeping the signature harmonies and keys-driven arrangements intact while the band continued touring and recording."
+        },
+        {
+          "Name": "Ricky Phillips",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "2003–2024",
+          "Instruments": [
+            "Bass guitar",
+            "Guitar"
+          ],
+          "Albums": [
+            "Big Bang Theory",
+            "One with Everything: Styx and the Contemporary Youth Orchestra",
+            "The Mission",
+            "Crash of the Crown"
+          ],
+          "Replacing": "N/A (added as bassist alongside Chuck Panozzo)",
+          "ReplacedBy": "N/A",
+          "Overview": "Joined Styx in 2003 and handled bass duties alongside original member Chuck Panozzo, remaining with the band for more than two decades. He also has a long résumé outside Styx, including work with The Babys and Bad English, before departing in 2024."
+        }
+      ]
     },
     {
       "ArtistID": "sublime",
