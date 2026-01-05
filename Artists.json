@@ -18689,8 +18689,566 @@
     {
       "ArtistID": "journey",
       "Name": "Journey",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "San Francisco",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1973–1987",
+        "1995–present"
+      ],
+      "Genres": [
+        "Arena rock",
+        "Hard rock",
+        "Progressive rock (early)",
+        "Jazz rock (early)"
+      ],
+      "Labels": [
+        "Columbia",
+        "Frontiers",
+        "Sanctuary",
+        "Nomota",
+        "BMG"
+      ],
+      "Overview": "Journey is an American rock band formed in San Francisco in 1973, built around guitarist Neal Schon and a group of Bay Area musicians with roots in Santana and other local acts. After starting in a more progressive/jazz‑rock lane, the band sharpened its focus in the late 1970s and became one of the defining arena‑rock groups of the era, pairing Schon’s melodic lead guitar with big hooks and polished, radio‑ready production.\n\nThe band’s commercial peak came from 1978–1987, especially after Steve Perry joined as lead vocalist in 1977 and Jonathan Cain arrived in 1980 as a key songwriter and keyboardist. A long hiatus followed in the late 1980s and early 1990s, but Journey reunited mid‑decade and has continued touring and recording through multiple lineup eras, with its classic songs remaining staples of rock radio, concerts, and pop culture.",
+      "NotableAlbums": [
+        {
+          "Title": "Infinity",
+          "Year": 1978,
+          "Notes": "The first album with Steve Perry, marking Journey’s shift toward hook‑forward arena rock and setting up their late‑70s breakthrough."
+        },
+        {
+          "Title": "Evolution",
+          "Year": 1979,
+          "Notes": "Expanded the band’s radio footprint with a sleek, melodic approach and multiple enduring rock staples."
+        },
+        {
+          "Title": "Departure",
+          "Year": 1980,
+          "Notes": "A heavier, more guitar‑forward set that bridged Journey’s late‑70s sound to their early‑80s stadium peak."
+        },
+        {
+          "Title": "Escape",
+          "Year": 1981,
+          "Notes": "Journey’s best‑known studio album; reached No. 1 in the U.S. and was later certified Diamond by the RIAA (10 million U.S. units)."
+        },
+        {
+          "Title": "Frontiers",
+          "Year": 1983,
+          "Notes": "A major follow‑up that kept Journey at stadium scale, packed with hit singles and a bigger, punchier production style."
+        },
+        {
+          "Title": "Raised on Radio",
+          "Year": 1986,
+          "Notes": "The final album of the classic 1980s run, reflecting a more contemporary mid‑80s radio sheen."
+        },
+        {
+          "Title": "Greatest Hits",
+          "Year": 1988,
+          "Notes": "A best‑selling compilation that became one of Journey’s defining releases; certified 18× Platinum by the RIAA (18 million U.S. units)."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Wheel in the Sky",
+          "Year": 1978,
+          "Notes": "A signature early hit that helped cement Journey’s transition into mainstream rock radio rotation."
+        },
+        {
+          "Title": "Lights",
+          "Year": 1978,
+          "Notes": "A beloved anthem tied closely to San Francisco and the band’s original hometown identity."
+        },
+        {
+          "Title": "Any Way You Want It",
+          "Year": 1980,
+          "Notes": "A fast, guitar‑driven staple that showcases the band’s tight rhythm section and Perry’s punchy phrasing."
+        },
+        {
+          "Title": "Who's Crying Now",
+          "Year": 1981,
+          "Notes": "A crossover hit from Escape balancing arena power with pop‑leaning melodic drama."
+        },
+        {
+          "Title": "Don't Stop Believin'",
+          "Year": 1981,
+          "Notes": "Journey’s most iconic anthem, built on a gradual‑build arrangement and one of rock’s most recognizable choruses."
+        },
+        {
+          "Title": "Open Arms",
+          "Year": 1981,
+          "Notes": "A major power ballad that became a defining example of Journey’s big‑emotion, big‑melody approach."
+        },
+        {
+          "Title": "Separate Ways (Worlds Apart)",
+          "Year": 1983,
+          "Notes": "A high‑energy synth‑and‑guitar showcase that helped define early‑80s arena rock intensity."
+        },
+        {
+          "Title": "Faithfully",
+          "Year": 1983,
+          "Notes": "A touring‑life ballad that became one of the era’s most enduring rock love songs."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1981,
+          "Title": "Chart‑topping breakthrough with Escape",
+          "Details": "Escape reached No. 1 in the United States and became Journey’s most successful studio album, anchoring the band’s early‑80s stadium peak."
+        },
+        {
+          "Year": 2017,
+          "Title": "Rock and Roll Hall of Fame induction",
+          "Details": "Journey was inducted into the Rock and Roll Hall of Fame in the Performer category, recognizing their long‑running impact on mainstream rock."
+        },
+        {
+          "Year": 2021,
+          "Title": "Escape certified Diamond by the RIAA",
+          "Details": "In July 2021, Escape received Diamond certification in the U.S., denoting at least 10 million units."
+        },
+        {
+          "Year": 2024,
+          "Title": "Greatest Hits certified 18× Platinum by the RIAA",
+          "Details": "The band’s 1988 Greatest Hits compilation was certified 18× Platinum in the United States (18 million units)."
+        },
+        {
+          "Year": 2025,
+          "Title": "Enduring catalog presence and touring eras",
+          "Details": "Across multiple lineup eras, Journey’s catalog has remained a major concert draw and a persistent presence on rock radio and playlists."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in San Francisco in 1973 by musicians with connections to Santana and other Bay Area groups.",
+        "Reached their biggest commercial success between 1978 and 1987, driven by arena‑sized songwriting and Steve Perry’s lead vocals.",
+        "Escape (1981) is Journey’s most successful studio album and is RIAA Diamond‑certified in the United States.",
+        "Greatest Hits (1988) became a defining catalog release and is certified 18× Platinum in the United States.",
+        "Inducted into the Rock and Roll Hall of Fame in 2017."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://journeymusic.com/",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/journey/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Journey_(band)",
+        "Discography": "https://en.wikipedia.org/wiki/Journey_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Neal Schon",
+          "YearsActive": "1973–1987; 1995–present",
+          "Roles": "Lead guitar • Songwriting • Co-founder",
+          "Instruments": "Guitar • Vocals (backing/occasional lead)",
+          "Albums": [
+            "Infinity",
+            "Evolution",
+            "Departure",
+            "Escape",
+            "Frontiers",
+            "Raised on Radio",
+            "Trial by Fire",
+            "Revelation"
+          ],
+          "Overview": "Co-founder and lead guitarist, and the one constant through every Journey era. Schon’s melodic phrasing and sustained, singing tone are central to the band’s identity—from the late‑70s breakthrough to the stadium peak of the early 80s and beyond.",
+          "Bio": {
+            "BioID": "bio-journey-neal-schon",
+            "ArtistID": "journey",
+            "ArtistName": "Journey",
+            "MemberName": "Neal Schon",
+            "FullName": "Neal Joseph Schon",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Hard rock"
+            ],
+            "Nationality": "American",
+            "Roles": "Guitarist • Songwriter",
+            "Instruments": "Guitar",
+            "Biography": "Neal Schon emerged as a prodigious guitarist while still a teenager, developing a fluid lead style that blended rock bite with a melodic, vocal‑like sense of line. His early years were shaped by constant playing and a fast‑developing ear for harmony, dynamics, and tone—skills that would become core to Journey’s sound.\n\nBefore Journey existed, Schon’s talent drew him into the orbit of Carlos Santana, and he spent formative time performing with Santana-related projects. That apprenticeship sharpened his command of groove and improvisation while also training him to serve the song—balancing expressive solos with disciplined ensemble playing.\n\nIn 1973, Schon co‑founded Journey in San Francisco, initially steering the band through a more progressive and jazz‑rock phase. Those early records emphasized musicianship and extended arrangements, and Schon’s leads often acted as a second “voice,” carrying themes and counter‑melodies alongside the keyboards.\n\nAs the band chased a wider audience, Schon helped drive a pivot toward tighter song structures and bigger hooks. The arrival of Steve Perry in 1977 and the band’s late‑70s momentum set the stage for the arena‑rock approach that would define Journey’s best‑known period.\n\nAcross albums like Infinity, Evolution, and Departure, Schon’s playing became leaner and more anthem‑focused without losing its sophistication. He built signature parts around memorable motifs, then used solos as emotional peaks rather than pure showcases—one reason Journey’s guitar work stayed accessible even at stadium scale.\n\nThe early‑80s peak—especially Escape and Frontiers—cemented Schon as a guitarist who could be both flashy and melodic, with a tone that cut through massive mixes yet still sounded warm and human. Whether trading lines with synths or lifting choruses with soaring fills, his approach reinforced Journey’s “big‑song” DNA.\n\nEven through hiatuses and lineup changes, Schon remained the anchor of the band’s identity, continuing to tour and record in later eras while keeping the classic catalog alive onstage. His leadership has been as much about continuity as it has been about musicianship—protecting a recognizable Journey sound across decades.\n\nJourney’s Rock and Roll Hall of Fame induction in 2017 formalized the impact of the band’s classic era, and Schon’s role as co‑founder and long‑term driver of the group’s direction is central to that legacy. For many listeners, Journey’s emotional lift—the feeling of a chorus opening up—starts with the way his guitar lines sing.",
+            "Birth": {
+              "Date": "1954-02-27",
+              "Place": "Tinker Air Force Base, Oklahoma, United States"
+            },
+            "FunFacts": [
+              "Schon is Journey’s last remaining original member, having played every phase of the band’s history.",
+              "His lead tone is often described as “vocal‑like,” built around long sustain and melodic phrasing."
+            ],
+            "HonoursAndMilestones": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Journey (2017).",
+              "Inducted into the Oklahoma Music Hall of Fame (2013)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Neal_Schon",
+              "Official Site": "https://schonmusic.com/"
+            }
+          }
+        },
+        {
+          "Name": "Steve Perry",
+          "YearsActive": "1977–1987; 1995–1998",
+          "Roles": "Lead vocals • Songwriting",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Infinity",
+            "Evolution",
+            "Departure",
+            "Escape",
+            "Frontiers",
+            "Raised on Radio",
+            "Trial by Fire"
+          ],
+          "Overview": "The defining voice of Journey’s peak era, bringing a soaring tenor and emotional clarity that turned the band into a stadium headliner. Perry’s phrasing and melodic instincts helped translate Journey’s musicianship into universally singable anthems and power ballads.",
+          "Bio": {
+            "BioID": "bio-journey-steve-perry",
+            "ArtistID": "journey",
+            "ArtistName": "Journey",
+            "MemberName": "Steve Perry",
+            "FullName": "Stephen Ray Perry",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock"
+            ],
+            "Nationality": "American",
+            "Roles": "Singer • Songwriter",
+            "Instruments": "Vocals",
+            "Biography": "Steve Perry became one of rock’s most recognizable lead vocalists by pairing technical power with an uncommonly direct emotional delivery. His voice could cut through loud guitars and synths, but it also carried tenderness—an essential ingredient in Journey’s ability to move between high‑octane anthems and intimate ballads.\n\nWhen Perry joined Journey in 1977, the band was searching for a clearer front‑person identity and a more song‑centered direction. His arrival quickly shifted the group’s trajectory, giving their music a focal point that matched their growing ambitions for radio and arena stages.\n\nPerry’s first studio work with the band—beginning with Infinity—helped establish the version of Journey most listeners now consider “classic.” His melodic sensibility elevated choruses into sing‑along moments, while his control and phrasing made even big, dramatic lines feel personal rather than theatrical.\n\nAs Journey’s success accelerated with Evolution and Departure, Perry became the emotional narrator of the band’s sound: confident in rockers, vulnerable in ballads, and always precise about where a lyric landed. He wasn’t just a voice on top of the music—he shaped arrangements by how he built tension and release.\n\nJourney’s early‑80s stadium peak is inseparable from Perry’s performances on Escape and Frontiers. Those albums fused massive hooks with a polished sheen, and Perry’s vocals provided the final lift that made the band feel larger than life without losing the human core that fans connected to.\n\nThe demands of touring, recording, and maintaining that level of perfection took a toll, and Perry stepped away from Journey in the late 1980s. His absence changed the band’s center of gravity, illustrating how closely Journey’s most iconic run was tied to his voice and interpretive style.\n\nPerry returned for a mid‑1990s reunion period that produced Trial by Fire and reintroduced Journey’s classic sensibility to a new era. Though his time back with the band was shorter than the original run, it reaffirmed how naturally his voice fit Journey’s melodic architecture.\n\nInducted into the Rock and Roll Hall of Fame with Journey in 2017, Perry remains a benchmark for arena‑rock singing—powerful but controlled, dramatic but sincere. For many fans, the emotional “punch” of Journey’s biggest songs is the feeling of his voice rising at exactly the right moment.",
+            "Birth": {
+              "Date": "1949-01-22",
+              "Place": "Hanford, California, United States"
+            },
+            "FunFacts": [
+              "Perry fronted Journey during the band’s most commercially successful stretch (late 1970s through the mid‑1980s).",
+              "He was inducted into the Rock and Roll Hall of Fame as a member of Journey in 2017."
+            ],
+            "HonoursAndMilestones": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Journey (2017)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Steve_Perry",
+              "Official Site": "https://steveperry.com/"
+            }
+          }
+        },
+        {
+          "Name": "Jonathan Cain",
+          "YearsActive": "1980–1987; 1995–present",
+          "Roles": "Keyboards • Rhythm guitar • Songwriting",
+          "Instruments": "Keyboards • Guitar • Vocals (backing)",
+          "Albums": [
+            "Escape",
+            "Frontiers",
+            "Raised on Radio",
+            "Trial by Fire",
+            "Revelation",
+            "Eclipse",
+            "Freedom"
+          ],
+          "Overview": "Joined in 1980 and became a central songwriter in Journey’s biggest era, co‑writing many of the band’s defining early‑80s hits. Cain’s keyboard textures and compositional instincts helped lock Journey’s sound into the polished, stadium‑ready form fans know best.",
+          "Bio": {
+            "BioID": "bio-journey-jonathan-cain",
+            "ArtistID": "journey",
+            "ArtistName": "Journey",
+            "MemberName": "Jonathan Cain",
+            "FullName": "Jonathan Leonard Friga",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Piano",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Pop rock",
+              "Hard rock"
+            ],
+            "Nationality": "American",
+            "Roles": "Keyboardist • Guitarist • Songwriter",
+            "Instruments": "Keyboards • Guitar • Vocals",
+            "Biography": "Jonathan Cain is widely associated with the refined, hook‑driven version of Journey that dominated arena rock in the early 1980s. As a keyboardist and songwriter, he helped give the band a broader harmonic palette—stacking synth lines and piano figures that complemented Neal Schon’s guitar and supported big, singable choruses.\n\nBorn and raised in Chicago, Cain developed his musicianship early and carried a working‑band discipline into every later project. Before Journey, he gained high‑profile experience with The Babys, building a reputation as a versatile keyboard player who could also write and arrange for radio‑minded rock.\n\nCain joined Journey in 1980 as the band prepared for its most successful stretch, arriving at a moment when the group was ready to turn momentum into a defining statement. His timing was crucial: the new lineup quickly sounded cohesive, modern, and built for arenas without losing the band’s musical sharpness.\n\nFrom Escape forward, Cain became a key co‑writer, helping craft Journey’s signature balance of drive and sentiment. His writing emphasized clean melodic architecture—verses that set up huge choruses—and his keyboard parts often acted like a second lead instrument, pushing emotional lift where guitar alone might not.\n\nCain’s contributions also shaped the band’s ballad identity, where piano and chord voicings became inseparable from Journey’s most enduring romantic songs. In the classic Journey formula, his keyboards provided warmth and atmosphere, while Schon and Perry delivered the dramatic peaks.\n\nAfter Journey’s late‑80s hiatus, Cain remained musically active and later rejoined the band for the mid‑1990s reunion. That return reinforced his role not as a “replacement” member, but as a defining architect of the band’s biggest sound—someone whose presence immediately made Journey feel like Journey.\n\nIn the post‑reunion era, Cain continued as a core member through later vocal lineups and new releases, helping maintain a consistent musical identity while the band evolved around him. His stage role—moving between piano, synths, and rhythm guitar—keeps the live show anchored even as arrangements shift.\n\nCain was inducted into the Rock and Roll Hall of Fame with Journey in 2017, a recognition of how central his songwriting and keyboard voice are to the band’s legacy. Many of Journey’s most recognizable moments—those choruses that feel like a door opening—are built on his harmonic and melodic instincts.",
+            "Birth": {
+              "Date": "1950-02-26",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "FunFacts": [
+              "Cain joined Journey after Gregg Rolie announced his departure, arriving in 1980 just before the band’s biggest commercial peak.",
+              "He was inducted into the Rock and Roll Hall of Fame as a member of Journey in 2017."
+            ],
+            "HonoursAndMilestones": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Journey (2017)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Cain",
+              "Yamaha Artist Profile": "https://www.yamaha.com/artists/jonathancain.html"
+            }
+          }
+        },
+        {
+          "Name": "Gregg Rolie",
+          "YearsActive": "1973–1980; 1991; 1995",
+          "Roles": "Keyboards • Lead vocals • Co-founder",
+          "Instruments": "Keyboards • Vocals",
+          "Albums": [
+            "Journey",
+            "Look into the Future",
+            "Next",
+            "Infinity",
+            "Evolution",
+            "Departure"
+          ],
+          "Overview": "A co‑founder of Journey and the band’s early lead vocalist/keyboardist, bridging the group’s Santana‑adjacent roots into its late‑70s rise. Rolie’s soulful vocals and organ‑forward textures helped define Journey’s earliest identity before the band’s full arena‑rock transition.",
+          "Bio": {
+            "BioID": "bio-journey-gregg-rolie",
+            "ArtistID": "journey",
+            "ArtistName": "Journey",
+            "MemberName": "Gregg Rolie",
+            "FullName": "Gregg Alan Rolie",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Organ",
+              "Piano"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock"
+            ],
+            "Nationality": "American",
+            "Roles": "Keyboardist • Singer • Songwriter",
+            "Instruments": "Keyboards • Vocals",
+            "Biography": "Gregg Rolie is a foundational figure in Journey’s story, both as a co‑founder and as the band’s early lead vocalist and keyboard anchor. His playing carried a blues‑and‑soul sensibility that connected Journey’s Bay Area roots to the broader rock audience the group would eventually reach.\n\nBefore Journey, Rolie co‑founded Santana and became known for organ and keyboard work that blended rock drive with Latin and jazz influences. That background shaped Journey’s earliest direction, when the new band leaned into extended arrangements and musicianship‑forward performances.\n\nIn 1973, Rolie joined with Neal Schon and others to form Journey in San Francisco, and his voice helped give the band its first identity onstage. Early Journey often sounded like a band testing the boundaries of rock and fusion, and Rolie’s keys provided the harmonic glue that let the group roam without losing coherence.\n\nAs Journey developed, Rolie’s role evolved—sharing vocals and steering the band through personnel shifts and changing industry expectations. The addition of Steve Perry in 1977 marked a turning point, and Rolie helped bridge that transition by maintaining a grounded, bluesy core while the band moved toward tighter, more melodic rock.\n\nRolie remained a key presence through the Infinity era and into the band’s late‑70s ascent, contributing both to the band’s sound and its stage confidence. His keyboard textures—especially organ and early synth color—sit underneath many of Journey’s foundational songs from the period.\n\nIn 1980, as Journey prepared for a new chapter, Rolie stepped away from the band and was ultimately replaced by Jonathan Cain. That change accelerated Journey’s shift toward a more polished, synth‑and‑hook focused arena‑rock blueprint, but Rolie’s foundational work remains audible in the band’s DNA.\n\nOutside Journey, Rolie continued an active career, including leadership in other rock projects and performances that highlighted his dual identity as both keyboardist and vocalist. His path underscores how closely the Bay Area scene of the 1970s connected musicians across multiple landmark bands.\n\nRolie’s legacy is also recognized in honors: he is a two‑time Rock and Roll Hall of Fame inductee, entering with Santana in 1998 and with Journey in 2017. Within Journey’s narrative, he represents the bridge from exploratory beginnings to the brink of stadium dominance.",
+            "Birth": {
+              "Date": "1947-06-17",
+              "Place": "Seattle, Washington, United States"
+            },
+            "FunFacts": [
+              "Rolie is a two‑time Rock and Roll Hall of Fame inductee: with Santana (1998) and Journey (2017).",
+              "He served as Journey’s lead vocalist in the band’s earliest years before Steve Perry became the primary frontman."
+            ],
+            "HonoursAndMilestones": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Santana (1998).",
+              "Inducted into the Rock and Roll Hall of Fame as a member of Journey (2017)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Gregg_Rolie"
+            }
+          }
+        },
+        {
+          "Name": "Ross Valory",
+          "YearsActive": "1973–1985; 1995–2020",
+          "Roles": "Bass • Backing vocals • Founding member",
+          "Instruments": "Bass guitar • Vocals (backing)",
+          "Albums": [
+            "Journey",
+            "Look into the Future",
+            "Next",
+            "Infinity",
+            "Evolution",
+            "Departure",
+            "Escape",
+            "Frontiers",
+            "Raised on Radio",
+            "Trial by Fire"
+          ],
+          "Overview": "Founding bassist whose melodic lines and steady pocket helped define Journey’s late‑70s and early‑80s groove. Valory’s approach favored movement and musical counter‑melody, supporting the band’s anthems without crowding the vocal hooks.",
+          "Bio": {
+            "BioID": "bio-journey-ross-valory",
+            "ArtistID": "journey",
+            "ArtistName": "Journey",
+            "MemberName": "Ross Valory",
+            "FullName": "Ross Lamont Valory",
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Rock"
+            ],
+            "Nationality": "American",
+            "Roles": "Bassist • Musician",
+            "Instruments": "Bass guitar • Vocals",
+            "Biography": "Ross Valory is best known as Journey’s founding bassist, an essential part of the band’s rhythmic identity from its earliest days through its classic arena‑rock peak. His playing favors melodic motion and clear, supportive placement—lines that propel songs forward while leaving space for vocals and guitar hooks to dominate.\n\nGrowing up in the Bay Area, Valory developed broad musical foundations before becoming a fixture in the local rock scene. Those roots connected him to other musicians who would become central to Journey, including players whose careers overlapped with Santana and the wider San Francisco rock ecosystem.\n\nWhen Journey formed in 1973, Valory’s bass work helped stabilize a band that initially explored progressive and jazz‑rock ideas. In those early arrangements, the bass often had a more active role than in typical radio rock, and Valory’s ability to keep lines musical while still anchoring the groove was a key asset.\n\nAs Journey pivoted toward a more streamlined, song‑driven style in the late 1970s, Valory adapted without losing personality. Across the band’s breakthrough period, his bass lines often functioned like hidden melodies—quietly shaping the feel of verses and helping choruses hit with extra lift.\n\nDuring the early‑80s peak, Valory was part of the rhythm‑section engine that made stadium‑scale Journey feel both tight and powerful. In a band known for big vocals and glossy production, his contribution is the steady pulse underneath the drama—keeping songs grounded enough to be sung by whole arenas.\n\nValory’s journey with Journey included exits and returns, reflecting the band’s changing eras and internal dynamics. Even when the lineup shifted around him, his reputation as a foundational member remained intact, tied closely to the classic recordings many fans consider definitive.\n\nIn 2017, Valory was inducted into the Rock and Roll Hall of Fame with Journey, cementing the recognition of the classic era’s lineup and impact. For listeners, that honor reflects how the band’s sound was built as much on the rhythm section as on the front‑line hooks.\n\nValory’s long tenure and distinctive approach make him one of the quietly influential bassists of arena rock—never flashy for its own sake, but consistently musical. Journey’s biggest songs depend on momentum, and his bass work is a major reason that momentum feels effortless.",
+            "Birth": {
+              "Date": "1949-02-02",
+              "Place": "San Francisco, California, United States"
+            },
+            "FunFacts": [
+              "Valory was Journey’s bassist from 1973–1985 and again from 1995–2020.",
+              "He was inducted into the Rock and Roll Hall of Fame as a member of Journey in 2017."
+            ],
+            "HonoursAndMilestones": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Journey (2017)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ross_Valory"
+            }
+          }
+        },
+        {
+          "Name": "Steve Smith",
+          "YearsActive": "1978–1985; 1995–1998; 2015–2020",
+          "Roles": "Drums • Arrangement",
+          "Instruments": "Drums",
+          "Albums": [
+            "Evolution",
+            "Departure",
+            "Escape",
+            "Frontiers",
+            "Raised on Radio",
+            "Trial by Fire"
+          ],
+          "Overview": "A technically accomplished drummer who powered Journey’s late‑70s rise and early‑80s stadium peak with precision, feel, and a touch of jazz‑fusion vocabulary. Smith’s playing balances muscular rock drive with detailed cymbal work and clean, propulsive fills.",
+          "Bio": {
+            "BioID": "bio-journey-steve-smith",
+            "ArtistID": "journey",
+            "ArtistName": "Journey",
+            "MemberName": "Steve Smith",
+            "FullName": "Steven Bruce Smith",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Musician"
+            ],
+            "Genres": [
+              "Rock",
+              "Jazz",
+              "Jazz fusion"
+            ],
+            "Nationality": "American",
+            "Roles": "Drummer • Bandleader • Educator",
+            "Instruments": "Drums",
+            "Biography": "Steve Smith is one of Journey’s most technically celebrated members, known for bringing a crisp, articulate style that could handle stadium rock power while still sounding detailed and musical. His drumming helped define the band’s momentum during the years when Journey became a major live and radio force.\n\nBorn in Massachusetts, Smith developed a wide musical vocabulary early, drawing from rock as well as jazz and fusion. That breadth is audible in his Journey work: even when the groove is straightforward, his cymbal phrasing and fill choices often carry a subtle sophistication.\n\nSmith joined Journey in 1978, arriving as the band was accelerating into its commercial breakthrough. The timing mattered—his precision and drive gave the group a rhythmic clarity that translated well on big stages and in polished studio productions.\n\nAcross Evolution and Departure, Smith helped tighten Journey’s feel into a confident, arena‑ready engine. He played with a clear backbeat and punchy snare sound, then added just enough nuance to keep verses moving and choruses lifting without cluttering the vocal hook.\n\nThe early‑80s peak albums Escape and Frontiers showcase Smith at the center of Journey’s stadium scale, locking in with Ross Valory and supporting massive choruses with steady propulsion. His fills tend to be clean and purposeful, acting like musical punctuation rather than showy detours.\n\nSmith’s history with Journey spans multiple eras, including later returns that brought his signature feel back to the live band. That willingness to re‑enter the lineup over time speaks to how closely fans associate his groove with the band’s classic identity.\n\nOutside Journey, Smith has maintained a substantial career that highlights his jazz and fusion interests, reinforcing his reputation as a drummer who can move between styles without losing authority. That versatility is a major reason he’s often cited as an “all‑around” drummer rather than a single‑genre specialist.\n\nIn 2017, Smith was inducted into the Rock and Roll Hall of Fame with Journey, a recognition that includes the rhythmic architecture he helped build. Journey’s songs are famous for choruses, but those choruses land because the band’s time is locked—and Smith’s drumming is a big part of that lock.",
+            "Birth": {
+              "Date": "1954-08-21",
+              "Place": "Whitman, Massachusetts, United States"
+            },
+            "FunFacts": [
+              "Smith played with Journey across three stints: 1978–1985, 1995–1998, and 2015–2020.",
+              "He was inducted into the Rock and Roll Hall of Fame as a member of Journey in 2017."
+            ],
+            "HonoursAndMilestones": [
+              "Inducted into the Rock and Roll Hall of Fame as a member of Journey (2017).",
+              "Named one of Modern Drummer’s Top 25 Drummers of All Time (Modern Drummer, 2001)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Steve_Smith_(drummer)"
+            }
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Arnel Pineda",
+          "YearsActive": "2007–present",
+          "Roles": "Lead vocals",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Revelation",
+            "Eclipse",
+            "Freedom"
+          ],
+          "Replacing": "Steve Augeri / Jeff Scott Soto",
+          "ReplacedBy": "",
+          "Overview": "Joined as lead vocalist in 2007 and became the face of Journey’s modern touring era. His ability to deliver the classic catalog live helped the band sustain large‑venue popularity while also recording new material in the late 2000s and beyond."
+        },
+        {
+          "Name": "Steve Augeri",
+          "YearsActive": "1998–2006",
+          "Roles": "Lead vocals",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Arrival",
+            "Generations"
+          ],
+          "Replacing": "Steve Perry",
+          "ReplacedBy": "Arnel Pineda",
+          "Overview": "Fronted Journey for much of the post‑reunion period after Steve Perry’s departure. Augeri helped keep the band active on the road and in the studio, carrying the catalog through a transitional era for the lineup."
+        },
+        {
+          "Name": "Deen Castronovo",
+          "YearsActive": "1998–2015; 2021–present",
+          "Roles": "Drums • Vocals",
+          "Instruments": "Drums • Vocals",
+          "Albums": [
+            "Arrival",
+            "Revelation",
+            "Eclipse",
+            "Freedom"
+          ],
+          "Replacing": "Steve Smith (later era)",
+          "ReplacedBy": "",
+          "Overview": "Drummer and vocalist known for strong backing/occasional lead vocals in addition to a powerful rock groove. His return in the 2020s reinforced Journey’s modern touring lineup with both rhythmic drive and added vocal depth."
+        },
+        {
+          "Name": "Aynsley Dunbar",
+          "YearsActive": "1974–1978",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "Journey",
+            "Look into the Future",
+            "Next"
+          ],
+          "Replacing": "Prairie Prince",
+          "ReplacedBy": "Steve Smith",
+          "Overview": "Anchored Journey’s earliest studio era as the band moved from exploratory rock toward a more focused direction. His seasoned, hard‑hitting playing gave the early records weight and helped the group establish itself as a serious live act."
+        },
+        {
+          "Name": "George Tickner",
+          "YearsActive": "1973–1975",
+          "Roles": "Rhythm guitar",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Journey"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "An original Journey member who helped shape the band’s earliest lineup and sound. Tickner appears on the debut album era before departing as the group’s direction and personnel continued to evolve."
+        },
+        {
+          "Name": "Randy Jackson",
+          "YearsActive": "1985–1987",
+          "Roles": "Bass • Backing vocals",
+          "Instruments": "Bass guitar • Vocals",
+          "Albums": [
+            "Raised on Radio"
+          ],
+          "Replacing": "Ross Valory",
+          "ReplacedBy": "Ross Valory",
+          "Overview": "Joined during the mid‑80s lineup shifts and appears around the Raised on Radio period. His tenure coincided with a transitional phase as Journey approached its late‑80s hiatus."
+        },
+        {
+          "Name": "Robert Fleischman",
+          "YearsActive": "1977",
+          "Roles": "Lead vocals",
+          "Instruments": "Vocals",
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Steve Perry",
+          "Overview": "Served briefly as Journey’s first dedicated lead vocalist in 1977, during the band’s search for a frontman to match its growing ambitions. His short stint preceded Steve Perry’s arrival and the band’s commercial breakthrough."
+        }
+      ]
     },
     {
       "ArtistID": "judas-priest",
