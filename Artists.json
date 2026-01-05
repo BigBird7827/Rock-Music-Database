@@ -25739,27 +25739,662 @@
     {
       "ArtistID": "the-rolling-stones",
       "Name": "The Rolling Stones",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1962–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Blues rock",
+        "Rock and roll",
+        "Rhythm and blues",
+        "Hard rock"
+      ],
+      "Labels": [
+        "Decca",
+        "London",
+        "ABKCO",
+        "Rolling Stones Records",
+        "Atlantic",
+        "Virgin",
+        "Polydor",
+        "Interscope",
+        "Geffen"
+      ],
+      "Overview": "The Rolling Stones are an English rock band formed in London in 1962, built around the songwriting partnership of Mick Jagger and Keith Richards. Emerging from the British rhythm-and-blues circuit, they helped drive the British Invasion while keeping a rougher, blues-rooted edge that set them apart—riff-forward guitars, a locked-in rhythm section, and Jagger’s elastic, conversational vocal style.\n\nAcross multiple eras—’60s singles, the late-’60s and early-’70s run of landmark albums, and decades of stadium tours—the Stones stayed unusually durable by expanding their palette without losing their core feel. They’re closely identified with signature studio eras (from Beggars Banquet through Exile on Main St. and beyond), a deep catalogue of radio staples, and an enduring live reputation that turned their tours into cultural events.",
+      "NotableAlbums": [
+        {
+          "Title": "Aftermath",
+          "Year": "1966",
+          "Notes": "Often singled out as an early turning point: a fully self-written LP in the U.K. that broadened the band’s sound and marked their move from a singles-driven R&B act into an album-era rock band."
+        },
+        {
+          "Title": "Beggars Banquet",
+          "Year": "1968",
+          "Notes": "A decisive return to bluesy rock after psychedelic detours—featuring sharper songwriting and an earthier sound that set up the band’s late-’60s/early-’70s peak."
+        },
+        {
+          "Title": "Let It Bleed",
+          "Year": "1969",
+          "Notes": "A turbulent, transitional album that still delivers some of their most iconic recordings, balancing menace, groove, and gospel-tinged drama."
+        },
+        {
+          "Title": "Sticky Fingers",
+          "Year": "1971",
+          "Notes": "The first major release on the band’s own label era, packed with enduring staples and often cited as the start of a classic run of ’70s albums."
+        },
+        {
+          "Title": "Exile on Main St.",
+          "Year": "1972",
+          "Notes": "A sprawling, roots-soaked double album that blends rock, blues, gospel, and country into a lived-in, late-night atmosphere—frequently described as one of their defining statements."
+        },
+        {
+          "Title": "Goats Head Soup",
+          "Year": "1973",
+          "Notes": "A sleek, groove-heavy follow-up that keeps the band’s swagger intact while leaning into moodier textures and balladry."
+        },
+        {
+          "Title": "Some Girls",
+          "Year": "1978",
+          "Notes": "A sharp late-’70s reinvention with punchy guitars and modern rhythms—proof the band could respond to punk and disco-era shifts without sounding like a nostalgia act."
+        },
+        {
+          "Title": "Tattoo You",
+          "Year": "1981",
+          "Notes": "A tight, arena-ready set anchored by one of the band’s biggest later-era hits, built for radio rotation and massive stages."
+        },
+        {
+          "Title": "Voodoo Lounge",
+          "Year": "1994",
+          "Notes": "A major ’90s comeback-era studio album and a centerpiece of a renewed touring period; it earned the band a Grammy for Best Rock Album."
+        },
+        {
+          "Title": "Hackney Diamonds",
+          "Year": "2023",
+          "Notes": "A late-career studio statement that debuted strongly worldwide and was recognized with a Grammy for Best Rock Album, underscoring the band’s continued relevance decades into their run."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "(I Can’t Get No) Satisfaction",
+          "Year": "1965",
+          "Notes": "The breakthrough riff-and-attitude anthem that became the band’s first U.S. No. 1 and a permanent cornerstone of rock radio."
+        },
+        {
+          "Title": "Paint It, Black",
+          "Year": "1966",
+          "Notes": "A tense, propulsive hit that pushed the band’s sound into darker territory while staying relentlessly hooky."
+        },
+        {
+          "Title": "Sympathy for the Devil",
+          "Year": "1968",
+          "Notes": "A bold narrative single that pairs a hypnotic groove with provocative storytelling—one of their defining era markers."
+        },
+        {
+          "Title": "Gimme Shelter",
+          "Year": "1969",
+          "Notes": "A storm-front opener with apocalyptic tension and one of the band’s most celebrated performances and atmosphere."
+        },
+        {
+          "Title": "Honky Tonk Women",
+          "Year": "1969",
+          "Notes": "A swaggering single built on a crisp groove and instantly recognizable guitar work—classic Stones in three minutes."
+        },
+        {
+          "Title": "You Can’t Always Get What You Want",
+          "Year": "1969",
+          "Notes": "A sweeping, gospel-tinged epic that became one of the band’s most enduring anthems and a live show highlight."
+        },
+        {
+          "Title": "Brown Sugar",
+          "Year": "1971",
+          "Notes": "A razor-edged opener that defined the early ’70s Stones sound and dominated radio for decades."
+        },
+        {
+          "Title": "Wild Horses",
+          "Year": "1971",
+          "Notes": "A tender, open-hearted ballad that showed the band’s range beyond bite and bravado."
+        },
+        {
+          "Title": "Tumbling Dice",
+          "Year": "1972",
+          "Notes": "A loose-limbed, rolling groove that captures the feel of Exile on Main St. in a single, radio-friendly cut."
+        },
+        {
+          "Title": "Angie",
+          "Year": "1973",
+          "Notes": "A piano-led ballad that became a major international hit and a staple of the band’s softer side."
+        },
+        {
+          "Title": "Miss You",
+          "Year": "1978",
+          "Notes": "A late-’70s reinvention that leaned into dance-floor rhythm without abandoning the band’s core identity."
+        },
+        {
+          "Title": "Start Me Up",
+          "Year": "1981",
+          "Notes": "An era-spanning stadium ignition switch—one of the band’s biggest later-career singles and a setlist essential."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1989",
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Details": "The band was inducted in the Hall’s fourth class, recognizing the Stones’ foundational impact on rock music and performance culture."
+        },
+        {
+          "Year": "1995",
+          "Title": "Won the inaugural Grammy Award for Best Rock Album (Voodoo Lounge)",
+          "Details": "Voodoo Lounge won the first-ever Best Rock Album Grammy, marking a major late-career recognition for the band’s studio work."
+        },
+        {
+          "Year": "2025",
+          "Title": "Won the Grammy Award for Best Rock Album (Hackney Diamonds)",
+          "Details": "More than six decades after forming, the Stones won Best Rock Album at the 67th Annual Grammy Awards for Hackney Diamonds, a rare modern-era major award for a legacy act."
+        },
+        {
+          "Year": "1971",
+          "Title": "Introduced the iconic tongue-and-lips logo",
+          "Details": "Debuting in the early 1970s, the band’s tongue-and-lips mark became one of the most recognizable symbols in popular music branding and merchandise."
+        },
+        {
+          "Year": "1964–present",
+          "Title": "Built one of rock’s most enduring touring legacies",
+          "Details": "From the mid-1960s onward, the Stones became a defining live act, with large-scale tours in multiple decades helping set the template for modern stadium rock production."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in London in 1962 and emerged from the British rhythm-and-blues club circuit.",
+        "Early stable line-up centered on Mick Jagger, Keith Richards, Brian Jones, Bill Wyman, and Charlie Watts.",
+        "The Jagger–Richards songwriting partnership became the band’s primary creative engine and one of rock’s most successful collaborations.",
+        "The band’s sound draws heavily from blues and early rock and roll, later folding in country, psychedelia, funk/disco, and arena rock dynamics.",
+        "Their late-’60s/early-’70s album run is widely regarded as a creative peak in rock’s album era.",
+        "The tongue-and-lips logo introduced in the early 1970s became a global symbol of rock music branding.",
+        "Inducted into the Rock & Roll Hall of Fame in 1989.",
+        "Won major Grammy recognition for both Voodoo Lounge (Best Rock Album, 1995) and Hackney Diamonds (Best Rock Album, 2025)."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://rollingstones.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/rolling-stones/",
+        "Discography": "https://en.wikipedia.org/wiki/The_Rolling_Stones_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Mick Jagger",
+          "Roles": [
+            "lead vocals",
+            "harmonica",
+            "guitar"
+          ],
+          "Years": "1962–present",
+          "Overview": "The band’s lead singer and primary frontman, known for agile phrasing and one of rock’s most distinctive stage personas; co-wrote most of the catalogue with Keith Richards.",
+          "Bio": {
+            "BioID": "bio-the-rolling-stones-mick-jagger",
+            "ArtistID": "the-rolling-stones",
+            "ArtistName": "The Rolling Stones",
+            "MemberName": "Mick Jagger",
+            "FullName": "Sir Michael Philip Jagger",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Harmonica",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician",
+              "Actor",
+              "Film producer"
+            ],
+            "Genres": [
+              "Rock",
+              "Blues",
+              "R&B",
+              "Pop"
+            ],
+            "Birth": {
+              "Date": "1943-07-26",
+              "Place": "Dartford, Kent, England"
+            },
+            "ActiveYears": [
+              "1960–present"
+            ],
+            "AssociatedActs": [
+              "The Rolling Stones",
+              "SuperHeavy"
+            ],
+            "KeyAlbums": [
+              "Aftermath",
+              "Beggars Banquet",
+              "Let It Bleed",
+              "Sticky Fingers",
+              "Exile on Main St.",
+              "Some Girls",
+              "Voodoo Lounge",
+              "Hackney Diamonds"
+            ],
+            "KeySongs": [
+              "(I Can’t Get No) Satisfaction",
+              "Sympathy for the Devil",
+              "Gimme Shelter",
+              "Brown Sugar",
+              "Start Me Up"
+            ],
+            "Achievements": [
+              "Co-founded and fronted one of the most influential rock bands in history, shaping modern stagecraft with a uniquely physical, charismatic performance style.",
+              "Co-wrote the bulk of the Rolling Stones catalogue with Keith Richards, forming a songwriting partnership routinely cited among the most successful in popular music.",
+              "Built a parallel career in film and occasional solo releases while remaining the band’s primary frontman across multiple decades and touring eras."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.mickjagger.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mick_Jagger"
+            },
+            "Biography": "Mick Jagger grew up in Dartford, Kent, and came up through the early-1960s London rhythm-and-blues scene, where American blues and R&B records were a shared obsession for a new generation of British musicians.\n\nAfter reconnecting with childhood acquaintance Keith Richards, he became part of the nucleus that formed the Rolling Stones in 1962—initially a club band built on blues covers, hard grooves, and a sharp sense of attitude.\n\nJagger’s voice quickly became the band’s signature: conversational, elastic, and able to switch from sneer to tenderness without losing its bite. He also developed an onstage style that turned concerts into theatre—restless movement, precise timing, and an instinct for crowd psychology.\n\nAs the group grew, Jagger and Richards developed into a primary songwriting unit, with Jagger’s lyrical instincts and Richards’ riff-first guitar logic locking together into a durable formula: hooks that felt inevitable and words that sounded like overheard conversations.\n\nThrough the band’s late-’60s and early-’70s peak, Jagger proved unusually versatile: snarling through raw rockers, leaning into gospel and country textures, and delivering ballads with a disarming directness that expanded the band’s emotional range.\n\nHe also kept the Stones nimble as musical eras shifted—pushing the band to stay current in the late ’70s and beyond, while preserving the blues-and-rock core that fans expected from a Rolling Stones record.\n\nOutside the band, Jagger pursued acting and film production and released occasional solo work, but his central identity remained the Stones’ frontman and one of rock’s most recognizable cultural figures.\n\nAcross decades of touring, his stamina and showmanship helped define the modern stadium-rock template: a singer who treats the entire venue as a stage, turning a catalogue of songs into a night-long, communal event."
+          }
+        },
+        {
+          "Name": "Keith Richards",
+          "Roles": [
+            "guitars",
+            "vocals"
+          ],
+          "Years": "1962–present",
+          "Overview": "Co-founder and primary riff architect whose groove-forward guitar style and open-tuning approach helped define the Stones’ sound; co-principal songwriter with Jagger.",
+          "Bio": {
+            "BioID": "bio-the-rolling-stones-keith-richards",
+            "ArtistID": "the-rolling-stones",
+            "ArtistName": "The Rolling Stones",
+            "MemberName": "Keith Richards",
+            "FullName": "Keith Richards",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Songwriter",
+              "Singer",
+              "Record producer"
+            ],
+            "Genres": [
+              "Rock and roll",
+              "Blues rock",
+              "Rhythm and blues",
+              "Hard rock"
+            ],
+            "Birth": {
+              "Date": "1943-12-18",
+              "Place": "Dartford, Kent, England"
+            },
+            "ActiveYears": [
+              "1960–present"
+            ],
+            "AssociatedActs": [
+              "The Rolling Stones",
+              "The New Barbarians",
+              "The Dirty Mac"
+            ],
+            "KeyAlbums": [
+              "Aftermath",
+              "Beggars Banquet",
+              "Let It Bleed",
+              "Sticky Fingers",
+              "Exile on Main St.",
+              "Some Girls",
+              "Tattoo You",
+              "Voodoo Lounge"
+            ],
+            "KeySongs": [
+              "(I Can’t Get No) Satisfaction",
+              "Jumpin’ Jack Flash",
+              "Brown Sugar",
+              "Start Me Up",
+              "Tumbling Dice"
+            ],
+            "Achievements": [
+              "Co-founded the Rolling Stones and became one of rock’s most influential rhythm guitarists, known for riffs that feel both simple and endlessly repeatable.",
+              "Formed the core Jagger–Richards songwriting partnership, supplying a large share of the band’s signature hooks and structural ideas.",
+              "Developed a distinctive guitar approach rooted in blues phrasing and open tunings, shaping the band’s sound across multiple decades."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.keithrichards.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Keith_Richards"
+            },
+            "Biography": "Keith Richards was raised in Dartford and came up in the same postwar British environment that turned imported blues and R&B records into a kind of secret curriculum for young musicians.\n\nHis reconnection with Mick Jagger helped spark the formation of the Rolling Stones in 1962, with Richards bringing a guitarist’s sense of momentum—how a riff can carry a whole song before a lyric even arrives.\n\nRichards’ playing is often described as “rhythm guitar,” but that label undersells it: his parts frequently act as the engine and the melody at once, using clipped chords, syncopation, and memorable figures that become inseparable from the song itself.\n\nAs the Jagger–Richards partnership took over the band’s writing, Richards became the primary supplier of riffs and musical architecture, while also contributing vocals and a rough-edged counterpoint presence onstage.\n\nDuring the band’s classic album run, his approach broadened without losing its core—absorbing country, gospel, and funk feels while staying anchored to blues-based groove and the push-and-pull that makes Stones tracks swing.\n\nHis open-tuning work and stripped-down arrangements became a defining part of the Stones’ identity, creating songs that feel loose, human, and lived-in even when played on massive stages.\n\nRichards also maintained a parallel profile through solo work and side projects, but his most enduring legacy remains the Stones catalogue: the riffs, the feel, and the songwriting chemistry with Jagger.\n\nAcross decades, he became a symbol of rock’s durability—an artist whose best work is less about technical flash and more about timing, tone, and the ability to make a band feel like it’s moving as one."
+          }
+        },
+        {
+          "Name": "Brian Jones",
+          "Roles": [
+            "guitars",
+            "harmonica",
+            "multi-instrumentalist",
+            "backing vocals"
+          ],
+          "Years": "1962–1969",
+          "Overview": "Founder of the band and a key early leader; an adventurous multi-instrumentalist whose textures and blues credibility shaped the Stones’ formative years.",
+          "Bio": {
+            "BioID": "bio-the-rolling-stones-brian-jones",
+            "ArtistID": "the-rolling-stones",
+            "ArtistName": "The Rolling Stones",
+            "MemberName": "Brian Jones",
+            "FullName": "Lewis Brian Hopkin Jones",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Harmonica",
+              "Multi-instrumentalist"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "Rock",
+              "Blues",
+              "World"
+            ],
+            "Birth": {
+              "Date": "1942-02-28",
+              "Place": "Cheltenham, Gloucestershire, England"
+            },
+            "ActiveYears": [
+              "1957–1969"
+            ],
+            "AssociatedActs": [
+              "The Rolling Stones",
+              "Master Musicians of Joujouka"
+            ],
+            "KeyAlbums": [
+              "The Rolling Stones (debut)",
+              "Out of Our Heads",
+              "Aftermath",
+              "Between the Buttons",
+              "Beggars Banquet"
+            ],
+            "KeySongs": [
+              "Time Is on My Side",
+              "(I Can’t Get No) Satisfaction",
+              "Paint It, Black"
+            ],
+            "Achievements": [
+              "Founded the Rolling Stones in 1962, initially acting as the band’s primary leader and key link to the London blues scene.",
+              "Brought a wide instrumental palette to early Stones recordings, helping expand the band’s sound beyond standard rock instrumentation.",
+              "Left the band in 1969 shortly before his death, cementing his role as a pivotal early architect of the Stones’ identity."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Jones"
+            },
+            "Biography": "Brian Jones was a central catalyst in the Rolling Stones’ formation, creating the band as a blues-focused unit in London in 1962 and even giving it its name.\n\nIn the early years, Jones was a primary musical driver—an accomplished guitarist with a deep enthusiasm for American blues and the kind of bandleader energy that helped the Stones establish credibility on the club circuit.\n\nAs the group gained momentum, Jones became increasingly valuable as a colorist: beyond guitar and harmonica, he contributed an array of instruments on recordings, adding distinctive textures that widened the band’s sonic vocabulary.\n\nThat musical curiosity shows up all over the mid-’60s catalogue—arrangements that feel bigger than a basic rock lineup, with parts that hint at pop experimentation while still keeping the band’s blues foundation intact.\n\nAs the Jagger–Richards songwriting partnership became dominant, Jones’ leadership role diminished, but his instrumental imprint remained audible in many of the band’s most recognizable ’60s tracks.\n\nBy the late 1960s, internal strain and instability led to his departure from the group in 1969, marking the end of the Stones’ original era and the beginning of a new chapter.\n\nJones died only weeks after leaving the band, and his story became part of the Stones’ mythology—both a cautionary tale about the era’s pressures and a reminder of the band’s roots in the blues scene that first shaped them.\n\nEven with a comparatively brief tenure, his legacy inside the Rolling Stones is substantial: the founding impulse, the early direction, and the adventurous instrumental spirit that helped the band sound larger than its component parts."
+          }
+        },
+        {
+          "Name": "Charlie Watts",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1963–2021",
+          "Overview": "The Stones’ long-time drummer and rhythmic anchor, blending jazz sensibility with rock restraint; his feel and steadiness became central to the band’s signature groove.",
+          "Bio": {
+            "BioID": "bio-the-rolling-stones-charlie-watts",
+            "ArtistID": "the-rolling-stones",
+            "ArtistName": "The Rolling Stones",
+            "MemberName": "Charlie Watts",
+            "FullName": "Charles Robert Watts",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Drummer"
+            ],
+            "Genres": [
+              "Rock",
+              "Jazz",
+              "Blues"
+            ],
+            "Birth": {
+              "Date": "1941-06-02",
+              "Place": "Bloomsbury, London, England"
+            },
+            "ActiveYears": [
+              "1958–2021"
+            ],
+            "AssociatedActs": [
+              "The Rolling Stones",
+              "Blues Incorporated"
+            ],
+            "KeyAlbums": [
+              "Beggars Banquet",
+              "Let It Bleed",
+              "Sticky Fingers",
+              "Exile on Main St.",
+              "Some Girls",
+              "Tattoo You",
+              "Steel Wheels"
+            ],
+            "KeySongs": [
+              "Gimme Shelter",
+              "Honky Tonk Women",
+              "Start Me Up"
+            ],
+            "Achievements": [
+              "Joined the Rolling Stones in 1963 and became the band’s rhythmic anchor for nearly six decades, playing on every studio era that defined their sound.",
+              "Blended jazz sensibility with rock backbeat, favoring feel, swing, and restraint over flash—an approach widely praised as essential to the Stones’ groove.",
+              "Inducted into the Rock & Roll Hall of Fame with the band in 1989 and remained a defining figure in rock drumming until his death in 2021."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Charlie_Watts"
+            },
+            "Biography": "Charlie Watts arrived from London’s jazz and R&B scene and joined the Rolling Stones in early 1963, completing the rhythm section that would define the band’s feel for decades.\n\nThough the Stones were often framed as wild and chaotic, Watts’ drumming was the opposite: controlled, unshowy, and deeply musical—more about where he placed a beat than how loud he hit it.\n\nHis background in jazz showed in the way he made rock grooves breathe, allowing the band to swing even at stadium volume; it’s a key reason Stones songs feel “rolling” rather than rigid.\n\nDuring the classic late-’60s/early-’70s period, Watts’ steadiness helped the band handle shifting lineups and changing musical fashions without losing its center of gravity.\n\nHe became known for impeccable taste—choosing parts that served the song, leaving space for Richards’ riffs and Jagger’s phrasing, and making subtle adjustments that musicians notice even if casual listeners can’t name them.\n\nBeyond the Stones, Watts maintained a lifelong relationship with jazz, leading and participating in jazz projects that reflected his roots and personal musical priorities.\n\nWhen the band entered later touring eras, Watts remained the timekeeper fans trusted, turning huge shows into performances that still felt band-led rather than machine-driven.\n\nWatts died in 2021 after a career that positioned him as one of rock’s most respected drummers—proof that restraint and feel can be as powerful as virtuosity."
+          }
+        },
+        {
+          "Name": "Bill Wyman",
+          "Roles": [
+            "bass guitar",
+            "vocals"
+          ],
+          "Years": "1962–1993",
+          "Overview": "Foundational bassist whose supportive, pocket-first playing paired with Charlie Watts to form one of rock’s most reliable rhythm sections.",
+          "Bio": {
+            "BioID": "bio-the-rolling-stones-bill-wyman",
+            "ArtistID": "the-rolling-stones",
+            "ArtistName": "The Rolling Stones",
+            "MemberName": "Bill Wyman",
+            "FullName": "William George Wyman (né Perks)",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Bassist",
+              "Musician",
+              "Songwriter",
+              "Photographer"
+            ],
+            "Genres": [
+              "Rock",
+              "Blues",
+              "Jazz"
+            ],
+            "Birth": {
+              "Date": "1936-10-24",
+              "Place": "Lewisham, London, England"
+            },
+            "ActiveYears": [
+              "1959–present"
+            ],
+            "AssociatedActs": [
+              "The Rolling Stones",
+              "Bill Wyman's Rhythm Kings"
+            ],
+            "KeyAlbums": [
+              "Out of Our Heads",
+              "Aftermath",
+              "Beggars Banquet",
+              "Let It Bleed",
+              "Sticky Fingers",
+              "Exile on Main St."
+            ],
+            "KeySongs": [
+              "(I Can’t Get No) Satisfaction",
+              "Jumpin’ Jack Flash",
+              "Honky Tonk Women",
+              "Miss You"
+            ],
+            "Achievements": [
+              "Played bass with the Rolling Stones from 1962 to 1993, forming half of a famously steady rhythm section alongside Charlie Watts.",
+              "Helped shape the band’s pocket—supplying supportive, melodic lines that kept early hits and later grooves grounded.",
+              "Built a substantial post-Stones career and public profile through his own band, archival work, and extensive documentation of the Stones era."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.billwyman.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bill_Wyman"
+            },
+            "Biography": "Bill Wyman joined the Rolling Stones in 1962 and quickly became a foundational piece of their sound, pairing with Charlie Watts to create a rhythm section that could swing, grind, or glide depending on what the song demanded.\n\nHis bass style favored feel over flash—often simple on the surface, but carefully placed and consistently supportive, allowing Richards’ guitar patterns and Jagger’s vocal phrasing to sit comfortably in the groove.\n\nAcross the band’s early growth and their late-’60s/early-’70s peak, Wyman’s playing provided stability as the Stones moved from blues covers to original hits and then into ambitious album-era rock statements.\n\nHe was also an important part of the Stones’ live impact, helping songs translate from the studio to large rooms without losing momentum, and acting as a steady reference point in performances known for looseness and improvisational feel.\n\nWyman left the band in the early 1990s, closing out a long chapter that spanned the group’s rise, classic period, and global stadium era.\n\nIn later years he formed Bill Wyman’s Rhythm Kings and stayed active as a performer, while also becoming known for documenting the Stones story through books, archives, and photography.\n\nHis public persona often emphasized the historian’s angle—preserving details, dates, and the lived texture of the Rolling Stones era from an insider vantage point.\n\nEven with a quieter stage presence than some bandmates, Wyman’s legacy in the Stones is unmistakable: a bassist who understood that the fastest route to power is a groove that never breaks."
+          }
+        },
+        {
+          "Name": "Ronnie Wood",
+          "Roles": [
+            "guitars",
+            "bass guitar",
+            "backing vocals"
+          ],
+          "Years": "1975–present",
+          "Overview": "Joined in 1975 and became a defining modern-era guitarist, adding a loose, interlocking style that complements Richards; also notable for a parallel career as a visual artist.",
+          "Bio": {
+            "BioID": "bio-the-rolling-stones-ronnie-wood",
+            "ArtistID": "the-rolling-stones",
+            "ArtistName": "The Rolling Stones",
+            "MemberName": "Ronnie Wood",
+            "FullName": "Ronald David Wood",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Bass guitar"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Songwriter",
+              "Record producer",
+              "Painter"
+            ],
+            "Genres": [
+              "Rock",
+              "Blues"
+            ],
+            "Birth": {
+              "Date": "1947-06-01",
+              "Place": "Hillingdon, Middlesex, England"
+            },
+            "ActiveYears": [
+              "1964–present"
+            ],
+            "AssociatedActs": [
+              "The Rolling Stones",
+              "Faces",
+              "The Jeff Beck Group"
+            ],
+            "KeyAlbums": [
+              "Truth (Jeff Beck Group)",
+              "Beck-Ola (Jeff Beck Group)",
+              "A Nod Is as Good as a Wink... (Faces)",
+              "Some Girls",
+              "Tattoo You",
+              "Voodoo Lounge"
+            ],
+            "KeySongs": [
+              "Miss You",
+              "Start Me Up",
+              "Beast of Burden"
+            ],
+            "Achievements": [
+              "Joined the Rolling Stones in 1975, bringing a looser, interlocking guitar style that complemented Keith Richards and helped shape the band’s modern era.",
+              "Arrived with major credentials from the Jeff Beck Group and Faces, and became a key live presence in the Stones’ stadium-touring decades.",
+              "Maintained a parallel career as a visual artist, extending the band’s image culture through portraiture and design work alongside music."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.ronniewood.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ronnie_Wood"
+            },
+            "Biography": "Ronnie Wood built his reputation in the British rock scene before joining the Rolling Stones, first gaining visibility through the Jeff Beck Group and then as a core member of Faces.\n\nBy the mid-1970s, he was known as a guitarist who could blend lead and rhythm seamlessly—a natural fit for the Stones’ two-guitar weave, where parts overlap, trade, and reinforce each other rather than taking rigid turns.\n\nWood joined the Rolling Stones in 1975, stepping into a role that demanded both musical flexibility and live toughness: the ability to keep the show moving, fill gaps, and lock into the band’s groove without overplaying.\n\nHis playing complemented Keith Richards by emphasizing interaction—small melodic hooks, crunchy chord figures, and responsive phrasing that makes Stones performances feel conversational rather than choreographed.\n\nAs the band continued through late-’70s reinvention and ’80s stadium dominance, Wood became a key onstage personality, helping translate the catalogue into a high-energy live experience night after night.\n\nHe also contributed to the band’s studio work across multiple eras, becoming part of the long-running lineup that carried the Stones into the modern period.\n\nOutside music, Wood developed a substantial parallel identity as a painter and visual artist, often portraying musicians and maintaining a creative life beyond touring and recording.\n\nIn the Rolling Stones story, Wood represents continuity through change: an addition who became essential, helping the band sound like itself while evolving into a new chapter."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Ian Stewart",
+          "Roles": [
+            "piano",
+            "road manager",
+            "founding member (early era)"
+          ],
+          "Years": "1962–1985 (touring/studio involvement; founding era)",
+          "Instruments": [
+            "Piano"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A key early Rolling Stones figure who was part of the band’s original lineup and remained central behind the scenes. Although not presented as an official member after the early management era, he continued to contribute on piano and served as an important stabilizing presence around the group for decades."
+        },
+        {
+          "Name": "Mick Taylor",
+          "Roles": [
+            "guitars"
+          ],
+          "Years": "1969–1974",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Let It Bleed",
+            "Sticky Fingers",
+            "Exile on Main St.",
+            "Goats Head Soup",
+            "It’s Only Rock ’n Roll"
+          ],
+          "Replacing": "Brian Jones",
+          "ReplacedBy": "Ronnie Wood",
+          "Overview": "Joined at the end of the 1960s and played during a widely celebrated run of albums, bringing fluid lead work and a more overtly melodic guitar voice. His tenure overlaps with some of the band’s most acclaimed studio recordings and helped expand their live and recorded range in the early 1970s."
+        },
+        {
+          "Name": "Darryl Jones",
+          "Roles": [
+            "bass guitar (touring)"
+          ],
+          "Years": "1993–present (touring)",
+          "Instruments": [
+            "Bass guitar"
+          ],
+          "Albums": [],
+          "Replacing": "Bill Wyman (touring role)",
+          "ReplacedBy": "",
+          "Overview": "A respected bassist who became the Rolling Stones’ long-running touring low-end foundation after Bill Wyman’s departure. While not billed as an official member, his playing has been central to the band’s modern live sound for decades."
+        },
+        {
+          "Name": "Chuck Leavell",
+          "Roles": [
+            "keyboards (touring/studio)"
+          ],
+          "Years": "1982–present (touring)",
+          "Instruments": [
+            "Keyboards",
+            "Piano"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Longtime keyboardist who has supported the Stones’ live sound since the early 1980s, adding piano, organ, and texture that helps the catalogue translate to large stages. He’s widely recognized by fans as a key part of the band’s touring ensemble."
+        }
+      ]
     },
     {
       "ArtistID": "the-romantics",
