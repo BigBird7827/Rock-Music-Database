@@ -32361,7 +32361,504 @@
     },
     {
       "ArtistID": "train",
-      "Name": "Train"
+      "Name": "Train",
+      "Type": "Band",
+      "Origin": {
+        "City": "San Francisco",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1993–2006",
+        "2009–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Pop rock",
+        "Roots rock"
+      ],
+      "Labels": [
+        "Atlantic",
+        "Warner Music",
+        "Columbia",
+        "Aware"
+      ],
+      "Overview": "Train is an American pop-rock band formed in San Francisco, California, in 1993 and best known for a long run of radio hits that bridge rock instrumentation with pop songwriting. After building a following through heavy touring, the band broke nationally with their self-titled debut (1998) and became mainstream staples in the early 2000s with the album Drops of Jupiter (2001) and its title track, a career-defining single that helped cement Train's place in adult rock and pop formats.\n\nFollowing major lineup changes and a hiatus after 2006, Train returned in 2009 with Save Me, San Francisco, launching a major second act driven by the global success of 'Hey, Soul Sister.' Across the 2010s and into the 2020s, Train maintained a steady presence through frequent touring and a sequence of studio releases, while lead singer Pat Monahan remained the band's constant member as the supporting lineup evolved around him.",
+      "NotableAlbums": [
+        {
+          "Title": "Train",
+          "Year": 1998,
+          "Notes": "Major-label debut that introduced Train to a national audience and included the breakthrough single 'Meet Virginia.'"
+        },
+        {
+          "Title": "Drops of Jupiter",
+          "Year": 2001,
+          "Notes": "Career-defining album featuring the Grammy-winning title track; the record set the template for Train's early-2000s mainstream sound."
+        },
+        {
+          "Title": "My Private Nation",
+          "Year": 2003,
+          "Notes": "A key early-era release that kept Train on rock radio, highlighted by singles like 'Calling All Angels.'"
+        },
+        {
+          "Title": "Save Me, San Francisco",
+          "Year": 2009,
+          "Notes": "Comeback album after the hiatus; driven by the global hit 'Hey, Soul Sister' and the fan-favorite 'Marry Me.'"
+        },
+        {
+          "Title": "California 37",
+          "Year": 2012,
+          "Notes": "A high-profile second-act album that extended the comeback run with major singles such as 'Drive By' and '50 Ways to Say Goodbye.'"
+        },
+        {
+          "Title": "Bulletproof Picasso",
+          "Year": 2014,
+          "Notes": "A late-2010s studio album that continued Train's pop-rock lane and supported another major touring cycle."
+        },
+        {
+          "Title": "AM Gold",
+          "Year": 2022,
+          "Notes": "A modern-era Train album that leaned into sunny pop-rock textures while keeping the catalog-centered live show rolling."
+        }
+      ],
+      "SignatureSongs": [
+        "Meet Virginia",
+        "Drops of Jupiter (Tell Me)",
+        "Calling All Angels",
+        "Hey, Soul Sister",
+        "Marry Me",
+        "Drive By",
+        "50 Ways to Say Goodbye",
+        "Play That Song"
+      ],
+      "Achievements": [
+        {
+          "Year": 2002,
+          "Title": "Grammy win for 'Drops of Jupiter (Tell Me)'",
+          "Details": "The title track from Drops of Jupiter won the Grammy Award for Best Rock Song, marking Train's defining early-2000s peak and establishing the band as a major mainstream radio force."
+        },
+        {
+          "Year": 2011,
+          "Title": "Grammy win for 'Hey, Soul Sister' (live)",
+          "Details": "Train won a Grammy for a live iTunes version of 'Hey, Soul Sister' in the Best Pop Performance by a Duo or Group with Vocals category, capping the band's massive 2009–2010 comeback."
+        },
+        {
+          "Year": 2001,
+          "Title": "Breakthrough album era: Drops of Jupiter",
+          "Details": "Drops of Jupiter became Train's signature early-era album and spawned the career-defining single of the same name, pushing the band from a successful debut act into top-tier mainstream visibility."
+        },
+        {
+          "Year": 2009,
+          "Title": "Second-act resurgence with Save Me, San Francisco",
+          "Details": "After a hiatus, Train returned with Save Me, San Francisco and scored their biggest commercial hit with 'Hey, Soul Sister,' re-establishing the band as a major touring and pop-radio presence."
+        },
+        {
+          "Year": 2012,
+          "Title": "Sustained hit run with California 37",
+          "Details": "California 37 extended Train's comeback momentum with a string of high-rotation singles, including 'Drive By' and '50 Ways to Say Goodbye,' keeping the band prominent on pop and adult formats."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in San Francisco in 1993; the early lineup solidified in 1994 with Pat Monahan, Rob Hotchkiss, Jimmy Stafford, Scott Underwood, and Charlie Colin.",
+        "Signed to Columbia after building momentum through touring; the band first charted with 'Meet Virginia' from their 1998 debut.",
+        "Drops of Jupiter (2001) became Train's breakthrough era and the title track won a Grammy for Best Rock Song.",
+        "The band went on hiatus after For Me, It's You (2006) and returned in 2009 with Save Me, San Francisco.",
+        "'Hey, Soul Sister' became Train's biggest global hit and powered a long-running second act defined by frequent touring and steady releases.",
+        "Pat Monahan is the only member who has remained through every Train era; the supporting lineup has changed repeatedly across the 2000s–2020s."
+      ],
+      "ExternalLinks": {
+        "OfficialSite": "https://savemesanfrancisco.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Train_(band)",
+        "Discography": "https://en.wikipedia.org/wiki/Train_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Pat Monahan",
+          "Roles": [
+            "Lead vocals",
+            "Percussion"
+          ],
+          "Years": "1994–2006, 2009–present",
+          "Overview": "Pat Monahan is Train's lead singer and the constant member across every lineup change. His voice and pop-forward songwriting sensibility anchor the band's sound from the 1998 debut through the Drops of Jupiter breakthrough and the Hey, Soul Sister comeback era.",
+          "Bio": {
+            "BioID": "bio-train-pat-monahan",
+            "ArtistID": "train",
+            "ArtistName": "Train",
+            "MemberName": "Pat Monahan",
+            "FullName": "Patrick Monahan",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "1969-02-28",
+              "Place": "Erie, Pennsylvania, United States"
+            },
+            "ActiveYears": "1993–present",
+            "AssociatedActs": [
+              "Train"
+            ],
+            "KeyAlbums": [
+              "Train (1998)",
+              "Drops of Jupiter (2001)",
+              "My Private Nation (2003)",
+              "Save Me, San Francisco (2009)",
+              "California 37 (2012)"
+            ],
+            "KeySongs": [
+              "Meet Virginia",
+              "Drops of Jupiter (Tell Me)",
+              "Calling All Angels",
+              "Hey, Soul Sister",
+              "Drive By"
+            ],
+            "Achievements": [
+              "Frontman and defining voice of Train across both the original breakthrough era and the post-hiatus comeback years.",
+              "Led the band through multiple lineup transitions while maintaining a recognizable vocal identity and mainstream radio presence."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Pat_Monahan",
+              "OfficialSite": "https://savemesanfrancisco.com/"
+            },
+            "Biography": "Pat Monahan (born February 28, 1969) is the lead vocalist and primary public face of Train, and he is the only member who has remained through every era of the band's history. Raised in Erie, Pennsylvania, he fronted a Led Zeppelin cover band called Rogues Gallery before relocating to California in late 1993 to pursue music full-time.\n\nIn the San Francisco area, Monahan met Berklee College of Music alumnus Rob Hotchkiss, and the pair began performing around local clubs with a stripped-down setup that highlighted Monahan's voice and Hotchkiss's guitar and harmonica. That partnership became the seed for Train's first lineup, with Monahan taking on lead vocals and percussion as they expanded into a full band.\n\nBy 1994, Train's core five-piece lineup was in place, and Monahan helped drive the band's early push to get signed, including a first attempt with Columbia Records in the mid-1990s. After being passed over, the group released material independently and built momentum by touring and opening for established acts, setting the stage for a major-label breakthrough.\n\nTrain's self-titled debut (1998) put the band on the national map, and Monahan's storytelling vocal style was central to songs like 'Meet Virginia.' The leap to the next level came with the 2001 album Drops of Jupiter, whose title track became a defining hit and made Monahan one of the most recognizable voices on rock and pop radio in the early 2000s.\n\nThrough My Private Nation (2003) and For Me, It's You (2006), Monahan navigated a period of internal strain and lineup turnover, including major departures that changed Train's songwriting and live identity. When the band stepped back from recording and touring in the late 2000s, he remained active as Train's frontman even while the group paused.\n\nDuring the hiatus era, Monahan released the solo album Last of Seven (2007), keeping his songwriting and touring muscles in shape while Train regrouped. When Train returned with Save Me, San Francisco (2009), he led a streamlined version of the band back into the spotlight, with 'Hey, Soul Sister' becoming the group's biggest global commercial hit.\n\nIn the 2010s and beyond, Monahan continued to steer Train through a steady run of albums, collaborations, and heavy touring, even as the supporting lineup shifted around him. Songs like 'Drive By,' '50 Ways to Say Goodbye,' and 'Play That Song' helped keep the band in mainstream rotation while their catalog became a staple of adult-pop and rock playlists.\n\nMonahan's role in Train has been both musical and organizational: he is the constant voice, the main onstage communicator, and the anchor point that lets the band's sound evolve without losing its signature identity. Across multiple lineups, he has remained the connective tissue between Train's late-1990s breakthrough and its long-running status as a dependable touring and radio presence.",
+            "Death": null
+          }
+        },
+        {
+          "Name": "Rob Hotchkiss",
+          "Roles": [
+            "Rhythm guitar",
+            "Backing vocals",
+            "Harmonica"
+          ],
+          "Years": "1994–2003",
+          "Overview": "Rob Hotchkiss co-founded Train and helped shape the band's earliest sound as a guitarist, backing vocalist, and harmonica player. He played on the debut and the Drops of Jupiter era before departing in 2003 amid creative differences.",
+          "Bio": {
+            "BioID": "bio-train-rob-hotchkiss",
+            "ArtistID": "train",
+            "ArtistName": "Train",
+            "MemberName": "Rob Hotchkiss",
+            "FullName": "Rob Hotchkiss",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Harmonica"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1990s–present",
+            "AssociatedActs": [
+              "Train"
+            ],
+            "KeyAlbums": [
+              "Train (1998)",
+              "Drops of Jupiter (2001)"
+            ],
+            "KeySongs": [
+              "Meet Virginia",
+              "Drops of Jupiter (Tell Me)"
+            ],
+            "Achievements": [
+              "Co-founder of Train and key early contributor on guitar and harmonica during the band's rise from Bay Area clubs to a major-label breakthrough.",
+              "Departed in 2003; later pursued solo work including the album Midnight Ghost (2004)."
+            ],
+            "ExternalLinks": {
+              "OfficialSite": "https://www.robhotchkiss.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Train_(band)"
+            },
+            "Biography": "Rob Hotchkiss co-founded Train with Pat Monahan in the early 1990s after Monahan relocated to California and the two began playing local clubs around San Francisco. A Berklee College of Music alumnus, Hotchkiss brought a flexible musician's toolkit to the project, handling guitar and harmonica and, early on, sharing some vocal duties as the group's sound took shape.\n\nBefore Train solidified, Hotchkiss and Monahan performed as a duo with a lean, percussive setup that emphasized their songs and live chemistry. As they decided to expand into a full band, Hotchkiss became one of the key architects of the early lineup and the writing approach that would carry Train into its first recordings.\n\nIn 1994, Train's original five-piece lineup was in place, and Hotchkiss served as rhythm guitarist and backing vocalist while helping define the group's rootsy pop-rock blend. That version of the band worked toward a major-label deal, releasing early material independently after an initial rejection from Columbia in 1996 and then building momentum on the road.\n\nHotchkiss played on Train's breakthrough debut album Train (1998), which produced 'Meet Virginia' and established the band as a national act. As Train's profile grew, he remained part of the core touring unit and continued contributing to the band's catalog during the run-up to their early-2000s peak.\n\nThe band's biggest commercial surge arrived with Drops of Jupiter (2001), and Hotchkiss was there for the period when Train became a mainstream radio staple. The success brought both opportunity and pressure, and the band began to evolve quickly as expectations for follow-up releases increased.\n\nIn 2003, Hotchkiss left Train, citing creative differences during the My Private Nation era. Reports from band interviews describe tension around songwriting roles, and his exit marked the first major break in the founding lineup that had driven Train's rise.\n\nAfter leaving Train, Hotchkiss pursued a solo path, including the 2004 release of Midnight Ghost, which attracted positive critical attention and showcased his interests outside the band's main-lane radio sound. His departure also left a visible stamp on Train's later records, as the band reorganized its writing and stage setup around a smaller core.\n\nWithin Train's story, Hotchkiss is best understood as a foundational co-creator: a co-founder who helped translate an early club project into a touring band with a distinct identity. Even after he stepped away, the early work he helped build remained a key part of Train's origin narrative and first-wave success.",
+            "Death": null
+          }
+        },
+        {
+          "Name": "Jimmy Stafford",
+          "Roles": [
+            "Lead guitar",
+            "Backing vocals"
+          ],
+          "Years": "1994–2006, 2009–2016",
+          "Overview": "Jimmy Stafford was Train's long-tenured guitarist across the classic and comeback lineups, covering lead parts, signature hooks, and backing vocals. He returned for the 2009 regrouping and remained until 2016, spanning the band's biggest commercial peaks.",
+          "Bio": {
+            "BioID": "bio-train-jimmy-stafford",
+            "ArtistID": "train",
+            "ArtistName": "Train",
+            "MemberName": "Jimmy Stafford",
+            "FullName": "Jimmy Stafford",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1994–2016",
+            "AssociatedActs": [
+              "Train",
+              "Apostles"
+            ],
+            "KeyAlbums": [
+              "Train (1998)",
+              "Drops of Jupiter (2001)",
+              "Save Me, San Francisco (2009)"
+            ],
+            "KeySongs": [
+              "Meet Virginia",
+              "Drops of Jupiter (Tell Me)",
+              "Hey, Soul Sister",
+              "Drive By"
+            ],
+            "Achievements": [
+              "Guitarist for Train's original rise and the 2009 comeback, performing across the band's most recognizable hit catalog.",
+              "Announced his departure in 2016 and did not play on the studio album A Girl, a Bottle, a Boat (2017)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Train_(band)"
+            },
+            "Biography": "Jimmy Stafford joined Train in 1994 as the band completed its original lineup, arriving from the Los Angeles-based group The Apostles. As Train's lead guitarist and a consistent onstage presence, his playing became part of the band's signature blend of pop melody and rock grit during their rise from clubs to major-label radio.\n\nIn Train's early years, Stafford was central to the live chemistry that helped the band build an audience while touring and opening for bigger acts. That road-tested rhythm section and guitar-driven sound set up the debut album Train (1998), where the band first broke nationally with 'Meet Virginia.'\n\nAcross Train's first wave of success, Stafford's parts helped frame songs that leaned on strong vocal hooks but still needed a rock backbone. He remained a core touring member as the band moved into the Drops of Jupiter era, when Train's mainstream exposure expanded dramatically.\n\nAs Train shifted into the early 2000s, lineup changes began to reshape how the band worked, but Stafford remained in the center of the stage picture. His role flexed across lead and rhythm duties depending on the era and the lineup around him, especially after the departure of founding guitarist Rob Hotchkiss.\n\nStafford was part of the group's run through My Private Nation (2003) and For Me, It's You (2006), years that mixed commercial highs with increasing internal strain and shifting personnel. When Train stepped into a hiatus after 2006, his time with the band paused as the members focused on family and other projects.\n\nTrain regrouped in 2009 as a trio of Pat Monahan, Stafford, and Scott Underwood, and Stafford helped power the band's comeback years on Save Me, San Francisco. That period produced the global smash 'Hey, Soul Sister' and re-established the group as a major touring act with fresh radio momentum.\n\nIn October 2016, Stafford announced via social media that he had left the band, closing a long chapter that spanned Train's formation, breakthrough, hiatus, and comeback. Although he performed some new material live during the transition period, he did not play on the subsequent studio album A Girl, a Bottle, a Boat (2017).\n\nWithin Train's history, Stafford represents the long-haul guitarist of the classic and comeback lineups: an early member who helped establish the band's live identity and carried it through multiple reinventions. His tenure covers Train's biggest career peaks and much of the catalog that defines them for a mainstream audience.",
+            "Death": null
+          }
+        },
+        {
+          "Name": "Scott Underwood",
+          "Roles": [
+            "Drums",
+            "Percussion",
+            "Keyboards"
+          ],
+          "Years": "1994–2006, 2009–2014",
+          "Overview": "Scott Underwood was Train's original drummer and a key member of both the band's initial success and its 2009 return. His playing supported the early albums, the Drops of Jupiter breakthrough, and the touring-heavy comeback years before he exited in 2014.",
+          "Bio": {
+            "BioID": "bio-train-scott-underwood",
+            "ArtistID": "train",
+            "ArtistName": "Train",
+            "MemberName": "Scott Underwood",
+            "FullName": "Scott Underwood",
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock"
+            ],
+            "Birth": {
+              "Date": "",
+              "Place": "Saratoga Springs, New York, United States"
+            },
+            "ActiveYears": "1994–2014",
+            "AssociatedActs": [
+              "Train"
+            ],
+            "KeyAlbums": [
+              "Train (1998)",
+              "Drops of Jupiter (2001)",
+              "Save Me, San Francisco (2009)"
+            ],
+            "KeySongs": [
+              "Meet Virginia",
+              "Drops of Jupiter (Tell Me)",
+              "Hey, Soul Sister"
+            ],
+            "Achievements": [
+              "Original drummer who helped establish Train's live feel from the club years through mainstream success.",
+              "Returned for the 2009 regrouping and toured through the band's major comeback cycle before departing in 2014."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Train_(band)"
+            },
+            "Biography": "Scott Underwood was Train's original drummer and one of the core members who helped lock in the band's early sound as they formed in the mid-1990s. Joining the lineup in 1994, he provided drums and percussion and also handled keyboards in certain periods, giving Train a flexible rhythmic-and-textural foundation from the start.\n\nAs Train developed from a club project into a touring act, Underwood's steady playing supported the band through heavy road work and the push toward a record deal. That endurance mattered: Train's early momentum was built on consistent live performance long before the group became a radio staple.\n\nUnderwood played on Train's debut album Train (1998), which introduced the band to a national audience and produced 'Meet Virginia.' In that era, the rhythm section kept the songs grounded while the arrangements leaned into melodic hooks and an accessible pop-rock sheen.\n\nThe early-2000s breakthrough with Drops of Jupiter (2001) expanded Train's audience dramatically, and Underwood's drumming helped translate big studio arrangements into a tight, touring-band feel. As the band moved into the My Private Nation cycle, he remained part of the core even as the lineup began to shift around the guitars and bass.\n\nAfter the departures of key early members, Train continued to record and tour, but the internal stresses of sustaining mainstream success increased. Underwood remained through the For Me, It's You period and then stepped back with the band when Train took a hiatus from recording and touring after 2006.\n\nWhen Train returned in 2009, Underwood was part of the regrouped trio with Pat Monahan and Jimmy Stafford, helping drive the comeback that produced Save Me, San Francisco. The run of hits from that era brought Train back to the top of pop and rock radio, and Underwood's playing supported a setlist that blended early catalog with newer pop-leaning singles.\n\nUnderwood's second stint with Train continued through the early 2010s, a period when the band leaned into big tours and additional studio releases while continuing to evolve its lineup. He ultimately exited the band in 2014, closing a long stretch that spanned Train's formation, initial success, hiatus, and return.\n\nIn Train's story, Underwood is the drummer most closely associated with the band's original chemistry and its comeback years alike. His contributions anchor many of the songs that define Train's sound for both late-1990s fans and the much broader audience reached during the 2009–2012 resurgence.",
+            "Death": null
+          }
+        },
+        {
+          "Name": "Charlie Colin",
+          "Roles": [
+            "Bass"
+          ],
+          "Years": "1994–2003",
+          "Overview": "Charlie Colin was the bassist in Train's founding lineup and played on the band's first three studio albums. He left in 2003 and later died in 2024, with his early work remaining central to Train's origin story and first-wave success.",
+          "Bio": {
+            "BioID": "bio-train-charlie-colin",
+            "ArtistID": "train",
+            "ArtistName": "Train",
+            "MemberName": "Charlie Colin",
+            "FullName": "Charlie Colin",
+            "PrimaryInstruments": [
+              "Bass",
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock",
+              "Roots rock"
+            ],
+            "Birth": {
+              "Date": "1966-11-22",
+              "Place": "Newport Beach, California, United States"
+            },
+            "ActiveYears": "1992–2024",
+            "AssociatedActs": [
+              "Train",
+              "Apostles",
+              "The Side Deal",
+              "Painbirds"
+            ],
+            "KeyAlbums": [
+              "Train (1998)",
+              "Drops of Jupiter (2001)",
+              "My Private Nation (2003)"
+            ],
+            "KeySongs": [
+              "Meet Virginia",
+              "Drops of Jupiter (Tell Me)",
+              "Calling All Angels"
+            ],
+            "Achievements": [
+              "Founding-era bassist who played on Train's first three albums during the band's climb to mainstream success.",
+              "Died in 2024; his passing renewed attention to Train's original lineup and early career arc."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Charlie_Colin"
+            },
+            "Biography": "Charlie Colin (born November 22, 1966) was the bassist in Train's original mainstream-success lineup, joining the band in 1994 as the group solidified its classic five-piece formation. His bass work helped shape Train's early groove-forward pop-rock sound as they moved from local clubs into national touring and label attention.\n\nDuring Train's formative years, Colin was part of the road-tested unit that built an audience before the band fully broke through on record. That early touring foundation carried into the debut album Train (1998), where the band established its identity and scored its first major hit with 'Meet Virginia.'\n\nColin remained in the lineup as Train expanded its ambitions on Drops of Jupiter (2001), a record that turned the band into a fixture on mainstream radio. As the band scaled up, his role was both musical and practical: keeping the live low end tight while the arrangements and expectations grew bigger.\n\nBy the time My Private Nation arrived in 2003, Train was navigating internal pressures and shifting roles, and the lineup began to fracture. Colin was still part of the band during this period, contributing to a stretch that produced key singles like 'Calling All Angels' while the group's membership was starting to change.\n\nIn October 2003, Colin was forced out of Train due to substance-abuse issues, a sudden break that ended his time in the band during a critical commercial era. He was replaced on bass by Johnny Colt, marking a major transition in Train's onstage and offstage dynamics.\n\nAfter leaving Train, Colin continued working in music in various capacities, with his Train years remaining the most widely recognized chapter of his career. His playing is tied to the band's earliest catalog, including the debut and the Drops of Jupiter era that many listeners consider Train's defining foundation.\n\nColin's legacy within Train is also linked to the contrast between the band's tight early chemistry and the major lineup changes that followed. As Train later regrouped and reinvented itself, the original five-member lineup remained a reference point for the band's first identity in the public imagination.\n\nCharlie Colin died on May 17, 2024, at age 58. His passing prompted renewed attention to Train's early years and the foundational role he played in the lineup that carried the band from a local San Francisco act to a mainstream success.",
+            "Death": {
+              "Date": "2024-05-17",
+              "Place": "Brussels, Belgium"
+            }
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Jerry Becker",
+          "Roles": [
+            "Keyboards",
+            "Rhythm guitar",
+            "Backing vocals"
+          ],
+          "Years": "2009–present",
+          "Overview": "Jerry Becker joined Train for the band's 2009 return and has been a mainstay of the modern touring lineup ever since. His keyboards and rhythm parts help translate the band's layered studio sound to the stage, especially on the pop-leaning hits of the comeback era."
+        },
+        {
+          "Name": "Hector Maldonado",
+          "Roles": [
+            "Bass",
+            "Backing vocals"
+          ],
+          "Years": "2009–present",
+          "Overview": "Hector Maldonado has handled bass duties since Train's 2009 comeback, anchoring the rhythm section through the band's most active touring years. He also provides backing vocals, reinforcing Train's harmony-heavy approach in live settings."
+        },
+        {
+          "Name": "Matt Musty",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Years": "2019–present",
+          "Overview": "Matt Musty became Train's drummer in 2019, stepping into a role that requires both tight pop precision and rock-forward energy. He supports a setlist that spans early-2000s staples and later-era singles, keeping the tempos and transitions consistent across long tours."
+        },
+        {
+          "Name": "Butch Walker",
+          "Roles": [
+            "Lead guitar",
+            "Backing vocals"
+          ],
+          "Years": "2025–present",
+          "Overview": "Butch Walker joined Train in 2025 as lead guitarist and backing vocalist, adding a fresh edge to the band's current lineup. In live shows, his job is to cover signature guitar hooks from multiple eras while helping keep the arrangements punchy and stage-ready."
+        },
+        {
+          "Name": "Brandon Bush",
+          "Roles": [
+            "Keyboards"
+          ],
+          "Years": "2003–2006",
+          "Overview": "Brandon Bush served as Train's keyboard player during the mid-2000s period that bridged My Private Nation and For Me, It's You. His parts helped fill out the band's live sound during a time of major lineup transitions and heavy touring."
+        },
+        {
+          "Name": "Johnny Colt",
+          "Roles": [
+            "Bass"
+          ],
+          "Years": "2003–2006",
+          "Overview": "Johnny Colt joined Train as bassist in 2003, stepping in during a turbulent lineup change and helping stabilize the live rhythm section. His tenure covered the My Private Nation touring cycle and the years leading up to the band's hiatus after 2006."
+        },
+        {
+          "Name": "Drew Shoals",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Years": "2014–2019",
+          "Overview": "Drew Shoals played drums and percussion for Train from 2014 to 2019, carrying the band through a touring-heavy stretch of the 2010s. He helped power the live show during the California 37 and Bulletproof Picasso era setlists."
+        },
+        {
+          "Name": "Luis Maldonado",
+          "Roles": [
+            "Lead guitar",
+            "Backing vocals"
+          ],
+          "Years": "2016–2021",
+          "Overview": "Luis Maldonado served as Train's lead guitarist and a prominent backing vocalist from 2016 to 2021. In that period he covered the band's key guitar lines from both the early catalog and the hit-heavy comeback years."
+        },
+        {
+          "Name": "Taylor Locke",
+          "Roles": [
+            "Lead guitar",
+            "Backing vocals"
+          ],
+          "Years": "2021–2025",
+          "Overview": "Taylor Locke joined Train in 2021 as lead guitarist and backing vocalist, continuing the band's modern pattern of a dedicated lead player supporting Pat Monahan's vocal-driven arrangements. His tenure spanned late-2010s material and the AM Gold-era touring set."
+        },
+        {
+          "Name": "Nikita Houston",
+          "Roles": [
+            "Backing vocals"
+          ],
+          "Years": "2012–2024",
+          "Overview": "Nikita Houston provided backing vocals for Train from 2012 to 2024, reinforcing the band's harmony-rich live sound as the catalog expanded. Her vocal support was especially important for the big chorus moments that define Train's biggest pop crossover singles."
+        },
+        {
+          "Name": "Sakai Smith",
+          "Roles": [
+            "Backing vocals"
+          ],
+          "Years": "2012–2024",
+          "Overview": "Sakai Smith sang backing vocals with Train from 2012 to 2024, helping recreate the stacked vocal textures heard on the band's studio recordings. As part of the touring vocal section, she supported the band's polished, pop-forward presentation in arenas and amphitheaters."
+        }
+      ]
     },
     {
       "ArtistID": "the-traveling-wilburys",
