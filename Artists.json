@@ -32133,8 +32133,544 @@
     {
       "ArtistID": "van-halen",
       "Name": "Van Halen",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Pasadena",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1972–2020"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Heavy metal",
+        "Arena rock",
+        "Glam metal"
+      ],
+      "Labels": [
+        "Warner Bros."
+      ],
+      "Overview": "Van Halen was an American rock band built around the explosive guitar work of Eddie Van Halen, the pounding groove of drummer Alex Van Halen, and a rotating cast of frontmen that defined distinct eras. Emerging from Southern California in the late 1970s, the group combined party‑ready hooks with musician-level precision, making hard rock feel both dangerous and radio-friendly at the same time.\n\nThe band’s early catalog with David Lee Roth helped set the template for 1980s mainstream rock: compact riffs, huge choruses, and a live-wire sense of showmanship. After the mid‑1980s shift to Sammy Hagar, Van Halen leaned into bigger, more anthemic songwriting while keeping the same guitar‑driven identity. Across decades, their sound—often summarized by Eddie’s unmistakable tone and rhythmic swing—remained one of classic rock’s defining signatures.",
+      "NotableAlbums": [
+        {
+          "Title": "Van Halen",
+          "Year": 1978,
+          "Notes": "The debut captured the band’s live intensity on record and introduced Eddie Van Halen as a major new guitar voice, pairing virtuoso moments with tight, hook-forward songs."
+        },
+        {
+          "Title": "Van Halen II",
+          "Year": 1979,
+          "Notes": "A fast follow‑up that doubled down on the band’s upbeat momentum, balancing heavier riffing with pop-leaning melodies and punchy harmony vocals."
+        },
+        {
+          "Title": "Women and Children First",
+          "Year": 1980,
+          "Notes": "A slightly darker, heavier turn that emphasized riff weight and swagger while still keeping the band’s rhythmic swing and humor intact."
+        },
+        {
+          "Title": "Fair Warning",
+          "Year": 1981,
+          "Notes": "Often cited for its harder edge and tense grooves, with aggressive guitar textures and a more brooding tone than the early party classics."
+        },
+        {
+          "Title": "Diver Down",
+          "Year": 1982,
+          "Notes": "A mixed set that still produced key staples and showcased the band’s ability to reinterpret material and pivot between hard rock and lighter moments."
+        },
+        {
+          "Title": "1984",
+          "Year": 1984,
+          "Notes": "A peak-era blockbuster that fused arena-rock power with synthesizer-driven pop instincts, delivering some of the band’s most enduring singles and a massive cultural footprint."
+        },
+        {
+          "Title": "5150",
+          "Year": 1986,
+          "Notes": "The first studio album with Sammy Hagar, shifting the band toward bigger choruses and a more anthemic voice while keeping Eddie’s guitar as the identity anchor."
+        },
+        {
+          "Title": "For Unlawful Carnal Knowledge",
+          "Year": 1991,
+          "Notes": "A return to a heavier guitar-forward feel in the Hagar era, built around thick riffs and high-energy singles aimed at live impact."
+        },
+        {
+          "Title": "Balance",
+          "Year": 1995,
+          "Notes": "A late-era Hagar entry that mixed hard rock punch with more reflective moments, showing a broader emotional range alongside the band’s signature drive."
+        },
+        {
+          "Title": "A Different Kind of Truth",
+          "Year": 2012,
+          "Notes": "A reunion-era release with David Lee Roth that leaned into riff-heavy classic Van Halen DNA, focusing on tight structures and guitar-led hooks."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Runnin' with the Devil",
+          "Year": 1978,
+          "Notes": "A signature opener built on a simple, ominous groove and huge riffing, setting the tone for the band’s debut-era swagger."
+        },
+        {
+          "Title": "Eruption",
+          "Year": 1978,
+          "Notes": "A landmark guitar showcase that helped popularize new lead techniques and tone concepts, becoming a shorthand for late‑1970s rock virtuosity."
+        },
+        {
+          "Title": "Ain't Talkin' 'Bout Love",
+          "Year": 1978,
+          "Notes": "A riff-driven staple whose tight, rhythmic hook and attitude-forward vocal made it one of the band’s most covered and referenced songs."
+        },
+        {
+          "Title": "Dance the Night Away",
+          "Year": 1979,
+          "Notes": "A bright, pop-leaning rocker that highlighted the band’s gift for melody and harmony without losing the hard-rock edge."
+        },
+        {
+          "Title": "And the Cradle Will Rock...",
+          "Year": 1980,
+          "Notes": "A crunching groove track that became a live favorite, built around chugging rhythm guitar and a memorable, swaggering vocal."
+        },
+        {
+          "Title": "Unchained",
+          "Year": 1981,
+          "Notes": "A heavy, propulsive riff anthem with a distinctive rhythmic feel, often cited as a high point of the band’s early hard-rock sound."
+        },
+        {
+          "Title": "(Oh) Pretty Woman",
+          "Year": 1982,
+          "Notes": "A high-profile cover that the band turned into a hard-rock singalong, showing their knack for making familiar material feel like theirs."
+        },
+        {
+          "Title": "Jump",
+          "Year": 1984,
+          "Notes": "The band’s most famous crossover hit, driven by an instantly recognizable synth line and stadium-sized chorus that defined an era of radio rock."
+        },
+        {
+          "Title": "Panama",
+          "Year": 1984,
+          "Notes": "A turbocharged rock single built for the stage, powered by riff momentum and one of the band’s most iconic chorus payoffs."
+        },
+        {
+          "Title": "Hot for Teacher",
+          "Year": 1984,
+          "Notes": "A high-speed showpiece with a famous drum intro and over-the-top energy, capturing the band’s humor, flash, and precision in one track."
+        },
+        {
+          "Title": "Why Can't This Be Love",
+          "Year": 1986,
+          "Notes": "A major Hagar-era single that leaned into big melodic hooks and glossy production while keeping the band’s rhythmic punch."
+        },
+        {
+          "Title": "Right Now",
+          "Year": 1991,
+          "Notes": "A Hagar-era anthem known for its uplifting chorus and a guitar-and-keys blend that fit the band’s early‑1990s stadium-rock approach."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1978,
+          "Title": "Breakthrough debut that reshaped late‑1970s hard rock guitar",
+          "Details": "The first album introduced Eddie Van Halen’s tone and lead vocabulary to mainstream rock, quickly becoming a reference point for the genre’s next decade."
+        },
+        {
+          "Year": 1979,
+          "Title": "Rapid consolidation as a major touring and radio act",
+          "Details": "The band’s early momentum translated into a sustained run of hits and packed shows, establishing them as a top-tier arena draw."
+        },
+        {
+          "Year": 1984,
+          "Title": "Peak-era mainstream crossover and enduring cultural footprint",
+          "Details": "The 1984 cycle produced signature singles and helped make the band a defining name of 1980s rock, bridging hard rock and pop audiences."
+        },
+        {
+          "Year": 1986,
+          "Title": "Successful reinvention with a new frontman",
+          "Details": "The switch to Sammy Hagar launched a second major chapter, proving the band could evolve while maintaining a recognizable guitar-led identity."
+        },
+        {
+          "Year": 1991,
+          "Title": "Heavier early‑1990s comeback feel within the Hagar era",
+          "Details": "A renewed emphasis on thick riffing and live energy kept Van Halen competitive as rock aesthetics shifted in the early 1990s."
+        },
+        {
+          "Year": 2007,
+          "Title": "Rock and Roll Hall of Fame induction",
+          "Details": "The band’s long-term impact on hard rock performance, songwriting, and guitar innovation was formally recognized with their Hall of Fame induction."
+        },
+        {
+          "Year": 2012,
+          "Title": "Reunion-era return with David Lee Roth",
+          "Details": "The group revisited its classic approach with new material, emphasizing riff-driven structures and the original frontman dynamic."
+        },
+        {
+          "Year": 1978,
+          "Title": "Enduring influence on guitar technique and tone culture",
+          "Details": "Eddie’s approach to tone, tapping, and rhythmic lead playing became foundational, influencing countless players and shaping the sound of mainstream rock guitar."
+        }
+      ],
+      "KeyFacts": [
+        "Known for Eddie Van Halen’s distinctive guitar tone and for popularizing two‑handed tapping in mainstream rock.",
+        "Experienced two major frontman eras: the original David Lee Roth period and the later Sammy Hagar period, each with a distinct songwriting feel.",
+        "Often cited as a defining arena-rock band whose live reputation matched its studio success."
+      ],
+      "ExternalLinks": {
+        "OfficialSite": "https://www.vanhalen.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Van_Halen",
+        "Discography": "https://en.wikipedia.org/wiki/Van_Halen_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Eddie Van Halen",
+          "Roles": [
+            "guitar",
+            "keyboards",
+            "songwriting",
+            "production"
+          ],
+          "Years": "1972–2020",
+          "Overview": "The band’s co‑founder and primary musical architect, known for an instantly recognizable guitar tone, innovative lead techniques, and tight, groove-driven riff writing.",
+          "Bio": {
+            "BioID": "bio-van-halen-eddie-van-halen",
+            "ArtistID": "van-halen",
+            "ArtistName": "Van Halen",
+            "MemberName": "Eddie Van Halen",
+            "FullName": "Edward Lodewijk Van Halen",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Heavy metal",
+              "Arena rock"
+            ],
+            "Birth": {
+              "Year": "1955",
+              "Place": "Amsterdam, Netherlands"
+            },
+            "ActiveYears": [
+              "1972–2020"
+            ],
+            "AssociatedActs": [
+              "Van Halen"
+            ],
+            "KeyAlbums": [
+              "Van Halen",
+              "1984",
+              "5150",
+              "For Unlawful Carnal Knowledge",
+              "A Different Kind of Truth"
+            ],
+            "KeySongs": [
+              "Eruption",
+              "Jump",
+              "Panama",
+              "Hot for Teacher",
+              "Unchained"
+            ],
+            "Achievements": [
+              "Helped define the sound and technique of modern rock guitar through tone experimentation and widely imitated lead methods.",
+              "Served as the band’s central songwriter and arranger across multiple lineup eras."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Eddie_Van_Halen"
+            },
+            "Biography": "Edward Van Halen was the guitarist, songwriter, and studio architect whose playing helped define late‑1970s and 1980s hard rock. His tone and phrasing were instantly recognizable, and his sense of rhythm turned flashy technique into hooks that served the song rather than overpowering it.\n\nWith Van Halen, he popularized a highly percussive, high‑gain approach that balanced clarity with aggression. His signature two‑handed tapping and wide interval leaps became part of rock’s common vocabulary, but his feel—tight, swinging, and dynamic—was what made the parts stick.\n\nEddie’s writing often started from a guitar riff or a rhythmic figure, then expanded into full arrangements with distinct sections and memorable transitions. Even when the band was at its most bombastic, the parts tended to be lean and functional, built around momentum and release.\n\nAs a studio-minded musician, he treated recording as an extension of composition. Layered guitar textures, carefully shaped effects, and precise overdubs helped give the band a polished sound that still felt live and immediate.\n\nHe also contributed keyboards and production ideas that pushed the band beyond guitar‑only hard rock. Those choices were key to the group’s early‑1980s peak, when big choruses and radio-ready structures amplified the band’s reach without removing its edge.\n\nAcross lineup changes, Eddie remained the through-line of the band’s identity. Whether fronted by David Lee Roth or Sammy Hagar, the sound ultimately revolved around his rhythm guitar drive, lead tone, and arrangement instincts.\n\nEddie’s influence is heard in generations of guitarists who adopted tapping, harmonics, and high‑energy riff construction as standard tools. Beyond technique, his approach encouraged players to chase a personal voice—tone, touch, and timing—rather than copy a template.\n\nLate in the band’s history, he continued to refine his playing and compositional approach, focusing on strong riffs and tight structures. His legacy within rock is both technical and musical: a rare blend of innovation, groove, and songcraft."
+          }
+        },
+        {
+          "Name": "Alex Van Halen",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1972–2020",
+          "Overview": "Co‑founder and drummer whose big, resonant sound and swinging groove anchored the band’s rhythmic identity.",
+          "Bio": {
+            "BioID": "bio-van-halen-alex-van-halen",
+            "ArtistID": "van-halen",
+            "ArtistName": "Van Halen",
+            "MemberName": "Alex Van Halen",
+            "FullName": "Alexander Arthur Van Halen",
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Heavy metal",
+              "Arena rock"
+            ],
+            "Birth": {
+              "Year": "1953",
+              "Place": "Amsterdam, Netherlands"
+            },
+            "ActiveYears": [
+              "1972–2020"
+            ],
+            "AssociatedActs": [
+              "Van Halen"
+            ],
+            "KeyAlbums": [
+              "Van Halen",
+              "1984",
+              "5150",
+              "For Unlawful Carnal Knowledge",
+              "A Different Kind of Truth"
+            ],
+            "KeySongs": [
+              "Hot for Teacher",
+              "Unchained",
+              "Jump",
+              "Panama"
+            ],
+            "Achievements": [
+              "Helped establish a hard-rock drum sound that was prominent, roomy, and central to the band’s mix and identity.",
+              "Maintained a distinctive groove-and-fill approach that locked tightly with Eddie’s rhythm guitar."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Alex_Van_Halen"
+            },
+            "Biography": "Alex Van Halen was the drummer and rhythmic backbone of Van Halen, known for powerful groove, crisp fills, and a feel that locked tightly with his brother Eddie’s rhythm guitar. His playing combined arena‑rock punch with a looseness that kept the band swinging even at high volume.\n\nRather than treating drums as a simple backbeat, Alex used tom patterns and syncopated accents to create motion inside the riffs. That approach helped the band’s early recordings feel energetic and live, with momentum driving each section change.\n\nHis kit sound became part of the band’s signature: big, resonant, and forward in the mix. The drums didn’t merely support the guitars—they competed for attention, helping the band sound larger than life without losing clarity.\n\nAlex’s relationship with Eddie was central to the group’s chemistry. Their parts often interlocked—guitar rhythms shaped around drum accents, and drum fills timed to set up guitar stabs—creating a tightly coordinated attack.\n\nDuring the Roth era, his drumming emphasized quick pivots and showy transitions that complemented the frontman’s theatrical phrasing. In the Hagar era, he maintained the same strength while supporting more expansive choruses and a slightly broader melodic style.\n\nHe was also a pragmatic arranger, helping the band keep songs compact and performance-ready. Many Van Halen tracks feel like stage vehicles because the rhythms were conceived with live impact in mind.\n\nAlex’s style influenced hard-rock drummers who wanted both size and groove—players who could hit hard but still swing. His combination of stadium-scale sound and nimble phrasing became a reference point for 1980s rock production.\n\nAcross the band’s run, Alex remained a constant presence, anchoring the lineup through shifts in personnel and direction. His drumming is a key reason Van Halen’s music retains its physical drive and distinct rhythmic identity."
+          }
+        },
+        {
+          "Name": "David Lee Roth",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1974–1985; 2006–2020",
+          "Overview": "The original frontman whose theatrical delivery and swaggering vocal style defined the band’s classic early era and later reunion period.",
+          "Bio": {
+            "BioID": "bio-van-halen-david-lee-roth",
+            "ArtistID": "van-halen",
+            "ArtistName": "Van Halen",
+            "MemberName": "David Lee Roth",
+            "FullName": "David Lee Roth",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Glam metal",
+              "Arena rock"
+            ],
+            "Birth": {
+              "Year": "1954",
+              "Place": "Bloomington, Indiana, United States"
+            },
+            "ActiveYears": [
+              "1974–present"
+            ],
+            "AssociatedActs": [
+              "Van Halen",
+              "Solo"
+            ],
+            "KeyAlbums": [
+              "Van Halen",
+              "1984",
+              "A Different Kind of Truth"
+            ],
+            "KeySongs": [
+              "Runnin' with the Devil",
+              "Ain't Talkin' 'Bout Love",
+              "Jump",
+              "Panama",
+              "Hot for Teacher"
+            ],
+            "Achievements": [
+              "Helped make Van Halen a defining arena-rock act through a charismatic, showman-led stage presence.",
+              "Co-defined the band’s classic personality and lyrical tone during its most iconic early run."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/David_Lee_Roth"
+            },
+            "Biography": "David Lee Roth was the flamboyant original frontman of Van Halen, known for swaggering vocals, rapid-fire patter, and a showman’s instinct for turning a rock band into a spectacle. His delivery mixed hard‑rock grit with playful phrasing that made even simple lines feel theatrical.\n\nIn the band’s early years, Roth helped shape a party‑charged identity that matched Eddie’s explosive guitar work. His vocals weren’t only about pitch; they were about attitude—timing, emphasis, and character were as important as melody.\n\nRoth’s lyrical voice leaned toward humor, bravado, and vivid imagery, often pushing songs into mini‑scenes rather than straightforward confessionals. That approach gave Van Halen a distinctive personality compared with many of their heavier contemporaries.\n\nOn stage, he was a kinetic performer who treated the concert as a full production. His physicality and crowd control amplified the band’s momentum, making Van Halen’s live reputation an essential part of their rise.\n\nDuring the classic run from the debut through 1984, Roth’s interplay with Eddie and Alex created a high‑wire feel—tight musicianship paired with a frontman who sounded like he was grinning through the danger. That chemistry is central to why the early catalog remains iconic.\n\nAfter leaving the band, Roth pursued a solo career that continued his larger‑than‑life persona, experimenting with different collaborators and stylistic angles. Even outside Van Halen, the traits that defined him—charisma, humor, and boldness—remained front and center.\n\nRoth later reunited with Van Halen, bringing the original frontman energy back into the group’s identity. The reunion era leaned into the classic dynamic, emphasizing riff-driven songs and the theatrical edge that helped make the band famous.\n\nWithin rock history, Roth represents a particular kind of frontman: part singer, part comedian, part ringmaster. His legacy with Van Halen is inseparable from the band’s early image—flashy, fun, and technically fierce."
+          }
+        },
+        {
+          "Name": "Sammy Hagar",
+          "Roles": [
+            "lead vocals",
+            "guitar"
+          ],
+          "Years": "1985–1996; 2003–2005",
+          "Overview": "Lead vocalist for the band’s second major era, bringing a bigger melodic approach and anthem-forward songwriting style.",
+          "Bio": {
+            "BioID": "bio-van-halen-sammy-hagar",
+            "ArtistID": "van-halen",
+            "ArtistName": "Van Halen",
+            "MemberName": "Sammy Hagar",
+            "FullName": "Samuel Roy Hagar",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Arena rock"
+            ],
+            "Birth": {
+              "Year": "1947",
+              "Place": "Salinas, California, United States"
+            },
+            "ActiveYears": [
+              "1967–present"
+            ],
+            "AssociatedActs": [
+              "Van Halen",
+              "Montrose",
+              "Solo",
+              "Chickenfoot"
+            ],
+            "KeyAlbums": [
+              "5150",
+              "OU812",
+              "For Unlawful Carnal Knowledge",
+              "Balance"
+            ],
+            "KeySongs": [
+              "Why Can't This Be Love",
+              "Right Now",
+              "Poundcake",
+              "Dreams"
+            ],
+            "Achievements": [
+              "Fronted a successful re-invention era that kept Van Halen at arena scale with major singles and albums.",
+              "Helped steer the band toward larger melodic hooks while retaining Eddie’s guitar-centered identity."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Sammy_Hagar"
+            },
+            "Biography": "Sammy Hagar is a vocalist and songwriter whose tenure with Van Halen marked a major second chapter for the band. Known for a strong melodic range and an anthemic approach, he helped steer the group toward bigger choruses and a slightly more expansive, radio-ready sound.\n\nBefore joining Van Halen, Hagar had established himself as a notable rock singer and frontman, building a reputation for energetic performances and a straightforward, muscular vocal style. That background made him a natural fit for a band that prized power and polish.\n\nWith Van Halen, Hagar fronted a run of albums that emphasized hooks, layered harmonies, and stadium-scale songwriting. The band retained Eddie’s signature guitar identity while leaning into a more overtly melodic approach than the late‑1970s catalog.\n\nHagar’s lyrics often favored motivational themes and romantic narratives over the wink-and-nod humor of the Roth years. The result was a different band personality—still loud and fast, but more earnest and anthem-oriented.\n\nLive, he brought consistency and vocal stamina that supported the band’s demanding catalog. His presence helped the group remain a major touring act during a period of shifting rock trends.\n\nCreative tensions eventually surfaced, as happens with many long-running bands, but Hagar’s era remains a defining part of the Van Halen story. It demonstrated the band’s ability to reinvent without abandoning its core instrumental voice.\n\nOutside Van Halen, Hagar’s broader career includes other major projects and a long solo run, keeping him visible as a distinct brand within classic rock. His identity as a frontman extends beyond any one band association.\n\nIn the context of Van Halen, Hagar is remembered as the singer who proved the band could survive—and thrive—after a seismic lineup change. His era broadened the catalog and kept the group relevant through the late 1980s and 1990s."
+          }
+        },
+        {
+          "Name": "Michael Anthony",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "1974–2006",
+          "Overview": "Longtime bassist and harmony vocalist whose steady groove and high backing harmonies were key elements of the classic band sound.",
+          "Bio": {
+            "BioID": "bio-van-halen-michael-anthony",
+            "ArtistID": "van-halen",
+            "ArtistName": "Van Halen",
+            "MemberName": "Michael Anthony",
+            "FullName": "Michael Anthony Sobolewski",
+            "PrimaryInstruments": [
+              "Bass",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Arena rock"
+            ],
+            "Birth": {
+              "Year": "1954",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "ActiveYears": [
+              "1970–present"
+            ],
+            "AssociatedActs": [
+              "Van Halen",
+              "Chickenfoot",
+              "The Circle"
+            ],
+            "KeyAlbums": [
+              "Van Halen",
+              "1984",
+              "5150",
+              "For Unlawful Carnal Knowledge",
+              "Balance"
+            ],
+            "KeySongs": [
+              "Jump",
+              "Panama",
+              "Why Can't This Be Love",
+              "Right Now"
+            ],
+            "Achievements": [
+              "Helped define the band’s signature chorus lift through distinctive high harmony vocals.",
+              "Anchored the rhythm section through the band’s most commercially visible decades."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Michael_Anthony_(musician)"
+            },
+            "Biography": "Michael Anthony is the bassist and harmony vocalist best known for his long run with Van Halen. His playing provided a steady low-end foundation, and his high harmonies were a signature ingredient in the band’s choruses—especially in the classic and arena-rock years.\n\nIn a band dominated by a virtuoso guitarist and a powerful drummer, Anthony’s role was often about stability and glue. His bass parts tended to be supportive and propulsive, reinforcing the riff and locking with Alex’s kick drum to keep the groove driving.\n\nVocally, he helped define the band’s stacked harmonies. Those bright, sustained backing lines added lift to choruses and gave the music a polished sheen that contrasted with the raw guitar tone.\n\nAnthony remained a constant presence through multiple phases of the band’s career, contributing to recordings and tours across the most commercially visible decades. His consistency helped the group maintain a recognizable ensemble sound.\n\nHe was also part of the band’s live identity—reliable, upbeat, and locked into the group’s performance style. Many Van Halen songs rely on ensemble punch, and Anthony’s steady presence supported that impact night after night.\n\nAfter his main tenure, Anthony continued playing in other notable rock projects, carrying forward the same strengths: solid time, supportive tone, and strong harmonies. His voice remained a key calling card.\n\nWithin the Van Halen story, Anthony is often cited as an underappreciated element of the classic sound. The band’s riffs and solos get the headlines, but the choruses land partly because the rhythm section and backing vocals are so tight.\n\nHis legacy is that of a band member who elevated the whole rather than competing for the spotlight. In a group built on flash, he brought balance—musically and vocally—that helped the songs endure."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Wolfgang Van Halen",
+          "Roles": [
+            "bass",
+            "backing vocals"
+          ],
+          "Years": "2006–2020",
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [
+            "A Different Kind of Truth"
+          ],
+          "Replacing": "Michael Anthony",
+          "ReplacedBy": "",
+          "Overview": "Joined as bassist in the later touring and recording period, providing modern low-end power and vocal support during the band’s final decade of activity."
+        },
+        {
+          "Name": "Gary Cherone",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1996–1999",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Van Halen III"
+          ],
+          "Replacing": "Sammy Hagar",
+          "ReplacedBy": "Sammy Hagar",
+          "Overview": "Brought in as lead singer for the late‑1990s lineup, fronting the band for a studio album and tours during a transitional period."
+        },
+        {
+          "Name": "Mark Stone",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1972–1974",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Michael Anthony",
+          "Overview": "An early bassist in the band’s formative years before the classic lineup solidified; part of the pre-breakthrough period that shaped the group’s live chemistry."
+        }
+      ]
     },
     {
       "ArtistID": "venom",
