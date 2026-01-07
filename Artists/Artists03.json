@@ -724,27 +724,394 @@
   {
     "ArtistID": "blood-sweat-and-tears",
     "Name": "Blood, Sweat & Tears",
-    "Type": "",
+    "Type": "Band",
     "Origin": {
-      "City": "",
-      "Region": "",
-      "Country": ""
+      "City": "New York City",
+      "Region": "New York",
+      "Country": "United States"
     },
-    "YearsActive": [],
-    "Genres": [],
-    "Labels": [],
-    "Overview": "",
-    "NotableAlbums": [],
-    "SignatureSongs": [],
-    "Achievements": [],
-    "KeyFacts": [],
+    "YearsActive": [
+      "1967–present"
+    ],
+    "Genres": [
+      "Jazz rock",
+      "Rock",
+      "Brass rock",
+      "Pop rock",
+      "R&B"
+    ],
+    "Labels": [
+      "Columbia"
+    ],
+    "Overview": "Blood, Sweat & Tears emerged from New York City’s late‑1960s club circuit with a bold idea: fuse a rock rhythm section with a full brass-and-reeds lineup and treat the horn arrangements as a front‑line voice, not window dressing. Founded in 1967 by Al Kooper, Bobby Colomby, and Steve Katz, the group’s debut *Child Is Father to the Man* established the template—soulful vocals, jazz‑trained players, and dramatic charts that could swing, punch, and breathe like a big band while still hitting with rock volume and attitude. That hybrid sound helped define what people now shorthand as “jazz‑rock,” and it opened the door for a wave of horn-driven rock acts that followed.\n\nThe band’s commercial peak arrived with their second album, the self‑titled *Blood, Sweat & Tears* (released in December 1968), fronted by vocalist David Clayton‑Thomas. The record topped U.S. album charts for multiple weeks, was later certified multi‑platinum, and produced a run of major singles that became radio staples—“Spinning Wheel,” “You’ve Made Me So Very Happy,” and “And When I Die,” each marrying pop hooks to brassy, rhythmically agile arrangements. That same album earned the Grammy Award for Album of the Year in 1970, a rare moment when a horn‑heavy, arrangement‑centric rock record swept all the way into the mainstream spotlight.\n\nBlood, Sweat & Tears were also a formidable live act, capable of stretching songs into extended showcases for their horn section and rhythm players—an approach that placed them comfortably on festival stages like Woodstock in 1969. The group’s history includes one of the era’s most debated crossroads: a U.S. State Department‑sponsored tour of Eastern Europe in 1970, which became a flashpoint in the culture wars of the time and is still discussed in retrospectives and documentaries. Across decades of lineup changes, the name has endured as a touring institution, but the late‑’60s run remains the touchstone—where songwriting, arranging, and sheer band power met at exactly the right moment.",
+    "NotableAlbums": [
+      {
+        "Title": "Child Is Father to the Man",
+        "Year": 1968,
+        "Notes": "Debut album (Kooper-led), a foundational jazz‑rock statement."
+      },
+      {
+        "Title": "Blood, Sweat & Tears",
+        "Year": 1968,
+        "Notes": "Breakthrough album; Grammy Album of the Year; includes the band’s best-known run of singles."
+      },
+      {
+        "Title": "Blood, Sweat & Tears 3",
+        "Year": 1970,
+        "Notes": "Follow‑up studio album featuring hits like “Hi‑De‑Ho” and “Lucretia MacEvil”."
+      },
+      {
+        "Title": "Greatest Hits",
+        "Year": 1972,
+        "Notes": "Era‑spanning compilation that cemented the classic singles as staples."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Spinning Wheel",
+        "Year": 1969,
+        "Notes": "Signature hit written by David Clayton‑Thomas; a defining horn‑rock single."
+      },
+      {
+        "Title": "You've Made Me So Very Happy",
+        "Year": 1969,
+        "Notes": "R&B‑leaning hit that became a classic‑rock staple."
+      },
+      {
+        "Title": "And When I Die",
+        "Year": 1969,
+        "Notes": "Top‑tier radio favorite with big brass and a soaring chorus."
+      },
+      {
+        "Title": "I Love You More Than You'll Ever Know",
+        "Year": 1968,
+        "Notes": "Fan‑favorite slow burner from the debut album."
+      },
+      {
+        "Title": "Hi‑De‑Ho",
+        "Year": 1970,
+        "Notes": "Hit single from *Blood, Sweat & Tears 3* (Carole King composition)."
+      },
+      {
+        "Title": "Lucretia MacEvil",
+        "Year": 1970,
+        "Notes": "Another peak‑era hit written by Clayton‑Thomas."
+      }
+    ],
+    "Achievements": [
+      {
+        "Title": "Grammy Award — Album of the Year",
+        "Year": 1970,
+        "Details": "Won for the album *Blood, Sweat & Tears* (released 1968)."
+      },
+      {
+        "Title": "#1 U.S. album run",
+        "Year": 1969,
+        "Details": "*Blood, Sweat & Tears* topped U.S. album charts for a combined seven weeks and became the group’s biggest seller."
+      },
+      {
+        "Title": "State Department–sponsored Eastern Europe tour",
+        "Year": 1970,
+        "Details": "High‑profile tour behind the Iron Curtain that became a cultural flashpoint for the band’s reputation."
+      },
+      {
+        "Title": "Woodstock performance",
+        "Year": 1969,
+        "Details": "Performed at the Woodstock Festival during the band’s peak-era live run."
+      }
+    ],
+    "KeyFacts": [
+      "Formed in New York City in 1967 by Al Kooper, Bobby Colomby, and Steve Katz.",
+      "Known for integrating a full horn section into rock arrangements—one of the defining “jazz‑rock / brass‑rock” templates of the late 1960s.",
+      "The self‑titled second album (released December 11, 1968) won the 1970 Grammy Award for Album of the Year and became multi‑platinum in the U.S.",
+      "Performed at Woodstock in August 1969 with the peak‑era lineup including David Clayton‑Thomas.",
+      "Undertook a U.S. State Department‑sponsored tour of Eastern Europe in 1970 (Yugoslavia, Romania, Poland), later widely discussed in retrospectives."
+    ],
     "ExternalLinks": {
-      "Official Site": "",
-      "Wikipedia": "",
-      "Discography": ""
+      "Wikipedia — Band overview": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears",
+      "Wikipedia — 1968 album": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears_%28Blood%2C_Sweat_%26_Tears_album%29",
+      "U.S. State Department record (Office of the Historian)": "https://history.state.gov/historicaldocuments/frus1917-72PubDipv08/d104",
+      "Rolling Stone — Iron Curtain tour feature": "https://www.rollingstone.com/music/music-features/blood-sweat-tears-iron-curtain-tour-movie-1234700472/"
     },
-    "CoreMembers": [],
-    "NonCoreMembers": []
+    "CoreMembers": [
+      {
+        "Name": "David Clayton-Thomas",
+        "YearsActive": "1968–1972; 1974–1975; 1984–1986; 1990–2004 (select tenures)",
+        "Years": "1968–1972; 1974–1975; 1984–1986; 1990–2004 (select tenures)",
+        "Roles": "Lead vocals; songwriter",
+        "Instruments": "Vocals",
+        "Albums": [
+          "Blood, Sweat & Tears (1968)",
+          "Blood, Sweat & Tears 3 (1970)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1941-09-13",
+            "Place": "Surrey, England"
+          },
+          "Nationality": "British-born; Canadian-raised",
+          "Roles": "Singer; songwriter",
+          "Instruments": "Vocals",
+          "FullText": "David Clayton‑Thomas (born David Henry Thomsett) brought a tough, soulful vocal presence to Blood, Sweat & Tears at the moment the band’s horn‑driven concept was ready to break wide. Born in Surrey, England in 1941 and raised in the Toronto area, he came up in R&B‑leaning bar bands where a singer had to command a room without safety nets.\n\nBefore the hits, he paid his dues in the Canadian club circuit, sharpening a voice that could shout, rasp, and then turn tender on a dime. That range mattered in BS&T, where songs could pivot from brass fanfare to intimate verse and back to full-band thunder.\n\nWhen he stepped in as lead singer for the band’s second album era, Clayton‑Thomas became the human anchor for arrangements that were as complex as any jazz chart but still aimed straight for pop radio. His phrasing—part blues belter, part storyteller—made the horn lines feel like extensions of the vocal rather than competing spotlights.\n\nHis songwriting also helped define the group’s signature: “Spinning Wheel” is built like a miniature suite, with shifting sections, brass breaks, and a chorus that lands like a mission statement. It’s one of those songs that feels inevitable once you hear it, but it only works because the vocal sells the turns with confidence.\n\nClayton‑Thomas’s presence didn’t erase the band’s jazz DNA; it translated it. Where the debut album often played like a downtown New York experiment in rock‑plus‑horns, the next phase sounded like a world‑class touring band that could be sophisticated without losing bite.\n\nAt the height of their success, the group became entangled in the era’s politics—most notably the U.S. State Department‑sponsored Eastern Europe tour in 1970. Whether you read that episode as naïveté, pressure, or pragmatic career navigation, it became part of the band’s public narrative and still shadows discussions of the period.\n\nClayton‑Thomas remained a defining face and voice through key recordings and live shows, helping the band balance radio ambitions with the improvisational energy of a horn section that wanted to stretch. Even on tightly arranged tracks, he delivered lines as if he were singing them for the first time.\n\nOutside the group, he pursued solo work and continued writing, often leaning into classic soul and adult‑contemporary craftsmanship. The through-line is always the voice: direct, rhythmic, and emotionally plainspoken.\n\nHis career has been recognized in Canadian music circles, reflecting how central his years in Canada were to his development and identity as a performer. That cross‑border background also shaped how audiences perceived him—British-born, Canadian-raised, then a star in an American band.\n\nFans often remember him as the frontman for the band’s most iconic era, but his contribution is bigger than a few hits. He helped prove that a horn‑heavy rock band could compete at the very top of the charts without sanding down the musicianship.\n\nListening back, the appeal is still immediate: the grit in his tone against bright brass, the swing in his timing, and the way he can ride a dense arrangement without being swallowed by it. It’s a rare skill set, and it’s a big reason those records still feel alive.\n\nClayton‑Thomas’s legacy in Blood, Sweat & Tears is the sound of a singer meeting a band at full power—then steering that power into songs that became part of the classic‑rock vocabulary.",
+          "HonoursAndMilestones": [
+            "Inducted into the Canadian Music Hall of Fame (as recognized by Canadian music institutions)."
+          ],
+          "FunFacts": [
+            "Wrote “Spinning Wheel,” one of the band’s defining hits.",
+            "Often credited as the frontman of the group’s most commercially dominant era."
+          ],
+          "Sources": [
+            {
+              "Title": "Canada’s Walk of Fame — David Clayton-Thomas",
+              "Url": "https://www.canadaswalkoffame.com/inductees/david-clayton-thomas/",
+              "Publisher": "Canada’s Walk of Fame"
+            },
+            {
+              "Title": "Wikipedia — David Clayton-Thomas",
+              "Url": "https://en.wikipedia.org/wiki/David_Clayton-Thomas",
+              "Publisher": "Wikipedia"
+            },
+            {
+              "Title": "Wikipedia — Blood, Sweat & Tears (album)",
+              "Url": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears_%28Blood%2C_Sweat_%26_Tears_album%29",
+              "Publisher": "Wikipedia"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Al Kooper",
+        "YearsActive": "1967–1968",
+        "Years": "1967–1968",
+        "Roles": "Founder; keyboards; songwriter; arranger",
+        "Instruments": "Organ; keyboards; guitar",
+        "Albums": [
+          "Child Is Father to the Man (1968)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1944-02-05",
+            "Place": "Brooklyn, New York, United States"
+          },
+          "Nationality": "American",
+          "Roles": "Musician; songwriter; producer",
+          "Instruments": "Keyboards; organ; guitar",
+          "FullText": "Al Kooper is one of those connective‑tissue figures in rock history: songwriter, keyboardist, guitarist, producer, and curator of scenes. Born in Brooklyn in 1944, he came up during the New York folk‑and‑blues revival, absorbing everything from Chicago blues records to the city’s songwriter culture.\n\nEarly on, Kooper showed a gift for being in the right room with the right idea. He moved quickly from teenage bands into professional sessions and collaborations, and he became known for hearing possibilities other people missed—how to turn a riff into a hook, how to frame a singer, how to make a record feel bigger than the sum of its parts.\n\nHis role in founding Blood, Sweat & Tears in 1967 wasn’t just “starting another band.” It was a proposal: put a serious horn section in a rock context, write and arrange with jazz ambition, and still aim for the visceral punch of a club band.\n\nOn the debut album *Child Is Father to the Man*, Kooper’s fingerprints are everywhere—organ textures, melodic sense, and a dramatic, almost cinematic approach to arrangement. The record plays like a manifesto for what the group could be, even before the famous hits arrived.\n\nKooper’s writing and taste leaned toward songs that could stretch—slow burners that built to climaxes, grooves that left room for horns to speak, and chord changes that nodded to jazz without turning into homework. That balance is hard, and it’s why the debut remains a cult favorite even among people who mostly know the later singles.\n\nHis time with the band was relatively brief, but it was foundational. He helped set the rules of the universe: horns as equals, arrangements as storytelling, and a willingness to let rock instrumentation coexist with brass voicings that normally lived in jazz clubs.\n\nAfter departing, Kooper’s career broadened into production and high‑impact collaborations. He became associated with discovering, developing, or championing artists and records across multiple styles, often bringing a musician’s ear to the producer’s chair.\n\nKooper’s broader reputation also rests on his ability to explain music as well as make it. He’s long been a sharp narrator of the era—someone who can break down why a performance works, why an arrangement matters, and what a band is actually doing when it clicks.\n\nAs a player, his keyboard work is less about flashy runs and more about architecture: building a harmonic floor, adding grit, and knowing when to leave space. That sensibility fed directly into how BS&T’s early sound felt both dense and breathable.\n\nWhen people trace the roots of jazz‑rock and horn‑rock, Kooper’s early BS&T blueprint shows up as a key reference point. It’s not the only lineage, but it’s one of the clearest examples of the form being invented in real time.\n\nRevisiting the debut today, you can hear the adventurousness that later bands would tame into a formula. Kooper’s version is messy in the best way—ambitious, emotional, and driven by the sense that rock could hold far more musical information than the standard guitar‑bass‑drums template.\n\nKooper’s place in the Blood, Sweat & Tears story is the spark and the design: he helped imagine the machine, helped build it, and then left a blueprint other musicians could run with.",
+          "FunFacts": [
+            "Co‑founded Blood, Sweat & Tears and helped define their original jazz‑rock blueprint.",
+            "Also known for a wide-ranging career as a producer and collaborator beyond BS&T."
+          ],
+          "Sources": [
+            {
+              "Title": "Wikipedia — Al Kooper",
+              "Url": "https://en.wikipedia.org/wiki/Al_Kooper",
+              "Publisher": "Wikipedia"
+            },
+            {
+              "Title": "Wikipedia — Blood, Sweat & Tears (band)",
+              "Url": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears",
+              "Publisher": "Wikipedia"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Bobby Colomby",
+        "YearsActive": "1967–1974 (classic era)",
+        "Years": "1967–1974 (classic era)",
+        "Roles": "Founder; drummer",
+        "Instruments": "Drums; percussion",
+        "Albums": [
+          "Child Is Father to the Man (1968)",
+          "Blood, Sweat & Tears (1968)",
+          "Blood, Sweat & Tears 3 (1970)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1944-12-20",
+            "Place": "New York City, New York, United States"
+          },
+          "Nationality": "American",
+          "Roles": "Drummer; co‑founder",
+          "Instruments": "Drums; percussion",
+          "FullText": "Bobby Colomby (born Robert Wayne Colomby in New York City in 1944) co‑founded Blood, Sweat & Tears and served as one of the band’s steadying forces through its most celebrated era. As a drummer, he had to do more than keep time—he had to make room for a horn section that could hit like a second rhythm engine.\n\nColomby’s playing style is often described in terms of feel: solid backbeats when the song needed rock weight, a lighter touch when the arrangement leaned toward swing, and crisp accents that locked tightly with brass punches. In a group built on arrangement, the drummer becomes the hinge, and Colomby was that hinge.\n\nAs a founding member, he helped shape the band’s identity before the big mainstream breakthrough. In the earliest phase, BS&T was as much a downtown New York experiment as a rock act, and the rhythm section had to be comfortable with quick stylistic shifts.\n\nWhen the band’s second album exploded, Colomby’s job got even harder: the music was now meant for radio, but it still carried the complexity of jazz charts. He kept the grooves direct enough to land with mass audiences while letting the horns and vocals move through intricate figures without chaos.\n\nLive, Colomby was part of what made the band feel powerful rather than merely “busy.” Horn‑rock can sound crowded if the rhythm section isn’t decisive. His drumming gave the arrangements a spine—clear downbeats, confident transitions, and dynamic control that made big moments feel earned.\n\nBeyond performance, Colomby was involved in the group’s internal direction and continuity, navigating the realities of lineup changes and the pressures of sudden fame. In bands with many members, leadership is often informal and distributed; Colomby was one of the people helping keep the machine functioning.\n\nHis work is tied closely to the band’s defining recordings, where the percussion is carefully integrated into the orchestration. The drum part isn’t just “the drum part”—it’s another arranged voice that interacts with stabs, breaks, and crescendos.\n\nColomby’s legacy also includes the band’s high‑profile cultural moments: major festival appearances, the peak‑era touring schedule, and the increasingly complicated public narratives that came with being a huge rock act in a politically charged time.\n\nIn discussions of BS&T, the spotlight often goes to singers or horn soloists, but drummers in horn bands do a special kind of labor. They provide clarity in dense charts and keep the energy forward when the arrangement could otherwise feel like a moving puzzle.\n\nListening to the classic tracks, you can hear that clarity—how the kick and snare define the pocket, how fills arrive exactly where the band needs them, how transitions land with authority. It’s disciplined playing that still feels alive.\n\nColomby’s contribution is also historical: as a founder, he helped establish the horn‑rock template that became a durable style. The band didn’t just add horns to rock; it integrated them structurally, and that integration depends on rhythm players who understand both worlds.\n\nIn the Blood, Sweat & Tears story, Colomby represents the foundation under the brass: the steady pulse that let ambitious arrangements hit hard, swing, and still feel like rock.",
+          "FunFacts": [
+            "Co‑founded the band in 1967 with Al Kooper and Steve Katz.",
+            "Drummed on the Grammy‑winning *Blood, Sweat & Tears* album."
+          ],
+          "Sources": [
+            {
+              "Title": "DrummerCafe — Bobby Colomby profile",
+              "Url": "https://drummercafe.com/featured/drummer-percussionist/bobby-colomby",
+              "Publisher": "DrummerCafe"
+            },
+            {
+              "Title": "Wikipedia — Bobby Colomby",
+              "Url": "https://en.wikipedia.org/wiki/Bobby_Colomby",
+              "Publisher": "Wikipedia"
+            },
+            {
+              "Title": "Wikipedia — Blood, Sweat & Tears (album)",
+              "Url": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears_%28Blood%2C_Sweat_%26_Tears_album%29",
+              "Publisher": "Wikipedia"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Steve Katz",
+        "YearsActive": "1967–1972 (classic era)",
+        "Years": "1967–1972 (classic era)",
+        "Roles": "Co‑founder; guitarist; vocals; songwriter",
+        "Instruments": "Guitar; vocals; harmonica",
+        "Albums": [
+          "Child Is Father to the Man (1968)",
+          "Blood, Sweat & Tears (1968)",
+          "Blood, Sweat & Tears 3 (1970)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Year": 1945,
+            "Place": "Brooklyn, New York, United States"
+          },
+          "Nationality": "American",
+          "Roles": "Guitarist; singer; songwriter; producer",
+          "Instruments": "Guitar; vocals; harmonica",
+          "FullText": "Steve Katz (born in Brooklyn, New York in 1945) is a guitarist, singer, and writer whose career sits at the intersection of folk revival, blues, and the horn‑driven rock explosion of the late ’60s. Before Blood, Sweat & Tears, he helped shape the New York scene through projects that valued musicianship and songcraft over easy formulas.\n\nAs a co‑founder of Blood, Sweat & Tears in 1967, Katz was part of the band’s original vision: rock instrumentation that could coexist with a serious horn section and arrangements that took cues from jazz without losing accessibility. In that context, guitar has to behave differently—it becomes both rhythmic glue and tonal contrast against brass.\n\nKatz’s playing tended toward supportive intelligence: locking with the rhythm section, reinforcing horn figures, and choosing parts that enhanced the arrangement instead of fighting it. That restraint is a skill, especially when the band around you is capable of enormous volume and density.\n\nHe also contributed as a vocalist and songwriter. One of the band’s most enduring deep‑cut ballads, “Sometimes in Winter,” is closely associated with Katz and highlights a softer side of the group—delicate, melodic, and emotionally direct, a counterweight to the brassy fireworks of the hit singles.\n\nDuring the peak years, Katz helped the band translate complex studio charts into performances that still felt spontaneous. In a group with many moving parts, stage cohesion is everything; Katz’s role was often the connective tissue between rhythm groove and horn architecture.\n\nHis tenure included the high‑profile festival era, with the band’s appearance at Woodstock becoming part of their legend. Performing in that environment demanded focus and professionalism—qualities that horn‑driven acts especially need when the arrangements are unforgiving.\n\nAfter his main run with BS&T, Katz expanded into production and other music‑industry roles, applying a musician’s sensibility to how records are built and presented. That broader career reflects a recurring theme: he’s interested in the craft of making music, not just the spotlight moments.\n\nKatz’s writing within BS&T often leaned toward melody and mood, and his contributions helped keep the band from being defined solely by bombast. The best horn‑rock groups have contrast—quiet to loud, intimate to grand—and Katz was central to that contrast.\n\nHis experience across folk, blues, and rock also made him a natural translator between styles. That matters in a band like BS&T, where a set might move from soul‑inflected balladry to jazz‑rock workouts without a clean seam.\n\nIn interviews and later reflections, Katz is often seen as a thoughtful witness to the era—someone who can describe what it felt like to be inside a band when rock music was rapidly expanding its vocabulary.\n\nRevisiting the classic BS&T recordings, his guitar and vocal contributions are easiest to appreciate in how seamlessly they sit inside the arrangements. The parts are chosen, not defaulted—an approach that helped the band’s dense sound remain intelligible.\n\nIn the band’s history, Katz represents the songwriter‑musician side of the equation: a co‑architect of the original concept and a key ingredient in making the horn‑rock experiment feel like a real band with real songs.",
+          "FunFacts": [
+            "Co‑wrote/associated with the band’s classic ballad “Sometimes in Winter.”",
+            "Part of the band’s Woodstock-era lineup."
+          ],
+          "Sources": [
+            {
+              "Title": "Steve Katz — official bio page",
+              "Url": "https://stevekatzmusic.wordpress.com/about/",
+              "Publisher": "SteveKatzMusic"
+            },
+            {
+              "Title": "Wikipedia — Steve Katz",
+              "Url": "https://en.wikipedia.org/wiki/Steve_Katz_(musician)",
+              "Publisher": "Wikipedia"
+            },
+            {
+              "Title": "Wikipedia — Blood, Sweat & Tears (band)",
+              "Url": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears",
+              "Publisher": "Wikipedia"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Jim Fielder",
+        "YearsActive": "1968–1975 (classic era)",
+        "Years": "1968–1975 (classic era)",
+        "Roles": "Bassist",
+        "Instruments": "Bass",
+        "Albums": [
+          "Blood, Sweat & Tears (1968)",
+          "Blood, Sweat & Tears 3 (1970)"
+        ],
+        "Bio": {
+          "Roles": "Bassist",
+          "Instruments": "Bass",
+          "FullText": "Jim Fielder was the bassist who anchored Blood, Sweat & Tears during the group’s defining late‑’60s/early‑’70s peak, providing the low‑end authority a horn‑heavy band needs. In arrangements packed with brass stabs, woodwind lines, and vocal hooks, the bass has to be both precise and flexible—locking the groove while also outlining changes that can be more harmonically adventurous than typical rock.\n\nFielder’s playing in BS&T is best heard as an engine: supportive, consistent, and rhythmically confident. He helped keep the band’s center of gravity stable when charts became busy, and he made the pocket feel obvious even when the arrangement was doing complicated things above it.\n\nBecause the band’s sound leaned into soul and jazz influences, the bass part often had to bridge styles—rock attack, R&B movement, and occasional jazz‑like walking feel—sometimes within the same song. That stylistic fluency is part of why the classic BS&T records still feel tight rather than cluttered.\n\nAs the group became a major touring act, Fielder’s steadiness mattered on stage. Live horn‑rock can unravel if the rhythm section doesn’t stay locked; his bass provided the “rail” the rest of the band could ride.\n\nFielder’s contribution is also about tone and placement. Instead of flashy spotlight moments, the bass tends to sit where it reinforces the kick drum and supports the brass hits, giving the music weight without muddying the arrangement.\n\nOn the band’s biggest songs, you can hear how the bass line helps the hooks land: it sets up the chorus, underlines the groove in the verse, and makes transitions feel like gears shifting smoothly.\n\nIn the larger story of Blood, Sweat & Tears, Fielder represents the craft of ensemble playing—where the goal is to make a complex arrangement feel effortless and propulsive.",
+          "Sources": [
+            {
+              "Title": "Wikipedia — Blood, Sweat & Tears (band)",
+              "Url": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears",
+              "Publisher": "Wikipedia"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Fred Lipsius",
+        "YearsActive": "1968–1974 (classic era)",
+        "Years": "1968–1974 (classic era)",
+        "Roles": "Alto saxophone; arranger",
+        "Instruments": "Alto saxophone; piano",
+        "Albums": [
+          "Blood, Sweat & Tears (1968)",
+          "Blood, Sweat & Tears 3 (1970)"
+        ],
+        "Bio": {
+          "Roles": "Saxophonist; arranger",
+          "Instruments": "Alto saxophone; piano",
+          "FullText": "Fred Lipsius was a central voice in Blood, Sweat & Tears’ horn identity—an alto saxophonist and arranger whose musicianship helped turn the band’s concept into a signature sound. Horn‑rock isn’t just about having brass on stage; it’s about voicings, dynamics, and how lines interlock with the rhythm section. Lipsius was one of the people who made that integration work.\n\nAs a player, he brought a jazz‑trained sensibility to a rock setting, capable of sharp, rhythmic figures as well as lyrical lines that sat comfortably beside pop vocals. That blend is a big part of why BS&T’s records don’t feel like a rock band “with horns” but like a unified ensemble.\n\nWithin the band’s classic era, Lipsius contributed to the overall shape of arrangements—how crescendos build, how horn punches answer vocal phrases, and how instrumental sections transition without losing momentum. The band’s hits are structured, but they’re structured in a way that still swings.\n\nLive, his role was also about consistency: delivering horn parts that have to be exact while still sounding energetic and human. In a large group, precision is the difference between powerful and messy.\n\nLipsius’s legacy in BS&T is the sound of disciplined horn writing executed with rock intensity—one of the key ingredients in making the band’s ambitious blend feel natural to mass audiences.",
+          "Sources": [
+            {
+              "Title": "Bethel Woods Center — BS&T band members",
+              "Url": "https://www.bethelwoodscenter.org/news/detail/blood-sweat-tears-50-years-of-peace-music",
+              "Publisher": "Bethel Woods Center for the Arts"
+            },
+            {
+              "Title": "Wikipedia — Blood, Sweat & Tears (band)",
+              "Url": "https://en.wikipedia.org/wiki/Blood%2C_Sweat_%26_Tears",
+              "Publisher": "Wikipedia"
+            }
+          ]
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Dick Halligan",
+        "YearsActive": "1967–1972 (select tenures)",
+        "Years": "1967–1972 (select tenures)",
+        "Roles": "Trombone; keyboards; arranger",
+        "Instruments": "Trombone; keyboards; flute",
+        "Albums": [
+          "Blood, Sweat & Tears (1968)",
+          "Blood, Sweat & Tears 3 (1970)"
+        ],
+        "Overview": "Early member and key arranger/soloist in the classic-era horn section; helped translate jazz vocabulary into rock-ready charts."
+      },
+      {
+        "Name": "Lew Soloff",
+        "YearsActive": "1968–1973 (classic era)",
+        "Years": "1968–1973 (classic era)",
+        "Roles": "Trumpet; featured soloist",
+        "Instruments": "Trumpet; flugelhorn",
+        "Albums": [
+          "Blood, Sweat & Tears (1968)",
+          "Blood, Sweat & Tears 3 (1970)"
+        ],
+        "Overview": "Trumpeter known for powerful tone and precision; part of the band’s peak touring and recording lineup."
+      },
+      {
+        "Name": "Chuck Winfield",
+        "YearsActive": "1968–1972 (classic era)",
+        "Years": "1968–1972 (classic era)",
+        "Roles": "Trumpet",
+        "Instruments": "Trumpet; flugelhorn",
+        "Albums": [
+          "Blood, Sweat & Tears (1968)"
+        ],
+        "Overview": "Core horn-section contributor during the breakthrough era, supporting the band’s signature brass voicings and punches."
+      },
+      {
+        "Name": "Jerry Hyman",
+        "YearsActive": "1968–1970 (classic era)",
+        "Years": "1968–1970 (classic era)",
+        "Roles": "Trombone",
+        "Instruments": "Trombone",
+        "Albums": [
+          "Blood, Sweat & Tears (1968)"
+        ],
+        "Overview": "Trombonist in the hit-era lineup, adding low-brass weight to the band’s tightly arranged sections."
+      },
+      {
+        "Name": "Randy Brecker",
+        "YearsActive": "1967–1968 (early)",
+        "Years": "1967–1968 (early)",
+        "Roles": "Trumpet",
+        "Instruments": "Trumpet",
+        "Albums": [
+          "Child Is Father to the Man (1968)"
+        ],
+        "Overview": "Early trumpet chair in the Kooper-led period; later became a major figure in jazz and fusion."
+      }
+    ]
   },
   {
     "ArtistID": "blue-oyster-cult",
