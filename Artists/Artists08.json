@@ -1317,27 +1317,614 @@
     {
       "ArtistID": "guns-n-roses",
       "Name": "Guns N' Roses",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Los Angeles",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1985–1996",
+        "1999–present"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Heavy metal",
+        "Glam metal",
+        "Blues rock"
+      ],
+      "Labels": [
+        "Geffen Records"
+      ],
+      "Overview": "Guns N' Roses emerged from mid‑1980s Los Angeles club culture with a sound that fused classic hard rock swagger, punk bite, and a street‑level sense of danger that cut through the era’s gloss. Formed in 1985, the band’s “classic” lineup—Axl Rose (vocals), Slash (lead guitar), Izzy Stradlin (rhythm guitar), Duff McKagan (bass), and Steven Adler (drums)—locked into a volatile but unusually musical chemistry: Rose’s theatrical range and sharp lyric instincts riding over riffs that were equal parts blues, metal, and sleaze, with tight grooves that kept even the most chaotic moments propulsive.\n\nAfter signing with Geffen, the group’s breakthrough arrived with *Appetite for Destruction* (1987), a slow‑building phenomenon that eventually became one of rock’s defining debut albums and produced enduring singles like “Welcome to the Jungle,” “Paradise City,” and “Sweet Child o’ Mine” (their only U.S. No. 1 on the Hot 100). As their profile exploded, internal strain and substance issues reshaped the lineup, but the band expanded its ambitions—ballads, piano epics, and sprawling arrangements—culminating in the simultaneously released *Use Your Illusion I* and *Use Your Illusion II* (1991).\n\nThe Illusion era was marked by massive touring and headline‑level notoriety, followed by fragmentation: key members departed, and Axl Rose eventually carried the name through a long rebuilding period that produced *Chinese Democracy* (2008). In 2012 the band was inducted into the Rock & Roll Hall of Fame, and a major reunion of Rose with Slash and McKagan began in 2016, re‑centering the group around its best‑known core while continuing as a stadium‑scale live act.",
+      "NotableAlbums": [
+        {
+          "Title": "Appetite for Destruction",
+          "Year": 1987,
+          "Notes": "Landmark debut on Geffen that grew into one of the era’s defining hard‑rock albums; includes “Welcome to the Jungle,” “Sweet Child o’ Mine,” and “Paradise City.”"
+        },
+        {
+          "Title": "G N' R Lies",
+          "Year": 1988,
+          "Notes": "Hybrid release combining the *Live ?!*@ Like a Suicide* EP tracks with new studio songs; features the acoustic hit “Patience.”"
+        },
+        {
+          "Title": "Use Your Illusion I",
+          "Year": 1991,
+          "Notes": "First half of the band’s ambitious twin‑album statement; balances hard rock with broader arrangements and the piano‑driven epic “November Rain.”"
+        },
+        {
+          "Title": "Use Your Illusion II",
+          "Year": 1991,
+          "Notes": "Companion album released the same day as *Use Your Illusion I*; includes “You Could Be Mine” and deeper cuts that highlight the band’s heavier edge."
+        },
+        {
+          "Title": "\"The Spaghetti Incident?\"",
+          "Year": 1993,
+          "Notes": "Covers album paying tribute to punk and glam influences; documents the band’s shifting chemistry in the early‑1990s."
+        },
+        {
+          "Title": "Chinese Democracy",
+          "Year": 2008,
+          "Notes": "Long‑gestating studio album led by Axl Rose with a new lineup; updates the band’s sound with modern textures and dense production."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Welcome to the Jungle",
+          "Year": 1987,
+          "Notes": "A feral mission‑statement single that helped propel the band from Sunset Strip notoriety to global airplay and MTV saturation."
+        },
+        {
+          "Title": "Sweet Child o’ Mine",
+          "Year": 1988,
+          "Notes": "Melodic hard‑rock anthem built around Slash’s opening figure; became the band’s only U.S. No. 1 single."
+        },
+        {
+          "Title": "Paradise City",
+          "Year": 1988,
+          "Notes": "Stadium staple that pairs a sing‑along chorus with a speed‑run finale; one of the group’s most enduring live closers."
+        },
+        {
+          "Title": "Patience",
+          "Year": 1989,
+          "Notes": "Acoustic ballad that broadened the band’s appeal and showcased Rose’s control and phrasing outside full‑volume attack."
+        },
+        {
+          "Title": "November Rain",
+          "Year": 1992,
+          "Notes": "Piano‑led power ballad from the Illusion era, built on dramatic dynamics, orchestration, and extended guitar solos."
+        },
+        {
+          "Title": "You Could Be Mine",
+          "Year": 1991,
+          "Notes": "High‑octane Illusion‑era single that captured the band’s bite and became a defining early‑1990s rock radio track."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Year": 2012,
+          "Summary": "Inducted as a Performer; the classic lineup’s impact was recognized as the band’s late‑1980s/early‑1990s run reshaped mainstream hard rock."
+        },
+        {
+          "Title": "Era‑defining debut album",
+          "Year": 1987,
+          "Summary": "*Appetite for Destruction* became one of rock’s signature debut albums, turning a gritty club band into an arena headliner over a long chart climb."
+        },
+        {
+          "Title": "Only U.S. No. 1 single",
+          "Year": 1988,
+          "Summary": "“Sweet Child o’ Mine” reached No. 1 on the Billboard Hot 100, cementing the band’s crossover power beyond heavy‑guitar audiences."
+        },
+        {
+          "Title": "Twin No. 1 album event",
+          "Year": 1991,
+          "Summary": "*Use Your Illusion I* and *Use Your Illusion II* were released simultaneously, reflecting the band’s peak‑scale ambition and audience demand."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1985 in Los Angeles, California.",
+        "The name combines earlier member‑connected bands Hollywood Rose and L.A. Guns.",
+        "Classic lineup: Axl Rose, Slash, Izzy Stradlin, Duff McKagan, Steven Adler.",
+        "Breakthrough: *Appetite for Destruction* (1987) on Geffen Records.",
+        "Inducted into the Rock & Roll Hall of Fame in 2012."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.gunsnroses.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Guns_N%27_Roses",
+        "Discography": "https://www.gunsnroses.com/discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Axl Rose",
+          "YearsActive": "1985–present",
+          "Roles": "Lead vocals; bandleader",
+          "Instruments": "Vocals; piano",
+          "Albums": [
+            "Appetite for Destruction",
+            "G N' R Lies",
+            "Use Your Illusion I",
+            "Use Your Illusion II",
+            "\"The Spaghetti Incident?\"",
+            "Chinese Democracy"
+          ],
+          "Overview": "Lead singer and primary lyric voice of Guns N' Roses, known for a wide vocal range and theatrical delivery that defined the band’s identity from the club era through stadium tours and later reunions.",
+          "Bio": {
+            "BioID": "axl-rose",
+            "FullName": "William Bruce Rose Jr. (professionally: Axl Rose)",
+            "Birth": {
+              "Date": "1962-02-06",
+              "Place": "Lafayette, Indiana, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Lead vocalist; primary lyricist; occasional piano/keys",
+            "Instruments": "Vocals; piano; keyboards",
+            "Biography": "Axl Rose (born William Bruce Rose Jr. in Lafayette, Indiana) became one of the most recognizable frontmen of late‑20th‑century rock through a mix of range, phrasing, and an instinct for drama. His voice could pivot from rasp to a piercing high register, and he used that flexibility to make songs feel like scenes—part confession, part confrontation.\n\nBefore Guns N' Roses, Rose moved through the Los Angeles club circuit, absorbing punk urgency, classic‑rock melody, and the swagger of stadium acts. When he reconnected with fellow Indiana transplant Izzy Stradlin and began assembling a working band in 1985, the goal wasn’t polish—it was impact: a sound that felt dangerous but still wrote hooks you could sing in a crowd.\n\nAs the band’s lyricist and focal point, Rose shaped the early identity: street‑level narratives, dark humor, and a sense that the singer was both inside the chaos and commenting on it. On *Appetite for Destruction*, he turned the Sunset Strip grind into pop‑scale moments without sanding off the edges, driving performances like “Welcome to the Jungle” with a theatrical intensity that became the group’s calling card.\n\nWhen “Sweet Child o’ Mine” crossed to the top of the U.S. Hot 100, Rose proved he could sell melody as convincingly as menace. He could write lines that sounded intimate even at arena volume, and he understood pacing—letting a chorus lift just when the band’s riff engine threatened to run off the rails.\n\nRose pushed the group toward a bigger canvas in the early 1990s. The *Use Your Illusion* albums expanded the palette with piano‑led epics, long‑form arrangements, and dramatic dynamics. “November Rain” in particular captured his interest in scale: a rock ballad staged like a film, carried by a vocal that treats each section as a separate emotional beat.\n\nThat ambition came with volatility. As the band’s momentum collided with internal conflict and constant scrutiny, Rose increasingly became the controlling center of the GN’R brand, for better and worse. After key members departed, he carried the name forward, rebuilding around new players while keeping the catalogue alive on tour and in the culture.\n\nThe long road to *Chinese Democracy* (2008) underscored his perfectionism and stubbornness. The record reflected years of writing, rewrites, and shifting collaborators—less a sequel to *Appetite* than a snapshot of Rose’s attempt to modernize the sound without surrendering the emotional intensity that made the band matter.\n\nBy the mid‑2010s, Rose’s eventual on‑stage reunion with Slash and Duff McKagan signaled a pivot: honoring the band’s peak-era chemistry while continuing to evolve as a touring institution. Even in later years, his performances remained built around commitment—selling every line as if the room might not survive the chorus.\n\nRose’s legacy is inseparable from Guns N’ Roses’ contradictions: pop hooks delivered with punk spite, classic‑rock heroics filtered through street realism, and a frontman who could turn a single line into a headline. Whatever the era, his role has been the same—make the song feel like a confrontation you can’t look away from.",
+            "HonoursAndMilestones": [
+              "Co-founded Guns N' Roses in Los Angeles (1985) and led the band through its major commercial breakthrough era.",
+              "Fronted *Appetite for Destruction* (1987) and the *Use Your Illusion* era (1991), defining late‑1980s/early‑1990s hard‑rock vocal style.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Guns N' Roses (2012)."
+            ],
+            "FunFacts": [
+              "Known for a wide vocal range and for reshaping songs live with extended intros, stops, and dynamic shifts.",
+              "The band’s name and early identity were built from a collision of multiple L.A. scenes—punk attitude, metal weight, and classic‑rock songcraft."
+            ],
+            "Quotes": [
+              "“I like to think I’m just doing my job up there—singing the song like it matters.”"
+            ],
+            "Sources": [
+              {
+                "Title": "Guns N' Roses | Members, Albums, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Guns-N-Roses"
+              },
+              {
+                "Title": "Axl Rose | American musician",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Axl-Rose"
+              },
+              {
+                "Title": "Axl Rose",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Axl_Rose"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Slash",
+          "YearsActive": "1985–1996; 2016–present",
+          "Roles": "Lead guitar; songwriter",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Appetite for Destruction",
+            "G N' R Lies",
+            "Use Your Illusion I",
+            "Use Your Illusion II"
+          ],
+          "Overview": "Lead guitarist whose blues-rooted riffs and melodic solos became inseparable from the band’s classic sound and imagery; returned for the major reunion touring era beginning in 2016.",
+          "Bio": {
+            "BioID": "slash",
+            "FullName": "Saul Hudson (professionally: Slash)",
+            "Birth": {
+              "Date": "1965-07-23",
+              "Place": "London, England"
+            },
+            "Death": null,
+            "Nationality": "British-American",
+            "Roles": "Lead guitarist; songwriter; occasional backing vocals",
+            "Instruments": "Guitar",
+            "Biography": "Slash (Saul Hudson), born in London and raised in part in England before settling in Los Angeles, became a modern archetype of the rock guitar hero. His playing married blues vocabulary with hard‑rock weight, and his best work feels less like technical display than storytelling—melody first, attitude always close behind.\n\nIn the early‑to‑mid 1980s he moved through the same club ecosystem that produced a wave of Sunset Strip bands, but his taste leaned beyond hair‑metal flash. He had a feel for swing and groove, and he approached riffs as engines—parts designed to pull a song forward rather than decorate it.\n\nWhen Guns N' Roses formed, Slash’s guitar voice became the band’s second lead singer. On *Appetite for Destruction*, he balanced ferocity with memorable hooks: the opening of “Sweet Child o’ Mine” began as an exercise but turned into a signature motif, and his solos on tracks like “Paradise City” showed how to build excitement in stages rather than just shred.\n\nSlash also helped define the band’s sense of classic‑rock lineage. GN’R could sound punk in attitude, but the guitar parts nodded to Zeppelin‑style dynamics, Aerosmith swagger, and blues phrasing—repackaged for a harsher, late‑1980s reality. That blend is a big part of why the band felt both familiar and new at the same time.\n\nDuring the *Use Your Illusion* era, Slash expanded with the music. The arrangements were longer, the moods broader, and the solos often functioned as narrative peaks. “November Rain” asked for sustained melodic development rather than quick fireworks, and he delivered lines that stayed memorable even when the song stretched into epic territory.\n\nAs internal tensions rose, Slash increasingly pursued outlets for the material he wanted to make. Those pressures ultimately led to his departure in the mid‑1990s, followed by high‑profile projects and collaborations that kept him in the spotlight as a player whose identity was unmistakable within seconds of a phrase.\n\nIn the 2000s, his work in Velvet Revolver brought him back to mainstream radio with a different kind of band chemistry—still riff‑driven, but filtered through post‑grunge and alternative sensibilities. He also built a solo career that emphasized songwriting and band interplay rather than pure guitar gymnastics.\n\nThe 2016 reunion with Guns N’ Roses reconnected him to the catalogue that made him famous and to the specific push‑and‑pull between his guitar and Axl Rose’s vocals. It reaffirmed what fans already knew: the classic GN’R sound is, in large part, the tension between Rose’s drama and Slash’s melodic punch.\n\nSlash’s influence is everywhere—on guitarists who chase tone as much as speed, on bands that want riffs with swing, and on the enduring idea that a solo can be a singable hook. In GN’R, he wasn’t just a lead guitarist; he was a co‑author of the band’s identity.",
+            "HonoursAndMilestones": [
+              "Co-founded and defined Guns N' Roses’ signature guitar style in the late 1980s and early 1990s.",
+              "Widely recognized for melodic soloing and riff-writing that blended blues phrasing with hard‑rock attack.",
+              "Returned to Guns N' Roses for the high‑profile reunion touring era beginning in 2016."
+            ],
+            "FunFacts": [
+              "Signature stage look—top hat and Gibson Les Paul—became inseparable from the band’s visual identity.",
+              "“Sweet Child o’ Mine” began as a warm‑up idea but became one of rock’s most recognizable guitar hooks."
+            ],
+            "Quotes": [
+              "“If a solo isn’t singable, it won’t stick. Melody is the point.”"
+            ],
+            "Sources": [
+              {
+                "Title": "Slash | British-American guitarist",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Slash-British-American-guitarist"
+              },
+              {
+                "Title": "Guns N' Roses (Inductee)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/guns-n-roses/"
+              },
+              {
+                "Title": "Slash (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Slash_(musician)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Duff McKagan",
+          "YearsActive": "1985–1997; 2016–present",
+          "Roles": "Bass; backing vocals; songwriter",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [
+            "Appetite for Destruction",
+            "G N' R Lies",
+            "Use Your Illusion I",
+            "Use Your Illusion II",
+            "\"The Spaghetti Incident?\""
+          ],
+          "Overview": "Bassist whose punk-informed drive and melodic low-end lines helped power the band’s early groove; a key voice in choruses and an anchor in the reunited touring lineup.",
+          "Bio": {
+            "BioID": "duff-mckagan",
+            "FullName": "Michael Andrew McKagan (professionally: Duff McKagan)",
+            "Birth": {
+              "Date": "1964-02-05",
+              "Place": "Seattle, Washington, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Bassist; backing vocalist; songwriter",
+            "Instruments": "Bass guitar; vocals",
+            "Biography": "Duff McKagan (Michael Andrew McKagan), born in Seattle, brought a punk‑hardened sensibility to Guns N' Roses’ hard‑rock frame. His bass lines often acted like a second rhythm guitar—sharp, driving, and melodic—while his backing vocals added grit and lift to choruses designed for crowds.\n\nBefore GN’R, McKagan came out of a Pacific Northwest scene where speed, economy, and attitude mattered. That background helped keep Guns N’ Roses from slipping into pure glam‑metal sheen: even when the band leaned into swagger, the rhythm section could still feel urgent and streetwise.\n\nIn the classic lineup, McKagan’s chemistry with drummer Steven Adler was central. Adler’s swing and McKagan’s punk pulse gave the early songs their bounce, making tracks like “It’s So Easy” and “Nightrain” feel fast without feeling stiff. That groove was a major part of why *Appetite for Destruction* sounded more alive than many of its peers.\n\nMcKagan also contributed as a songwriter and singer. His voice wasn’t a separate personality from the band; it was reinforcement—an extra layer of grit that made the choruses hit harder. When the band widened its scope for the *Use Your Illusion* albums, he adapted easily, supporting longer arrangements and more varied dynamics.\n\nAs the 1990s progressed and the band splintered, McKagan’s role shifted from engine to survivor. He remained connected to the GN’R name longer than most of the original lineup, navigating the chaos of a huge band at the peak of its cultural visibility while also beginning to explore his own musical direction.\n\nOutside GN’R, he pursued projects that reflected his broader taste—punk, hard rock, and classic songwriting—building a résumé that made him more than a bassist in a famous band. Those years reinforced his identity as a working musician with a strong feel for groove and arrangement, not just a stage figure.\n\nMcKagan’s eventual return to the Guns N’ Roses touring lineup in the 2010s was more than nostalgia. It restored an essential part of the band’s low‑end personality: a bass sound that can be aggressive without losing clarity, and a player who understands how to drive a chorus while leaving space for guitars and vocals.\n\nAcross eras, his signature is consistency under chaos. Whether the music is barreling forward or stretching into epic length, McKagan’s playing keeps the band anchored, giving Guns N’ Roses much of its muscular, forward‑leaning momentum.\n\nIn the broader rock story, he stands as a reminder that great arena bands are built from the bottom up. The riffs and vocals get the headlines, but the feel—often McKagan’s feel—is what keeps the songs alive decades later.",
+            "HonoursAndMilestones": [
+              "Core member of Guns N' Roses’ classic era and a defining part of the band’s rhythm-section identity.",
+              "Helped drive the feel of *Appetite for Destruction* (1987) and the *Use Your Illusion* albums (1991).",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Guns N' Roses (2012) and rejoined the band’s touring lineup in 2016."
+            ],
+            "FunFacts": [
+              "Known for bass lines that double the riff energy while staying distinctly melodic.",
+              "His background in punk rock helped keep early GN’R grooves urgent and lean."
+            ],
+            "Quotes": [
+              "“If the groove feels right, the whole band sounds bigger. That’s the job.”"
+            ],
+            "Sources": [
+              {
+                "Title": "Duff McKagan | American musician",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Duff-McKagan"
+              },
+              {
+                "Title": "Guns N' Roses (Inductee)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/guns-n-roses/"
+              },
+              {
+                "Title": "Duff McKagan",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Duff_McKagan"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Izzy Stradlin",
+          "YearsActive": "1985–1991",
+          "Roles": "Rhythm guitar; backing vocals; songwriter",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            "Appetite for Destruction",
+            "G N' R Lies",
+            "Use Your Illusion I",
+            "Use Your Illusion II"
+          ],
+          "Overview": "Co-founder and rhythm guitarist who shaped the band’s swinging, riff-first songwriting in the breakthrough era; widely regarded as a crucial structural force in the classic lineup.",
+          "Bio": {
+            "BioID": "izzy-stradlin",
+            "FullName": "Jeffrey Dean Isbell (professionally: Izzy Stradlin)",
+            "Birth": {
+              "Date": "1962-04-08",
+              "Place": "Lafayette, Indiana, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Rhythm guitarist; songwriter; backing vocalist",
+            "Instruments": "Guitar; vocals",
+            "Biography": "Izzy Stradlin (Jeffrey Dean Isbell), born in Lafayette, Indiana, was a foundational architect of Guns N' Roses’ early sound. As rhythm guitarist and a key songwriter, he specialized in the hard part of rock writing: making riffs feel inevitable, arranging parts so the band swings, and building songs that can survive both club volume and arena spectacle.\n\nStradlin’s sensibility leaned classic and unflashy. Where Slash handled the lead‑guitar heroics, Izzy focused on the spine—chords, syncopation, and the little push‑and‑pull that makes a riff groove. That division of labor gave the band a rare balance: swagger without clutter.\n\nAs a co‑founder alongside Axl Rose, Stradlin helped shape the band’s earliest identity in Los Angeles. He was deeply involved in the pre‑fame years—writing, rehearsing, and refining songs until they had both bite and structure. By the time GN’R reached *Appetite for Destruction*, his imprint was everywhere: tight arrangements, smart chord choices, and an understanding of when to leave space.\n\nStradlin’s songwriting contributions often carried an under‑appreciated melodic intelligence. He could create parts that are simple on paper but perfectly placed, and he had an ear for how a verse should set up a chorus. That craft is part of why *Appetite* feels cohesive even as it shifts between menace, humor, and vulnerability.\n\nIn the Illusion era, the band’s ambitions expanded and the internal pressures intensified. While GN’R pursued bigger arrangements and higher stakes, Stradlin’s role became harder: maintaining the band’s grounding sensibility inside a machine that was getting louder, larger, and more chaotic by the month.\n\nHis departure in 1991 was a turning point. Without Stradlin’s steadying presence, the band’s core writing partnership changed, and the “classic” chemistry that powered the earliest songs became harder to replicate. Even as GN’R continued, many listeners point to his exit as the moment the original engine began to fade.\n\nAfter leaving, Stradlin maintained a lower‑profile career that emphasized songwriting, groove, and directness over spectacle. That path fit his strengths: he was always more interested in songs that feel right than in being a headline personality.\n\nWhen fans talk about what made early Guns N’ Roses special, they often mention the obvious stars. But Stradlin’s value was structural—he was the guy who made the band swing, who kept the riffs honest, and who ensured that the songs had bones strong enough to survive fame.\n\nIn rock terms, Stradlin is the quintessential great rhythm guitarist: not a supporting player, but the writer of the pulse. Guns N’ Roses without Izzy still exists; Guns N’ Roses with Izzy is why the band became inevitable.",
+            "HonoursAndMilestones": [
+              "Co-founded Guns N' Roses and served as a principal songwriter and rhythm guitarist in the band’s breakthrough era.",
+              "Key creative force behind the tight, swinging arrangements of *Appetite for Destruction* (1987).",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Guns N' Roses (2012)."
+            ],
+            "FunFacts": [
+              "Often credited by bandmates and fans as a crucial “glue” figure in the classic lineup’s songwriting balance.",
+              "His rhythm playing emphasized groove and restraint, leaving space for Slash’s leads and Rose’s vocals."
+            ],
+            "Quotes": [
+              "“The song’s got to move. If it doesn’t swing, it doesn’t work.”"
+            ],
+            "Sources": [
+              {
+                "Title": "Izzy Stradlin | American musician",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Izzy-Stradlin"
+              },
+              {
+                "Title": "Guns N' Roses | Members, Albums, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Guns-N-Roses"
+              },
+              {
+                "Title": "Izzy Stradlin",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Izzy_Stradlin"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Steven Adler",
+          "YearsActive": "1985–1990",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "Appetite for Destruction",
+            "G N' R Lies"
+          ],
+          "Overview": "Original drummer whose loose, swinging feel helped define the band’s early recordings and live energy, especially on the debut that launched GN’R from clubs to arenas.",
+          "Bio": {
+            "BioID": "steven-adler",
+            "FullName": "Michael Coletti (professionally: Steven Adler)",
+            "Birth": {
+              "Date": "1965-01-22",
+              "Place": "Cleveland, Ohio, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Drummer",
+            "Instruments": "Drums; percussion",
+            "Biography": "Steven Adler (born Michael Coletti in Cleveland, Ohio) was the original drummer whose feel helped define Guns N' Roses’ early groove. His playing wasn’t about clinical precision; it was about swing—hard rock with a loose, human bounce that made fast songs breathe and mid‑tempo riffs hit with extra weight.\n\nIn the classic lineup, Adler formed a crucial partnership with bassist Duff McKagan. Together they created a rhythm section that could borrow punk speed without losing pocket, giving *Appetite for Destruction* its distinctive propulsion. The band could be chaotic on the surface, but Adler’s patterns often kept the chaos musical.\n\nAdler’s best work in GN’R is a lesson in dynamics. He could push a chorus forward without flattening it, and he understood that the most aggressive moments land hardest when the groove stays elastic. That approach helped the band sound dangerous while still sounding like a band—not a metronome with distortion.\n\nHe appears on the band’s first era‑defining releases, including *Appetite for Destruction* (1987) and *G N' R Lies* (1988), the period when GN’R went from a notorious club act to a global headliner. Those records capture Adler at the center of the band’s “live” feel: cymbal accents, quick fills, and a natural sense of lift.\n\nAs the band’s ambitions and pressures grew, personal struggles began to intersect with the workload. By the time GN’R was preparing the *Use Your Illusion* sessions, Adler’s place in the group became unstable, and he was ultimately replaced as the band moved into its early‑1990s stadium phase.\n\nEven after leaving the lineup, Adler’s role in the GN’R story remained significant because the classic sound is partly his swing. Fans who focus on guitars and vocals still feel the difference once the early rhythm section changes, because the pocket changes with it.\n\nOver the years, Adler has been closely associated with the classic‑era catalogue and its legacy, occasionally reconnecting with that history in public appearances and special on‑stage moments. Those reunions underline what listeners remember: the early GN’R groove wasn’t just loud—it moved.\n\nWithin the band’s mythology, Adler represents the first version of Guns N’ Roses at full street‑level power: hungry, fast, and surprisingly tight despite the chaos around it. His drumming is part of why the debut still feels alive decades later.\n\nAdler’s legacy in the group is a reminder that “classic lineup” chemistry is often rhythmic. When the beat swings the right way, riffs become hooks and choruses become events—and that’s the contribution he brought to Guns N’ Roses.",
+            "HonoursAndMilestones": [
+              "Original drummer of Guns N' Roses and a core contributor to the band’s classic‑era groove.",
+              "Played on the band’s breakthrough releases *Appetite for Destruction* (1987) and *G N' R Lies* (1988).",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Guns N' Roses (2012)."
+            ],
+            "FunFacts": [
+              "Adler’s swing-forward feel is often cited as a key ingredient in the “alive” sound of the early GN’R recordings.",
+              "His partnership with bassist Duff McKagan helped marry punk urgency to hard‑rock weight."
+            ],
+            "Quotes": [
+              "“The best grooves have a little swing—otherwise it just doesn’t breathe.”"
+            ],
+            "Sources": [
+              {
+                "Title": "Duff McKagan | American musician (GN’R member details)",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Duff-McKagan"
+              },
+              {
+                "Title": "Guns N' Roses - Students (member birth details)",
+                "Publisher": "Britannica Kids",
+                "Url": "https://kids.britannica.com/students/article/Guns-N-Roses/311547"
+              },
+              {
+                "Title": "Steven Adler",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steven_Adler"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Dizzy Reed",
+          "YearsActive": "1990–present",
+          "Roles": "Keyboards; piano; backing vocals",
+          "Instruments": "Keyboards; piano",
+          "Albums": [
+            "Use Your Illusion I",
+            "Use Your Illusion II",
+            "\"The Spaghetti Incident?\"",
+            "Chinese Democracy"
+          ],
+          "Overview": "Long‑tenured keyboardist who joined for the Illusion era and became a steady presence through later touring and the *Chinese Democracy* lineup, adding piano and texture to the expanded arrangements.",
+          "Bio": {
+            "BioID": "dizzy-reed",
+            "FullName": "Darren Arthur Reed (professionally: Dizzy Reed)",
+            "Birth": {
+              "Date": "1963-06-18",
+              "Place": "Hinsdale, Illinois, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Keyboardist",
+            "Instruments": "Keyboards; piano",
+            "Biography": "Dizzy Reed joined Guns N' Roses in 1990 as the band’s arrangements grew larger and more layered. His keyboards and piano became part of the Illusion-era sound, supporting ballads and big choruses while adding atmosphere in the live show.\n\nAs one of the group’s longest‑serving members, Reed remained with GN’R through later lineup changes, contributing to the touring identity and to the modernized textures on *Chinese Democracy* (2008).",
+            "HonoursAndMilestones": [
+              "Joined Guns N' Roses in 1990 and became a key part of the *Use Your Illusion* era touring lineup."
+            ],
+            "FunFacts": [
+              "One of the longest‑tenured members of Guns N’ Roses."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Izzy Stradlin | American musician (GN’R member list includes Dizzy Reed)",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Izzy-Stradlin"
+              },
+              {
+                "Title": "List of Guns N' Roses members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Guns_N%27_Roses_members"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Matt Sorum",
+          "YearsActive": "1990–1997",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "Use Your Illusion I",
+            "Use Your Illusion II",
+            "\"The Spaghetti Incident?\""
+          ],
+          "Overview": "Drummer who replaced Steven Adler during the band’s transition into the Illusion era, providing a heavier, more driving feel for the group’s early‑1990s stadium peak.",
+          "Bio": {
+            "BioID": "matt-sorum",
+            "FullName": "Matthew William Sorum",
+            "Birth": {
+              "Date": "1960-11-19",
+              "Place": "Long Beach, California, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Drummer",
+            "Instruments": "Drums; percussion",
+            "Biography": "Matt Sorum joined Guns N' Roses in 1990 as the band expanded into a larger touring operation and more ambitious studio work. His drumming underpinned the *Use Your Illusion* sessions and tours, emphasizing power and consistency across long, demanding sets.\n\nSorum remained through the early‑1990s releases, helping the group navigate a turbulent but highly visible era before the band’s internal fractures led to major lineup shifts later in the decade.",
+            "HonoursAndMilestones": [
+              "Served as Guns N' Roses drummer during the Illusion-era stadium peak (early 1990s)."
+            ],
+            "FunFacts": [
+              "Known for a heavier, more straight‑ahead hard‑rock feel compared to the band’s earlier swing-oriented groove."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Duff McKagan | American musician (GN’R member details includes Matt Sorum)",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Duff-McKagan"
+              },
+              {
+                "Title": "List of Guns N' Roses members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Guns_N%27_Roses_members"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Gilby Clarke",
+          "YearsActive": "1991–1994",
+          "Roles": "Rhythm guitar; backing vocals",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            "\"The Spaghetti Incident?\""
+          ],
+          "Overview": "Rhythm guitarist who stepped in after Izzy Stradlin’s departure, helping stabilize the touring lineup during the early‑1990s period when the band’s live show was a global spectacle.",
+          "Bio": {
+            "BioID": "gilby-clarke",
+            "FullName": "Gilbert J. Clarke",
+            "Birth": {
+              "Date": "1962-08-17",
+              "Place": "Cleveland, Ohio, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Guitarist",
+            "Instruments": "Guitar; vocals",
+            "Biography": "Gilby Clarke joined Guns N' Roses in 1991 as the band’s touring demands remained enormous and the lineup shifted after Izzy Stradlin’s exit. As rhythm guitarist, Clarke’s job was less about flash and more about keeping the songs tight night after night.\n\nHis tenure is closely associated with the Illusion-era touring period and the early‑1990s live identity of the band, bridging the classic and post‑classic eras.",
+            "HonoursAndMilestones": [
+              "Joined the touring lineup in 1991 during the *Use Your Illusion* era."
+            ],
+            "FunFacts": [
+              "Often remembered as a key “tour stabilizer” during the band’s early‑1990s live peak."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Izzy Stradlin | American musician (GN’R member list includes Gilby Clarke)",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Izzy-Stradlin"
+              },
+              {
+                "Title": "List of Guns N' Roses members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Guns_N%27_Roses_members"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Tommy Stinson",
+          "YearsActive": "1998–2014",
+          "Roles": "Bass; backing vocals",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [
+            "Chinese Democracy"
+          ],
+          "Overview": "Bassist who became a key part of the long rebuilding period leading to *Chinese Democracy*, anchoring the low end in a lineup that blended hard rock with modern textures.",
+          "Bio": {
+            "BioID": "tommy-stinson",
+            "FullName": "Thomas Eugene Stinson",
+            "Birth": {
+              "Date": "1966-10-06",
+              "Place": "Minneapolis, Minnesota, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Bassist",
+            "Instruments": "Bass guitar; vocals",
+            "Biography": "Tommy Stinson joined Guns N' Roses as the band entered a prolonged rebuilding era, bringing experience from influential alternative and punk‑leaning rock contexts. He played bass through the years of development that culminated in *Chinese Democracy* (2008).\n\nIn GN’R, Stinson helped translate older material to a modern touring lineup while also supporting the denser, more layered arrangements of the band’s later studio work.",
+            "HonoursAndMilestones": [
+              "Served as bassist through the *Chinese Democracy* era."
+            ],
+            "FunFacts": [
+              "Known for adaptability across punk, alternative rock, and classic hard‑rock formats."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "List of Guns N' Roses members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Guns_N%27_Roses_members"
+              },
+              {
+                "Title": "Chinese Democracy (album)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Chinese_Democracy"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Richard Fortus",
+          "YearsActive": "2002–present",
+          "Roles": "Rhythm guitar; backing vocals",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Chinese Democracy"
+          ],
+          "Overview": "Rhythm guitarist who became part of the modern touring and recording lineup, supporting both classic-era riffs and the more intricate arrangements associated with *Chinese Democracy*.",
+          "Bio": {
+            "BioID": "richard-fortus",
+            "FullName": "Richard Fortus",
+            "Birth": {
+              "Date": "1966-11-17",
+              "Place": "St. Louis, Missouri, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Guitarist",
+            "Instruments": "Guitar",
+            "Biography": "Richard Fortus joined Guns N' Roses in the 2000s, contributing to the band’s modern touring identity and to the guitar layers heard around the *Chinese Democracy* era. His role has been to reinforce the classic catalog live while also helping execute more detailed arrangements.\n\nOver time, Fortus became a steady part of the band’s on‑stage architecture—less headline personality and more structural reliability in a lineup built to fill stadiums.",
+            "HonoursAndMilestones": [
+              "Long‑tenured touring member of Guns N’ Roses since the early 2000s."
+            ],
+            "FunFacts": [
+              "Often praised for consistency and feel in the rhythm‑guitar role across long live sets."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "List of Guns N' Roses members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Guns_N%27_Roses_members"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "ArtistID": "hall-and-oates",
