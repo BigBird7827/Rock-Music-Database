@@ -3,27 +3,399 @@
     {
       "ArtistID": "toto",
       "Name": "Toto",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Los Angeles",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1977–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Pop rock",
+        "Soft rock",
+        "AOR",
+        "Jazz rock"
+      ],
+      "Overview": "Toto formed in Los Angeles in 1977 when a tight circle of elite session and touring musicians—already trusted in Southern California’s studios—decided to build a band around their shared love of melody, precision, and groove. From the start they sounded like a group that could move between worlds: radio-ready hooks, jazzy harmony, muscular guitar, and rhythm-section detail that felt “played,” not manufactured. Their self-titled debut quickly delivered major singles like “Hold the Line” and “Georgy Porgy,” establishing them as a charting band rather than just a cluster of studio names. Even on those early records, their calling card was range: hard-rock attack one minute, silky R&B grooves the next, and arrangements that sounded expensive without feeling cold.\n\nTheir defining mainstream moment arrived with 1982’s *Toto IV*, a high-pressure album that became a career-rewriting success. Anchored by “Rosanna” and the era-anchoring “Africa,” the record turned multi-platinum and earned six Grammy Awards at the 1983 ceremony, including Album of the Year and Record of the Year for “Rosanna.” What made the album endure wasn’t only the polish, but the balance: Jeff Porcaro’s feel-forward grooves, David Paich’s songwriting and arranging, and Steve Lukather’s melodic guitar voice all served songs built for sing-along choruses without sacrificing musical detail.\n\nAcross decades and lineup changes, Toto’s identity has remained remarkably consistent: world-class playing in service of songs. Lukather became the long-running anchor on guitar and increasingly on vocals, while Paich and the Porcaro brothers shaped the group’s harmonic language and rhythmic DNA. Beyond their own catalog, Toto’s influence is amplified by the members’ deep session histories—credits and collaborations that helped define late-’70s and ’80s pop and rock—making Toto both a hit band and a quiet backbone of the record-making world.",
+      "NotableAlbums": [
+        {
+          "Title": "Toto",
+          "Year": 1978,
+          "Notes": "Debut featuring “Hold the Line” and “Georgy Porgy”; established the band’s polished rock-pop identity."
+        },
+        {
+          "Title": "Hydra",
+          "Year": 1979,
+          "Notes": "Darker follow-up with prog-leaning arrangements and expanded textures."
+        },
+        {
+          "Title": "Turn Back",
+          "Year": 1981,
+          "Notes": "A harder-edged record that set the stage for the *Toto IV* reinvention."
+        },
+        {
+          "Title": "Toto IV",
+          "Year": 1982,
+          "Notes": "Blockbuster breakthrough with “Rosanna” and “Africa”; Grammy-sweeping centerpiece of the catalog."
+        },
+        {
+          "Title": "Isolation",
+          "Year": 1984,
+          "Notes": "Shift toward punchier ’80s rock production; introduced new vocal era for the band."
+        },
+        {
+          "Title": "Fahrenheit",
+          "Year": 1986,
+          "Notes": "Melodic AOR with ballads like “I’ll Be Over You.”"
+        },
+        {
+          "Title": "The Seventh One",
+          "Year": 1988,
+          "Notes": "Sleek late-’80s refinement; includes “Pamela”."
+        },
+        {
+          "Title": "Kingdom of Desire",
+          "Year": 1992,
+          "Notes": "Heavier, guitar-forward album released shortly before Jeff Porcaro’s death."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Hold the Line",
+          "Year": 1978,
+          "Notes": "Breakout hit combining piano-driven hard rock with pop hooks."
+        },
+        {
+          "Title": "Rosanna",
+          "Year": 1982,
+          "Notes": "Grammy-winning single; famed for Jeff Porcaro’s half-time shuffle groove."
+        },
+        {
+          "Title": "Africa",
+          "Year": 1982,
+          "Notes": "The band’s lone U.S. No. 1 single; became a long-running cultural touchstone."
+        },
+        {
+          "Title": "I Won’t Hold You Back",
+          "Year": 1982,
+          "Notes": "Power ballad highlighting Lukather’s melodic guitar phrasing and the band’s vocal blend."
+        },
+        {
+          "Title": "I’ll Be Over You",
+          "Year": 1986,
+          "Notes": "Signature mid-’80s ballad and radio staple."
+        },
+        {
+          "Title": "Pamela",
+          "Year": 1988,
+          "Notes": "Late-’80s hit balancing bright synth textures with Lukather’s guitar."
+        },
+        {
+          "Title": "99",
+          "Year": 1979,
+          "Notes": "Fan favorite inspired by the film *THX 1138*, with a distinctive futuristic pop feel."
+        },
+        {
+          "Title": "Georgy Porgy",
+          "Year": 1978,
+          "Notes": "Smooth, R&B-leaning groove featuring Cheryl Lynn."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1983,
+          "Title": "*Toto IV* sweeps the Grammys",
+          "Details": "Won six Grammy Awards including Album of the Year, Producer of the Year (Non-Classical), and Record of the Year for “Rosanna”."
+        },
+        {
+          "Year": 1982,
+          "Title": "“Africa” reaches No. 1 in the U.S.",
+          "Details": "The band’s only U.S. Hot 100 No. 1 single; one of the most enduring pop-rock songs of the era."
+        },
+        {
+          "Year": 1978,
+          "Title": "Debut era breakthrough",
+          "Details": "“Hold the Line” became a major international hit and established Toto as a charting act beyond their session reputations."
+        },
+        {
+          "Year": 2009,
+          "Title": "Musicians Hall of Fame induction",
+          "Details": "Classic-era members were honored for their musicianship and studio impact."
+        }
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://totoofficial.com/",
+        "Discography": "https://en.wikipedia.org/wiki/Toto_discography",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Toto_(band)"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Steve Lukather",
+          "YearsActive": "1977–present",
+          "Roles": "Guitarist, vocalist, songwriter, producer",
+          "Instruments": "Guitar, vocals",
+          "Albums": [
+            "Toto (1978)",
+            "Hydra (1979)",
+            "Turn Back (1981)",
+            "Toto IV (1982)",
+            "Isolation (1984)",
+            "Fahrenheit (1986)",
+            "The Seventh One (1988)",
+            "Kingdom of Desire (1992)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1957-10-21",
+              "Place": "Los Angeles, California, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Guitarist, vocalist, songwriter, producer",
+            "Instruments": "Guitar, vocals",
+            "Biography": "Steve Lukather grew up in Los Angeles at the exact moment when the city’s studios were becoming a world capital for immaculate pop and rock production. As a teenager he gravitated toward guitar early and hard, absorbing blues phrasing, rock aggression, and the harmonic sophistication he heard around him in jazz and R&B.\n\nHis big break came not through a traditional band circuit, but through the working musician’s highway: sessions, demos, and touring support. By the time Toto formed, Lukather was already trusted for the one thing producers value most—getting the right part, quickly, with a feel that makes the track breathe.\n\nIn Toto’s early years, Lukather’s role was both obvious and subtle. Obvious, because his guitar tone and phrasing could turn a polished pop arrangement into something with teeth. Subtle, because he consistently served the song: tight rhythm figures, melodic fills that never overplayed, and solos that felt like second choruses rather than detours.\n\nAs the band’s catalog expanded, Lukather became the connective tissue across changing styles and lineups. Whether Toto leaned into radio pop, harder rock, or more progressive arrangements, his guitar remained the signature voice that listeners could pick out within seconds.\n\nVocally, he also grew into a central presence. Over time he handled more lead singing, especially during periods when the band’s frontman role shifted. The combination of a recognizable voice and a signature guitar identity helped Toto maintain continuity through decades when many similar-era bands fragmented.\n\nOutside Toto, Lukather’s influence is enormous because it’s everywhere—on countless recordings as a session guitarist and collaborator. He became part of the fabric of late-’70s and ’80s pop, showing up in credits across genres where producers wanted precision with personality.\n\nWhat makes his session work notable is that it never sounds anonymous. Even when he’s playing a supporting part, there’s an economy and shape to the lines that makes them memorable without stealing focus. That balance mirrors what he does best inside Toto: elevate the track without turning it into a showcase.\n\nIn the band’s live reputation, Lukather’s consistency is equally important. Toto’s songs are famously “record-perfect” in the studio, and he’s been the player who can reproduce that sheen onstage while still injecting spontaneous energy in solos and transitions.\n\nAs Toto’s elder statesman, he has also become an unofficial curator of their sound—defending the band’s emphasis on musicianship while keeping the setlist anchored in songs that mean something to audiences. He’s often the person who bridges old-school craft with the reality of modern touring and fan expectations.\n\nLukather’s legacy is ultimately two-fold: the recognizable Toto signature—big choruses, clean grooves, and guitar lines that sing—and a wider studio footprint that helped define the sound of mainstream music for an entire generation.\n\nEven for listeners who only know the hits, his work is the through-line: the guitar figure that pulls you into “Hold the Line,” the expressive lead work that colors “Rosanna,” and the tasteful choices that keep Toto’s most polished songs feeling human.",
+            "HonoursAndMilestones": [
+              "Longtime guitarist and a central vocalist for Toto across multiple eras.",
+              "A prolific session musician with credits spanning pop, rock, and R&B.",
+              "Inducted with classic-era Toto members into the Musicians Hall of Fame (2009)."
+            ],
+            "FunFacts": [
+              "Often described as the band’s anchor through lineup changes, carrying both the guitar identity and substantial lead vocal duties.",
+              "His signature style blends blues phrasing with studio-tight precision."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Steve Lukather Official Website – Bio (birth date & background)",
+                "Url": "https://www.stevelukather.com/artist.aspx"
+              },
+              {
+                "Title": "Wikipedia – Steve Lukather",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Lukather"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "David Paich",
+          "YearsActive": "1977–present",
+          "Roles": "Keyboardist, songwriter, arranger, producer",
+          "Instruments": "Keyboards, vocals",
+          "Albums": [
+            "Toto (1978)",
+            "Hydra (1979)",
+            "Turn Back (1981)",
+            "Toto IV (1982)",
+            "Isolation (1984)",
+            "Fahrenheit (1986)",
+            "The Seventh One (1988)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1954-06-25",
+              "Place": "Los Angeles, California, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Keyboardist, songwriter, arranger, producer",
+            "Instruments": "Keyboards, vocals",
+            "Biography": "David Paich is one of the architects behind Toto’s blend of pop accessibility and musician-level sophistication. Raised in Los Angeles, he entered music with a composer’s ear—thinking in terms of harmony, arrangement, and how a song should feel as a complete production rather than just a collection of parts.\n\nBefore Toto became a household name, Paich was already moving through the city’s studio ecosystem, writing and playing for artists who needed tasteful, reliable contributions. That environment trained him to be both creative and disciplined: you have to deliver, and you have to make the artist sound like the best version of themselves.\n\nWhen Toto formed, Paich’s influence showed up immediately in the band’s keyboard textures and vocal arrangements. His writing leaned melodic, but it also carried harmonic color—subtle chord choices and modulations that gave the music depth without making it feel academic.\n\nHe became the group’s key songwriter and arranger, shaping not only what the notes were, but how the songs were presented. The band’s reputation for clean, layered productions is inseparable from Paich’s instincts about spacing, dynamics, and where to leave room so a chorus can explode.\n\nHis most famous writing credit is “Africa,” a song that feels simultaneously simple and carefully built—iconic for its rhythmic feel, unusual lyrical imagery, and a chorus designed to lodge itself in memory. The track’s longevity shows how Paich’s craft could translate complex musical thinking into something instantly singable.\n\nOn *Toto IV*, Paich’s role expanded further into the band’s high-pressure moment. The album demanded a reset: better songs, bigger hits, and a sound that could compete with the new decade. His writing and production decisions helped steer the record into a cohesive statement rather than a collection of attempts.\n\nPaich also contributed to “Rosanna,” whose sophistication is often discussed in terms of drums, but whose success also relies on the song’s tight structure and melodic payoff. In Toto’s world, groove and composition are fused—and Paich was a primary reason that fusion worked.\n\nAcross the band’s career, he has been a stabilizing musical brain, even in periods when touring or health meant his onstage role changed. Many acts lose their identity when the main writer steps back; Toto’s continuity speaks to how deeply his musical language is embedded in their DNA.\n\nHe is also central to the band’s ‘musician’s musician’ reputation. Within industry circles, Paich is respected not just for hits but for arranging skill—how he stacks vocals, frames keyboard lines, and guides the emotional arc of a song without crowding it.\n\nPaich’s legacy is that Toto’s sleekness isn’t superficial; it’s structural. The polish is a byproduct of composition, arrangement, and production decisions that make each part feel purposeful. That kind of craft is easy to take for granted until you try to replicate it.\n\nIf Toto’s music feels both radio-friendly and unusually “well made,” Paich is one of the main reasons. He helped prove that pop precision and genuine musicianship can be the same thing.",
+            "HonoursAndMilestones": [
+              "Key songwriter/arranger behind Toto’s biggest hits, including “Africa.”",
+              "Grammy-winning producer and band member during the *Toto IV* era (six Grammy wins, 1983).",
+              "Inducted with classic-era Toto members into the Musicians Hall of Fame (2009)."
+            ],
+            "FunFacts": [
+              "Often cited as a core creative force behind Toto’s distinctive blend of pop hooks and advanced harmony."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Wikipedia – David Paich",
+                "Url": "https://en.wikipedia.org/wiki/David_Paich"
+              },
+              {
+                "Title": "GRAMMY.com – Toto’s 1983 Grammys (Toto IV / Rosanna)",
+                "Url": "https://www.grammy.com/series-or-collection/grammy-rewind-grammys/toto-rosanna-record-of-the-year"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jeff Porcaro",
+          "YearsActive": "1977–1992",
+          "Roles": "Drummer, songwriter",
+          "Instruments": "Drums, percussion",
+          "Albums": [
+            "Toto (1978)",
+            "Hydra (1979)",
+            "Turn Back (1981)",
+            "Toto IV (1982)",
+            "Isolation (1984)",
+            "Fahrenheit (1986)",
+            "The Seventh One (1988)",
+            "Kingdom of Desire (1992)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1954-04-01",
+              "Place": "Hartford, Connecticut, United States"
+            },
+            "Death": {
+              "Date": "1992-08-05",
+              "Place": "Hidden Hills, California, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Drummer, songwriter",
+            "Instruments": "Drums, percussion",
+            "Biography": "Jeff Porcaro was a drummer’s drummer—one of the defining groove architects of late-’70s and ’80s pop and rock. Although he became globally famous through Toto, his impact reaches far beyond the band because his playing style became a reference point for an era of studio-driven music that still needed human feel.\n\nHe was raised in a musical family and entered the professional world early, absorbing a wide palette of influences: R&B pocket, jazz touch, and rock power. That combination made him unusually adaptable—able to sound relaxed on a ballad, aggressive on a rock track, and feather-light on a shuffle without losing identity.\n\nPorcaro’s studio reputation grew quickly because he delivered more than timekeeping. Producers could count on him to shape the emotional contour of a track—where to lay back, where to push, and how to make transitions feel inevitable. In a world of tight schedules, that kind of musical decision-making is priceless.\n\nWithin Toto, his drumming was the engine that allowed the band to be polished without becoming sterile. Even when the production was pristine, the grooves stayed elastic—small timing choices, ghost notes, and dynamic shading that gave the songs a living pulse.\n\nHis most famous contribution is the “Rosanna” shuffle, a half-time feel that blends influences into something instantly recognizable. The pattern became a rite of passage for drummers, but it also worked because it’s musical: it supports the vocal, fills the space, and turns the whole record into a dance between precision and swagger.\n\nOn *Toto IV*, Porcaro’s playing helped define the album’s identity. The songs are built like hit machines, but the drums make them feel like performances rather than constructions. That’s a rare balance—especially on a record that’s as meticulously produced as this one.\n\nOutside Toto, Porcaro was one of the most in-demand session drummers of his time. His credits spanned pop, rock, and R&B, and musicians often cite him as the player who could make a track sound “finished” the moment he laid down a take.\n\nHis sense of restraint was part of his genius. He could play with explosive chops, but he usually didn’t—choosing instead to place the right note at the right moment, letting the groove do the talking. That approach is why his parts remain teachable decades later.\n\nPorcaro’s sudden death in 1992 at age 38 shocked the music world and left a visible hole in Toto’s sound. The band continued, but the particular blend of touch and authority he brought to their rhythm section is irreplaceable.\n\nHis legacy lives in two places at once: in Toto’s biggest recordings, where his grooves are inseparable from the songs, and in the wider language of popular drumming, where “Porcaro feel” is still a compliment.\n\nFor many listeners, you don’t have to know his name to recognize his impact—you just feel it. When “Rosanna” locks in, that’s Porcaro: musical, elegant, and quietly commanding.",
+            "HonoursAndMilestones": [
+              "Co-founder and defining drummer of Toto.",
+              "Grammy-winning work during the *Toto IV* era (six Grammy wins, 1983).",
+              "Inducted posthumously with Toto’s classic-era members into the Musicians Hall of Fame (2009)."
+            ],
+            "FunFacts": [
+              "The “Rosanna” shuffle became one of the most studied drum grooves in popular music.",
+              "Known for combining microscopic time feel with stadium-ready power."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Wikipedia – Jeff Porcaro",
+                "Url": "https://en.wikipedia.org/wiki/Jeff_Porcaro"
+              },
+              {
+                "Title": "Wikipedia – Rosanna (song) (Grammy / groove context)",
+                "Url": "https://en.wikipedia.org/wiki/Rosanna_(song)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Steve Porcaro",
+          "YearsActive": "1977–1987, 1990–present",
+          "Roles": "Keyboardist, songwriter, programmer",
+          "Instruments": "Keyboards, synthesizers",
+          "Albums": [
+            "Toto (1978)",
+            "Hydra (1979)",
+            "Turn Back (1981)",
+            "Toto IV (1982)",
+            "Isolation (1984)",
+            "Fahrenheit (1986)",
+            "Toto XIV (2015)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1957-09-02",
+              "Place": "Hartford, Connecticut, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Keyboardist, songwriter, programmer",
+            "Instruments": "Keyboards, synthesizers",
+            "Biography": "Steve Porcaro brought a crucial futuristic edge to Toto’s sound: shimmering synth textures, melodic keyboard hooks, and an instinct for arrangement detail that fit perfectly inside the band’s high-definition production style.\n\nLike his brother Jeff, he entered the professional scene early and thrived in the Los Angeles studio ecosystem. That world rewarded musicians who could think like producers—who understood tone, layering, and how to make a part sit in the mix without cluttering it.\n\nIn Toto’s early catalog, Porcaro’s keyboard work helped give the songs their sleek surface: pads that widened choruses, rhythmic comping that supported guitar and piano, and synth lines that acted like extra vocal melodies.\n\nHe also contributed as a songwriter, and his name is closely associated with the band’s most iconic period. Even when he wasn’t the primary writer, his sensibility shaped how Toto’s songs sounded—modern, bright, and carefully balanced.\n\nPorcaro’s contribution to “Rosanna” is part of the song’s overall architecture: layers of keyboard color that make the groove feel richer without distracting from the vocal. The beauty of Toto’s production is how many small decisions accumulate into something huge; he was one of the people making those decisions.\n\nAs the 1980s progressed and the band’s sound evolved, Porcaro’s skill set aligned with the decade’s technology-driven production. He understood synthesis and programming well enough to keep Toto competitive without sacrificing musicianship.\n\nAt different points he stepped back from full-time band duties, but his return in later eras underlined how much his tonal signature mattered to Toto’s identity. Those shimmering textures are not interchangeable; they’re a specific voice in the band’s palette.\n\nHis career also includes extensive work beyond Toto, contributing to recordings and productions where a clean, tasteful keyboard sense was needed. That kind of behind-the-scenes influence often goes unnoticed, but it shapes what listeners consider “the sound of the era.”\n\nPorcaro’s legacy inside Toto is the sound of light reflecting off the music—synths that feel glossy but never cheap, parts that are arranged like architecture rather than decoration.\n\nWhen Toto is at its most cinematic—big choruses, wide stereo fields, and a sense that every frequency has a purpose—you’re hearing the kind of keyboard thinking that Porcaro helped normalize.\n\nIn a band known for monster players, Steve Porcaro’s strength is subtlety: he makes the whole record feel more modern than it technically should, and that’s a rare talent.",
+            "HonoursAndMilestones": [
+              "Co-founder and key architect of Toto’s keyboard/synth texture.",
+              "Inducted with Toto’s classic-era members into the Musicians Hall of Fame (2009)."
+            ],
+            "FunFacts": [
+              "Known for bringing a distinctly modern synth sheen to Toto’s ’80s sound."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Wikipedia – Steve Porcaro",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Porcaro"
+              },
+              {
+                "Title": "Steve Lukather news – Toto inducted into Musicians Hall of Fame (2009)",
+                "Url": "https://www.stevelukather.com/news-articles/2009/06/toto-musicians-inducted-for-music-hall-of-fame.aspx"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Bobby Kimball",
+          "YearsActive": "1977–1984, 1998–2008",
+          "Roles": "Lead vocalist",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Toto (1978)",
+            "Hydra (1979)",
+            "Turn Back (1981)",
+            "Toto IV (1982)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1947-03-29",
+              "Place": "Orange, Texas, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Singer, musician",
+            "Instruments": "Vocals, keyboards",
+            "Biography": "Bobby Kimball was Toto’s original voice in their classic hit-making years—an R&B-leaning rock singer with enough power to ride big choruses and enough nuance to sell the band’s smoother material.\n\nBorn in Texas and raised in Louisiana, he developed his style in a region steeped in soul, blues, and groove-oriented music. That background mattered: Toto’s early records often sit at the intersection of rock and R&B, and Kimball’s phrasing made that blend feel natural rather than calculated.\n\nBefore Toto, Kimball worked through various bands and professional situations that sharpened him as a frontman. By the mid-’70s he made the move to Los Angeles, where opportunity is abundant—but only if you can deliver in studios and on stages without drama.\n\nWhen David Paich and Jeff Porcaro were assembling what would become Toto, Kimball’s voice became a defining ingredient. The band already had world-class players; they needed a singer who could turn that precision into something emotional and radio-ready.\n\nOn Toto’s debut and early albums, Kimball helped set the band’s identity. Tracks like “Hold the Line” depend on a vocalist who can be both tough and melodic—aggressive enough to cut through guitars and keys, but polished enough to keep the hooks clean.\n\nHis performances on *Toto IV* are central to the album’s success. Even on a record famous for production and musicianship, the vocal delivery is what turns “Rosanna” into a song people sing, not just a track people admire.\n\nKimball left the band in the mid-’80s as Toto’s lineup shifted, but his voice remained tied to their most iconic era. That association is why his later return in the late ’90s carried weight—fans recognized the sound immediately.\n\nAs a singer, his strength is clarity: he hits melodies cleanly, phrases with a soul singer’s instinct, and can still sound like rock without oversinging. That’s harder than it looks, especially over arrangements as dense and precise as Toto’s.\n\nIn the broader Toto story, Kimball represents the band’s original “radio face”—the voice that helped translate elite musicianship into mainstream hits. Without that translation, Toto might have stayed a cult band for other musicians.\n\nEven today, when Toto’s catalog is often introduced through a few massive singles, Kimball’s voice is part of why those records still feel alive: big, confident, and unmistakably of their time—in the best way.",
+            "HonoursAndMilestones": [
+              "Original lead vocalist during Toto’s breakthrough era (late 1970s–early 1980s).",
+              "Returned for a later touring/recording era (late 1990s–2000s)."
+            ],
+            "FunFacts": [
+              "His soulful rock delivery helped define Toto’s early identity and classic hits."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Wikipedia – Bobby Kimball (birth date & career overview)",
+                "Url": "https://en.wikipedia.org/wiki/Bobby_Kimball"
+              },
+              {
+                "Title": "Museum of the Gulf Coast – Bobby Kimball",
+                "Url": "https://www.museumofthegulfcoast.org/bobby-kimball"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "David Hungate",
+          "YearsActive": "1977–1982, 2014–present",
+          "Roles": "Bassist",
+          "Instruments": "Bass",
+          "Overview": "Original bassist during Toto’s earliest run; returned decades later, reinforcing the classic-era foundation and feel in the band’s later touring lineup."
+        },
+        {
+          "Name": "Mike Porcaro",
+          "YearsActive": "1982–2007",
+          "Roles": "Bassist",
+          "Instruments": "Bass",
+          "Overview": "Longtime bassist who helped anchor Toto through multiple studio and touring eras after the early lineup changes, contributing to the band’s steady, groove-first identity."
+        },
+        {
+          "Name": "Joseph Williams",
+          "YearsActive": "1986–1988, 2010–present",
+          "Roles": "Lead vocalist",
+          "Instruments": "Vocals",
+          "Overview": "Lead vocalist for key late-’80s releases and a major voice in the modern touring era, bringing a powerful, polished tone suited to Toto’s big choruses."
+        },
+        {
+          "Name": "Simon Phillips",
+          "YearsActive": "1992–2014",
+          "Roles": "Drummer",
+          "Instruments": "Drums",
+          "Overview": "World-class drummer who joined after Jeff Porcaro’s death and helped keep Toto’s live reputation for precision and feel intact for over two decades."
+        }
+      ],
+      "Labels": [
+        "Columbia"
+      ],
+      "KeyFacts": [
+        "Formed in Los Angeles in 1977 by veteran studio and touring musicians (including David Paich and Jeff Porcaro).",
+        "Breakthrough album *Toto IV* (1982) produced the hits “Rosanna” and “Africa” and won six Grammy Awards at the 1983 ceremony.",
+        "“Africa” became Toto’s only U.S. No. 1 single and later a long-running global catalog phenomenon.",
+        "Classic-era members were inducted into the Musicians Hall of Fame (2009).",
+        "Known for a distinctive blend of pop hooks, rock guitar, and studio-level musicianship that influenced countless producers and players."
+      ]
     },
     {
       "ArtistID": "tower-of-power",
