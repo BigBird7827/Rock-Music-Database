@@ -244,27 +244,651 @@
     {
       "ArtistID": "whitesnake",
       "Name": "Whitesnake",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1978–1990",
+        "1994",
+        "1997",
+        "2003–2022"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Blues rock",
+        "Glam metal",
+        "Heavy metal",
+        "Arena rock"
+      ],
+      "Labels": [
+        "United Artists",
+        "EMI",
+        "Geffen",
+        "Atlantic",
+        "Frontiers"
+      ],
+      "Overview": "Formed in London in 1978 by vocalist David Coverdale after his tenure as Deep Purple's frontman, Whitesnake began as a touring band and quickly became a full-time recording outfit. The earliest lineups, anchored by guitarists Micky Moody and Bernie Marsden and bassist Neil Murray, leaned into a gritty British blues-rock sound built around slide guitar, boogie rhythms, and Coverdale's big, blues-tinged vocal. Albums such as Trouble (1978), Lovehunter (1979), Ready an' Willing (1980), Come an' Get It (1981), and Saints & Sinners (1982) built their profile as a major UK live draw and a consistent chart presence.\n\nAcross the mid-1980s, the project evolved as Coverdale rebuilt the band for a louder, sleeker arena-rock and glam-metal era aimed squarely at the U.S. market. Slide It In (1984) bridged the earlier blues foundation with more modern production and a harder edge, setting the stage for 1987's self-titled Whitesnake album. That record became a worldwide blockbuster, powered by heavy MTV rotation and radio hits including \"Here I Go Again,\" \"Is This Love,\" and \"Still of the Night.\"\n\nWhitesnake's long story is defined by reinvention: frequent personnel changes, multiple hiatuses, and a sustained second act beginning in 2003 that focused on touring, archival releases, and new studio albums such as Good to Be Bad (2008), Forevermore (2011), and Flesh & Blood (2019). Through every shift, Coverdale remained the throughline, steering the band from bluesy roots to glossy 1980s blockbuster rock and beyond, with Whitesnake's final tour cycle concluding in 2022.",
+      "NotableAlbums": [
+        {
+          "Title": "Trouble",
+          "Year": 1978,
+          "Notes": "Debut album; blues-rock foundation and early UK touring era."
+        },
+        {
+          "Title": "Lovehunter",
+          "Year": 1979,
+          "Notes": "Expanded the early sound with heavier riffs and big hooks."
+        },
+        {
+          "Title": "Ready an' Willing",
+          "Year": 1980,
+          "Notes": "Breakthrough in the UK; features key early staples like \"Fool for Your Loving\"."
+        },
+        {
+          "Title": "Come an' Get It",
+          "Year": 1981,
+          "Notes": "Continued UK momentum with a tougher, road-tested feel."
+        },
+        {
+          "Title": "Saints & Sinners",
+          "Year": 1982,
+          "Notes": "Bridge record before major lineup changes and the mid-80s shift."
+        },
+        {
+          "Title": "Slide It In",
+          "Year": 1984,
+          "Notes": "Transitional album linking blues roots to a more modern hard-rock approach."
+        },
+        {
+          "Title": "Whitesnake",
+          "Year": 1987,
+          "Notes": "Global breakthrough; multi-platinum era with major MTV/radio singles."
+        },
+        {
+          "Title": "Slip of the Tongue",
+          "Year": 1989,
+          "Notes": "Late-80s hard-rock follow-up featuring a flashier guitar-driven style."
+        },
+        {
+          "Title": "Flesh & Blood",
+          "Year": 2019,
+          "Notes": "Late-career studio album from the post-2003 touring era."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Here I Go Again",
+          "Year": 1987,
+          "Notes": "Definitive power-ballad-to-anthem hit; the 1987 version became the signature single."
+        },
+        {
+          "Title": "Is This Love",
+          "Year": 1987,
+          "Notes": "Major crossover ballad that helped drive the 1987 album's mainstream reach."
+        },
+        {
+          "Title": "Still of the Night",
+          "Year": 1987,
+          "Notes": "Heavy, riff-forward centerpiece of the blockbuster era."
+        },
+        {
+          "Title": "Fool for Your Loving",
+          "Year": 1980,
+          "Notes": "Classic early-era single blending bluesy swing with hard-rock punch."
+        },
+        {
+          "Title": "Slide It In",
+          "Year": 1984,
+          "Notes": "Title track from the transitional mid-80s sound."
+        },
+        {
+          "Title": "Slow an' Easy",
+          "Year": 1984,
+          "Notes": "Key track from Slide It In that emphasized the heavier direction."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Whitesnake (1987) became a global blockbuster",
+          "Year": 1987,
+          "Summary": "The self-titled album reached No. 2 on the U.S. Billboard 200 and was certified 8× Platinum by the RIAA, cementing Whitesnake as a premier arena-rock act of the MTV era."
+        },
+        {
+          "Title": "\"Here I Go Again '87\" topped the Billboard Hot 100",
+          "Year": 1987,
+          "Summary": "The re-recorded single became the band's biggest U.S. hit, reaching No. 1 and defining Whitesnake's mainstream crossover peak."
+        },
+        {
+          "Title": "\"Is This Love\" became a major U.S. pop-rock hit",
+          "Year": 1987,
+          "Summary": "The ballad reached No. 2 on the Billboard Hot 100 and helped broaden the band's audience beyond hard-rock radio."
+        },
+        {
+          "Title": "1987 success boosted Slide It In's certification",
+          "Year": 1987,
+          "Summary": "The popularity of the 1987 album helped elevate 1984's Slide It In from gold status to double platinum in the United States."
+        }
+      ],
+      "KeyFacts": [
+        "Founded by David Coverdale in 1978 after Deep Purple, with Coverdale as the only constant member across all eras.",
+        "Early sound emphasized British blues-rock; the mid-80s shift moved toward a more polished, U.S.-oriented arena-rock and glam-metal style.",
+        "Slide It In (1984) served as the bridge between the early blues foundation and the late-80s blockbuster production approach.",
+        "The 1987 self-titled album delivered defining hits including \"Here I Go Again,\" \"Is This Love,\" and \"Still of the Night.\"",
+        "Known for frequent lineup changes, including members with Deep Purple connections (Jon Lord and Ian Paice) as well as prominent 1980s guitarists.",
+        "Reformed in 2003 for a long touring run and released new studio albums through the 2010s, with the final tour cycle ending in 2022."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://whitesnake.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Whitesnake",
+        "Discography": "https://en.wikipedia.org/wiki/Whitesnake_discography",
+        "AllMusic": "https://www.allmusic.com/artist/whitesnake-mn0000913489"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "David Coverdale",
+          "Roles": "Lead vocals, songwriter, band founder",
+          "Instruments": "Vocals",
+          "YearsActive": "1978–2022",
+          "Albums": [
+            {
+              "Title": "Trouble",
+              "Year": 1978
+            },
+            {
+              "Title": "Slide It In",
+              "Year": 1984
+            },
+            {
+              "Title": "Whitesnake",
+              "Year": 1987
+            },
+            {
+              "Title": "Flesh & Blood",
+              "Year": 2019
+            }
+          ],
+          "Bio": {
+            "ArtistID": "whitesnake",
+            "BioID": "whitesnake-david-coverdale",
+            "FullName": "David Coverdale",
+            "Birth": {
+              "Date": "1951-09-22",
+              "Place": "Saltburn-by-the-Sea, North Riding of Yorkshire, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Lead Vocals",
+              "Songwriter",
+              "Band Founder"
+            ],
+            "Instruments": [
+              "Vocals"
+            ],
+            "FullText": "David Coverdale (born 22 September 1951) is the founder, lead vocalist, and defining creative voice of Whitesnake. Raised in the north of England, he came up singing blues and soul as much as rock, and those influences stayed central to his phrasing, tone, and songwriting even as his bands moved into heavier styles.\n\nCoverdale first became internationally known in the mid-1970s when he joined Deep Purple as the band retooled after the Mark II era. His time with Deep Purple put him in front of huge audiences and gave him an apprenticeship in hard-rock performance and studio craft, but it also left him determined to establish an identity of his own as a writer and frontman.\n\nAfter leaving Deep Purple, Coverdale formed Whitesnake in 1978. In its earliest incarnation, Whitesnake operated like a road band: a rotating, hard-working unit built to support Coverdale's songs and touring schedule. Guitarists Micky Moody and Bernie Marsden helped define the early sound with a blend of blues licks, slide textures, and chunky riffs, while bassist Neil Murray anchored the groove with a strong, melodic approach.\n\nThe early albums captured a British blues-rock swagger rather than a slick pop-metal polish. Coverdale wrote from a classic blues and R&B vocabulary—desire, regret, defiance—and he sold it with a vocal style that could shift from low, conversational grit to full-throated, dramatic power. Those records made Whitesnake a major live draw in the UK and set the template for Coverdale's role as songwriter, arranger, and final decision-maker.\n\nBy the mid-1980s, Coverdale saw an opening for a larger international breakthrough and began rebuilding Whitesnake with a sharper, more radio-ready sound. He pursued heavier guitar tones, bigger choruses, and higher-gloss production, while still trying to keep a blues heart underneath. Slide It In (1984) was a key step in that direction, combining the band's earlier grit with a more modern hard-rock punch.\n\nThe transformation peaked with 1987's self-titled Whitesnake album, which turned Coverdale into a global rock star. The record balanced hard-edged tracks like \"Still of the Night\" with massive, emotionally direct singles such as \"Here I Go Again\" and \"Is This Love.\" For Coverdale, the success was not only commercial but strategic: it proved that his voice and songwriting could carry a band through a complete stylistic reinvention.\n\nWhitesnake's later decades continued to reflect Coverdale's insistence on forward motion. After hiatuses and reunions, he reactivated the band in 2003 for an extended touring era and oversaw new studio albums, live releases, and archival projects that re-contextualized Whitesnake's history for newer audiences. Even when health issues and changing band lineups made the operation complex, Coverdale maintained the musical identity through his vocal approach, setlist choices, and production oversight.\n\nIn legacy terms, Coverdale's achievement is the rare combination of continuity and change: he remained the constant member of Whitesnake while repeatedly reshaping the project to fit new eras. Whether fronting a bluesy British hard-rock band or a stadium-ready late-1980s juggernaut, he kept Whitesnake's core promise intact—big emotion, bigger hooks, and a voice that can sound both tough and tender within the same song.",
+            "Sources": [
+              {
+                "Title": "David Coverdale",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/David_Coverdale"
+              },
+              {
+                "Title": "Whitesnake",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Whitesnake"
+              },
+              {
+                "Title": "Whitesnake Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/whitesnake-mn0000913489"
+              },
+              {
+                "Title": "Whitesnake Frontman David Coverdale Announces His Retirement",
+                "Publisher": "People",
+                "Url": "https://people.com/whitesnake-frontman-david-coverdale-announces-retirement-11849238"
+              },
+              {
+                "Title": "An epic interview with Whitesnake star David Coverdale",
+                "Publisher": "MusicRadar",
+                "Url": "https://www.musicradar.com/artists/there-was-a-50-50-chance-that-id-be-able-to-sing-again-and-we-were-usd3m-in-debt-the-dramatic-story-of-an-80s-rock-blockbuster"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Micky Moody",
+          "Roles": "Guitar, slide guitar",
+          "Instruments": "Guitar",
+          "YearsActive": "1978–1983",
+          "Albums": [
+            {
+              "Title": "Trouble",
+              "Year": 1978
+            },
+            {
+              "Title": "Ready an' Willing",
+              "Year": 1980
+            },
+            {
+              "Title": "Come an' Get It",
+              "Year": 1981
+            },
+            {
+              "Title": "Saints & Sinners",
+              "Year": 1982
+            }
+          ],
+          "Bio": {
+            "ArtistID": "whitesnake",
+            "BioID": "whitesnake-micky-moody",
+            "FullName": "Michael Joseph \"Micky\" Moody",
+            "Birth": {
+              "Date": "1950-08-30",
+              "Place": "Middlesbrough, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitar",
+              "Slide Guitar",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "FullText": "Micky Moody (born 30 August 1950) is an English guitarist best known as a co-founding member of Whitesnake and a key architect of the band's early blues-rock identity. His playing is rooted in British blues and slide-guitar traditions, with a touch that favors feel and phrasing over flash.\n\nBefore Whitesnake, Moody built experience in the late-1960s and early-1970s British rock circuit, including time with bands such as Juicy Lucy. Those years sharpened his sense for riff-driven arrangements, call-and-response guitar lines, and the kind of loose-but-tight groove that translates onstage.\n\nWhen David Coverdale set out to build a new group after leaving Deep Purple, Moody became one of the first players he recruited. In the earliest Whitesnake lineups, Moody functioned as both guitarist and band lieutenant, helping translate Coverdale's vocal-centric songwriting into arrangements that could work night after night in clubs, theaters, and a relentless touring schedule.\n\nMoody's signature contribution to Whitesnake is the early-era guitar texture: gritty rhythm work, bluesy fills, and expressive slide parts that gave the band a distinctive bite. Alongside Bernie Marsden, he shaped a two-guitar approach that could swing like a blues band but hit with hard-rock weight when the chorus arrived.\n\nOn the records from the late 1970s and early 1980s, Moody's style reinforced the idea that Whitesnake was not simply a spin-off of Deep Purple, but a group with its own character. The parts tended to serve the song first, leaving space for Coverdale's voice while still providing hooks, turnarounds, and memorable melodic figures.\n\nAs Whitesnake's ambitions expanded in the early 1980s, the band began shifting toward a more modern, polished hard-rock sound. That transition brought new personnel and new guitar approaches, and by 1983 Moody departed the group. His exit marked the end of the most overtly blues-based chapter of Whitesnake's history.\n\nMoody continued working as a musician outside the band, maintaining a reputation as a tasteful guitarist with deep roots in blues-rock. In later years he remained closely associated with the Whitesnake legacy, participating in projects that revisited the early material and speaking openly about the intense touring culture that built the band's reputation.\n\nWithin Whitesnake's broader story, Moody represents the foundation: the player who helped define the feel, the swing, and the blues credibility that gave Coverdale's new project a reason to exist. Even as the band later embraced bigger production and flashier guitar heroics, the early Whitesnake template still carries Moody's fingerprints in its groove and grit.",
+            "Sources": [
+              {
+                "Title": "Micky Moody",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Micky_Moody"
+              },
+              {
+                "Title": "Whitesnake",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Whitesnake"
+              },
+              {
+                "Title": "Micky Moody Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/micky-moody-mn0000888110"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Neil Murray",
+          "Roles": "Bass",
+          "Instruments": "Bass",
+          "YearsActive": "1978–1981; 1986–1987",
+          "Albums": [
+            {
+              "Title": "Trouble",
+              "Year": 1978
+            },
+            {
+              "Title": "Ready an' Willing",
+              "Year": 1980
+            },
+            {
+              "Title": "Whitesnake",
+              "Year": 1987
+            }
+          ],
+          "Bio": {
+            "ArtistID": "whitesnake",
+            "BioID": "whitesnake-neil-murray",
+            "FullName": "Philip Neil Murray",
+            "Birth": {
+              "Date": "1950-08-27",
+              "Place": "Edinburgh, Scotland"
+            },
+            "Nationality": "Scottish",
+            "Roles": [
+              "Bass Guitar"
+            ],
+            "Instruments": [
+              "Bass"
+            ],
+            "FullText": "Neil Murray (born 27 August 1950) is a Scottish bassist whose steady, melodic playing has made him a sought-after anchor across multiple eras of British hard rock. In Whitesnake, he served as a key early member and an important connective thread between the band's blues-rock beginnings and later hard-rock reinventions.\n\nMurray grew up in Edinburgh and came of age as rock bands began demanding both groove and precision from their rhythm sections. His bass style emphasizes strong note choice and a firm pocket, supporting heavy guitars without losing the sense of movement that blues-based rock depends on.\n\nHe joined Whitesnake near the band's formation, working closely with Coverdale, Moody, and Marsden in the period when the group was essentially a relentless touring machine. In that setting, Murray's role was crucial: locking in the feel while giving the songs shape, dynamics, and momentum over long setlists and consecutive nights on the road.\n\nOn the early Whitesnake recordings, Murray's bass lines often do more than simply double the guitar riffs. He adds melodic counter-movement, pushes the choruses forward, and helps the band swing, especially in songs that lean toward R&B and blues structures. That combination of weight and musicality was central to the band's early identity.\n\nAfter his initial run with Whitesnake in the late 1970s and early 1980s, Murray built a wider career that connected many major names in hard rock and metal. His work with other high-profile acts expanded his reputation as a dependable professional who could adapt to different producers, bandleaders, and stylistic demands.\n\nMurray later returned to the Whitesnake orbit during the mid-to-late 1980s, when the group was repositioning for international success. Even as the guitar spotlight and production approach changed, his playing provided continuity: a grounded low end that kept the songs from floating away into pure gloss.\n\nBeyond Whitesnake, Murray is often cited as one of the era's elite rock sidemen, valued for musical taste as much as technical ability. He understands how to serve the vocal and the groove, how to leave space for a guitarist's phrasing, and how to support a drummer without cluttering the arrangement.\n\nIn Whitesnake's story, Murray represents the quiet kind of greatness: a bassist who rarely demands attention but consistently elevates the band. His contributions sit at the core of the early catalog and helped make later versions of Whitesnake sound like a band rather than a studio construction.",
+            "Sources": [
+              {
+                "Title": "Neil Murray (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Neil_Murray_(musician)"
+              },
+              {
+                "Title": "Whitesnake",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Whitesnake"
+              },
+              {
+                "Title": "Neil Murray Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/neil-murray-mn0000872324"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Bernie Marsden",
+          "Roles": "Guitar, songwriter",
+          "Instruments": "Guitar",
+          "YearsActive": "1978–1982",
+          "Albums": [
+            {
+              "Title": "Lovehunter",
+              "Year": 1979
+            },
+            {
+              "Title": "Ready an' Willing",
+              "Year": 1980
+            },
+            {
+              "Title": "Come an' Get It",
+              "Year": 1981
+            },
+            {
+              "Title": "Saints & Sinners",
+              "Year": 1982
+            }
+          ],
+          "Bio": {
+            "ArtistID": "whitesnake",
+            "BioID": "whitesnake-bernie-marsden",
+            "FullName": "Bernard John Marsden",
+            "Birth": {
+              "Date": "1951-05-07",
+              "Place": "Buckingham, Buckinghamshire, England"
+            },
+            "Death": {
+              "Date": "2023-08-24",
+              "Place": "United Kingdom",
+              "Cause": "Bacterial meningitis"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitar",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "FullText": "Bernie Marsden (7 May 1951 – 24 August 2023) was an English guitarist and songwriter whose playing and writing helped define Whitesnake’s early identity. Known for a warm, blues-based tone and a knack for memorable riffs, Marsden brought both musical authority and approachable songcraft to the band’s formative years.\n\nMarsden developed his style in the British rock circuit, absorbing blues guitar language while learning how to build parts that could carry a hard-rock chorus. That balance of feel and structure made him an ideal partner for a vocalist-led project: he could decorate a verse with tasteful lines, then deliver a hook that felt inevitable when the song opened up.\n\nHe joined Whitesnake as the band’s lineup solidified, teaming with Micky Moody in a two-guitar approach that became central to the early sound. Marsden’s role extended beyond performance; he became one of Coverdale’s key collaborators, contributing to the writing and shaping arrangements for stage and studio.\n\nOn the classic early albums, Marsden’s guitar work blends blues phrasing with hard-rock weight. He often supplies the connective tissue between sections: turnarounds that make a chorus hit harder, rhythm figures that support Coverdale’s vocal accents, and melodic leads that feel like extensions of the song rather than showcases. The result is a catalog of early Whitesnake tracks that still sound grounded and human even when the band plays loud.\n\nMarsden also helped establish the band’s identity as a live act. In the late 1970s and early 1980s, Whitesnake built credibility through constant touring, and Marsden’s playing was designed to hold up night after night. His tone and touch gave the songs clarity onstage, and his musical discipline kept the band tight without losing the loose swing of blues-rock.\n\nAs Whitesnake shifted in the early 1980s toward a more modern, polished hard-rock direction, the band’s personnel changed and Marsden departed. He continued a productive career as a musician and writer, releasing solo work and remaining a respected figure among guitarists for his tasteful approach and deep connection to classic British blues-rock traditions.\n\nIn later years, Marsden was celebrated not only for his playing but for his role in capturing an era of rock that valued feel, melody, and craft. He often spoke about the importance of tone and phrasing, and he remained closely identified with the early Whitesnake sound that many fans regard as the band’s purest blues-rooted chapter.\n\nMarsden’s legacy within Whitesnake is foundational. The band’s later blockbuster success often draws the headlines, but the early catalog’s durability comes from musicians like Marsden, who built songs sturdy enough to survive changing trends, different lineups, and decades of reinterpretation.",
+            "Sources": [
+              {
+                "Title": "Bernie Marsden",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Bernie_Marsden"
+              },
+              {
+                "Title": "Whitesnake",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Whitesnake"
+              },
+              {
+                "Title": "Bernie Marsden Obituary",
+                "Publisher": "The Guardian",
+                "Url": "https://www.theguardian.com/music/2023/aug/25/bernie-marsden-obituary"
+              },
+              {
+                "Title": "Bernie Marsden Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/bernie-marsden-mn0000056776"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jon Lord",
+          "Roles": "Keyboards, arranger",
+          "Instruments": "Keyboards, Hammond organ, piano",
+          "YearsActive": "1978–1984",
+          "Albums": [
+            {
+              "Title": "Trouble",
+              "Year": 1978
+            },
+            {
+              "Title": "Ready an' Willing",
+              "Year": 1980
+            },
+            {
+              "Title": "Slide It In",
+              "Year": 1984
+            }
+          ],
+          "Bio": {
+            "ArtistID": "whitesnake",
+            "BioID": "whitesnake-jon-lord",
+            "FullName": "John Douglas \"Jon\" Lord",
+            "Birth": {
+              "Date": "1941-06-09",
+              "Place": "Leicester, England"
+            },
+            "Death": {
+              "Date": "2012-07-16",
+              "Place": "London, England",
+              "Cause": "Pulmonary embolism following pancreatic cancer"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Keyboards",
+              "Composer",
+              "Arranger"
+            ],
+            "Instruments": [
+              "Keyboards",
+              "Hammond Organ",
+              "Piano"
+            ],
+            "FullText": "Jon Lord (9 June 1941 – 16 July 2012) was an English keyboardist, composer, and arranger whose work helped define both classic hard rock and the heavier side of progressive rock. Best known as a founding member of Deep Purple, he also became a crucial figure in Whitesnake’s early evolution, bringing harmonic depth and a distinctive Hammond-organ voice to Coverdale’s band.\n\nLord’s signature sound was the Hammond organ pushed into overdrive, treated not as a background color but as a lead instrument capable of riffing with guitars. He combined classical-influenced harmony with blues and rock phrasing, and he understood how to arrange parts so that heavy music could still have breadth, drama, and melody.\n\nWhen Lord joined Whitesnake in 1978, he lent the band immediate stature and musical authority. His presence also reinforced the connection between Coverdale’s new project and the Deep Purple lineage, but Lord’s role was not nostalgic; he helped shape the arrangements and broaden the band’s musical palette during a period when Whitesnake was finding its identity on record and onstage.\n\nIn Whitesnake, Lord’s organ lines often serve two purposes at once: they add weight to the rhythm section and create a sense of lift in the choruses. He could fill space behind a vocal with subtle chord movement, then step forward with a dramatic flourish when the song demanded it. That flexibility made him invaluable in a band that mixed blues swing with hard-rock power.\n\nLord also contributed as an arranger, helping the early Whitesnake material feel built rather than merely jammed. His understanding of dynamics and structure supported Coverdale’s songwriting, giving the tracks a sense of narrative arc that translated well in concert. Even when guitars dominated the surface, Lord’s harmonic choices shaped the emotional contour of the songs.\n\nBy the early 1980s, as Whitesnake’s direction shifted and personnel changed, Lord eventually moved on. He returned to Deep Purple and maintained a long career that also included collaborations, solo records, and compositions that drew directly from his classical interests. He remained one of the rare rock musicians who could move credibly between heavy riffs and formal composition.\n\nLord’s death in 2012 prompted a wave of tributes that emphasized both his musicianship and his personal character. For fans of Whitesnake, his years in the band represent a particular flavor of the catalog: blues-rock with a deep, organ-driven spine and the sense of musical conversation that comes from players listening closely to one another.\n\nWithin Whitesnake’s broader history, Lord stands out as the figure who added architecture. He helped make the early band sound larger than its parts, and he left an imprint on the arrangements that still reads clearly decades later whenever the early songs are played.",
+            "Sources": [
+              {
+                "Title": "Jon Lord",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jon_Lord"
+              },
+              {
+                "Title": "Whitesnake",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Whitesnake"
+              },
+              {
+                "Title": "Jon Lord: Deep Purple keyboardist dies aged 71",
+                "Publisher": "BBC News",
+                "Url": "https://www.bbc.com/news/entertainment-arts-18849622"
+              },
+              {
+                "Title": "Jon Lord Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/jon-lord-mn0000239403"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Ian Paice",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "YearsActive": "1980–1982; 1987–1991",
+          "Albums": [
+            {
+              "Title": "Come an' Get It",
+              "Year": 1981
+            },
+            {
+              "Title": "Whitesnake",
+              "Year": 1987
+            }
+          ],
+          "Bio": {
+            "ArtistID": "whitesnake",
+            "BioID": "whitesnake-ian-paice",
+            "FullName": "Ian Anderson Paice",
+            "Birth": {
+              "Date": "1948-06-29",
+              "Place": "Nottingham, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Drums"
+            ],
+            "Instruments": [
+              "Drums"
+            ],
+            "FullText": "Ian Paice (born 29 June 1948) is an English drummer celebrated for combining power with swing. Best known as the longtime drummer of Deep Purple, he is also notable in Whitesnake’s story as a key contributor during periods when David Coverdale’s band intersected with Deep Purple’s musical lineage.\n\nPaice’s style is built on feel and forward motion. He can play with heavy volume and authority, but his grooves retain a subtle bounce that keeps hard rock from becoming rigid. That balance—hard-hitting yet fluid—made him one of the defining drummers of classic rock.\n\nBy the time he entered the Whitesnake orbit, Paice had already helped shape the vocabulary of 1970s hard rock. His reputation came not only from technical ability but from a musical intelligence that supports a vocalist and locks tightly with bass while still leaving room for guitar phrasing.\n\nIn the Whitesnake context, Paice’s drumming strengthened the band’s rhythmic backbone during an era when the material blended blues swagger with hard-rock drive. He brought a crisp, articulate snare sound, strong cymbal work, and a sense of arrangement in the way he set up transitions and punctuated choruses.\n\nPaice’s presence also carried symbolic weight: he represented a living connection to Deep Purple at a time when Coverdale was proving that his post-Purple project could stand on its own. Yet Paice did not simply replay old patterns; he adapted to Whitesnake’s songs, matching the band’s blues-based feel and supporting Coverdale’s phrasing with an elastic groove.\n\nWhen Whitesnake re-entered the spotlight in the late 1980s, Paice again became part of the band’s story, helping anchor performances of material that demanded both finesse and force. In a catalog that ranged from slow-burning blues to stadium-sized choruses, his ability to shift dynamics without losing the pulse was a major asset.\n\nOutside Whitesnake, Paice’s influence has been enormous. Drummers across rock and metal cite him for his ghost notes, his ride-cymbal feel, and the way he makes fast, heavy music still sound human. He is often described as a drummer’s drummer—subtle enough to reward close listening and powerful enough to move arenas.\n\nIn Whitesnake’s biography, Paice represents rhythmic authority. When he is in the lineup, the band gains a particular kind of drive: heavy, confident, and swinging, with the sense that the groove is pushing the song forward rather than merely marking time.",
+            "Sources": [
+              {
+                "Title": "Ian Paice",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Ian_Paice"
+              },
+              {
+                "Title": "Whitesnake",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Whitesnake"
+              },
+              {
+                "Title": "Ian Paice: Deep Purple’s drummer",
+                "Publisher": "uDiscoverMusic",
+                "Url": "https://www.udiscovermusic.com/stories/ian-paice-deep-purple-drummer/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John Sykes",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "YearsActive": "1984–1987",
+          "Albums": [
+            {
+              "Title": "Whitesnake",
+              "Year": 1987
+            }
+          ]
+        },
+        {
+          "Name": "Cozy Powell",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "YearsActive": "1982–1984",
+          "Albums": [
+            {
+              "Title": "Slide It In",
+              "Year": 1984
+            }
+          ]
+        },
+        {
+          "Name": "Adrian Vandenberg",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "YearsActive": "1987–1991; 1994; 1997",
+          "Albums": [
+            {
+              "Title": "Slip of the Tongue",
+              "Year": 1989
+            }
+          ]
+        },
+        {
+          "Name": "Steve Vai",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "YearsActive": "1989–1990",
+          "Albums": [
+            {
+              "Title": "Slip of the Tongue",
+              "Year": 1989
+            }
+          ]
+        },
+        {
+          "Name": "Tommy Aldridge",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "YearsActive": "1987–1990; 2002–2007",
+          "Albums": [
+            {
+              "Title": "Slip of the Tongue",
+              "Year": 1989
+            }
+          ]
+        },
+        {
+          "Name": "Rudy Sarzo",
+          "Roles": "Bass",
+          "Instruments": "Bass",
+          "YearsActive": "1987",
+          "Albums": [
+            {
+              "Title": "Whitesnake",
+              "Year": 1987
+            }
+          ]
+        },
+        {
+          "Name": "Doug Aldrich",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "YearsActive": "2002–2014",
+          "Albums": [
+            {
+              "Title": "Good to Be Bad",
+              "Year": 2008
+            }
+          ]
+        },
+        {
+          "Name": "Reb Beach",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "YearsActive": "2002–2022",
+          "Albums": [
+            {
+              "Title": "Good to Be Bad",
+              "Year": 2008
+            },
+            {
+              "Title": "Flesh & Blood",
+              "Year": 2019
+            }
+          ]
+        },
+        {
+          "Name": "Michael Devin",
+          "Roles": "Bass",
+          "Instruments": "Bass",
+          "YearsActive": "2010–2022",
+          "Albums": [
+            {
+              "Title": "Forevermore",
+              "Year": 2011
+            },
+            {
+              "Title": "Flesh & Blood",
+              "Year": 2019
+            }
+          ]
+        },
+        {
+          "Name": "Joel Hoekstra",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "YearsActive": "2014–2022",
+          "Albums": [
+            {
+              "Title": "Flesh & Blood",
+              "Year": 2019
+            }
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "the-who",
