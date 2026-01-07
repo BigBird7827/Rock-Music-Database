@@ -1843,8 +1843,470 @@
     {
       "ArtistID": "supertramp",
       "Name": "Supertramp",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1970–1988",
+        "1993",
+        "1996–2002",
+        "2010–2012"
+      ],
+      "Genres": [
+        "Progressive rock",
+        "Pop rock",
+        "Art rock",
+        "Soft rock",
+        "Progressive pop"
+      ],
+      "Labels": [
+        "A&M",
+        "EMI",
+        "Oxygen",
+        "Super Cab",
+        "Chrysalis"
+      ],
+      "Overview": "Supertramp were a British rock band whose sharp songwriting, bright keyboard textures, and pop-friendly hooks made them one of the defining album acts of the 1970s. Formed in London around the writing partnership of Rick Davies and Roger Hodgson, the group developed a sound that could pivot from progressive-rock drama to radio-ready melodies, often within the same song. Their music became instantly recognizable for Davies’ blues-leaning Wurlitzer and piano work, Hodgson’s high tenor and chiming guitar/keyboard parts, and the signature color of John Helliwell’s saxophone.\n\nAfter early albums struggled to find traction, the band broke through with *Crime of the Century* (1974), a record that blended ambitious arrangements with emotionally direct themes—school, conformity, anxiety, and the pressure to “fit.” That album set the template for the run that followed, including *Crisis? What Crisis?* (1975), *Even in the Quietest Moments…* (1977), and their commercial peak *Breakfast in America* (1979). *Breakfast in America* became an international blockbuster and produced multiple major singles, turning Supertramp into a stadium-level touring act without sacrificing the detailed craftsmanship that anchored their albums.\n\nHodgson departed in the early 1980s, and Davies kept the band active through later lineups and reunion eras. Across its different phases, Supertramp’s legacy rests on a rare balance: thoughtful, sometimes sardonic storytelling set to melodies that feel effortless—songs built to last, whether heard through headphones as full albums or on the radio as classics.",
+      "NotableAlbums": [
+        {
+          "Title": "Crime of the Century",
+          "Year": 1974,
+          "Notes": "Breakthrough album; established the band’s signature blend of prog ambition and pop clarity."
+        },
+        {
+          "Title": "Crisis? What Crisis?",
+          "Year": 1975,
+          "Notes": "Follow-up that expanded the palette and sharpened the band’s satirical edge."
+        },
+        {
+          "Title": "Even in the Quietest Moments…",
+          "Year": 1977,
+          "Notes": "Home to “Give a Little Bit”; a polished bridge between prog textures and pop songwriting."
+        },
+        {
+          "Title": "Breakfast in America",
+          "Year": 1979,
+          "Notes": "Commercial peak; multiple hit singles; won Grammys for album package and engineering."
+        },
+        {
+          "Title": "Paris",
+          "Year": 1980,
+          "Notes": "Live document of the peak-era touring band."
+        },
+        {
+          "Title": "...Famous Last Words...",
+          "Year": 1982,
+          "Notes": "Final studio album with Hodgson; closed the classic era."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "The Logical Song",
+          "Year": 1979,
+          "Notes": "A defining single: bright hooks, restless keyboards, and a sharp critique of growing up."
+        },
+        {
+          "Title": "Take the Long Way Home",
+          "Year": 1979,
+          "Notes": "A radio staple with harmonica, sax touches, and bittersweet perspective."
+        },
+        {
+          "Title": "Goodbye Stranger",
+          "Year": 1979,
+          "Notes": "Grooving, sly, and dramatic—one of Davies’ signature compositions."
+        },
+        {
+          "Title": "Dreamer",
+          "Year": 1974,
+          "Notes": "Early hit that helped introduce the band’s melodic side to a wider audience."
+        },
+        {
+          "Title": "Give a Little Bit",
+          "Year": 1977,
+          "Notes": "An enduring sing-along built on acoustic drive and a generous chorus."
+        },
+        {
+          "Title": "Bloody Well Right",
+          "Year": 1974,
+          "Notes": "Harder-edged rocker that became a fan favorite from the breakthrough era."
+        },
+        {
+          "Title": "School",
+          "Year": 1974,
+          "Notes": "Iconic album opener; theatrical and urgent, capturing the band’s prog roots."
+        },
+        {
+          "Title": "It’s Raining Again",
+          "Year": 1982,
+          "Notes": "Late-era hit that proved the band could still land major singles."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Global commercial peak with Breakfast in America",
+          "Year": 1979,
+          "Notes": "Album topped major charts and produced multiple international hit singles."
+        },
+        {
+          "Title": "Grammy Awards (Breakfast in America)",
+          "Year": 1980,
+          "Notes": "Won Best Recording Package and Best Engineered Recording (Non-Classical)."
+        },
+        {
+          "Title": "Enduring classic-rock catalog",
+          "Notes": "Songs remain staples on radio and in live performance decades later."
+        }
+      ],
+      "KeyFacts": [
+        "Core creative partnership: Rick Davies and Roger Hodgson.",
+        "Classic lineup era is most associated with Davies, Hodgson, John Helliwell, Dougie Thomson, and Bob Siebenberg.",
+        "Sound hallmark: Wurlitzer/piano, layered vocals, and saxophone accents with meticulous studio craft."
+      ],
+      "ExternalLinks": {
+        "Official Website": "https://www.supertramp.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Supertramp",
+        "AllMusic": "https://www.allmusic.com/artist/supertramp-mn0000038299",
+        "YouTube": "https://www.youtube.com/results?search_query=Supertramp+official"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Rick Davies",
+          "Roles": "Co-founder; co-lead vocals; keyboards; songwriter",
+          "Years": "1969–1988; 1996–2002; 2010–2011",
+          "YearsActive": "1969–1988; 1996–2002; 2010–2011",
+          "Instruments": "Vocals, keyboards, piano, Wurlitzer electric piano, harmonica",
+          "Albums": [
+            "Crime of the Century",
+            "Even in the Quietest Moments…",
+            "Breakfast in America",
+            "...Famous Last Words..."
+          ],
+          "Overview": "Rick Davies co-founded Supertramp and anchored its sound with blues-leaning keyboards, a grounded vocal presence, and sharply observed songwriting that balanced the band’s melodic sheen with bite.",
+          "Bio": {
+            "BioID": "supertramp-rick-davies",
+            "ArtistID": "supertramp",
+            "ArtistName": "Supertramp",
+            "MemberName": "Rick Davies",
+            "FullName": "Richard Davies",
+            "Birth": {
+              "Date": "1944-07-22",
+              "Place": "Swindon, Wiltshire, England"
+            },
+            "Death": {
+              "Date": "2025-09-06",
+              "Place": "East Hampton, New York, U.S.",
+              "Cause": "Multiple myeloma"
+            },
+            "ActiveYears": "1956–2022",
+            "Occupations": "Musician, singer, songwriter",
+            "PrimaryInstruments": "Keyboards, vocals, harmonica",
+            "Genres": "Progressive rock, pop rock, art rock, blues",
+            "AssociatedActs": "Supertramp",
+            "KeyAlbums": "Crime of the Century (1974); Breakfast in America (1979); ...Famous Last Words... (1982)",
+            "KeySongs": "“Goodbye Stranger”; “Bloody Well Right”; “School” (co-write); “Take the Long Way Home” (co-write)",
+            "Achievements": "Co-created one of the most successful album runs of 1970s rock; helped steer Breakfast in America to global acclaim and Grammy wins.",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Rick_Davies",
+              "Pitchfork (obituary)": "https://pitchfork.com/news/rick-davies-supertramp-founder-and-singer-dies-at-81/",
+              "Reuters (obituary)": "https://www.reuters.com/business/media-telecom/rick-davies-supertramp-co-founder-singer-dies-81-2025-09-08/"
+            },
+            "Biography": "Rick Davies was the steady, blues-informed counterweight inside Supertramp’s two-headed songwriting identity. Where the band could soar into bright, almost childlike wonder through Roger Hodgson’s melodies, Davies often grounded the music with darker humor, jazz-inflected piano work, and a voice that sounded lived-in rather than theatrical.\n\nBorn Richard Davies in Swindon, England, he built his early musical life around rhythm-and-blues and jazz, developing the keyboard approach that would later make Supertramp immediately recognizable. That Wurlitzer-and-piano backbone became the band’s spine: percussive, warm, and capable of turning a verse into a locomotive groove.\n\nIn 1969–1970, Davies helped form what became Supertramp after connecting with Hodgson, and the contrast between them quickly became the point. Davies leaned toward grit and narrative; Hodgson leaned toward melody and uplift. Together, they created songs that felt both sophisticated and approachable—arrangements with detail, but choruses that still landed on the first listen.\n\nThe early albums didn’t immediately connect, but Davies stayed committed to the long game of refining the sound, and the breakthrough arrived with *Crime of the Century* (1974). On that record, his playing could be expansive without losing punch, and the lyrical voice of the band sharpened into something more pointed—observational, sometimes cynical, and often uncomfortably honest.\n\nAs Supertramp moved toward their late-’70s peak, Davies’ strengths became even more valuable: he could make complicated parts feel effortless and could keep the songs from floating away into pure prettiness. His writing and co-writing contributions helped define *Breakfast in America* (1979), where the band’s polish didn’t erase its personality.\n\nDavies was also a crucial stage presence—not flashy, but authoritative—driving the band’s dynamics from the keyboard chair and shaping performances around feel and pacing. That sense of control made the group’s concert arrangements tighter than many peers who leaned on improvisation alone.\n\nAfter Hodgson’s departure in the early 1980s, Davies remained the constant member and carried the Supertramp name through later lineups and reunion-era tours. The chemistry of the classic partnership was hard to replace, but Davies’ determination kept the catalog alive in a way that wasn’t just nostalgia—he treated the songs like a working repertoire.\n\nEven in the band’s later years, his reputation stayed tied to craft: arrangements that served the song, grooves that never felt accidental, and lyrics that could be wry without being disposable. For many listeners, he represented the band’s edge—its skepticism, its bite, and its emotional realism.\n\nDavies died on September 6, 2025, at age 81, after a long illness. His legacy is embedded in the piano figures, chord changes, and understated hooks that still sound modern—proof that Supertramp’s best work was built as carefully as it was performed.\n\nIn the end, Davies’ gift was balance: he could make ambitious music feel human, and he could make pop music feel intelligent. That combination is why Supertramp’s core records continue to reward both casual listeners and deep-dive album fans.",
+            "Sources": [
+              {
+                "Title": "Rick Davies obituary",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/rick-davies-supertramp-founder-and-singer-dies-at-81/"
+              },
+              {
+                "Title": "Rick Davies obituary",
+                "Publisher": "Reuters",
+                "Url": "https://www.reuters.com/business/media-telecom/rick-davies-supertramp-co-founder-singer-dies-81-2025-09-08/"
+              },
+              {
+                "Title": "Rick Davies (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Rick_Davies"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Roger Hodgson",
+          "Roles": "Co-founder; co-lead vocals; guitars & keyboards; principal songwriter",
+          "Years": "1969–1983",
+          "YearsActive": "1969–1983",
+          "Instruments": "Vocals, guitar, keyboards, piano",
+          "Albums": [
+            "Crime of the Century",
+            "Even in the Quietest Moments…",
+            "Breakfast in America",
+            "...Famous Last Words..."
+          ],
+          "Overview": "Roger Hodgson’s high tenor and melodic writing style supplied many of Supertramp’s most enduring hooks, often pairing emotional directness with clever lyrical perspective.",
+          "Bio": {
+            "BioID": "supertramp-roger-hodgson",
+            "ArtistID": "supertramp",
+            "ArtistName": "Supertramp",
+            "MemberName": "Roger Hodgson",
+            "FullName": "Charles Roger Pomfret Hodgson",
+            "Birth": {
+              "Date": "1950-03-21",
+              "Place": "Portsmouth, Hampshire, England"
+            },
+            "ActiveYears": "1969–present",
+            "Occupations": "Singer, musician, songwriter",
+            "PrimaryInstruments": "Vocals, guitar, keyboards",
+            "Genres": "Progressive rock, pop rock, art rock, soft rock",
+            "AssociatedActs": "Supertramp",
+            "KeyAlbums": "Crime of the Century (1974); Breakfast in America (1979); ...Famous Last Words... (1982)",
+            "KeySongs": "“The Logical Song”; “Dreamer”; “Give a Little Bit”; “Take the Long Way Home”",
+            "Achievements": "Wrote and sang many of Supertramp’s signature hits; continued an extensive solo touring career after leaving the band.",
+            "ExternalLinks": {
+              "Official Website": "https://www.rogerhodgson.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Roger_Hodgson"
+            },
+            "Biography": "Roger Hodgson was the melodic engine of Supertramp’s classic era, the songwriter whose bright choruses and searching lyrics could make even complex arrangements feel inviting. His voice—high, clear, and emotionally immediate—became one of the most identifiable sounds in 1970s rock, especially when paired with the band’s glossy keyboard textures.\n\nBorn in Portsmouth, England, and raised around Oxford, Hodgson developed an early fascination with guitar and songwriting, building a style that blended pop instincts with progressive-rock ambition. Even at Supertramp’s most elaborate, his material tended to land on melody first—hooks that sounded simple only because the craft underneath was so tight.\n\nWhen Hodgson connected with Rick Davies at the formation stage of the band, the contrast between them created a productive tension. Hodgson’s sense of uplift and wonder met Davies’ grit and skepticism, and their shared writing partnership produced songs that could be both bright and unsettling.\n\nThe breakthrough of *Crime of the Century* showcased Hodgson’s knack for turning big themes into accessible narratives, from the youthful optimism of “Dreamer” to more inward, emotionally pressurized moments elsewhere on the record. His compositions often used shifting sections and dramatic builds, but they always returned to a melody you could carry out of the room.\n\nBy the late 1970s, Hodgson’s writing helped Supertramp hit a rare sweet spot: album-level depth with single-level impact. *Even in the Quietest Moments…* and *Breakfast in America* refined the approach—cleaner structures, sharper choruses, and a studio sheen that still left space for personality.\n\nSongs like “The Logical Song” and “Take the Long Way Home” captured the band’s appeal in miniature: catchy enough for radio, but restless enough to feel like more than product. His lyrics often returned to identity and disillusionment—what adulthood does to the self, and how education, work, and expectation can flatten a person into a role.\n\nHodgson left Supertramp in 1983, a turning point that effectively ended the band’s most celebrated lineup. Rather than chase a direct replacement dynamic, he pursued solo work and, over time, built a separate live career that emphasized the songs’ emotional core.\n\nAs a performer, Hodgson remained closely identified with the classic catalog, and his concerts frequently framed the Supertramp hits as personal stories rather than nostalgia pieces. That approach kept the material alive: the songs were presented as still-relevant reflections on growing up, disconnection, and hope.\n\nAcross decades, Hodgson’s role in Supertramp can be heard in the band’s most buoyant, instantly memorable moments—melodies that feel like they’ve always existed, paired with words that quietly sting. It’s the combination that made him a defining songwriter of the era.\n\nHodgson’s legacy inside the band is ultimately about clarity: he could take a complicated musical idea and translate it into something that felt direct and human, which is why those choruses still sound inevitable when they arrive.",
+            "Sources": [
+              {
+                "Title": "Roger Hodgson (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Roger_Hodgson"
+              },
+              {
+                "Title": "Breakfast in America (album details & awards)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Breakfast_in_America"
+              },
+              {
+                "Title": "Supertramp (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Supertramp"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John Helliwell",
+          "Roles": "Saxophonist; woodwinds; backing vocals; keyboards",
+          "Years": "1973–1988; 1996–2002; 2010–2012",
+          "YearsActive": "1973–1988; 1996–2002; 2010–2012",
+          "Instruments": "Saxophone, woodwinds, keyboards, backing vocals",
+          "Albums": [
+            "Crime of the Century",
+            "Even in the Quietest Moments…",
+            "Breakfast in America",
+            "...Famous Last Words..."
+          ],
+          "Overview": "John Helliwell added the saxophone color that became central to Supertramp’s identity, shaping melodic counterlines and onstage dynamics that helped the songs feel cinematic.",
+          "Bio": {
+            "BioID": "supertramp-john-helliwell",
+            "ArtistID": "supertramp",
+            "ArtistName": "Supertramp",
+            "MemberName": "John Helliwell",
+            "FullName": "John Anthony Helliwell",
+            "Birth": {
+              "Year": 1945,
+              "Place": "Todmorden, West Yorkshire, England"
+            },
+            "ActiveYears": "1960s–present",
+            "Occupations": "Musician",
+            "PrimaryInstruments": "Saxophone, woodwinds",
+            "Genres": "Progressive rock, pop rock",
+            "AssociatedActs": "Supertramp, The Alan Bown Set",
+            "KeyAlbums": "Crime of the Century (1974); Breakfast in America (1979); Paris (1980)",
+            "KeySongs": "“The Logical Song” (signature sax lines); “Take the Long Way Home”; “Breakfast in America”",
+            "Achievements": "Helped define Supertramp’s sonic signature through sax/woodwind work across the classic albums and tours.",
+            "ExternalLinks": {
+              "Official Website": "https://www.johnhelliwell.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/John_Helliwell"
+            },
+            "Biography": "John Helliwell is the musician most responsible for the element that made Supertramp sound instantly “like Supertramp” the moment a chorus opened up: the saxophone. His lines didn’t simply decorate the arrangements—they acted like a second voice, answering the vocals, widening the emotional frame, and giving the songs a cinematic lift.\n\nBorn in West Yorkshire, England, Helliwell developed as a multi-instrumentalist in the British scene before joining Supertramp’s defining 1973 lineup change. By the time the band recorded *Crime of the Century*, his role was already essential: he could make a track feel bigger without making it busier.\n\nHelliwell’s playing worked because it was arranged with intention. He favored melodic phrasing over endless solos, often entering at the exact moment a song needed a new color to keep momentum moving forward. That restraint turned his parts into hooks.\n\nOn the band’s late-’70s records, his sax became a brand signature. It could be warm and nostalgic in ballads, bright and punchy in uptempo tracks, and slyly humorous when the lyrics leaned satirical. That flexibility helped Supertramp’s catalog stay varied even as the band became more pop-forward.\n\nIn concert, Helliwell also functioned as a connective tissue between the players, helping the band’s tight arrangements feel relaxed rather than rigid. He was known for stage presence that made the show feel conversational—an ingredient that mattered for a band whose songs were built on precision.\n\nBeyond sax, he contributed woodwinds and additional keyboards, which allowed the group to translate studio layers into live performance without losing the songs’ architecture. In a band known for production detail, that ability was a practical superpower.\n\nAfter the original classic era shifted in the 1980s, Helliwell remained a key figure in later touring versions of Supertramp, helping preserve continuity of sound even as lineups changed. Listeners might notice it immediately: a familiar sax phrase would arrive and the whole arrangement would “lock” into the identity people remembered.\n\nHelliwell’s legacy within Supertramp is the art of the perfectly placed line—melodic, tasteful, and structurally important. He helped make the band’s songs feel three-dimensional, which is why the records still sound vivid decades later.\n\nFor fans, his contributions are often the moments they hum without realizing they’re humming the sax as much as the vocal melody. That’s a rare achievement: turning an instrumental voice into a pop hook.\n\nIn short, Helliwell didn’t just add saxophone to Supertramp—he helped define the band’s emotional vocabulary.",
+            "Sources": [
+              {
+                "Title": "John Helliwell (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/John_Helliwell"
+              },
+              {
+                "Title": "John Helliwell (official biography)",
+                "Publisher": "johnhelliwell.com",
+                "Url": "https://www.johnhelliwell.com/bio.php"
+              },
+              {
+                "Title": "Supertramp (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Supertramp"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Dougie Thomson",
+          "Roles": "Bass guitarist",
+          "Years": "1972–1988",
+          "YearsActive": "1972–1988",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Crime of the Century",
+            "Even in the Quietest Moments…",
+            "Breakfast in America",
+            "...Famous Last Words..."
+          ],
+          "Overview": "Dougie Thomson’s bass work helped Supertramp’s detailed arrangements feel grounded, supporting the band’s mix of prog structure and pop momentum.",
+          "Bio": {
+            "BioID": "supertramp-dougie-thomson",
+            "ArtistID": "supertramp",
+            "ArtistName": "Supertramp",
+            "MemberName": "Dougie Thomson",
+            "FullName": "Douglas Campbell Thomson",
+            "Birth": {
+              "Date": "1951-03-24",
+              "Place": "Glasgow, Scotland"
+            },
+            "ActiveYears": "1969–present",
+            "Occupations": "Musician",
+            "PrimaryInstruments": "Bass guitar",
+            "Genres": "Progressive rock, pop rock",
+            "AssociatedActs": "Supertramp, The Alan Bown Set",
+            "KeyAlbums": "Crime of the Century (1974); Breakfast in America (1979)",
+            "KeySongs": "“The Logical Song”; “Take the Long Way Home”; “Goodbye Stranger”",
+            "Achievements": "Part of Supertramp’s classic lineup across the band’s most successful albums and tours.",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dougie_Thomson",
+              "Supertramp (band overview)": "https://en.wikipedia.org/wiki/Supertramp"
+            },
+            "Biography": "Dougie Thomson was the quiet stabilizer in Supertramp’s classic lineup—the bassist whose job was to make intricate arrangements feel effortless. In a band built around keyboards, layered vocals, and precise studio craft, Thomson’s role was to keep the foundation clean, musical, and consistent.\n\nBorn in Glasgow, Scotland, Thomson arrived at the perfect moment in the band’s history: the early years of shifting personnel were giving way to a lineup that would soon define Supertramp’s identity. Once in place, the rhythm section became a dependable platform for the Davies/Hodgson songwriting engine.\n\nThomson’s bass parts often prioritize clarity over flash. He follows the chord movement with purpose, connecting transitions so the songs never feel like stitched-together sections, even when they shift moods and dynamics mid-track.\n\nThat approach mattered on *Crime of the Century*, where arrangements could be dramatic and episodic. The bass anchors the tension: when the songs expand, the bottom end stays disciplined, letting the keyboards and sax carry the spotlight without the mix losing shape.\n\nBy the time of *Breakfast in America*, the band’s pop instincts were in full bloom, and Thomson’s playing helped the grooves feel confident rather than busy. It’s the kind of musicianship that disappears into the song, which is usually the highest compliment for a bassist.\n\nOnstage, he contributed to the classic lineup’s reputation for tightness. Supertramp’s songs depend on timing and ensemble precision, and Thomson’s consistency helped performances feel polished without losing energy.\n\nAlthough the band is often discussed in terms of its two frontmen and its signature keyboard/sax colors, Thomson’s contribution is present whenever the music “sits” correctly—when a chorus lifts and the floor doesn’t move.\n\nAs part of the classic era, he helped deliver a run of albums that remain central to classic rock radio and deep-catalog listening alike. His work is a reminder that the strongest bands are built not only on iconic voices, but on players who make complexity sound simple.\n\nThomson’s legacy inside Supertramp is the art of support: musical lines that feel inevitable, grooves that feel steady, and arrangements that land with full weight.",
+            "Sources": [
+              {
+                "Title": "Dougie Thomson (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Dougie_Thomson"
+              },
+              {
+                "Title": "Supertramp (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Supertramp"
+              },
+              {
+                "Title": "List of Supertramp band members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Supertramp_band_members"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Bob Siebenberg",
+          "Roles": "Drummer; percussion",
+          "Years": "1973–1988; 1996–2002; 2010–2012",
+          "YearsActive": "1973–1988; 1996–2002; 2010–2012",
+          "Instruments": "Drums, percussion",
+          "Albums": [
+            "Crime of the Century",
+            "Even in the Quietest Moments…",
+            "Breakfast in America",
+            "...Famous Last Words..."
+          ],
+          "Overview": "Bob Siebenberg’s crisp, song-first drumming helped Supertramp’s layered arrangements breathe, balancing rock drive with the precision their productions demanded.",
+          "Bio": {
+            "BioID": "supertramp-bob-siebenberg",
+            "ArtistID": "supertramp",
+            "ArtistName": "Supertramp",
+            "MemberName": "Bob Siebenberg",
+            "FullName": "Robert Layne Siebenberg",
+            "Birth": {
+              "Date": "1949-10-31",
+              "Place": "Glendale, California, U.S."
+            },
+            "ActiveYears": "1960s–present",
+            "Occupations": "Drummer, musician",
+            "PrimaryInstruments": "Drums, percussion",
+            "Genres": "Rock, progressive rock, pop",
+            "AssociatedActs": "Supertramp",
+            "KeyAlbums": "Crime of the Century (1974); Breakfast in America (1979)",
+            "KeySongs": "“The Logical Song”; “Goodbye Stranger”; “Take the Long Way Home”",
+            "Achievements": "Part of Supertramp’s classic era as the band rose from cult popularity to global chart success.",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Bob_Siebenberg",
+              "Supertramp (band overview)": "https://en.wikipedia.org/wiki/Supertramp"
+            },
+            "Biography": "Bob Siebenberg joined Supertramp in 1973 and became a defining part of the band’s classic-era sound: tight, controlled drumming that kept complex arrangements moving like pop songs. His approach fit perfectly with a group whose music relied on structure, dynamics, and studio-level detail.\n\nBorn in Glendale, California, Siebenberg brought an American rhythmic sensibility into a primarily British band. That background helped Supertramp’s grooves feel crisp and direct even when the arrangements leaned progressive.\n\nSiebenberg’s drumming is rarely about showboating. Instead, it’s about shape—where to push a chorus, where to leave air in a verse, and how to make transitions feel natural when a song moves between sections.\n\nOn *Crime of the Century*, those skills are crucial: the album’s drama depends on tension and release, and the drums help control the emotional pacing. He plays with precision, but the feel never sounds sterile.\n\nBy the time the band reached *Breakfast in America*, Siebenberg’s job was to keep radio-ready tracks sharp without losing the subtlety that made Supertramp different. The grooves are clean enough to be catchy, but detailed enough to keep repeated listening interesting.\n\nIn the live setting, he helped translate studio complexity into performances that stayed locked-in. That consistency allowed the band’s keyboards, sax, and layered vocals to take center stage without the foundation wobbling.\n\nSiebenberg’s presence also contributed to the band’s identity as a disciplined ensemble rather than a vehicle for a single star. Supertramp sounded like a band—five interdependent parts—and the drummer’s reliability was central to that impression.\n\nAcross the band’s later touring eras, Siebenberg remained associated with the classic sound, a recognizable part of why the songs still felt like the same group even when other elements changed.\n\nHis legacy is the kind drummers often aspire to: being essential without demanding attention. If the songs still feel effortless, it’s partly because the drumming makes the architecture feel invisible.\n\nIn Supertramp’s case, Siebenberg helped make precision feel like momentum—and that’s why the records still move.",
+            "Sources": [
+              {
+                "Title": "Bob Siebenberg (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Bob_Siebenberg"
+              },
+              {
+                "Title": "Supertramp (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Supertramp"
+              },
+              {
+                "Title": "List of Supertramp band members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Supertramp_band_members"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Richard Palmer",
+          "Roles": "Early member; guitar, vocals",
+          "YearsActive": "1969–1971",
+          "Instruments": "Guitar, vocals",
+          "Albums": [
+            "Supertramp (1970)"
+          ],
+          "Overview": "A founding-era member of the group’s earliest lineup before the classic era solidified."
+        },
+        {
+          "Name": "Dave Winthrop",
+          "Roles": "Saxophone, woodwinds",
+          "YearsActive": "1970–1973",
+          "Instruments": "Saxophone, woodwinds",
+          "Albums": [
+            "Indelibly Stamped (1971)"
+          ],
+          "Overview": "Contributed early woodwind color during the band’s pre-breakthrough years."
+        },
+        {
+          "Name": "Frank Farrell",
+          "Roles": "Bass guitar",
+          "YearsActive": "1971–1972",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Indelibly Stamped (1971)"
+          ],
+          "Overview": "Bassist during the transitional period between the debut lineup and later classic personnel."
+        },
+        {
+          "Name": "Kevin Currie",
+          "Roles": "Drums, percussion",
+          "YearsActive": "1971–1973",
+          "Instruments": "Drums, percussion",
+          "Albums": [
+            "Indelibly Stamped (1971)"
+          ],
+          "Overview": "Drummer in the early 1970s before the band’s breakthrough lineup formed."
+        },
+        {
+          "Name": "Mark Hart",
+          "Roles": "Guitar, vocals, keyboards",
+          "YearsActive": "1996–2002",
+          "Instruments": "Guitar, vocals, keyboards",
+          "Albums": [
+            "Some Things Never Change (1997)",
+            "Slow Motion (2002)"
+          ],
+          "Overview": "A key contributor in the 1990s–2000s touring/recording era led by Rick Davies."
+        }
+      ]
     },
     {
       "ArtistID": "the-supremes",
