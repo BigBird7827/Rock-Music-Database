@@ -459,7 +459,382 @@
     },
     {
       "ArtistID": "disturbed",
-      "Name": "Disturbed"
+      "Name": "Disturbed",
+      "Type": "Band",
+      "Origin": {
+        "City": "Chicago",
+        "Region": "Illinois",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1994–2011",
+        "2015–present"
+      ],
+      "Genres": [
+        "Heavy metal",
+        "Alternative metal",
+        "Hard rock",
+        "Nu metal"
+      ],
+      "Labels": [
+        "Giant",
+        "Reprise",
+        "Intoxication Records"
+      ],
+      "Overview": "Disturbed are a Chicago heavy-metal/hard-rock band whose rise at the turn of the 2000s helped define mainstream alternative metal for a new era. Guitarist Dan Donegan, drummer Mike Wengren, and bassist Steve “Fuzz” Kmak began playing together in the mid‑1990s and, after a key lineup change in 1996, recruited vocalist David Draiman—then pivoting to the name Disturbed and sharpening a sound built on tight, percussive riffs, syncopated grooves, and Draiman’s commanding baritone delivery. Their breakthrough arrived with the debut album The Sickness (2000), anchored by enduring singles like “Down With the Sickness” and “Stupify,” and supported by relentless touring that made them a fixture of modern-rock radio and hard‑rock festival bills.\n\nAcross the 2000s, Disturbed expanded their palette without losing their blunt-force hook craft—folding in more melody, mid‑tempo anthem writing, and arena-scale choruses on records like Believe (2002) and Ten Thousand Fists (2005), while doubling down on precision and intensity on Indestructible (2008) and Asylum (2010). That run also translated into major commercial peaks: beginning with Believe, the band launched a streak of Billboard 200 No. 1 debuts that underscored their rare ability to bridge metal credibility with pop‑chart impact. After stepping away in 2011, they returned in 2015 with Immortalized, reasserting their hitmaking instincts and delivering a widely recognized reinterpretation of “The Sound of Silence” that broadened their audience.\n\nMore than three decades after forming, Disturbed remain defined by an unusually consistent core identity: Donegan’s riff-first songwriting and texture shifts, Wengren’s driving double‑kick foundation, and Draiman’s forceful vocal phrasing—now complemented by long‑time bassist John Moyer’s muscular low end and backing vocals. The band’s catalog continues to be buoyed by high-profile certifications and enduring streaming staples, and their live shows—built around crowd-participation hooks and militant precision—have kept them a durable headliner in modern hard rock.",
+      "NotableAlbums": [
+        {
+          "Title": "The Sickness",
+          "Year": "2000",
+          "Notes": "The breakthrough debut that introduced Disturbed’s punchy alternative-metal blueprint and produced era-defining singles like “Down With the Sickness,” “Stupify,” and “Voices.” Its long chart life and continued catalog performance made it the band’s signature early statement."
+        },
+        {
+          "Title": "Believe",
+          "Year": "2002",
+          "Notes": "A darker, more melodic follow-up that expanded the band’s songwriting beyond the debut’s aggression while retaining the same rhythmic, riff-driven core. The album marked a major commercial leap and helped cement Disturbed as arena-scale headliners."
+        },
+        {
+          "Title": "Ten Thousand Fists",
+          "Year": "2005",
+          "Notes": "A stadium-ready set that sharpened the band’s anthemic instincts—balancing aggression with big choruses—while leaning into the band’s iconography (including “The Guy” artwork). It became a defining mid‑2000s hard-rock staple."
+        },
+        {
+          "Title": "Indestructible",
+          "Year": "2008",
+          "Notes": "A hard-hitting record built around martial grooves and rally-cry hooks, featuring signature tracks like “Inside the Fire” and the title song. It reinforced Disturbed’s dominance in mainstream metal during the late 2000s."
+        },
+        {
+          "Title": "Asylum",
+          "Year": "2010",
+          "Notes": "A darker, heavier entry that continued the band’s chart momentum and emphasized modern-metal textures, maintaining Disturbed’s blend of precision riffing and radio-scale choruses."
+        },
+        {
+          "Title": "Immortalized",
+          "Year": "2015",
+          "Notes": "The comeback album after the band’s hiatus; it restored their Billboard-topping profile and included their widely acclaimed version of “The Sound of Silence,” showcasing a broader dynamic range."
+        },
+        {
+          "Title": "Evolution",
+          "Year": "2018",
+          "Notes": "A stylistic curve toward more overt melody and varied tempos, highlighting the band’s willingness to experiment with dynamics while keeping their core identity intact."
+        },
+        {
+          "Title": "Divisive",
+          "Year": "2022",
+          "Notes": "A return-to-heavier-intent studio album that foregrounded chugging riffs and tight, modern-metal production while reaffirming Disturbed’s hook-first writing approach."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Down With the Sickness",
+          "Year": "2000",
+          "Notes": "Disturbed’s defining breakout: a percussive riff, chant-ready hook, and Draiman’s rhythmic vocal attack made it one of the most recognizable rock singles of its era."
+        },
+        {
+          "Title": "Stupify",
+          "Year": "2000",
+          "Notes": "A key early single from The Sickness that helped establish the band’s stop-start groove and vocal cadence as their calling card."
+        },
+        {
+          "Title": "Voices",
+          "Year": "2000",
+          "Notes": "An early fan favorite that showcased the band’s ability to balance tension-and-release riffing with melodic choruses."
+        },
+        {
+          "Title": "Prayer",
+          "Year": "2002",
+          "Notes": "A major Believe-era single built for modern-rock radio, emphasizing hymn-like melodies over a heavy backbone."
+        },
+        {
+          "Title": "Stricken",
+          "Year": "2005",
+          "Notes": "A sleek, riff-driven hit that became a staple of Disturbed’s live set and one of their most enduring 2000s singles."
+        },
+        {
+          "Title": "Inside the Fire",
+          "Year": "2008",
+          "Notes": "A dark, driving Indestructible highlight with a massive chorus and one of the band’s signature late-2000s hooks."
+        },
+        {
+          "Title": "Indestructible",
+          "Year": "2008",
+          "Notes": "A rally-cry anthem built for arenas, pairing militaristic rhythms with a chorus designed for crowd response."
+        },
+        {
+          "Title": "The Vengeful One",
+          "Year": "2015",
+          "Notes": "A key Immortalized-era single that reintroduced Disturbed’s aggressive, groove-forward approach after their hiatus."
+        },
+        {
+          "Title": "The Sound of Silence",
+          "Year": "2015",
+          "Notes": "A dramatic reinterpretation that emphasized Draiman’s vocal range and brought the band broader mainstream attention beyond heavy-rock audiences."
+        },
+        {
+          "Title": "Are You Ready",
+          "Year": "2018",
+          "Notes": "A punchy, hook-first single that bridged the band’s heavy roots with a more modern hard-rock sheen."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2000",
+          "Title": "Breakthrough with The Sickness",
+          "Details": "The debut album established Disturbed as a major modern-metal act, with multiple singles that became long-running staples on rock radio and in the band’s live set."
+        },
+        {
+          "Year": "2002–2015",
+          "Title": "Five consecutive Billboard 200 No. 1 debuts",
+          "Details": "Believe (2002), Ten Thousand Fists (2005), Indestructible (2008), Asylum (2010), and Immortalized (2015) each debuted at No. 1 on the Billboard 200—an exceptionally rare streak for a modern metal band."
+        },
+        {
+          "Year": "2011",
+          "Title": "Hiatus after a decade-plus of touring and releases",
+          "Details": "Following extensive touring and multiple studio albums, Disturbed paused activity before returning with new material in the mid‑2010s."
+        },
+        {
+          "Year": "2015",
+          "Title": "Return with Immortalized and a major crossover moment",
+          "Details": "The comeback album restored the band’s chart presence and included “The Sound of Silence,” a widely recognized performance that reached beyond core heavy-rock audiences."
+        },
+        {
+          "Year": "2025",
+          "Title": "RIAA milestone certifications highlight enduring catalog demand",
+          "Details": "U.S. certifications for key Sickness-era singles—including an 8× Platinum award for “Down With the Sickness” (certified January 17, 2025)—underscored the continued popularity of the band’s early hits."
+        }
+      ],
+      "KeyFacts": [
+        "Disturbed formed in Chicago in the mid‑1990s and solidified their classic lineup when vocalist David Draiman joined in 1996.",
+        "The band’s signature sound centers on groove-heavy riffing, tight stops/starts, and a vocal style that blends melodic choruses with rhythmic, percussive phrasing.",
+        "Beginning with Believe (2002), Disturbed achieved five consecutive Billboard 200 No. 1 debuts through Immortalized (2015).",
+        "Their visual identity is closely associated with the band’s mascot artwork, “The Guy,” used prominently across releases and tour branding.",
+        "Long-time bassist John Moyer joined in the mid‑2000s, replacing original bassist Steve “Fuzz” Kmak and becoming part of the band’s arena-era peak and post-hiatus run."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://disturbed1.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Disturbed_(band)",
+        "YouTube": "https://www.youtube.com/channel/UCveWMJeHgcIUPMnFzd7Vxjg",
+        "Spotify": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+      },
+      "CoreMembers": [
+        {
+          "Name": "David Draiman",
+          "YearsActive": "1996–present",
+          "Roles": "Lead vocals",
+          "Instruments": "Vocals",
+          "Albums": [
+            "The Sickness",
+            "Believe",
+            "Ten Thousand Fists",
+            "Indestructible",
+            "Asylum",
+            "Immortalized",
+            "Evolution",
+            "Divisive"
+          ],
+          "Bio": {
+            "BioID": "disturbed-david-draiman",
+            "FullName": "David Michael Draiman",
+            "Birth": {
+              "Date": "1973-03-13",
+              "Place": "Brooklyn, New York City, New York, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Singer, songwriter; lead vocalist of Disturbed",
+            "Instruments": "Vocals",
+            "Biography": "David Michael Draiman became Disturbed’s defining voice in 1996, stepping into a Chicago band that was already building a heavy, groove-forward foundation and helping turn it into a mainstream force. From the beginning, his approach stood out: a deep baritone pushed through a highly percussive, rhythm-first delivery that could pivot from clipped, staccato verses to big, melodic hooks. That contrast became central to Disturbed’s identity—especially on the group’s breakthrough period at the start of the 2000s.\n\nOn The Sickness, Draiman’s vocals were engineered as much for impact as melody: he locked tightly to the kick-and-riff patterns, then opened up into choruses designed for arena response. As the band grew, his range widened—incorporating more sustained singing and a broader emotional palette across Believe and Ten Thousand Fists, while retaining the aggressive cadence that fans associated with Disturbed’s hardest-hitting tracks.\n\nDraiman’s work is closely tied to the band’s biggest songs: he’s a primary lyricist and a key architect of the group’s hook-driven structures. Tracks like “Down With the Sickness,” “Stupify,” and later “Indestructible” and “Inside the Fire” show how he frames heavy riffs with chant-ready refrains, turning dense modern-metal textures into something immediately memorable.\n\nDuring Disturbed’s 2011–2015 hiatus, Draiman kept writing and recording, most notably launching the industrial-leaning project Device. That period sharpened his studio instincts and broadened his collaborator network, but it also highlighted how uniquely his voice fit within Disturbed’s rhythmic approach—something made clear when the band reconvened.\n\nOn the comeback album Immortalized, Draiman delivered some of his most dynamic performances, balancing the band’s familiar aggression with more spacious, dramatic moments. The group’s reinterpretation of “The Sound of Silence” in particular put his vocal control and phrasing front and center, reaching listeners well beyond the usual heavy-rock audience.\n\nLive, Draiman’s role is part frontman, part conductor. Disturbed’s concerts are built around audience call-and-response moments and precisely timed stops, and his ability to cue a crowd while staying locked to the groove is a major part of the band’s reputation as a tight, arena-ready act.\n\nAcross decades of touring and multiple chart-topping album cycles, Draiman has remained the band’s most recognizable signature—an unmistakable timbre and delivery style that helped Disturbed bridge metal’s intensity with mainstream rock’s chorus-first immediacy.",
+            "HonoursAndMilestones": [
+              "Joined Disturbed in 1996 and became the band’s defining voice and primary frontman.",
+              "Co-wrote and performed on Disturbed’s best-known singles across multiple Billboard-topping album cycles.",
+              "Formed the side project Device during Disturbed’s 2011–2015 hiatus."
+            ],
+            "FunFacts": [
+              "Known for a distinctive percussive vocal cadence that became a hallmark of early 2000s alternative metal.",
+              "Helped broaden Disturbed’s audience with the band’s version of “The Sound of Silence” during the Immortalized era."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "David Draiman",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/David_Draiman"
+              },
+              {
+                "Title": "Disturbed (Official Site)",
+                "Publisher": "disturbed1.com",
+                "Url": "https://disturbed1.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Dan Donegan",
+          "YearsActive": "1994–present",
+          "Roles": "Guitar, keyboards; founding member",
+          "Instruments": "Guitar, keyboards",
+          "Albums": [
+            "The Sickness",
+            "Believe",
+            "Ten Thousand Fists",
+            "Indestructible",
+            "Asylum",
+            "Immortalized",
+            "Evolution",
+            "Divisive"
+          ],
+          "Bio": {
+            "BioID": "disturbed-dan-donegan",
+            "FullName": "Daniel Joseph Donegan",
+            "Birth": {
+              "Date": "1968-08-01",
+              "Place": "Oak Lawn, Illinois, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Guitarist, songwriter, producer; founding member of Disturbed",
+            "Instruments": "Guitar, keyboards",
+            "Biography": "Daniel Joseph Donegan is Disturbed’s founding guitarist and the primary architect of the band’s riff language—an approach that fuses tight, palm-muted grooves with sudden stop-start accents and melodic, arena-scale choruses. From the mid‑1990s onward, his playing has served as Disturbed’s engine: riffs that feel percussive enough to function like additional rhythm parts, but melodic enough to anchor songs as hooks.\n\nBefore Disturbed’s breakthrough, Donegan developed his style in the Chicago-area rock and metal circuit, building a vocabulary that drew from classic metal, hard rock, and the emerging groove-centered heaviness of the era. When the band’s lineup solidified in the mid‑1990s, his writing leaned into clarity and punch—short, identifiable motifs and disciplined arrangements that left space for vocal cadence and crowd-participation choruses.\n\nOn The Sickness, Donegan’s guitar work defined the band’s early identity: sharp, syncopated patterns that matched the drum groove and created a spring-loaded tension in the verses. As Disturbed moved into Believe and Ten Thousand Fists, he broadened the palette with more melodic lead lines, thicker harmonies, and occasional keyboard textures—without losing the blunt-force immediacy of the core riffing.\n\nIndestructible and Asylum showcased another phase of his writing: heavier, more martial riff structures and finely tuned production choices that emphasized precision. In this era, Donegan’s tone and rhythmic discipline helped Disturbed sound both aggressive and radio-ready, a balance that powered the band’s sustained chart success.\n\nDonegan has also been an important behind-the-scenes voice in Disturbed’s sound, contributing to arrangement decisions and the overall shape of songs—how choruses land, where breakdowns hit, and how dynamics rise and fall across an album. His role is less about flash for its own sake and more about building riffs that function like slogans: simple enough to be instantly recognized, crafted tightly enough to drive a room full of people in unison.\n\nOutside Disturbed, Donegan has explored side work that reflects his interest in hooks and modern production, including the project Fight or Flight with bandmate Mike Wengren. Even in those contexts, his signature remains consistent: riff-first writing with a strong sense of pacing.\n\nAcross Disturbed’s full catalog, Donegan’s contribution is the band’s most persistent musical fingerprint—heavy grooves that are immediately identifiable and engineered to translate from studio recordings to the scale and volume of an arena stage.",
+            "HonoursAndMilestones": [
+              "Co-founded the band’s original mid‑1990s lineup and became its primary riff writer.",
+              "Helped shape Disturbed’s signature groove-forward alternative-metal style and arena-scale chorus writing.",
+              "Formed the side project Fight or Flight with Mike Wengren."
+            ],
+            "FunFacts": [
+              "Often shifts between heavy rhythm guitar and texture/keyboard layers to build Disturbed’s dynamic changes.",
+              "Recognized in various guitarist lists for a ‘complete player’ approach that emphasizes both groove and melody."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Dan Donegan",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Dan_Donegan"
+              },
+              {
+                "Title": "Disturbed (Official Site)",
+                "Publisher": "disturbed1.com",
+                "Url": "https://disturbed1.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike Wengren",
+          "YearsActive": "1994–present",
+          "Roles": "Drums; founding member",
+          "Instruments": "Drums",
+          "Albums": [
+            "The Sickness",
+            "Believe",
+            "Ten Thousand Fists",
+            "Indestructible",
+            "Asylum",
+            "Immortalized",
+            "Evolution",
+            "Divisive"
+          ],
+          "Bio": {
+            "BioID": "disturbed-mike-wengren",
+            "FullName": "Michael Wengren",
+            "Birth": {
+              "Date": "1971-09-03",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Drummer; founding member of Disturbed",
+            "Instruments": "Drums",
+            "Biography": "Michael Wengren is Disturbed’s founding drummer and the rhythmic backbone of the band’s tightly wound, groove-heavy sound. From the earliest mid‑1990s incarnations through the group’s arena years, his playing has emphasized precision and drive—especially the double-kick patterns and locked-in pocket that make Disturbed’s riffs feel physical and relentless.\n\nWengren’s drumming is built around clarity of impact. Rather than filling every gap, he focuses on reinforcing the riff’s rhythmic shape, creating the stop-start tension that became a Disturbed hallmark. That approach is especially audible on The Sickness, where the drums act as a second “hook” alongside the guitar—accenting breaks, snapping back into the groove, and setting up choruses designed for crowd response.\n\nAs the band’s songwriting matured, Wengren helped Disturbed scale up without losing tightness. On records like Believe and Ten Thousand Fists, the grooves breathe more and the dynamics widen, but the drumming remains anchored in disciplined timekeeping and emphatic downbeats that make choruses land hard.\n\nIndestructible and Asylum pushed the band’s rhythmic feel toward a more militaristic, march-like intensity, and Wengren’s consistency is a big reason those albums sound as focused as they do. His kick patterns and snare placement create the sense of forward momentum that lets Disturbed balance heaviness with radio accessibility.\n\nWengren also contributed to Disturbed’s post-hiatus identity by helping the band return with the same level of tightness after years away from the studio cycle. Immortalized in particular underscored how central the drum groove is to the band’s musical personality—whether powering aggressive singles or supporting more spacious, dramatic arrangements.\n\nOutside the main band, Wengren has collaborated with Donegan in Fight or Flight, reinforcing how closely Disturbed’s core rhythm language is tied to the partnership between guitar and drums. Across decades of touring, his style has remained remarkably consistent: heavy, clean, and built to keep a massive room moving in time.",
+            "HonoursAndMilestones": [
+              "Co-founded Disturbed and anchored the band’s groove-heavy rhythm identity from the start.",
+              "Known for disciplined double-kick technique and precision timing in Disturbed’s stop-start arrangements.",
+              "Formed Fight or Flight with Dan Donegan."
+            ],
+            "FunFacts": [
+              "Disturbed’s hallmark ‘tightness’ in live shows is often credited to the locked-in guitar/drum partnership at the core of the band."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Mike Wengren",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mike_Wengren"
+              },
+              {
+                "Title": "Disturbed (Official Site)",
+                "Publisher": "disturbed1.com",
+                "Url": "https://disturbed1.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John Moyer",
+          "YearsActive": "2004–present",
+          "Roles": "Bass, backing vocals",
+          "Instruments": "Bass",
+          "Albums": [
+            "Ten Thousand Fists",
+            "Indestructible",
+            "Asylum",
+            "Immortalized",
+            "Evolution",
+            "Divisive"
+          ],
+          "Bio": {
+            "BioID": "disturbed-john-moyer",
+            "FullName": "John Robert Moyer",
+            "Birth": {
+              "Date": "1973-11-30",
+              "Place": "El Paso, Texas, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Bassist; member of Disturbed",
+            "Instruments": "Bass",
+            "Biography": "John Robert Moyer became Disturbed’s long-standing bassist during the mid‑2000s, stepping into a role that required both technical authority and the ability to lock tightly with the band’s groove-first writing style. Joining after the group’s early breakthrough years, he brought a muscular, modern low-end approach that reinforced Disturbed’s rhythm section and added additional backing-vocal support onstage.\n\nBefore Disturbed, Moyer built experience in modern hard rock and metal projects, most notably The Union Underground, which gave him a professional foundation in touring, recording, and radio-facing rock formats. That background translated well into Disturbed’s world, where the bass is expected to function as both a weight layer under the guitar and an active rhythmic voice that reinforces the kick patterns.\n\nMoyer’s early tenure aligned with a period when Disturbed’s sound grew more arena-sized and precision-focused. On albums beginning with Ten Thousand Fists-era work, the bass supports Donegan’s riffs with a thick, driving presence, helping the band’s stop-start grooves hit harder and making breakdowns feel heavier without blurring the rhythm.\n\nLive, his impact is especially clear: Disturbed’s set is built on tightly arranged accents and crowd-participation cues, and the bassist’s job is to keep those transitions stable at high volume. Moyer’s consistent tone and timing contribute to the band’s reputation for playing with near-studio tightness in concert.\n\nAcross the post-2005 catalog—including the group’s late‑2000s peak and the 2015 return—Moyer became part of Disturbed’s durable “second era,” helping maintain continuity while the band explored broader dynamics and expanded song structures. His presence also allowed the band to keep the rhythm section powerful during the comeback period, when fans expected the same heavy impact as the early classics.\n\nIn the broader modern-rock landscape, Moyer is recognized as a working bassist with multiple credits and collaborations, but Disturbed remains the central platform for his most visible and influential work—supporting one of the genre’s most enduring arena-level acts.",
+            "HonoursAndMilestones": [
+              "Joined Disturbed in the mid‑2000s, becoming the band’s long-standing bassist in its arena-era peak and beyond.",
+              "Helped maintain the band’s live power and rhythmic weight across the post‑2005 catalog and the 2015 comeback."
+            ],
+            "FunFacts": [
+              "Previously played in The Union Underground before joining Disturbed.",
+              "Maintains an active musician profile outside Disturbed through collaborations and side projects."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "John Moyer",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/John_Moyer"
+              },
+              {
+                "Title": "John Moyer – Bio/Discography",
+                "Publisher": "johnmoyermusic.com",
+                "Url": "https://johnmoyermusic.com/bio-discography-pics"
+              },
+              {
+                "Title": "Disturbed (Official Site)",
+                "Publisher": "disturbed1.com",
+                "Url": "https://disturbed1.com/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Steve “Fuzz” Kmak",
+          "YearsActive": "1994–2003",
+          "Roles": "Bass",
+          "Instruments": "Bass",
+          "Albums": [
+            "The Sickness",
+            "Believe"
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "dokken",
