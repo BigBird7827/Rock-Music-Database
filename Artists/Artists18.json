@@ -38,8 +38,554 @@
     {
       "ArtistID": "talking-heads",
       "Name": "Talking Heads",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": "New York City, New York, United States",
+      "YearsActive": [
+        "1975–1991",
+        "2002"
+      ],
+      "Genres": [
+        "New wave",
+        "Post-punk",
+        "Art rock",
+        "Art pop",
+        "Funk rock",
+        "Avant-funk",
+        "Worldbeat"
+      ],
+      "Labels": [
+        "Sire",
+        "Warner Bros."
+      ],
+      "Overview": "Talking Heads emerged from the Rhode Island School of Design and became one of the defining American bands of the late 1970s and 1980s—restless, brainy, funny, and relentlessly rhythmic. After relocating to New York City in 1975, David Byrne, Chris Frantz, and Tina Weymouth became fixtures of the CBGB-era downtown scene, sharpening a sound that fused art‑punk angles with precision pop hooks. When Jerry Harrison joined, the group’s palette widened quickly: clipped guitar and keyboard patterns, elastic bass, and drum parts that treated groove as the main storyline rather than decoration.\n\nAcross a run of landmark albums, Talking Heads kept expanding what “rock” could absorb without losing momentum. Their partnership with producer Brian Eno helped push them toward layered textures and polyrhythms that drew from funk, electronic experimentation, and global rhythmic ideas, culminating in the radical momentum of *Remain in Light*. By the time they reached *Speaking in Tongues* and the celebrated concert film *Stop Making Sense*, the band had become both a pop force and a performance phenomenon—tight enough to sound engineered, loose enough to feel alive.\n\nThe group stopped recording together in the late 1980s and formally ended in 1991, but their influence only grew. Post‑punk, indie, electronic, and art‑pop scenes repeatedly returned to their template of groove‑first invention, art‑school discipline, and playful intelligence. Honors such as their Rock & Roll Hall of Fame induction, the Recording Academy’s Lifetime Achievement Award, and the National Film Registry selection of *Stop Making Sense* reflect a legacy that is both innovative and enduring—music that thinks hard while moving fast.",
+      "NotableAlbums": [
+        {
+          "Title": "Talking Heads: 77",
+          "Year": 1977,
+          "Notes": "Debut that translated CBGB-era urgency into sharp, minimalist pop; includes the breakthrough staple “Psycho Killer”."
+        },
+        {
+          "Title": "More Songs About Buildings and Food",
+          "Year": 1978,
+          "Notes": "A tighter, more groove-forward follow-up; features their widely known cover of “Take Me to the River” and signals their expanding funk instincts."
+        },
+        {
+          "Title": "Fear of Music",
+          "Year": 1979,
+          "Notes": "Dark, wired, and exploratory—bridging art-punk tension and danceable rhythms; a key step toward their most adventurous period."
+        },
+        {
+          "Title": "Remain in Light",
+          "Year": 1980,
+          "Notes": "Landmark avant-funk statement made with Brian Eno; dense polyrhythms, looping structures, and songs like “Once in a Lifetime” define their reinvention."
+        },
+        {
+          "Title": "Speaking in Tongues",
+          "Year": 1983,
+          "Notes": "A more direct, celebratory set that still feels experimental; anchored by “Burning Down the House” and “This Must Be the Place (Naive Melody)”."
+        },
+        {
+          "Title": "Little Creatures",
+          "Year": 1985,
+          "Notes": "A melodic, song-centric era with bright production and enduring singles like “And She Was” and “Road to Nowhere”."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Psycho Killer",
+          "Year": 1977,
+          "Notes": "Early signature that pairs jittery new-wave tension with an iconic bassline and unforgettable refrain."
+        },
+        {
+          "Title": "Take Me to the River",
+          "Year": 1978,
+          "Notes": "Al Green cover turned into a taut, propulsive Talking Heads staple and a key early single."
+        },
+        {
+          "Title": "Life During Wartime",
+          "Year": 1979,
+          "Notes": "A rapid-fire groove and one-liners that capture the band’s anxious humor and kinetic stage energy."
+        },
+        {
+          "Title": "Once in a Lifetime",
+          "Year": 1980,
+          "Notes": "A defining art-pop anthem built on hypnotic repetition and call-and-response vocals; central to the *Remain in Light* era."
+        },
+        {
+          "Title": "Burning Down the House",
+          "Year": 1983,
+          "Notes": "Their biggest pop hit—an explosive, chant-driven track that brings their experimental instincts into a bold radio-ready form."
+        },
+        {
+          "Title": "This Must Be the Place (Naive Melody)",
+          "Year": 1983,
+          "Notes": "An unexpectedly tender, looping love song with a circular, trance-like arrangement beloved across generations."
+        },
+        {
+          "Title": "And She Was",
+          "Year": 1985,
+          "Notes": "Bright, narrative pop with a buoyant hook; a highlight of their mid-’80s shift toward more melodic songwriting."
+        },
+        {
+          "Title": "Road to Nowhere",
+          "Year": 1985,
+          "Notes": "Gospel-tinged singalong with pointed irony; one of their most recognizable late-period singles."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Year": 2002,
+          "Notes": "Inducted as a band; the classic lineup reunited for the ceremony."
+        },
+        {
+          "Title": "GRAMMY Lifetime Achievement Award",
+          "Year": 2021,
+          "Notes": "Honored by the Recording Academy for outstanding creative contributions of artistic significance."
+        },
+        {
+          "Title": "*Stop Making Sense* selected for the National Film Registry",
+          "Year": 2021,
+          "Notes": "The Library of Congress added the concert film to the Registry for its cultural significance."
+        },
+        {
+          "Title": "Enduring influence on new wave, post-punk, and art-pop",
+          "Year": 1980,
+          "Notes": "Their groove-driven, concept-forward approach became a template for later alternative and experimental pop/rock scenes."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1975 after members met at the Rhode Island School of Design; based in New York City during the CBGB-era downtown scene.",
+        "Classic lineup: David Byrne, Chris Frantz, Tina Weymouth, and Jerry Harrison.",
+        "Collaborations with producer Brian Eno helped shape their late-’70s/early-’80s sound, culminating in *Remain in Light* (1980).",
+        "Concert film *Stop Making Sense* (1984) became one of the most acclaimed live-performance movies in rock history.",
+        "The band ended in 1991 and reunited publicly for their 2002 Rock & Roll Hall of Fame induction."
+      ],
+      "ExternalLinks": {
+        "Rock & Roll Hall of Fame (Talking Heads)": "https://www.rockhall.com/inductees/talking-heads",
+        "GRAMMY.com artist profile": "https://grammy.com/artists/talking-heads/13131",
+        "Official site": "https://talkingheadsofficial.com/",
+        "AllMusic artist page": "https://www.allmusic.com/artist/talking-heads-mn0000109967"
+      },
+      "CoreMembers": [
+        {
+          "Name": "David Byrne",
+          "YearsActive": "1975–1991 (Talking Heads); 1991–present (solo and collaborations)",
+          "Roles": "Lead vocals • Guitar • Primary songwriter • Concept/visual direction",
+          "Instruments": "Vocals • Guitar • Keyboards",
+          "Albums": [
+            "Talking Heads: 77",
+            "More Songs About Buildings and Food",
+            "Fear of Music",
+            "Remain in Light",
+            "Speaking in Tongues",
+            "Little Creatures",
+            "True Stories",
+            "Naked",
+            "My Life in the Bush of Ghosts (with Brian Eno)",
+            "Rei Momo",
+            "American Utopia"
+          ],
+          "Overview": "Talking Heads’ principal songwriter and unmistakable frontman, known for rhythmic vocals, conceptual lyrics, and performance-driven stagecraft.",
+          "Bio": {
+            "BioID": "bio-talking-heads-david-byrne",
+            "ArtistID": "talking-heads",
+            "ArtistName": "Talking Heads",
+            "MemberName": "David Byrne",
+            "FullName": "David Byrne",
+            "Nationality": "Scottish-American",
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician",
+              "Interdisciplinary artist"
+            ],
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Genres": [
+              "New wave",
+              "Post-punk",
+              "Art rock",
+              "Art pop",
+              "Funk rock",
+              "Avant-funk",
+              "Worldbeat",
+              "Experimental",
+              "Pop"
+            ],
+            "Birth": {
+              "Date": "May 14, 1952",
+              "Place": "Dumbarton, Dunbartonshire, Scotland"
+            },
+            "Roles": "Lead vocals • Guitar • Primary songwriter • Concept/visual direction",
+            "Instruments": "Vocals • Guitar • Keyboards",
+            "FullText": "David Byrne co‑founded Talking Heads and became one of modern music’s most distinctive frontmen: a singer and songwriter whose anxious yelp, precise phrasing, and art‑school theatricality turned everyday unease into exhilarating pop. Born in Dumbarton, Scotland, Byrne moved to the United States as a child and later enrolled at the Rhode Island School of Design. At RISD he met drummer Chris Frantz, and their early collaborations—equal parts band, concept, and experiment—set the basic blueprint for Talking Heads: sharp hooks, odd angles, and a willingness to treat performance as part of the composition.\n\nWhen Byrne, Frantz, and (soon after) Tina Weymouth relocated to New York City in 1975, Byrne’s writing locked into the city’s nervous voltage. Early Talking Heads songs were taut and minimal, but they never felt empty because Byrne wrote like an observer with a notebook: modern paranoia, overheard dialogue, private spirals, and the comedy of self‑awareness. His voice worked almost like percussion—staccato, rhythmic, and conversational—cutting through spare arrangements with the urgency of a street‑corner monologue. “Psycho Killer” and “Life During Wartime” show the core of his craft: a clean melodic surface with strange, revealing corners underneath.\n\nByrne’s role evolved as the band’s sound expanded. With producer Brian Eno, Talking Heads moved beyond guitar‑band conventions into densely layered arrangements built from interlocking parts. Byrne leaned into repetition, chanting, and call‑and‑response structures, often treating the voice as another pattern in the groove rather than a traditional “lead” floating above it. “Once in a Lifetime” became the definitive example: a hypnotic sermon of questions and half‑answers, delivered with escalating intensity as the music loops and mutates around him. It’s both dance music and philosophy, as if existential doubt found a drum machine.\n\nOn stage, Byrne translated those ideas into fully staged events. He approached concerts as performances with pacing, character, and visual motifs, culminating in the era‑defining film *Stop Making Sense*. The film captured Byrne’s knack for making minimal gestures feel monumental: a lamp, a step, a sudden stillness, a grin that reads like a question. Those theatrical choices weren’t add‑ons; they were a way of making the music’s inner logic visible. As the band builds from a single player to a full ensemble, Byrne’s presence frames the show like a piece of live architecture—each addition changes the shape of the room.\n\nCrucially, Byrne’s impact is inseparable from the collective around him. Talking Heads worked because Byrne’s idiosyncratic worldview sat on top of a band that could groove with machine‑tight discipline while still sounding human. Byrne’s guitar parts often functioned as clipped rhythmic triggers, leaving space for Weymouth’s bass and Frantz’s drums to drive the momentum, while Jerry Harrison’s keyboards and guitar filled out harmony and motion. That division of labor let Byrne focus on the things he did best: shaping the tone of a song, finding the phrase that makes an anxious thought sing, and turning a live moment into a piece of theater.\n\nAfter Talking Heads ended, Byrne pursued an eclectic solo path—albums, collaborations, film and theater work, and projects that blurred the boundaries between pop songwriting and conceptual art. Even so, his foundation remains what it was in the band: curiosity, rhythm, and a poet’s eye for the uncanny details of daily life. In Talking Heads, Byrne didn’t simply write songs—he built worlds where the strange felt familiar, and where the most private, jittery thoughts could become communal, danceable release.",
+            "HonoursAndMilestones": [
+              "Inducted into the Rock & Roll Hall of Fame (as a member of Talking Heads) — 2002",
+              "Recording Academy Lifetime Achievement Award (Talking Heads) — awarded 2021"
+            ],
+            "FunFacts": [
+              "Byrne’s stage persona in the *Stop Making Sense* era helped redefine what a rock concert could look and feel like on film.",
+              "His post–Talking Heads work spans albums, theater, film, and multimedia projects, reflecting the band’s art‑school roots."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "David Byrne — Biography",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/David-Byrne"
+              },
+              {
+                "Title": "Talking Heads — Members, songs, & facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Talking-Heads-American-rock-group"
+              },
+              {
+                "Title": "Talking Heads — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/talking-heads-mn0000109967"
+              },
+              {
+                "Title": "Talking Heads — Inductee profile",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://www.rockhall.com/inductees/talking-heads"
+              },
+              {
+                "Title": "Recording Academy press release — 2021 Special Merit Awards",
+                "Publisher": "Recording Academy / GRAMMY.com",
+                "Url": "https://www.grammy.com/press-releases/recording-academy-2021-special-merit-awards-lifetime-achievement-award"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Chris Frantz",
+          "YearsActive": "1975–1991 (Talking Heads); 1980–present (Tom Tom Club)",
+          "Roles": "Drums • Percussion • Co-founder",
+          "Instruments": "Drums • Percussion",
+          "Albums": [
+            "Talking Heads: 77",
+            "More Songs About Buildings and Food",
+            "Fear of Music",
+            "Remain in Light",
+            "Speaking in Tongues",
+            "Little Creatures",
+            "True Stories",
+            "Naked",
+            "Tom Tom Club (Tom Tom Club)",
+            "Close to the Bone (Tom Tom Club)"
+          ],
+          "Overview": "Co-founding drummer whose tight, groove-forward playing kept the band’s minimalism urgent and their later polyrhythms precise.",
+          "Bio": {
+            "BioID": "bio-talking-heads-chris-frantz",
+            "ArtistID": "talking-heads",
+            "ArtistName": "Talking Heads",
+            "MemberName": "Chris Frantz",
+            "FullName": "Chris Frantz",
+            "Nationality": "American",
+            "Occupations": [
+              "Drummer",
+              "Musician",
+              "Record producer"
+            ],
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Genres": [
+              "New wave",
+              "Post-punk",
+              "Art rock",
+              "Art pop",
+              "Funk rock",
+              "Avant-funk",
+              "Worldbeat"
+            ],
+            "Birth": {
+              "Date": "May 8, 1951",
+              "Place": "Fort Campbell, Kentucky, United States"
+            },
+            "Roles": "Drums • Percussion • Co-founder",
+            "Instruments": "Drums • Percussion",
+            "FullText": "Chris Frantz was the rhythmic anchor of Talking Heads and one of the key architects behind the band’s earliest decisions: forming the first lineup, committing to New York City, and pushing the group to work like a disciplined unit. Born at Fort Campbell, Kentucky, Frantz later studied at the Rhode Island School of Design, where he met David Byrne. Their early partnership combined an art‑school sensibility with a drummer’s insistence on structure and feel—an understanding that even the strangest idea has to land on time if it’s going to move people.\n\nFrantz’s drumming is central to why Talking Heads never feel merely “quirky.” His playing is crisp and economical, with a tight hi‑hat, clear snare articulation, and a deep pocket that lets guitar and keyboard patterns click into place. In the band’s early years, that precision helped their minimalist songs sound urgent rather than thin; later, it became the grid for more expansive rhythmic experiments. As Talking Heads absorbed funk, disco, and polyrhythmic ideas, Frantz kept the pulse readable—turning complexity into propulsion instead of clutter.\n\nThe band’s groove‑first identity also reflects Frantz’s musical priorities. Talking Heads could be conceptual, but they rarely drifted into abstraction because the rhythm section always insisted on forward motion. On records and on stage, Frantz plays as if the beat is a narrative line: steady enough to support the song’s structure, flexible enough to accept surprising turns. That approach is especially obvious in live performances, where the band’s arrangements can stretch and breathe without losing tension.\n\nBeyond the kit, Frantz influenced the group’s identity as a working unit. He encouraged Tina Weymouth—his partner and later wife—to take up bass, and her melodic, funk‑leaning style became one of the band’s signatures. Together, Frantz and Weymouth formed the stable center inside a group often shaped by strong personalities and shifting creative gravity. When Talking Heads activity opened space for side projects, they launched Tom Tom Club, channeling their shared love of dance music into a project built explicitly around rhythm, bass, and buoyant hooks. That success underscored something Frantz always brought to Talking Heads: the belief that adventurous ideas work best when they can be danced to.\n\nFrantz’s professionalism also helped make the band’s concerts famously precise. Talking Heads were meticulous live, and that craft is part of why *Stop Making Sense* still feels modern: every cue, build, and transition lands with clarity even as the show evolves in front of the audience. Frantz is the kind of drummer who makes complexity disappear by making the fundamentals undeniable—tempo, feel, and placement.\n\nIn later years, Frantz has been an active custodian of the band’s story, speaking and writing about its formation and internal dynamics from his vantage point as a co‑founder. His perspective emphasizes collaboration: the idea that Talking Heads’ breakthroughs came from the friction and fit between distinct voices. If Byrne supplied the band’s most visible character, Frantz supplied the steady pulse and practical drive needed to turn ideas into a durable, influential body of work.",
+            "HonoursAndMilestones": [
+              "Inducted into the Rock & Roll Hall of Fame (as a member of Talking Heads) — 2002"
+            ],
+            "FunFacts": [
+              "Frantz and Tina Weymouth also co-founded Tom Tom Club, a dance-oriented project that reflects the rhythmic core of Talking Heads.",
+              "His role as a co-founder includes early logistical and lineup decisions that shaped the band’s New York trajectory."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Chris Frantz — Biography",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Chris-Frantz"
+              },
+              {
+                "Title": "Talking Heads — Members, songs, & facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Talking-Heads-American-rock-group"
+              },
+              {
+                "Title": "Chris Frantz — Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/chris-frantz-mn0000491166/biography"
+              },
+              {
+                "Title": "Talking Heads — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/talking-heads-mn0000109967"
+              },
+              {
+                "Title": "Talking Heads — Inductee profile",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://www.rockhall.com/inductees/talking-heads"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Tina Weymouth",
+          "YearsActive": "1975–1991 (Talking Heads); 1980–present (Tom Tom Club)",
+          "Roles": "Bass • Backing vocals • Co-founder",
+          "Instruments": "Bass • Vocals • Keyboards",
+          "Albums": [
+            "Talking Heads: 77",
+            "More Songs About Buildings and Food",
+            "Fear of Music",
+            "Remain in Light",
+            "Speaking in Tongues",
+            "Little Creatures",
+            "True Stories",
+            "Naked",
+            "Tom Tom Club (Tom Tom Club)",
+            "Close to the Bone (Tom Tom Club)"
+          ],
+          "Overview": "Melodic, funk-leaning bassist whose lines anchored the band’s grooves and made their art-rock experiments feel physical and danceable.",
+          "Bio": {
+            "BioID": "bio-talking-heads-tina-weymouth",
+            "ArtistID": "talking-heads",
+            "ArtistName": "Talking Heads",
+            "MemberName": "Tina Weymouth",
+            "FullName": "Tina Weymouth",
+            "Nationality": "American",
+            "Occupations": [
+              "Bassist",
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Bass"
+            ],
+            "Genres": [
+              "New wave",
+              "Post-punk",
+              "Art rock",
+              "Art pop",
+              "Funk rock",
+              "Avant-funk",
+              "Worldbeat",
+              "Dance",
+              "Funk"
+            ],
+            "Birth": {
+              "Date": "November 22, 1950",
+              "Place": "Coronado, California, United States"
+            },
+            "Roles": "Bass • Backing vocals • Co-founder",
+            "Instruments": "Bass • Vocals • Keyboards",
+            "FullText": "Tina Weymouth’s bass playing is one of the signatures of Talking Heads: melodic, funky, and locked to the groove with a dancer’s intuition. Born in Coronado, California, Weymouth studied at the Rhode Island School of Design, where she connected with the circle that would become Talking Heads. When the group moved to New York City, she stepped into an essential role—building the low‑end foundation for music that relied on interlocking parts rather than traditional rock riffing.\n\nWeymouth’s approach is deceptively simple: lines that feel spare on paper but perfectly placed in motion. She often treats the bass as both rhythm and melody, threading through the drums while adding hooks of her own. In early songs, her parts give the band bounce and clarity; in later work, especially as Talking Heads embraced funk and polyrhythm, her bass becomes the spine that supports layers of guitar, keyboards, percussion, and voice. She has a gift for forward‑leaning momentum—parts that seem to push the song ahead even when the harmony is static, making repetition feel like movement rather than stasis.\n\nThat sensibility helped Talking Heads broaden their vocabulary without losing identity. As the band absorbed dance music, R&B, and global rhythmic ideas, Weymouth made those influences feel native rather than pasted on. Her playing is a big reason the group could get weirder and still sound inviting—an art‑rock band that never forgot the physical pleasure of a groove. When arrangements become dense and layered, she acts like a guide rail: you can always feel where “one” is, and you can always feel where the song wants to go next.\n\nWeymouth also contributed to the band’s vocal and textural personality, adding backing vocals and occasional keyboard work that complemented Byrne’s distinctive lead. She rarely draws focus away from the song’s center, but her presence changes the emotional temperature: warm, grounded, and subtly playful. That warmth balances the sharper edges of the band’s art‑punk roots and gives later Talking Heads music its celebrated mix of intellect and pleasure.\n\nHer creative identity became even more visible through Tom Tom Club, the side project she formed with Chris Frantz. The project wasn’t simply a “spinoff”; it was a statement of priorities—dancefloor logic, bright rhythm, and a communal feel that connects directly back to what made Talking Heads special. Tom Tom Club’s work also reflects how Weymouth’s musicianship thrives in layered contexts: bass as the organizing principle, with keyboards, percussion, and vocals moving in orbit around it.\n\nWithin Talking Heads, Weymouth’s steadiness was especially crucial during periods of internal tension. The band’s music depends on trust: everyone has to leave space and then fill space at the right moment. Weymouth’s lines are a masterclass in that balance. She can be minimal and still expressive, funky and still precise, repetitive and still alive—qualities that helped the group’s most experimental ideas land as songs rather than exercises.\n\nWeymouth’s story is a reminder of how much Talking Heads depended on balance. Byrne’s voice and conceptual framing could be sharp and strange; Weymouth’s bass offered swing, steadiness, and a kind of musical generosity. The result is music that feels both cerebral and bodily—an unlikely combination that becomes completely natural once her lines start moving.",
+            "HonoursAndMilestones": [
+              "Inducted into the Rock & Roll Hall of Fame (as a member of Talking Heads) — 2002"
+            ],
+            "FunFacts": [
+              "Weymouth’s bass style is frequently cited as a blueprint for groove-first post‑punk and art‑pop bands.",
+              "Her work with Tom Tom Club highlights the dance-music DNA inside Talking Heads’ sound."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Tina Weymouth — Biography",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Tina-Weymouth"
+              },
+              {
+                "Title": "Talking Heads — Members, songs, & facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Talking-Heads-American-rock-group"
+              },
+              {
+                "Title": "Tina Weymouth — Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/tina-weymouth-mn0000610591/biography"
+              },
+              {
+                "Title": "Talking Heads — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/talking-heads-mn0000109967"
+              },
+              {
+                "Title": "Talking Heads — Inductee profile",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://www.rockhall.com/inductees/talking-heads"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jerry Harrison",
+          "YearsActive": "1977–1991 (Talking Heads); 1991–present (solo/production)",
+          "Roles": "Keyboards • Guitar • Backing vocals",
+          "Instruments": "Keyboards • Guitar • Vocals",
+          "Albums": [
+            "Talking Heads: 77",
+            "More Songs About Buildings and Food",
+            "Fear of Music",
+            "Remain in Light",
+            "Speaking in Tongues",
+            "Little Creatures",
+            "True Stories",
+            "Naked",
+            "The Red and the Black",
+            "Casual Gods"
+          ],
+          "Overview": "Keyboardist/guitarist who broadened the band’s harmonic range and later became a respected producer for alternative rock acts.",
+          "Bio": {
+            "BioID": "bio-talking-heads-jerry-harrison",
+            "ArtistID": "talking-heads",
+            "ArtistName": "Talking Heads",
+            "MemberName": "Jerry Harrison",
+            "FullName": "Jerry Harrison",
+            "Nationality": "American",
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Record producer"
+            ],
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Guitar"
+            ],
+            "Genres": [
+              "New wave",
+              "Post-punk",
+              "Art rock",
+              "Art pop",
+              "Funk rock",
+              "Avant-funk",
+              "Worldbeat"
+            ],
+            "Birth": {
+              "Date": "February 21, 1949",
+              "Place": "Milwaukee, Wisconsin, United States"
+            },
+            "Roles": "Keyboards • Guitar • Backing vocals",
+            "Instruments": "Keyboards • Guitar • Vocals",
+            "FullText": "Jerry Harrison joined Talking Heads in 1977 and immediately expanded the band’s range, adding keyboards, guitar, and harmonic depth that helped turn a sharp trio into a more versatile musical system. Born in Milwaukee, Wisconsin, Harrison had already left a mark in the proto‑punk world as a member of the Modern Lovers before being recruited into Talking Heads’ orbit. His arrival didn’t dilute the band’s identity; it gave their minimalist framework more colors to work with.\n\nHarrison’s background mattered. The Modern Lovers had a different kind of intensity—Velvet Underground‑inspired repetition and streetwise urgency—and that experience gave him a feel for trance‑like momentum that would later fit naturally inside Talking Heads’ looping grooves. He also brought a pragmatic musician’s versatility: the ability to move between instruments, build parts that interlock, and keep an arrangement intelligible even when it’s built from many small pieces.\n\nIn Talking Heads, Harrison’s role is often felt in the way songs lock together. He can reinforce Byrne’s clipped guitar patterns with keyboard figures, shift between rhythmic and melodic duties, and add chord movement that changes the emotional temperature of a track without pulling attention away from the groove. As the band moved from spiky new wave toward the layered density of the Brian Eno era, his ability to arrange parts—especially in live settings with additional musicians—helped make complex ideas playable and clear.\n\nOn albums like *Remain in Light* and *Speaking in Tongues*, Harrison’s contributions sit at the intersection of experimentation and accessibility. He supports the band’s rhythmic looping and textural layering while keeping songs readable: hooks still land, harmonies still resolve, and the overall architecture holds. In the live world captured by *Stop Making Sense*, he is part of the engine that makes the show feel so tight despite its theatrical pacing and shifting instrumentation—someone who can be both a rhythmic player and a harmonic architect.\n\nHarrison also helped the band sound bigger without simply getting louder. He adds density through placement: a chord hit that changes the color of a verse, a keyboard line that mirrors a vocal rhythm, a guitar figure that turns the groove into a hook. Those are “arranger” moves, and they became increasingly important as Talking Heads’ music grew more polyrhythmic and ensemble‑based. When additional musicians joined on stage, Harrison’s parts often functioned as the bridge between the core four and the expanded band.\n\nAfter Talking Heads ended, Harrison became an in‑demand producer, bringing an insider’s understanding of groove, space, and arrangement to other artists’ recordings. His production work includes major alternative rock albums such as Live’s *Throwing Copper*, as well as projects with bands like Violent Femmes and others from the broader alternative and roots‑rock world. As a producer, he is known for clarity and energy—helping bands capture a live, forward feel while keeping details sharp and layered, much like the best Talking Heads records do.\n\nHarrison’s legacy inside Talking Heads is subtle but essential. He is connective tissue—bridging guitar band and keyboard textures, punk economy and funk complexity, studio experimentation and stage precision. In a group built on interdependence, he was the member who made expansion possible without losing focus, helping Talking Heads sound broader and more colorful without ever sounding blurred.",
+            "HonoursAndMilestones": [
+              "Inducted into the Rock & Roll Hall of Fame (as a member of Talking Heads) — 2002"
+            ],
+            "FunFacts": [
+              "Before Talking Heads, Harrison played with the influential proto‑punk band the Modern Lovers.",
+              "His post-band production work includes major 1990s alternative rock releases, reflecting the clarity and groove of his arranging style."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Jerry Harrison — Biography",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Jerry-Harrison"
+              },
+              {
+                "Title": "Talking Heads — Members, songs, & facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Talking-Heads-American-rock-group"
+              },
+              {
+                "Title": "Jerry Harrison — Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/jerry-harrison-mn0000422045/biography"
+              },
+              {
+                "Title": "Live — Throwing Copper credits",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/album/throwing-copper-mw0000622224/credits"
+              },
+              {
+                "Title": "Violent Femmes — The Blind Leading the Naked credits",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/album/the-blind-leading-the-naked-mw0000192561/credits"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Adrian Belew",
+          "YearsActive": "1980 (touring)",
+          "Roles": "Touring guitarist • Additional vocals",
+          "Instruments": "Guitar • Vocals",
+          "Albums": [
+            "Remain in Light (touring era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Joined the expanded live lineup during the *Remain in Light* era, helping translate the album’s layered guitar and rhythm textures to the stage."
+        },
+        {
+          "Name": "Bernie Worrell",
+          "YearsActive": "1980–1983 (touring)",
+          "Roles": "Touring keyboardist",
+          "Instruments": "Keyboards",
+          "Albums": [
+            "Remain in Light (touring era)",
+            "Stop Making Sense (performance era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Added deep funk pedigree and synth color to the band’s expanded tours, strengthening the groove-heavy live approach of the early ’80s."
+        },
+        {
+          "Name": "Steve Scales",
+          "YearsActive": "1980–1988 (touring)",
+          "Roles": "Touring percussionist",
+          "Instruments": "Percussion",
+          "Albums": [
+            "Stop Making Sense (performance era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "A key member of the expanded touring band, supplying the extra percussion layers that made Talking Heads’ polyrhythms feel massive and danceable live."
+        },
+        {
+          "Name": "Ednah Holt",
+          "YearsActive": "1983–1984 (touring)",
+          "Roles": "Backing vocals (touring)",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Stop Making Sense (performance era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Part of the touring vocal ensemble during the *Speaking in Tongues/Stop Making Sense* period, adding gospel-informed power and texture to the live sound."
+        },
+        {
+          "Name": "Lynn Mabry",
+          "YearsActive": "1983–1984 (touring)",
+          "Roles": "Backing vocals (touring)",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Stop Making Sense (performance era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Touring backing vocalist who helped give the early‑’80s concerts a fuller, communal feel, complementing Byrne’s distinctive lead with rich harmony layers."
+        }
+      ]
     },
     {
       "ArtistID": "tavares",
