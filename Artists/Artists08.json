@@ -521,27 +521,358 @@
     {
       "ArtistID": "green-day",
       "Name": "Green Day",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Rodeo",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1987–present"
+      ],
+      "Genres": [
+        "Punk rock",
+        "Pop-punk",
+        "Alternative rock"
+      ],
+      "Labels": [
+        "Lookout!",
+        "Reprise",
+        "Warner"
+      ],
+      "Overview": "Green Day are a Bay Area punk band that grew from scrappy DIY club shows into one of the most recognizable rock acts of the last four decades. Formed in 1987 by Billie Joe Armstrong and Mike Dirnt, the group broke out internationally when their major-label debut *Dookie* exploded in 1994, turning sharp, hook-heavy punk songs into radio staples without sanding off the attitude.\n\nRather than repeat the same formula, the band kept swerving—tightening their sound on *Insomniac*, stretching into melody-forward rock on *Nimrod* and *Warning*, and then reinventing themselves with the story-driven rock opera *American Idiot* in 2004. That era produced massive singles, sold-out tours, and a wave of cultural conversation, and it proved Green Day could operate at stadium scale while still writing songs that sound personal and pointed.\n\nWith Tré Cool on drums since 1990, Green Day’s identity has stayed centered on the chemistry of their core trio: Armstrong’s songwriting and frontman snap, Dirnt’s melodic bass lines and backing vocals, and Cool’s explosive, playful drumming. They’ve been inducted into the Rock & Roll Hall of Fame and continue to release new music and tour, balancing punk speed, pop choruses, and big-idea albums that feel made for a crowd.",
+      "NotableAlbums": [
+        {
+          "Title": "Dookie",
+          "Year": 1994,
+          "Notes": "Breakthrough major-label album; a defining 1990s pop‑punk release."
+        },
+        {
+          "Title": "Insomniac",
+          "Year": 1995,
+          "Notes": "Faster, darker follow‑up that doubled down on intensity."
+        },
+        {
+          "Title": "Nimrod",
+          "Year": 1997,
+          "Notes": "Expanded palette; includes the acoustic classic “Good Riddance (Time of Your Life)”."
+        },
+        {
+          "Title": "Warning",
+          "Year": 2000,
+          "Notes": "Melody-first shift with sharper social commentary."
+        },
+        {
+          "Title": "American Idiot",
+          "Year": 2004,
+          "Notes": "Rock opera comeback and global blockbuster."
+        },
+        {
+          "Title": "21st Century Breakdown",
+          "Year": 2009,
+          "Notes": "Ambitious follow‑up with cinematic scope."
+        },
+        {
+          "Title": "Revolution Radio",
+          "Year": 2016,
+          "Notes": "Return to tight, urgent songs with modern themes."
+        },
+        {
+          "Title": "Saviors",
+          "Year": 2024,
+          "Notes": "Late‑career surge with arena-sized hooks and punk bite."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Basket Case",
+          "Year": 1994,
+          "Notes": "A frenetic anthem that helped define their breakout era."
+        },
+        {
+          "Title": "When I Come Around",
+          "Year": 1994,
+          "Notes": "One of the band’s most enduring radio staples."
+        },
+        {
+          "Title": "Good Riddance (Time of Your Life)",
+          "Year": 1997,
+          "Notes": "Acoustic classic often used for graduations and farewells."
+        },
+        {
+          "Title": "American Idiot",
+          "Year": 2004,
+          "Notes": "Opening salvo of the rock‑opera era; a live-set detonator."
+        },
+        {
+          "Title": "Boulevard of Broken Dreams",
+          "Year": 2004,
+          "Notes": "Massive crossover hit from *American Idiot*."
+        },
+        {
+          "Title": "Holiday",
+          "Year": 2004,
+          "Notes": "Driven, chant-ready single with sharp political edge."
+        },
+        {
+          "Title": "Wake Me Up When September Ends",
+          "Year": 2004,
+          "Notes": "Emotion-forward ballad that became a modern standard."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Year": "2015",
+          "Details": "Inducted as one of the era’s defining punk-to-mainstream crossover bands."
+        },
+        {
+          "Title": "Grammy Award – Best Alternative Music Album (*Dookie*)",
+          "Year": "1995",
+          "Details": "The album’s breakout impact was recognized at the Grammys."
+        },
+        {
+          "Title": "Grammy Award – Best Rock Album (*American Idiot*)",
+          "Year": "2005",
+          "Details": "A major late-era peak for the band, critically and commercially."
+        },
+        {
+          "Title": "Grammy Award – Record of the Year (“Boulevard of Broken Dreams”)",
+          "Year": "2006",
+          "Details": "One of the biggest mainstream rock singles of the 2000s."
+        },
+        {
+          "Title": "Hollywood Walk of Fame star",
+          "Year": "2025",
+          "Details": "Honored with a star celebrating decades of impact and popularity."
+        }
+      ],
+      "KeyFacts": [
+        "Started as teenage friends in the East Bay, building momentum through the Lookout! Records scene before breaking worldwide.",
+        "Tré Cool joined in 1990, cementing the classic trio lineup.",
+        "*American Idiot* was later adapted into a Broadway musical, extending the album’s cultural reach."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://greenday.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Green_Day",
+        "Discography": "https://en.wikipedia.org/wiki/Green_Day_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Billie Joe Armstrong",
+          "YearsActive": "1987–present",
+          "Roles": "Lead vocals, guitar, primary songwriter",
+          "Instruments": "Vocals, guitar",
+          "Albums": [
+            "Dookie",
+            "Nimrod",
+            "American Idiot",
+            "21st Century Breakdown",
+            "Saviors"
+          ],
+          "Overview": "Billie Joe Armstrong is Green Day’s frontman and main songwriter, known for turning punk energy into big, singable choruses and concept-album storytelling.",
+          "Bio": {
+            "BioID": "green-day-billie-joe-armstrong",
+            "ArtistID": "green-day",
+            "ArtistName": "Green Day",
+            "MemberName": "Billie Joe Armstrong",
+            "FullName": "Billie Joe Armstrong",
+            "Birth": {
+              "Date": "1972-02-17",
+              "Place": "Oakland, California, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Genres": [
+              "Punk rock",
+              "Pop-punk",
+              "Alternative rock"
+            ],
+            "Roles": "Singer, songwriter, guitarist",
+            "Instruments": "Vocals, guitar",
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Producer"
+            ],
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Biography": "Billie Joe Armstrong grew up in the East Bay with music baked into daily life, and he started writing songs young—part instinct, part survival skill. By the time he was a teenager, he’d already learned the basic truth of punk: you don’t wait for permission. You find a room, a few friends, and you play.\n\nHe and Mike Dirnt bonded early and stayed locked in on the same goal—build a band that hits hard but still carries melody and emotion. Their early shows were scrappy, fast, and hungry, the kind where the crowd is close enough to shout in your face and the band has to win them in real time.\n\nAs Green Day developed, Armstrong’s writing became the engine. He had a knack for taking anxious thoughts, messy relationships, and big cultural noise and turning them into lines that felt simple but landed deep. That skill is all over the band’s early catalog: nervous humor, blunt honesty, and hooks you can’t shake.\n\nWhen *Dookie* broke in 1994, Armstrong became the public face of a scene that suddenly went global. The success wasn’t just about speed or attitude—it was the combination of punk pace with pop-level songwriting. He leaned into that tension, even when it meant taking heat for signing to a major label.\n\nRather than coast, Armstrong pushed the band to keep moving. You can hear him testing new shapes from album to album—harder edges, then wider melody, then acoustic moments that hit like emotional flashbangs. He’s never been afraid to put a softer song next to a louder one if it serves the story.\n\nThe peak example is *American Idiot*, where Armstrong helped steer Green Day into a rock opera that still sounded like the band. He wrote with characters, themes, and a full arc in mind, but he kept the choruses immediate and the pacing tight enough for arenas.\n\nAs a guitarist, Armstrong’s style is about clarity and drive—tight rhythm, punchy chords, and the kind of tone that makes a simple riff feel huge. Live, he’s known for controlling a crowd like a conductor, pulling people in and then letting the chorus do the heavy lifting.\n\nOutside the band, he’s explored side projects and collaborations, but the through-line stays the same: songs that sound like they were written to be shouted back. Decades in, Armstrong’s role is still the band’s spark—sharp writing, restless instincts, and a frontman’s sense for when a moment needs to explode.\n\nWhat keeps his story compelling is that he never treats success as a finish line. Even after the biggest albums, he circles back to the core idea: write something honest, play it loud, and make it connect.",
+            "FunFacts": [
+              "Armstrong began performing as a child and was recording early, long before Green Day’s breakout years.",
+              "He’s known for inviting fans onstage to play guitar during concerts, turning big shows into shared moments."
+            ],
+            "HonoursAndMilestones": [
+              "Frontman of a Rock & Roll Hall of Fame–inducted band (2015).",
+              "Key songwriter behind the multi-era hits spanning *Dookie* through *American Idiot* and beyond."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Britannica – Green Day overview and member notes",
+                "Url": "https://www.britannica.com/topic/Green-Day"
+              },
+              {
+                "Title": "Wikipedia – Green Day",
+                "Url": "https://en.wikipedia.org/wiki/Green_Day"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike Dirnt",
+          "YearsActive": "1987–present",
+          "Roles": "Bass, backing vocals",
+          "Instruments": "Bass guitar, vocals",
+          "Albums": [
+            "Dookie",
+            "Nimrod",
+            "American Idiot",
+            "21st Century Breakdown",
+            "Saviors"
+          ],
+          "Overview": "Mike Dirnt’s melodic bass lines and backing vocals are central to Green Day’s sound, often acting like a second lead instrument under the riffs.",
+          "Bio": {
+            "BioID": "green-day-mike-dirnt",
+            "ArtistID": "green-day",
+            "ArtistName": "Green Day",
+            "MemberName": "Mike Dirnt",
+            "FullName": "Michael Ryan Pritchard (Mike Dirnt)",
+            "Birth": {
+              "Date": "1972-05-04",
+              "Place": "Berkeley, California, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Genres": [
+              "Punk rock",
+              "Pop-punk",
+              "Alternative rock"
+            ],
+            "Roles": "Bassist, singer, songwriter",
+            "Instruments": "Bass guitar, vocals",
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Biography": "Mike Dirnt is the kind of bassist who refuses to stay in the background. In Green Day, the bass isn’t just support—it’s melody, motion, and attitude, often pushing the song as hard as the guitar does.\n\nGrowing up in the East Bay, Dirnt and Billie Joe Armstrong connected early and stayed inseparable through the years when they were figuring out who they were and what music could be. They weren’t chasing polish; they were chasing a feeling—loud, fast, and real.\n\nIn the band’s earliest days, Dirnt shifted roles as needed, settling into bass as Green Day’s identity sharpened. That adaptability became one of his strengths: he plays like someone who understands the whole arrangement, not just his lane.\n\nWhen *Dookie* hit, Dirnt’s bass lines became instantly recognizable—bright, driving, and musical enough that you can hum them. Songs like “Longview” practically teach you what a hooky punk bass line sounds like, and they helped set the band apart from copycats.\n\nHis backing vocals also matter more than most people realize. On choruses, his harmonies thicken the sound and make the shout-along parts feel wider. Live, he brings a mix of precision and chaos—tight playing, big movement, and the kind of energy that keeps the stage alive.\n\nAcross the band’s stylistic shifts, Dirnt remained the anchor. Whether the songs were short and fast or part of a bigger concept, he kept the low end active and expressive. That’s a big reason Green Day’s music still feels like Green Day even when the surface changes.\n\nDirnt’s relationship with Armstrong is also part of the band’s DNA. Their songwriting chemistry is built on trust and shared instincts: when one pushes, the other catches. That connection has carried the group through reinventions, backlash cycles, and massive successes.\n\nAs a player, he’s not flashy for the sake of it—he’s musical. He chooses lines that add momentum, outline the harmony, and lock with the drums in a way that makes the whole band feel faster. It’s a style that rewards repeat listens because there’s always movement under the surface.\n\nDecades on, Dirnt’s story is a reminder that bass can be front-and-center without ever becoming a distraction. He’s the pulse of Green Day: melodic, aggressive, and built for songs that want to be shouted in unison.",
+            "FunFacts": [
+              "Dirnt’s bass work is widely cited as a blueprint for melodic pop‑punk playing.",
+              "He often uses backing vocals to make choruses feel bigger and more communal live."
+            ],
+            "HonoursAndMilestones": [
+              "Member of a Rock & Roll Hall of Fame–inducted band (2015).",
+              "Key architect of Green Day’s signature bass-forward sound."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Britannica – Green Day overview and member notes",
+                "Url": "https://www.britannica.com/topic/Green-Day"
+              },
+              {
+                "Title": "Wikipedia – Green Day",
+                "Url": "https://en.wikipedia.org/wiki/Green_Day"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Tré Cool",
+          "YearsActive": "1990–present",
+          "Roles": "Drums, percussion",
+          "Instruments": "Drums, percussion",
+          "Albums": [
+            "Dookie",
+            "Nimrod",
+            "American Idiot",
+            "21st Century Breakdown",
+            "Saviors"
+          ],
+          "Overview": "Tré Cool brought explosive speed and playful showmanship to Green Day’s rhythm section, locking the trio into the lineup that carried them worldwide.",
+          "Bio": {
+            "BioID": "green-day-tre-cool",
+            "ArtistID": "green-day",
+            "ArtistName": "Green Day",
+            "MemberName": "Tré Cool",
+            "FullName": "Frank Edwin Wright III (Tré Cool)",
+            "Birth": {
+              "Date": "1972-12-09",
+              "Place": "Frankfurt, West Germany"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Genres": [
+              "Punk rock",
+              "Pop-punk",
+              "Alternative rock"
+            ],
+            "Roles": "Drummer, songwriter",
+            "Instruments": "Drums, percussion",
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Biography": "Tré Cool is the jolt of electricity in Green Day’s engine room. His drumming is fast and forceful when it needs to be, but it’s also playful—full of fills, accents, and little personality sparks that make the songs feel alive.\n\nHe joined the band in 1990, stepping into a lineup that was already building momentum in the Bay Area scene. The fit was immediate: Cool’s style matched the band’s speed, but he also added a showman’s sense of timing—both musically and onstage.\n\nA great Green Day drum part isn’t just about keeping time. Cool pushes the dynamics, shaping where the song feels like it’s sprinting and where it should open up. That’s a big reason the band’s tracks stay exciting even when the chords are simple.\n\nOn *Dookie*, his playing helped turn punk velocity into something that could dominate radio. He hits hard, but he’s also clean enough that every change lands, which is essential when you’re playing songs that move as quickly as Green Day’s do.\n\nAs the band grew, Cool adapted to bigger ideas. Rock-opera albums like *American Idiot* and *21st Century Breakdown* demand pacing across longer arcs, and he delivered that without losing punch. He can go from a tight groove to a full sprint in a heartbeat and make it feel natural.\n\nLive, he’s a character as much as a musician—known for humor, exaggerated expressions, and the kind of presence that makes a stadium feel like a club. That showmanship isn’t separate from the music; it’s part of how Green Day turns concerts into events.\n\nCool also functions as the band’s rhythmic glue with Mike Dirnt. Together they create a foundation that stays springy and melodic rather than stiff, which lets Armstrong’s guitar parts hit harder. When the rhythm section is this active, the whole band sounds bigger.\n\nOver time, his drumming became a signature on its own. Fans can often identify a Green Day track just from the feel of the drums—snappy, aggressive, and slightly mischievous. That personality is a rare ingredient in rock: technique with a grin.\n\nTré Cool’s story is proof that a drummer can be both the backbone and the fireworks. He didn’t just join Green Day—he helped define what Green Day sounds and feels like, from club stages to the largest arenas.",
+            "FunFacts": [
+              "Cool joined Green Day in 1990, completing the classic trio lineup.",
+              "He’s known for combining precision with a comedic, high-energy stage persona."
+            ],
+            "HonoursAndMilestones": [
+              "Member of a Rock & Roll Hall of Fame–inducted band (2015).",
+              "Core drummer across the band’s biggest eras from *Dookie* through *American Idiot* and beyond."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Wikipedia – Green Day",
+                "Url": "https://en.wikipedia.org/wiki/Green_Day"
+              },
+              {
+                "Title": "Rock Hall – Green Day",
+                "Url": "https://rockhall.com/inductees/green-day/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John Kiffmeyer (Al Sobrante)",
+          "YearsActive": "1988–1990",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "39/Smooth",
+            "Kerplunk"
+          ],
+          "Overview": "John Kiffmeyer, known as Al Sobrante, was Green Day’s drummer during the early Lookout! years before leaving in 1990."
+        },
+        {
+          "Name": "Sean Hughes",
+          "YearsActive": "1987–1988",
+          "Roles": "Bass (early lineup)",
+          "Instruments": "Bass guitar",
+          "Albums": [],
+          "Overview": "Sean Hughes played bass in the band’s earliest phase before Mike Dirnt moved fully into the bass role."
+        },
+        {
+          "Name": "Raj Punjabi",
+          "YearsActive": "1987",
+          "Roles": "Drums (early lineup)",
+          "Instruments": "Drums",
+          "Albums": [],
+          "Overview": "Raj Punjabi was part of Green Day’s earliest garage-era lineup before the band solidified its classic trio."
+        }
+      ]
     },
     {
       "ArtistID": "the-greg-kihn-band",
