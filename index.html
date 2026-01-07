@@ -564,7 +564,8 @@ display:none;
       }
     });
 
-    const RAW_ARTISTS_URL = "https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists.json";
+    const RAW_ARTISTS_BASE = "https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists/Artists";
+    const RAW_ARTISTS_URLS = Array.from({ length: 20 }, (_, i) => `${RAW_ARTISTS_BASE}${String(i + 1).padStart(2, "0")}.json`);
 
     const state = { artists: [], filtered: [], selectedId: null };
 
@@ -1183,11 +1184,14 @@ const itemHTML = (a) => {
     };
 
     const loadArtists = async () => {
-      const url = withCacheBust(RAW_ARTISTS_URL);
-      const res = await fetch(url, { cache: "no-store" });
-      if (!res.ok) throw new Error(`Failed to load Artists.json (${res.status})`);
-      const data = await res.json();
-      return Array.isArray(data) ? data : (Array.isArray(data.Artists) ? data.Artists : []);
+      const urls = RAW_ARTISTS_URLS.map(u => withCacheBust(u));
+      const chunks = await Promise.all(urls.map(async (u) => {
+        const res = await fetch(u, { cache: "no-store" });
+        if (!res.ok) throw new Error(`Failed to load ${u} (${res.status})`);
+        const data = await res.json();
+        return Array.isArray(data) ? data : (Array.isArray(data.Artists) ? data.Artists : []);
+      }));
+      return chunks.flat();
     };
 
     
@@ -1211,7 +1215,7 @@ const init = async () => {
         setCount();
         renderList();
 } catch (e) {
-        el.count.textContent = "Failed to load Artists.json";
+        el.count.textContent = "Failed to load artist data";
         el.list.innerHTML = `<div class="empty" style="margin:10px"><h2>Error</h2><p>${escapeHtml(e && (e.message || e))}</p></div>`;
       }
 
