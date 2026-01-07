@@ -1068,26 +1068,421 @@
     {
       "ArtistID": "radiohead",
       "Name": "Radiohead",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Abingdon",
+        "Region": "Oxfordshire",
+        "Country": "England"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1985–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Art rock",
+        "Experimental rock",
+        "Electronica"
+      ],
+      "Overview": "Radiohead are an English rock band formed in Abingdon, Oxfordshire, best known for pairing emotionally direct songwriting with restless experimentation. Across nine studio albums, they evolved from guitar-driven alternative rock into a group comfortable with electronic production, dense studio sound design, and arrangements that pull from ambient, modern classical, jazz textures, and club-informed rhythms—often within the same record.\n\nThe band’s reputation is built on two parallel strengths: distinctive songs that can stand on voice-and-guitar simplicity, and a meticulous, exploratory approach to recording and performance. Their breakthrough single “Creep” introduced them to a worldwide audience, but it was the run from The Bends through OK Computer and Kid A that established them as a defining act of the album era, with both critical acclaim and long-term cultural influence.\n\nRadiohead have also been widely discussed for how they navigate the music industry. From their long partnership with producer Nigel Godrich to their decision to release In Rainbows through a pay-what-you-want download (followed by a traditional release), they’ve repeatedly tested how music can be made, presented, and toured without losing artistic control. As of the mid‑2020s, the members remain active through Radiohead as well as side projects such as The Smile, film scoring, and solo releases.",
+      "KeyFacts": [
+        "Formed at Abingdon School in 1985 under the name On a Friday; renamed Radiohead in 1991.",
+        "Core lineup: Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Philip Selway.",
+        "Producer Nigel Godrich has worked closely with the band since the mid‑1990s.",
+        "OK Computer (1997) and Kid A (2000) are frequently cited among the most influential albums of their era.",
+        "Inducted into the Rock & Roll Hall of Fame in 2019.",
+        "Returned to large‑scale live performances with a European run in late 2025 after several years without a full tour."
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "Pablo Honey",
+          "Year": 1993,
+          "Notes": "Debut album featuring the breakout single “Creep”."
+        },
+        {
+          "Title": "The Bends",
+          "Year": 1995,
+          "Notes": "Expanded their sound and songwriting, setting the stage for their late‑1990s peak."
+        },
+        {
+          "Title": "OK Computer",
+          "Year": 1997,
+          "Notes": "Landmark album blending rock ambition with a futuristic, anxious mood; widely acclaimed."
+        },
+        {
+          "Title": "Kid A",
+          "Year": 2000,
+          "Notes": "A major stylistic shift incorporating electronic production and abstract structures."
+        },
+        {
+          "Title": "Amnesiac",
+          "Year": 2001,
+          "Notes": "Companion-like release to Kid A with jazzier and more fragmented textures."
+        },
+        {
+          "Title": "Hail to the Thief",
+          "Year": 2003,
+          "Notes": "A tense, wide‑ranging record combining rock energy with experimental approaches."
+        },
+        {
+          "Title": "In Rainbows",
+          "Year": 2007,
+          "Notes": "Noted for its warm, human groove and innovative initial release strategy."
+        },
+        {
+          "Title": "The King of Limbs",
+          "Year": 2011,
+          "Notes": "Loop-driven, rhythm-forward album exploring repetition and layered percussion."
+        },
+        {
+          "Title": "A Moon Shaped Pool",
+          "Year": 2016,
+          "Notes": "Lush, orchestral-leaning album with prominent string arrangements and reflective tone."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Creep",
+          "Year": 1992,
+          "Notes": "Their early worldwide breakthrough; remains a defining entry point."
+        },
+        {
+          "Title": "Fake Plastic Trees",
+          "Year": 1995,
+          "Notes": "A key song from The Bends era, known for its emotional build."
+        },
+        {
+          "Title": "Street Spirit (Fade Out)",
+          "Year": 1996,
+          "Notes": "A late‑Bends highlight with a hypnotic, driving feel."
+        },
+        {
+          "Title": "Paranoid Android",
+          "Year": 1997,
+          "Notes": "Multi‑section epic that showcases the band’s ambition and dynamic range."
+        },
+        {
+          "Title": "Karma Police",
+          "Year": 1997,
+          "Notes": "One of their most enduring singles from OK Computer."
+        },
+        {
+          "Title": "No Surprises",
+          "Year": 1998,
+          "Notes": "A deceptively gentle song with a dark, resigned undercurrent."
+        },
+        {
+          "Title": "Everything in Its Right Place",
+          "Year": 2000,
+          "Notes": "Kid A opener that signaled a bold new direction."
+        },
+        {
+          "Title": "Idioteque",
+          "Year": 2000,
+          "Notes": "A live favorite built around urgent rhythm and electronic foundation."
+        },
+        {
+          "Title": "There There",
+          "Year": 2003,
+          "Notes": "Percussive, propulsive single often highlighted in live sets."
+        },
+        {
+          "Title": "Reckoner",
+          "Year": 2007,
+          "Notes": "A centerpiece of In Rainbows with intricate groove and layered vocals."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Year": 2019,
+          "Details": "Inducted as Radiohead, recognizing their lasting influence and body of work."
+        },
+        {
+          "Title": "Grammy Awards recognition",
+          "Year": "1999–2019",
+          "Details": "Multiple wins and many nominations across categories including alternative and recording/packaging awards."
+        },
+        {
+          "Title": "Critical acclaim for OK Computer and Kid A",
+          "Year": "1997–2000",
+          "Details": "Both albums became touchstones in best-of lists and are frequently cited as era-defining releases."
+        },
+        {
+          "Title": "In Rainbows release strategy impact",
+          "Year": 2007,
+          "Details": "The initial pay-what-you-want download became a landmark moment in modern music distribution."
+        }
+      ],
+      "Labels": [
+        "EMI",
+        "Parlophone",
+        "Capitol",
+        "XL",
+        "TBD",
+        "Hostess",
+        "Ticker Tape Ltd."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Website": "https://www.radiohead.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Radiohead",
+        "YouTube": "https://www.youtube.com/@Radiohead",
+        "Spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       },
-      "CoreMembers": [],
+      "CoreMembers": [
+        {
+          "Name": "Thom Yorke",
+          "YearsActive": "1985–present",
+          "Roles": "Lead vocals, songwriter, guitar, piano, keyboards, programming",
+          "Instruments": "Vocals, guitar, piano, keyboards, electronics",
+          "Albums": [
+            {
+              "Title": "The Eraser",
+              "Year": 2006,
+              "Notes": "Solo debut exploring electronic rhythms and voice-forward minimalism."
+            },
+            {
+              "Title": "Tomorrow's Modern Boxes",
+              "Year": 2014,
+              "Notes": "Sparse, textured electronic songwriting."
+            },
+            {
+              "Title": "ANIMA",
+              "Year": 2019,
+              "Notes": "Rhythm-driven solo record with cinematic production."
+            }
+          ],
+          "Bio": {
+            "BioID": "radiohead-thom-yorke",
+            "FullName": "Thomas Edward Yorke",
+            "Birth": {
+              "Date": "1968-10-07",
+              "Place": "Wellingborough, Northamptonshire, England"
+            },
+            "Nationality": "English",
+            "Roles": "Singer, songwriter, musician",
+            "Instruments": "Vocals, guitar, piano, keyboards, electronics",
+            "Biography": "Thom Yorke is Radiohead’s lead singer and primary songwriter, recognized for a distinctive, expressive voice and a writing style that balances intimate emotion with a wider sense of social unease. From the band’s earliest work, his melodic instincts and lyrical focus gave Radiohead a strong identity even as their sound changed dramatically over time.\n\nRaised in England and drawn to music early, Yorke developed as a performer in the same school environment where Radiohead began. Those early years shaped the group’s dynamic: a close-knit unit that could shift roles in rehearsal, but often turned to Yorke’s songs as the starting point for arrangement and experimentation.\n\nIn the 1990s, Yorke helped steer Radiohead from the raw exposure of “Creep” into the more nuanced writing of The Bends. As the band’s audience grew, his lyrics became less linear and more impressionistic, often using fragments, images, and repeated phrases to suggest mood rather than narrate a straightforward story.\n\nThe OK Computer era amplified Yorke’s presence as a frontman while simultaneously questioning the role. The album’s anxious themes, heightened sonics, and ambitious structures made Radiohead an arena-level band, but the experience also pushed Yorke toward new methods—particularly the idea that texture and rhythm could lead composition as much as chords and hooks.\n\nThat shift became central to Kid A, where Yorke’s vocal approach often sat inside the mix rather than on top of it. He embraced electronic tools—sampling, processing, and loop-based writing—not as a novelty, but as a way to find new emotional angles, new kinds of tension, and new ways to shape a performance.\n\nAcross the 2000s and 2010s, Yorke kept that restless approach while returning to songs with a clearer melodic center. Records like In Rainbows and A Moon Shaped Pool show a writer comfortable with vulnerability and restraint, letting space, rhythm, and arrangement do as much work as words.\n\nYorke’s creative identity also extends beyond Radiohead through collaborations and side projects. He has worked with fellow members in settings that allow different pacing and priorities, whether through smaller ensembles, guest appearances, or music made for specific contexts and performance constraints.\n\nAs a solo artist, Yorke frequently leans into electronic production and dance-informed rhythms, using his voice as both lead instrument and textural element. His solo releases often feel like experiments in motion—songs that pulse, stutter, and evolve rather than simply progress from verse to chorus.\n\nLive, Yorke is known for a physical, kinetic presence that contrasts with the precision of Radiohead’s arrangements. He treats the stage as an extension of composition, shaping dynamics through phrasing, timing, and the way he inhabits a song’s rhythm in real time.\n\nYorke’s writing is also closely linked to his taste: a wide range of influences spanning post‑punk, electronic music, modern composition, and contemporary production. That curiosity helps explain how Radiohead can move between guitar rock and electronic abstraction without losing coherence.\n\nOver decades, Yorke’s relationship with fame has remained complicated—visible in both his lyrics and the band’s strategic choices about release formats and publicity. Rather than chasing constant visibility, he often seems most engaged when a project can redefine its own terms and expectations.\n\nAt the center of it all is a rare ability to make experimentation feel personal. Whether in a sparse piano ballad or a densely programmed track, Yorke tends to sound like he is speaking directly to the listener—an intimacy that has helped Radiohead maintain relevance across generations.",
+            "HonoursAndMilestones": [
+              "Co-founded Radiohead (formed 1985) and helped guide the band through multiple reinventions across nine studio albums.",
+              "Fronted the band through globally influential releases including OK Computer (1997) and Kid A (2000).",
+              "Expanded into solo work and collaborative projects alongside ongoing Radiohead activity."
+            ],
+            "FunFacts": [
+              "Radiohead’s earliest name was On a Friday, referring to the group’s usual rehearsal day at school.",
+              "Yorke’s vocal approach is often treated as a compositional element, layered and processed as part of the arrangement rather than always sitting above it."
+            ],
+            "Quotes": [
+              {
+                "Quote": "“I like the fact that it wasn’t the same.”",
+                "Context": "Yorke on embracing a defining personal difference, quoted in biography coverage."
+              }
+            ],
+            "Sources": [
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Thom_Yorke"
+              },
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Radiohead"
+              },
+              {
+                "Title": "Reference",
+                "Url": "https://www.radiohead.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jonny Greenwood",
+          "YearsActive": "1985–present",
+          "Roles": "Guitar, keyboards, orchestral arrangements, multi-instrumentalist",
+          "Instruments": "Guitar, keyboards, ondes Martenot, strings/arranging",
+          "Albums": [
+            {
+              "Title": "There Will Be Blood (soundtrack)",
+              "Year": 2007,
+              "Notes": "Film score work widely credited with broadening his public profile beyond the band."
+            },
+            {
+              "Title": "Phantom Thread (soundtrack)",
+              "Year": 2017,
+              "Notes": "Acclaimed score showcasing his orchestral voice and modern-classical sensibility."
+            }
+          ],
+          "Bio": {
+            "BioID": "radiohead-jonny-greenwood",
+            "FullName": "Jonathan Richard Guy Greenwood",
+            "Birth": {
+              "Date": "1971-11-05",
+              "Place": "Oxford, England"
+            },
+            "Nationality": "English",
+            "Roles": "Musician, composer, arranger",
+            "Instruments": "Guitar, keyboards, ondes Martenot, various instruments",
+            "Biography": "Jonny Greenwood is Radiohead’s most visibly adventurous instrumentalist, known for moving between guitar work, keyboards, unusual electronics, and orchestral arrangement with ease. Within the band, he often functions as both colorist and architect—introducing timbres, voicings, and rhythmic ideas that reshape songs from the inside.\n\nAs the youngest member of the core lineup, Greenwood joined the group’s early incarnation while still at school, bringing both technical fluency and a willingness to treat rock instrumentation as flexible rather than fixed. That flexibility became a defining feature of Radiohead’s sound as they pushed past the boundaries of 1990s alternative rock.\n\nGreenwood’s guitar approach ranges from melodic, chiming lines to abrasive textures and controlled noise. He is equally comfortable with delicate counter‑melodies and jagged, percussive attacks, which helps the band pivot quickly between intimacy and intensity in a single arrangement.\n\nHis keyboard work is similarly wide: from simple harmonic support to programmed sequences and processed layers that blur the line between instrument and production. Over time, Greenwood became central to the band’s integration of electronic language into live performance, translating studio experimentation into playable forms.\n\nOne of Greenwood’s signature contributions is his use of non-traditional instruments and techniques. His adoption of the ondes Martenot, for instance, added a haunting, vocal-like tone that can feel both retro-futuristic and emotionally direct, fitting Radiohead’s blend of human warmth and technological unease.\n\nGreenwood also helped drive the band’s interest in rhythm as a compositional engine, particularly as Radiohead explored looping, polyrhythms, and electronically informed grooves. His parts often behave like interlocking mechanisms—small patterns that combine into something larger and more dynamic than the sum of the pieces.\n\nBeyond Radiohead, Greenwood has built a substantial parallel career as a composer and arranger, particularly for film. That work highlights his modern-classical sensibilities: tension through texture, harmony that shifts like weather, and an ability to make silence and space feel purposeful.\n\nHis composing also loops back into Radiohead, influencing the band’s later-era string writing and arrangement choices. The relationship feels mutual: the band’s appetite for new sounds feeds Greenwood’s compositional curiosity, and his scoring experience gives the group expanded tools for mood and structure.\n\nIn performance settings, Greenwood is often the member most associated with the band’s technical complexity. Yet his playing rarely feels like virtuosity for its own sake; it is usually in service of atmosphere, emotion, or the precise kind of unease a song needs to carry.\n\nGreenwood’s collaborative chemistry with Yorke is particularly important. Whether in Radiohead, smaller ensemble work, or side projects, their connection often centers on a shared desire to find new rhythmic frameworks and new harmonic colors while keeping a song’s emotional core intact.\n\nHis influence is also cultural: Greenwood is frequently cited by musicians who want to expand what “rock band” instrumentation can mean. From pedals and processing to orchestral writing, he represents a model of a guitarist whose identity is defined as much by ideas as by technique.\n\nGreenwood’s work embodies Radiohead’s larger ethos: curiosity without gimmick, experimentation without detachment, and a commitment to craft that keeps even the strangest choices feeling deliberate and musical.",
+            "HonoursAndMilestones": [
+              "Key architect of Radiohead’s evolving instrumental palette from the 1990s through the 2010s.",
+              "Expanded Radiohead’s sonic vocabulary through orchestral arrangement and distinctive instrument choices such as the ondes Martenot.",
+              "Developed a prominent parallel career composing and arranging music outside the band."
+            ],
+            "FunFacts": [
+              "Greenwood’s ondes Martenot performances helped popularize the instrument for a modern rock audience.",
+              "He is also recognized for orchestral arrangement contributions within Radiohead’s later work."
+            ],
+            "Sources": [
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Jonny_Greenwood"
+              },
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Radiohead"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Colin Greenwood",
+          "YearsActive": "1985–present",
+          "Roles": "Bass guitar, occasional keyboards and electronics",
+          "Instruments": "Bass guitar, keyboards, electronics",
+          "Albums": [
+            {
+              "Title": "Radiohead (photography book)",
+              "Year": 2024,
+              "Notes": "Published work showcasing his photography from years on the road (non-music release)."
+            }
+          ],
+          "Bio": {
+            "BioID": "radiohead-colin-greenwood",
+            "FullName": "Colin Charles Greenwood",
+            "Birth": {
+              "Date": "1969-06-26",
+              "Place": "Oxford, England"
+            },
+            "Nationality": "English",
+            "Roles": "Musician",
+            "Instruments": "Bass guitar, keyboards, electronics",
+            "Biography": "Colin Greenwood is Radiohead’s bassist and one of the band’s earliest anchors, providing the low‑end framework that keeps their shifting arrangements grounded. While Radiohead are often praised for experimentation, Greenwood’s role highlights an equally important strength: musical discipline, feel, and the ability to support complex songs without crowding them.\n\nGreenwood helped form the group’s earliest lineup at school, and his perspective has often been described as stabilizing within a band known for intense creative standards. That steadiness matters in Radiohead’s music, where arrangements can be intricate and where subtle changes in groove can transform a track’s emotional temperature.\n\nHis bass playing is notable for its variety. He can be melodic without drawing attention away from the vocal, rhythmic without becoming rigid, and patient enough to let a song’s tension build through repetition and restraint. This adaptability is especially clear as Radiohead move between guitar-driven rock and electronically oriented compositions.\n\nDuring the 1990s, Greenwood’s lines often provided the connective tissue between Yorke’s vocal melodies and the band’s layered guitars. On songs that lean toward conventional rock structures, his work adds momentum and clarity; on more atmospheric tracks, it can function like a quiet pulse that holds the arrangement together.\n\nAs Radiohead expanded their palette, Greenwood’s contributions also broadened beyond bass, at times incorporating keyboards, electronic elements, and textural support. In a band where roles shift from song to song, that willingness to adapt is essential to keeping the group flexible and cohesive.\n\nGreenwood is also closely associated with the band’s live power. Radiohead’s concerts often rely on a careful balance between precision and intensity, and the bass is a key part of that balance—supporting the kick drum, shaping dynamics, and helping the band move as a single organism on stage.\n\nOutside the band, Greenwood has remained musically active in ways that reflect his curiosity without competing with Radiohead’s identity. He has collaborated and performed with other artists, bringing his steady musicianship into different musical environments and production approaches.\n\nHe is also known for his interest in documentation and perspective—capturing the band’s world through photography and other behind-the-scenes work. That viewpoint suggests someone attentive to detail and atmosphere, traits that align closely with Radiohead’s careful visual and sonic presentation.\n\nWithin Radiohead’s internal dynamic, Greenwood is often seen as a pragmatic connector: someone who can keep communication and momentum moving even when creative decisions are difficult. In long-running groups, that role can be as important as any musical signature.\n\nGreenwood’s presence underscores that Radiohead’s “experiment” is not chaotic; it is structured. The bass is part of the structure—defining space, reinforcing harmonic movement, and supporting the band’s sense of forward motion even when the surface texture feels abstract.\n\nAcross decades of work, Greenwood has helped Radiohead maintain a rare combination of sophistication and physicality. Their music can be cerebral, but it also moves—because the rhythm section, with Greenwood at its center, keeps the body involved.\n\nUltimately, Greenwood exemplifies the kind of musician who makes ambitious music possible: flexible, consistent, collaborative, and dedicated to the song as a whole rather than any single spotlight moment.",
+            "HonoursAndMilestones": [
+              "Co-founded the band at school and has remained a constant member through all major eras of Radiohead’s catalog.",
+              "Provided bass foundations across landmark albums including The Bends, OK Computer, Kid A, and In Rainbows.",
+              "Expanded his creative output through collaborations and published work outside the core band format."
+            ],
+            "FunFacts": [
+              "Colin is the elder brother of bandmate Jonny Greenwood.",
+              "In Radiohead’s later touring years, the band sometimes performed with a second drummer for expanded live percussion."
+            ],
+            "Sources": [
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Colin_Greenwood"
+              },
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Radiohead"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Ed O'Brien",
+          "YearsActive": "1985–present",
+          "Roles": "Guitar, backing vocals, sonic textures and effects",
+          "Instruments": "Guitar, vocals, effects",
+          "Albums": [
+            {
+              "Title": "Earth",
+              "Year": 2020,
+              "Notes": "Solo album released under the name EOB."
+            }
+          ],
+          "Bio": {
+            "BioID": "radiohead-ed-obrien",
+            "FullName": "Edward John O'Brien",
+            "Birth": {
+              "Date": "1968-04-15",
+              "Place": "Oxford, England"
+            },
+            "Nationality": "English",
+            "Roles": "Musician, songwriter",
+            "Instruments": "Guitar, vocals",
+            "Biography": "Ed O'Brien is Radiohead’s guitarist and a key architect of the band’s atmosphere, known for building spacious textures and layered ambience that expand songs beyond traditional rock parts. His playing often functions like lighting design in musical form—creating depth, color, and motion around the core chords and melodies.\n\nAs a founding member from the band’s school days, O'Brien helped shape Radiohead’s early direction and their later willingness to treat sound as malleable. Even when the group leaned heavily toward guitar-driven alternative rock, his interest in tone and space pushed arrangements toward something more cinematic.\n\nO'Brien’s signature approach relies on effects, sustain, and careful use of dynamics. Rather than competing for lead lines, he frequently supports the song by building a harmonic bed or a shimmering countertexture that makes the whole mix feel wider and more immersive.\n\nThis role became especially important as Radiohead moved into more experimental territory. When rhythms became loop-based and structures less predictable, O'Brien’s parts often acted as glue—providing an emotional continuity that kept the listener oriented even when the music itself was changing shape.\n\nHe is also an important vocal presence in the band, contributing backing vocals that thicken choruses and add human warmth to arrangements that might otherwise feel cold or machine-like. In Radiohead, those small human touches can make the difference between abstraction and connection.\n\nO'Brien is widely associated with the band’s live sound, where his layers help translate studio complexity into a physical, enveloping performance. In concert, his textures can transform simple chord progressions into massive waves of sound, reinforcing Radiohead’s reputation as a band that treats live performance as a crafted experience rather than a rough reproduction.\n\nOver the years, O'Brien’s approach has demonstrated a particular kind of humility: a commitment to supporting the song and serving the overall arrangement. In a band with multiple strong musical personalities, that commitment helps keep the group balanced and cohesive.\n\nHis solo work highlights a different side of his musical identity, bringing his sense of space and rhythm to a format where he is the primary voice. That transition underscores how much of Radiohead’s signature atmosphere is tied to his taste in tone and arrangement.\n\nO'Brien has also been involved in collaborations and side projects that reflect the band’s broader community, often intersecting with initiatives that bring musicians together across scenes and genres. That openness fits Radiohead’s long-standing interest in pushing beyond standard rock-band boundaries.\n\nAs Radiohead’s catalog moved into the 2010s, O'Brien’s textures remained essential—sometimes subtle, sometimes luminous, but consistently shaping the emotional environment of a track. Even when strings or electronic elements took center stage, his guitar work provided a familiar, human layer in the background.\n\nO'Brien’s sound design sensibility has influenced many guitarists who view effects not as decoration but as composition. In that sense, he represents a modern guitarist’s role: part musician, part producer, part architect of space.\n\nTaken together, his contributions help explain how Radiohead can sound both intimate and vast. O'Brien’s gift is making the air around the song feel alive—an atmosphere you can almost step into.",
+            "HonoursAndMilestones": [
+              "Co-founded Radiohead and contributed guitar and backing vocals across the band’s entire studio catalog.",
+              "Helped define Radiohead’s signature atmospheric textures through effects-driven guitar work.",
+              "Released solo music under the name EOB, expanding his role from supporting architect to front-facing songwriter."
+            ],
+            "FunFacts": [
+              "O'Brien is often credited within the band for “servicing the songs,” focusing on texture and support rather than traditional lead guitar roles."
+            ],
+            "Sources": [
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Ed_O%27Brien"
+              },
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Radiohead"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Philip Selway",
+          "YearsActive": "1985–present",
+          "Roles": "Drums, percussion, occasional backing vocals",
+          "Instruments": "Drums, percussion, guitar, vocals, piano",
+          "Albums": [
+            {
+              "Title": "Familial",
+              "Year": 2010,
+              "Notes": "Solo debut, understated and song-forward."
+            },
+            {
+              "Title": "Weatherhouse",
+              "Year": 2014,
+              "Notes": "Expanded palette with richer arrangements."
+            },
+            {
+              "Title": "Strange Dance",
+              "Year": 2023,
+              "Notes": "Later solo work continuing his songwriting development."
+            }
+          ],
+          "Bio": {
+            "BioID": "radiohead-philip-selway",
+            "FullName": "Philip James Selway",
+            "Birth": {
+              "Date": "1967-05-23",
+              "Place": "Abingdon, Oxfordshire, England"
+            },
+            "Nationality": "English",
+            "Roles": "Musician, singer-songwriter",
+            "Instruments": "Drums, percussion, guitar, vocals, piano",
+            "Biography": "Philip Selway is Radiohead’s drummer, valued for a style that blends rock power with the precision and adaptability needed for the band’s shifting rhythmic language. In a catalog that moves from straightforward grooves to intricate loop-based structures, Selway’s playing provides both stability and imagination.\n\nAs one of the founding schoolmates in the band’s earliest era, Selway helped establish the group’s sense of timing and dynamics long before they became known for experimentation. That early grounding matters: Radiohead’s later complexity often works because the foundation remains clear and purposeful.\n\nSelway’s drumming is often described as tasteful and musical rather than flashy. He emphasizes feel, space, and the relationship between drum part and song structure—choosing patterns that breathe and evolve instead of filling every gap.\n\nWhen Radiohead began integrating electronic percussion and programmed rhythms, Selway adapted by treating the drum kit as one voice among several. He has spoken about translating electronic tracks for live performance, finding ways to preserve the urgency of machine patterns while keeping the performance human and dynamic.\n\nThis hybrid approach is a key part of Radiohead’s live identity. Selway can lock into repetitive patterns for trance-like momentum, then shift to more organic playing when a song opens up. That ability helps the band move seamlessly between studio-like precision and concert intensity.\n\nSelway’s role also includes subtle arrangement awareness. In Radiohead, drums often serve as transitions—guiding the listener through changes in texture, tempo, and density. His choices about when to pull back or push forward can define the emotional arc of a track.\n\nOutside Radiohead, Selway has pursued solo music that highlights a quieter, song-centered sensibility. His solo releases show an interest in understated melody and reflective writing, offering a different window into his musical personality than the high-pressure environment of an internationally known band.\n\nHe has also collaborated on projects that connect members of different bands and scenes, demonstrating a willingness to step outside the Radiohead universe without abandoning it. Those collaborations reinforce his reputation as a musician’s musician: dependable, open, and grounded in craft.\n\nIn Radiohead’s later touring years, the band sometimes used an additional percussionist/drummer for certain material, which speaks to how rhythm-forward parts of their catalog can be. Even in those contexts, Selway remains the central rhythmic reference point, guiding the larger percussion picture.\n\nSelway’s playing contributes strongly to Radiohead’s signature tension: grooves that feel both steady and unsettled, patterns that repeat but subtly mutate, and dynamics that can turn from hush to impact in a single phrase. That tension is part of what makes their music feel alive.\n\nHis overall impact is easy to miss precisely because it is so well integrated. The drums rarely call attention to themselves, but remove the intelligence from the parts and the entire structure would collapse. Selway’s strength is making complexity feel natural.\n\nAcross decades, he has helped Radiohead stay flexible as a live band and as a studio project. When the music demands reinvention, Selway’s adaptability keeps the rhythm section coherent—one of the quiet reasons Radiohead can keep changing and still sound like themselves.",
+            "HonoursAndMilestones": [
+              "Founding member of Radiohead (formed 1985) and drummer across the band’s full studio catalog.",
+              "Helped translate electronic and loop-based material into compelling live drum performances.",
+              "Developed a solo career alongside ongoing band activity."
+            ],
+            "FunFacts": [
+              "Selway studied English and history after leaving school, a background that fits Radiohead’s long-standing interest in language and mood."
+            ],
+            "Sources": [
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Philip_Selway"
+              },
+              {
+                "Title": "Reference",
+                "Url": "https://en.wikipedia.org/wiki/Radiohead"
+              }
+            ]
+          }
+        }
+      ],
       "NonCoreMembers": []
     },
     {
