@@ -28,8 +28,330 @@
     {
       "ArtistID": "the-police",
       "Name": "The Police",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": "London, England",
+      "YearsActive": [
+        "1977–1986",
+        "2007–2008"
+      ],
+      "Genres": [
+        "New wave",
+        "Post-punk",
+        "Reggae rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "A&M"
+      ],
+      "Overview": "The Police were one of the defining crossover bands of the late 1970s and early 1980s, pairing punk-era urgency with reggae bounce, sharp pop hooks, and a level of musicianship that let them stretch without losing radio impact. Formed in London in 1977, the trio of Sting (bass, lead vocals), Andy Summers (guitar) and Stewart Copeland (drums) quickly stood out in the UK’s new-wave scene, turning club-era momentum into international attention with early singles like “Roxanne,” “Can’t Stand Losing You,” and “So Lonely.”\n\nAcross five studio albums—Outlandos d'Amour (1978) through Synchronicity (1983)—the band refined a signature mix of taut rhythms, ringing guitar textures, and literate songwriting. They moved from lean, police-sirens-and-strobe-light minimalism into broader palettes that could include jazz harmony, atmospheric production, and more layered arrangements, while still keeping the rhythmic core front and center. The run produced era-defining hits such as “Message in a Bottle,” “Walking on the Moon,” “Don’t Stand So Close to Me,” “Every Little Thing She Does Is Magic,” and “Every Breath You Take,” with Synchronicity becoming their biggest commercial peak.\n\nThe same intensity that powered their best records also made the band famously combustible, and after Synchronicity the group largely stepped away, with each member pursuing substantial solo careers. They reunited for a massive 2007–2008 world tour that underscored their lasting cultural footprint, and their catalog remains a touchstone for artists interested in fusing rock with syncopated groove, economical arrangement, and pop songwriting precision.",
+      "NotableAlbums": [
+        {
+          "Title": "Outlandos d'Amour",
+          "Year": 1978,
+          "Notes": "Debut album; introduced the band’s punk-reggae hybrid and early classics like “Roxanne.”"
+        },
+        {
+          "Title": "Reggatta de Blanc",
+          "Year": 1979,
+          "Notes": "Breakthrough album that topped the UK; features “Message in a Bottle” and “Walking on the Moon.”"
+        },
+        {
+          "Title": "Zenyatta Mondatta",
+          "Year": 1980,
+          "Notes": "Tight, road-tested third album; includes “Don’t Stand So Close to Me” and “De Do Do Do, De Da Da Da.”"
+        },
+        {
+          "Title": "Ghost in the Machine",
+          "Year": 1981,
+          "Notes": "Expanded arrangements and moodier textures; includes “Every Little Thing She Does Is Magic” and “Spirits in the Material World.”"
+        },
+        {
+          "Title": "Synchronicity",
+          "Year": 1983,
+          "Notes": "Final studio album and commercial peak; anchored by “Every Breath You Take” and other major singles."
+        }
+      ],
+      "SignatureSongs": [
+        "Roxanne",
+        "Message in a Bottle",
+        "Every Breath You Take",
+        "Don't Stand So Close to Me",
+        "Every Little Thing She Does Is Magic",
+        "Walking on the Moon",
+        "So Lonely",
+        "Spirits in the Material World",
+        "King of Pain",
+        "Wrapped Around Your Finger"
+      ],
+      "Achievements": [
+        "Inducted into the Rock & Roll Hall of Fame (2003).",
+        "Won multiple Grammy Awards and became one of the most globally successful bands of the late-1970s/early-1980s new-wave era.",
+        "Released a five-album studio run (1978–1983) that produced enduring hits across rock, pop, and alternative radio formats.",
+        "Reunited for a major 2007–2008 world tour that became one of the highest-grossing reunion tours of its era."
+      ],
+      "KeyFacts": [
+        "Formed in London in 1977 and emerged from the UK new-wave scene with a distinctive rock/reggae fusion.",
+        "Core trio: Sting (bass/lead vocals), Andy Summers (guitar), Stewart Copeland (drums).",
+        "Released five studio albums between 1978 and 1983, ending with Synchronicity as the commercial peak.",
+        "Known for tight, groove-forward arrangements and literate songwriting that crossed punk, reggae, and pop sensibilities.",
+        "Reunited for a 2007–2008 world tour after decades largely focused on solo work."
+      ],
+      "ExternalLinks": {
+        "Official Website": "https://thepolice.com/",
+        "AllMusic — The Police": "https://www.allmusic.com/artist/the-police-mn0000413524",
+        "Wikipedia — The Police": "https://en.wikipedia.org/wiki/The_Police",
+        "Rock & Roll Hall of Fame — The Police": "https://rockhall.com/inductees/police/",
+        "Encyclopaedia Britannica — The Police": "https://www.britannica.com/topic/the-Police"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Sting",
+          "Roles": "Lead vocals, bass, primary songwriter",
+          "Instruments": "Bass, vocals",
+          "YearsActive": "1977–1986; 2007–2008",
+          "Albums": [
+            {
+              "Title": "Outlandos d'Amour",
+              "Year": 1978
+            },
+            {
+              "Title": "Reggatta de Blanc",
+              "Year": 1979
+            },
+            {
+              "Title": "Zenyatta Mondatta",
+              "Year": 1980
+            },
+            {
+              "Title": "Ghost in the Machine",
+              "Year": 1981
+            },
+            {
+              "Title": "Synchronicity",
+              "Year": 1983
+            }
+          ],
+          "Bio": {
+            "ArtistID": "the-police",
+            "BioID": "the-police-sting",
+            "FullName": "Gordon Matthew Thomas Sumner (Sting)",
+            "Birth": {
+              "Date": "1951-10-02",
+              "Place": "Wallsend, Northumberland, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Lead Vocals",
+              "Bassist",
+              "Primary Songwriter"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Bass guitar"
+            ],
+            "FullText": "Gordon Matthew Thomas Sumner—known worldwide as Sting—became the unmistakable voice and chief songwriter of The Police, and one of the most influential melodic bassists of the modern rock era. Born in Wallsend in north-east England, he grew up around working-class coastal life and the eclectic postwar music that filtered into British homes, then gravitated toward performance as a teenager. Before the Police story begins, he paid his dues in Newcastle upon Tyne, fronting and playing bass in the jazz-fusion band Last Exit, a formative setting that sharpened his harmonic instincts and comfort with syncopation.\n\nThat early background mattered because The Police were never simply a punk band with a few reggae flourishes—they were a groove band built to survive a punk moment. When Sting joined Stewart Copeland’s project in 1977, the idea was a lean trio with pop-level hooks and the velocity of the London clubs. Sting’s writing and voice immediately gave the group a narrative center: “Roxanne” announced a songwriter who could build a cinematic scene in a few lines, while also delivering choruses that sounded inevitable the first time you heard them.\n\nAs a bassist, Sting helped redefine what “frontman in a trio” could mean. His lines often operate like counter-melodies, carrying the song’s identity alongside the vocal. Instead of sitting behind the drums, his parts frequently outline harmony and push rhythmic accents forward, locking into Copeland’s restless hi-hat patterns while leaving space for Summers’s guitar textures. This approach is a big reason Police songs feel simultaneously tight and spacious—built on interlocking parts rather than stacked layers.\n\nAcross the band’s five-album run from Outlandos d'Amour (1978) through Synchronicity (1983), Sting’s songwriting range widened without losing a recognizable fingerprint: sharp chord movement, concise structures, and lyrical tension that turns personal situations into broader emotional archetypes. “Message in a Bottle” turns isolation into an anthem; “Walking on the Moon” stretches time with a minimalist groove; “Don’t Stand So Close to Me” balances uneasy narrative detail with pop immediacy; and “Every Breath You Take” reframes romance as surveillance—unsettling precisely because it’s so beautifully constructed.\n\nSting also guided the band’s rhythmic identity. The Police’s reggae and Caribbean inflections work because they are structural, not decorative: the off-beat feel shapes how verses sit, how choruses lift, and how riffs repeat. Even when production expanded on Ghost in the Machine and Synchronicity, the songs still revolve around the rhythmic conversation between bass and drums. Sting’s part is often the hinge—both the harmonic anchor and a rhythmic cue for everything else.\n\nSuccess magnified the band’s internal pressures. With Sting as the primary writer, the studio could become a negotiation over arrangement, credit, and control—yet the final records remain a testament to the trio’s chemistry. Summers and Copeland transformed his sketches into something more angular and modern, while Sting’s melodies and lyrics kept the songs accessible enough to dominate radio. That tension, productive at its best, eventually became exhausting, and after the Synchronicity era the group largely stepped away as each member pursued substantial solo work.\n\nEven with the scale of his solo career, Sting’s Police-era catalog remains a reference point for artists chasing the balance of sophistication and immediacy. It’s studied for how drama is built inside pop forms—often using one rhythmic idea or lyrical image as the spine of an entire track. The 2007–2008 reunion emphasized the durability of that writing: the songs were lean enough to survive any production era, and strong enough to fill arenas decades later, with Sting’s bass-and-vocal role still at the center of their power.",
+            "Sources": [
+              {
+                "Title": "Sting — Biography",
+                "Publisher": "Sting.com (Official)",
+                "Url": "https://www.sting.com/biography"
+              },
+              {
+                "Title": "Sting",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Sting"
+              },
+              {
+                "Title": "The Police",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/the-Police"
+              },
+              {
+                "Title": "The Police",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-police-mn0000413524"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Andy Summers",
+          "Roles": "Guitar, co-arranger, textural lead guitarist",
+          "Instruments": "Guitar",
+          "YearsActive": "1977–1986; 2007–2008",
+          "Albums": [
+            {
+              "Title": "Outlandos d'Amour",
+              "Year": 1978
+            },
+            {
+              "Title": "Reggatta de Blanc",
+              "Year": 1979
+            },
+            {
+              "Title": "Zenyatta Mondatta",
+              "Year": 1980
+            },
+            {
+              "Title": "Ghost in the Machine",
+              "Year": 1981
+            },
+            {
+              "Title": "Synchronicity",
+              "Year": 1983
+            }
+          ],
+          "Bio": {
+            "ArtistID": "the-police",
+            "BioID": "the-police-andy-summers",
+            "FullName": "Andrew James Summers",
+            "Birth": {
+              "Date": "1942-12-31",
+              "Place": "Poulton-le-Fylde, Lancashire, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Composer",
+              "Arranger"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "FullText": "Andy Summers brought the last, crucial ingredient to The Police: a guitarist who could make a three-piece sound enormous without ever stepping on the groove. Born Andrew James Summers in Lancashire and raised in Bournemouth, he entered professional music well before the new-wave boom, working through 1960s London rhythm-and-blues and psychedelic scenes. That earlier apprenticeship included stints with Zoot Money’s Big Roll Band and its evolution into Dantalian’s Chariot, a brief period in Soft Machine, and work with Eric Burdon and the Animals—experiences that exposed him to touring life, studio demands, and a wider musical vocabulary than the typical late-1970s punk recruit.\n\nBy the time he joined The Police in 1977, Summers had spent years thinking about harmony, tone, and how arrangements function. That perspective helped the band’s music avoid the trap of being \"just\" raw energy. Rather than treat the guitar as a constant wall of rhythm, Summers made space a compositional tool. His signature approach—bright, chorus-soaked arpeggios, staccato off-beat chops, and carefully chosen chord colors—let Sting’s bass and Copeland’s drums keep their kinetic interplay while the guitar supplied atmosphere and harmonic tension.\n\nSummers’s parts often behave like architecture. In a trio, arrangement choices are composition, and he consistently found figures that act as structural beams: simple enough to be memorable, but distinctive enough to define a track. You can hear it in the shimmering frame around “Message in a Bottle,” the hypnotic emptiness of “Walking on the Moon,” and the uneasy, glassy pulse that helps “Every Breath You Take” feel intimate and unsettling at the same time. He used partial chords, suspended voicings, and subtle dissonances to create emotional ambiguity without cluttering the groove.\n\nA key to Summers’s Police-era identity is how he balances melody with timbre. He frequently implies harmony rather than stating it, letting the listener “fill in” what isn’t played. His tone—often bright and modulated—became a hook in itself, a sonic signature that could be recognized immediately. Just as important, his rhythmic placement is disciplined: even when he’s playing “lead,” the part is locked to the drum pattern and the bass line, functioning as another rhythmic voice.\n\nAs the band’s albums broadened—especially on Ghost in the Machine and Synchronicity—Summers adapted without losing the group’s essential tension. He layered textures, expanded tonal palettes, and still left enough negative space for the rhythm section to breathe. The result is that later Police tracks feel bigger and more cinematic, yet still unmistakably like a band built from three interlocking parts rather than a studio construction.\n\nThe Police’s success also amplified internal friction, and Summers—like his bandmates—eventually focused on substantial work outside the group. But his legacy within The Police remains unusually clear: he helped define a modern guitar language where restraint is power, texture is melody, and the “right” part is the one that makes the groove feel inevitable. The 2007–2008 reunion confirmed that his most famous lines were not studio tricks but durable compositions—parts that instantly identify a song within a bar or two, and still feel current decades after their creation.\n\nSummers also became a key part of the band’s sonic branding in the studio: his use of modulation, delay, and carefully voiced chords made the Police sound immediately identifiable on the radio, even when the arrangement was sparse. Those choices weren’t about “effects for effects’ sake”; they were a way to keep the guitar present without crowding Sting’s bass-forward mix. After The Police, he continued exploring that textural mindset through solo work, collaborations, and projects that leaned into jazz harmony and ambient space—but the Police era remains the clearest example of how his aesthetic can turn minimal parts into unforgettable signatures.",
+            "Sources": [
+              {
+                "Title": "Andy Summers",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Andy_Summers"
+              },
+              {
+                "Title": "The Police",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/the-Police"
+              },
+              {
+                "Title": "The Police (Inductees)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/police/"
+              },
+              {
+                "Title": "The Police",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-police-mn0000413524"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Stewart Copeland",
+          "Roles": "Drums, percussion, co-founder",
+          "Instruments": "Drums, percussion",
+          "YearsActive": "1977–1986; 2007–2008",
+          "Albums": [
+            {
+              "Title": "Outlandos d'Amour",
+              "Year": 1978
+            },
+            {
+              "Title": "Reggatta de Blanc",
+              "Year": 1979
+            },
+            {
+              "Title": "Zenyatta Mondatta",
+              "Year": 1980
+            },
+            {
+              "Title": "Ghost in the Machine",
+              "Year": 1981
+            },
+            {
+              "Title": "Synchronicity",
+              "Year": 1983
+            }
+          ],
+          "Bio": {
+            "ArtistID": "the-police",
+            "BioID": "the-police-stewart-copeland",
+            "FullName": "Stewart Armstrong Copeland",
+            "Birth": {
+              "Date": "1952-07-16",
+              "Place": "Alexandria, Virginia, United States"
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Drummer",
+              "Composer",
+              "Co-founder"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "FullText": "Stewart Copeland was the engine room of The Police: a drummer whose parts are instantly recognizable for their speed, precision, and musical intelligence. Born in Alexandria, Virginia, he spent portions of his youth abroad and developed a wide listening palette that helped him treat rhythm as a language rather than a backdrop. Before The Police, he played with the progressive rock band Curved Air (1975–1976), a setting that demanded technical control and gave him real touring and studio experience—skills he would later deploy in a very different context: the stripped-down urgency of London’s punk era.\n\nWhen The Police formed in 1977, Copeland’s vision was a lean trio fashioned on punk energy but built for broader musical possibility. His drumming became the band’s signature as surely as Sting’s voice. Copeland doesn’t simply keep time; he composes with the kit. Hi-hat patterns, rim clicks, and fast shifts in accent act like melodic motifs, creating motion even when harmony is static. That sense of forward momentum is a major reason the band could play with minimal instrumentation and still sound relentlessly alive.\n\nCopeland is often praised for being “busy,” but the more important quality is control. He makes dense patterns feel clean by organizing them around the song’s pulse—always giving the listener a clear sense of where the beat lives. In Police songs shaped by reggae, he doesn’t imitate genre drumming; he reinterprets the feel for a rock kit, keeping the off-beat lilt while adding sharp, propulsive details that make the groove surge forward. Tracks like “Walking on the Moon” and “Spirits in the Material World” show how his restraint and explosiveness can coexist inside the same arrangement.\n\nIn a trio, the drummer’s choices are arrangement choices, and Copeland treats them that way. He marks transitions, opens space for vocals, and sets up hooks with fills that feel inevitable rather than flashy. His snare sound and syncopated phrasing help define the band’s tension: it’s danceable, but there’s always a nervous edge, as if the groove is being pulled forward by centrifugal force. That edge makes the band’s biggest pop moments feel urgent rather than glossy.\n\nCopeland’s relationship with songwriting power inside The Police was famously complicated. Sting’s dominance as a writer shaped the catalog, but the “Police sound” is inseparable from Copeland’s arrangements—the specific rhythmic identities that make a riff or chorus land the way it does. Even as success grew and the band’s internal dynamics became more strained, his contribution remained the most consistent fingerprint across their albums.\n\nAfter the band’s original run ended, Copeland expanded into composition and broader musical work, demonstrating that his sense of structure and drama extended well beyond the drum kit. Still, his Police-era work remains a benchmark for drummers and producers alike: how to be intricate without losing clarity, how to make rhythm feel like melody, and how to build a song’s emotional arc through accents and texture. The 2007–2008 reunion tour reaffirmed the durability of those parts—decades later, they still sounded modern, and they still carried the songs with the same restless intensity that first set The Police apart.\n\nOne reason Copeland’s parts remain so teachable is that they’re built from repeatable ideas: a specific hi-hat pattern, a snare placement that creates a push-pull feel, a fill that signals the next section like a cue in film scoring. That “composer’s” mindset shows up in his later work writing for screens and larger ensembles, but it’s already present in The Police’s best tracks. Even when he’s playing at high velocity, the parts are designed to support the vocal story and the guitar’s negative space. The result is a drummer’s catalog that doesn’t just showcase skill—it explains, in practical musical terms, how a trio can sound like a full band.",
+            "Sources": [
+              {
+                "Title": "Stewart Copeland",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Stewart_Copeland"
+              },
+              {
+                "Title": "The Police",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/the-Police"
+              },
+              {
+                "Title": "The Police (Inductees)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/police/"
+              },
+              {
+                "Title": "The Police",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-police-mn0000413524"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Henry Padovani",
+          "Roles": "Original guitarist (early lineup)",
+          "Instruments": "Guitar",
+          "YearsActive": "1977",
+          "Albums": [],
+          "Bio": {
+            "ArtistID": "the-police",
+            "BioID": "the-police-henry-padovani",
+            "FullName": "Henri (Henry) Padovani",
+            "Birth": {
+              "Date": "1952-10-14",
+              "Place": "Bastia, Corsica, France"
+            },
+            "Nationality": "French",
+            "Roles": [
+              "Guitarist"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "FullText": "Henry (Henri) Padovani was The Police’s original guitarist during the band’s earliest 1977 phase, before the classic trio lineup took its final shape. In those first months the group was still experimenting with personnel, repertoire, and the balance between punk immediacy and more groove-oriented ideas. Padovani’s presence places him in the band’s foundational story, even though the public-facing catalog is primarily associated with the later Sting/Summers/Copeland trio.\n\nAfter leaving the band in 1977, Padovani continued working in the punk and post-punk ecosystem and pursued his own projects. Within the Police narrative, he is best understood as a key early contributor during the moment when the band was forming its identity—a reminder that the famous “classic lineup” was the product of a rapid, volatile scene where bands could evolve in real time.",
+            "Sources": [
+              {
+                "Title": "Henry Padovani",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Henry_Padovani"
+              },
+              {
+                "Title": "The Police",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Police"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "ArtistID": "the-power-station",
