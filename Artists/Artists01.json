@@ -4827,8 +4827,14 @@
       "ArtistID": "alanis-morissette",
       "Name": "Alanis Morissette",
       "Type": "Solo",
-      "Origin": "Ottawa, Ontario, Canada",
-      "YearsActive": "1991–present",
+      "Origin": {
+        "City": "Ottawa",
+        "Region": "Ontario",
+        "Country": "Canada"
+      },
+      "YearsActive": [
+        "1991–present"
+      ],
       "Genres": [
         "Alternative rock",
         "Alternative pop",
