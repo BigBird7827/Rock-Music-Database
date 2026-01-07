@@ -1510,27 +1510,583 @@
     {
       "ArtistID": "the-yardbirds",
       "Name": "The Yardbirds",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1963–1968",
+        "1992–2013"
+      ],
+      "Genres": [
+        "Blues rock",
+        "British rhythm and blues",
+        "Psychedelic rock",
+        "Rock"
+      ],
+      "Labels": [
+        "Columbia",
+        "Epic"
+      ],
+      "Overview": "The Yardbirds were one of the key bridge bands between early‑’60s British R&B club culture and the heavier, more experimental rock that followed. Formed in the London area in 1963, they built their early reputation as a hard‑working live act with extended “rave‑ups” — songs that could explode from a tight blues groove into a faster, louder climax — and a willingness to reshape American blues and R&B standards with a sharper, more aggressive edge. That club‑honed intensity helped them move from the Crawdaddy/Marquee circuit into the center of the British Invasion, even as they began testing pop‑leaning songwriting and studio experimentation.\n\nTheir most famous legacy is how their shifting guitar chair became a launchpad for three of rock’s most influential players: Eric Clapton, Jeff Beck, and Jimmy Page. Clapton’s departure amid the band’s move toward the pop‑oriented single “For Your Love” marked a turning point; Beck’s arrival pushed the group into bolder sonics and early uses of feedback, fuzz, and sustained tones; and Page’s late‑era lineup carried the sound toward heavier riffing and a bigger stage show. Across singles such as “For Your Love,” “Heart Full of Soul,” “Shapes of Things,” and “Over Under Sideways Down,” the Yardbirds helped define a vocabulary of mid‑’60s rock guitar that fed directly into psychedelia, proto‑metal, and the hard rock mainstream.\n\nBy 1968 the original band had burned out, but its impact only grew: Page’s final “New Yardbirds” commitments quickly evolved into Led Zeppelin, while the Yardbirds’ catalog became a reference point for blues‑rock groups and guitar bands for decades. The group was inducted into the Rock & Roll Hall of Fame in 1992, and later versions of the band name returned to the road in the 1990s and 2000s, keeping the Yardbirds story alive for new audiences.",
+      "NotableAlbums": [
+        {
+          "Title": "Five Live Yardbirds",
+          "Year": 1964,
+          "Notes": "Breakthrough live document of their club-era British R&B set and the ‘rave‑up’ approach."
+        },
+        {
+          "Title": "For Your Love",
+          "Year": 1965,
+          "Notes": "U.S. album built around the hit single; captures the transition from blues purism toward pop and studio craft."
+        },
+        {
+          "Title": "Having a Rave Up with the Yardbirds",
+          "Year": 1965,
+          "Notes": "Hybrid U.S. release mixing live and studio tracks, showcasing the shift from Clapton to Beck-era experimentation."
+        },
+        {
+          "Title": "The Yardbirds (a.k.a. Roger the Engineer)",
+          "Year": 1966,
+          "Notes": "Studio statement of the Beck-era band; heavier textures, inventive guitar colors, and psychedelic leanings."
+        },
+        {
+          "Title": "Little Games",
+          "Year": 1967,
+          "Notes": "Late-era album with Page onboard; a crossroads record as the band pushed toward a larger, heavier sound."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "For Your Love",
+          "Year": 1965,
+          "Notes": "Defining hit single that propelled them into the pop charts and triggered a pivotal lineup change."
+        },
+        {
+          "Title": "Heart Full of Soul",
+          "Year": 1965,
+          "Notes": "A cornerstone of the Beck era with an exotic, droning riff and bold studio atmosphere."
+        },
+        {
+          "Title": "Shapes of Things",
+          "Year": 1966,
+          "Notes": "A landmark single of the mid‑’60s guitar revolution; often cited as a step toward psychedelia and heavier rock."
+        },
+        {
+          "Title": "Over Under Sideways Down",
+          "Year": 1966,
+          "Notes": "A punchy, riff-driven single highlighting their tight pop craft and growing hard-rock attack."
+        },
+        {
+          "Title": "Train Kept A-Rollin’",
+          "Year": 1965,
+          "Notes": "Their turbocharged adaptation became a template for countless hard-rock and metal covers."
+        },
+        {
+          "Title": "I’m a Man",
+          "Year": 1965,
+          "Notes": "Blues classic stretched into a riffing, improvisational showcase in the Yardbirds’ live set."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Year": "1992",
+          "Details": "Recognized for their short-lived but outsized influence on rock guitar, studio experimentation, and emerging genres."
+        },
+        {
+          "Title": "Helped define the ‘British blues-rock’ to psychedelia pipeline",
+          "Year": "1963–1968",
+          "Details": "Known for rave-ups, feedback/distortion experiments, and singles that shaped mid-’60s rock’s sound palette."
+        },
+        {
+          "Title": "Launchpad for multiple landmark careers",
+          "Year": "1960s",
+          "Details": "Famously associated with Eric Clapton, Jeff Beck, and Jimmy Page during different phases of the band’s evolution."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1963 and quickly became known for live “rave‑ups,” accelerating blues standards into climactic finales.",
+        "Took over as the resident band at London’s Crawdaddy Club after the Rolling Stones, helping expand their early audience.",
+        "Their guitar lineup changes map onto distinct stylistic eras: Clapton (blues purism), Beck (feedback/fuzz experimentation), Page (heavier riffing and bigger stage sound).",
+        "Their 1965 hit “For Your Love” is often cited as the moment the band pivoted from strict R&B roots toward broader pop-rock ambitions.",
+        "Jimmy Page’s final New Yardbirds commitments became Led Zeppelin soon after the Yardbirds dissolved in 1968.",
+        "Inducted into the Rock & Roll Hall of Fame in 1992."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://theyardbirds.com/",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/yardbirds/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Yardbirds",
+        "AllMusic Discography": "https://www.allmusic.com/artist/the-yardbirds-mn0000675668/discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Keith Relf",
+          "YearsActive": "1963–1968",
+          "Roles": "Lead vocalist; harmonica; rhythm guitar",
+          "Instruments": "Vocals; harmonica; guitar",
+          "Albums": [
+            {
+              "Title": "Five Live Yardbirds",
+              "Year": 1964
+            },
+            {
+              "Title": "For Your Love",
+              "Year": 1965
+            },
+            {
+              "Title": "Having a Rave Up with the Yardbirds",
+              "Year": 1965
+            },
+            {
+              "Title": "The Yardbirds (Roger the Engineer)",
+              "Year": 1966
+            },
+            {
+              "Title": "Little Games",
+              "Year": 1967
+            }
+          ],
+          "Bio": {
+            "BioID": "the-yardbirds-william-keith-relf",
+            "ArtistID": "the-yardbirds",
+            "FullName": "William Keith Relf",
+            "Birth": {
+              "Date": "1943-03-22",
+              "Place": "Richmond, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Singer; harmonica player; rhythm guitarist; songwriter",
+            "Instruments": "Vocals; harmonica; guitar",
+            "FullText": "Keith Relf was the Yardbirds’ original frontman — a singer, harmonica player, and rhythm guitarist whose grounded blues sensibility kept the band’s sound anchored even as it grew louder and more experimental. Coming out of the London R&B circuit, Relf helped shape the group’s early identity as a working club band that could stretch a standard into a dramatic “rave‑up,” with his vocal phrasing and harmonica lines pushing the music from tight groove into chaotic release.\n\nIn the band’s formative years, Relf’s role was less about showy virtuosity than about feel and direction. He guided arrangements, chose material that fit the Yardbirds’ gritty aesthetic, and created the connective tissue between the rhythm section and whichever lead guitarist was occupying the hot seat. That stability mattered because the Yardbirds evolved quickly: within a few short years they shifted from strict blues and R&B toward chart‑minded singles and studio experimentation.\n\nWhen “For Your Love” pulled the group into the pop charts, the Yardbirds’ internal balance changed — but Relf remained a constant presence, giving the band a recognizable vocal character across the Clapton, Beck, and Page eras. Even as the guitar textures became stranger and heavier, his voice and harp kept the Yardbirds’ roots visible, especially on live standards that were rebuilt night after night with the band’s signature accelerations.\n\nRelf also contributed as a songwriter and arranger during a period when the band began writing more of its own material. That shift coincided with the Yardbirds’ mid‑’60s run of defining singles and the Beck‑era studio work that nudged British blues-rock toward psychedelia. His ability to balance traditional blues instincts with an openness to new sounds helped the group avoid becoming a museum-piece purist act.\n\nBy the late 1960s, the Yardbirds’ relentless touring and lineup churn took a toll, and the group dissolved in 1968. Relf did not follow Jimmy Page into the next chapter that became Led Zeppelin; instead, he pivoted to new projects that emphasized different sides of his musical personality. He co‑founded Renaissance, exploring a more acoustic and classically influenced direction, and later worked in bands that continued his interest in progressive and heavy rock forms.\n\nRelf’s post‑Yardbirds story also underscores how much the group functioned as a crossroads in British rock. The Yardbirds’ alumni network spread outward into multiple scenes — hard rock, progressive rock, singer‑songwriter production, and more — and Relf’s own path shows that the band’s impact wasn’t only about guitar heroics. It was also about a generation of musicians who learned how to build drama, tension, and release in the club trenches.\n\nHis life ended tragically and abruptly in 1976. Relf died by electrocution while playing an electric guitar at home, a shocking end that froze his legacy at just 33 years old. The circumstances became part of rock folklore, but his lasting contribution is clearer: he was the human center of a band that changed rock’s vocabulary in real time.\n\nToday, Keith Relf is remembered as the Yardbirds’ voice — the musician who made a band famous for its guitarists feel like a cohesive group rather than a rotating showcase. His singing, harmonica, and sense of song structure shaped the Yardbirds’ defining era, and his later work reflects an artist still searching for new shapes after the band that first made his name burned out.",
+            "HonoursAndMilestones": [
+              "Fronted The Yardbirds through their defining 1963–1968 run, spanning the Clapton, Beck, and Page eras.",
+              "Helped popularize the Yardbirds’ ‘rave‑up’ performance approach and maintained their blues identity as they moved toward pop and psychedelia.",
+              "Co-founded Renaissance after the Yardbirds, illustrating the breadth of his musical ambitions beyond blues-rock."
+            ],
+            "FunFacts": [
+              "Relf is often cited as the consistent ‘band voice’ across the Yardbirds’ famously changing guitar lineup.",
+              "His death in 1976 is widely reported as an electrocution accident while playing an electric guitar at home."
+            ],
+            "Sources": [
+              {
+                "Title": "Keith Relf — biography and career overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Keith_Relf"
+              },
+              {
+                "Title": "The Yardbirds — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Yardbirds"
+              },
+              {
+                "Title": "The Yardbirds — Inducted 1992",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/yardbirds/"
+              }
+            ],
+            "Death": {
+              "Date": "1976-05-12",
+              "Place": "Hounslow, Greater London, England, United Kingdom"
+            }
+          }
+        },
+        {
+          "Name": "Jim McCarty",
+          "YearsActive": "1963–1968; 1992–2013",
+          "Roles": "Drummer; songwriter",
+          "Instruments": "Drums",
+          "Albums": [
+            {
+              "Title": "Five Live Yardbirds",
+              "Year": 1964
+            },
+            {
+              "Title": "For Your Love",
+              "Year": 1965
+            },
+            {
+              "Title": "Having a Rave Up with the Yardbirds",
+              "Year": 1965
+            },
+            {
+              "Title": "The Yardbirds (Roger the Engineer)",
+              "Year": 1966
+            },
+            {
+              "Title": "Little Games",
+              "Year": 1967
+            }
+          ],
+          "Bio": {
+            "BioID": "the-yardbirds-james-stanley-mccarty",
+            "ArtistID": "the-yardbirds",
+            "FullName": "James Stanley McCarty",
+            "Birth": {
+              "Date": "1943-07-25",
+              "Place": "Walton, Liverpool, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Drummer; songwriter; occasional vocalist",
+            "Instruments": "Drums; occasional vocals",
+            "FullText": "Jim McCarty is the Yardbirds’ rhythmic engine — a drummer whose feel and musical curiosity helped the band move from raw British R&B into the wider, more experimental rock of the mid‑1960s. In the early club years, his playing was all about forward motion: pushing shuffles, backbeats, and stop‑time breaks hard enough to lift the band’s “rave‑ups” into their trademark climaxes without losing the pocket.\n\nMcCarty’s drumming mattered because the Yardbirds were built around tension and release. They weren’t simply copying American blues standards; they were re‑engineering them into performances that could expand, accelerate, and suddenly snap back to the groove. That approach depended on a drummer who could control dynamics on the fly — building excitement, cueing transitions, and keeping the band together as volume and tempo surged.\n\nAs the Yardbirds’ studio work became more adventurous, McCarty adapted easily. The band’s shift toward pop‑structured singles and then toward psychedelic textures required nuance: space for unusual guitar tones, arrangements that weren’t strictly blues forms, and a willingness to treat the drum kit as part of the production color rather than just timekeeping. His steady presence helped unify the band through rapid stylistic changes and high‑profile personnel switches.\n\nMcCarty also played a broader musical role than many casual listeners realize. Beyond drums, he contributed vocals and was involved in songwriting and arrangement decisions in an era when the Yardbirds began writing more of their own material. That kind of internal musicianship was one reason the group felt like a real band, not simply a backing unit for lead guitar fireworks.\n\nWhen the Yardbirds dissolved in 1968, McCarty’s career reflected the broader diaspora of Yardbirds alumni. He co‑founded Renaissance with Keith Relf, exploring a more acoustic and classically influenced direction — a sharp contrast to the Yardbirds’ increasingly heavy sound. That pivot shows how the Yardbirds functioned as a training ground for musicians who could move between scenes and reinvent themselves when the ’60s rock landscape shifted.\n\nIn later decades, McCarty remained one of the key keepers of the Yardbirds legacy. He participated in reunion-related projects and, beginning in the early 1990s, performed with a re-formed version of the band name, bringing the catalog back to the stage for new generations of fans. His long-running association with the group makes him one of the clearest through-lines from the original club-era Yardbirds to later revival eras.\n\nListening back, McCarty’s contribution is the band’s momentum — the confident, flexible drumming that allowed the Yardbirds to take risks. As guitar tones, songwriting, and production changed around him, his playing supplied the structure that made experimentation feel like a song rather than an accident.\n\nMcCarty’s work is a reminder that the Yardbirds’ influence wasn’t only about the famous guitarists. It was also about a rhythm section that could make a blues groove hit like a rock record, and a drummer who could push the music forward while still leaving room for the band’s most radical ideas.",
+            "HonoursAndMilestones": [
+              "Founding and longest-serving Yardbirds member, anchoring the band’s live ‘rave‑up’ style and studio evolution.",
+              "Co-founded Renaissance after the Yardbirds, expanding into progressive and classical-leaning rock territory.",
+              "Returned to the Yardbirds name in later decades, helping keep the band’s catalog active in live performance."
+            ],
+            "FunFacts": [
+              "McCarty’s drumming is closely associated with the Yardbirds’ trademark ‘rave‑up’ arrangement — a slow build into a fast climax.",
+              "He has been one of the central figures in later-era Yardbirds reunion and re-formation efforts."
+            ],
+            "Sources": [
+              {
+                "Title": "Jim McCarty — biography and Yardbirds/Renaissance career",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jim_McCarty"
+              },
+              {
+                "Title": "The Yardbirds — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Yardbirds"
+              },
+              {
+                "Title": "The Yardbirds — Inducted 1992",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/yardbirds/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Paul Samwell-Smith",
+          "YearsActive": "1963–1966",
+          "Roles": "Bassist; producer",
+          "Instruments": "Bass; vocals",
+          "Albums": [
+            {
+              "Title": "Five Live Yardbirds",
+              "Year": 1964
+            },
+            {
+              "Title": "For Your Love",
+              "Year": 1965
+            },
+            {
+              "Title": "Having a Rave Up with the Yardbirds",
+              "Year": 1965
+            }
+          ],
+          "Bio": {
+            "BioID": "the-yardbirds-paul-samwell-smith",
+            "ArtistID": "the-yardbirds",
+            "FullName": "Paul Samwell-Smith",
+            "Birth": {
+              "Date": "1943-05-08",
+              "Place": "Brentford, Middlesex, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Bassist; producer; engineer",
+            "Instruments": "Bass; vocals",
+            "FullText": "Paul Samwell-Smith was the Yardbirds’ original bassist and one of the key shapers of their early recorded sound. In the club era, his job was to lock with Jim McCarty’s drums and keep the band’s blues-based grooves driving forward while guitars and vocals stretched the music into dramatic “rave-ups.” That foundation mattered because the Yardbirds’ live identity depended on momentum: the band needed a rhythm section that could stay tight even as arrangements sped up, fell back into half-time, or snapped into stop-time breaks on cue.\n\nSamwell-Smith’s influence went beyond the bass. As the Yardbirds became a recording and charting act, he developed a strong interest in studio craft — how arrangement decisions, engineering choices, and production techniques could turn a good performance into a distinctive record. That curiosity aligned with a band that was moving rapidly from straight R&B into pop-structured singles and then into mid-’60s experimentation with texture and guitar tone.\n\nDuring the Yardbirds’ hit-making period, Samwell-Smith contributed to arrangements, background vocals, and the band’s gradual shift toward original material. His role helped the group navigate the tension between blues authenticity and the commercial pull of singles like “For Your Love.” Even when those choices created internal conflict — including lineup changes — the Yardbirds’ records increasingly sounded intentional and forward-looking rather than merely live snapshots.\n\nBy 1966, the demands of touring and the lure of studio work pulled Samwell-Smith away from the road. He left the Yardbirds to focus on production, and his exit triggered another crucial band evolution: as the lineup reshuffled, Chris Dreja moved to bass and Jimmy Page’s role expanded, pushing the group toward a heavier late-era sound.\n\nSamwell-Smith’s producer career became a major chapter in its own right. He is widely credited for a deft, understated approach that suited singer-songwriter recordings, and he worked with artists whose catalog became staples of the early 1970s. A high-profile example is his production on multiple Cat Stevens albums, including Tea for the Tillerman, where an acoustic-leaning palette and carefully paced arrangements helped frame Stevens’ songs for a global audience.\n\nEven after shifting into production, Samwell-Smith remained part of the Yardbirds’ extended orbit. He was inducted into the Rock & Roll Hall of Fame as a member of the band, and later participated in projects that reunited original Yardbirds members, underscoring how strongly that 1960s experience continued to resonate.\n\nSeen across his full arc, Samwell-Smith embodies a quieter kind of influence: a musician who helped propel a legendary guitar band while also shaping the sound of a different era through the producer’s chair. His Yardbirds years show him as an essential part of the group’s drive and cohesion; his post-Yardbirds years show him as a craftsman who knew how to let songs breathe.",
+            "HonoursAndMilestones": [
+              "Original Yardbirds bassist and key contributor during their 1963–1966 rise from clubs to international success.",
+              "Left touring to become a successful record producer, extending his impact beyond performance into studio craft.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Yardbirds (1992)."
+            ],
+            "FunFacts": [
+              "He is frequently credited as a major figure behind the Yardbirds’ increasing attention to studio technique in the mid‑1960s.",
+              "Samwell‑Smith’s producer credits include several landmark Cat Stevens/Yusuf albums from the early 1970s."
+            ],
+            "Sources": [
+              {
+                "Title": "Paul Samwell-Smith — biography and producer credits",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Paul_Samwell-Smith"
+              },
+              {
+                "Title": "Tea for the Tillerman — album page (producer credit)",
+                "Publisher": "Yusuf / Cat Stevens (official site)",
+                "Url": "https://catstevens.com/media/albums/tea-for-the-tillerman-1970/"
+              },
+              {
+                "Title": "The Yardbirds — Inducted 1992",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/yardbirds/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Chris Dreja",
+          "YearsActive": "1963–1968",
+          "Roles": "Rhythm guitarist; bassist",
+          "Instruments": "Guitar; bass",
+          "Albums": [
+            {
+              "Title": "Five Live Yardbirds",
+              "Year": 1964
+            },
+            {
+              "Title": "For Your Love",
+              "Year": 1965
+            },
+            {
+              "Title": "Having a Rave Up with the Yardbirds",
+              "Year": 1965
+            },
+            {
+              "Title": "The Yardbirds (Roger the Engineer)",
+              "Year": 1966
+            },
+            {
+              "Title": "Little Games",
+              "Year": 1967
+            }
+          ],
+          "Bio": {
+            "BioID": "the-yardbirds-chris-dreja",
+            "ArtistID": "the-yardbirds",
+            "FullName": "Chris Dreja",
+            "Birth": {
+              "Date": "1946-11-11",
+              "Place": "Surbiton, Surrey, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Rhythm guitarist; bassist; photographer",
+            "Instruments": "Guitar; bass",
+            "FullText": "Chris Dreja was a founding Yardbird who helped define the band's feel and presentation from the inside out. Early on he played rhythm guitar, supplying the chordal drive and percussive attack that made the group's British R&B material hit harder than a typical club act. As the Yardbirds developed their famous 'rave-up' arrangements, Dreja's job was to keep the center of the song stable — a crucial role when the lead guitarist was stretching solos, coaxing feedback, or pushing the band into faster climaxes.\n\nDreja's musical role evolved with the band. When Paul Samwell-Smith left in 1966, Dreja switched from rhythm guitar to bass, a change that kept the Yardbirds' engine room intact during another major lineup shuffle. That flexibility mattered in a group defined by change: as lead guitar tones became more aggressive and experimental, the rhythm section had to stay disciplined enough to make those risks feel purposeful.\n\nHe also contributed to how the Yardbirds looked and were remembered. Dreja had a strong visual sensibility, and he is closely associated with the band's artwork and photography in the 1960s. That eye for design became even more prominent after the Yardbirds dissolved, when he pursued photography seriously — an alternate career path that set him apart from many of his former bandmates.\n\nOne of the most famous footnotes in rock history is what Dreja did not do: when Jimmy Page's late-era Yardbirds commitments evolved into what became Led Zeppelin, Dreja did not follow. Instead, he leaned into photography and later returned to music on his own terms, illustrating that the Yardbirds' alumni story was not a single inevitable line toward stardom but a set of different creative choices made at a moment of cultural upheaval.\n\nIn the 1980s he resurfaced musically in reunion-related projects with other original Yardbirds members, and in the early 1990s he became part of the wider revival of interest in the band's legacy. Those later activities highlighted how central Dreja had been to the Yardbirds' identity: he was never simply a background player, but a core builder of the band's sound and cohesion.\n\nDreja's reputation among fans rests on two parallel contributions. As a musician, he provided the sturdy framework that allowed the Yardbirds' lead guitarists to experiment boldly. As a visual artist and photographer, he helped shape the imagery and documentation that preserved the band's story long after the 1960s ended.\n\nChris Dreja died in 2025 after years of health complications. His passing prompted renewed attention to the less glamorous but essential roles inside legendary bands: the players who make the platform stable enough for innovation to happen, and the artists who keep the history visible after the spotlight moves on.",
+            "HonoursAndMilestones": [
+              "Founding Yardbirds member; switched from rhythm guitar to bass in 1966, stabilizing the band during a key transition.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Yardbirds (1992).",
+              "Maintained the Yardbirds legacy through later reunion-era projects and long-term visual documentation."
+            ],
+            "FunFacts": [
+              "Dreja is often noted for moving to bass after Paul Samwell-Smith left, a switch that preserved the band's rhythmic foundation.",
+              "He pursued photography after the Yardbirds, becoming known for visual work connected to the band's extended circle."
+            ],
+            "Sources": [
+              {
+                "Title": "The Yardbirds co-founder Chris Dreja dies at 79",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/the-yardbirds-co-founder-chris-dreja-dies-at-79/"
+              },
+              {
+                "Title": "The Yardbirds — Inducted 1992",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/yardbirds/"
+              },
+              {
+                "Title": "Chris Dreja — biography and Yardbirds career",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Chris_Dreja"
+              }
+            ],
+            "Death": {
+              "Date": "2025-09-25",
+              "Place": "London, England, United Kingdom"
+            }
+          }
+        },
+        {
+          "Name": "Eric Clapton",
+          "YearsActive": "1963–1965",
+          "Roles": "Lead guitarist",
+          "Instruments": "Guitar",
+          "Albums": [
+            {
+              "Title": "Five Live Yardbirds",
+              "Year": 1964
+            },
+            {
+              "Title": "For Your Love",
+              "Year": 1965
+            }
+          ],
+          "Bio": {
+            "BioID": "the-yardbirds-eric-clapton",
+            "ArtistID": "the-yardbirds",
+            "FullName": "Eric Clapton",
+            "Birth": {
+              "Date": "1945-03-30",
+              "Place": "Ripley, Surrey, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Lead guitarist; singer; songwriter",
+            "Instruments": "Guitar; vocals",
+            "FullText": "Eric Clapton was the Yardbirds' first high-profile lead guitarist and a key reason their early reputation spread through London's R&B scene. Joining in 1963, he brought a disciplined electric-blues vocabulary shaped by American players, and helped the band become one of the city's most respected club acts. In live settings, his phrasing fed directly into the Yardbirds' 'rave-up' formula, where a song could build from a restrained groove into a faster, louder climax.\n\nClapton's time in the band coincided with the Yardbirds' transition from blues purism toward singles aimed at a wider pop audience. That shift created a famous fault line. The group's success with 'For Your Love' in 1965 brought chart momentum and broader exposure, but it also represented the kind of direction Clapton did not want to pursue. His departure soon after became a defining story of 1960s British rock: the clash between blues authenticity and the commercial pull of the singles market.\n\nAlthough his Yardbirds tenure was relatively short, it set up the next phase of his career and helped define his public identity. After leaving, Clapton joined John Mayall & the Bluesbreakers, a move that cemented him as a leading figure in the British blues boom. From there he co-founded Cream, pushing blues into a louder, more improvisational power-trio format that became a blueprint for hard rock and psychedelic-era guitar bands.\n\nClapton's later work spans multiple major chapters of rock history: the roots-rock and Americana leanings of Derek and the Dominos; long-running solo success that blended blues, pop, and adult contemporary songwriting; and collaborations that kept him prominent across changing eras. Across these projects, the through-line is tone and touch — a player who could make a sustained note feel expressive and who often used restraint as a form of intensity.\n\nIn the specific context of the Yardbirds, Clapton's legacy is that he helped establish the band as a serious blues unit before their sound expanded. When Jeff Beck arrived, the band leaned further into fuzz, feedback, and studio experimentation; when Jimmy Page took over later, the sound grew heavier still. Clapton represents the starting point of that journey: the Yardbirds as a razor-sharp British blues band with big ambitions.\n\nClapton's career has been widely recognized, including multiple Rock & Roll Hall of Fame inductions across different projects. But the Yardbirds chapter remains one of his most mythologized because it captures a moment when British rock was still deciding what it would become — club blues, pop charts, psychedelic experimentation, or all of the above.\n\nFor Yardbirds listeners, the most important takeaway is not the mythology but the sound: Clapton's early work with the band is a snapshot of a young guitarist refining a classic blues language at high speed. It is the 'before' picture to the Yardbirds' later experiments, and an essential piece of how the band became a launchpad for multiple directions in rock guitar history.",
+            "HonoursAndMilestones": [
+              "Yardbirds lead guitarist during their early 1963–1965 London R&B ascent.",
+              "Key figure in the British blues boom; later co-founded Cream and built a major solo career.",
+              "Inducted into the Rock & Roll Hall of Fame multiple times (solo and with bands)."
+            ],
+            "FunFacts": [
+              "Clapton's exit after 'For Your Love' is often cited as a blues-purist reaction to the band's pop-chart pivot.",
+              "He is one of the best-known artists associated with the Yardbirds' rotating lead-guitar chair."
+            ],
+            "Sources": [
+              {
+                "Title": "The Yardbirds — Inducted 1992 (member list includes Eric Clapton)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/yardbirds/"
+              },
+              {
+                "Title": "Eric Clapton — biography and career overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Eric_Clapton"
+              },
+              {
+                "Title": "The Yardbirds — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Yardbirds"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jeff Beck",
+          "YearsActive": "1965–1966",
+          "Roles": "Lead guitarist",
+          "Instruments": "Guitar",
+          "Albums": [
+            {
+              "Title": "For Your Love",
+              "Year": 1965
+            },
+            {
+              "Title": "Having a Rave Up with the Yardbirds",
+              "Year": 1965
+            },
+            {
+              "Title": "The Yardbirds (Roger the Engineer)",
+              "Year": 1966
+            }
+          ],
+          "Bio": {
+            "BioID": "the-yardbirds-geoffrey-arnold-beck",
+            "ArtistID": "the-yardbirds",
+            "FullName": "Geoffrey Arnold Beck",
+            "Birth": {
+              "Date": "1944-06-24",
+              "Place": "Wallington, London, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Lead guitarist; composer; bandleader",
+            "Instruments": "Guitar",
+            "FullText": "Jeff Beck replaced Eric Clapton in the Yardbirds in 1965 and immediately pushed the band into a more radical sonic world. Where Clapton's approach emphasized traditional electric-blues phrasing, Beck treated the guitar as a laboratory. He leaned into distortion, sustain, feedback, and emerging effects to create tones that felt futuristic for the time, helping the Yardbirds become one of the most innovative singles bands of the mid-1960s.\n\nWith Beck onboard, the Yardbirds' recordings developed a sharper edge and a wider palette. Tracks from his era helped define the band’s shift from club R&B toward psychedelia and proto-hard rock, and his playing turned the guitar chair into the group's most talked-about feature. Beck’s work with the Yardbirds is often remembered not just for speed or volume, but for the way he used texture — jagged attacks, glassy harmonics, and controlled chaos — to make a three-minute single feel expansive.\n\nBeck's Yardbirds tenure was intense and relatively brief, but it set the template for his reputation: restless, inventive, and unwilling to repeat himself. After leaving, he formed the Jeff Beck Group, a project that further blurred the lines between blues, rock, and emerging heavy styles and helped launch other major careers. Over time, Beck became known as a musician’s musician, equally comfortable with hard rock power, instrumental virtuosity, and later explorations that moved toward jazz fusion and beyond.\n\nUnlike many guitar stars of his generation, Beck often avoided a fixed band identity and instead treated his career as a sequence of sound studies. His instrumental albums and collaborative projects highlighted phrasing, dynamics, and touch as much as riffs, and his use of the Stratocaster’s vibrato bar and volume controls became part of his signature language. That approach helped make him a reference point for players who cared less about flash and more about the fine-grained mechanics of expression.\n\nThe Yardbirds remain one of the clearest entry points to Beck’s early brilliance: a band built on transformation, perfectly matched to a guitarist who treated change as the entire point. In the Clapton-to-Beck transition, you can hear rock guitar’s center of gravity move — from reverent blues recreation toward a more aggressive, experimental, studio-aware future.\n\nBeck was widely honored across his career, including multiple Grammy Awards and Rock & Roll Hall of Fame recognition (both with the Yardbirds and separately). He died in January 2023 at age 78 after suddenly contracting bacterial meningitis. The news prompted tributes that emphasized not only his influence, but the particular kind of influence he had: the player other great players pointed to when they talked about innovation.",
+            "HonoursAndMilestones": [
+              "Yardbirds lead guitarist during the pivotal 1965–1966 era of feedback, fuzz, and studio experimentation.",
+              "Built a landmark post-Yardbirds career spanning blues-rock, hard rock, and jazz fusion; known for instrumental innovation.",
+              "Inducted into the Rock & Roll Hall of Fame as a Yardbirds member (1992) and honored widely as a guitar innovator."
+            ],
+            "FunFacts": [
+              "Beck’s Yardbirds era is often cited as a turning point where rock guitar moved decisively toward new tones and studio-driven experimentation.",
+              "He was frequently described as a 'guitarist’s guitarist' for his focus on touch, tone, and sonic imagination."
+            ],
+            "Sources": [
+              {
+                "Title": "Jeff Beck, Grammy-winning guitarist, dies at 78",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/jeff-beck-grammy-winning-guitarist-dies-at-78/"
+              },
+              {
+                "Title": "Jeff Beck, guitar god who influenced generations, dies at 78",
+                "Publisher": "Associated Press",
+                "Url": "https://apnews.com/article/6fafc82a3f8fe8e27d6f6e39a215e28d"
+              },
+              {
+                "Title": "The Yardbirds — Inducted 1992 (member list includes Jeff Beck)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/yardbirds/"
+              }
+            ],
+            "Death": {
+              "Date": "2023-01-10",
+              "Place": "England, United Kingdom"
+            }
+          }
+        },
+        {
+          "Name": "Jimmy Page",
+          "YearsActive": "1966–1968",
+          "Roles": "Guitarist; bassist; producer",
+          "Instruments": "Guitar; bass",
+          "Albums": [
+            {
+              "Title": "The Yardbirds (Roger the Engineer)",
+              "Year": 1966
+            },
+            {
+              "Title": "Little Games",
+              "Year": 1967
+            }
+          ],
+          "Bio": {
+            "BioID": "the-yardbirds-jimmy-page",
+            "ArtistID": "the-yardbirds",
+            "FullName": "Jimmy Page",
+            "Birth": {
+              "Date": "1944-01-09",
+              "Place": "Heston, Middlesex, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Guitarist; bassist; producer; songwriter",
+            "Instruments": "Guitar; bass",
+            "FullText": "Jimmy Page entered the Yardbirds in 1966 at a moment when the band was already famous for reinventing itself. Initially brought in as a bassist to fill sudden lineup gaps, Page quickly became central to the group's late-era identity, moving between bass, rhythm guitar, and lead guitar as needed. That versatility mattered because the Yardbirds were in constant motion — touring hard, adapting their set, and searching for a sound big enough to match the expanding rock venues of the late 1960s.\n\nAs Page's role grew, the Yardbirds' music leaned heavier. The band’s arrangements increasingly emphasized riffs, dynamics, and extended live passages that hinted at the hard-rock future. Page's guitar approach combined tight, driving rhythm work with a willingness to explore texture and volume, and his partnership with the rhythm section helped move the Yardbirds away from their earlier club-era R&B feel toward a larger, more forceful stage sound.\n\nPage's Yardbirds period is also inseparable from what happened next. When the original Yardbirds dissolved in 1968, existing touring commitments still had to be honored. Page assembled a new lineup to fulfill those dates under the Yardbirds name, and that temporary solution quickly turned into a new band with its own identity. Within months, the group became Led Zeppelin, transforming Page from a key late-era Yardbird into one of the defining architects of 1970s hard rock.\n\nLed Zeppelin's scale can make the Yardbirds chapter look like a footnote, but it is better understood as a proving ground. In the Yardbirds, Page learned how to manage a band under pressure, how to shape a set around dramatic peaks, and how to use the studio as an extension of arrangement. The late Yardbirds era was where he began building the combination of riff authority, production control, and stage pacing that would define his later work.\n\nPage's post-Yardbirds career with Led Zeppelin became one of rock's central stories: multi-platinum albums, an image-defining stage show, and a catalogue that fused blues roots with folk, psychedelia, and heavy amplification. But even there, the Yardbirds DNA is visible — the love of blues material, the sense of dynamic build, and the idea that guitar tone can be as expressive as melody.\n\nIn biographies of the British Invasion era, Page often appears as the final piece of the Yardbirds guitar trilogy (Clapton–Beck–Page). What is sometimes missed is that he was not just a guitarist passing through; he was the musician who carried the band into its last, heaviest phase and then redirected its momentum into a new era.\n\nFor listeners, Page’s Yardbirds recordings and late-period performances offer a fascinating 'in-between' snapshot: a great player stepping into an already-mythic band, absorbing its history at speed, and using that experience to build something even larger. It is one of the clearest examples of how a short chapter inside a band can become the hinge of rock history.",
+            "HonoursAndMilestones": [
+              "Joined the Yardbirds in 1966 and became central to their heavier late-era sound.",
+              "Assembled the 'New Yardbirds' to complete touring dates; the project evolved into Led Zeppelin.",
+              "Recognized as a major rock producer and guitarist through Led Zeppelin’s landmark catalog."
+            ],
+            "FunFacts": [
+              "Page initially joined the Yardbirds to cover bass duties during lineup turmoil, then expanded into a major musical role.",
+              "The Yardbirds-to-Led Zeppelin transition is one of the most famous pivots in rock band history."
+            ],
+            "Sources": [
+              {
+                "Title": "Jimmy Page — biography and career overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jimmy_Page"
+              },
+              {
+                "Title": "The Yardbirds — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Yardbirds"
+              },
+              {
+                "Title": "The Yardbirds — Inducted 1992 (member list includes Jimmy Page)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/yardbirds/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Anthony 'Top' Topham",
+          "YearsActive": "1963",
+          "Roles": "Original lead guitarist",
+          "Instruments": "Guitar",
+          "Albums": [],
+          "Overview": "Anthony 'Top' Topham was the Yardbirds’ original lead guitarist in their earliest 1963 lineup. He left before the band’s major recordings and chart breakthrough, but is part of the founding story that connects the Yardbirds to the London R&B club scene."
+        },
+        {
+          "Name": "Michael d'Abo",
+          "YearsActive": "1968",
+          "Roles": "Lead vocalist",
+          "Instruments": "Vocals",
+          "Albums": [
+            {
+              "Title": "Little Games",
+              "Year": 1967
+            }
+          ],
+          "Overview": "Michael d'Abo joined late in the Yardbirds’ run as lead vocalist as the band attempted to stabilize after further lineup changes. His tenure overlaps the group’s final phase before dissolution, as their sound pushed toward heavier rock and the touring commitments that soon fed into the 'New Yardbirds' era."
+        }
+      ]
     },
     {
       "ArtistID": "yazoo",
