@@ -1,873 +1,1465 @@
-{
-  "Artists": [
-    {
-      "ArtistID": "the-cranberries",
-      "Name": "The Cranberries",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+[
+  {
+    "ArtistID": "the-cranberries",
+    "Name": "The Cranberries",
+    "Type": "Band",
+    "Origin": {
+      "City": "Limerick",
+      "Region": "County Limerick",
+      "Country": "Ireland"
     },
-    {
-      "ArtistID": "cream",
-      "Name": "Cream",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "YearsActive": [
+      "1989–2003",
+      "2009–2019"
+    ],
+    "Genres": [
+      "Alternative rock",
+      "Indie rock",
+      "Post-punk",
+      "Pop rock"
+    ],
+    "Labels": [
+      "Island Records",
+      "Mercury Records",
+      "Sanctuary Records",
+      "Cooking Vinyl",
+      "BMG"
+    ],
+    "Overview": "The Cranberries were an Irish rock band formed in Limerick in 1989, best known for pairing shimmering guitars and propulsive rhythms with Dolores O’Riordan’s instantly recognizable voice and melodic instincts. After O’Riordan joined in 1990, the group broke internationally in the early 1990s with songs that balanced intimate, diary-like emotion (“Linger,” “Dreams”) with a bigger, stadium-ready sweep.\n\nTheir second album, *No Need to Argue* (1994), turned that approach into a worldwide peak, with “Zombie” becoming one of the defining rock singles of the decade—an urgent, heavy, and pointed track that expanded the band’s sound without losing its melodic core. Across the 1990s and early 2000s, the band kept evolving—sometimes brighter and pop-leaning, sometimes darker and more abrasive—while remaining grounded in tight songwriting and a distinctive Irish sensibility.\n\nThe Cranberries paused activity in 2003 and reunited in 2009, releasing *Roses* (2012) and *Something Else* (2017). After O’Riordan’s death in 2018, the remaining members completed *In the End* (2019) using vocals and demos she had recorded for the project, and then brought the band to a close.",
+    "NotableAlbums": [
+      {
+        "Title": "Everybody Else Is Doing It, So Why Can't We?",
+        "Year": "1993",
+        "Notes": "The debut that introduced their bright guitar textures and O’Riordan’s vocal style; it contains breakthrough hits like “Linger” and “Dreams”."
+      },
+      {
+        "Title": "No Need to Argue",
+        "Year": "1994",
+        "Notes": "Their best-selling album, led by “Zombie,” and a pivot to a larger, heavier sound while keeping strong melodies front and center."
+      },
+      {
+        "Title": "To the Faithful Departed",
+        "Year": "1996",
+        "Notes": "A more forceful, rock-forward record that pushes the band’s intensity and political edge while still delivering pop-leaning hooks."
+      },
+      {
+        "Title": "Bury the Hatchet",
+        "Year": "1999",
+        "Notes": "A late-’90s reset that blends radio-ready rock with reflective songwriting and helped usher in their reunion-era live staples."
+      },
+      {
+        "Title": "Roses",
+        "Year": "2012",
+        "Notes": "The first full studio album after the reunion, revisiting the band’s classic melodic strengths with a modern, polished production."
+      },
+      {
+        "Title": "In the End",
+        "Year": "2019",
+        "Notes": "A final studio album completed after O’Riordan’s death, built around material she had been working on and released as the band’s closing statement."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Linger",
+        "Year": "1993",
+        "Notes": "A signature early single that helped break the band internationally, built on a tender melody and a gradually swelling arrangement."
+      },
+      {
+        "Title": "Dreams",
+        "Year": "1993",
+        "Notes": "An exuberant, jangly highlight from the debut era—often cited as one of the band’s defining songs."
+      },
+      {
+        "Title": "Zombie",
+        "Year": "1994",
+        "Notes": "A heavier anthem that became their most famous song; its blunt intensity marked a major expansion of their sound."
+      },
+      {
+        "Title": "Ode to My Family",
+        "Year": "1994",
+        "Notes": "A melodic midtempo single from *No Need to Argue* with one of their most recognizable choruses."
+      },
+      {
+        "Title": "Salvation",
+        "Year": "1996",
+        "Notes": "A fast, punk-leaning burst that shows the band at their most urgent and direct."
+      },
+      {
+        "Title": "When You're Gone",
+        "Year": "1996",
+        "Notes": "A late-’90s crossover single that emphasized the band’s pop craft and emotional clarity."
+      },
+      {
+        "Title": "Just My Imagination",
+        "Year": "1999",
+        "Notes": "A bright, hooky return-to-form single that became a staple of their post-’90s catalog."
+      },
+      {
+        "Title": "Animal Instinct",
+        "Year": "1999",
+        "Notes": "A reflective, melodic single that highlights the band’s knack for warm guitars and bittersweet choruses."
+      }
+    ],
+    "Achievements": [
+      {
+        "Year": "1994",
+        "Title": "*No Need to Argue* becomes the band’s best-selling album",
+        "Details": "The album reached massive worldwide sales and anchored the band’s peak era, driven by “Zombie” and other hit singles."
+      },
+      {
+        "Year": "1995",
+        "Title": "“Zombie” wins a major European music award",
+        "Details": "The song’s impact was recognized across Europe during the mid-’90s, reflecting the band’s international reach."
+      },
+      {
+        "Year": "1996",
+        "Title": "Juno Award – Best-Selling Album (*No Need to Argue*)",
+        "Details": "The album won the Juno Award for Best-Selling Album at the 1996 Juno Awards."
+      },
+      {
+        "Year": "2003",
+        "Title": "First major era concludes after a long run of global touring and releases",
+        "Details": "After seven studio albums across the 1990s and early 2000s, the band paused activity before reuniting later."
+      },
+      {
+        "Year": "2012",
+        "Title": "Return with *Roses* after the 2009 reunion",
+        "Details": "The reunion era produced new studio material and a renewed touring cycle."
+      },
+      {
+        "Year": "2019",
+        "Title": "Release of *In the End* and retirement of the band",
+        "Details": "The final album was completed from O’Riordan’s demos and vocals, after which the band ended the project."
+      }
+    ],
+    "KeyFacts": [
+      "The band formed in Limerick in 1989 with Noel Hogan, Mike Hogan, Fergal Lawler, and original singer Niall Quinn; Dolores O’Riordan joined in 1990.",
+      "They first rose to global prominence in the early 1990s with melodic rock singles that became staples of alternative radio.",
+      "“Zombie” became their most widely known song and is closely associated with the band’s mid-’90s peak.",
+      "The group paused in 2003 and reunited in 2009, later releasing *Roses* (2012) and *Something Else* (2017).",
+      "Dolores O’Riordan died in 2018; the remaining members chose not to replace her and instead finished one final album built from her recorded demos.",
+      "*In the End* (2019) was released as the band’s final studio album and closing chapter.",
+      "The Cranberries’ sound often paired bright, chiming guitars with strong pop melodies and emotional lyric writing.",
+      "Their catalog spans intimate love songs, family-themed reflections, and harder-edged political material."
+    ],
+    "ExternalLinks": {
+      "Official Site": "https://www.cranberries.com/",
+      "Wikipedia": "https://en.wikipedia.org/wiki/The_Cranberries",
+      "Discography": "https://en.wikipedia.org/wiki/The_Cranberries_discography",
+      "Spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9",
+      "YouTube": "https://www.youtube.com/channel/UC9eF7SmVflGq6IV6pb0xsmg"
     },
-    {
-      "ArtistID": "creed",
-      "Name": "Creed",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "creedence-clearwater-revival",
-      "Name": "Creedence Clearwater Revival",
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "crosby-stills-and-nash",
-      "Name": "Crosby, Stills & Nash",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "crosby-stills-nash-young",
-      "Name": "Crosby, Stills, Nash & Young",
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "crowded-house",
-      "Name": "Crowded House",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "the-cult",
-      "Name": "The Cult",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "culture-club",
-      "Name": "Culture Club",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "the-cure",
-      "Name": "The Cure",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "cutting-crew",
-      "Name": "Cutting Crew",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "damn-yankees",
-      "Name": "Damn Yankees",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "daughtry",
-      "Name": "Daughtry",
-      "Type": "Band",
-      "Origin": {
-        "City": "McLeansville",
-        "Region": "North Carolina",
-        "Country": "United States"
-      },
-      "YearsActive": [
-        "2006–present"
-      ],
-      "Genres": [
-        "Post-grunge",
-        "Hard rock"
-      ],
-      "Labels": [
-        "RCA",
-        "19",
-        "Dogtree",
-        "Alternative Distribution Alliance",
-        "Big Machine"
-      ],
-      "Overview": "Daughtry is a U.S. rock band formed in 2006 and fronted by vocalist and guitarist Chris Daughtry, who became widely known after finishing fourth on the fifth season of *American Idol*. Built around big, hook-driven choruses and a polished post‑grunge/hard‑rock sound, the project broke fast: the self‑titled debut album arrived in late 2006 and quickly turned into a mainstream rock staple, crossing over to pop audiences while staying anchored in radio-friendly guitars and emotionally direct songwriting.\n\nThe band’s early run produced a string of widely recognized singles, including “It’s Not Over” and “Home,” and established Daughtry as one of the most commercially successful rock debuts of the SoundScan era. Across subsequent releases—*Leave This Town*, *Break the Spell*, *Baptized*, *Cage to Rattle*, and *Dearly Beloved*—the group continued to balance arena-sized riffs with melodic, mid-tempo storytelling, evolving their production from glossy modern rock toward heavier, darker textures in later-era material while remaining defined by Chris Daughtry’s powerhouse vocal delivery.",
-      "NotableAlbums": [
-        {
-          "Title": "Daughtry",
-          "Year": "2006",
-          "Notes": "The breakout self‑titled debut that pushed the band into the rock mainstream, reaching No. 1 on the Billboard 200 and becoming a long-running catalog staple."
-        },
-        {
-          "Title": "Leave This Town",
-          "Year": "2009",
-          "Notes": "A bigger, more polished follow‑up that leaned into anthemic choruses and radio-rock momentum, reinforcing the band’s crossover appeal."
-        },
-        {
-          "Title": "Break the Spell",
-          "Year": "2011",
-          "Notes": "A punchier, riff-forward set that kept the band in modern rock rotation while sharpening the contrast between aggressive verses and soaring hooks."
-        },
-        {
-          "Title": "Baptized",
-          "Year": "2013",
-          "Notes": "A more open, melodic album that broadened the palette with pop-leaning textures while keeping the core Daughtry vocal-and-guitar center intact."
-        },
-        {
-          "Title": "Cage to Rattle",
-          "Year": "2018",
-          "Notes": "A late‑career pivot toward heavier sonics and contemporary production, emphasizing grit, urgency, and a more hard-edged attack."
-        },
-        {
-          "Title": "Dearly Beloved",
-          "Year": "2021",
-          "Notes": "A reflective, emotionally charged record that balances weight and melody, framed by themes of loss, resilience, and recalibration."
-        }
-      ],
-      "SignatureSongs": [
-        {
-          "Title": "It’s Not Over",
-          "Year": "2006",
-          "Notes": "The breakthrough single that announced the band’s arena-ready sound: tight guitars, a huge chorus, and a vocal performance built for modern rock radio."
-        },
-        {
-          "Title": "Home",
-          "Year": "2007",
-          "Notes": "A widescreen ballad that crossed formats, pairing restrained verses with a lift-the-roof chorus and becoming one of the band’s defining hits."
-        },
-        {
-          "Title": "Over You",
-          "Year": "2006",
-          "Notes": "A post‑breakup rocker with sharp dynamics—controlled tension in the verses, release in the chorus—showcasing the band’s knack for emotional punch."
-        },
-        {
-          "Title": "What About Now",
-          "Year": "2008",
-          "Notes": "A cleanly built mid‑tempo anthem that highlights the band’s pop-rock crossover instincts and Chris Daughtry’s expressive phrasing."
-        }
-      ],
-      "Achievements": [
-        {
-          "Year": "2007",
-          "Title": "No. 1 best‑selling album of the year (Billboard)",
-          "Details": "The self‑titled debut became Billboard’s best‑selling album of 2007, a rare outcome for a modern rock release and a marker of true mass‑market reach."
-        },
-        {
-          "Year": "2007",
-          "Title": "Debut album hits No. 1 on the Billboard 200",
-          "Details": "After arriving in late 2006, *Daughtry* climbed to the top of the Billboard 200 and stayed a consistent high seller, cementing the band’s mainstream position."
-        },
-        {
-          "Year": "2019",
-          "Title": "RIAA multi‑platinum milestone for *Daughtry*",
-          "Details": "The debut album achieved a 6× Platinum certification in the U.S., reflecting enduring catalog demand well beyond its initial hit cycle."
-        },
-        {
-          "Year": "2006–present",
-          "Title": "Sustained modern rock radio presence",
-          "Details": "Across multiple album eras, Daughtry maintained high rotation with a catalog of singles that kept the band visible across both rock and adult-contemporary lanes."
-        }
-      ],
-      "KeyFacts": [
-        "Formed in 2006 and fronted by Chris Daughtry, who rose to national attention on *American Idol* (season 5).",
-        "Origin: McLeansville, North Carolina, United States.",
-        "Debut album *Daughtry* (released in 2006) reached No. 1 on the Billboard 200 and later became 6× Platinum (U.S.).",
-        "Known for a polished post‑grunge/hard‑rock sound built around big choruses and Chris Daughtry’s lead vocal.",
-        "Current lineup includes Chris Daughtry, Brian Craddock, and Elvio Fernandes, with later-era touring/recording support on bass and drums."
-      ],
-      "ExternalLinks": {
-        "Official Site": "https://daughtryofficial.com/",
-        "Wikipedia": "https://en.wikipedia.org/wiki/Daughtry_(band)",
-        "Discography": "https://en.wikipedia.org/wiki/Daughtry_discography"
-      },
-      "CoreMembers": [
-        {
-          "Name": "Chris Daughtry",
-          "Roles": [
-            "lead vocals",
-            "rhythm guitar",
-            "songwriting"
-          ],
-          "Years": "2006–present",
-          "Overview": "Founder and frontman whose powerhouse vocal and radio-ready songwriting define Daughtry’s sound and mainstream crossover.",
-          "Bio": {
-            "BioID": "bio-daughtry-chris-daughtry",
-            "ArtistID": "daughtry",
-            "ArtistName": "Daughtry",
-            "MemberName": "Chris Daughtry",
-            "FullName": "Christopher Adam Daughtry",
-            "PrimaryInstruments": [
-              "Vocals",
-              "Guitar"
-            ],
-            "Occupations": [
-              "Singer",
-              "Songwriter",
-              "Musician"
-            ],
-            "Genres": [
-              "Post-grunge",
-              "Hard rock",
-              "Rock"
-            ],
-            "Birth": {
-              "Date": "1979-12-26",
-              "Place": "Roanoke Rapids, North Carolina, U.S."
-            },
-            "ActiveYears": [
-              "2006–present"
-            ],
-            "AssociatedActs": [
-              "Daughtry",
-              "Absent Element"
-            ],
-            "KeyAlbums": [
-              "Daughtry",
-              "Leave This Town",
-              "Break the Spell",
-              "Baptized",
-              "Cage to Rattle",
-              "Dearly Beloved"
-            ],
-            "KeySongs": [
-              "It’s Not Over",
-              "Home",
-              "Over You",
-              "What About Now"
-            ],
-            "Achievements": [
-              "Rose from a nationally televised breakthrough to lead one of the best-selling rock debuts of the SoundScan era.",
-              "Anchored multiple album cycles that kept Daughtry a consistent presence on modern rock and mainstream radio.",
-              "Established a signature vocal style—high-intensity, melodic, and emotionally direct—that became the band’s calling card."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://daughtryofficial.com/",
-              "Wikipedia": "https://en.wikipedia.org/wiki/Chris_Daughtry"
-            },
-            "Biography": "Christopher Adam Daughtry emerged into the public eye in 2006 as a standout rocker on the fifth season of *American Idol*, where his gritty tone and big-stage delivery made him one of the season’s defining personalities.\n\nInstead of treating that visibility as a one-off moment, he used it as a launchpad: within months he formed Daughtry, building a band identity around modern hard rock hooks, clean production, and choruses designed to fill arenas.\n\nHis role from the beginning has been both vocalist and architect—setting the emotional temperature of the songs, shaping the melodic approach, and steering arrangements toward clarity and impact.\n\nThe early material paired tight guitar riffs with a pop-trained sense of structure, which helped the band cross formats: “It’s Not Over” and “Home” weren’t just rock hits—they became broad, mass-audience staples.\n\nAs the catalog expanded, Daughtry’s songwriting lean stayed consistent: direct language, high-stakes feeling, and a balance between vulnerability and defiance, often delivered with a controlled rasp that can turn tender lines into something urgent.\n\nAcross later records, he pushed the project into heavier textures at times—more aggressive guitars and darker production—without losing the core appeal: the moment the chorus arrives, it’s meant to land hard and stick.\n\nOn stage, he remains the band’s center of gravity, using dynamics—quiet restraint into full-throttle belts—to make the songs feel like mini narratives rather than purely technical performances.\n\nHe also stands as the clearest through-line across lineup changes and era shifts, maintaining the band’s identity while surrounding it with players who can execute the sound at a professional, tour-ready level.\n\nTaken together, Chris Daughtry’s impact is less about a single hit and more about longevity: a frontman who translated a TV-era introduction into a durable modern rock career built on melody, muscle, and relentless chorus craft."
+    "CoreMembers": [
+      {
+        "Name": "Dolores O’Riordan",
+        "Roles": [
+          "Lead vocals",
+          "Songwriter"
+        ],
+        "Years": "1990–2018",
+        "YearsActive": "1990–2018",
+        "Instruments": [
+          "Vocals"
+        ],
+        "Albums": [
+          {
+            "Title": "Everybody Else Is Doing It, So Why Can't We?",
+            "Year": "1993"
+          },
+          {
+            "Title": "No Need to Argue",
+            "Year": "1994"
+          },
+          {
+            "Title": "To the Faithful Departed",
+            "Year": "1996"
+          },
+          {
+            "Title": "Bury the Hatchet",
+            "Year": "1999"
+          },
+          {
+            "Title": "Wake Up and Smell the Coffee",
+            "Year": "2001"
+          },
+          {
+            "Title": "Roses",
+            "Year": "2012"
+          },
+          {
+            "Title": "Something Else",
+            "Year": "2017"
+          },
+          {
+            "Title": "In the End",
+            "Year": "2019"
           }
-        },
-        {
-          "Name": "Brian Craddock",
-          "Roles": [
-            "lead guitar",
-            "backing vocals"
+        ],
+        "Overview": "Lead singer and primary vocal identity of The Cranberries, known for a voice that could shift from delicate warmth to fierce, percussive intensity.",
+        "Bio": {
+          "BioID": "the-cranberries-dolores-oriordan",
+          "ArtistID": "the-cranberries",
+          "ArtistName": "The Cranberries",
+          "MemberName": "Dolores O’Riordan",
+          "FullName": "Dolores Mary Eileen O’Riordan",
+          "Birth": {
+            "Date": "1971-09-06",
+            "Place": "Ballybricken, County Limerick, Ireland"
+          },
+          "Death": {
+            "Date": "2018-01-15",
+            "Place": "London, England",
+            "Cause": "Accidental drowning in a bathtub due to alcohol intoxication (inquest finding)."
+          },
+          "ActiveYears": [
+            "1990–2018"
           ],
-          "Years": "2007–present",
-          "Overview": "Long-running lead guitarist whose melodic leads and tight rhythm work help define the band’s polished, radio-friendly rock sound.",
-          "Bio": {
-            "BioID": "bio-daughtry-brian-craddock",
-            "ArtistID": "daughtry",
-            "ArtistName": "Daughtry",
-            "MemberName": "Brian Craddock",
-            "FullName": "Brian Craddock",
-            "PrimaryInstruments": [
-              "Guitar",
-              "Vocals"
-            ],
-            "Occupations": [
-              "Guitarist",
-              "Musician"
-            ],
-            "Genres": [
-              "Post-grunge",
-              "Hard rock",
-              "Rock"
-            ],
-            "Birth": {
-              "Date": "",
-              "Place": ""
-            },
-            "ActiveYears": [
-              "2007–present"
-            ],
-            "AssociatedActs": [
-              "Daughtry"
-            ],
-            "KeyAlbums": [
-              "Leave This Town",
-              "Break the Spell",
-              "Baptized",
-              "Cage to Rattle",
-              "Dearly Beloved"
-            ],
-            "KeySongs": [
-              "It’s Not Over",
-              "Home",
-              "Over You",
-              "What About Now"
-            ],
-            "Achievements": [
-              "Became the band’s core lead-guitar voice after joining early in the group’s rise.",
-              "Helped translate hook-heavy songwriting into a consistent live sound built for arenas and large festival stages.",
-              "Maintained the band’s signature blend of tight rhythm parts and melodic lead lines across multiple lineup eras."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://daughtryofficial.com/"
-            },
-            "Biography": "Brian Craddock joined Daughtry during the band’s first major wave, stepping into the lead-guitar chair as the group’s songs were becoming staples of modern rock radio.\n\nHis job inside the sound is precision: rhythm parts that lock with the drums and bass, and lead lines that feel singable—melodic enough to remember, but tight enough to serve the chorus.\n\nIn the Daughtry style, guitars are rarely decorative; they’re structural. Craddock’s playing supports that approach, helping songs move cleanly from verse tension to chorus lift without clutter.\n\nLive, that discipline matters even more. The band’s best-known tracks are built for big rooms, and Craddock’s consistency helps keep the hooks intact night after night.\n\nHe also contributes to the band’s layered vocal approach through backing vocals, reinforcing the choruses with additional weight and width.\n\nAcross the band’s middle-era albums, the guitar sound sits at the center of the identity—polished, present, and forceful—balancing pop clarity with hard-rock punch.\n\nAs the group explored heavier textures later on, the same core strength carried through: riffs that hit with authority, and leads that add color without pulling focus from the vocal line.\n\nThat balance—muscle plus melody—is what allows Daughtry to cross formats, and Craddock’s playing is a major reason the band can keep that line steady.\n\nIn short, his role is less about flashy virtuosity and more about delivering the band’s signature guitar language: clean, melodic, and built to make choruses feel inevitable."
-          }
-        },
-        {
-          "Name": "Elvio Fernandes",
-          "Roles": [
-            "keyboards",
-            "programming",
-            "backing vocals"
+          "Occupations": [
+            "Singer",
+            "Songwriter",
+            "Musician"
           ],
-          "Years": "2012–present",
-          "Overview": "Keyboardist and vocalist who adds harmonic depth and modern textures, expanding the band’s palette without sacrificing its guitar-driven core.",
-          "Bio": {
-            "BioID": "bio-daughtry-elvio-fernandes",
-            "ArtistID": "daughtry",
-            "ArtistName": "Daughtry",
-            "MemberName": "Elvio Fernandes",
-            "FullName": "Elvio Fernandes",
-            "PrimaryInstruments": [
-              "Keyboards",
-              "Vocals"
-            ],
-            "Occupations": [
-              "Keyboardist",
-              "Vocalist",
-              "Musician"
-            ],
-            "Genres": [
-              "Rock",
-              "Hard rock",
-              "Post-grunge"
-            ],
-            "Birth": {
-              "Date": "",
-              "Place": ""
+          "PrimaryInstruments": [
+            "Vocals"
+          ],
+          "Genres": [
+            "Alternative rock",
+            "Indie rock",
+            "Pop rock"
+          ],
+          "AssociatedActs": [
+            "The Cranberries"
+          ],
+          "KeyAlbums": [
+            "No Need to Argue (1994)",
+            "Everybody Else Is Doing It, So Why Can't We? (1993)",
+            "To the Faithful Departed (1996)"
+          ],
+          "KeySongs": [
+            "Linger",
+            "Dreams",
+            "Zombie",
+            "Ode to My Family"
+          ],
+          "Achievements": [
+            "Fronted The Cranberries through their global breakthrough in the 1990s.",
+            "Sang and co-wrote (with the band) multiple international hit singles including “Linger,” “Dreams,” and “Zombie.”"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Dolores_O%27Riordan",
+            "Official Site": "https://www.cranberries.com/"
+          },
+          "Biography": "Dolores Mary Eileen O’Riordan (6 September 1971 – 15 January 2018) was an Irish singer and songwriter whose voice became the signature of The Cranberries. Raised in County Limerick, she grew up immersed in music and developed a style that could be intimate and tender one moment, then fiercely percussive the next.\n\nIn 1990, she joined a young Limerick band then known locally as The Cranberry Saw Us. Her arrival reshaped the group’s identity: her melodic sense and distinctive vocal delivery helped define the sound that would carry the band from local gigs to international radio within a few years.\n\nO’Riordan’s writing and performances anchored the band’s early breakthrough. Songs like “Linger” and “Dreams” paired bright guitar textures with emotionally direct lyrics, and her phrasing—often mixing softness with sudden grit—made the band instantly recognizable even in a crowded early-’90s alternative scene.\n\nWith the release of *No Need to Argue* in 1994, she fronted the group through its widest global reach. “Zombie” in particular showcased a heavier, more confrontational side, proving the band could expand beyond jangle-pop and ballads while keeping its melodic core intact.\n\nAcross the rest of the 1990s and early 2000s, O’Riordan stayed at the center of the band’s evolution, whether on harder-edged rock tracks or more reflective, family- and memory-themed material. Live, she was known for switching from breathy intimacy to sharp, rhythmic vocal attacks that cut through loud guitars and big rooms.\n\nOutside The Cranberries, she also released solo work and collaborated with other artists, but her defining musical identity remained tied to the band’s catalog and the particular way her voice carried its melodies. Even when the group experimented with different textures, her presence kept the songs grounded and unmistakably theirs.\n\nAfter the band paused in 2003, O’Riordan reunited with the group in 2009. The reunion era led to *Roses* (2012) and *Something Else* (2017), with the band returning to a polished, melodic approach while continuing to tour to an audience that had never let the early hits go.\n\nOn 15 January 2018, O’Riordan died in London. An inquest later concluded that she died by accidental drowning in a bathtub due to alcohol intoxication, with no evidence of self-harm—an abrupt loss that ended any possibility of a fully new era for the band.\n\nAfter her death, the remaining members chose not to replace her. Instead, they completed one final Cranberries album, *In the End* (2019), built around vocals and demos she had recorded for the project—an ending that functioned as both tribute and closure, and a reminder of how central her voice was to the band’s story.",
+          "Sources": [
+            {
+              "Title": "Dolores O’Riordan – Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Dolores_O%27Riordan"
             },
-            "ActiveYears": [
-              "2012–present"
-            ],
-            "AssociatedActs": [
-              "Daughtry"
-            ],
-            "KeyAlbums": [
-              "Baptized",
-              "Cage to Rattle",
-              "Dearly Beloved"
-            ],
-            "KeySongs": [
-              "Home",
-              "What About Now",
-              "Over You",
-              "It’s Not Over"
-            ],
-            "Achievements": [
-              "Joined the band to broaden its sonic toolkit, adding keyboards and vocal layers tailored to modern rock production.",
-              "Helped the group evolve into a more textured live and studio act, reinforcing harmony stacks and atmospheric elements.",
-              "Brought a musical background rooted in songwriting and arrangement into a role that blends performance with sound design."
-            ],
-            "ExternalLinks": {
-              "Official Site": "https://daughtryofficial.com/"
+            {
+              "Title": "The Cranberries – Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/The_Cranberries"
             },
-            "Biography": "Elvio Fernandes joined Daughtry in 2012, adding keyboards and backing vocals to a band already defined by guitar heft and big, radio-ready choruses.\n\nHis presence isn’t about replacing the core identity—it’s about expanding it. Keys and programming can widen the emotional frame of a chorus, deepen a bridge, or add tension under a verse.\n\nIn modern rock, those textures are often the difference between a track that sounds merely loud and one that sounds cinematic, and Fernandes’ role is to bring that dimension in a controlled, musical way.\n\nLive, keyboards also help translate studio polish to the stage: pads, piano parts, and subtle sound-design elements that make the songs feel complete without overloading the mix.\n\nAs a backing vocalist, he supports the band’s stacked-chorus approach, reinforcing the lift that’s central to the Daughtry blueprint.\n\nHis musical background includes songwriting and arrangement work, which fits naturally with a role that often sits at the intersection of performance and production.\n\nAcross the later albums, as the band explored heavier and darker colors, the keyboard layer became a flexible tool—sometimes adding sheen, sometimes adding grit, sometimes simply making the hook feel larger.\n\nThat adaptability is crucial in a band that wants to evolve without confusing its audience: the guitars stay central, the vocals stay dominant, and the keys quietly shape the atmosphere around them.\n\nIn short, Fernandes helps Daughtry sound bigger than a basic rock lineup, bringing harmonic depth and modern texture while staying in service of the song’s main event: the chorus."
-          }
+            {
+              "Title": "Pitchfork: ‘All Over Now’ / In the End (band disband after final album)",
+              "Url": "https://pitchfork.com/news/the-cranberries-share-new-animated-video-for-all-over-now-watch/"
+            }
+          ]
         }
-      ],
-      "NonCoreMembers": [
-        {
-          "Name": "Josh Steely",
-          "Roles": [
-            "guitar"
+      },
+      {
+        "Name": "Noel Hogan",
+        "Roles": [
+          "Guitar",
+          "Songwriting",
+          "Arrangements"
+        ],
+        "Years": "1989–2019",
+        "YearsActive": "1989–2019",
+        "Instruments": [
+          "Guitar"
+        ],
+        "Albums": [
+          {
+            "Title": "Everybody Else Is Doing It, So Why Can't We?",
+            "Year": "1993"
+          },
+          {
+            "Title": "No Need to Argue",
+            "Year": "1994"
+          },
+          {
+            "Title": "To the Faithful Departed",
+            "Year": "1996"
+          },
+          {
+            "Title": "Bury the Hatchet",
+            "Year": "1999"
+          },
+          {
+            "Title": "Wake Up and Smell the Coffee",
+            "Year": "2001"
+          },
+          {
+            "Title": "Roses",
+            "Year": "2012"
+          },
+          {
+            "Title": "Something Else",
+            "Year": "2017"
+          },
+          {
+            "Title": "In the End",
+            "Year": "2019"
+          }
+        ],
+        "Overview": "Founding guitarist and key writer/arranger, recognized for clean, chiming guitar textures and economical melodic parts.",
+        "Bio": {
+          "BioID": "the-cranberries-noel-hogan",
+          "ArtistID": "the-cranberries",
+          "ArtistName": "The Cranberries",
+          "MemberName": "Noel Hogan",
+          "FullName": "Noel Anthony Hogan",
+          "Birth": {
+            "Date": "1971-12-25",
+            "Place": "Limerick, Ireland"
+          },
+          "ActiveYears": [
+            "1989–2019"
           ],
-          "Years": "2006–2016 (various eras)",
-          "Instruments": [
+          "Occupations": [
+            "Guitarist",
+            "Songwriter",
+            "Musician"
+          ],
+          "PrimaryInstruments": [
             "Guitar"
           ],
-          "Albums": [
-            "Daughtry",
-            "Leave This Town",
-            "Break the Spell"
+          "Genres": [
+            "Alternative rock",
+            "Indie rock"
           ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "An early-era guitarist associated with the band’s initial rise, contributing to the touring and performance lineup as the first albums established the Daughtry sound."
-        },
-        {
-          "Name": "Josh Paul",
-          "Roles": [
-            "bass"
+          "AssociatedActs": [
+            "The Cranberries"
           ],
-          "Years": "2006–2012",
-          "Instruments": [
+          "KeyAlbums": [
+            "No Need to Argue (1994)",
+            "Everybody Else Is Doing It, So Why Can't We? (1993)",
+            "In the End (2019)"
+          ],
+          "KeySongs": [
+            "Linger",
+            "Dreams",
+            "Zombie"
+          ],
+          "Achievements": [
+            "Co-founded The Cranberries in 1989 and served as the band’s lead guitarist and a key writer/arranger.",
+            "Helped complete the band’s final album, *In the End* (2019), from material recorded with Dolores O’Riordan."
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Noel_Hogan"
+          },
+          "Biography": "Noel Anthony Hogan (born 25 December 1971) is an Irish guitarist and songwriter, and a founding member of The Cranberries. From the band’s earliest Limerick days, his playing favored clear, chiming lines and carefully voiced chords rather than pure blues-rock flash—an approach that helped the group stand out as alternative rock exploded worldwide.\n\nHogan started the band in 1989 with his brother Mike Hogan and drummer Fergal Lawler. In the beginning they performed locally with singer Niall Quinn, and when Dolores O’Riordan joined in 1990, Hogan’s guitar writing became a key partner to her melodies, shaping arrangements that left room for her voice to carry both softness and bite.\n\nOn the early breakthrough recordings, his parts often act like a second hook: bright arpeggios, clean riffs, and subtle melodic counterlines that keep the songs moving even when the rhythm section stays restrained. That balance is a big reason tracks like “Linger” and “Dreams” feel both radio-friendly and unmistakably their own.\n\nAs the band grew, Hogan proved equally comfortable with heavier textures. The dense, driving guitars on “Zombie” helped define the band’s biggest global moment, showing that the group could turn up the volume and aggression without abandoning its melodic instincts.\n\nThroughout the 1990s and early 2000s, he remained the band’s principal guitarist while also contributing heavily to songwriting and arrangement decisions. Across albums that ranged from reflective pop-rock to more abrasive, political material, his playing stayed focused on economy and mood—serving the song first, and letting a few well-chosen notes do the work.\n\nWhen The Cranberries paused activity in 2003, Hogan continued making music outside the band, exploring side projects and collaborations. That work kept his writing active and broadened the palette he would later bring back to the group in its reunion era.\n\nAfter the band reunited in 2009, Hogan helped steer *Roses* (2012) and *Something Else* (2017), albums that revisited the band’s classic melodic strengths while reflecting the realities of a mature, long-running group. His guitar tone—clear, layered, and often deceptively simple—remained central to the band’s identity on stage and in the studio.\n\nIn the wake of Dolores O’Riordan’s death in 2018, Hogan and the remaining members chose not to continue The Cranberries with a new singer. Instead, they worked to complete *In the End* (2019) from material O’Riordan had recorded, aiming to finish the songs as faithfully as possible rather than reimagining the band without its voice.\n\nHogan’s legacy in the band is the sound of *space*: arrangements that breathe, guitars that shimmer without clutter, and a songwriter’s discipline that supports big choruses and quiet verses alike. For many listeners, his playing is as much a fingerprint of The Cranberries as the vocals it frames.",
+          "Sources": [
+            {
+              "Title": "Noel Hogan – Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Noel_Hogan"
+            },
+            {
+              "Title": "The Cranberries – Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/The_Cranberries"
+            },
+            {
+              "Title": "Pitchfork: ‘All Over Now’ / In the End (band disband after final album)",
+              "Url": "https://pitchfork.com/news/the-cranberries-share-new-animated-video-for-all-over-now-watch/"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Mike Hogan",
+        "Roles": [
+          "Bass"
+        ],
+        "Years": "1989–2019",
+        "YearsActive": "1989–2019",
+        "Instruments": [
+          "Bass"
+        ],
+        "Albums": [
+          {
+            "Title": "Everybody Else Is Doing It, So Why Can't We?",
+            "Year": "1993"
+          },
+          {
+            "Title": "No Need to Argue",
+            "Year": "1994"
+          },
+          {
+            "Title": "To the Faithful Departed",
+            "Year": "1996"
+          },
+          {
+            "Title": "Bury the Hatchet",
+            "Year": "1999"
+          },
+          {
+            "Title": "Wake Up and Smell the Coffee",
+            "Year": "2001"
+          },
+          {
+            "Title": "Roses",
+            "Year": "2012"
+          },
+          {
+            "Title": "Something Else",
+            "Year": "2017"
+          },
+          {
+            "Title": "In the End",
+            "Year": "2019"
+          }
+        ],
+        "Overview": "Founding bassist whose steady, melodic low-end anchored the band’s dynamics from intimate verses to soaring choruses.",
+        "Bio": {
+          "BioID": "the-cranberries-mike-hogan",
+          "ArtistID": "the-cranberries",
+          "ArtistName": "The Cranberries",
+          "MemberName": "Mike Hogan",
+          "FullName": "Mike Hogan",
+          "Birth": {
+            "Year": "1973",
+            "Place": "Limerick, Ireland"
+          },
+          "ActiveYears": [
+            "1989–2019"
+          ],
+          "Occupations": [
+            "Bassist",
+            "Musician"
+          ],
+          "PrimaryInstruments": [
             "Bass"
           ],
-          "Albums": [
-            "Daughtry",
-            "Leave This Town",
-            "Break the Spell"
+          "Genres": [
+            "Alternative rock"
           ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Bassist during the band’s breakthrough and follow-up eras, helping anchor the rhythm section behind the debut’s major hits and the next two studio cycles."
-        },
-        {
-          "Name": "Joey Barnes",
-          "Roles": [
-            "drums"
+          "AssociatedActs": [
+            "The Cranberries"
           ],
-          "Years": "2006–2010",
-          "Instruments": [
+          "KeyAlbums": [
+            "No Need to Argue (1994)",
+            "Everybody Else Is Doing It, So Why Can't We? (1993)",
+            "In the End (2019)"
+          ],
+          "KeySongs": [
+            "Linger",
+            "Zombie"
+          ],
+          "Achievements": [
+            "Co-founded The Cranberries in 1989 and played bass on the band’s studio albums and international tours.",
+            "Returned for the 2009 reunion and participated in the band’s final release era."
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/The_Cranberries"
+          },
+          "Biography": "Mike Hogan is an Irish bassist and a founding member of The Cranberries. As part of the band’s core lineup from the beginning, his bass work helped define the group’s feel: steady, melodic, and designed to lock tightly with the drums while leaving space for guitars and vocals to float above.\n\nFormed in Limerick in 1989, the band’s earliest lineup featured Noel Hogan on guitar, Mike Hogan on bass, and Fergal Lawler on drums. When Dolores O’Riordan joined in 1990, the group’s music snapped into its enduring shape, and Mike’s role became central to the band’s balance of drive and restraint.\n\nOn the early hits, his bass lines often function as quiet anchors—holding the harmony in place while the guitars shimmer and the vocal melody carries the emotional punch. That approach is especially effective in songs that build gradually, where a consistent low-end foundation makes the chorus lift feel bigger without needing showy fills.\n\nAs the band’s catalog expanded, the rhythm section had to shift between very different moods: intimate ballads, bright alternative pop, and heavier rock. Hogan’s playing stayed reliable across those swings, providing the kind of consistent pocket that lets arrangements change on top without the track losing its center.\n\nLive, that consistency matters even more. The Cranberries’ biggest songs depend on dynamics—verses that sit back and choruses that surge—and the bass is the glue that keeps those transitions clean. Hogan’s stage role was to keep the bottom end solid and musical, so the band could move between softness and intensity without wobble.\n\nDuring the long 1990s touring years and the run of studio albums through *Wake Up and Smell the Coffee* (2001), he remained a steady presence in a band that was operating at an international scale. Even when the spotlight naturally focused on the singer and the singles, the band’s feel depended on the rhythm section’s discipline.\n\nAfter the group paused activity in 2003 and later reunited in 2009, Hogan returned as part of the original lineup for the reunion era. On *Roses* (2012) and *Something Else* (2017), the band leaned back into melodic songwriting, and his bass continued to provide a clear, supportive foundation rather than competing for attention.\n\nFollowing Dolores O’Riordan’s death in 2018, Hogan and the remaining members chose to complete one final album, *In the End* (2019), using recordings and demos she had made for the project. The decision not to continue afterward underscored how tightly the band’s identity was tied to its classic lineup.\n\nHogan’s contribution to The Cranberries is the sound of steadiness: bass lines that serve the song, keep the groove grounded, and make the band’s dramatic dynamics feel effortless. It’s work that doesn’t chase the spotlight, but it’s essential to why the records hold together.",
+          "Sources": [
+            {
+              "Title": "The Cranberries – Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/The_Cranberries"
+            },
+            {
+              "Title": "Pitchfork: ‘All Over Now’ / In the End (band disband after final album)",
+              "Url": "https://pitchfork.com/news/the-cranberries-share-new-animated-video-for-all-over-now-watch/"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Fergal Lawler",
+        "Roles": [
+          "Drums"
+        ],
+        "Years": "1989–2019",
+        "YearsActive": "1989–2019",
+        "Instruments": [
+          "Drums"
+        ],
+        "Albums": [
+          {
+            "Title": "Everybody Else Is Doing It, So Why Can't We?",
+            "Year": "1993"
+          },
+          {
+            "Title": "No Need to Argue",
+            "Year": "1994"
+          },
+          {
+            "Title": "To the Faithful Departed",
+            "Year": "1996"
+          },
+          {
+            "Title": "Bury the Hatchet",
+            "Year": "1999"
+          },
+          {
+            "Title": "Wake Up and Smell the Coffee",
+            "Year": "2001"
+          },
+          {
+            "Title": "Roses",
+            "Year": "2012"
+          },
+          {
+            "Title": "Something Else",
+            "Year": "2017"
+          },
+          {
+            "Title": "In the End",
+            "Year": "2019"
+          }
+        ],
+        "Overview": "Founding drummer known for controlled, propulsive grooves that keep the band’s melodies clear while giving choruses their impact.",
+        "Bio": {
+          "BioID": "the-cranberries-fergal-lawler",
+          "ArtistID": "the-cranberries",
+          "ArtistName": "The Cranberries",
+          "MemberName": "Fergal Lawler",
+          "FullName": "Fergal Lawler",
+          "Birth": {
+            "Year": "1971",
+            "Place": "Limerick, Ireland"
+          },
+          "ActiveYears": [
+            "1989–2019"
+          ],
+          "Occupations": [
+            "Drummer",
+            "Musician"
+          ],
+          "PrimaryInstruments": [
             "Drums"
           ],
-          "Albums": [
-            "Daughtry",
-            "Leave This Town"
+          "Genres": [
+            "Alternative rock"
           ],
-          "Replacing": "",
-          "ReplacedBy": "Robin Diaz",
-          "Overview": "Original drummer for the early lineup, part of the band’s initial touring identity during the debut and early follow-up period."
-        },
-        {
-          "Name": "Robin Diaz",
-          "Roles": [
-            "drums"
+          "AssociatedActs": [
+            "The Cranberries"
           ],
-          "Years": "2010–2017 (various eras)",
-          "Instruments": [
-            "Drums"
+          "KeyAlbums": [
+            "No Need to Argue (1994)",
+            "Everybody Else Is Doing It, So Why Can't We? (1993)",
+            "In the End (2019)"
           ],
-          "Albums": [
-            "Break the Spell",
-            "Baptized"
+          "KeySongs": [
+            "Zombie",
+            "Linger"
           ],
-          "Replacing": "Joey Barnes",
-          "ReplacedBy": "",
-          "Overview": "Took over drums during the band’s second wave of releases, supporting a heavier, punchier live feel as the catalog expanded beyond the debut era."
-        },
-        {
-          "Name": "Jeremy Brady",
-          "Roles": [
-            "guitar"
+          "Achievements": [
+            "Co-founded The Cranberries in 1989 and remained the band’s drummer through their original run, reunion, and final album.",
+            "Helped complete *In the End* (2019) after Dolores O’Riordan’s death."
           ],
-          "Years": "2006–2007",
-          "Instruments": [
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/The_Cranberries"
+          },
+          "Biography": "Fergal Lawler is an Irish drummer and a founding member of The Cranberries. His drumming is a key part of the band’s signature: controlled, propulsive, and built around clean patterns that support big choruses without overwhelming the melodies.\n\nThe Cranberries formed in Limerick in 1989, with Lawler on drums alongside Noel and Mike Hogan. When Dolores O’Riordan joined in 1990, the group’s sound took its definitive shape, and Lawler’s role became the engine beneath a style that could swing from quiet intimacy to full-force rock.\n\nOn early breakthrough tracks, the drums often feel deceptively simple, but that restraint is the point: steady timekeeping that lets the arrangement breathe. In songs that rise from gentle verses to soaring choruses, the consistency of the groove is what makes the lift feel natural rather than forced.\n\nAs the band moved into heavier territory on *No Need to Argue* and beyond, Lawler’s approach scaled up with it. Tracks like “Zombie” depend on a driving, emphatic beat that has to be both forceful and precise—enough weight to match the guitars, but clean enough to keep the song’s hook in focus.\n\nAcross the band’s 1990s run, the set list demanded range: radio ballads, brighter pop-rock singles, and urgent, punk-leaning bursts. Lawler’s strength was maintaining clarity through those shifts, using tight hi-hat work, straightforward fills, and a consistent backbeat that kept the music direct and accessible.\n\nTouring put that discipline under a microscope. The Cranberries played large venues and festivals where tempos and dynamics have to be reliable night after night. Lawler’s drumming provided the kind of stable framework that makes a band sound bigger than its parts, especially when the vocals and guitars are riding dramatic peaks.\n\nAfter the band paused in 2003 and returned in 2009, Lawler resumed his role in the original lineup. On the reunion-era records and tours, he helped the group reconnect with the rhythmic feel that made the early catalog work, while adjusting to a modern live environment and production approach.\n\nIn the aftermath of Dolores O’Riordan’s death in 2018, Lawler and the remaining members completed *In the End* (2019) from material she had recorded. Their decision to end the band afterward reflected a commitment to the original identity of The Cranberries rather than turning it into a rotating project.\n\nLawler’s legacy in The Cranberries is the sound of momentum with restraint: grooves that keep songs moving, dynamics that make choruses hit hard, and a drummer’s sense of when to push and when to leave space. It’s a style perfectly matched to a band built on melody and emotional contrast.",
+          "Sources": [
+            {
+              "Title": "The Cranberries – Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/The_Cranberries"
+            },
+            {
+              "Title": "Pitchfork: ‘All Over Now’ / In the End (band disband after final album)",
+              "Url": "https://pitchfork.com/news/the-cranberries-share-new-animated-video-for-all-over-now-watch/"
+            }
+          ]
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Niall Quinn",
+        "Roles": [
+          "Lead vocals"
+        ],
+        "Years": "1989–1990",
+        "YearsActive": "1989–1990",
+        "Instruments": [
+          "Vocals"
+        ],
+        "Albums": [],
+        "Overview": "Original lead singer during the band’s earliest Limerick period before Dolores O’Riordan joined in 1990. After stepping aside, he remained part of the band’s origin story rather than its recorded catalog.",
+        "Bio": {
+          "BioID": "the-cranberries-niall-quinn",
+          "ArtistID": "the-cranberries",
+          "ArtistName": "The Cranberries",
+          "MemberName": "Niall Quinn",
+          "FullName": "Niall Quinn",
+          "ActiveYears": [
+            "1989–1990"
+          ],
+          "Occupations": [
+            "Singer"
+          ],
+          "PrimaryInstruments": [
+            "Vocals"
+          ],
+          "AssociatedActs": [
+            "The Cranberries (early lineup)"
+          ],
+          "Biography": "Niall Quinn was the original lead singer of the Limerick band that would become The Cranberries. He sang with the group in its earliest phase (1989–1990) before stepping aside, and the band’s international recording career began after Dolores O’Riordan joined in 1990.",
+          "Sources": [
+            {
+              "Title": "The Cranberries – Wikipedia (early lineup)",
+              "Url": "https://en.wikipedia.org/wiki/The_Cranberries"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "ArtistID": "cream",
+    "Name": "Cream",
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "creed",
+    "Name": "Creed",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "creedence-clearwater-revival",
+    "Name": "Creedence Clearwater Revival",
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "crosby-stills-and-nash",
+    "Name": "Crosby, Stills & Nash",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "crosby-stills-nash-young",
+    "Name": "Crosby, Stills, Nash & Young",
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "crowded-house",
+    "Name": "Crowded House",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "the-cult",
+    "Name": "The Cult",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "culture-club",
+    "Name": "Culture Club",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "the-cure",
+    "Name": "The Cure",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "cutting-crew",
+    "Name": "Cutting Crew",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "damn-yankees",
+    "Name": "Damn Yankees",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "daughtry",
+    "Name": "Daughtry",
+    "Type": "Band",
+    "Origin": {
+      "City": "McLeansville",
+      "Region": "North Carolina",
+      "Country": "United States"
+    },
+    "YearsActive": [
+      "2006–present"
+    ],
+    "Genres": [
+      "Post-grunge",
+      "Hard rock"
+    ],
+    "Labels": [
+      "RCA",
+      "19",
+      "Dogtree",
+      "Alternative Distribution Alliance",
+      "Big Machine"
+    ],
+    "Overview": "Daughtry is a U.S. rock band formed in 2006 and fronted by vocalist and guitarist Chris Daughtry, who became widely known after finishing fourth on the fifth season of *American Idol*. Built around big, hook-driven choruses and a polished post‑grunge/hard‑rock sound, the project broke fast: the self‑titled debut album arrived in late 2006 and quickly turned into a mainstream rock staple, crossing over to pop audiences while staying anchored in radio-friendly guitars and emotionally direct songwriting.\n\nThe band’s early run produced a string of widely recognized singles, including “It’s Not Over” and “Home,” and established Daughtry as one of the most commercially successful rock debuts of the SoundScan era. Across subsequent releases—*Leave This Town*, *Break the Spell*, *Baptized*, *Cage to Rattle*, and *Dearly Beloved*—the group continued to balance arena-sized riffs with melodic, mid-tempo storytelling, evolving their production from glossy modern rock toward heavier, darker textures in later-era material while remaining defined by Chris Daughtry’s powerhouse vocal delivery.",
+    "NotableAlbums": [
+      {
+        "Title": "Daughtry",
+        "Year": "2006",
+        "Notes": "The breakout self‑titled debut that pushed the band into the rock mainstream, reaching No. 1 on the Billboard 200 and becoming a long-running catalog staple."
+      },
+      {
+        "Title": "Leave This Town",
+        "Year": "2009",
+        "Notes": "A bigger, more polished follow‑up that leaned into anthemic choruses and radio-rock momentum, reinforcing the band’s crossover appeal."
+      },
+      {
+        "Title": "Break the Spell",
+        "Year": "2011",
+        "Notes": "A punchier, riff-forward set that kept the band in modern rock rotation while sharpening the contrast between aggressive verses and soaring hooks."
+      },
+      {
+        "Title": "Baptized",
+        "Year": "2013",
+        "Notes": "A more open, melodic album that broadened the palette with pop-leaning textures while keeping the core Daughtry vocal-and-guitar center intact."
+      },
+      {
+        "Title": "Cage to Rattle",
+        "Year": "2018",
+        "Notes": "A late‑career pivot toward heavier sonics and contemporary production, emphasizing grit, urgency, and a more hard-edged attack."
+      },
+      {
+        "Title": "Dearly Beloved",
+        "Year": "2021",
+        "Notes": "A reflective, emotionally charged record that balances weight and melody, framed by themes of loss, resilience, and recalibration."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "It’s Not Over",
+        "Year": "2006",
+        "Notes": "The breakthrough single that announced the band’s arena-ready sound: tight guitars, a huge chorus, and a vocal performance built for modern rock radio."
+      },
+      {
+        "Title": "Home",
+        "Year": "2007",
+        "Notes": "A widescreen ballad that crossed formats, pairing restrained verses with a lift-the-roof chorus and becoming one of the band’s defining hits."
+      },
+      {
+        "Title": "Over You",
+        "Year": "2006",
+        "Notes": "A post‑breakup rocker with sharp dynamics—controlled tension in the verses, release in the chorus—showcasing the band’s knack for emotional punch."
+      },
+      {
+        "Title": "What About Now",
+        "Year": "2008",
+        "Notes": "A cleanly built mid‑tempo anthem that highlights the band’s pop-rock crossover instincts and Chris Daughtry’s expressive phrasing."
+      }
+    ],
+    "Achievements": [
+      {
+        "Year": "2007",
+        "Title": "No. 1 best‑selling album of the year (Billboard)",
+        "Details": "The self‑titled debut became Billboard’s best‑selling album of 2007, a rare outcome for a modern rock release and a marker of true mass‑market reach."
+      },
+      {
+        "Year": "2007",
+        "Title": "Debut album hits No. 1 on the Billboard 200",
+        "Details": "After arriving in late 2006, *Daughtry* climbed to the top of the Billboard 200 and stayed a consistent high seller, cementing the band’s mainstream position."
+      },
+      {
+        "Year": "2019",
+        "Title": "RIAA multi‑platinum milestone for *Daughtry*",
+        "Details": "The debut album achieved a 6× Platinum certification in the U.S., reflecting enduring catalog demand well beyond its initial hit cycle."
+      },
+      {
+        "Year": "2006–present",
+        "Title": "Sustained modern rock radio presence",
+        "Details": "Across multiple album eras, Daughtry maintained high rotation with a catalog of singles that kept the band visible across both rock and adult-contemporary lanes."
+      }
+    ],
+    "KeyFacts": [
+      "Formed in 2006 and fronted by Chris Daughtry, who rose to national attention on *American Idol* (season 5).",
+      "Origin: McLeansville, North Carolina, United States.",
+      "Debut album *Daughtry* (released in 2006) reached No. 1 on the Billboard 200 and later became 6× Platinum (U.S.).",
+      "Known for a polished post‑grunge/hard‑rock sound built around big choruses and Chris Daughtry’s lead vocal.",
+      "Current lineup includes Chris Daughtry, Brian Craddock, and Elvio Fernandes, with later-era touring/recording support on bass and drums."
+    ],
+    "ExternalLinks": {
+      "Official Site": "https://daughtryofficial.com/",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Daughtry_(band)",
+      "Discography": "https://en.wikipedia.org/wiki/Daughtry_discography"
+    },
+    "CoreMembers": [
+      {
+        "Name": "Chris Daughtry",
+        "Roles": [
+          "lead vocals",
+          "rhythm guitar",
+          "songwriting"
+        ],
+        "Years": "2006–present",
+        "Overview": "Founder and frontman whose powerhouse vocal and radio-ready songwriting define Daughtry’s sound and mainstream crossover.",
+        "Bio": {
+          "BioID": "bio-daughtry-chris-daughtry",
+          "ArtistID": "daughtry",
+          "ArtistName": "Daughtry",
+          "MemberName": "Chris Daughtry",
+          "FullName": "Christopher Adam Daughtry",
+          "PrimaryInstruments": [
+            "Vocals",
             "Guitar"
           ],
-          "Albums": [
+          "Occupations": [
+            "Singer",
+            "Songwriter",
+            "Musician"
+          ],
+          "Genres": [
+            "Post-grunge",
+            "Hard rock",
+            "Rock"
+          ],
+          "Birth": {
+            "Date": "1979-12-26",
+            "Place": "Roanoke Rapids, North Carolina, U.S."
+          },
+          "ActiveYears": [
+            "2006–present"
+          ],
+          "AssociatedActs": [
+            "Daughtry",
+            "Absent Element"
+          ],
+          "KeyAlbums": [
+            "Daughtry",
+            "Leave This Town",
+            "Break the Spell",
+            "Baptized",
+            "Cage to Rattle",
+            "Dearly Beloved"
+          ],
+          "KeySongs": [
+            "It’s Not Over",
+            "Home",
+            "Over You",
+            "What About Now"
+          ],
+          "Achievements": [
+            "Rose from a nationally televised breakthrough to lead one of the best-selling rock debuts of the SoundScan era.",
+            "Anchored multiple album cycles that kept Daughtry a consistent presence on modern rock and mainstream radio.",
+            "Established a signature vocal style—high-intensity, melodic, and emotionally direct—that became the band’s calling card."
+          ],
+          "ExternalLinks": {
+            "Official Site": "https://daughtryofficial.com/",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Chris_Daughtry"
+          },
+          "Biography": "Christopher Adam Daughtry emerged into the public eye in 2006 as a standout rocker on the fifth season of *American Idol*, where his gritty tone and big-stage delivery made him one of the season’s defining personalities.\n\nInstead of treating that visibility as a one-off moment, he used it as a launchpad: within months he formed Daughtry, building a band identity around modern hard rock hooks, clean production, and choruses designed to fill arenas.\n\nHis role from the beginning has been both vocalist and architect—setting the emotional temperature of the songs, shaping the melodic approach, and steering arrangements toward clarity and impact.\n\nThe early material paired tight guitar riffs with a pop-trained sense of structure, which helped the band cross formats: “It’s Not Over” and “Home” weren’t just rock hits—they became broad, mass-audience staples.\n\nAs the catalog expanded, Daughtry’s songwriting lean stayed consistent: direct language, high-stakes feeling, and a balance between vulnerability and defiance, often delivered with a controlled rasp that can turn tender lines into something urgent.\n\nAcross later records, he pushed the project into heavier textures at times—more aggressive guitars and darker production—without losing the core appeal: the moment the chorus arrives, it’s meant to land hard and stick.\n\nOn stage, he remains the band’s center of gravity, using dynamics—quiet restraint into full-throttle belts—to make the songs feel like mini narratives rather than purely technical performances.\n\nHe also stands as the clearest through-line across lineup changes and era shifts, maintaining the band’s identity while surrounding it with players who can execute the sound at a professional, tour-ready level.\n\nTaken together, Chris Daughtry’s impact is less about a single hit and more about longevity: a frontman who translated a TV-era introduction into a durable modern rock career built on melody, muscle, and relentless chorus craft."
+        }
+      },
+      {
+        "Name": "Brian Craddock",
+        "Roles": [
+          "lead guitar",
+          "backing vocals"
+        ],
+        "Years": "2007–present",
+        "Overview": "Long-running lead guitarist whose melodic leads and tight rhythm work help define the band’s polished, radio-friendly rock sound.",
+        "Bio": {
+          "BioID": "bio-daughtry-brian-craddock",
+          "ArtistID": "daughtry",
+          "ArtistName": "Daughtry",
+          "MemberName": "Brian Craddock",
+          "FullName": "Brian Craddock",
+          "PrimaryInstruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Occupations": [
+            "Guitarist",
+            "Musician"
+          ],
+          "Genres": [
+            "Post-grunge",
+            "Hard rock",
+            "Rock"
+          ],
+          "Birth": {
+            "Date": "",
+            "Place": ""
+          },
+          "ActiveYears": [
+            "2007–present"
+          ],
+          "AssociatedActs": [
             "Daughtry"
           ],
-          "Replacing": "",
-          "ReplacedBy": "Brian Craddock",
-          "Overview": "Early guitarist associated with the debut era; departed as the band’s lineup stabilized and the touring unit solidified around the breakout material."
-        },
-        {
-          "Name": "Marty O’Brien",
-          "Roles": [
-            "bass"
+          "KeyAlbums": [
+            "Leave This Town",
+            "Break the Spell",
+            "Baptized",
+            "Cage to Rattle",
+            "Dearly Beloved"
           ],
-          "Years": "2022–present",
-          "Instruments": [
-            "Bass"
+          "KeySongs": [
+            "It’s Not Over",
+            "Home",
+            "Over You",
+            "What About Now"
           ],
-          "Albums": [
-            "Dearly Beloved (touring era)"
+          "Achievements": [
+            "Became the band’s core lead-guitar voice after joining early in the group’s rise.",
+            "Helped translate hook-heavy songwriting into a consistent live sound built for arenas and large festival stages.",
+            "Maintained the band’s signature blend of tight rhythm parts and melodic lead lines across multiple lineup eras."
           ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Joined as bassist for the *Dearly Beloved* touring cycle and later became the band’s permanent bassist, bringing a seasoned touring and session background to the live lineup."
-        },
-        {
-          "Name": "Anthony Ghazel",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "2022–present",
-          "Instruments": [
-            "Drums"
-          ],
-          "Albums": [
-            "Dearly Beloved (touring era)"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Later-era drummer who joined the touring lineup in the 2020s, helping power a heavier, modern live sound as the band continued to evolve."
+          "ExternalLinks": {
+            "Official Site": "https://daughtryofficial.com/"
+          },
+          "Biography": "Brian Craddock joined Daughtry during the band’s first major wave, stepping into the lead-guitar chair as the group’s songs were becoming staples of modern rock radio.\n\nHis job inside the sound is precision: rhythm parts that lock with the drums and bass, and lead lines that feel singable—melodic enough to remember, but tight enough to serve the chorus.\n\nIn the Daughtry style, guitars are rarely decorative; they’re structural. Craddock’s playing supports that approach, helping songs move cleanly from verse tension to chorus lift without clutter.\n\nLive, that discipline matters even more. The band’s best-known tracks are built for big rooms, and Craddock’s consistency helps keep the hooks intact night after night.\n\nHe also contributes to the band’s layered vocal approach through backing vocals, reinforcing the choruses with additional weight and width.\n\nAcross the band’s middle-era albums, the guitar sound sits at the center of the identity—polished, present, and forceful—balancing pop clarity with hard-rock punch.\n\nAs the group explored heavier textures later on, the same core strength carried through: riffs that hit with authority, and leads that add color without pulling focus from the vocal line.\n\nThat balance—muscle plus melody—is what allows Daughtry to cross formats, and Craddock’s playing is a major reason the band can keep that line steady.\n\nIn short, his role is less about flashy virtuosity and more about delivering the band’s signature guitar language: clean, melodic, and built to make choruses feel inevitable."
         }
-      ]
+      },
+      {
+        "Name": "Elvio Fernandes",
+        "Roles": [
+          "keyboards",
+          "programming",
+          "backing vocals"
+        ],
+        "Years": "2012–present",
+        "Overview": "Keyboardist and vocalist who adds harmonic depth and modern textures, expanding the band’s palette without sacrificing its guitar-driven core.",
+        "Bio": {
+          "BioID": "bio-daughtry-elvio-fernandes",
+          "ArtistID": "daughtry",
+          "ArtistName": "Daughtry",
+          "MemberName": "Elvio Fernandes",
+          "FullName": "Elvio Fernandes",
+          "PrimaryInstruments": [
+            "Keyboards",
+            "Vocals"
+          ],
+          "Occupations": [
+            "Keyboardist",
+            "Vocalist",
+            "Musician"
+          ],
+          "Genres": [
+            "Rock",
+            "Hard rock",
+            "Post-grunge"
+          ],
+          "Birth": {
+            "Date": "",
+            "Place": ""
+          },
+          "ActiveYears": [
+            "2012–present"
+          ],
+          "AssociatedActs": [
+            "Daughtry"
+          ],
+          "KeyAlbums": [
+            "Baptized",
+            "Cage to Rattle",
+            "Dearly Beloved"
+          ],
+          "KeySongs": [
+            "Home",
+            "What About Now",
+            "Over You",
+            "It’s Not Over"
+          ],
+          "Achievements": [
+            "Joined the band to broaden its sonic toolkit, adding keyboards and vocal layers tailored to modern rock production.",
+            "Helped the group evolve into a more textured live and studio act, reinforcing harmony stacks and atmospheric elements.",
+            "Brought a musical background rooted in songwriting and arrangement into a role that blends performance with sound design."
+          ],
+          "ExternalLinks": {
+            "Official Site": "https://daughtryofficial.com/"
+          },
+          "Biography": "Elvio Fernandes joined Daughtry in 2012, adding keyboards and backing vocals to a band already defined by guitar heft and big, radio-ready choruses.\n\nHis presence isn’t about replacing the core identity—it’s about expanding it. Keys and programming can widen the emotional frame of a chorus, deepen a bridge, or add tension under a verse.\n\nIn modern rock, those textures are often the difference between a track that sounds merely loud and one that sounds cinematic, and Fernandes’ role is to bring that dimension in a controlled, musical way.\n\nLive, keyboards also help translate studio polish to the stage: pads, piano parts, and subtle sound-design elements that make the songs feel complete without overloading the mix.\n\nAs a backing vocalist, he supports the band’s stacked-chorus approach, reinforcing the lift that’s central to the Daughtry blueprint.\n\nHis musical background includes songwriting and arrangement work, which fits naturally with a role that often sits at the intersection of performance and production.\n\nAcross the later albums, as the band explored heavier and darker colors, the keyboard layer became a flexible tool—sometimes adding sheen, sometimes adding grit, sometimes simply making the hook feel larger.\n\nThat adaptability is crucial in a band that wants to evolve without confusing its audience: the guitars stay central, the vocals stay dominant, and the keys quietly shape the atmosphere around them.\n\nIn short, Fernandes helps Daughtry sound bigger than a basic rock lineup, bringing harmonic depth and modern texture while staying in service of the song’s main event: the chorus."
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Josh Steely",
+        "Roles": [
+          "guitar"
+        ],
+        "Years": "2006–2016 (various eras)",
+        "Instruments": [
+          "Guitar"
+        ],
+        "Albums": [
+          "Daughtry",
+          "Leave This Town",
+          "Break the Spell"
+        ],
+        "Replacing": "",
+        "ReplacedBy": "",
+        "Overview": "An early-era guitarist associated with the band’s initial rise, contributing to the touring and performance lineup as the first albums established the Daughtry sound."
+      },
+      {
+        "Name": "Josh Paul",
+        "Roles": [
+          "bass"
+        ],
+        "Years": "2006–2012",
+        "Instruments": [
+          "Bass"
+        ],
+        "Albums": [
+          "Daughtry",
+          "Leave This Town",
+          "Break the Spell"
+        ],
+        "Replacing": "",
+        "ReplacedBy": "",
+        "Overview": "Bassist during the band’s breakthrough and follow-up eras, helping anchor the rhythm section behind the debut’s major hits and the next two studio cycles."
+      },
+      {
+        "Name": "Joey Barnes",
+        "Roles": [
+          "drums"
+        ],
+        "Years": "2006–2010",
+        "Instruments": [
+          "Drums"
+        ],
+        "Albums": [
+          "Daughtry",
+          "Leave This Town"
+        ],
+        "Replacing": "",
+        "ReplacedBy": "Robin Diaz",
+        "Overview": "Original drummer for the early lineup, part of the band’s initial touring identity during the debut and early follow-up period."
+      },
+      {
+        "Name": "Robin Diaz",
+        "Roles": [
+          "drums"
+        ],
+        "Years": "2010–2017 (various eras)",
+        "Instruments": [
+          "Drums"
+        ],
+        "Albums": [
+          "Break the Spell",
+          "Baptized"
+        ],
+        "Replacing": "Joey Barnes",
+        "ReplacedBy": "",
+        "Overview": "Took over drums during the band’s second wave of releases, supporting a heavier, punchier live feel as the catalog expanded beyond the debut era."
+      },
+      {
+        "Name": "Jeremy Brady",
+        "Roles": [
+          "guitar"
+        ],
+        "Years": "2006–2007",
+        "Instruments": [
+          "Guitar"
+        ],
+        "Albums": [
+          "Daughtry"
+        ],
+        "Replacing": "",
+        "ReplacedBy": "Brian Craddock",
+        "Overview": "Early guitarist associated with the debut era; departed as the band’s lineup stabilized and the touring unit solidified around the breakout material."
+      },
+      {
+        "Name": "Marty O’Brien",
+        "Roles": [
+          "bass"
+        ],
+        "Years": "2022–present",
+        "Instruments": [
+          "Bass"
+        ],
+        "Albums": [
+          "Dearly Beloved (touring era)"
+        ],
+        "Replacing": "",
+        "ReplacedBy": "",
+        "Overview": "Joined as bassist for the *Dearly Beloved* touring cycle and later became the band’s permanent bassist, bringing a seasoned touring and session background to the live lineup."
+      },
+      {
+        "Name": "Anthony Ghazel",
+        "Roles": [
+          "drums"
+        ],
+        "Years": "2022–present",
+        "Instruments": [
+          "Drums"
+        ],
+        "Albums": [
+          "Dearly Beloved (touring era)"
+        ],
+        "Replacing": "",
+        "ReplacedBy": "",
+        "Overview": "Later-era drummer who joined the touring lineup in the 2020s, helping power a heavier, modern live sound as the band continued to evolve."
+      }
+    ]
+  },
+  {
+    "ArtistID": "the-dave-clark-five",
+    "Name": "The Dave Clark Five",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
-    {
-      "ArtistID": "the-dave-clark-five",
-      "Name": "The Dave Clark Five",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
     },
-    {
-      "ArtistID": "dave-matthews-band",
-      "Name": "Dave Matthews Band",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "dave-matthews-band",
+    "Name": "Dave Matthews Band",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
-    {
-      "ArtistID": "david-bowie",
-      "Name": "David Bowie",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
     },
-    {
-      "ArtistID": "dead-kennedys",
-      "Name": "Dead Kennedys",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "david-bowie",
+    "Name": "David Bowie",
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "dead-kennedys",
+    "Name": "Dead Kennedys",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
-    {
-      "ArtistID": "dead-or-alive",
-      "Name": "Dead or Alive",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
     },
-    {
-      "ArtistID": "death-cab-for-cutie",
-      "Name": "Death Cab for Cutie"
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "dead-or-alive",
+    "Name": "Dead or Alive",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
-    {
-      "ArtistID": "deep-purple",
-      "Name": "Deep Purple",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
     },
-    {
-      "ArtistID": "def-leppard",
-      "Name": "Def Leppard",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "death-cab-for-cutie",
+    "Name": "Death Cab for Cutie"
+  },
+  {
+    "ArtistID": "deep-purple",
+    "Name": "Deep Purple",
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "def-leppard",
+    "Name": "Def Leppard",
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "the-delfonics",
+    "Name": "The Delfonics",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
-    {
-      "ArtistID": "the-delfonics",
-      "Name": "The Delfonics",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
     },
-    {
-      "ArtistID": "depeche-mode",
-      "Name": "Depeche Mode",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "depeche-mode",
+    "Name": "Depeche Mode",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
     },
-    {
-      "ArtistID": "derek-and-the-dominos",
-      "Name": "Derek and the Dominos",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
     },
-    {
-      "ArtistID": "devo",
-      "Name": "Devo",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    }
-  ]
-}
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "derek-and-the-dominos",
+    "Name": "Derek and the Dominos",
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  },
+  {
+    "ArtistID": "devo",
+    "Name": "Devo",
+    "Type": "",
+    "Origin": {
+      "City": "",
+      "Region": "",
+      "Country": ""
+    },
+    "YearsActive": [],
+    "Genres": [],
+    "Labels": [],
+    "Overview": "",
+    "NotableAlbums": [],
+    "SignatureSongs": [],
+    "Achievements": [],
+    "KeyFacts": [],
+    "ExternalLinks": {
+      "Official Site": "",
+      "Wikipedia": "",
+      "Discography": ""
+    },
+    "CoreMembers": [],
+    "NonCoreMembers": []
+  }
+]
