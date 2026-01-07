@@ -1325,7 +1325,315 @@
     {
       "ArtistID": "led-zeppelin",
       "Name": "Led Zeppelin",
-      "CoreMembers": [],
+      "Type": "Band",
+      "Origin": {
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1968–1980",
+        "2007 (reunion)"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Blues rock",
+        "Heavy metal",
+        "Folk rock"
+      ],
+      "Labels": [
+        "Atlantic",
+        "Swan Song"
+      ],
+      "Overview": "Led Zeppelin emerged in London in 1968 out of guitarist and producer Jimmy Page’s final lineup of The Yardbirds, quickly solidifying into a four‑piece with vocalist Robert Plant, multi‑instrumentalist John Paul Jones, and drummer John Bonham. From the start, the band fused amplified blues, British folk, and late‑’60s experimentation into a heavier, riff‑driven sound that helped set the template for hard rock and early heavy metal. Their first two albums arrived in 1969 and, alongside relentless touring, established them as one of rock’s biggest live draws while building an album‑focused audience.\n\nAcross the 1970s, Led Zeppelin broadened their palette without losing their intensity—moving from the blues‑charged attack of “Whole Lotta Love” to the acoustic and folk textures of Led Zeppelin III, the mythic sweep of Led Zeppelin IV, and the widescreen scale of “Kashmir” on Physical Graffiti. Page’s layered guitar architecture, Plant’s dramatic vocal range and lyrical imagery, Jones’ harmonic sense and keyboard/bass versatility, and Bonham’s explosive groove created a chemistry that was difficult to copy. The band also embraced dynamic arrangements and studio craft, balancing raw performance energy with carefully built textures and dramatic shifts.\n\nLed Zeppelin ended in 1980 after Bonham’s death, and the surviving members chose not to continue as a full‑time band. Even so, their catalog remains a cornerstone of classic rock, with deep cuts and radio staples alike continuing to circulate in new formats and new generations. Inducted into the Rock and Roll Hall of Fame in 1995 and honored with major lifetime recognition, Led Zeppelin’s legacy is both musical and cultural: an album‑driven approach, a towering live reputation, and a sound that continues to influence rock and metal artists decades later.",
+      "NotableAlbums": [
+        {
+          "Title": "Led Zeppelin",
+          "Year": 1969
+        },
+        {
+          "Title": "Led Zeppelin II",
+          "Year": 1969
+        },
+        {
+          "Title": "Led Zeppelin III",
+          "Year": 1970
+        },
+        {
+          "Title": "Led Zeppelin IV",
+          "Year": 1971
+        },
+        {
+          "Title": "Houses of the Holy",
+          "Year": 1973
+        },
+        {
+          "Title": "Physical Graffiti",
+          "Year": 1975
+        },
+        {
+          "Title": "Presence",
+          "Year": 1976
+        },
+        {
+          "Title": "In Through the Out Door",
+          "Year": 1979
+        },
+        {
+          "Title": "Celebration Day (live)",
+          "Year": 2012
+        }
+      ],
+      "SignatureSongs": [
+        "Stairway to Heaven",
+        "Whole Lotta Love",
+        "Kashmir",
+        "Immigrant Song",
+        "Black Dog",
+        "Rock and Roll",
+        "Ramble On",
+        "Dazed and Confused",
+        "Since I've Been Loving You",
+        "When the Levee Breaks"
+      ],
+      "Achievements": [
+        {
+          "Title": "Rock and Roll Hall of Fame induction",
+          "Year": 1995,
+          "Details": "Inducted as performers; widely cited as one of the most influential rock bands."
+        },
+        {
+          "Title": "Grammy Lifetime Achievement Award",
+          "Year": 2005,
+          "Details": "Honored for lasting artistic significance and influence."
+        },
+        {
+          "Title": "Grammy Award — Best Rock Album",
+          "Year": 2014,
+          "Details": "Won for Celebration Day (live)."
+        },
+        {
+          "Title": "Best‑selling legacy act",
+          "Year": "—",
+          "Details": "Frequently cited among the highest‑selling rock artists, with global sales commonly reported in the hundreds of millions."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in London in 1968 from the final lineup of The Yardbirds, with Jimmy Page as the initial driving force.",
+        "Combined electric blues, folk, and hard rock into an album‑oriented approach that became central to 1970s arena rock.",
+        "Disbanded in 1980 following drummer John Bonham’s death; the group did not continue as a full‑time band afterward.",
+        "Released records through Atlantic and later created the Swan Song label for much of their 1970s output.",
+        "Reunited for major one‑off performances over the years, including the 2007 London concert documented on Celebration Day."
+      ],
+      "ExternalLinks": {
+        "Official Website": "https://www.ledzeppelin.com/",
+        "Rock & Roll Hall of Fame": "https://www.rockhall.com/inductees/led-zeppelin",
+        "Encyclopaedia Britannica": "https://www.britannica.com/topic/Led-Zeppelin",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Led_Zeppelin",
+        "AllMusic": "https://www.allmusic.com/artist/led-zeppelin-mn0000139026",
+        "Apple Music": "https://music.apple.com/us/artist/led-zeppelin/994656",
+        "Spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Jimmy Page",
+          "YearsActive": "1968–1980",
+          "Roles": [
+            "Guitarist",
+            "Producer",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Led Zeppelin",
+            "Led Zeppelin II",
+            "Led Zeppelin III",
+            "Led Zeppelin IV",
+            "Houses of the Holy",
+            "Physical Graffiti",
+            "Presence",
+            "In Through the Out Door",
+            "Coda"
+          ],
+          "Bio": {
+            "Birth": "January 9, 1944 — Heston, Middlesex, England",
+            "Death": "",
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Producer",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "Biography": "Jimmy Page (born January 9, 1944, in Heston, Middlesex) grew up in west London at the moment British youth culture was discovering American blues, early rock ’n’ roll, and skiffle. He was drawn to the guitar young and developed a reputation for obsessive practice, learning to adapt his touch and tone to different styles rather than committing to one fixed approach.\n\nBefore he became famous on stage, Page built an unusually deep résumé as a session musician. Working in London studios, he learned how records are assembled—how arrangements fit together, how mic placement changes the feel of a performance, and how layering guitars can create a “bigger than the room” sound. That studio education later became central to Led Zeppelin’s identity.\n\nThose sessions also sharpened his musical instincts. He had to read a room quickly, understand what a song needed, and deliver parts that supported the vocal and groove rather than competing with them. That discipline is one reason Zeppelin’s riffs can be massive without feeling sloppy.\n\nPage joined The Yardbirds in 1966, initially in a supporting role and eventually as the band’s driving guitarist. When the group began to fracture, he held onto the touring commitments and used the situation to build something new rather than let the opportunity evaporate.\n\nIn 1968, that “new” band took shape: Page recruited vocalist Robert Plant, drummer John Bonham, and brought in John Paul Jones, whose musical versatility made the lineup instantly complete. Led Zeppelin’s early records were built around Page’s heavy riffs and inventive textures, but they also showcased his sensitivity to dynamics—how to make a song explode by first letting it breathe.\n\nAs a guitarist, Page became known for a mix of muscular rhythm playing and melodic lead work, often using alternate tunings and unusual chord voicings to give familiar blues shapes a new gravity. He also embraced techniques that expanded the guitar’s vocabulary on a rock record, from bowed passages to layered acoustic parts that felt cinematic rather than merely “pastoral.”\n\nPart of the legend is also practical: Page’s core gear choices became iconic because they worked. His use of the Gibson Les Paul as a primary electric voice, and the famous double‑neck guitar associated with live performances of “Stairway to Heaven,” turned into visual shorthand for Zeppelin’s scale and ambition.\n\nJust as important, he acted as the band’s principal producer for much of their catalog. His approach blended live energy with careful construction: performances that felt dangerous and spontaneous, but were framed by thoughtful edits, overdubs, and sonic detail. That balance helped Zeppelin’s studio albums compete with the spectacle of their concerts.\n\nSongwriting for Page was rarely “riff only.” He thought in terms of architecture—introductions that set a mood, sections that build tension, and endings that feel inevitable. Even when a track leaned on a simple figure, he used arrangement, tone, and space to keep the listener moving through a story.\n\nOn stage, Page’s presence became part of the mythology—dramatic lighting, extended improvisations, and a tone that could shift from glassy delicacy to outright roar. Even listeners who came for the famous riffs often stayed for the way he shaped long, evolving performances.\n\nAfter Led Zeppelin ended in 1980, Page remained a high‑profile figure, revisiting the band’s music for archival releases and reissues while pursuing projects that highlighted his broader interests. He also collaborated and performed in various settings, sometimes leaning into hard rock power, other times emphasizing atmosphere and arrangement.\n\nPage’s public profile has included charitable work and cultural recognition, including honors in the United Kingdom for his contributions. The arc of his career—from anonymous studio work to stadium mythology—helped redefine what it means for a guitarist to be both a musician and a sonic designer.\n\nHowever you measure it—recordings, production, guitar vocabulary, or influence—Page’s legacy is inseparable from the idea that rock can be both raw and meticulously crafted. His work with Led Zeppelin remains a reference point for anyone chasing a sound that feels huge, detailed, and alive at the same time.",
+            "Sources": [
+              {
+                "Title": "Encyclopaedia Britannica — Jimmy Page",
+                "Url": "https://www.britannica.com/biography/Jimmy-Page"
+              },
+              {
+                "Title": "Wikipedia — Jimmy Page",
+                "Url": "https://en.wikipedia.org/wiki/Jimmy_Page"
+              },
+              {
+                "Title": "Billboard — Jimmy Page OBE (2005)",
+                "Url": "https://www.billboard.com/music/music-news/jimmy-page-receives-obe-63208/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Robert Plant",
+          "YearsActive": "1968–1980",
+          "Roles": [
+            "Vocalist",
+            "Lyricist"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Harmonica"
+          ],
+          "Albums": [
+            "Led Zeppelin",
+            "Led Zeppelin II",
+            "Led Zeppelin III",
+            "Led Zeppelin IV",
+            "Houses of the Holy",
+            "Physical Graffiti",
+            "Presence",
+            "In Through the Out Door",
+            "Coda"
+          ],
+          "Bio": {
+            "Birth": "August 20, 1948 — West Bromwich, Staffordshire, England",
+            "Death": "",
+            "Nationality": "English",
+            "Roles": [
+              "Vocalist",
+              "Lyricist"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Harmonica"
+            ],
+            "Biography": "Robert Plant (born August 20, 1948, in West Bromwich, England) came of age with American blues and soul records in his ears and a restless curiosity about how to turn those influences into something personal. Before fame, he cycled through local groups, building a reputation for a big voice and a front‑man confidence that could fill a room.\n\nPlant’s early years were shaped by the British club circuit, where stamina and charisma mattered as much as technique. Singing night after night forced him to develop range, projection, and control, but it also taught him how to “sell” a lyric—how to make a line feel urgent even when it’s quiet.\n\nWhen Jimmy Page began assembling a new band in 1968, Plant’s audition made an immediate impression, and Plant recommended drummer John Bonham as the rhythmic engine the project would need. The partnership that formed in that moment became the human center of Led Zeppelin: Page’s sonic vision, Plant’s voice and storytelling, and a rhythm section built for power and swing.\n\nAs Zeppelin’s vocalist, Plant helped define a style that was both blues‑rooted and theatrical. He could deliver gritty, rasping intensity, then pivot to a clear, plaintive tone that suited acoustic material. That flexibility is a major reason the band could move from grinding riffs to folk‑leaning ballads without sounding like a different act.\n\nPlant’s lyric writing also became a signature. While early songs leaned on blues forms and tradition, he increasingly brought in imagery drawn from mythology, literature, and the landscapes of Britain. The result was a vocabulary that felt larger than everyday life—romantic, mysterious, and sometimes deliberately ambiguous.\n\nOn stage, Plant’s presence was inseparable from Zeppelin’s legend. He developed a performance style that blended swagger with vulnerability, capable of playful banter one moment and a dramatic, almost operatic delivery the next. That charisma helped make Zeppelin’s concerts feel like events, not just recitals.\n\nThrough the 1970s, Plant’s voice evolved, shaped by heavy touring and the demands of long sets. Rather than simply preserving a “perfect” studio sound, he adapted—changing phrasing, leaning into different textures, and using the band’s improvisational freedom to make songs live in multiple forms.\n\nAfter Led Zeppelin ended in 1980, Plant chose a path that emphasized growth rather than museum‑level preservation. He built a solo career that explored hard rock, pop, and more roots‑oriented directions, often collaborating with musicians who pushed him into new settings and new songwriting habits.\n\nOver time, Plant became especially associated with projects that highlighted American roots music—blues, country, and folk traditions reframed through his sensibility. Those ventures reinforced that he wasn’t only the voice of Zeppelin’s past, but an artist still interested in discovery.\n\nPlant has also received formal recognition in the United Kingdom for his contributions to music. That kind of honor reflects not only his success, but the way his voice became a defining sound of an era.\n\nFor many listeners, Plant is the image of the classic rock front man, but the deeper story is musical curiosity: a singer who started in blues clubs, helped create an arena‑rock blueprint, and then kept moving. His legacy sits in the classic recordings, but also in the willingness to change course and keep learning.\n\nIn the end, Plant’s greatest strength may be his ability to make the dramatic feel human. Whether he is singing a whispered line over acoustic guitar or pushing to the edge of his range over a full band, he treats the vocal as the song’s emotional compass—and that approach continues to influence rock singers decades later.",
+            "Sources": [
+              {
+                "Title": "Encyclopaedia Britannica — Robert Plant",
+                "Url": "https://www.britannica.com/biography/Robert-Plant"
+              },
+              {
+                "Title": "Wikipedia — Robert Plant",
+                "Url": "https://en.wikipedia.org/wiki/Robert_Plant"
+              },
+              {
+                "Title": "The Guardian — Robert Plant CBE (2009)",
+                "Url": "https://www.theguardian.com/music/2009/jun/13/robert-plant-cbe-led-zeppelin"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John Paul Jones",
+          "YearsActive": "1968–1980",
+          "Roles": [
+            "Bassist",
+            "Keyboardist",
+            "Multi-instrumentalist",
+            "Arranger"
+          ],
+          "Instruments": [
+            "Bass",
+            "Keyboards",
+            "Mandolin"
+          ],
+          "Albums": [
+            "Led Zeppelin",
+            "Led Zeppelin II",
+            "Led Zeppelin III",
+            "Led Zeppelin IV",
+            "Houses of the Holy",
+            "Physical Graffiti",
+            "Presence",
+            "In Through the Out Door",
+            "Coda"
+          ],
+          "Bio": {
+            "Birth": "January 3, 1946 — Sidcup, Kent, England",
+            "Death": "",
+            "Nationality": "English",
+            "Roles": [
+              "Bassist",
+              "Keyboardist",
+              "Multi-instrumentalist",
+              "Arranger"
+            ],
+            "Instruments": [
+              "Bass",
+              "Keyboards",
+              "Mandolin"
+            ],
+            "Biography": "John Paul Jones (born January 3, 1946, in Sidcup, England) is often described as Led Zeppelin’s “secret weapon,” but his strengths were never secret inside the band. He entered professional music early, learning the demands of arrangements, timing, and musical diplomacy—skills that later let Zeppelin expand far beyond a basic guitar‑band framework.\n\nBefore Zeppelin, Jones worked extensively as a session musician and arranger in London. That background made him comfortable in the studio and fluent in the language of chords and voicings, so he could translate musical ideas quickly and keep sessions moving when the creative temperature ran high.\n\nAs a bassist, Jones brought both weight and melody. He could lock into Bonham’s groove with a deep, supportive line, but he also knew when to step forward with counter‑melodies that made riffs feel bigger and songs feel more composed. Many Zeppelin tracks are driven as much by his bass movement as by Page’s guitar.\n\nJones’ versatility extended well beyond bass. He contributed keyboards, synthesizers, and a wide range of textures that helped Zeppelin avoid repeating themselves album to album. When the band leaned into folk‑leaning material, he could add subtle harmonic color; when they chased arena scale, he could thicken the sound without cluttering it.\n\nLive, Jones was the stabilizing presence who made improvisation possible. With Page and Plant free to stretch and react in the moment, Jones anchored transitions, set up dynamic changes, and kept the music coherent even when the band pushed tempos and structures in real time.\n\nIn songwriting, Jones often acted as the arranger’s mind inside a famously instinct‑driven group. He helped shape parts so that songs had lift and contrast, and his ear for harmony gave Zeppelin room to move between moods—tough, tender, eerie, triumphant—without losing identity.\n\nAfter Led Zeppelin ended, Jones built a career that highlighted his range rather than a single “signature” persona. He worked as a musician, producer, and collaborator, appearing in projects that spanned rock, pop, and experimental settings.\n\nOne of the striking things about Jones’ post‑Zeppelin work is how naturally he fits into different musical ecosystems. Whether he’s contributing low‑end authority, harmonic structure, or an unexpected instrumental voice, the role changes—but the musical intelligence stays constant.\n\nJones has also been widely admired for how he carries the Zeppelin legacy: present and respectful, but not trapped by it. He tends to speak through musicianship—showing what he can do now, rather than relying on nostalgia.\n\nFor fans, it’s easy to focus on the “big” Zeppelin identities—Page’s guitar image, Plant’s voice, Bonham’s drumming thunder. Jones is the reason those elements had so much space to shine, because he understood how to build a foundation that feels both solid and alive.\n\nIf Led Zeppelin is remembered as epic and cinematic, Jones is a major reason: he supplied the harmonic depth, the keyboard atmosphere, and the compositional glue that turned great riffs into complete songs.\n\nUltimately, Jones represents the kind of rock musician who elevates everything around him. His legacy is not just the notes he played, but the quiet authority with which he made a volatile, high‑powered band sound disciplined when it mattered—and fearless when it didn’t.",
+            "Sources": [
+              {
+                "Title": "Wikipedia — John Paul Jones (musician)",
+                "Url": "https://en.wikipedia.org/wiki/John_Paul_Jones_(musician)"
+              },
+              {
+                "Title": "Encyclopaedia Britannica — Led Zeppelin (background context)",
+                "Url": "https://www.britannica.com/topic/Led-Zeppelin"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John Bonham",
+          "YearsActive": "1968–1980",
+          "Roles": [
+            "Drummer"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Led Zeppelin",
+            "Led Zeppelin II",
+            "Led Zeppelin III",
+            "Led Zeppelin IV",
+            "Houses of the Holy",
+            "Physical Graffiti",
+            "Presence",
+            "In Through the Out Door",
+            "Coda"
+          ],
+          "Bio": {
+            "Birth": "May 31, 1948 — Redditch, Worcestershire, England",
+            "Death": "September 25, 1980 — (England)",
+            "Nationality": "English",
+            "Roles": [
+              "Drummer"
+            ],
+            "Instruments": [
+              "Drums"
+            ],
+            "Biography": "John Bonham (born May 31, 1948, in Redditch, England; died September 25, 1980) became one of the most influential rock drummers of all time in a career that lasted barely more than a decade at the top. What made him extraordinary wasn’t only volume or speed—it was feel: a huge sound anchored by a groove that could swing, stomp, and breathe.\n\nBonham started playing drums young and quickly developed a powerful right foot and a distinctive touch on the snare and toms. Even when he hit hard, the beat retained shape and clarity, which is why his parts still translate decades later on everything from radio speakers to modern headphones.\n\nBefore Led Zeppelin, Bonham played in bands around the Midlands and formed a crucial musical relationship with Robert Plant. Their time in local groups built trust and chemistry—Plant knew Bonham could drive a band without rushing, and Bonham knew Plant could ride a rhythm section that played with real force.\n\nWhen Plant joined Jimmy Page’s new project in 1968, Bonham followed, completing the lineup that would become Led Zeppelin. From the first recordings, his drumming announced a new kind of rock authority: thick kick‑drum patterns, wide open fills, and a sense of drama that made songs feel like they were in motion.\n\nBonham’s style is often summarized as “heavy,” but that misses the detail. He could play with surprising subtlety when the song required it, using space and dynamics to build tension rather than filling every moment. That control is one reason Zeppelin’s quieter passages feel intimate instead of simply “turned down.”\n\nHis parts became signature moments in the Zeppelin catalog. The pulse of “When the Levee Breaks,” the drive of “Immigrant Song,” and the swagger of “Rock and Roll” each showcase a different version of the same core strength: a drummer who makes the band sound inevitable.\n\nLive, Bonham could stretch beyond the studio parts into extended solos and improvisations. Even in those big moments, his playing stayed musical—built on themes, call‑and‑response ideas, and the kind of timing that keeps an audience locked in rather than lost.\n\nBonham’s kit sound also became iconic, aided by recording choices that captured both impact and room ambience. The combination of his technique and the way Zeppelin recorded drums helped define how rock producers chased “big drums” for decades afterward.\n\nTragically, Bonham died in 1980, and Led Zeppelin chose to end rather than replace him. That decision speaks to how central his identity was to the band’s chemistry: it wasn’t simply a role that could be filled; it was a specific musical personality.\n\nHis legacy has continued through the countless drummers who cite him as a foundational influence, and through the ongoing fascination with how he achieved his tone and feel. The fact that modern players still study his grooves like textbooks says everything.\n\nBonham’s influence is also personal in a literal sense—his son Jason Bonham became a respected drummer and has performed Zeppelin music on major stages, helping audiences understand how demanding those parts are in real time.\n\nIn the end, Bonham’s story is a reminder that rock power is not just loudness. It’s confidence, balance, and timing. He hit hard, but he also played with grace—and that combination is why his name remains the benchmark whenever drummers talk about what “great” sounds like.",
+            "Sources": [
+              {
+                "Title": "Encyclopaedia Britannica — Led Zeppelin (background context)",
+                "Url": "https://www.britannica.com/topic/Led-Zeppelin"
+              },
+              {
+                "Title": "Wikipedia — John Bonham",
+                "Url": "https://en.wikipedia.org/wiki/John_Bonham"
+              }
+            ]
+          }
+        }
+      ],
       "NonCoreMembers": []
     },
     {
