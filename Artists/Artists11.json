@@ -3,27 +3,509 @@
     {
       "ArtistID": "little-river-band",
       "Name": "Little River Band",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Melbourne",
+        "Region": "Victoria",
+        "Country": "Australia"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1975–present"
+      ],
+      "Genres": [
+        "Soft rock",
+        "Pop rock",
+        "Adult contemporary",
+        "Yacht rock"
+      ],
+      "Labels": [
+        "EMI",
+        "Harvest",
+        "Capitol",
+        "MCA"
+      ],
+      "Overview": "Little River Band formed in Melbourne in 1975 as a harmony‑driven rock group built around strong lead vocals, layered three‑part harmonies, and a polished blend of pop craft and rock instrumentation. Drawn from established Australian acts, the early lineup quickly developed a signature sound—radio‑ready melodies, precise ensemble singing, and arrangements that could move from gentle acoustic textures to arena‑scale choruses without losing clarity. In Australia they became a major album act, while in the United States they broke through as one of the first Australian bands to sustain mainstream success across multiple years, selling tens of millions of records worldwide.\n\nTheir late‑1970s peak was anchored by a run of albums that combined meticulous songwriting with studio sheen, including Diamantina Cocktail, Sleeper Catcher, and First Under the Wire, plus the internationally popular singles “Help Is on Its Way,” “Reminiscing,” “Lady,” “Lonesome Loser,” and “Cool Change.” The band’s U.S. momentum continued into the early 1980s with hits like “The Night Owls” and “Take It Easy on Me,” reflecting a shift toward AOR gloss while keeping the vocal blend at the center of the identity.\n\nLike many long‑running groups, Little River Band’s personnel changed frequently after the classic era, but the catalog’s core appeal—tight harmonies, melodic hooks, and adult‑pop sophistication—kept the name touring continuously for decades. In 2004, the classic lineup (Birtles, Shorrock, Goble, Pellicci, Briggs, and McArdle) was inducted into the ARIA Hall of Fame, a public recognition of the band’s durable songs and its outsized role in Australia’s international pop‑rock export story.",
+      "KeyFacts": [
+        "Formed in Melbourne, Australia, in March 1975.",
+        "Known for harmony‑rich soft rock and adult‑contemporary pop/rock crossover.",
+        "“Reminiscing” reached No. 3 on the U.S. Billboard Hot 100.",
+        "Classic lineup inducted into the ARIA Hall of Fame in 2004."
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "Diamantina Cocktail",
+          "Year": 1977,
+          "Details": "Breakthrough album in Australia and a key step in their U.S. rise; produced the Australian No. 1 single “Help Is on Its Way.”"
+        },
+        {
+          "Title": "Sleeper Catcher",
+          "Year": 1978,
+          "Details": "International breakthrough featuring “Reminiscing” and “Lady,” crystallizing the band’s harmony‑pop identity."
+        },
+        {
+          "Title": "First Under the Wire",
+          "Year": 1979,
+          "Details": "Continued U.S. momentum with Top‑10 singles “Lonesome Loser” and “Cool Change.”"
+        },
+        {
+          "Title": "Time Exposure",
+          "Year": 1981,
+          "Details": "George Martin‑produced album that leaned into early‑’80s AOR sheen; included “The Night Owls” and “Take It Easy on Me.”"
+        },
+        {
+          "Title": "Greatest Hits",
+          "Year": 1982,
+          "Details": "A consolidating set of the classic‑era hits; “The Other Guy” introduced a new lead‑vocal era."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Help Is on Its Way",
+          "Year": 1977,
+          "Details": "Australian No. 1 single from Diamantina Cocktail; helped establish the band’s international profile."
+        },
+        {
+          "Title": "Reminiscing",
+          "Year": 1978,
+          "Details": "Goble‑written classic that became their biggest U.S. hit, peaking at No. 3 on the Billboard Hot 100."
+        },
+        {
+          "Title": "Lady",
+          "Year": 1978,
+          "Details": "Smooth, harmony‑led pop single that reached the U.S. Top 10."
+        },
+        {
+          "Title": "Lonesome Loser",
+          "Year": 1979,
+          "Details": "Briggs‑written single that reached the U.S. Top 10 and remains a defining radio staple."
+        },
+        {
+          "Title": "Cool Change",
+          "Year": 1979,
+          "Details": "Shorrock‑written ballad that became a signature late‑’70s soft‑rock standard and a U.S. Top 10 hit."
+        },
+        {
+          "Title": "The Night Owls",
+          "Year": 1981,
+          "Details": "Early‑’80s hit that returned the band to the U.S. Top 10 and previewed a new vocal configuration."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "ARIA Hall of Fame induction (classic lineup)",
+          "Year": 2004,
+          "Summary": "Little River Band was inducted into the ARIA Hall of Fame, honoring the classic lineup’s impact and international success."
+        },
+        {
+          "Title": "“Reminiscing” became their biggest U.S. hit",
+          "Year": 1978,
+          "Summary": "The single peaked at No. 3 on the U.S. Billboard Hot 100, cementing the band’s U.S. crossover breakthrough."
+        },
+        {
+          "Title": "Multiple U.S. Top‑10 singles in the late 1970s/early 1980s",
+          "Year": 1979,
+          "Summary": "“Lady,” “Lonesome Loser,” and “Cool Change” all reached the U.S. Top 10, demonstrating sustained American radio appeal."
+        }
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official site": "https://littleriverband.com/",
+        "AllMusic artist bio": "https://www.allmusic.com/artist/little-river-band-mn0000219655",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Little_River_Band",
+        "ARIA Awards — 2004 past winners": "https://www.aria.com.au/awards/past-winners/2004"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Glenn Shorrock",
+          "Roles": "Lead vocals, songwriter",
+          "Instruments": "Vocals",
+          "YearsActive": "1975–1982; 1987–1996",
+          "Albums": [
+            {
+              "Title": "Diamantina Cocktail",
+              "Year": 1977
+            },
+            {
+              "Title": "Sleeper Catcher",
+              "Year": 1978
+            },
+            {
+              "Title": "First Under the Wire",
+              "Year": 1979
+            },
+            {
+              "Title": "Time Exposure",
+              "Year": 1981
+            }
+          ],
+          "Bio": {
+            "ArtistID": "little-river-band",
+            "BioID": "little-river-band-glenn-shorrock",
+            "FullName": "Glenn Barrie Shorrock",
+            "Birth": {
+              "Date": "1944-06-30",
+              "Place": "Chatham, Kent, England"
+            },
+            "Nationality": "Australian (English-born)",
+            "Roles": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Vocals"
+            ],
+            "FullText": "Glenn Shorrock (born 30 June 1944) is an English‑born Australian singer and songwriter whose clear tenor and pop instincts made him one of the most recognizable voices in Australian rock’s export era. Born in Chatham, Kent, he emigrated with his family to Adelaide as a child, arriving at a moment when local beat groups were turning into serious national contenders.\n\nShorrock first rose to prominence in the 1960s as a founding member of the Twilights, a key Australian beat band that scored a long run of national hits and helped professionalize the country’s touring circuit. After the Twilights, he helped form Axiom in 1969—an early Australian “supergroup”—and fronted them through their charting singles and albums before the group dissolved during an attempted UK move.\n\nThose formative years sharpened his strengths: lead‑vocal authority, a knack for melodic phrasing, and a comfort moving between rock, pop, and soft‑edged balladry. By the mid‑1970s, as Australian acts aimed for international markets, Shorrock was an obvious candidate for a project designed around vocal blend and songcraft rather than blues‑rock grit.\n\nIn 1975 he became the founding lead singer of Little River Band, anchoring the group’s early identity as a harmony‑driven rock act with a pop sheen. On record he delivered the warm, conversational vocal style that suited the band’s adult‑contemporary crossover, and on stage he gave the carefully arranged harmonies a focal point that still felt frontman‑led.\n\nShorrock was also a songwriter within the band’s hit period. Among his best‑known contributions are “Cool Change,” a reflective, wind‑swept ballad built on a distinctly Australian phrase, and “Help Is on Its Way,” which became a major Australian hit and helped push the band’s profile internationally. His writing often favored direct emotional framing and strong choruses—ideal material for U.S. radio in the late 1970s.\n\nAs Little River Band’s U.S. success expanded, Shorrock’s voice became inseparable from the band’s biggest singles, including the Goble‑written “Reminiscing,” which he sang with a relaxed intimacy that contrasted with the era’s harder rock trends. The combination of studio polish, tight harmony stacks, and Shorrock’s accessible lead vocal was central to the group’s sustained American breakthrough.\n\nHe left the band in 1982 amid the pressures of constant touring and internal shifts, but returned for a later period beginning in 1987, again serving as a defining stage presence and linking the ongoing touring brand to the classic recordings.\n\nOutside Little River Band, Shorrock maintained a solo career and remained part of the band’s extended family through projects like Birtles Shorrock Goble, which reunited key classic‑era members and highlighted the vocal blend that made the original records distinctive.\n\nShorrock has been recognized both as an individual artist and as part of the group’s collective legacy. He was inducted into the ARIA Hall of Fame as a solo artist and later again as a member of Little River Band, underscoring his role in one of the most commercially successful Australian crossover stories of the modern pop‑rock era.\n\nIn the Little River Band narrative, Shorrock represents the bridge between Australian 1960s beat professionalism and late‑1970s international soft‑rock dominance: a frontman whose voice could sell reflective ballads, radio‑polished pop, and harmony‑heavy rock with equal ease.",
+            "Sources": [
+              {
+                "Title": "Glenn Shorrock",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Glenn_Shorrock"
+              },
+              {
+                "Title": "Bio",
+                "Publisher": "glennshorrock.com",
+                "Url": "https://www.glennshorrock.com/bio"
+              },
+              {
+                "Title": "Little River Band",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/little-river-band-mn0000219655"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Graeham Goble",
+          "Roles": "Guitar, vocals, songwriter, producer",
+          "Instruments": "Guitar, vocals",
+          "YearsActive": "1975–1992",
+          "Albums": [
+            {
+              "Title": "Diamantina Cocktail",
+              "Year": 1977
+            },
+            {
+              "Title": "Sleeper Catcher",
+              "Year": 1978
+            },
+            {
+              "Title": "First Under the Wire",
+              "Year": 1979
+            },
+            {
+              "Title": "Time Exposure",
+              "Year": 1981
+            }
+          ],
+          "Bio": {
+            "ArtistID": "little-river-band",
+            "BioID": "little-river-band-graeham-goble",
+            "FullName": "Graeham George Goble",
+            "Birth": {
+              "Date": "1947-05-15",
+              "Place": "Adelaide, South Australia, Australia"
+            },
+            "Nationality": "Australian",
+            "Roles": [
+              "Singer",
+              "Songwriter",
+              "Guitarist",
+              "Producer"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals",
+              "Bass"
+            ],
+            "FullText": "Graeham Goble (born 15 May 1947) is an Australian musician, singer‑songwriter, and record producer whose writing and vocal‑arrangement sensibility helped define Little River Band’s classic sound. Raised in Adelaide, he developed early as a singer and guitarist with an ear for harmony that would later become his calling card.\n\nBefore Little River Band, Goble worked in the Australian soft‑rock and country‑rock circuit, leading projects that emphasized vocal blend and melodic songwriting. That background proved crucial when Little River Band was conceived as a group capable of competing internationally with polished pop‑rock rather than bar‑band grit.\n\nAs a founding member in 1975, Goble became both an on‑stage vocalist/guitarist and a behind‑the‑scenes architect. Within the band he was widely associated with high harmonies and vocal arrangements—elements that gave the recordings their smooth, stacked sheen and made the group unusually consistent on radio across different producers and studios.\n\nGoble’s songwriting placed him at the center of the band’s U.S. crossover. He wrote “Reminiscing,” the group’s biggest American hit, which paired conversational nostalgia with a hooky chorus and became a defining soft‑rock staple. He also wrote “Lady,” another key crossover single that reached the U.S. Top 10, demonstrating his ability to craft songs that felt intimate but arena‑ready.\n\nHis work extended beyond the late‑’70s breakthrough. In the early 1980s he continued contributing major singles, including “The Night Owls,” which returned Little River Band to the U.S. Top 10 and helped shift the band toward an AOR‑leaning production style without losing the vocal identity.\n\nGoble’s role in Little River Band wasn’t limited to hit singles; he was part of the broader approach that made the albums cohere—tight harmonic writing, careful pacing, and a blend of acoustic and electric textures that stayed friendly to adult‑contemporary formats while still reading as a rock band.\n\nAfter the classic era, Goble remained active in music through writing, producing, and later reunion projects. One of the most visible was Birtles & Goble and then Birtles Shorrock Goble, which re‑centered the classic‑era harmony blend for audiences who associated the name with the original voices.\n\nIn the band’s long story of lineup changes, Goble stands out as the composer most closely tied to the core of the international catalog. His songs became reference points for what “Little River Band” meant to U.S. radio: smooth harmonies, crisp pop structure, and a sense of melodic ease.\n\nThe 2004 ARIA Hall of Fame induction for the classic lineup recognized that catalog and its makers. Goble’s place in that lineup is particularly central because the band’s defining hits were not only sung with harmony, they were written with harmony in mind—an approach that was as much his signature as any guitar part.\n\nAcross decades, Goble’s legacy is the quiet professionalism of pop craftsmanship: songs that sound effortless, arrangements that feel inevitable, and harmonies that turn a rock band into a vocal ensemble.",
+            "Sources": [
+              {
+                "Title": "Graeham Goble",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Graeham_Goble"
+              },
+              {
+                "Title": "Reminiscing",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Reminiscing"
+              },
+              {
+                "Title": "Lady (Little River Band song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Lady_(Little_River_Band_song)"
+              },
+              {
+                "Title": "Little River Band",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/little-river-band-mn0000219655"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Beeb Birtles",
+          "Roles": "Guitar, vocals, songwriter",
+          "Instruments": "Guitar, vocals",
+          "YearsActive": "1975–1983",
+          "Albums": [
+            {
+              "Title": "Diamantina Cocktail",
+              "Year": 1977
+            },
+            {
+              "Title": "Sleeper Catcher",
+              "Year": 1978
+            },
+            {
+              "Title": "First Under the Wire",
+              "Year": 1979
+            }
+          ],
+          "Bio": {
+            "ArtistID": "little-river-band",
+            "BioID": "little-river-band-beeb-birtles",
+            "FullName": "Gerard Bertelkamp (Beeb Birtles)",
+            "Birth": {
+              "Date": "1948-11-28",
+              "Place": "Amsterdam, Netherlands"
+            },
+            "Nationality": "Australian (Dutch-born)",
+            "Roles": [
+              "Singer",
+              "Songwriter",
+              "Guitarist"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals",
+              "Bass"
+            ],
+            "FullText": "Beeb Birtles (born Gerard Bertelkamp, 28 November 1948) is a Dutch‑born Australian singer, songwriter, and guitarist whose bright vocal tone and harmony instincts were foundational to Little River Band’s identity. Born in Amsterdam and raised in Australia from childhood, he came of age in the 1960s wave of Australian pop‑rock groups that mixed British‑influenced beat music with local touring toughness.\n\nBirtles first gained national visibility as a member of Zoot, a late‑1960s/early‑1970s pop‑rock band remembered for energetic performances and for launching key Australian careers. That period honed his stagecraft and his ability to blend lead and harmony singing—skills that became a recurring theme in his later projects.\n\nIn the early 1970s he joined Mississippi, a harmony‑minded country‑rock group connected to Graeham Goble and Derek Pellicci. The band’s focus on vocal blend and melodic songwriting was effectively a rehearsal space for what Little River Band would become: a group designed around polished ensemble singing rather than a single dominant frontman.\n\nWhen Little River Band formed in Melbourne in 1975, Birtles was a core architect. As a founding guitarist and vocalist, he provided both a key harmony voice and a rhythmic guitar foundation that helped keep the recordings buoyant and radio‑friendly. The classic LRB sound—stacked harmonies, clean chords, and carefully controlled dynamics—relied on performers who could sing like a vocal group while still operating as a rock band, and Birtles was essential to that balance.\n\nDuring the band’s international breakthrough, his role expanded beyond parts: he helped define the group’s on‑stage blend and the studio layering that made songs like “Reminiscing” and “Lady” feel both intimate and expansive. Even when he wasn’t the primary songwriter on the biggest U.S. singles, his vocal color was a key part of the recognizable “LRB” timbre.\n\nBirtles remained with Little River Band through 1983, spanning the late‑’70s peak and the early‑’80s transition period. As the group’s personnel began to shift, his departure marked the end of the classic multi‑vocal front line that many listeners associate with the original hits.\n\nAfter leaving the band, he continued pursuing harmony‑centric projects and solo work. His later collaborations with fellow classic members—including Birtles & Goble and then Birtles Shorrock Goble—were explicitly aimed at reclaiming the original voices and arrangements that defined the 1970s records.\n\nThose reunion projects also reflect his broader artistic identity: Birtles is less a “guitar hero” than a musician shaped by ensemble performance, where the guitar supports the song and the voice carries the hook.\n\nThe ARIA Hall of Fame induction in 2004 for the classic Little River Band lineup recognized that ensemble approach. Birtles’ contribution is best heard in the way the band’s choruses open up—multiple voices locking together with a pop smoothness that still reads as rock.\n\nIn the Little River Band story, Birtles represents the group’s harmony tradition: a singer‑guitarist whose instincts for blend and melody helped turn an Australian “supergroup” into an international soft‑rock institution.",
+            "Sources": [
+              {
+                "Title": "Beeb Birtles",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Beeb_Birtles"
+              },
+              {
+                "Title": "Mississippi (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mississippi_(band)"
+              },
+              {
+                "Title": "Little River Band",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/little-river-band-mn0000219655"
+              },
+              {
+                "Title": "2004 ARIA Awards — past winners",
+                "Publisher": "ARIA",
+                "Url": "https://www.aria.com.au/awards/past-winners/2004"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Derek Pellicci",
+          "Roles": "Drums, percussion",
+          "Instruments": "Drums, percussion",
+          "YearsActive": "1975–1984; 1987–1997",
+          "Albums": [
+            {
+              "Title": "Diamantina Cocktail",
+              "Year": 1977
+            },
+            {
+              "Title": "Sleeper Catcher",
+              "Year": 1978
+            },
+            {
+              "Title": "First Under the Wire",
+              "Year": 1979
+            },
+            {
+              "Title": "Time Exposure",
+              "Year": 1981
+            }
+          ],
+          "Bio": {
+            "ArtistID": "little-river-band",
+            "BioID": "little-river-band-derek-pellicci",
+            "FullName": "Derek Allan Pellicci",
+            "Birth": {
+              "Date": "1953-02-18",
+              "Place": "London, England"
+            },
+            "Nationality": "Australian (English-born)",
+            "Roles": [
+              "Drummer"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "FullText": "Derek Pellicci (born 18 February 1953) is an English‑born Australian drummer best known as a founding member of Little River Band. Born in London and raised in Melbourne after emigrating as a child, he developed in the post‑beat boom where Australian rock musicians absorbed British and American influences while building a distinct local touring culture.\n\nPellicci’s early professional experience came through Australian groups that valued strong song structures and ensemble playing. Before Little River Band, he worked with Mississippi, a harmony‑leaning country‑rock outfit that also involved Graeham Goble and Beeb Birtles. The band’s focus on vocal blend and careful arrangements was an ideal training ground for the precision that Little River Band required.\n\nWhen Little River Band formed in 1975, Pellicci helped anchor a sound that needed to be both rock‑solid and studio‑clean. The group’s hallmark harmonies and polished production depended on drumming that could stay subtle under verses, open up choruses without clutter, and keep tempos consistent for layered vocals—an approach Pellicci delivered with steady time and restrained accents.\n\nAcross the band’s late‑1970s peak, he played on the albums and singles that defined their international profile, helping carry songs like “Reminiscing,” “Lonesome Loser,” and “Cool Change” with a rhythmic feel that leaned more pop than heavy rock but still projected on large stages.\n\nA notable interruption during the classic era came when Pellicci suffered burn injuries that temporarily prevented him from performing, requiring a substitute drummer on tour until he recovered. The episode underscores how demanding the band’s international touring schedule had become during the breakout years.\n\nPellicci returned and continued with the group through subsequent shifts, including the early‑1980s era when production trends moved toward brighter, more compressed AOR textures. His drumming remained a stabilizing element even as personnel and sonic priorities changed.\n\nHe later rejoined for a second extended stint, reflecting how closely his playing style was associated with the band’s classic identity, particularly for audiences who wanted the hits to sound like the records.\n\nIn the context of Little River Band’s “singing band” reputation, Pellicci’s contribution is sometimes understated: the vocals take the spotlight, but the rhythmic foundation has to be disciplined enough to support intricate harmonies and polished arrangements. His work exemplifies that kind of drummer‑as‑architect role.\n\nThe classic lineup’s 2004 ARIA Hall of Fame induction recognized not only the front‑line voices and writers, but also the ensemble musicianship that made the group exportable. Pellicci’s steady, song‑serving approach was central to that portability—the ability to deliver sophisticated pop‑rock night after night.\n\nFor listeners, Pellicci’s legacy inside Little River Band is the feel of the records: controlled dynamics, clean pocket, and a sense that the rhythm section exists to let the harmonies and melodies land with maximum impact.",
+            "Sources": [
+              {
+                "Title": "Derek Pellicci",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Derek_Pellicci"
+              },
+              {
+                "Title": "List of Little River Band members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Little_River_Band_members"
+              },
+              {
+                "Title": "Little River Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Little_River_Band"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "David Briggs",
+          "Roles": "Lead guitar, songwriter, producer",
+          "Instruments": "Guitar",
+          "YearsActive": "1976–1981",
+          "Albums": [
+            {
+              "Title": "Diamantina Cocktail",
+              "Year": 1977
+            },
+            {
+              "Title": "Sleeper Catcher",
+              "Year": 1978
+            },
+            {
+              "Title": "First Under the Wire",
+              "Year": 1979
+            },
+            {
+              "Title": "Time Exposure",
+              "Year": 1981
+            }
+          ],
+          "Bio": {
+            "ArtistID": "little-river-band",
+            "BioID": "little-river-band-david-briggs",
+            "FullName": "David John Briggs",
+            "Birth": {
+              "Date": "1951-01-26",
+              "Place": "Melbourne, Australia"
+            },
+            "Nationality": "Australian",
+            "Roles": [
+              "Guitarist",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "FullText": "David Briggs (born 26 January 1951) is an Australian guitarist, songwriter, and record producer whose melodic lead work helped shape Little River Band’s classic sound and whose writing contributed directly to their U.S. hit run. Born in Melbourne, he emerged from the city’s active 1970s rock scene as a player suited to both tight studio arrangements and large‑stage touring.\n\nBriggs joined Little River Band in 1976, in time to be part of the lineup most commonly associated with the band’s international breakthrough. His playing fit the group’s hybrid identity: the guitars had to read as rock, but with the clarity and restraint needed to leave room for stacked harmonies and pop‑leaning choruses.\n\nOn record, Briggs brought a clean, singing lead style rather than heavy blues‑rock distortion—an approach that complemented the band’s adult‑contemporary crossover and helped their songs sit comfortably on U.S. radio alongside softer pop and more polished AOR acts.\n\nHe also contributed as a songwriter. Most notably, he wrote “Lonesome Loser,” one of Little River Band’s defining singles, which became a U.S. Top‑10 hit. The song’s tight structure and memorable guitar‑driven momentum show how his writing aligned with the group’s mission: hooks first, with instrumental color in support of melody.\n\nDuring the key years of Sleeper Catcher and First Under the Wire, Briggs’ guitar work—both rhythmic and lead—helped the band move between acoustic warmth and more assertive rock texture. In a group known primarily for vocals, his ability to add edge without breaking the smooth aesthetic was an important part of what kept the records from drifting into pure easy listening.\n\nAs the band moved into the early 1980s, production styles shifted and personnel began to change. Briggs departed in 1981, closing a period in which the “classic lineup” balance of pop polish and rock instrumentation was especially strong.\n\nBeyond Little River Band, Briggs built a substantial career as a producer and engineer, applying the same precision that served the band’s meticulously layered recordings. In that sense his Little River Band years are a clear foundation: the discipline of making pop‑rock sound effortless while still reading as a band performance.\n\nWithin the Little River Band catalog, Briggs’ legacy is easiest to hear on the hit singles: guitar parts that are memorable without being showy, and solos that feel like extensions of the vocal melody. It’s the kind of playing that supports harmony rather than competing with it.\n\nFor listeners who associate Little River Band with smooth choruses and polished studio sound, Briggs represents the “rock” half of that equation—an artist who helped keep the group grounded in band dynamics even as they mastered pop craft.\n\nHis combination of melodic lead guitar and commercially focused songwriting remains a key ingredient in the classic era’s longevity on classic‑rock and adult‑contemporary formats.",
+            "Sources": [
+              {
+                "Title": "Lonesome Loser",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Lonesome_Loser"
+              },
+              {
+                "Title": "Artist: David Briggs [AU]",
+                "Publisher": "SecondHandSongs",
+                "Url": "https://secondhandsongs.com/artist/11968/all"
+              },
+              {
+                "Title": "Little River Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Little_River_Band"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "George McArdle",
+          "Roles": "Bass guitar",
+          "Instruments": "Bass guitar",
+          "YearsActive": "1976–1979",
+          "Albums": [
+            {
+              "Title": "Diamantina Cocktail",
+              "Year": 1977
+            },
+            {
+              "Title": "Sleeper Catcher",
+              "Year": 1978
+            }
+          ],
+          "Bio": {
+            "ArtistID": "little-river-band",
+            "BioID": "little-river-band-george-mcardle",
+            "FullName": "George McArdle",
+            "Birth": {
+              "Date": "",
+              "Place": "Melbourne, Australia"
+            },
+            "Nationality": "Australian",
+            "Roles": [
+              "Bassist"
+            ],
+            "Instruments": [
+              "Bass guitar"
+            ],
+            "FullText": "George McArdle is an Australian bassist best known for his role in Little River Band’s classic late‑1970s lineup, where his supportive, melodic bass lines helped underpin the group’s harmony‑rich soft‑rock sound. Associated with Melbourne’s working‑musician circuit, he joined at the moment the band was transitioning from a promising local “supergroup” into a focused international contender.\n\nMcArdle entered Little River Band around 1976 and became part of the lineup often highlighted in accounts of the band’s breakthrough years—alongside Glenn Shorrock, Beeb Birtles, Graeham Goble, Derek Pellicci, and David Briggs. That configuration produced the run of albums that established the band’s export identity, balancing pop craft with rock instrumentation and careful vocal stacking.\n\nAs a bassist in a group known for vocals, McArdle’s job was less about flash than feel: locking the rhythm section to clean, steady grooves that allowed intricate harmonies to land precisely. The band’s recordings from this era prize clarity, and the bass often functions as a melodic counter‑voice, subtly reinforcing chord movement while keeping the overall texture light.\n\nHis most visible contribution is simply being present on the defining records of the period, including Diamantina Cocktail and Sleeper Catcher. Those albums carried the singles that pushed Little River Band into sustained U.S. radio play and made them one of Australia’s most successful international pop‑rock exports.\n\nMcArdle’s tenure ended in early 1979, when he left the band after converting to Christianity and choosing to pursue ministry and Bible college rather than continue the intense touring schedule. His departure is one of the key personnel turning points in the classic era, coming just as the band’s U.S. momentum was at a high.\n\nIn retrospect, his short stint is still central to the band’s story because it overlaps the moment when Little River Band’s sound crystallized: disciplined rhythm section, carefully arranged harmonies, and pop‑ready songs delivered with rock‑band cohesion.\n\nThe classic lineup’s induction into the ARIA Hall of Fame in 2004 publicly acknowledged that particular configuration and the music it produced. McArdle’s inclusion highlights how much the era was an ensemble achievement rather than the product of a single star.\n\nFor fans of the late‑1970s records, McArdle represents the understated musicianship that makes the songs work: bass playing that is felt as much as heard, and an approach built around serving the arrangement—exactly what harmony‑driven soft rock requires.",
+            "Sources": [
+              {
+                "Title": "Little River Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Little_River_Band"
+              },
+              {
+                "Title": "Brawler, Bible college student, Little River Band bass player",
+                "Publisher": "ABC Radio National",
+                "Url": "https://www.abc.net.au/listen/programs/the-history-listen/george-mcardle/11665886"
+              },
+              {
+                "Title": "2004 ARIA Awards — past winners",
+                "Publisher": "ARIA",
+                "Url": "https://www.aria.com.au/awards/past-winners/2004"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John Farnham",
+          "Roles": "Lead vocals",
+          "YearsActive": "1982–1983",
+          "Overview": "Australian singer who briefly fronted Little River Band in the early 1980s, including the era around “The Other Guy,” before resuming a major solo career."
+        },
+        {
+          "Name": "Wayne Nelson",
+          "Roles": "Bass, vocals",
+          "YearsActive": "1980–1996; 1999–present",
+          "Overview": "American bassist and vocalist who became a long‑running front figure in later touring lineups, appearing on key early‑’80s hits and subsequent decades of live activity."
+        },
+        {
+          "Name": "Stephen Housden",
+          "Roles": "Guitar",
+          "YearsActive": "1981–present",
+          "Overview": "Guitarist associated with later versions of Little River Band and closely involved in the band’s ongoing touring identity after the classic‑era lineup changes."
+        },
+        {
+          "Name": "Ric Formosa",
+          "Roles": "Guitar, vocals",
+          "YearsActive": "1975–1976",
+          "Overview": "Early member in the band’s first year, contributing guitar and vocals before the lineup stabilized into the more widely recognized late‑1970s configuration."
+        },
+        {
+          "Name": "Roger McLachlan",
+          "Roles": "Bass guitar",
+          "YearsActive": "1975–1976; 1998–1999",
+          "Overview": "Founding‑era bassist who played in the band’s earliest phase before later briefly returning during a late‑1990s lineup change."
+        }
+      ]
     },
     {
       "ArtistID": "live",
