@@ -283,27 +283,455 @@
     {
       "ArtistID": "three-dog-night",
       "Name": "Three Dog Night",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Los Angeles",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1967–1976",
+        "1981–present"
+      ],
+      "Genres": [
+        "Pop rock",
+        "Soft rock",
+        "Roots rock"
+      ],
+      "Labels": [
+        "Dunhill",
+        "MGM",
+        "MCA",
+        "Epic",
+        "Columbia"
+      ],
+      "Overview": "Three Dog Night is a Los Angeles–based rock band formed in 1967 around a simple, unusual idea: three lead singers sharing the front of the stage. Danny Hutton, Cory Wells, and Chuck Negron rotated leads depending on what a song demanded, giving the group a built‑in range—from soulful power to bluesy grit to bright pop clarity—without ever feeling like a backing band for a single star.\n\nThat vocal concept paired perfectly with their hit‑making method. Rather than writing everything in‑house, the band became famous for spotting great material from rising songwriters, then turning it into radio-ready records through big harmonies, punchy arrangements, and a production style that hit hard on AM and still held up on FM.\n\nFrom the late 1960s into the mid‑1970s, Three Dog Night became one of the era’s most consistent singles acts, stacking Top 40 hits and selling out arenas. After an original run that ended in 1976, the group returned to touring in the early 1980s and has continued to perform, keeping its classic catalog in active rotation for new generations.",
+      "NotableAlbums": [
+        {
+          "Title": "Three Dog Night",
+          "Year": "1968",
+          "Notes": "The debut that introduced the three‑lead‑singer concept to a wide audience, with ‘One’ setting the template for their harmony-forward, radio-built sound."
+        },
+        {
+          "Title": "Suitable for Framing",
+          "Year": "1969",
+          "Notes": "A breakout era record that pushed them deeper into mainstream rock-pop, tightening the band’s arrangements around big choruses and quick hooks."
+        },
+        {
+          "Title": "It Ain't Easy",
+          "Year": "1970",
+          "Notes": "The album that carried ‘Mama Told Me (Not to Come)’ and captured the group at full commercial momentum—loud, melodic, and built for sing-alongs."
+        },
+        {
+          "Title": "Naturally",
+          "Year": "1970",
+          "Notes": "Home to ‘Joy to the World,’ a peak moment for the band’s knack for turning strong outside songwriting into undeniable pop-rock hits."
+        },
+        {
+          "Title": "Harmony",
+          "Year": "1971",
+          "Notes": "A polished early-’70s statement featuring ‘An Old Fashioned Love Song’—showing how the trio’s voices could make even gentle material feel arena-sized."
+        },
+        {
+          "Title": "Seven Separate Fools",
+          "Year": "1972",
+          "Notes": "A confident mid‑period album powered by ‘Black and White,’ balancing pop sheen with a tougher band feel."
+        },
+        {
+          "Title": "Hard Labor",
+          "Year": "1974",
+          "Notes": "A later-era highlight with darker textures and a heavier edge, anchored by ‘The Show Must Go On.’"
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "One",
+          "Year": "1969",
+          "Notes": "A dramatic early signature and a showcase for the band’s gift for choosing the right lead voice and stacking harmonies for maximum impact."
+        },
+        {
+          "Title": "Mama Told Me (Not to Come)",
+          "Year": "1970",
+          "Notes": "A punchy, swaggering hit that became one of their defining singles—tight grooves, big vocals, and instant chorus payoff."
+        },
+        {
+          "Title": "Joy to the World",
+          "Year": "1971",
+          "Notes": "An era-defining sing‑along and one of the band’s biggest cultural touchstones—built around a chorus so catchy it became unavoidable."
+        },
+        {
+          "Title": "An Old Fashioned Love Song",
+          "Year": "1971",
+          "Notes": "A warm, melodic crowd-pleaser that highlights the trio’s ability to turn harmony into a kind of signature instrument."
+        },
+        {
+          "Title": "Never Been to Spain",
+          "Year": "1971",
+          "Notes": "A reflective, story-driven hit that shows the band’s range beyond party anthems, with a vocal that sells the lyric’s irony and longing."
+        },
+        {
+          "Title": "Black and White",
+          "Year": "1972",
+          "Notes": "A bright, message-forward single that kept the band’s streak going, pairing upbeat pop-rock with a memorable hook."
+        },
+        {
+          "Title": "Shambala",
+          "Year": "1973",
+          "Notes": "A kinetic, optimistic hit with a rolling groove and big communal vocals—classic Three Dog Night energy."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Three #1 Billboard Hot 100 singles",
+          "Year": "1970–1972",
+          "Notes": "The band scored three U.S. Hot 100 chart-toppers, including ‘Mama Told Me (Not to Come)’ and ‘Joy to the World,’ during its peak early-’70s run."
+        },
+        {
+          "Title": "21 consecutive U.S. Top 40 hits (classic era claim)",
+          "Year": "1969–1975",
+          "Notes": "Often cited as a defining statistic of their commercial consistency, reflecting how reliably their singles landed on mainstream radio."
+        },
+        {
+          "Title": "RIAA gold/platinum album certifications",
+          "Year": "1970s",
+          "Notes": "Multiple albums earned RIAA certifications in the band’s prime, underscoring their status as one of the era’s biggest singles-and-albums draws."
+        },
+        {
+          "Title": "Top-tier touring draw of the early 1970s",
+          "Year": "1970–1974",
+          "Notes": "Known as an arena-ready live act, matching studio polish with high-volume, three-voice performance power."
+        }
+      ],
+      "KeyFacts": [
+        "Built around three rotating lead singers—Danny Hutton, Cory Wells, and Chuck Negron—who shared the front line rather than using a single permanent frontman.",
+        "Famous for curating outside songs and elevating them through harmony-driven arrangements and radio-focused production.",
+        "Classic-era run: 1967–1976; reunion/touring era: 1981–present."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.threedognight.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Three_Dog_Night",
+        "Discography": "https://en.wikipedia.org/wiki/Three_Dog_Night_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Danny Hutton",
+          "YearsActive": "1967–1976, 1981–present",
+          "Roles": "Lead vocals • Harmonies • Founding member",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Three Dog Night",
+            "It Ain't Easy",
+            "Naturally",
+            "Harmony",
+            "Seven Separate Fools",
+            "Hard Labor"
+          ],
+          "Overview": "Founding voice and long-term anchor of the band’s three-singer concept, known for steady stage presence and harmony work that helped keep the live sound tight.",
+          "Bio": {
+            "BioID": "bio-three-dog-night-danny-hutton",
+            "ArtistID": "three-dog-night",
+            "ArtistName": "Three Dog Night",
+            "MemberName": "Danny Hutton",
+            "FullName": "Daniel Anthony Hutton",
+            "Birth": {
+              "Date": "1942-09-10",
+              "Place": "Buncrana, County Donegal, Ireland"
+            },
+            "Nationality": "Irish-American",
+            "Genres": [
+              "Pop rock",
+              "Rock",
+              "Soft rock"
+            ],
+            "Roles": "Singer • Vocalist • Founding member",
+            "Instruments": "Vocals",
+            "Occupations": [
+              "singer",
+              "vocalist"
+            ],
+            "PrimaryInstruments": [
+              "vocals"
+            ],
+            "FullText": "Danny Hutton (Daniel Anthony Hutton) grew up with music as a practical craft—singing, cutting singles, and learning how to survive the Los Angeles studio scene before he ever became a household name.\n\nBorn on September 10, 1942, in Buncrana, County Donegal, Ireland, he moved to the United States as a child and eventually made his way into the orbit of mid‑’60s pop and TV‑music work in Southern California.\n\nIn those early years he recorded under his own name, worked with professional writers and producers, and developed an ear for what translated on radio: tight arrangements, big choruses, and vocals that felt immediate.\n\nThat combination—experience, taste, and drive—put him in the right place when the idea formed for a band built around three distinct lead singers rather than a single frontman.\n\nWith Chuck Negron and Cory Wells, Hutton helped launch Three Dog Night, a group that became famous for treating the studio like a showcase: they’d take great outside material, reshape it with their own blend, and then send one of the three voices to the front as the song demanded.\n\nHutton’s role in that system was both musical and organizational. He could sing lead or harmony, but he also acted as a steadying presence in a band that moved at a relentless pace—recording, touring, and keeping up with a flood of hit singles.\n\nOnstage he was the anchor of the vocal trio’s chemistry: less about spotlight‑grabbing theatrics and more about keeping the performance locked, phrasing clean, and the harmonies crisp even when the arrangements turned huge.\n\nAfter the band’s mid‑’70s breakup, Hutton stayed connected to the group’s legacy and eventually returned when Three Dog Night resumed touring in the early ’80s, helping keep the name alive for new audiences.\n\nAcross the decades, his through‑line has been durability—adapting to changing lineups, protecting the sound people came to hear, and treating the hits as living songs rather than museum pieces.\n\nFor fans, Hutton is inseparable from the Three Dog Night identity: a founding voice, a long‑term steward of the band, and a reminder that their success was built on teamwork as much as talent.\n\nHis story also captures a particular kind of 1960s–1970s professionalism—artists who could move between sessions, touring, and television, and still deliver polished, powerful vocals night after night.\n\nEven as the band evolved, Hutton’s presence signaled continuity: the same three‑voice concept, the same commitment to tight performance, and the same insistence that great songs deserved great singing.",
+            "HonoursAndMilestones": [
+              {
+                "Title": "Billboard-era hitmaker",
+                "Year": "1969–1975",
+                "Summary": "As a founding vocalist, helped power a run of hit singles that kept the band on radio and in arenas throughout the early 1970s."
+              },
+              {
+                "Title": "Legacy touring era",
+                "Year": "1981–present",
+                "Summary": "Returned with later lineups to keep the band’s catalog in active rotation for new audiences."
+              }
+            ],
+            "FunFacts": [
+              "Three Dog Night’s concept centered on three rotating lead singers—Hutton was one of the original voices that made that approach work.",
+              "He had a solo/industry start in Los Angeles before the band’s breakout, which helped him navigate fast-moving recording and touring schedules."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Three Dog Night (official site)",
+                "Url": "https://www.threedognight.com/"
+              },
+              {
+                "Title": "Danny Hutton (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Danny_Hutton"
+              },
+              {
+                "Title": "Three Dog Night (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Three_Dog_Night"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Chuck Negron",
+          "YearsActive": "1967–1976",
+          "Roles": "Lead vocals • Founding member",
+          "Instruments": "Vocals",
+          "Albums": [
+            "Three Dog Night",
+            "It Ain't Easy",
+            "Naturally",
+            "Harmony",
+            "Seven Separate Fools"
+          ],
+          "Overview": "Soul-forward powerhouse vocalist whose soaring tone and emotional phrasing became a defining part of the band’s biggest choruses and radio identity.",
+          "Bio": {
+            "BioID": "bio-three-dog-night-chuck-negron",
+            "ArtistID": "three-dog-night",
+            "ArtistName": "Three Dog Night",
+            "MemberName": "Chuck Negron",
+            "FullName": "Charles Negron II",
+            "Birth": {
+              "Date": "1942-06-08",
+              "Place": "New York City, New York, United States"
+            },
+            "Nationality": "American",
+            "Genres": [
+              "Pop rock",
+              "Soft rock",
+              "Blue-eyed soul"
+            ],
+            "Roles": "Singer • Songwriter • Founding member",
+            "Instruments": "Vocals",
+            "Occupations": [
+              "singer",
+              "songwriter"
+            ],
+            "PrimaryInstruments": [
+              "vocals"
+            ],
+            "FullText": "Chuck Negron (Charles Negron II) is one of rock’s most recognizable blue‑eyed‑soul voices—elastic, emotional, and built for the kind of choruses that radio can’t let go.\n\nBorn June 8, 1942, in New York City, he came up as a singer who could sell a lyric without oversinging it, balancing grit and warmth in a way that fit both rock and pop.\n\nWhen he teamed with Danny Hutton and Cory Wells, the concept was unusual: three lead vocalists sharing the spotlight, each bringing a different texture, personality, and range.\n\nThat three‑voice model became Three Dog Night’s secret weapon. Negron could handle soaring, gospel‑leaning leads, then pivot into harmonies that sounded like a full choir when the band leaned in together.\n\nHis signature moments often arrived when a song needed urgency—big notes, a pleading edge, or a soulful lift that turned a well‑written track into a genuine sing‑along.\n\nDuring the group’s peak run, the pace was intense: constant touring, frequent sessions, and a steady pipeline of singles. Negron’s voice was a key reason those records felt larger than life.\n\nHe also became a public symbol of the band’s human side—open about the pressures of fame and the personal costs that can come with nonstop success.\n\nIn later years he continued performing and telling his story, framing his career as both a celebration of the music and a hard‑earned lesson in resilience.\n\nNegron’s legacy inside Three Dog Night is more than any single hit: it’s the emotional center he brought to their catalog, turning outside compositions into performances that felt personal.\n\nListen to the band’s biggest choruses and you can hear it—his instinct for dynamics, his control over vibrato and phrasing, and his ability to make a pop hook feel like a confession.\n\nFor generations who discovered Three Dog Night through classic‑rock radio, Negron’s voice is often the first one that stops you mid‑dial.\n\nAnd for the band’s history, he remains a founding pillar of the three‑singer idea: proof that a group can share the spotlight and still create star‑level vocal moments.",
+            "HonoursAndMilestones": [
+              {
+                "Title": "Founding lead vocalist",
+                "Year": "1967–1976",
+                "Summary": "One of the three original lead singers; his voice became central to the band’s signature harmonies and hit singles."
+              },
+              {
+                "Title": "Autobiographical legacy",
+                "Year": "2000s–present",
+                "Summary": "Continued to perform and document the band’s story from a first-person perspective."
+              }
+            ],
+            "FunFacts": [
+              "Three Dog Night’s studio approach often matched the lead singer to the song—Negron’s soaring tone made him a natural fit for big choruses.",
+              "He is widely associated with the band’s most soul-forward vocal performances."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Chuck Negron (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Chuck_Negron"
+              },
+              {
+                "Title": "Three Dog Night (official bio)",
+                "Url": "https://www.threedognight.com/bio"
+              },
+              {
+                "Title": "Three Dog Night (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Three_Dog_Night"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Cory Wells",
+          "YearsActive": "1967–1976, 1981–2015",
+          "Roles": "Lead vocals • Founding member",
+          "Instruments": "Vocals • Guitar • Harmonica",
+          "Albums": [
+            "Three Dog Night",
+            "It Ain't Easy",
+            "Naturally",
+            "Harmony",
+            "Seven Separate Fools",
+            "Hard Labor"
+          ],
+          "Overview": "Rock-grounded singer with a bluesy edge who gave the group contrast and weight, helping the three‑lead‑singer format feel balanced rather than gimmicky.",
+          "Bio": {
+            "BioID": "bio-three-dog-night-cory-wells",
+            "ArtistID": "three-dog-night",
+            "ArtistName": "Three Dog Night",
+            "MemberName": "Cory Wells",
+            "FullName": "Emil Lewandowski",
+            "Birth": {
+              "Date": "1941-02-05",
+              "Place": "Buffalo, New York, United States"
+            },
+            "Death": {
+              "Date": "2015-10-20",
+              "Place": "Dunkirk, New York, United States",
+              "Cause": null
+            },
+            "Nationality": "American",
+            "Genres": [
+              "Rock",
+              "Pop rock",
+              "Soft rock"
+            ],
+            "Roles": "Singer • Founding member",
+            "Instruments": "Vocals • Guitar • Harmonica",
+            "Occupations": [
+              "singer",
+              "musician"
+            ],
+            "PrimaryInstruments": [
+              "vocals"
+            ],
+            "FullText": "Cory Wells (born Emil Lewandowski) brought a grounded, everyman intensity to Three Dog Night—an earthy rock voice that could sound tough, tender, or wry depending on the song.\n\nBorn February 5, 1941, in Buffalo, New York, he grew up around working‑class realities and local music, learning early that stage presence isn’t about polish so much as conviction.\n\nBefore Three Dog Night, he sang in regional groups and developed a style that mixed rock directness with bluesy phrasing—perfect for a band built around choosing the right singer for each track.\n\nWhen Wells joined forces with Danny Hutton and Chuck Negron, the trio created a rare balance: three distinct lead voices that could rotate naturally without the band ever feeling like a solo project with backups.\n\nWells often took leads that benefited from grit and storytelling—songs where the lyric needed weight, where the rhythm had to feel planted, and where the vocal had to sound like it came from lived experience.\n\nOnstage he was a stabilizer. While Three Dog Night’s arrangements were sometimes bright and pop‑leaning, Wells’ delivery kept the performance connected to rock’s rougher roots.\n\nDuring the band’s peak, that contrast mattered: the group could move from smooth harmony to full‑throttle shout, and Wells’ voice helped make that range believable.\n\nAfter the original run ended in the mid‑’70s, Wells remained tied to music and to the Three Dog Night name, returning when the band resumed touring and helping sustain their reputation as a powerhouse live act.\n\nIn later years he stepped back from the road, but fans continued to associate him with some of the group’s most memorable performances—proof that the band’s identity was shared, not owned by one frontman.\n\nWells died on October 20, 2015, in Dunkirk, New York, leaving behind a catalog that still feels alive whenever those hits come on the radio.\n\nHis long‑term impact is the kind you hear in tone and attitude: a voice that could sound friendly and fierce in the same chorus.\n\nFor Three Dog Night, Wells wasn’t just ‘one of the singers’—he was a core ingredient in the chemistry that made the band’s three‑lead concept work.",
+            "HonoursAndMilestones": [
+              {
+                "Title": "Founding lead vocalist",
+                "Year": "1967–1976",
+                "Summary": "One of Three Dog Night’s three front voices; brought a bluesy, rock-centered edge to the group’s vocal palette."
+              },
+              {
+                "Title": "Return-to-stage era",
+                "Year": "1981–2010s",
+                "Summary": "Rejoined the band in the reunion years and remained strongly associated with their live identity."
+              }
+            ],
+            "FunFacts": [
+              "Wells’ stage style often leaned more rootsy and rock-forward, giving the band contrast across its three-lead-singer approach.",
+              "He is remembered for keeping the group’s performances grounded even as their singles chased pop hooks."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Cory Wells (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Cory_Wells"
+              },
+              {
+                "Title": "Three Dog Night (official bio)",
+                "Url": "https://www.threedognight.com/bio"
+              },
+              {
+                "Title": "Three Dog Night (Wikipedia)",
+                "Url": "https://en.wikipedia.org/wiki/Three_Dog_Night"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Michael Allsup",
+          "YearsActive": "1967–1974, 1981–present",
+          "Roles": "Guitar • Arrangements (key lineup eras)",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Three Dog Night",
+            "It Ain't Easy",
+            "Naturally",
+            "Harmony",
+            "Seven Separate Fools",
+            "Hard Labor"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Core guitarist in the band’s classic lineup and a key part of their reunion-era touring sound, providing the crunchy rhythm foundation beneath the vocal trio."
+        },
+        {
+          "Name": "Jimmy Greenspoon",
+          "YearsActive": "1967–1976, 1981–2015",
+          "Roles": "Keyboards • Organ • Piano",
+          "Instruments": "Keyboards • Piano • Organ",
+          "Albums": [
+            "Three Dog Night",
+            "It Ain't Easy",
+            "Naturally",
+            "Harmony",
+            "Seven Separate Fools",
+            "Hard Labor"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "The band’s long-running keyboard voice, known for bright organ lines and supportive piano parts that helped their singles feel both punchy and polished."
+        },
+        {
+          "Name": "Joe Schermie",
+          "YearsActive": "1967–1973",
+          "Roles": "Bass",
+          "Instruments": "Bass",
+          "Albums": [
+            "Three Dog Night",
+            "It Ain't Easy",
+            "Naturally",
+            "Harmony"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Jack Ryland",
+          "Overview": "Original-era bassist whose locked-in grooves helped give the early hits their drive before departing in the mid‑period lineup changes."
+        },
+        {
+          "Name": "Floyd Sneed",
+          "YearsActive": "1967–1974",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "Three Dog Night",
+            "It Ain't Easy",
+            "Naturally",
+            "Harmony",
+            "Seven Separate Fools"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Classic-era drummer who powered the band’s high-output touring years, keeping arrangements tight while the three-lead-vocal approach stayed front and center."
+        },
+        {
+          "Name": "Jack Ryland",
+          "YearsActive": "1973–1975",
+          "Roles": "Bass",
+          "Instruments": "Bass",
+          "Albums": [
+            "Seven Separate Fools",
+            "Cyan",
+            "Hard Labor"
+          ],
+          "Replacing": "Joe Schermie",
+          "ReplacedBy": "",
+          "Overview": "Joined during the 1973–1975 lineup reshuffles, helping the band stay road-ready as they pushed into a heavier, later-era sound."
+        },
+        {
+          "Name": "Skip Konte",
+          "YearsActive": "1973–1975",
+          "Roles": "Keyboards (second chair)",
+          "Instruments": "Keyboards",
+          "Albums": [
+            "Seven Separate Fools",
+            "Cyan",
+            "Hard Labor"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Added as the band expanded its stage sound in the mid‑’70s, bringing extra keyboard textures that thickened live arrangements."
+        }
+      ]
     },
     {
       "ArtistID": "toad-the-wet-sprocket",
