@@ -2131,8 +2131,419 @@
   {
     "ArtistID": "boston",
     "Name": "Boston",
-    "CoreMembers": [],
-    "NonCoreMembers": []
+    "Type": "Band",
+    "Origin": {
+      "City": "Boston",
+      "Region": "Massachusetts",
+      "Country": "United States"
+    },
+    "YearsActive": [
+      "1975–present"
+    ],
+    "Genres": [
+      "Hard rock",
+      "Arena rock",
+      "Album rock",
+      "Classic rock"
+    ],
+    "Labels": [
+      "Epic",
+      "MCA",
+      "Artemis",
+      "Frontiers"
+    ],
+    "Overview": "Boston are an American arena‑rock band built around the songs, guitar architecture, and studio vision of Tom Scholz. Formed in the mid‑1970s in Massachusetts, the group broke through with Boston (1976), a debut defined by massive chorus hooks, layered guitar harmonies, and an unusually polished sound that Scholz largely crafted in a home‑studio environment. With Brad Delp’s soaring lead vocals and harmonies at the center, the album’s run of staples—“More Than a Feeling,” “Peace of Mind,” “Foreplay/Long Time,” “Rock and Roll Band,” and “Smokin’”—helped define U.S. album‑rock radio and made the band a stadium‑level act almost immediately.\n\nRather than follow a rapid release cycle, Boston became known for long gaps between albums as Scholz guarded creative control and worked through legal and contractual disputes during the 1980s. Even so, the early momentum continued with Don’t Look Back (1978), and the band later returned to the top tier with Third Stage (1986), which produced “Amanda,” Boston’s only No. 1 single on the Billboard Hot 100. Later studio albums—Walk On (1994) and Corporate America (2002)—arrived with shifting touring lineups, but the core identity remained the same: big melodic hooks delivered with a “guitars‑as‑orchestra” approach and radio‑ready vocal stacks.\n\nBoston’s story is also a story of engineering and production craft. Scholz’s perfectionist approach and gear innovation (including SR&D’s Rockman products) helped keep the band’s sonic signature consistent across decades. After Delp’s death in 2007, Boston continued primarily as a touring act with new lead vocalists, keeping the classic catalog in circulation while Scholz remained the band’s creative center.",
+    "NotableAlbums": [
+      {
+        "Title": "Boston",
+        "Year": "1976"
+      },
+      {
+        "Title": "Don't Look Back",
+        "Year": "1978"
+      },
+      {
+        "Title": "Third Stage",
+        "Year": "1986"
+      },
+      {
+        "Title": "Walk On",
+        "Year": "1994"
+      },
+      {
+        "Title": "Corporate America",
+        "Year": "2002"
+      }
+    ],
+    "SignatureSongs": [
+      "More Than a Feeling",
+      "Peace of Mind",
+      "Foreplay/Long Time",
+      "Rock and Roll Band",
+      "Smokin'",
+      "Hitch a Ride",
+      "Don't Look Back",
+      "Amanda",
+      "We're Ready",
+      "Cool the Engines"
+    ],
+    "Achievements": [
+      {
+        "Year": "2003",
+        "Title": "Boston (debut album) certified 17× Platinum (U.S.)",
+        "Details": "The Recording Industry Association of America (RIAA) lists Boston’s 1976 debut album Boston as 17× Platinum (certification date: November 20, 2003)."
+      },
+      {
+        "Year": "1977",
+        "Title": "Grammy nomination: Best New Artist",
+        "Details": "Boston received a Grammy nomination for Best New Artist for the 19th Annual Grammy Awards (covering the 1976 release year)."
+      },
+      {
+        "Year": "1986",
+        "Title": "“Amanda” reaches No. 1 on the Billboard Hot 100",
+        "Details": "The lead single from Third Stage became Boston’s biggest singles chart peak, hitting No. 1 in 1986."
+      },
+      {
+        "Year": "1986",
+        "Title": "Third Stage tops the Billboard 200",
+        "Details": "Boston returned with Third Stage after a long gap and reached the top of the U.S. album chart."
+      }
+    ],
+    "KeyFacts": [
+      "Boston’s early sound was built from layered guitars, stacked harmonies, and meticulous home‑studio recording led by Tom Scholz.",
+      "The band’s debut album Boston (1976) remains one of the best‑selling rock debuts in U.S. history.",
+      "Boston’s release schedule was shaped by long studio development cycles and legal/contractual disputes during the 1980s."
+    ],
+    "ExternalLinks": {
+      "Official Site": "https://www.bandboston.com",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Boston_(band)",
+      "Discography": "https://www.allmusic.com/artist/boston-mn0003991005/discography"
+    },
+    "CoreMembers": [
+      {
+        "Name": "Tom Scholz",
+        "Roles": [
+          "Guitarist",
+          "Keyboardist",
+          "Songwriter",
+          "Producer"
+        ],
+        "Years": "1975–present",
+        "Overview": "Founder and creative leader of Boston; primary songwriter/producer and architect of the band’s signature guitar‑layered sound.",
+        "Bio": {
+          "BioID": "bio-tom-scholz-boston",
+          "ArtistID": "boston",
+          "ArtistName": "Boston",
+          "MemberName": "Tom Scholz",
+          "FullName": "Donald Thomas Scholz",
+          "Birth": {
+            "Date": "1947-03-10",
+            "Place": "Toledo, Ohio, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Founder; guitarist; keyboardist; songwriter; producer; engineer; inventor",
+          "Instruments": "Guitars; keyboards; bass (studio); programming/engineering (studio)",
+          "Overview": "MIT‑trained engineer and Polaroid product developer who founded Boston and built the band’s signature arena‑rock sound through meticulous songwriting, home‑studio recording, and gear innovation.",
+          "Biography": "Tom Scholz is the engineer‑architect of Boston’s sound: a guitarist, multi‑instrumentalist, songwriter, and meticulous studio builder who turned a private demo project into one of the biggest debut albums in rock history.\n\nBorn in Toledo, Ohio, Scholz moved through the classic mid‑century path of math, science, and music in parallel. He studied at the Massachusetts Institute of Technology, earning an engineering degree and later a master’s, while also writing songs and playing in Boston‑area bands at night.\n\nAfter MIT, Scholz worked in product development at Polaroid, keeping music as a serious second life. Instead of chasing expensive studios, he invested in learning how to record with the precision he wanted, building a home setup where he could work alone, rework parts endlessly, and chase a very specific combination of clarity, power, and melody.\n\nThat home‑recording approach wasn’t a side note—it became the foundation. Scholz and vocalist Brad Delp assembled early versions of what became Boston’s signature material as layered demos, with Scholz handling most of the instrumentation and production while Delp supplied the soaring lead vocals and harmonies that would define the band’s radio impact.\n\nWhen the band was signed, Scholz’s insistence on keeping control of the sound led to an unusually complicated recording process: rather than abandon the demos’ feel, he used his own space—often referred to as Foxglove Studios—to recreate and perfect the material with the same tight arrangement, punchy guitars, and polished vocal stacks.\n\nThe result, Boston (1976), was built around Scholz’s vision of arena‑scale hooks delivered with near‑laboratory sonic discipline. He wrote or co‑wrote the key songs, played guitars and keyboards, shaped the tones, and treated the studio itself like an instrument—especially in the way guitars were layered for width, sustain, and harmonic sheen without losing attack.\n\nScholz’s perfectionism also shaped Boston’s famously slow release schedule. After the breakthrough of the first two albums, long delays followed as he worked through legal and contractual disputes, protected his creative autonomy, and continued to refine technology and studio methods that he believed were essential to the band’s identity.\n\nBeyond Boston, Scholz is notable as an inventor and gear designer. Through Scholz Research & Development (SR&D), he developed the Rockman line and related products that helped popularize a consistent, controllable rock guitar sound for recording and live use—another example of his tendency to solve musical problems with engineering.\n\nLeadership in Boston has largely meant leadership through craft: Scholz has been the member most closely associated with songwriting, recording decisions, and quality control, often building touring lineups around his arrangements while keeping the studio work under his direct oversight.\n\nAcross decades, his legacy is a rare blend of pop songwriting instincts and technical obsession: songs built for mass sing‑along impact, delivered with production values that helped define late‑70s and 80s album‑rock polish. Even when the band’s lineup changed, Boston’s core identity remained tied to Scholz’s guitar architecture and his insistence that the record should sound bigger than the room it was made in.",
+          "FullText": "Tom Scholz is the engineer‑architect of Boston’s sound: a guitarist, multi‑instrumentalist, songwriter, and meticulous studio builder who turned a private demo project into one of the biggest debut albums in rock history.\n\nBorn in Toledo, Ohio, Scholz moved through the classic mid‑century path of math, science, and music in parallel. He studied at the Massachusetts Institute of Technology, earning an engineering degree and later a master’s, while also writing songs and playing in Boston‑area bands at night.\n\nAfter MIT, Scholz worked in product development at Polaroid, keeping music as a serious second life. Instead of chasing expensive studios, he invested in learning how to record with the precision he wanted, building a home setup where he could work alone, rework parts endlessly, and chase a very specific combination of clarity, power, and melody.\n\nThat home‑recording approach wasn’t a side note—it became the foundation. Scholz and vocalist Brad Delp assembled early versions of what became Boston’s signature material as layered demos, with Scholz handling most of the instrumentation and production while Delp supplied the soaring lead vocals and harmonies that would define the band’s radio impact.\n\nWhen the band was signed, Scholz’s insistence on keeping control of the sound led to an unusually complicated recording process: rather than abandon the demos’ feel, he used his own space—often referred to as Foxglove Studios—to recreate and perfect the material with the same tight arrangement, punchy guitars, and polished vocal stacks.\n\nThe result, Boston (1976), was built around Scholz’s vision of arena‑scale hooks delivered with near‑laboratory sonic discipline. He wrote or co‑wrote the key songs, played guitars and keyboards, shaped the tones, and treated the studio itself like an instrument—especially in the way guitars were layered for width, sustain, and harmonic sheen without losing attack.\n\nScholz’s perfectionism also shaped Boston’s famously slow release schedule. After the breakthrough of the first two albums, long delays followed as he worked through legal and contractual disputes, protected his creative autonomy, and continued to refine technology and studio methods that he believed were essential to the band’s identity.\n\nBeyond Boston, Scholz is notable as an inventor and gear designer. Through Scholz Research & Development (SR&D), he developed the Rockman line and related products that helped popularize a consistent, controllable rock guitar sound for recording and live use—another example of his tendency to solve musical problems with engineering.\n\nLeadership in Boston has largely meant leadership through craft: Scholz has been the member most closely associated with songwriting, recording decisions, and quality control, often building touring lineups around his arrangements while keeping the studio work under his direct oversight.\n\nAcross decades, his legacy is a rare blend of pop songwriting instincts and technical obsession: songs built for mass sing‑along impact, delivered with production values that helped define late‑70s and 80s album‑rock polish. Even when the band’s lineup changed, Boston’s core identity remained tied to Scholz’s guitar architecture and his insistence that the record should sound bigger than the room it was made in.",
+          "KeyWork": [
+            "Boston (1976)",
+            "Don't Look Back (1978)",
+            "Third Stage (1986)",
+            "Rockman (SR&D) products"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Tom_Scholz",
+            "Britannica": "https://www.britannica.com/biography/Tom-Scholz",
+            "BMI": "https://www.bmi.com/news/entry/Tips_From_the_Top_Tom_Scholz_on_the_Making_of_Boston"
+          },
+          "Quotes": [],
+          "FunFacts": [],
+          "HonoursAndMilestones": [],
+          "Sources": [
+            {
+              "Title": "Gold & Platinum: Boston — Boston (17× Platinum, Certification Date: Nov 20, 2003)",
+              "Publisher": "RIAA",
+              "Url": "https://www.riaa.com/gold-platinum/"
+            },
+            {
+              "Title": "Tips From the Top: Tom Scholz on the Making of 'Boston'",
+              "Publisher": "BMI",
+              "Url": "https://www.bmi.com/news/entry/Tips_From_the_Top_Tom_Scholz_on_the_Making_of_Boston"
+            },
+            {
+              "Title": "Tom Scholz",
+              "Publisher": "Encyclopaedia Britannica",
+              "Url": "https://www.britannica.com/biography/Tom-Scholz"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Brad Delp",
+        "Roles": [
+          "Lead Vocalist",
+          "Harmony Vocalist",
+          "Songwriter"
+        ],
+        "Years": "1975–2007",
+        "Overview": "Boston’s defining voice on the classic era recordings, known for soaring lead vocals and meticulously stacked harmonies.",
+        "Bio": {
+          "BioID": "bio-brad-delp-boston",
+          "ArtistID": "boston",
+          "ArtistName": "Boston",
+          "MemberName": "Brad Delp",
+          "FullName": "Bradley Edward Delp",
+          "Birth": {
+            "Date": "1951-06-12",
+            "Place": "Peabody, Massachusetts, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Lead vocalist; harmony vocalist; songwriter",
+          "Instruments": "Vocals; guitar (occasional)",
+          "Overview": "Boston’s lead singer whose soaring tenor and precise harmonies defined the band’s biggest hits and helped make the debut album a classic‑rock staple.",
+          "Biography": "Brad Delp was Boston’s defining voice—an expressive, high‑range rock singer with a warm tone and precise pitch who turned Tom Scholz’s meticulously layered tracks into songs that felt both larger‑than‑life and emotionally direct.\n\nDelp was born in Massachusetts and grew up surrounded by the region’s tight network of bands, clubs, and rehearsal spaces. His early years mixed everyday working life with a deep commitment to singing, harmonies, and the craft of making rock vocals sound effortless.\n\nWhen Delp connected with Scholz, the match was unusually complete: Scholz had fully developed songs and a production‑heavy approach, and Delp could deliver lead vocals that stayed clear even when stacked in multiple layers. That partnership became the backbone of Boston’s breakthrough.\n\nOn the debut album Boston (1976), Delp’s performances are central to nearly every hook—from the bright urgency of “More Than a Feeling” to the uplifting confidence of “Peace of Mind” and the long‑form build of “Foreplay/Long Time.” His ability to sound powerful without harshness helped the band’s songs dominate FM radio and remain durable for decades.\n\nDelp’s role wasn’t limited to singing the main lines. Boston’s recordings rely on dense harmony structures and doubled parts; Delp’s control made those stacks sound unified rather than cluttered, giving the band’s choruses a choral lift while keeping lyrics intelligible.\n\nThrough the band’s long gaps between albums, Delp remained closely associated with Boston’s public identity, appearing on later records and continuing to perform the material live. He also pursued projects outside the band, including work with Barry Goudreau and other Boston‑area musicians, reflecting a lifelong attachment to collaborative rock bands rather than a solo‑star persona.\n\nDelp was known among peers for professionalism: he approached studio sessions with the mindset of a craftsman, focusing on clean takes, strong phrasing, and harmonies that served the song rather than spotlighting technique for its own sake.\n\nBoston’s career often revolved around studio precision, but Delp’s contribution was the human center—his vocals carried longing, optimism, and a sense of open‑road possibility that balanced the clinical perfection of the guitars with a voice that felt personal.\n\nDelp died in March 2007. Reports from investigators described his death as the result of carbon monoxide poisoning at his home in New Hampshire. His passing marked a decisive emotional break in Boston’s story, because his voice was the most immediately recognizable element of the band’s classic era.\n\nDelp’s legacy is heard every time classic‑rock radio cycles through Boston’s catalog: he made technically demanding melodies feel natural, and he delivered anthems that sound like they were meant to be sung by thousands at once—while still feeling intimate on headphones.",
+          "FullText": "Brad Delp was Boston’s defining voice—an expressive, high‑range rock singer with a warm tone and precise pitch who turned Tom Scholz’s meticulously layered tracks into songs that felt both larger‑than‑life and emotionally direct.\n\nDelp was born in Massachusetts and grew up surrounded by the region’s tight network of bands, clubs, and rehearsal spaces. His early years mixed everyday working life with a deep commitment to singing, harmonies, and the craft of making rock vocals sound effortless.\n\nWhen Delp connected with Scholz, the match was unusually complete: Scholz had fully developed songs and a production‑heavy approach, and Delp could deliver lead vocals that stayed clear even when stacked in multiple layers. That partnership became the backbone of Boston’s breakthrough.\n\nOn the debut album Boston (1976), Delp’s performances are central to nearly every hook—from the bright urgency of “More Than a Feeling” to the uplifting confidence of “Peace of Mind” and the long‑form build of “Foreplay/Long Time.” His ability to sound powerful without harshness helped the band’s songs dominate FM radio and remain durable for decades.\n\nDelp’s role wasn’t limited to singing the main lines. Boston’s recordings rely on dense harmony structures and doubled parts; Delp’s control made those stacks sound unified rather than cluttered, giving the band’s choruses a choral lift while keeping lyrics intelligible.\n\nThrough the band’s long gaps between albums, Delp remained closely associated with Boston’s public identity, appearing on later records and continuing to perform the material live. He also pursued projects outside the band, including work with Barry Goudreau and other Boston‑area musicians, reflecting a lifelong attachment to collaborative rock bands rather than a solo‑star persona.\n\nDelp was known among peers for professionalism: he approached studio sessions with the mindset of a craftsman, focusing on clean takes, strong phrasing, and harmonies that served the song rather than spotlighting technique for its own sake.\n\nBoston’s career often revolved around studio precision, but Delp’s contribution was the human center—his vocals carried longing, optimism, and a sense of open‑road possibility that balanced the clinical perfection of the guitars with a voice that felt personal.\n\nDelp died in March 2007. Reports from investigators described his death as the result of carbon monoxide poisoning at his home in New Hampshire. His passing marked a decisive emotional break in Boston’s story, because his voice was the most immediately recognizable element of the band’s classic era.\n\nDelp’s legacy is heard every time classic‑rock radio cycles through Boston’s catalog: he made technically demanding melodies feel natural, and he delivered anthems that sound like they were meant to be sung by thousands at once—while still feeling intimate on headphones.",
+          "KeyWork": [
+            "'More Than a Feeling'",
+            "'Peace of Mind'",
+            "'Foreplay/Long Time'",
+            "Boston (1976)",
+            "Don't Look Back (1978)"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Brad_Delp",
+            "WMUR": "https://www.wmur.com/article/brad-delp-died-of-carbon-monoxide-poisoning-medical-examiner-rules/5172176"
+          },
+          "Quotes": [],
+          "FunFacts": [],
+          "HonoursAndMilestones": [],
+          "Sources": [
+            {
+              "Title": "Brad Delp died of carbon monoxide poisoning, medical examiner rules",
+              "Publisher": "WMUR-TV",
+              "Url": "https://www.wmur.com/article/brad-delp-died-of-carbon-monoxide-poisoning-medical-examiner-rules/5172176"
+            },
+            {
+              "Title": "Boston Singer Brad Delp’s Cause of Death Revealed",
+              "Publisher": "Guitar World",
+              "Url": "https://www.guitarworld.com/news/boston-singer-brad-delp-cause-of-death-revealed"
+            },
+            {
+              "Title": "Brad Delp",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Brad_Delp"
+            }
+          ],
+          "Death": {
+            "Date": "2007-03-09",
+            "Place": "Atkinson, New Hampshire, U.S.",
+            "Cause": "Carbon monoxide poisoning (reported by investigators/medical examiner)"
+          }
+        }
+      },
+      {
+        "Name": "Barry Goudreau",
+        "Roles": [
+          "Guitarist"
+        ],
+        "Years": "1975–1981",
+        "Overview": "Original guitarist whose melodic lead work helped shape Boston’s first two albums and early touring identity.",
+        "Bio": {
+          "BioID": "bio-barry-goudreau-boston",
+          "ArtistID": "boston",
+          "ArtistName": "Boston",
+          "MemberName": "Barry Goudreau",
+          "FullName": "Barry Goudreau",
+          "Birth": {
+            "Date": "1951-11-29",
+            "Place": "Boston, Massachusetts, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Guitarist; songwriter",
+          "Instruments": "Guitar",
+          "Overview": "Original Boston guitarist whose melodic playing helped define the band’s classic late‑70s sound; later released solo work and formed projects including Orion the Hunter.",
+          "Biography": "Barry Goudreau was an essential early architect of Boston’s guitar identity: a melodic lead player and rhythm anchor whose tone and phrasing helped the band translate Tom Scholz’s layered studio vision into a coherent, hard‑rock band sound.\n\nBorn in Massachusetts, Goudreau came up in the same regional ecosystem that produced Boston’s earliest lineups. Before the band’s name was fixed, he played with Scholz and others in local groups, developing a style that combined blues‑based rock vocabulary with precise, song‑first melodic choices.\n\nOn Boston’s debut and its immediate follow‑up, Goudreau’s guitar work contributes to the band’s sense of motion and lift. Boston’s production is famously dense, but the playing remains clearly articulated; Goudreau’s parts support the harmonized leads and the larger guitar stack without getting lost inside it.\n\nIn the late 1970s, as Boston became a stadium‑level act, Goudreau was part of the core touring unit translating highly produced recordings into live arrangements. That meant playing tightly to the record while still delivering the energy expected of an arena rock show.\n\nGoudreau’s contributions were not only technical. Boston’s songs often hinge on memorable, singable guitar figures—hooks that feel like extensions of the vocal melody. His instincts aligned with that approach, helping make the guitars a second chorus rather than just accompaniment.\n\nAfter the band’s early peak, Goudreau pursued work outside Boston, including a self‑titled solo album and later band projects. Those records highlighted his interest in clean, radio‑ready rock songwriting and guitar textures consistent with the album‑rock era he helped shape.\n\nHe later collaborated with fellow Boston alumni in various configurations, reflecting how tightly the early Boston story is tied to a set of musicians who continued to intersect long after the original lineup fractured.\n\nWithin Boston’s history, Goudreau is often associated with the classic first wave—the period when the band’s sound and identity were cemented in the public imagination. His playing is part of why those albums still sound “finished” rather than dated: the guitar lines are disciplined, melodic, and built to carry a song.\n\nGoudreau’s legacy is especially clear on tracks where Boston’s guitars surge like an orchestra: the style relies on precision and blend, but it still needs the feel of a real band. He provided that band‑level musicality inside a production that could easily have become purely technical.",
+          "FullText": "Barry Goudreau was an essential early architect of Boston’s guitar identity: a melodic lead player and rhythm anchor whose tone and phrasing helped the band translate Tom Scholz’s layered studio vision into a coherent, hard‑rock band sound.\n\nBorn in Massachusetts, Goudreau came up in the same regional ecosystem that produced Boston’s earliest lineups. Before the band’s name was fixed, he played with Scholz and others in local groups, developing a style that combined blues‑based rock vocabulary with precise, song‑first melodic choices.\n\nOn Boston’s debut and its immediate follow‑up, Goudreau’s guitar work contributes to the band’s sense of motion and lift. Boston’s production is famously dense, but the playing remains clearly articulated; Goudreau’s parts support the harmonized leads and the larger guitar stack without getting lost inside it.\n\nIn the late 1970s, as Boston became a stadium‑level act, Goudreau was part of the core touring unit translating highly produced recordings into live arrangements. That meant playing tightly to the record while still delivering the energy expected of an arena rock show.\n\nGoudreau’s contributions were not only technical. Boston’s songs often hinge on memorable, singable guitar figures—hooks that feel like extensions of the vocal melody. His instincts aligned with that approach, helping make the guitars a second chorus rather than just accompaniment.\n\nAfter the band’s early peak, Goudreau pursued work outside Boston, including a self‑titled solo album and later band projects. Those records highlighted his interest in clean, radio‑ready rock songwriting and guitar textures consistent with the album‑rock era he helped shape.\n\nHe later collaborated with fellow Boston alumni in various configurations, reflecting how tightly the early Boston story is tied to a set of musicians who continued to intersect long after the original lineup fractured.\n\nWithin Boston’s history, Goudreau is often associated with the classic first wave—the period when the band’s sound and identity were cemented in the public imagination. His playing is part of why those albums still sound “finished” rather than dated: the guitar lines are disciplined, melodic, and built to carry a song.\n\nGoudreau’s legacy is especially clear on tracks where Boston’s guitars surge like an orchestra: the style relies on precision and blend, but it still needs the feel of a real band. He provided that band‑level musicality inside a production that could easily have become purely technical.",
+          "KeyWork": [
+            "Boston (1976)",
+            "Don't Look Back (1978)",
+            "Barry Goudreau (1980)",
+            "Orion the Hunter (1984)"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Barry_Goudreau",
+            "AllMusic": "https://www.allmusic.com/artist/barry-goudreau-mn0000039779/biography"
+          },
+          "Quotes": [],
+          "FunFacts": [],
+          "HonoursAndMilestones": [],
+          "Sources": [
+            {
+              "Title": "Barry Goudreau",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Barry_Goudreau"
+            },
+            {
+              "Title": "Barry Goudreau",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/barry-goudreau-mn0000039779/biography"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Fran Sheehan",
+        "Roles": [
+          "Bassist"
+        ],
+        "Years": "1975–1989; 1994–2006",
+        "Overview": "Original bassist who anchored Boston’s classic late‑70s rhythm section and helped translate the studio sound to arenas.",
+        "Bio": {
+          "BioID": "bio-fran-sheehan-boston",
+          "ArtistID": "boston",
+          "ArtistName": "Boston",
+          "MemberName": "Fran Sheehan",
+          "FullName": "Francis Sheehan",
+          "Birth": {
+            "Date": "1949-03-26",
+            "Place": "Boston, Massachusetts, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Bassist",
+          "Instruments": "Bass guitar",
+          "Overview": "Boston’s original bassist, anchoring the band’s arena‑rock grooves during the classic late‑70s era and providing the low‑end foundation beneath layered guitars and harmonies.",
+          "Biography": "Fran Sheehan was Boston’s original bassist and a key part of the band’s foundational rhythm section, providing the low‑end drive that let the group’s layered guitars and stacked vocals hit with arena‑scale impact.\n\nRaised in the Boston area, Sheehan emerged from the region’s active club scene and became part of the core group assembled around Tom Scholz’s songs and studio demos. When Boston’s recordings exploded on radio, the band’s live reputation depended on a rhythm section that could reproduce the record’s precision while still feeling powerful on stage.\n\nOn the classic era material, the bass role is deceptively demanding: Boston’s arrangements often have multiple guitar layers, keyboards, and dense vocal harmonies, and the bass has to stay locked to the drums while also outlining the chord changes clearly enough to keep the mix grounded. Sheehan’s approach emphasized steadiness, punch, and clarity rather than flashy fills.\n\nAs the band toured heavily in support of Boston and Don’t Look Back, Sheehan became part of the visible lineup that audiences associated with the band’s identity. In an era when arena rock was built on big choruses and tight grooves, his playing helped keep Boston’s sound muscular and controlled.\n\nBoston’s long studio gaps and internal disputes meant that membership and touring lineups shifted over time. Even so, Sheehan remained closely linked with the band’s early reputation and later appeared in various Boston‑related projects and reunions with other alumni.\n\nOutside the spotlight of a band famous for its guitars and vocals, Sheehan’s contribution is best understood as structural: he helped make meticulously produced recordings feel like a real band at full volume, anchoring the songs so that the melodic leads could soar without the bottom dropping out.\n\nWithin Boston’s story, Sheehan represents the classic album‑rock rhythm‑section ideal—supportive, exact, and built for the kind of big‑room sound the band’s songs demanded.\n\nHis legacy is heard in how Boston’s hits still feel balanced: even when the guitars stack high and the vocals climb, the low end stays firm and song‑focused, giving the band’s famous choruses their physical weight.",
+          "FullText": "Fran Sheehan was Boston’s original bassist and a key part of the band’s foundational rhythm section, providing the low‑end drive that let the group’s layered guitars and stacked vocals hit with arena‑scale impact.\n\nRaised in the Boston area, Sheehan emerged from the region’s active club scene and became part of the core group assembled around Tom Scholz’s songs and studio demos. When Boston’s recordings exploded on radio, the band’s live reputation depended on a rhythm section that could reproduce the record’s precision while still feeling powerful on stage.\n\nOn the classic era material, the bass role is deceptively demanding: Boston’s arrangements often have multiple guitar layers, keyboards, and dense vocal harmonies, and the bass has to stay locked to the drums while also outlining the chord changes clearly enough to keep the mix grounded. Sheehan’s approach emphasized steadiness, punch, and clarity rather than flashy fills.\n\nAs the band toured heavily in support of Boston and Don’t Look Back, Sheehan became part of the visible lineup that audiences associated with the band’s identity. In an era when arena rock was built on big choruses and tight grooves, his playing helped keep Boston’s sound muscular and controlled.\n\nBoston’s long studio gaps and internal disputes meant that membership and touring lineups shifted over time. Even so, Sheehan remained closely linked with the band’s early reputation and later appeared in various Boston‑related projects and reunions with other alumni.\n\nOutside the spotlight of a band famous for its guitars and vocals, Sheehan’s contribution is best understood as structural: he helped make meticulously produced recordings feel like a real band at full volume, anchoring the songs so that the melodic leads could soar without the bottom dropping out.\n\nWithin Boston’s story, Sheehan represents the classic album‑rock rhythm‑section ideal—supportive, exact, and built for the kind of big‑room sound the band’s songs demanded.\n\nHis legacy is heard in how Boston’s hits still feel balanced: even when the guitars stack high and the vocals climb, the low end stays firm and song‑focused, giving the band’s famous choruses their physical weight.",
+          "KeyWork": [
+            "Boston (1976)",
+            "Don't Look Back (1978)"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Fran_Sheehan"
+          },
+          "Quotes": [],
+          "FunFacts": [],
+          "HonoursAndMilestones": [],
+          "Sources": [
+            {
+              "Title": "Fran Sheehan",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Fran_Sheehan"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Sib Hashian",
+        "Roles": [
+          "Drummer"
+        ],
+        "Years": "1975–1983",
+        "Overview": "Drummer on Boston’s first two studio albums, providing tight, emphatic grooves and fills that supported the band’s polished production.",
+        "Bio": {
+          "BioID": "bio-sib-hashian-boston",
+          "ArtistID": "boston",
+          "ArtistName": "Boston",
+          "MemberName": "Sib Hashian",
+          "FullName": "John Thomas Hashian",
+          "Birth": {
+            "Date": "1949-08-17",
+            "Place": "Boston, Massachusetts, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Drummer",
+          "Instruments": "Drums",
+          "Overview": "Boston’s original credited drummer on the first two studio albums, noted for tight, powerful parts that supported the band’s polished, hook‑driven arena rock.",
+          "Biography": "Sib Hashian was Boston’s original credited drummer on the band’s first wave of success, helping drive the crisp, stadium‑ready groove that made Boston’s polished guitar architecture feel explosive rather than sterile.\n\nBorn in Boston, Massachusetts, Hashian became part of the group as the band moved from local‑scene demos toward a major‑label debut. Boston’s music demanded drum parts that were both powerful and tightly controlled: the arrangements often build from clean intros to massive choruses, and the drums need to escalate the energy without smearing the clarity of the mix.\n\nHashian’s playing on Boston (1976) and Don’t Look Back (1978) is built around strong backbeats, steady tempo, and emphatic fills that punctuate transitions—exactly the kind of drumming that supports big hooks and makes choruses feel like they open up in three dimensions.\n\nBecause Boston’s debut material began as carefully constructed demos, the drum approach had to match a very specific arrangement language. That made consistency and precision as important as raw feel, and Hashian’s parts fit the band’s production‑forward sound while still sounding like a rock drummer in a room.\n\nAs the band’s internal dynamics changed and the long road to Third Stage stretched out, lineup shifts followed. Hashian’s tenure is most strongly associated with the two classic late‑70s albums that defined Boston’s public image and established the band as an arena staple.\n\nOutside Boston, Hashian collaborated with other band alumni and worked in projects around the Boston music community. Like several members of the extended Boston family, he remained connected to the music scene even when the band itself became sporadic.\n\nHashian died in March 2017 after collapsing while performing during a cruise‑ship concert. His death was widely reported by major music outlets and confirmed by family statements.\n\nIn Boston’s legacy, Hashian’s role is foundational: his drumming helped make songs built from layered guitars and studio precision feel physically alive, turning meticulous production into something that could still hit like a live rock band.",
+          "FullText": "Sib Hashian was Boston’s original credited drummer on the band’s first wave of success, helping drive the crisp, stadium‑ready groove that made Boston’s polished guitar architecture feel explosive rather than sterile.\n\nBorn in Boston, Massachusetts, Hashian became part of the group as the band moved from local‑scene demos toward a major‑label debut. Boston’s music demanded drum parts that were both powerful and tightly controlled: the arrangements often build from clean intros to massive choruses, and the drums need to escalate the energy without smearing the clarity of the mix.\n\nHashian’s playing on Boston (1976) and Don’t Look Back (1978) is built around strong backbeats, steady tempo, and emphatic fills that punctuate transitions—exactly the kind of drumming that supports big hooks and makes choruses feel like they open up in three dimensions.\n\nBecause Boston’s debut material began as carefully constructed demos, the drum approach had to match a very specific arrangement language. That made consistency and precision as important as raw feel, and Hashian’s parts fit the band’s production‑forward sound while still sounding like a rock drummer in a room.\n\nAs the band’s internal dynamics changed and the long road to Third Stage stretched out, lineup shifts followed. Hashian’s tenure is most strongly associated with the two classic late‑70s albums that defined Boston’s public image and established the band as an arena staple.\n\nOutside Boston, Hashian collaborated with other band alumni and worked in projects around the Boston music community. Like several members of the extended Boston family, he remained connected to the music scene even when the band itself became sporadic.\n\nHashian died in March 2017 after collapsing while performing during a cruise‑ship concert. His death was widely reported by major music outlets and confirmed by family statements.\n\nIn Boston’s legacy, Hashian’s role is foundational: his drumming helped make songs built from layered guitars and studio precision feel physically alive, turning meticulous production into something that could still hit like a live rock band.",
+          "KeyWork": [
+            "Boston (1976)",
+            "Don't Look Back (1978)"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Sib_Hashian",
+            "Pitchfork": "https://pitchfork.com/news/72441-ex-boston-drummer-sib-hashian-dead-after-collapsing-on-cruise-ship/"
+          },
+          "Quotes": [],
+          "FunFacts": [],
+          "HonoursAndMilestones": [],
+          "Sources": [
+            {
+              "Title": "Ex-Boston Drummer Sib Hashian Dead After Collapsing on Cruise Ship",
+              "Publisher": "Pitchfork",
+              "Url": "https://pitchfork.com/news/72441-ex-boston-drummer-sib-hashian-dead-after-collapsing-on-cruise-ship/"
+            },
+            {
+              "Title": "John Thomas \"Sib\" Hashian",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Sib_Hashian"
+            }
+          ],
+          "Death": {
+            "Date": "2017-03-22",
+            "Place": "Near Nassau, Bahamas (at sea; Legends of Rock Cruise)",
+            "Cause": "Collapsed while performing; death widely reported by major outlets"
+          }
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Jim Masdea",
+        "YearsActive": "1969–1975; 1985–1987 (sessions)",
+        "Roles": "Drummer",
+        "Instruments": "Drums",
+        "Albums": [
+          "Boston (demos/early sessions)",
+          "Third Stage (early sessions)"
+        ],
+        "Overview": "Early collaborator with Tom Scholz and drummer on Boston’s pre‑label demos; returned during early Third Stage work."
+      },
+      {
+        "Name": "Gary Pihl",
+        "YearsActive": "1985–present (touring eras)",
+        "Roles": "Guitarist",
+        "Instruments": "Guitar",
+        "Albums": [
+          "Third Stage (touring)",
+          "Walk On (touring)",
+          "Corporate America (touring)"
+        ],
+        "Overview": "Long‑running touring guitarist who helped translate Boston’s layered studio guitars to the stage across multiple later eras."
+      },
+      {
+        "Name": "Fran Cosmo",
+        "YearsActive": "1992–2006",
+        "Roles": "Lead Vocalist",
+        "Instruments": "Vocals",
+        "Albums": [
+          "Walk On",
+          "Corporate America"
+        ],
+        "Overview": "Lead singer on Walk On and a major touring voice during the 1990s and early 2000s, sharing vocal duties in Boston’s post‑classic lineup."
+      },
+      {
+        "Name": "Tommy DeCarlo",
+        "YearsActive": "2007–2017",
+        "Roles": "Lead Vocalist",
+        "Instruments": "Vocals",
+        "Albums": [
+          "(touring)"
+        ],
+        "Overview": "Joined as lead vocalist for touring after Brad Delp’s death, fronting Boston live for much of the late‑2000s and 2010s."
+      },
+      {
+        "Name": "Kimberley Dahme",
+        "YearsActive": "2002–2007",
+        "Roles": "Bassist; vocalist",
+        "Instruments": "Bass; vocals",
+        "Albums": [
+          "Corporate America"
+        ],
+        "Overview": "Bassist and vocalist in Boston’s early‑2000s era, appearing on Corporate America and touring with the band."
+      }
+    ]
   },
   {
     "ArtistID": "boz-scaggs",
