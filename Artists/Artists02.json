@@ -1767,10 +1767,690 @@
       "NonCoreMembers": []
     },
     {
-      "ArtistID": "the-beach-boys",
+      "ArtistID": "thebeachboys",
       "Name": "The Beach Boys",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Hawthorne",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1961–present"
+      ],
+      "Genres": [
+        "Surf rock",
+        "Pop rock",
+        "Psychedelic pop",
+        "Baroque pop"
+      ],
+      "Labels": [
+        "Candix",
+        "Capitol",
+        "Brother",
+        "Reprise",
+        "CBS",
+        "Caribou",
+        "Warner Bros."
+      ],
+      "Overview": "Formed in Hawthorne, California in 1961, The Beach Boys became one of the defining American bands of the rock era, blending close-harmony vocals with vivid songs that turned Southern California into a pop mythology. Their early run helped popularize surf and hot‑rod themes, but the group’s sound quickly expanded beyond novelty—layering sophisticated arrangements, studio experimentation, and emotionally detailed songwriting.\n\nThe classic core—Brian Wilson, Mike Love, Carl Wilson, Dennis Wilson, and Al Jardine—drove a catalog that includes signature singles like “Surfin’ U.S.A.,” “I Get Around,” “California Girls,” “Wouldn’t It Be Nice,” “God Only Knows,” and “Good Vibrations.” Brian Wilson’s studio vision, combined with the band’s distinctive vocal blend, pushed pop production into new territory and influenced generations of artists and producers.\n\nAcross decades of shifting lineups and changing musical climates, The Beach Boys remained a cultural touchstone, balancing nostalgia with periodic reinvention. They were inducted into the Rock & Roll Hall of Fame in 1988 and received a Recording Academy Lifetime Achievement Award in 2001, cementing their status as a cornerstone act in modern popular music.",
+      "NotableAlbums": [
+        {
+          "Title": "Surfin' Safari",
+          "Year": 1962,
+          "Notes": "Debut album that introduced the group’s surf‑pop harmonies."
+        },
+        {
+          "Title": "Surfin' U.S.A.",
+          "Year": 1963,
+          "Notes": "Breakthrough hit album that cemented their early sound."
+        },
+        {
+          "Title": "All Summer Long",
+          "Year": 1964,
+          "Notes": "An early peak of the California pop formula; includes “I Get Around.”"
+        },
+        {
+          "Title": "The Beach Boys Today!",
+          "Year": 1965,
+          "Notes": "A bridge to their more ambitious mid‑’60s writing and production."
+        },
+        {
+          "Title": "Summer Days (And Summer Nights!!)",
+          "Year": 1965,
+          "Notes": "Includes “California Girls” and reflects their mid‑’60s pop dominance."
+        },
+        {
+          "Title": "Pet Sounds",
+          "Year": 1966,
+          "Notes": "Landmark studio album led by Brian Wilson’s orchestral pop approach."
+        },
+        {
+          "Title": "Smiley Smile",
+          "Year": 1967,
+          "Notes": "A lo‑fi, experimental pivot after the ambitious Smile period."
+        },
+        {
+          "Title": "Sunflower",
+          "Year": 1970,
+          "Notes": "Critically respected post‑’60s album highlighting group collaboration."
+        },
+        {
+          "Title": "Surf's Up",
+          "Year": 1971,
+          "Notes": "Beloved early‑’70s album featuring “Surf’s Up” and “Til I Die.”"
+        },
+        {
+          "Title": "Holland",
+          "Year": 1973,
+          "Notes": "A strong mid‑’70s entry with the “California Saga” suite."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Surfin' U.S.A.",
+          "Year": 1963
+        },
+        {
+          "Title": "I Get Around",
+          "Year": 1964
+        },
+        {
+          "Title": "California Girls",
+          "Year": 1965
+        },
+        {
+          "Title": "Help Me, Rhonda",
+          "Year": 1965
+        },
+        {
+          "Title": "Wouldn't It Be Nice",
+          "Year": 1966
+        },
+        {
+          "Title": "God Only Knows",
+          "Year": 1966
+        },
+        {
+          "Title": "Good Vibrations",
+          "Year": 1966
+        },
+        {
+          "Title": "Sloop John B",
+          "Year": 1966
+        },
+        {
+          "Title": "Fun, Fun, Fun",
+          "Year": 1964
+        },
+        {
+          "Title": "Kokomo",
+          "Year": 1988
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Year": 1988,
+          "Details": "Inducted as one of the most influential bands in rock history."
+        },
+        {
+          "Title": "Recording Academy Lifetime Achievement Award",
+          "Year": 2001,
+          "Details": "Honored by The Recording Academy for lifetime artistic contributions."
+        },
+        {
+          "Title": "Global sales milestone",
+          "Year": "—",
+          "Details": "Often credited with sales exceeding 100 million records worldwide (commonly cited in major music references)."
+        },
+        {
+          "Title": "Enduring critical acclaim for Pet Sounds",
+          "Year": 1966,
+          "Details": "Frequently ranked among the greatest albums ever made; a cornerstone of studio‑era pop innovation."
+        }
+      ],
+      "KeyFacts": [
+        "Originally formed by brothers Brian, Carl, and Dennis Wilson with cousin Mike Love and friend Al Jardine in 1961.",
+        "Known for dense vocal harmonies, Brian Wilson’s studio production, and a catalog that spans early surf rock to ambitious orchestral pop.",
+        "Long-running touring presence, with various lineup changes and side projects over the decades."
+      ],
+      "ExternalLinks": {
+        "Official website": "https://thebeachboys.com/",
+        "Rock & Roll Hall of Fame profile": "https://www.rockhall.com/inductees/the-beach-boys",
+        "The Recording Academy (Lifetime Achievement Awards)": "https://www.grammy.com/awards/lifetime-achievement-awards",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Beach_Boys"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Brian Wilson",
+          "YearsActive": "1961–2025",
+          "Years": "1961–2025",
+          "Roles": [
+            "Vocals",
+            "Keyboards",
+            "Bass",
+            "Songwriter",
+            "Producer"
+          ],
+          "Instruments": "Vocals, keyboards, bass, piano",
+          "Albums": [
+            "Surfin' U.S.A. (1963)",
+            "Pet Sounds (1966)",
+            "Smile Sessions (released later)"
+          ],
+          "Overview": "Founding member and principal songwriter/producer whose studio vision drove the band’s most acclaimed recordings.",
+          "Bio": {
+            "BioID": "thebeachboys-brianwilson",
+            "ArtistID": "thebeachboys",
+            "ArtistName": "The Beach Boys",
+            "MemberName": "Brian Wilson",
+            "FullName": "Brian Douglas Wilson",
+            "Nationality": "American",
+            "Roles": "Founding member; primary songwriter/producer; vocals",
+            "Instruments": "Vocals, keyboards, bass, piano",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Keyboards",
+              "Bass",
+              "Piano"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Surf rock",
+              "Baroque pop"
+            ],
+            "Birth": {
+              "Date": "1942-06-20",
+              "Place": "Inglewood, California, U.S."
+            },
+            "ActiveYears": [
+              "1961–2025"
+            ],
+            "AssociatedActs": [
+              "The Beach Boys"
+            ],
+            "KeyAlbums": [
+              "Pet Sounds (1966)",
+              "The Beach Boys Today! (1965)",
+              "Smile (sessions; released later)",
+              "Brian Wilson (1988)"
+            ],
+            "KeySongs": [
+              "Good Vibrations",
+              "God Only Knows",
+              "Wouldn't It Be Nice",
+              "California Girls",
+              "I Get Around"
+            ],
+            "Achievements": [
+              {
+                "Title": "Rock & Roll Hall of Fame (with The Beach Boys)",
+                "Year": 1988,
+                "Details": "Inducted as a member of The Beach Boys."
+              },
+              {
+                "Title": "Lifetime Achievement Award (The Beach Boys)",
+                "Year": 2001,
+                "Details": "Recognized by The Recording Academy as part of the group."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Wilson"
+            },
+            "Biography": "Brian Douglas Wilson was the creative engine at the center of The Beach Boys’ most celebrated work. Raised in the Los Angeles area and immersed in harmony singing from an early age, he developed a writer’s ear for melody and a producer’s instinct for how voices, instruments, and studio space could combine into a single, vivid sound.\n\nIn 1961, Wilson helped form The Beach Boys with his brothers Carl and Dennis, cousin Mike Love, and friend Al Jardine. As the band’s early producer and a primary songwriter, he quickly moved their music beyond simple surf themes by building richly layered arrangements that made radio pop feel cinematic.\n\nWilson’s approach was collaborative but unmistakably personal: intricate vocal stacks, unusual instrumental colors, and emotional chord progressions that could turn a three‑minute song into a miniature world. He was also a demanding studio craftsman, known for refining takes and layering parts until the record matched what he heard in his head.\n\nBy the mid‑1960s, he was steering the group toward ambitious, album‑level storytelling. This period culminated in Pet Sounds, a project that emphasized orchestral textures, introspective lyrics, and a unified production style—an album that later generations of artists and producers routinely cite as a benchmark for pop composition and recording.\n\nSoon after, “Good Vibrations” demonstrated how far Wilson could push mainstream singles: modular recording sessions, shifting sections, and a bold sonic palette that still sounded like a hit. The song became a defining artifact of the era and a shorthand for the group’s leap from beach‑party pop to studio‑driven innovation.\n\nWilson’s relationship with touring and the studio evolved over time, as did his role in the band’s decision‑making. Even when his day‑to‑day involvement fluctuated, his musical fingerprints—harmonic language, melodic turns, and a taste for surprising arrangements—remained embedded in The Beach Boys’ identity.\n\nAcross the following decades, he maintained an ongoing musical life beyond the group, including solo work and collaborations that revisited his earlier themes: longing, optimism, fragility, and the pull between youthful ideals and adult reality. His later performances often highlighted how enduring the songs were—even when stripped down to voice, piano, and a smaller ensemble.\n\nWilson also became a symbol of the costs and possibilities of pop genius: a reminder that the studio can be both instrument and refuge, and that emotionally direct songwriting can coexist with meticulous production. The arc of his career helped change how the public understands rock and pop authorship—placing the producer‑composer on equal footing with the front‑line performer.\n\nWithin The Beach Boys story, his legacy is tied to the band’s greatest leaps in sound and ambition. Yet it also lives in the quieter moments: intimate melodies, the careful stacking of voices, and the unmistakable lift that happens when a chorus lands with both sweetness and weight.\n\nBrian Wilson died in 2025, but the music he shaped continues to circulate as living culture—heard not only as nostalgia, but as a set of production ideas and songwriting standards that still feel modern.",
+            "Death": {
+              "Date": "2025-06-11"
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – Brian Wilson",
+                "Url": "https://en.wikipedia.org/wiki/Brian_Wilson",
+                "Publisher": "Wikipedia"
+              },
+              {
+                "Title": "Rock & Roll Hall of Fame – The Beach Boys",
+                "Url": "https://www.rockhall.com/inductees/the-beach-boys",
+                "Publisher": "Rock & Roll Hall of Fame"
+              },
+              {
+                "Title": "The Beach Boys – Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Beach_Boys",
+                "Publisher": "Wikipedia"
+              },
+              {
+                "Title": "The Recording Academy – Lifetime Achievement Awards",
+                "Url": "https://www.grammy.com/awards/lifetime-achievement-awards",
+                "Publisher": "The Recording Academy"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike Love",
+          "YearsActive": "1961–present",
+          "Years": "1961–present",
+          "Roles": [
+            "Lead vocals",
+            "Lyricist"
+          ],
+          "Instruments": "Vocals",
+          "Albums": [
+            "Surfin' U.S.A. (1963)",
+            "All Summer Long (1964)",
+            "Pet Sounds (1966)"
+          ],
+          "Overview": "Founding member and defining lead voice; co-wrote many of the band’s best-known hits and remained a central stage presence.",
+          "Bio": {
+            "BioID": "thebeachboys-mikelove",
+            "ArtistID": "thebeachboys",
+            "ArtistName": "The Beach Boys",
+            "MemberName": "Mike Love",
+            "FullName": "Michael Edward Love",
+            "Nationality": "American",
+            "Roles": "Founding member; lead vocals; lyricist",
+            "Instruments": "Vocals",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Surf rock"
+            ],
+            "Birth": {
+              "Date": "1941-03-15",
+              "Place": "Los Angeles, California, U.S."
+            },
+            "ActiveYears": [
+              "1961–present"
+            ],
+            "AssociatedActs": [
+              "The Beach Boys"
+            ],
+            "KeyAlbums": [
+              "Surfin' U.S.A. (1963)",
+              "All Summer Long (1964)",
+              "Pet Sounds (1966)"
+            ],
+            "KeySongs": [
+              "Surfin' U.S.A.",
+              "California Girls",
+              "I Get Around",
+              "Good Vibrations"
+            ],
+            "Achievements": [
+              {
+                "Title": "Rock & Roll Hall of Fame (with The Beach Boys)",
+                "Year": 1988,
+                "Details": "Inducted as a member of The Beach Boys."
+              },
+              {
+                "Title": "Lifetime Achievement Award (The Beach Boys)",
+                "Year": 2001,
+                "Details": "Recognized by The Recording Academy as part of the group."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mike_Love",
+              "Official site": "https://mikelove.com/"
+            },
+            "Biography": "Mike Love is one of The Beach Boys’ founding members and the band’s most identifiable lead voices. As a singer and lyricist, he helped define the group’s early persona—bringing a direct, conversational style that anchored Brian Wilson’s increasingly sophisticated arrangements in plainspoken, memorable lines.\n\nLove co‑founded the band in 1961 with Brian, Carl, and Dennis Wilson and Al Jardine. In the early years, his lyrics and vocal presence played a key role in shaping the “California” imagery that made the group instantly legible to a mass audience: fast cars, surf culture, youth freedom, and the sunny promise of the West Coast.\n\nJust as important, he was a practical bandleader in the studio and on stage. While Brian Wilson’s work leaned toward layered production and compositional experimentation, Love’s contributions often emphasized clarity and hook—ensuring the songs communicated quickly and hit with impact.\n\nHis writing credits include some of the group’s biggest cultural touchstones, frequently in collaboration with Brian Wilson. The partnership produced classic singles whose appeal rests on the tension between sophistication and simplicity: complex harmonies and arrangements supporting lyrics that feel immediate and singable.\n\nAs The Beach Boys moved into more ambitious territory in the mid‑1960s, Love remained a central participant, even when he did not share the same appetite for experimentation. Over time, that internal push‑and‑pull became part of the band’s narrative—an example of how creative groups can be strengthened by competing instincts.\n\nLove’s stage presence and steady vocal delivery helped keep The Beach Boys’ live identity intact through decades of changing musical fashion. For audiences, his voice became a sonic signature: the recognizable lead that could cut through harmonies and carry a chorus straight to the back row.\n\nOutside the core Beach Boys catalog, Love pursued solo work and collaborations, and he remained visible as a public representative of the band. In the later decades, he continued touring under The Beach Boys name, keeping the group’s songbook in constant circulation.\n\nHis role in Beach Boys history is inseparable from the band’s public image—both the idealized, sun‑lit myth and the more complicated reality of a long‑running act navigating business, credit, and creative disagreement. Whatever the debates, his voice and writing are permanently woven into the songs that made the group famous.\n\nRecognitions for the band—including the Rock & Roll Hall of Fame induction and the Recording Academy’s Lifetime Achievement Award—reflect a body of work in which Love’s vocals and lyric contributions are foundational.\n\nSeen in full, Mike Love’s career is a case study in pop craftsmanship: delivering straightforward lines, rhythmic phrasing, and lead vocals that helped turn inventive studio pop into widely beloved, repeat‑play music.",
+            "Sources": [
+              {
+                "Title": "Wikipedia – Mike Love",
+                "Url": "https://en.wikipedia.org/wiki/Mike_Love",
+                "Publisher": "Wikipedia"
+              },
+              {
+                "Title": "Mike Love – Official Site",
+                "Url": "https://mikelove.com/",
+                "Publisher": "mikelove.com"
+              },
+              {
+                "Title": "Rock & Roll Hall of Fame – The Beach Boys",
+                "Url": "https://www.rockhall.com/inductees/the-beach-boys",
+                "Publisher": "Rock & Roll Hall of Fame"
+              },
+              {
+                "Title": "The Recording Academy – Lifetime Achievement Awards",
+                "Url": "https://www.grammy.com/awards/lifetime-achievement-awards",
+                "Publisher": "The Recording Academy"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Carl Wilson",
+          "YearsActive": "1961–1998",
+          "Years": "1961–1998",
+          "Roles": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Instruments": "Vocals, guitar",
+          "Albums": [
+            "Pet Sounds (1966)",
+            "Surf's Up (1971)",
+            "Holland (1973)"
+          ],
+          "Overview": "Lead vocalist and guitarist who anchored the group’s live sound and helped sustain the band through key transition years.",
+          "Bio": {
+            "BioID": "thebeachboys-carlwilson",
+            "ArtistID": "thebeachboys",
+            "ArtistName": "The Beach Boys",
+            "MemberName": "Carl Wilson",
+            "FullName": "Carl Dean Wilson",
+            "Nationality": "American",
+            "Roles": "Founding member; lead vocals; lead/rhythm guitar",
+            "Instruments": "Vocals, guitar",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Guitarist",
+              "Musician"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Surf rock"
+            ],
+            "Birth": {
+              "Date": "1946-12-21",
+              "Place": "Hawthorne, California, U.S."
+            },
+            "ActiveYears": [
+              "1961–1998"
+            ],
+            "AssociatedActs": [
+              "The Beach Boys"
+            ],
+            "KeyAlbums": [
+              "Pet Sounds (1966)",
+              "Surf's Up (1971)",
+              "Holland (1973)"
+            ],
+            "KeySongs": [
+              "God Only Knows",
+              "Good Vibrations",
+              "Darlin'",
+              "Wild Honey"
+            ],
+            "Achievements": [
+              {
+                "Title": "Rock & Roll Hall of Fame (with The Beach Boys)",
+                "Year": 1988,
+                "Details": "Inducted as a member of The Beach Boys."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Carl_Wilson"
+            },
+            "Biography": "Carl Wilson was the musical anchor of The Beach Boys’ live sound and a crucial voice in their harmony blend. The youngest of the Wilson brothers, he grew into a featured lead singer and guitarist whose steadiness helped the band translate studio complexity into convincing performances.\n\nFrom the early surf era onward, Carl’s tone—clear, warm, and emotionally direct—became a defining ingredient in Beach Boys records. He often carried songs that needed a gentler center, balancing the group’s bright vocal blend with a grounded, earnest delivery.\n\nAs the band’s arrangements became more elaborate, Carl’s role expanded beyond performance. He contributed to sessions as a guitarist and musical organizer, and he was frequently credited with helping the group function day‑to‑day when responsibilities shifted among members.\n\nIn the late 1960s and 1970s, Carl emerged as an increasingly important creative presence. Whether supporting Brian Wilson’s visions or steering the group through transitional periods, he helped sustain the Beach Boys’ identity through changing lineups and changing industry expectations.\n\nHis leadership was especially visible in the band’s touring life. Where studio work could be fragmented and experimental, the stage demanded cohesion. Carl’s musicianship and calm professionalism made him a stabilizing force, and his voice remained one of the band’s most trusted leads.\n\nCarl also developed as a songwriter and producer, contributing to the group’s later catalog and solo work. Even when individual projects didn’t match the cultural impact of the 1960s peak, his approach—melodic, tasteful, and rooted in vocal harmony—reflected the Beach Boys’ core strengths.\n\nWithin fan and critical narratives, Carl is often described as the ‘glue’ member: the person who could keep sessions productive, keep tours moving, and keep relationships workable when pressures rose. That kind of contribution is hard to quantify but easy to hear in the consistency of the performances.\n\nHis impact is also personal in the way his voice carries feeling. Many Beach Boys songs rely on nostalgia or longing, and Carl’s delivery could make those emotions feel lived‑in rather than merely stylized.\n\nCarl Wilson died in 1998. His legacy endures in the recordings where his leads and harmonies give the music its emotional center and in the live identity he helped preserve across the band’s long history.",
+            "Death": {
+              "Date": "1998-02-06",
+              "Place": "Los Angeles, California, U.S.",
+              "Cause": "Lung cancer"
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – Carl Wilson",
+                "Url": "https://en.wikipedia.org/wiki/Carl_Wilson",
+                "Publisher": "Wikipedia"
+              },
+              {
+                "Title": "Rock & Roll Hall of Fame – The Beach Boys",
+                "Url": "https://www.rockhall.com/inductees/the-beach-boys",
+                "Publisher": "Rock & Roll Hall of Fame"
+              },
+              {
+                "Title": "The Beach Boys – Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Beach_Boys",
+                "Publisher": "Wikipedia"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Dennis Wilson",
+          "YearsActive": "1961–1983",
+          "Years": "1961–1983",
+          "Roles": [
+            "Drums",
+            "Vocals",
+            "Songwriter"
+          ],
+          "Instruments": "Drums, vocals",
+          "Albums": [
+            "Sunflower (1970)",
+            "Surf's Up (1971)",
+            "Pacific Ocean Blue (1977)"
+          ],
+          "Overview": "Founding drummer who grew into a distinctive singer-songwriter, adding a rawer, more personal edge to the band’s later work.",
+          "Bio": {
+            "BioID": "thebeachboys-denniswilson",
+            "ArtistID": "thebeachboys",
+            "ArtistName": "The Beach Boys",
+            "MemberName": "Dennis Wilson",
+            "FullName": "Dennis Carl Wilson",
+            "Nationality": "American",
+            "Roles": "Founding member; drums; vocals; songwriting",
+            "Instruments": "Drums, vocals",
+            "PrimaryInstruments": [
+              "Drums",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Drummer",
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Surf rock"
+            ],
+            "Birth": {
+              "Date": "1944-12-04",
+              "Place": "Inglewood, California, U.S."
+            },
+            "ActiveYears": [
+              "1961–1983"
+            ],
+            "AssociatedActs": [
+              "The Beach Boys"
+            ],
+            "KeyAlbums": [
+              "Sunflower (1970)",
+              "Surf's Up (1971)",
+              "Pacific Ocean Blue (1977)"
+            ],
+            "KeySongs": [
+              "Forever",
+              "Little Bird",
+              "Cuddle Up"
+            ],
+            "Achievements": [
+              {
+                "Title": "Rock & Roll Hall of Fame (with The Beach Boys)",
+                "Year": 1988,
+                "Details": "Inducted as a member of The Beach Boys (posthumous)."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dennis_Wilson"
+            },
+            "Biography": "Dennis Wilson brought a different kind of energy to The Beach Boys: rawer, more impulsive, and closer to the band’s original surf mythology. As the only founding member who regularly surfed, he embodied the image the early records sold—yet his deeper legacy lies in how he expanded beyond that persona as a singer, songwriter, and performer.\n\nIn the group’s early years, Dennis was primarily a drummer and on‑stage personality, but he gradually developed as a vocalist. His singing had a huskier edge than the band’s brighter leads, giving later Beach Boys songs a more rugged emotional texture.\n\nAs The Beach Boys moved through the late 1960s and early 1970s, Dennis began writing more, contributing songs that often leaned toward vulnerability and personal reflection. His material could feel less polished than the band’s classic pop architecture, but it carried a striking immediacy—an honest counterpoint to the group’s carefully stacked harmonies.\n\nDennis’s songwriting and singing helped broaden the band’s palette beyond youthful optimism. In albums from the era, his tracks often introduced darker tones and a sense of adult consequence, showing a member growing into artistry rather than staying frozen in the early brand image.\n\nHe also pursued work outside the band, including solo recordings that reflected his interest in moodier, singer‑songwriter territory. Those projects highlighted the same qualities fans heard in his Beach Boys contributions: a direct emotional line and a willingness to sound imperfect if the feeling was true.\n\nWithin the band, Dennis’s personality could be both spark and strain. The Beach Boys’ long history includes periods of conflict and instability, and Dennis’s intensity became part of that story—sometimes fueling creativity, sometimes amplifying tension.\n\nDespite the turbulence, his best performances show real depth. When Dennis had a lead vocal, it often felt like the room changed: the harmonies still there, but shaded by a voice that sounded weathered and human in a way few pop groups could match.\n\nDennis Wilson died in 1983. In retrospect, he is remembered as a founding member who grew into an unexpectedly powerful artist—one whose contributions helped The Beach Boys sound not only sunny, but complicated.",
+            "Death": {
+              "Date": "1983-12-28",
+              "Place": "Marina del Rey, California, U.S.",
+              "Cause": "Drowning"
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – Dennis Wilson",
+                "Url": "https://en.wikipedia.org/wiki/Dennis_Wilson",
+                "Publisher": "Wikipedia"
+              },
+              {
+                "Title": "Rock & Roll Hall of Fame – The Beach Boys",
+                "Url": "https://www.rockhall.com/inductees/the-beach-boys",
+                "Publisher": "Rock & Roll Hall of Fame"
+              },
+              {
+                "Title": "The Beach Boys – Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Beach_Boys",
+                "Publisher": "Wikipedia"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Al Jardine",
+          "YearsActive": "1961–present",
+          "Years": "1961–present",
+          "Roles": [
+            "Vocals",
+            "Guitar",
+            "Bass"
+          ],
+          "Instruments": "Vocals, guitar, bass",
+          "Albums": [
+            "The Beach Boys Today! (1965)",
+            "Pet Sounds (1966)",
+            "Surf's Up (1971)"
+          ],
+          "Overview": "Founding member whose harmonies and musicianship were part of the band’s sound from day one and across its long touring life.",
+          "Bio": {
+            "BioID": "thebeachboys-aljardine",
+            "ArtistID": "thebeachboys",
+            "ArtistName": "The Beach Boys",
+            "MemberName": "Al Jardine",
+            "FullName": "Alan Charles Jardine",
+            "Nationality": "American",
+            "Roles": "Founding member; vocals; guitar; bass",
+            "Instruments": "Vocals, guitar, bass",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Bass"
+            ],
+            "Occupations": [
+              "Singer",
+              "Musician"
+            ],
+            "Genres": [
+              "Pop",
+              "Rock",
+              "Surf rock"
+            ],
+            "Birth": {
+              "Date": "1942-09-03",
+              "Place": "Lima, Ohio, U.S."
+            },
+            "ActiveYears": [
+              "1961–present"
+            ],
+            "AssociatedActs": [
+              "The Beach Boys"
+            ],
+            "KeyAlbums": [
+              "The Beach Boys Today! (1965)",
+              "Pet Sounds (1966)",
+              "Surf's Up (1971)"
+            ],
+            "KeySongs": [
+              "Sloop John B (lead vocal)",
+              "Help Me, Rhonda"
+            ],
+            "Achievements": [
+              {
+                "Title": "Rock & Roll Hall of Fame (with The Beach Boys)",
+                "Year": 1988,
+                "Details": "Inducted as a member of The Beach Boys."
+              },
+              {
+                "Title": "Lifetime Achievement Award (The Beach Boys)",
+                "Year": 2001,
+                "Details": "Recognized by The Recording Academy as part of the group."
+              }
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Al_Jardine"
+            },
+            "Biography": "Al Jardine is one of The Beach Boys’ founding members and a key architect of their vocal blend. Brought into the group at the very beginning, he helped establish the band’s harmony approach and remained an essential musical presence across decades of recording and touring.\n\nJardine’s contributions are often felt in the band’s ensemble sound: guitar parts that lock the rhythm, harmonies that thicken choruses, and lead vocals that bring a friendly, grounded sincerity. When Beach Boys songs lean toward folkier or more reflective material, his voice and musical instincts frequently suit the mood.\n\nAs the band’s music evolved from surf singles into more sophisticated studio work, Jardine stayed adaptable. He participated in the group’s shifting arrangements and continued contributing as a vocalist and instrumentalist, even as production ambitions and personal dynamics changed around him.\n\nHe also became associated with some of the group’s memorable later reinterpretations and performances, keeping the material alive for new audiences. In a catalog dominated by iconic singles, that steadiness matters: it’s part of why the Beach Boys songbook stayed performance‑ready rather than purely museum‑ready.\n\nJardine’s place in the Beach Boys story is also that of the dependable collaborator—the member who could support the band’s leaders while maintaining his own musical identity. In long‑running groups, longevity often depends on exactly that kind of balance.\n\nAcross reunions, tours, and later‑era releases, he remained connected to the group’s legacy while also exploring solo work and side projects. His musical approach emphasized melody, harmony, and the warm familiarity that defines the Beach Boys at their most inviting.\n\nThe band’s major honors—like the Rock & Roll Hall of Fame induction and the Recording Academy Lifetime Achievement Award—reflect a collective career in which Jardine’s presence from day one is a core part of the story.\n\nIn the end, Al Jardine is remembered not only as a founding name on the marquee, but as a working musician whose consistency helped the Beach Boys remain a living band across generations.",
+            "Sources": [
+              {
+                "Title": "Wikipedia – Al Jardine",
+                "Url": "https://en.wikipedia.org/wiki/Al_Jardine",
+                "Publisher": "Wikipedia"
+              },
+              {
+                "Title": "Rock & Roll Hall of Fame – The Beach Boys",
+                "Url": "https://www.rockhall.com/inductees/the-beach-boys",
+                "Publisher": "Rock & Roll Hall of Fame"
+              },
+              {
+                "Title": "The Recording Academy – Lifetime Achievement Awards",
+                "Url": "https://www.grammy.com/awards/lifetime-achievement-awards",
+                "Publisher": "The Recording Academy"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Bruce Johnston",
+          "YearsActive": "1965–present",
+          "Roles": [
+            "Vocals",
+            "Keyboards",
+            "Producer"
+          ],
+          "Overview": "Joined in the mid‑1960s and became a long‑running member, contributing vocals, keyboards, and production across multiple eras."
+        },
+        {
+          "Name": "David Marks",
+          "YearsActive": "1962–1963; 1990s–2000s (intermittent)",
+          "Roles": [
+            "Guitar"
+          ],
+          "Overview": "Early member who played rhythm guitar during the band’s first national breakthrough period."
+        },
+        {
+          "Name": "Ricky Fataar",
+          "YearsActive": "1972–1974",
+          "Roles": [
+            "Drums",
+            "Vocals"
+          ],
+          "Overview": "Joined during the early‑1970s lineup, contributing to the band’s sound in that transitional era."
+        },
+        {
+          "Name": "Blondie Chaplin",
+          "YearsActive": "1972–1973",
+          "Roles": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Overview": "Brought rock-oriented guitar and vocals during the early‑1970s period, appearing on key albums and tours."
+        }
+      ]
     },
     {
       "ArtistID": "the-beatles",
