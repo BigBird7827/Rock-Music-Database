@@ -450,27 +450,323 @@
     {
       "ArtistID": "the-smashing-pumpkins",
       "Name": "The Smashing Pumpkins",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Chicago",
+        "Region": "Illinois",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1988–2000",
+        "2006–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Art rock",
+        "Grunge"
+      ],
+      "Labels": [
+        "Caroline",
+        "Virgin",
+        "Hut",
+        "Sire",
+        "Warner Bros.",
+        "Martha's Music",
+        "BMG",
+        "Napalm Records"
+      ],
+      "Overview": "The Smashing Pumpkins are a Chicago-born alternative rock band known for pairing heavy, fuzzed-out guitars with lush melodic writing and ambitious, album-sized concepts. Emerging from the late-1980s underground, the group’s classic 1990s run — led by songwriter and frontman Billy Corgan alongside James Iha, Jimmy Chamberlin, and bassist D’arcy Wretzky — moved quickly from the raw guitars of Gish to the polished, explosive sound of Siamese Dream and the wide-ranging double album Mellon Collie and the Infinite Sadness.\n\nTheir music has swung from grunge-adjacent riffs to orchestral balladry, electronics, and art-rock experimentation, often within the same record. After an initial breakup in 2000, the band returned in the mid-2000s and continued releasing new material while periodically reuniting key members. Across eras, The Smashing Pumpkins’ identity has stayed centered on Corgan’s songwriting and a distinctive blend of romance, distortion, and scale.",
+      "KeyFacts": [
+        "Formed in Chicago in 1988 by Billy Corgan and James Iha.",
+        "The classic 1990s lineup featured Corgan, Iha, Jimmy Chamberlin, and bassist D’arcy Wretzky.",
+        "Won two GRAMMY Awards for Best Hard Rock Performance (including “Bullet with Butterfly Wings” and “The End Is the Beginning Is the End”).",
+        "Released the diamond-certified double album Mellon Collie and the Infinite Sadness (1995).",
+        "Known for stylistic range across grunge-era rock, orchestral alt-pop, and electronic experimentation."
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "Gish",
+          "Year": 1991,
+          "Notes": "Debut studio album that established the band’s heavy-guitar/dreamy-melody mix."
+        },
+        {
+          "Title": "Siamese Dream",
+          "Year": 1993,
+          "Notes": "Breakthrough album featuring dense production and enduring radio staples."
+        },
+        {
+          "Title": "Mellon Collie and the Infinite Sadness",
+          "Year": 1995,
+          "Notes": "Expansive double album spanning hard rock, ballads, and art-pop; a major commercial peak."
+        },
+        {
+          "Title": "Adore",
+          "Year": 1998,
+          "Notes": "A pivot toward darker, more electronic and atmospheric textures."
+        },
+        {
+          "Title": "Machina/The Machines of God",
+          "Year": 2000,
+          "Notes": "Concept-heavy final studio album of the original era, blending arena-rock and art-rock ambition."
+        },
+        {
+          "Title": "Zeitgeist",
+          "Year": 2007,
+          "Notes": "Return-era release emphasizing muscular guitars and political bite."
+        },
+        {
+          "Title": "Oceania",
+          "Year": 2012,
+          "Notes": "A widely praised modern-era set with a more classic band dynamic."
+        },
+        {
+          "Title": "Cyr",
+          "Year": 2020,
+          "Notes": "Synth-forward double album leaning into electronic pop and layered production."
+        },
+        {
+          "Title": "ATUM: A Rock Opera in Three Acts",
+          "Year": 2023,
+          "Notes": "A large-scale rock opera released in parts, extending the band’s long-running conceptual streak."
+        },
+        {
+          "Title": "Aghori Mhori Mei",
+          "Year": 2024,
+          "Notes": "Late-career studio album that returned to sharper, guitar-led rock writing."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Today",
+          "Year": 1993,
+          "Notes": "A defining single from Siamese Dream."
+        },
+        {
+          "Title": "Disarm",
+          "Year": 1993,
+          "Notes": "Orchestral-leaning ballad that showcased the band’s softer power."
+        },
+        {
+          "Title": "Cherub Rock",
+          "Year": 1993,
+          "Notes": "Opening salvo and one of the band’s most recognizable guitar tracks."
+        },
+        {
+          "Title": "Bullet with Butterfly Wings",
+          "Year": 1995,
+          "Notes": "Grammy-winning hard-rock anthem from Mellon Collie."
+        },
+        {
+          "Title": "1979",
+          "Year": 1996,
+          "Notes": "Nostalgic alt-pop hit that became one of the band’s biggest songs."
+        },
+        {
+          "Title": "Tonight, Tonight",
+          "Year": 1996,
+          "Notes": "Orchestral single known for its cinematic sound and iconic video."
+        },
+        {
+          "Title": "Zero",
+          "Year": 1996,
+          "Notes": "A heavy, riff-driven single that cemented their stadium-rock edge."
+        },
+        {
+          "Title": "Ava Adore",
+          "Year": 1998,
+          "Notes": "A sleek, electronic-tinged hit from Adore."
+        },
+        {
+          "Title": "The Everlasting Gaze",
+          "Year": 2000,
+          "Notes": "Aggressive lead single from Machina/The Machines of God."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1997,
+          "Title": "GRAMMY Award — Best Hard Rock Performance",
+          "Details": "Won for “Bullet with Butterfly Wings.”"
+        },
+        {
+          "Year": 1998,
+          "Title": "GRAMMY Award — Best Hard Rock Performance",
+          "Details": "Won for “The End Is the Beginning Is the End.”"
+        },
+        {
+          "Year": 1997,
+          "Title": "GRAMMY recognition for Mellon Collie era",
+          "Details": "The band’s mid-1990s peak brought multiple GRAMMY nominations including major-category attention for Mellon Collie and the Infinite Sadness."
+        }
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official website": "https://www.smashingpumpkins.com/",
+        "GRAMMY.com artist page": "https://www.grammy.com/artists/smashing-pumpkins/8392",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Smashing_Pumpkins"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Billy Corgan",
+          "Roles": "Lead vocals, guitar, primary songwriter",
+          "Years": "1988–2000, 2006–present",
+          "Overview": "Founder, frontman, and principal writer whose melodies and guitar textures define the band’s sound across every era.",
+          "Bio": {
+            "Birth": {
+              "Date": "1967-03-17",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Singer, songwriter, guitarist, bandleader",
+            "Instruments": "Vocals, guitar, bass, keyboards",
+            "Biography": "Billy Corgan (born William Patrick Corgan Jr.) co-founded The Smashing Pumpkins in Chicago in 1988 and has remained the band’s creative center — the primary songwriter, a signature guitarist, and the voice most associated with the group’s sweeping mix of romance and abrasion.\n\nEarly recordings captured a loud-but-dreamy guitar sound, but Corgan’s writing quickly expanded beyond genre templates: big choruses and intimate confessionals, heavy riffs and delicate balladry, all treated with a producer’s attention to arrangement.\n\nOn Siamese Dream, his layered guitar parts and melodic sense helped turn the band into a mainstream force, while his perfectionism in the studio became part of the Pumpkins’ mythology — a meticulous approach aimed at making the records sound larger than life.\n\nMellon Collie and the Infinite Sadness pushed that ambition to an extreme, moving from tender piano-and-strings moments to full-throttle hard rock. The album’s scope reflected Corgan’s interest in sequencing, contrast, and the idea of a rock record as a complete world.\n\nAs the 1990s progressed, Corgan steered the band into new territory. Adore leaned into electronic textures and moodier atmospheres, while Machina pursued a high-concept, arena-sized vision that blended metal weight, pop hooks, and narrative framing.\n\nAfter the original run ended in 2000, Corgan continued working as a writer and bandleader in other settings, then revived The Smashing Pumpkins in the mid-2000s. The return era kept his core strengths — hooky melodies, layered sonics, and sharp emotional contrasts — while cycling through different lineups and production approaches.\n\nIn later projects, he doubled down on large-form ideas: long tracklists, multi-part releases, and thematic through-lines that treated albums as chapters rather than standalone collections. Even when the sound tilted synth-forward or more stripped and guitar-driven, the intent stayed similar: big feelings, big dynamics, and a strong authorial point of view.\n\nAs a public figure, Corgan has also been known for outspoken interviews and a willingness to revisit, reinterpret, or reframe the band’s history — sometimes defensively, sometimes with unexpected generosity. That tension mirrors the music itself: vulnerable and confrontational in the same breath.\n\nAcross decades, his fingerprints are unmistakable: a knack for bittersweet melody, a love of distortion and shimmer, and a drive to build records that feel cinematic — not just collections of songs, but emotional environments.\n\nHis vocal style — nasal, intimate, and often emotionally exposed — became as recognizable as the guitar tone. Even at the band’s loudest, the lyrics frequently circle adolescence, longing, and self-scrutiny, giving the biggest singles an unusually personal core.\n\nIn live settings, Corgan has tended to treat the catalog as flexible material rather than museum pieces, reworking arrangements to emphasize different emotional colors: turning a once-gentle song into something harsher, or letting a heavy track open up into extended dynamics.\n\nBeyond the Pumpkins name, his career has included high-profile side projects and solo work that explore different angles of his writing, from more direct rock songs to moodier, electronic-leaning material. Those detours have often fed back into later Pumpkins records.\n\nAs the band’s public history evolved, Corgan also became closely tied to the long process of catalog curation — reissues, expanded editions, and archival releases — reflecting his interest in presenting the band’s work as a larger narrative with context, demos, and alternate versions.\n\nThrough it all, his guiding instinct has been scale: records that feel like statements, songs that move between whisper and roar, and a body of work that aims to be both immediate and mythic at the same time.",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Billy_Corgan",
+              "GRAMMY.com": "https://www.grammy.com/artists/billy-corgan/1751"
+            }
+          }
+        },
+        {
+          "Name": "James Iha",
+          "Roles": "Guitar, backing vocals",
+          "Years": "1988–2000, 2018–present",
+          "Overview": "Co-founder whose understated guitar work and melodic sensibility balanced the band’s heavier extremes.",
+          "Bio": {
+            "Birth": {
+              "Date": "1968-03-26",
+              "Place": "Chicago, Illinois, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Guitarist, songwriter, vocalist",
+            "Instruments": "Guitar, vocals",
+            "Biography": "James Iha co-founded The Smashing Pumpkins with Billy Corgan in 1988 and became a key part of the band’s classic chemistry, supplying guitar textures, harmony vocals, and a calmer counterweight to the group’s intensity.\n\nIn the early records, Iha’s playing often favored color and atmosphere — arpeggios, chiming layers, and understated parts that helped define the band’s blend of heaviness and haze. His contributions were sometimes less flashy than the lead lines, but crucial to the overall tone.\n\nAs the Pumpkins’ albums grew more elaborate, Iha’s role as a steady presence became more pronounced: anchoring arrangements, supporting the vocal melodies, and adding contrast to the denser guitar stacks and dramatic dynamics.\n\nHe also contributed songwriting and vocals on select tracks, offering a different emotional angle — often more restrained and reflective — that broadened the band’s palette beyond Corgan’s main voice.\n\nAfter the original era ended, Iha pursued other work as a musician and collaborator, including projects outside the Pumpkins’ immediate orbit, which further shaped his reputation as a versatile guitarist comfortable in alternative rock, pop, and more atmospheric settings.\n\nWhen the band’s history began to reconnect in public, Iha’s eventual return to the touring and recording lineup signaled a re-centering on the classic identity — not as a nostalgia act, but as a way to restore the distinctive interplay between the founders.\n\nAcross eras, his contribution is easiest to hear in the band’s sense of space: the way heavy riffs can still feel airy, and how sweetness can sit inside distortion. That balance is central to why the Pumpkins’ biggest records still sound both huge and human.\n\nIha’s onstage role has often been about feel as much as technique — locking in with the rhythm section, reinforcing key melodic shapes, and making the band’s big dynamic shifts land with clarity rather than chaos.\n\nHis songwriting contributions, though comparatively rare in the Pumpkins catalog, are notable for offering a different emotional temperature: softer edges, quieter humor, and a reflective tone that complements the band’s more dramatic peaks.\n\nAs the band’s later eras revisited classic material, Iha’s presence helped restore the original interplay between the founders, particularly the way the guitars can sound both massive and spacious at once.\n\nAcross the Pumpkins’ best-known recordings, his influence is often heard in the negative space — the parts left open so the melody can breathe — which is a big reason the band’s densest arrangements still feel melodic rather than suffocating.",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/James_Iha"
+            }
+          }
+        },
+        {
+          "Name": "Jimmy Chamberlin",
+          "Roles": "Drums, percussion",
+          "Years": "1988–1996, 1997–2000, 2006–2014, 2018–present",
+          "Overview": "Powerful, jazz-influenced drummer whose swing and explosiveness became a defining element of the band’s peak era.",
+          "Bio": {
+            "Birth": {
+              "Date": "1964-06-10",
+              "Place": "Joliet, Illinois, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Drummer, composer",
+            "Instruments": "Drums, percussion",
+            "Biography": "Jimmy Chamberlin joined The Smashing Pumpkins early in their rise and quickly became one of the band’s defining weapons: a drummer with jazz roots, explosive power, and a sense of swing that set the group apart from many of their alternative-rock peers.\n\nOn Gish and especially Siamese Dream, his playing helped turn dense guitar arrangements into something athletic and alive. The grooves could be heavy, but they also breathed — pushing and pulling in a way that made the choruses hit harder and the quieter sections feel more intimate.\n\nChamberlin’s approach wasn’t just about volume. He often used subtle ghost notes, dynamic cymbal work, and quick shifts in feel to underline the band’s constant contrasts: soft verses into huge refrains, romantic melodies into aggressive riffs.\n\nDuring the Mellon Collie era, he had to navigate a sprawling range of material — punky bursts, slow ballads, orchestral rock, near-metal intensity — and his adaptability helped unify the set. His drumming became a through-line that could connect wildly different songs into a coherent album experience.\n\nThe band’s history has included periods where Chamberlin stepped away and later returned, and each return has been notable for how immediately his presence changes the feel: the grooves tighten, the band’s push-pull comes back, and the songs regain a certain physical momentum.\n\nOutside the Pumpkins, he has pursued other projects that emphasize musicianship and improvisation, reinforcing the idea that his style is rooted as much in feel and phrasing as in brute force.\n\nIn the context of The Smashing Pumpkins, Chamberlin is often the difference between songs that are merely loud and songs that truly move. His blend of finesse and impact — a drummer who can swing inside a wall of guitars — remains one of the band’s most celebrated ingredients.\n\nTechnically, he’s known for mixing straight-ahead rock power with jazz-informed phrasing — quick accents, off-kilter fills, and a sense of time that can feel both precise and elastic. That combination is a major reason the band’s recordings still sound muscular without becoming rigid.\n\nIn the studio, Chamberlin’s ability to change character from song to song — from brushed restraint to near-metal aggression — gave the band freedom to attempt huge stylistic swings without losing cohesion.\n\nFans and critics frequently point to his performances as one of the group’s most consistent strengths, especially on the 1990s recordings where the drumming has as much personality as the vocal lines.\n\nWhen Chamberlin is present, the Pumpkins’ music often feels less like layered tracks stacked in a studio and more like a living band pushing air — a quality that has become central to the appeal of their reunions and later tours.",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Chamberlin"
+            }
+          }
+        },
+        {
+          "Name": "D’arcy Wretzky",
+          "Roles": "Bass guitar, backing vocals",
+          "Years": "1988–1999",
+          "Overview": "Original bassist whose melodic, supportive lines and stage presence helped shape the band’s classic 1990s identity.",
+          "Bio": {
+            "Birth": {
+              "Date": "1968-05-01",
+              "Place": "South Haven, Michigan, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Bassist, vocalist",
+            "Instruments": "Bass guitar, vocals",
+            "Biography": "D’arcy Wretzky was the original bassist of The Smashing Pumpkins and a key figure in the band’s best-known 1990s lineup. Her playing and stage presence helped anchor the group as they moved from Chicago clubs to global stages.\n\nIn the Pumpkins’ layered sound, the bass often served as the glue between thick guitar textures and dynamic drums. Wretzky’s parts tended to prioritize steadiness and musical support, keeping songs grounded while allowing the arrangements to swell and shift above her.\n\nDuring the breakthrough years, she became part of the band’s recognizable visual and interpersonal chemistry — a lineup whose tension and camaraderie were widely discussed alongside the music.\n\nShe appears across the band’s most celebrated run, from early material through the sprawling mid-1990s peak, and her presence is entwined with the era that produced many of the group’s defining singles and videos.\n\nWretzky departed near the end of the 1990s, and the group’s later versions have often been measured against the particular balance of personalities and sound that the original lineup created.\n\nEven as the band’s catalog continued to grow, the classic Pumpkins story is inseparable from the four-person chemistry of that period — and Wretzky’s role in that chemistry remains an essential piece of the band’s history.\n\nAs the band’s fame grew, Wretzky became a familiar face of the alternative-rock boom — visible in the videos, interviews, and tours that defined the Pumpkins’ mid-1990s peak.\n\nHer bass role was frequently about foundation and melody rather than virtuoso display, supporting the band’s shifting dynamics so that the arrangement could expand or contract without losing its center.\n\nIn retrospect, her time in the band is most closely tied to the era when the Pumpkins moved from cult status to global stardom, making her a key part of how that period is remembered by fans.\n\nBecause later versions of the group changed personnel and direction, the original quartet’s balance is often treated as a reference point — and Wretzky’s presence is essential to that reference, both musically and culturally.",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/D%27arcy_Wretzky"
+            }
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Melissa Auf der Maur",
+          "Roles": "Bass guitar, backing vocals",
+          "Years": "1999–2000",
+          "Instruments": "Bass guitar, vocals",
+          "Albums": [
+            "Machina/The Machines of God (2000)",
+            "Machina II/The Friends & Enemies of Modern Music (2000)"
+          ],
+          "Replacing": "D’arcy Wretzky",
+          "ReplacedBy": "Various touring/studio bassists in later eras",
+          "Overview": "Canadian musician who joined late in the original era after D’arcy’s departure and toured during the Machina period."
+        },
+        {
+          "Name": "Jeff Schroeder",
+          "Roles": "Guitar, backing vocals",
+          "Years": "2007–2023",
+          "Instruments": "Guitar, vocals",
+          "Albums": [
+            "Zeitgeist (2007)",
+            "Oceania (2012)",
+            "Monuments to an Elegy (2014)",
+            "Shiny and Oh So Bright, Vol. 1 (2018)",
+            "Cyr (2020)",
+            "ATUM (2023)"
+          ],
+          "Replacing": "Touring guitar roles in the post-reunion lineup",
+          "ReplacedBy": "—",
+          "Overview": "Long-serving post-reunion guitarist who became a central onstage presence across multiple modern-era albums and tours."
+        },
+        {
+          "Name": "Nicole Fiorentino",
+          "Roles": "Bass guitar, backing vocals",
+          "Years": "2010–2014",
+          "Instruments": "Bass guitar, vocals",
+          "Albums": [
+            "Oceania (2012)"
+          ],
+          "Replacing": "—",
+          "ReplacedBy": "Various",
+          "Overview": "Bassist in the early 2010s lineup, featured prominently during the Oceania era and associated touring."
+        },
+        {
+          "Name": "Mike Byrne",
+          "Roles": "Drums",
+          "Years": "2009–2014",
+          "Instruments": "Drums",
+          "Albums": [
+            "Oceania (2012)"
+          ],
+          "Replacing": "—",
+          "ReplacedBy": "Tommy Lee (tour) and others before Chamberlin’s later returns",
+          "Overview": "Drummer in the early 2010s lineup who played on Oceania and toured extensively during that period."
+        },
+        {
+          "Name": "Jonathan Melvoin",
+          "Roles": "Keyboards",
+          "Years": "1994",
+          "Instruments": "Keyboards",
+          "Albums": [
+            "Mellon Collie and the Infinite Sadness (1995)"
+          ],
+          "Replacing": "—",
+          "ReplacedBy": "—",
+          "Overview": "Keyboardist who worked with the band around the mid-1990s peak era, contributing to their expanding live sound."
+        },
+        {
+          "Name": "Matt Walker",
+          "Roles": "Drums",
+          "Years": "1997",
+          "Instruments": "Drums",
+          "Albums": [
+            "Batman & Robin: Music from and Inspired by the Motion Picture (1997)"
+          ],
+          "Replacing": "Jimmy Chamberlin (interim)",
+          "ReplacedBy": "Jimmy Chamberlin",
+          "Overview": "Drummer who worked with the band during a transitional period and is associated with the “The End Is the Beginning Is the End” era."
+        }
+      ]
     },
     {
       "ArtistID": "the-smithereens",
