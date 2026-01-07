@@ -60,8 +60,15 @@
       "ArtistID": "candlebox",
       "Name": "Candlebox",
       "Type": "Band",
-      "Origin": "Seattle, Washington, U.S.",
-      "YearsActive": "1990–2000, 2006–present",
+      "Origin": {
+        "City": "Seattle",
+        "Region": "Washington",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1990–2000",
+        "2006–present"
+      ],
       "Genres": [
         "Alternative rock",
         "Post-grunge",
