@@ -1333,26 +1333,286 @@
     {
       "ArtistID": "stray-cats",
       "Name": "Stray Cats",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Massapequa",
+        "Region": "New York",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1979–1984",
+        "1986–1993",
+        "2004–2009",
+        "2018–present"
+      ],
+      "Genres": [
+        "Rockabilly",
+        "Rock and roll",
+        "New wave"
+      ],
+      "Labels": [
+        "Arista",
+        "EMI America",
+        "Capitol",
+        "Surfdog"
+      ],
+      "Overview": "The Stray Cats are a Long Island–born rockabilly trio who helped pull 1950s‑style rock and roll back onto the pop charts in the early 1980s. Formed in Massapequa by guitarist/singer Brian Setzer, upright bassist Lee Rocker, and drummer Slim Jim Phantom, the band fused Sun‑era drive and slap‑bass swing with punk‑era speed and stage swagger. After relocating to the U.K. in 1980, they broke quickly on the club circuit and scored major British hits with the Dave Edmunds‑produced debut *Stray Cats* (1981), spawning “Runaway Boys,” “Rock This Town,” and “Stray Cat Strut.”\n\nIn the U.S., their breakthrough came via the compilation *Built for Speed* (1982), which went platinum and made MTV staples out of “Rock This Town” (Top 10) and “Stray Cat Strut” (Top 3). The follow‑up *Rant n’ Rave with the Stray Cats* (1983) kept them in heavy rotation (“(She’s) Sexy + 17” became another U.S. Top 5), while their look—Gretsch twang, pompadours, and vintage hot‑rod cool—became shorthand for the rockabilly revival.\n\nAlthough the trio’s original run ended in 1984, the Stray Cats reunited repeatedly across later decades while each member sustained a busy parallel career (Setzer’s swing‑revival Brian Setzer Orchestra, Rocker’s roots‑rock solo work, and Phantom’s numerous rockabilly collaborations). Their 2019 comeback album *40* underscored the band’s lasting chemistry and influence on neo‑rockabilly, roots‑rock, and punk‑adjacent guitar music.",
+      "Achievements": [
+        {
+          "Year": "1981",
+          "Title": "Breakthrough U.K. success with debut album",
+          "Details": "The Dave Edmunds‑produced debut *Stray Cats* reached the U.K. Top 10 and yielded multiple Top 20 singles, helping ignite the early‑1980s rockabilly revival."
+        },
+        {
+          "Year": "1982",
+          "Title": "Platinum U.S. breakthrough with *Built for Speed*",
+          "Details": "The U.S. compilation *Built for Speed* earned platinum certification and placed “Rock This Town” in the Billboard Hot 100 Top 10 while establishing the band as an MTV-era staple."
+        },
+        {
+          "Year": "1983",
+          "Title": "Multi-hit U.S. peak in mainstream rock and pop",
+          "Details": "“Stray Cat Strut” reached the U.S. Top 3 and “(She’s) Sexy + 17” became a U.S. Top 5 hit, cementing the trio as a rare rockabilly act with major contemporary pop reach."
+        },
+        {
+          "Year": "1980s–present",
+          "Title": "Enduring influence on neo-rockabilly and roots-rock guitar",
+          "Details": "The band’s hybrid of vintage rockabilly and modern attack became a template for later neo‑rockabilly and roots‑punk scenes, with Setzer’s Gretsch tone and Rocker’s slap‑bass approach widely emulated."
+        },
+        {
+          "Year": "2019",
+          "Title": "Return with *40* and renewed touring era",
+          "Details": "The trio reunited for the album *40* and a major live run, reaffirming their catalog as a continuing concert draw decades after their first chart peak."
+        }
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "Stray Cats",
+          "Year": "1981",
+          "Notes": "U.K. breakthrough debut produced by Dave Edmunds; includes “Runaway Boys,” “Rock This Town,” and “Stray Cat Strut.”"
+        },
+        {
+          "Title": "Built for Speed",
+          "Year": "1982",
+          "Notes": "U.S. breakthrough compilation (platinum) that introduced the band to a wide American audience and fueled early MTV rotation."
+        },
+        {
+          "Title": "Rant n’ Rave with the Stray Cats",
+          "Year": "1983",
+          "Notes": "Mainstream peak-era studio set featuring the U.S. Top 5 hit “(She’s) Sexy + 17” and other staples."
+        },
+        {
+          "Title": "Let’s Go Faster",
+          "Year": "1990",
+          "Notes": "Late-period studio album from the band’s 1989–1993 reunion stretch; blends rockabilly with polished arena-rock touches."
+        },
+        {
+          "Title": "40",
+          "Year": "2019",
+          "Notes": "Full-length comeback album marking forty years since the band’s formation, supporting a major reunion touring cycle."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Rock This Town",
+          "Year": "1981/1982",
+          "Notes": "Signature Setzer-written anthem; Top 10 in both the U.K. and U.S. and a defining rockabilly revival statement."
+        },
+        {
+          "Title": "Stray Cat Strut",
+          "Year": "1981/1982",
+          "Notes": "Breakout hit with a distinctive Gretsch lead line; reissued in the U.S. to become a Hot 100 Top 3 single."
+        },
+        {
+          "Title": "Runaway Boys",
+          "Year": "1980",
+          "Notes": "Debut single that announced the band’s sound and image; U.K. Top 10."
+        },
+        {
+          "Title": "(She’s) Sexy + 17",
+          "Year": "1983",
+          "Notes": "Peak-era U.S. Top 5 hit from *Rant n’ Rave*, frequently cited as the band’s biggest pop-radio moment."
+        },
+        {
+          "Title": "I Won’t Stand in Your Way",
+          "Year": "1983",
+          "Notes": "Ballad showcase for Setzer’s vocals and melodic writing; a key track from the group’s commercial high point."
+        },
+        {
+          "Title": "Built for Speed",
+          "Year": "1982",
+          "Notes": "Title track associated with the band’s U.S. breakthrough era and early MTV visibility."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Massapequa, Long Island in 1979 by Brian Setzer, Lee Rocker, and Slim Jim Phantom.",
+        "Moved to the U.K. in 1980 to find an audience for their rockabilly sound; producer Dave Edmunds helped spark their early success.",
+        "U.S. breakthrough came via the platinum compilation *Built for Speed* (1982).",
+        "Known for Phantom’s stand-up minimalist drum setup and Rocker’s slap upright-bass style.",
+        "Reunited multiple times after the 1984 breakup, including a major 2019 return with the album *40*."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://straycats.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Stray_Cats",
+        "Discography": "https://en.wikipedia.org/wiki/Stray_Cats_discography",
+        "AllMusic Artist Bio": "https://www.allmusic.com/artist/stray-cats-mn0000573397"
       },
-      "CoreMembers": [],
+      "CoreMembers": [
+        {
+          "Name": "Brian Setzer",
+          "YearsActive": "1979–present",
+          "Roles": "Lead vocals • Lead guitar • Primary songwriter",
+          "Instruments": "Guitar • Vocals",
+          "Albums": [
+            "Stray Cats (1981)",
+            "Built for Speed (1982)",
+            "Rant n’ Rave with the Stray Cats (1983)",
+            "40 (2019)"
+          ],
+          "Bio": {
+            "FullName": "Brian Robert Setzer",
+            "Birth": {
+              "Date": "1959-04-10",
+              "Place": "Massapequa, New York, U.S."
+            },
+            "Nationality": "American",
+            "Roles": "Guitarist • Singer • Songwriter • Bandleader",
+            "Instruments": "Guitar • Vocals",
+            "Overview": "Frontman and primary creative engine of the Stray Cats, known for a crisp Gretsch tone, rockabilly phrasing, and later a major swing‑revival career leading the Brian Setzer Orchestra.",
+            "FullText": "Brian Setzer emerged from the Long Island club circuit with a deep, self-taught obsession for early rock and roll, rockabilly, and jump blues—sounds he treated as living, electrified music rather than museum pieces.\n\nIn the late 1970s he fronted the Tomcats, refining a style that combined Sun‑era rhythmic snap with the urgency of punk and new wave then rising around New York. When bassist Leon Drucker and drummer James McDonnell joined, the trio rebranded as the Stray Cats and quickly locked into a lean, riff‑driven format built around Setzer’s vocal hooks and melodic guitar leads.\n\nSetzer took a decisive gamble in 1980 by moving the band to London, betting that the U.K.’s appetite for rootsy styles and club culture would be more receptive than U.S. radio at the time. The plan worked: the Cats’ live show earned attention fast, and producer Dave Edmunds—an artist steeped in classic rock and roll craft—helped shape their recorded sound into something both authentic and contemporary.\n\nOn the debut album *Stray Cats*, Setzer’s writing balanced throwback imagery with modern momentum. “Runaway Boys” and “Rock This Town” captured the band’s kinetic stage identity, while “Stray Cat Strut” showcased his ability to turn a stylized groove into a pop hit without sanding off the bite.\n\nThe U.S. breakthrough with *Built for Speed* made Setzer’s guitar tone and phrasing a defining part of early MTV rock—clean but muscular, with percussive picking, twangy bends, and tightly arranged solos that referenced rockabilly pioneers while sounding unmistakably 1980s.\n\nAfter the original Stray Cats run, Setzer broadened his palette rather than abandoning his roots. He formed new projects, explored big‑band swing and jump blues in the 1990s, and became a key figure in the swing revival through the Brian Setzer Orchestra, bringing horn-driven arrangements and guitar firepower to mainstream audiences.\n\nAcross decades, Setzer’s reputation has rested on musicianship and bandleading as much as hits. He has stayed closely associated with vintage American styles—rockabilly, swing, and blues—while presenting them with modern stagecraft, tight arrangements, and a guitarist’s sense of drama.\n\nWithin the Stray Cats story, Setzer remains the central stylistic signature: the writer of the era-defining songs, the sonic architect of the trio’s attack, and the performer whose blend of swagger and precision helped make rockabilly revival a chart-level phenomenon.",
+            "HonoursAndMilestones": [
+              "Co-founded the Stray Cats and helped drive the early‑1980s rockabilly revival into mainstream charts.",
+              "Wrote the band’s best-known staples including “Rock This Town,” “Stray Cat Strut,” and “Runaway Boys.”",
+              "Led the Brian Setzer Orchestra during the 1990s swing‑revival wave, expanding his influence beyond rockabilly.",
+              "Recognized as a defining Gretsch-driven guitar stylist, blending rockabilly technique with modern rock punch.",
+              "Sustained a long touring and recording career across roots‑rock, swing, and rockabilly contexts."
+            ],
+            "FunFacts": [
+              "Setzer’s playing is closely identified with Gretsch hollow-body guitars and classic rockabilly tones.",
+              "The band initially moved to London by selling gear to finance the trip, treating it as an all-in career gamble.",
+              "Setzer has portrayed rock-and-roll figure Eddie Cochran on screen in the film *La Bamba*."
+            ],
+            "Sources": [
+              {
+                "Title": "Brian Setzer (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Brian_Setzer"
+              },
+              {
+                "Title": "Stray Cats (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Stray_Cats"
+              },
+              {
+                "Title": "Brian Setzer — Official Site",
+                "Publisher": "briansetzer.com",
+                "Url": "https://www.briansetzer.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Lee Rocker",
+          "YearsActive": "1979–present",
+          "Roles": "Upright bass • Backing vocals",
+          "Instruments": "Double bass • Bass guitar",
+          "Albums": [
+            "Stray Cats (1981)",
+            "Built for Speed (1982)",
+            "Rant n’ Rave with the Stray Cats (1983)",
+            "40 (2019)"
+          ],
+          "Bio": {
+            "FullName": "Leon Drucker",
+            "Birth": {
+              "Date": "1961-08-03",
+              "Place": "Long Island, New York, U.S."
+            },
+            "Nationality": "American",
+            "Roles": "Upright bassist • Musician",
+            "Instruments": "Double bass • Bass guitar",
+            "Overview": "Stray Cats’ slap-bass cornerstone whose upright approach and rhythmic drive became central to the band’s rockabilly revival sound.",
+            "FullText": "Lee Rocker—born Leon Drucker—became one of the most recognizable upright bass players of the modern rock era by putting the double bass back at the front of pop and rock television in the early MTV years.\n\nRaised on Long Island in a musical household, Rocker developed an early interest in the bass and gravitated toward the acoustic double bass for its physicality and rhythmic power. That choice positioned him perfectly for rockabilly, where the bass functions as both low end and percussion.\n\nAs a teenager he connected with school friends Brian Setzer and James McDonnell, sharing a deepening fascination with early rock and roll and the swing-to-rockabilly lineage behind it. When the trio formalized into the Stray Cats in 1979, Rocker’s upright became a visual and sonic centerpiece—huge, mobile, and loud enough to stand toe‑to‑toe with amplified guitar.\n\nRocker’s signature technique is slap bass: snapping the strings against the fingerboard to create a sharp, drum-like click that drives the groove while keeping the bass line melodic. In the Stray Cats format—guitar, upright, and a minimalist drum kit—his right hand effectively becomes a second rhythm section.\n\nOn hits like “Rock This Town” and “Stray Cat Strut,” Rocker’s lines are more than accompaniment. They provide forward motion, swing, and a bounce that makes the band’s throwback style feel urgent rather than nostalgic.\n\nAfter the group’s initial run, Rocker pursued a parallel career that kept him rooted in blues and roots-rock traditions, collaborating widely and releasing solo work while returning to the Stray Cats for multiple reunion eras.\n\nAcross those reunions, Rocker helped preserve the band’s defining chemistry: the locked-in push and pull between Setzer’s guitar rhythms, Phantom’s snare-driven attack, and Rocker’s slap-bass pulse.\n\nIn the Stray Cats’ legacy, Rocker is the proof that an old-school instrument can anchor modern rock performance—both as a rhythmic engine and as an unmistakable stage icon.",
+            "HonoursAndMilestones": [
+              "Co-founded the Stray Cats and brought upright slap bass back into mainstream rock visibility.",
+              "Helped define the trio’s rhythm section in a guitar-bass-drums format built around vintage rockabilly technique.",
+              "Became one of the most identifiable modern upright bass performers through high-rotation MTV-era videos.",
+              "Maintained an ongoing solo career in roots-rock and blues alongside Stray Cats reunions."
+            ],
+            "FunFacts": [
+              "Rocker’s stage name was adopted early in the band’s formation to match the group’s retro image.",
+              "His slap-bass technique functions like a percussion instrument, a key part of the Cats’ ‘three-piece’ power."
+            ],
+            "Sources": [
+              {
+                "Title": "Lee Rocker (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Lee_Rocker"
+              },
+              {
+                "Title": "Stray Cats (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Stray_Cats"
+              },
+              {
+                "Title": "Lee Rocker — Official Site",
+                "Publisher": "leerocker.com",
+                "Url": "https://www.leerocker.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Slim Jim Phantom",
+          "YearsActive": "1979–present",
+          "Roles": "Drums • Backing vocals",
+          "Instruments": "Drums • Percussion",
+          "Albums": [
+            "Stray Cats (1981)",
+            "Built for Speed (1982)",
+            "Rant n’ Rave with the Stray Cats (1983)",
+            "40 (2019)"
+          ],
+          "Bio": {
+            "FullName": "James McDonnell",
+            "Birth": {
+              "Year": "1961",
+              "Place": "Brooklyn, New York City, New York, U.S."
+            },
+            "Nationality": "American",
+            "Roles": "Drummer • Songwriter",
+            "Instruments": "Drums • Percussion • Vocals",
+            "Overview": "Rockabilly revival drummer known for playing standing up on a minimalist kit, turning a stripped-down setup into a punchy, high-energy engine for the Stray Cats.",
+            "FullText": "Slim Jim Phantom—born James McDonnell—helped make the Stray Cats instantly recognizable by turning the drummer’s role into a visual hook as much as a rhythmic one.\n\nBorn in Brooklyn and raised on Long Island, Phantom absorbed jazz and early rock records at home and began playing drums young, building technique through lessons and classic rudiments. That foundation mattered: even at the band’s fastest tempos, his groove stays clean, swinging, and precise.\n\nIn the Stray Cats he rejected the standard rock drum setup and played standing up behind a minimalist kit—often little more than bass drum, snare, hi-hat, and a cymbal. The approach nodded to early rock and roll showmanship while also keeping the trio’s sound tight and uncluttered.\n\nPhantom’s snare is the band’s crackle. On “Rock This Town” and “Runaway Boys,” he drives the songs with sharp backbeats and rapid, almost locomotive patterns that push the music forward without burying the bass and guitar interplay.\n\nBecause the Stray Cats were a three-piece, Phantom’s choices carried extra weight: every accent becomes arrangement, every fill becomes a cue. His style is less about flashy tom runs and more about momentum—consistent attack, strategic breaks, and an unbroken sense of swing.\n\nAfter the group’s initial breakup, Phantom remained prolific in rockabilly and roots‑rock collaborations, returning to the Stray Cats during reunion eras while also exploring side projects that kept him close to the vintage American styles that shaped his playing.\n\nAcross decades of touring, his stage persona—upright stance, compact kit, and relentless pulse—has become part of the Stray Cats brand, reinforcing the band’s identity as a live act that looks and sounds like rock and roll’s past, delivered with modern volume.\n\nIn the band’s story, Phantom represents the Stray Cats’ core idea: strip the setup to essentials, play it like you mean it, and let groove and attitude do the heavy lifting.",
+            "HonoursAndMilestones": [
+              "Co-founded the Stray Cats and helped define the neo‑rockabilly drum aesthetic of the early 1980s.",
+              "Popularized a stand‑up, minimalist kit approach that became a visual trademark in videos and live shows.",
+              "Maintained extensive collaboration work in rockabilly and roots-rock beyond the band’s core runs.",
+              "Returned for multiple Stray Cats reunions, preserving the trio’s original rhythmic identity."
+            ],
+            "FunFacts": [
+              "Phantom is known for playing standing up, an unusual setup that became a Stray Cats signature.",
+              "His compact kit leaves more sonic space for upright bass and twangy lead guitar, shaping the trio’s sound."
+            ],
+            "Sources": [
+              {
+                "Title": "Slim Jim Phantom (biography)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Slim_Jim_Phantom"
+              },
+              {
+                "Title": "Stray Cats (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Stray_Cats"
+              },
+              {
+                "Title": "Slim Jim Phantom — Apple Music artist bio",
+                "Publisher": "Apple Music",
+                "Url": "https://music.apple.com/us/artist/slim-jim-phantom/151021541"
+              }
+            ]
+          }
+        }
+      ],
       "NonCoreMembers": []
     },
     {
