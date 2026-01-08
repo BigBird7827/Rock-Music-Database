@@ -2118,7 +2118,9 @@
       "Name": "Yes",
       "Type": "Band",
       "Origin": "London, England",
-      "YearsActive": "1968–present",
+      "YearsActive": [
+        "1968–present"
+      ],
       "Genres": [
         "Progressive rock",
         "Art rock",
