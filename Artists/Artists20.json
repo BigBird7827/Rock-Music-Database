@@ -2116,8 +2116,547 @@
     {
       "ArtistID": "yes",
       "Name": "Yes",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": "London, England",
+      "YearsActive": "1968–present",
+      "Genres": [
+        "Progressive rock",
+        "Art rock",
+        "Symphonic rock",
+        "Album rock"
+      ],
+      "Labels": [
+        "Atlantic",
+        "Atco",
+        "Arista",
+        "Rhino",
+        "InsideOut Music"
+      ],
+      "Overview": "Yes emerged in late-1960s London as a band built around vocal harmony, extended composition, and virtuoso instrumental interplay. Early lineups blended British rock with jazz and classical influences, but their defining identity crystallized in the early 1970s when the group leaned into multi-part suites, shifting time signatures, and a bright, melodic approach to progressive rock. Albums like *The Yes Album* (1971), *Fragile* (1971), and *Close to the Edge* (1972) established a template: ornate arrangements, intricate bass-and-guitar counterpoint, and Jon Anderson’s soaring, singular tenor at the center.\n\nWhile frequently associated with the symphonic scale of 1970s prog, Yes proved unusually adaptable. The band’s history is marked by rotating lineups and distinct eras—the exploratory mid-’70s records, the late-’70s return to more concise song forms, the 1983–84 commercial resurgence driven by producer Trevor Horn and guitarist Trevor Rabin, and later decades of touring and recording that kept core elements of the sound in circulation. Their music helped shape the vocabulary of progressive rock—from the melodic, lead-like role of bass to the use of keyboards as an orchestral palette—and their best-known songs remain staples on classic rock radio.\n\nYes’ legacy spans both critical reverence and mass-market success: they are celebrated for landmark long-form compositions and for delivering a rare prog crossover No. 1 single in the U.S. with “Owner of a Lonely Heart.” Their induction into the Rock and Roll Hall of Fame in 2017 underscored their influence across multiple generations of rock musicians and listeners.",
+      "NotableAlbums": [
+        {
+          "Title": "The Yes Album",
+          "Year": 1971,
+          "Notes": "Breakthrough LP that sharpened the band’s identity—tighter songwriting, bigger dynamics, and signature extended pieces like “Starship Trooper.”"
+        },
+        {
+          "Title": "Fragile",
+          "Year": 1971,
+          "Notes": "A defining prog statement featuring “Roundabout” and individual member showcases; widely regarded as a cornerstone of the genre."
+        },
+        {
+          "Title": "Close to the Edge",
+          "Year": 1972,
+          "Notes": "Often cited as the band’s masterpiece—three tracks built around large-scale structures, thematic development, and intricate ensemble interplay."
+        },
+        {
+          "Title": "Tales from Topographic Oceans",
+          "Year": 1973,
+          "Notes": "Ambitious four-side concept album emblematic of Yes’ peak-era symphonic scope and risk-taking."
+        },
+        {
+          "Title": "Going for the One",
+          "Year": 1977,
+          "Notes": "A late-’70s high point balancing epics (“Awaken”) with more direct rock writing; marked a major commercial resurgence."
+        },
+        {
+          "Title": "90125",
+          "Year": 1983,
+          "Notes": "Sleek, modernized pop-prog comeback produced by Trevor Horn; includes the U.S. No. 1 hit “Owner of a Lonely Heart.”"
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Roundabout",
+          "Year": 1971,
+          "Notes": "Iconic bass-and-guitar driven single from *Fragile*; one of the band’s most enduring tracks."
+        },
+        {
+          "Title": "I’ve Seen All Good People",
+          "Year": 1971,
+          "Notes": "Two-part anthem from *The Yes Album* that showcases the band’s harmonic and dynamic contrasts."
+        },
+        {
+          "Title": "Close to the Edge",
+          "Year": 1972,
+          "Notes": "Long-form title suite that epitomizes Yes’ symphonic approach and compositional ambition."
+        },
+        {
+          "Title": "Heart of the Sunrise",
+          "Year": 1971,
+          "Notes": "A *Fragile* standout built on shifting sections and a powerful central theme, with Chris Squire’s bass as a lead voice."
+        },
+        {
+          "Title": "Owner of a Lonely Heart",
+          "Year": 1983,
+          "Notes": "The band’s biggest mainstream crossover; Yes’ only U.S. Hot 100 No. 1 single."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Inducted into the Rock and Roll Hall of Fame",
+          "Year": 2017,
+          "Summary": "Yes were inducted into the Rock and Roll Hall of Fame (Class of 2017), honoring the band’s defining members and eras."
+        },
+        {
+          "Title": "“Owner of a Lonely Heart” reached No. 1 on the Billboard Hot 100",
+          "Year": 1984,
+          "Summary": "The single from *90125* became Yes’ only U.S. Hot 100 No. 1 hit and a signature of their 1980s resurgence."
+        },
+        {
+          "Title": "Grammy Award for “Cinema”",
+          "Year": 1985,
+          "Summary": "“Cinema,” an instrumental from *90125*, won the Grammy for Best Rock Instrumental Performance—Yes’ only Grammy win."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in London in 1968, Yes became one of the defining bands of progressive rock through the 1970s, combining virtuosic playing with melodic vocal harmony.",
+        "Classic early-’70s albums *The Yes Album* (1971), *Fragile* (1971), and *Close to the Edge* (1972) helped codify the symphonic-prog template for ambitious long-form rock.",
+        "Lineup changes are a constant across the band’s history; major eras include the 1970–74 run with Steve Howe and (at times) Rick Wakeman and Bill Bruford, and the 1983 comeback lineup featuring Trevor Rabin and producer Trevor Horn’s sleek pop-prog approach.",
+        "“Owner of a Lonely Heart” became Yes’ only U.S. Billboard Hot 100 No. 1 single (1984) and remains their biggest mainstream crossover hit.",
+        "Yes were inducted into the Rock and Roll Hall of Fame in 2017, with founding and key members represented across their most notable eras."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.yesworld.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Yes_(band)",
+        "Discography": "https://en.wikipedia.org/wiki/Yes_discography",
+        "AllMusic": "https://www.allmusic.com/artist/yes-mn0000685647"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Jon Anderson",
+          "Roles": "Lead vocals, songwriter",
+          "Instruments": "Vocals",
+          "YearsActive": "1968–1980; 1991–2004 (Yes)",
+          "Albums": [
+            {
+              "Title": "The Yes Album",
+              "Year": 1971
+            },
+            {
+              "Title": "Fragile",
+              "Year": 1971
+            },
+            {
+              "Title": "Close to the Edge",
+              "Year": 1972
+            },
+            {
+              "Title": "Tales from Topographic Oceans",
+              "Year": 1973
+            }
+          ],
+          "Bio": {
+            "ArtistID": "yes",
+            "BioID": "yes-jon-anderson",
+            "FullName": "John Roy Anderson",
+            "Birth": "October 25, 1944 — Accrington, Lancashire, England",
+            "Nationality": "English",
+            "Roles": [
+              "Lead Vocals",
+              "Songwriter",
+              "Band Co-founder"
+            ],
+            "Instruments": [
+              "Vocals"
+            ],
+            "FullText": "Jon Anderson (born John Roy Anderson) is the voice most closely identified with Yes’ classic sound: an unusually high, clear tenor and a melodic approach that treats vocals as another lead instrument. Raised in Lancashire and drawn early to American rock-and-roll and harmony singing, Anderson moved through local groups before finding his path to London, where he began pushing toward music that was more expansive and spiritually tinged than mainstream pop.\n\nIn 1968 he co-founded Yes with bassist Chris Squire, setting the band’s tone around vocal blend, lyrical idealism, and wide-open harmonic color. Even as the group’s arrangements grew more intricate, Anderson’s lines often provided the thread listeners could follow—long, arching melodies that floated over shifting meters and dense instrumental counterpoint.\n\nDuring the early-1970s breakthrough run (*The Yes Album*, *Fragile*, *Close to the Edge*), Anderson helped shape the band’s identity as progressive rock moved from club experimentation to arena-scale ambition. His lyric writing leaned toward imagery and aspiration rather than narrative realism, complementing the music’s sense of scale.\n\nAs Yes expanded into side-long structures, Anderson became a central force in defining their concept-driven approach. *Close to the Edge* and the four-part *Tales from Topographic Oceans* show his preference for suites that develop themes across multiple sections, with vocals functioning as signposts within long instrumental arcs.\n\nAcross the band’s later shifts—whether the more direct late-’70s writing, the early-’80s reconfiguration, or subsequent reunions—Anderson’s presence was often the factor that made the music feel unmistakably like Yes. Even when other members drove the compositional frame, his phrasing, harmony instincts, and sense of uplift remained central.\n\nBeyond Yes, Anderson built a parallel career that highlights his collaborative instincts. His work with Vangelis as Jon & Vangelis broadened his palette into cinematic synth-pop and art music, while his solo projects explored meditative textures, world-music influences, and songwriting outside the band’s signature instrumentation.\n\nAnderson’s creative role is also evident in how he approaches performance: he favors sustained, pure-toned melody lines and layered harmonies that mirror the band’s instrumental voicings. That sensitivity to arrangement—knowing when to soar above the ensemble and when to blend into it—helped Yes translate complex compositions into memorable songs.\n\nIn later decades, as Yes’ membership and touring lineups evolved, Anderson remained a touchstone in the band’s story and in the way listeners identify the “classic” sound. His Rock and Roll Hall of Fame induction with Yes recognized a body of work that helped define progressive rock’s most melodic and widely heard branch.\n\nTaken as a whole, Anderson’s legacy rests on the rare combination of technical control and emotional directness: a voice capable of floating through labyrinthine music while keeping its spirit welcoming, human, and singable.",
+            "Sources": [
+              {
+                "Title": "Jon Anderson — biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jon_Anderson"
+              },
+              {
+                "Title": "Yes — artist biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/yes-mn0000685647"
+              },
+              {
+                "Title": "About Jon Anderson",
+                "Publisher": "jonanderson.com",
+                "Url": "https://www.jonanderson.com/about.html"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Chris Squire",
+          "Roles": "Bass, backing vocals, songwriter",
+          "Instruments": "Bass guitar",
+          "YearsActive": "1968–2015 (Yes)",
+          "Albums": [
+            {
+              "Title": "Fragile",
+              "Year": 1971
+            },
+            {
+              "Title": "Close to the Edge",
+              "Year": 1972
+            },
+            {
+              "Title": "Going for the One",
+              "Year": 1977
+            },
+            {
+              "Title": "90125",
+              "Year": 1983
+            }
+          ],
+          "Bio": {
+            "ArtistID": "yes",
+            "BioID": "yes-chris-squire",
+            "FullName": "Christopher Russell Edward Squire",
+            "Birth": "March 4, 1948 — Kingsbury, London, England",
+            "Death": "June 27, 2015 — Phoenix, Arizona, U.S.",
+            "Nationality": "English",
+            "Roles": [
+              "Bass",
+              "Backing Vocals",
+              "Songwriter",
+              "Band Co-founder"
+            ],
+            "Instruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "FullText": "Chris Squire was the architectural bassist of Yes—an innovator who treated the instrument as a melodic engine rather than a background support. Born Christopher Russell Edward Squire in London, he developed a distinctive approach early, favoring bright tone, aggressive articulation, and lines that interlocked with guitar and keyboards like counter-melodies.\n\nAs a co-founder in 1968, Squire helped establish the band’s identity around precision and uplift, anchoring vocal harmonies while pushing the rhythm section into the foreground. His bass often behaves like a lead voice in Yes’ arrangements, driving riffs, outlining harmonic motion, and adding a percussive snap that gave the group both propulsion and clarity.\n\nThe early-1970s masterpieces highlight how central his playing is to the band’s signature sound. On *Fragile*, “Roundabout” and “Heart of the Sunrise” showcase lines that are simultaneously rhythmic foundations and thematic statements—parts that feel composed, not merely improvised.\n\nSquire’s sound was closely associated with his use of the Rickenbacker bass, which helped him cut through dense arrangements with a crisp, chiming edge. That timbre became a recognizable marker of progressive rock and influenced generations of bassists who heard in Yes a new model for how the instrument could function in a rock ensemble.\n\nBeyond tone, Squire’s compositional sensibility mattered. Yes’ long-form pieces depend on clear internal architecture—sections that contrast and return, motifs that transform, and transitions that keep momentum while changing meter or key. Squire was a key contributor to that structural thinking, whether through riffs that anchor a movement or through harmonic choices that set up dramatic shifts.\n\nHis role also extended to vocals: Squire frequently sang harmony and occasionally stepped forward with lead lines, giving Yes an additional color in their choral blend. The interplay between his harmonies and Anderson’s lead is part of what made the band’s sound feel both expansive and intimate.\n\nAcross decades of lineup changes, Squire was the primary continuity point—remaining active in Yes from its founding until his death in 2015. That longevity meant he became a living archive of the band’s approach, repertoire, and aesthetic priorities, even as the group updated production styles and personnel.\n\nIn addition to Yes, Squire participated in side projects and collaborations that reflected his curiosity about songcraft and musicianship outside the main band context. Still, his defining achievements remain the Yes recordings where his bass is inseparable from the composition itself.\n\nSquire was inducted posthumously into the Rock and Roll Hall of Fame with Yes in 2017, an acknowledgment of both his role as a founding architect and his lasting influence. His legacy is the sound of a bass line that refuses to hide—melodic, commanding, and integral to the very identity of the music.",
+            "Sources": [
+              {
+                "Title": "Chris Squire — biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Chris_Squire"
+              },
+              {
+                "Title": "Yes — artist biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/yes-mn0000685647"
+              },
+              {
+                "Title": "Yes — Rock & Roll Hall of Fame inductees",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://www.rockhall.com/inductees/yes"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Steve Howe",
+          "Roles": "Guitar, backing vocals, songwriter",
+          "Instruments": "Guitar",
+          "YearsActive": "1970–1981; 1990–present (Yes)",
+          "Albums": [
+            {
+              "Title": "The Yes Album",
+              "Year": 1971
+            },
+            {
+              "Title": "Fragile",
+              "Year": 1971
+            },
+            {
+              "Title": "Close to the Edge",
+              "Year": 1972
+            },
+            {
+              "Title": "Going for the One",
+              "Year": 1977
+            }
+          ],
+          "Bio": {
+            "ArtistID": "yes",
+            "BioID": "yes-steve-howe",
+            "FullName": "Stephen James Howe",
+            "Birth": "April 8, 1947 — Holloway, London, England",
+            "Nationality": "English",
+            "Roles": [
+              "Guitar",
+              "Backing Vocals",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "FullText": "Steve Howe is one of progressive rock’s most distinctive guitar voices, known for blending rock energy with jazz phrasing, classical-inspired picking, and a highly developed sense of arrangement. Born in London, Howe built his playing through a wide range of influences, and by the time he joined Yes in 1970 he brought a vocabulary that could shift seamlessly from acoustic delicacy to electric intensity.\n\nHowe’s arrival helped catalyze the band’s early-1970s breakthrough. His playing expanded Yes’ palette: intricate arpeggios, harmonically rich chords, and lead lines that feel composed rather than purely blues-derived. That breadth allowed Yes to build songs with multiple “scenes,” each with its own guitar color and rhythmic feel.\n\nOn *The Yes Album*, Howe’s guitar is central to the band’s leap into fully realized progressive rock. Pieces like “Starship Trooper” highlight his ability to shape long-form dynamics—moving from lyrical acoustic sections to climactic electric leads that feel like narrative turning points.\n\nHowe’s contributions remained crucial through the classic run (*Fragile*, *Close to the Edge*), where guitar needed to weave through dense keyboards and melodic bass without losing definition. Rather than competing for space, he often carved distinct timbral roles: nylon-string textures, bright electric stabs, slide guitar, and layered parts that created orchestral depth.\n\nPart of Howe’s signature is his rhythmic authority. Even in complex meters, his playing locks into the groove with precision while still sounding fluid and exploratory. That balance—tight but expressive—helped Yes maintain forward momentum in music that could otherwise become purely technical display.\n\nAcross later decades, Howe became one of the band’s main continuity points, returning for multiple stints and shaping how Yes’ repertoire is interpreted on stage. His role often involved translating the band’s multi-era catalog into performances that preserve key details while adapting to changing lineups.\n\nHowe also pursued an extensive career outside Yes, including work with Asia and other projects that drew on his wide stylistic range. His solo output emphasizes instrumental composition and ensemble interplay, underscoring that his approach to guitar is as much about writing as it is about playing.\n\nTechnically, Howe is celebrated not simply for speed but for articulation and voice-leading—how his lines connect chords and melodies in ways that feel purposeful. That musicality is why his playing stands out even in a band filled with virtuosos.\n\nInducted into the Rock and Roll Hall of Fame with Yes in 2017, Howe’s legacy is the model of the progressive rock guitarist as a colorist and composer: someone who can make a six-string instrument function like an orchestra section, a rhythm engine, and a narrative voice all at once.",
+            "Sources": [
+              {
+                "Title": "Steve Howe — biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Howe"
+              },
+              {
+                "Title": "Yes — artist biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/yes-mn0000685647"
+              },
+              {
+                "Title": "Steve Howe — official site",
+                "Publisher": "stevehowe.com",
+                "Url": "https://stevehowe.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Rick Wakeman",
+          "Roles": "Keyboards, composer",
+          "Instruments": "Keyboards",
+          "YearsActive": "1971–1974; 1976–1980; 1991–1992; 1995–1997; 1999–2004 (Yes)",
+          "Albums": [
+            {
+              "Title": "Fragile",
+              "Year": 1971
+            },
+            {
+              "Title": "Close to the Edge",
+              "Year": 1972
+            },
+            {
+              "Title": "Tales from Topographic Oceans",
+              "Year": 1973
+            },
+            {
+              "Title": "Going for the One",
+              "Year": 1977
+            }
+          ],
+          "Bio": {
+            "ArtistID": "yes",
+            "BioID": "yes-rick-wakeman",
+            "FullName": "Richard Christopher Wakeman",
+            "Birth": "May 18, 1949 — Perivale, Middlesex, England",
+            "Nationality": "English",
+            "Roles": [
+              "Keyboards",
+              "Composer",
+              "Arranger"
+            ],
+            "Instruments": [
+              "Keyboards"
+            ],
+            "FullText": "Rick Wakeman is the keyboard virtuoso most associated with Yes’ symphonic peak—an artist whose flair for melody, harmonic drama, and instrumental color helped define the band’s early-1970s sound. Born Richard Christopher Wakeman in England, he became known first as a highly skilled player and arranger, with the technique to move between rock, classical-influenced passages, and elaborate synthesizer textures.\n\nWakeman joined Yes in 1971, a pivotal moment as the group was solidifying the lineup that would produce some of its most celebrated work. His keyboard voice—Hammond organ, grand piano, Mellotron, and early synthesizers—added an orchestral breadth that complemented the band’s long-form compositions.\n\nOn *Fragile*, Wakeman’s presence is immediately felt in the band’s expanded harmonic range and in the album’s dramatic contrasts. His parts do more than fill space: they introduce themes, answer vocal lines, and provide transitional bridges that make multi-section pieces feel coherent.\n\n*Close to the Edge* further illustrates his role as both soloist and architect. In extended suites, Wakeman’s job is often to articulate the emotional register of a section—bright fanfare, reflective interlude, or climactic surge—while keeping the harmonic logic clear as the band moves through rapid shifts.\n\nWakeman’s tenure with Yes is famously intermittent, reflecting both the demands of the band’s ambitious projects and his prolific solo ambitions. His solo records, especially the early classics, reveal a composer-performer who loves grand themes and narrative structure, qualities that aligned naturally with Yes’ aesthetic.\n\nEven during periods away from the band, Wakeman’s association with Yes remained strong because his keyboard style became embedded in the “classic” sound listeners expected. When he returned for later albums and tours, the music often leaned into the symphonic palette that his playing symbolized.\n\nTechnically, Wakeman is admired for combining speed and clarity with showmanship. Yet his most important contribution to Yes may be his sense of orchestration—how he stacks timbres, shapes crescendos, and uses keyboards to widen the sonic stage.\n\nHis broader career spans sessions, collaborations, media work, and an extensive discography that demonstrates both humor and discipline. Through it all, the Wakeman name remains shorthand for keyboard grandeur in rock.\n\nInducted into the Rock and Roll Hall of Fame with Yes in 2017, Wakeman’s legacy in the band is the sound of keyboards not as background texture but as a central narrative force—a melodic and harmonic engine that helped turn progressive rock into something cinematic.",
+            "Sources": [
+              {
+                "Title": "Rick Wakeman — biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Rick_Wakeman"
+              },
+              {
+                "Title": "Yes — artist biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/yes-mn0000685647"
+              },
+              {
+                "Title": "Rick Wakeman — official site",
+                "Publisher": "rwcc.com",
+                "Url": "https://www.rwcc.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Bill Bruford",
+          "Roles": "Drums, percussion",
+          "Instruments": "Drums",
+          "YearsActive": "1968–1972 (Yes)",
+          "Albums": [
+            {
+              "Title": "The Yes Album",
+              "Year": 1971
+            },
+            {
+              "Title": "Fragile",
+              "Year": 1971
+            },
+            {
+              "Title": "Close to the Edge",
+              "Year": 1972
+            }
+          ],
+          "Bio": {
+            "ArtistID": "yes",
+            "BioID": "yes-bill-bruford",
+            "FullName": "William Scott Bruford",
+            "Birth": "May 17, 1949 — Sevenoaks, Kent, England",
+            "Nationality": "English",
+            "Roles": [
+              "Drums",
+              "Percussion"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "FullText": "Bill Bruford first gained prominence as a founding member of Yes, bringing a drummer’s mind that was as compositional as it was rhythmic. Born William Scott Bruford in England, he developed an approach defined by crisp articulation, unusual accent patterns, and a taste for subtle complexity rather than brute force.\n\nIn Yes’ earliest years, Bruford helped the band translate its harmony-focused roots into music with sharper rhythmic identity. As Yes’ compositions grew longer and more intricate, his drumming provided both precision and elasticity—able to snap into tight grooves and then pivot into shifting meters without losing flow.\n\nBruford’s work on the early-1970s albums is often cited as a model for progressive rock drumming. Rather than simply marking time, he uses the kit to create conversation: hi-hat figures that answer guitar, snare placements that reframe a riff, and cymbal accents that cue transitions between sections.\n\nHis departure from Yes in 1972, just as the band reached a commercial and critical apex, became one of progressive rock’s defining “what if” moments. Bruford left to join King Crimson, pursuing a path that emphasized improvisation and rhythmic experimentation—choices that underline how seriously he took his artistic curiosity.\n\nEven after leaving, his influence remained in the Yes vocabulary. Later drummers who took the seat—most notably Alan White—brought their own strengths, but Bruford’s crisp, forward-leaning feel is deeply imprinted on the classic early-’70s recordings.\n\nBruford’s subsequent career is a case study in rhythmic innovation: multiple tenures with King Crimson, work with the supergroup U.K., collaborations across rock and jazz, and the creation of Earthworks, which pushed him toward electric and acoustic jazz contexts. Throughout, he maintained a drummer’s focus on sound and structure.\n\nHis brief later association with Yes-related projects, including the Anderson Bruford Wakeman Howe era, underscored that his musical relationship with former bandmates remained creatively significant even when the main band’s lineup shifted.\n\nBruford is also known for his thoughtful perspective on musicianship, often discussing the drummer’s role as an arranger of time and texture rather than a pure timekeeper. That philosophy is audible in his Yes work, where every part feels intentional.\n\nInducted into the Rock and Roll Hall of Fame with Yes in 2017, Bruford’s legacy is the proof that rock drumming can be both technically exacting and musically conversational—an art of detail that makes complex music feel alive.",
+            "Sources": [
+              {
+                "Title": "Bill Bruford — biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Bill_Bruford"
+              },
+              {
+                "Title": "Yes — Rock & Roll Hall of Fame induction announcement",
+                "Publisher": "yesworld.com",
+                "Url": "https://yesworld.com/2016/12/yes-to-be-inducted-into-the-rock-and-roll-hall-of-fame-class-of-2017/"
+              },
+              {
+                "Title": "Yes — artist biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/yes-mn0000685647"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Alan White",
+          "Roles": "Drums, percussion",
+          "Instruments": "Drums",
+          "YearsActive": "1972–2022 (Yes)",
+          "Albums": [
+            {
+              "Title": "Tales from Topographic Oceans",
+              "Year": 1973
+            },
+            {
+              "Title": "Going for the One",
+              "Year": 1977
+            },
+            {
+              "Title": "90125",
+              "Year": 1983
+            }
+          ],
+          "Bio": {
+            "ArtistID": "yes",
+            "BioID": "yes-alan-white",
+            "FullName": "Alan Victor White",
+            "Birth": "June 14, 1949 — Pelton, County Durham, England",
+            "Death": "May 26, 2022 — Newcastle, Washington, U.S.",
+            "Nationality": "English",
+            "Roles": [
+              "Drums",
+              "Percussion"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion",
+              "Vocals"
+            ],
+            "FullText": "Alan White became the rhythmic anchor of Yes for nearly half a century, combining power, steadiness, and adaptability in music that demands both athleticism and nuance. Born in County Durham, England, White built his reputation in the late 1960s and early 1970s as a versatile rock drummer capable of handling both studio precision and high-energy performance.\n\nBefore joining Yes, White’s résumé already included major artists and sessions, most notably work with John Lennon’s Plastic Ono Band and recordings associated with Lennon’s *Imagine* era. That experience sharpened his ability to serve a song—playing with restraint when needed and exploding into dramatic fills when the arrangement called for it.\n\nIn 1972, White joined Yes at a critical moment, replacing Bill Bruford just before major touring commitments. The challenge was immense: learn complex material quickly, then perform it night after night with a band whose compositions rely on exact transitions and rhythmic confidence.\n\nWhite’s drumming differed from Bruford’s in feel—he tended toward a broader, more forceful rock approach—yet that was precisely what Yes needed as they moved into even larger-scale live performances. His playing gave the band a heavier engine while preserving the clarity required for intricate ensemble passages.\n\nAcross the 1970s, White’s work supported Yes’ most ambitious projects, including sprawling concept pieces and live documents that demanded stamina and consistency. He became a stabilizing presence as the band navigated shifting lineups and increasingly complex production expectations.\n\nWhite was also central to the band’s 1980s reinvention. On *90125* and its associated singles, he adjusted to a more modern, punchy studio sound—tight grooves, crisp accents, and an approach aligned with producer Trevor Horn’s precision. That adaptability helped Yes bridge the gap between progressive epics and radio-friendly rock.\n\nBeyond Yes, White maintained a wide-ranging career with additional projects and collaborations, reflecting a musician who could move between progressive complexity and straightforward rock. Yet his defining identity remained tied to Yes’ catalog and the task of bringing demanding compositions to life on stage.\n\nIn the band’s later decades, as health and logistics affected touring, White’s longevity stood out: he was one of the key continuity figures of Yes’ live presence for generations of fans. His Rock and Roll Hall of Fame induction with Yes in 2017 recognized the scale of that contribution.\n\nWhite’s legacy is the drummer as cornerstone—an artist whose real achievement is making extraordinarily complex music feel grounded, forceful, and reliably human at concert volume, year after year.",
+            "Sources": [
+              {
+                "Title": "Alan White (Yes drummer) — biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Alan_White_(Yes_drummer)"
+              },
+              {
+                "Title": "Yes drummer Alan White dies at 72",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/yes-drummer-alan-white-dies-at-72/"
+              },
+              {
+                "Title": "Yes — artist biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/yes-mn0000685647"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Tony Kaye",
+          "Roles": "Keyboards",
+          "Instruments": "Keyboards",
+          "YearsActive": "1968–1971; 1983–1994",
+          "Albums": [
+            {
+              "Title": "Yes",
+              "Year": 1969
+            },
+            {
+              "Title": "Time and a Word",
+              "Year": 1970
+            },
+            {
+              "Title": "90125",
+              "Year": 1983
+            }
+          ]
+        },
+        {
+          "Name": "Trevor Rabin",
+          "Roles": "Guitar, vocals, songwriting",
+          "Instruments": "Guitar",
+          "YearsActive": "1983–1990; 1994",
+          "Albums": [
+            {
+              "Title": "90125",
+              "Year": 1983
+            },
+            {
+              "Title": "Big Generator",
+              "Year": 1987
+            }
+          ]
+        },
+        {
+          "Name": "Trevor Horn",
+          "Roles": "Lead vocals, producer",
+          "Instruments": "Vocals",
+          "YearsActive": "1980",
+          "Albums": [
+            {
+              "Title": "Drama",
+              "Year": 1980
+            }
+          ]
+        },
+        {
+          "Name": "Geoff Downes",
+          "Roles": "Keyboards",
+          "Instruments": "Keyboards",
+          "YearsActive": "1980; 2011–2012",
+          "Albums": [
+            {
+              "Title": "Drama",
+              "Year": 1980
+            }
+          ]
+        },
+        {
+          "Name": "Jon Davison",
+          "Roles": "Lead vocals",
+          "Instruments": "Vocals",
+          "YearsActive": "2012–present",
+          "Albums": [
+            {
+              "Title": "Heaven & Earth",
+              "Year": 2014
+            },
+            {
+              "Title": "The Quest",
+              "Year": 2021
+            }
+          ]
+        },
+        {
+          "Name": "Billy Sherwood",
+          "Roles": "Bass, vocals, production",
+          "Instruments": "Bass guitar",
+          "YearsActive": "1997–2000; 2015–present",
+          "Albums": [
+            {
+              "Title": "Open Your Eyes",
+              "Year": 1997
+            },
+            {
+              "Title": "The Quest",
+              "Year": 2021
+            }
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "the-zombies",
