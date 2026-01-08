@@ -775,27 +775,555 @@
     {
       "ArtistID": "third-eye-blind",
       "Name": "Third Eye Blind",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "San Francisco",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1993–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Post-grunge",
+        "Pop rock",
+        "Power pop",
+        "Pop punk"
+      ],
+      "Labels": [
+        "Elektra",
+        "Warner",
+        "Mega Collider",
+        "Megaforce"
+      ],
+      "Overview": "Third Eye Blind (often abbreviated as 3EB) emerged from San Francisco’s early‑1990s club circuit with a sound that married radio‑bright hooks to darker, diary‑like storytelling. Fronted by singer and primary lyricist Stephan Jenkins, the band broke nationally with its 1997 self‑titled debut—a long‑burn success powered by the kinetic sing‑along of “Semi‑Charmed Life,” the empathetic anthem “Jumper,” and the melancholy pop of “How’s It Going to Be.” Their melodies often arrived glossy and immediate, but the writing beneath them dealt in addiction, isolation, and the messy collision between youthful bravado and consequence.\n\nRather than remaining a one‑album moment, Third Eye Blind followed with 1999’s *Blue*, deepening the contrast between buoyant arrangements and uneasy subjects while expanding their palette into more atmospheric guitar textures. Through the 2000s and beyond, lineup shifts and industry changes pushed the group toward a touring‑first model, but Jenkins and drummer Brad Hargreaves kept the project active—periodically resurfacing with new studio statements such as *Out of the Vein*, *Ursa Major*, and later releases that blended their classic melodic DNA with sharper, modern alt‑rock production.\n\nDecades after their breakthrough, the band has remained a durable live draw, with a catalog that bridges post‑grunge edge and pop‑rock craft. Newer lineups built around Jenkins/Hargreaves have kept the songs in rotation while introducing newer material alongside the staples, reinforcing Third Eye Blind’s reputation as a ’90s era hitmaker that never fully left the road—or the conversation.",
+      "NotableAlbums": [
+        {
+          "Title": "Third Eye Blind",
+          "Year": "1997",
+          "Notes": "The band’s breakthrough debut and a defining late‑’90s alternative record; a slow‑building commercial success driven by “Semi‑Charmed Life,” “Jumper,” and “How’s It Going to Be.”"
+        },
+        {
+          "Title": "Blue",
+          "Year": "1999",
+          "Notes": "A darker, more expansive follow‑up that kept the melodic punch while leaning into moodier guitar textures; often cited by fans for deep cuts like “Motorcycle Drive By” and “Slow Motion.”"
+        },
+        {
+          "Title": "Out of the Vein",
+          "Year": "2003",
+          "Notes": "A post‑hiatus album that reframed the band’s hook‑heavy approach with adult‑rock polish and reflective writing; anchored by the Top 10 hit “Never Let You Go.”"
+        },
+        {
+          "Title": "Ursa Major",
+          "Year": "2009",
+          "Notes": "A later‑era set shaped by years of touring and lineup shifts; blends classic 3EB melodic instincts with a more modern alt‑rock edge."
+        },
+        {
+          "Title": "Dopamine",
+          "Year": "2015",
+          "Notes": "A return to full‑length releases after a long gap, emphasizing punchy choruses and streamlined arrangements while keeping the band’s lyrical bite."
+        },
+        {
+          "Title": "Screamer",
+          "Year": "2019",
+          "Notes": "A late‑career statement that pairs glossy hooks with sharper, contemporary production; captures the band’s ongoing push beyond pure nostalgia."
+        },
+        {
+          "Title": "Our Bande Apart",
+          "Year": "2021",
+          "Notes": "A pandemic‑era release that mixes classic 3EB melody with collaborative features and a more eclectic, modern alt‑pop/rock sheen."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Semi-Charmed Life",
+          "Year": "1997",
+          "Notes": "Their signature breakout single—sun‑splashed, hook‑packed pop‑rock with lyrics that undercut the euphoria with addiction and self‑destruction."
+        },
+        {
+          "Title": "Jumper",
+          "Year": "1998",
+          "Notes": "A compassionate anthem built around a soaring chorus and a message against bullying and shame; one of the band’s most enduring radio staples."
+        },
+        {
+          "Title": "How's It Going to Be",
+          "Year": "1997",
+          "Notes": "A slow‑burn ballad that highlighted the band’s gift for melancholy pop and became one of their biggest crossover hits."
+        },
+        {
+          "Title": "Graduate",
+          "Year": "1997",
+          "Notes": "A propulsive, guitar‑driven track that captured the band’s early urgency and became a defining live staple."
+        },
+        {
+          "Title": "Never Let You Go",
+          "Year": "1999",
+          "Notes": "A buoyant, bittersweet single that extended the band’s chart run into the 2000s and remains a perennial favorite."
+        },
+        {
+          "Title": "Deep Inside of You",
+          "Year": "1999",
+          "Notes": "A melody‑first modern‑rock single that showcases their knack for polished hooks and emotional tension."
+        },
+        {
+          "Title": "Losing a Whole Year",
+          "Year": "1997",
+          "Notes": "A fan‑favorite opener from the debut that sets the band’s template: bright pop architecture with darker lyrical undertow."
+        },
+        {
+          "Title": "Motorcycle Drive By",
+          "Year": "1999",
+          "Notes": "A beloved deep cut whose slow build and cathartic release made it a centerpiece for long‑time fans."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2001",
+          "Title": "RIAA 6× multi‑Platinum certification for the debut album",
+          "Details": "The self‑titled *Third Eye Blind* was certified 6× multi‑Platinum in the U.S., reflecting its long‑tail success beyond the initial release window."
+        },
+        {
+          "Year": "1997",
+          "Title": "“Semi‑Charmed Life” became a major crossover hit",
+          "Details": "The lead single from the debut reached the Top 5 of the Billboard Hot 100 and became one of the era’s defining alternative‑to‑pop crossovers; it also earned multi‑Platinum certification."
+        },
+        {
+          "Year": "1999",
+          "Title": "“Jumper” peaked in the Billboard Hot 100 Top 5",
+          "Details": "The band’s empathetic anthem became another major crossover success and remains one of their most recognized songs."
+        },
+        {
+          "Year": "2000",
+          "Title": "“Never Let You Go” extended their chart run into the 2000s",
+          "Details": "A Hot 100 Top 20 hit that helped cement the band as more than a one‑album phenomenon."
+        },
+        {
+          "Year": "2017",
+          "Title": "20th‑anniversary reissue spotlighted the debut’s legacy",
+          "Details": "The band revisited and expanded its breakthrough album with anniversary editions and continued touring built around a multi‑generation fanbase."
+        }
+      ],
+      "KeyFacts": [
+        "Commonly abbreviated as 3EB, the band formed in San Francisco in 1993 and broke nationally after signing with Elektra Records in the mid‑1990s.",
+        "Their 1997 self‑titled debut became a defining late‑’90s alternative album, combining bright pop structures with lyrical themes that often turn darker on close listen.",
+        "“Jumper” is widely associated with an anti‑bullying message and remains a signature live moment, frequently sung back by audiences.",
+        "Lineup changes have been frequent across eras, but Stephan Jenkins and drummer Brad Hargreaves have anchored the band’s long‑running touring career.",
+        "Later releases (*Dopamine*, *Screamer*, *Our Bande Apart*) show the band adapting its melodic identity to contemporary production while keeping the emphasis on hooks."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.thirdeyeblind.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Third_Eye_Blind",
+        "Discography": "https://en.wikipedia.org/wiki/Third_Eye_Blind_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Stephan Jenkins",
+          "YearsActive": "1993–present",
+          "Roles": "Lead vocals; rhythm guitar; primary lyricist; songwriter/producer",
+          "Instruments": "Vocals; guitar; occasional percussion/keys",
+          "Albums": [
+            {
+              "Title": "Third Eye Blind",
+              "Year": "1997"
+            },
+            {
+              "Title": "Blue",
+              "Year": "1999"
+            },
+            {
+              "Title": "Out of the Vein",
+              "Year": "2003"
+            },
+            {
+              "Title": "Dopamine",
+              "Year": "2015"
+            },
+            {
+              "Title": "Screamer",
+              "Year": "2019"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1964-09-27",
+              "Place": "Indio, California, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Singer; songwriter; guitarist; record producer; bandleader",
+            "Instruments": "Vocals; guitar; percussion (occasional studio/live contributions)",
+            "Biography": "Stephan Jenkins is the co‑founder, frontman, and primary lyrical voice of Third Eye Blind, the San Francisco band that helped define late‑1990s alternative radio without abandoning pop craft. Growing up in California, Jenkins gravitated toward writing and melody, later folding that instinct into a band format where bright chord changes and instantly memorable choruses could carry far heavier subject matter.\n\nIn Third Eye Blind’s early years he shaped the group’s identity around contrast: sunlit arrangements that pull you in, then lines that reveal addiction, anxiety, and the kinds of private crises people rarely admit out loud. That tension is central to the band’s breakthrough era—particularly the 1997 debut, where Jenkins’ conversational phrasing and tightly edited hooks helped tracks like “Semi‑Charmed Life” and “How’s It Going to Be” cross from modern rock into the pop mainstream.\n\nAs the band’s public profile grew, Jenkins also became the connective tissue through frequent lineup changes, guiding Third Eye Blind through the shift from major‑label peak years into a touring‑driven long game. While the group’s sound evolved—from the moody sprawl of *Blue* to the later, more modern sheen of albums like *Dopamine* and *Screamer*—his emphasis on melodic architecture and emotionally specific writing remained the through‑line.\n\nOver decades, Jenkins’ role expanded beyond performer into producer and curator of the band’s catalog, balancing audience expectations for the hits with an insistence on newer material in setlists and releases. That push‑and‑pull—between nostalgia and forward motion—has become part of his public identity, as Third Eye Blind continues to draw large crowds long after its initial radio dominance.",
+            "Sources": [
+              {
+                "Title": "Stephan Jenkins",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Stephan_Jenkins"
+              },
+              {
+                "Title": "Third Eye Blind",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Third_Eye_Blind"
+              },
+              {
+                "Title": "Third Eye Blind Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/third-eye-blind-mn0000926237"
+              },
+              {
+                "Title": "Third Eye Blind | Biography, Music & News",
+                "Publisher": "Billboard",
+                "Url": "https://www.billboard.com/artist/third-eye-blind/"
+              },
+              {
+                "Title": "ThirdEyeBlind.com",
+                "Publisher": "ThirdEyeBlind.com",
+                "Url": "https://www.thirdeyeblind.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Brad Hargreaves",
+          "YearsActive": "1995–present",
+          "Roles": "Drums; percussion; founding‑era member (classic lineup)",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            {
+              "Title": "Third Eye Blind",
+              "Year": "1997"
+            },
+            {
+              "Title": "Blue",
+              "Year": "1999"
+            },
+            {
+              "Title": "Out of the Vein",
+              "Year": "2003"
+            },
+            {
+              "Title": "Ursa Major",
+              "Year": "2009"
+            },
+            {
+              "Title": "Dopamine",
+              "Year": "2015"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1971-07-30",
+              "Place": "San Francisco, California, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Drummer; percussionist; long‑running touring anchor",
+            "Instruments": "Drums; percussion",
+            "Biography": "Brad Hargreaves is Third Eye Blind’s long‑standing drummer and one of the key architects of the band’s feel—tight enough for pop radio, but physical and forceful enough to keep the songs grounded in rock. Joining in the mid‑1990s as the group’s profile was rising, he became an essential part of the classic lineup heard on the multi‑Platinum debut and the darker, wider‑screen follow‑up *Blue*.\n\nHargreaves’ playing is defined by clarity and momentum: crisp backbeats that let the choruses lift, and a knack for dynamic builds that turn mid‑tempo songs into cathartic sing‑alongs. That balance helped songs like “Jumper” and “How’s It Going to Be” land as crossover hits while still feeling like band performances rather than purely studio constructions.\n\nAs Third Eye Blind moved into an era of frequent personnel changes, Hargreaves remained a stabilizing presence alongside Stephan Jenkins, helping keep the live show consistent across decades of touring. He has also been part of the band’s later‑era rebuilding cycles—supporting newer guitar‑forward textures and modern production approaches while maintaining the rhythmic identity that listeners associate with the classic records.\n\nFor many fans, Hargreaves represents continuity: a musician who has carried the band’s catalog from the ’90s radio peak through the long touring years and into new releases, ensuring the songs retain their punch and precision on stage.",
+            "Sources": [
+              {
+                "Title": "Third Eye Blind",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Third_Eye_Blind"
+              },
+              {
+                "Title": "Bradley Hargreaves — Biography",
+                "Publisher": "IMDb",
+                "Url": "https://www.imdb.com/name/nm1172247/bio/"
+              },
+              {
+                "Title": "Brad Hargreaves (Wikidata entry)",
+                "Publisher": "Wikidata",
+                "Url": "https://www.wikidata.org/wiki/Q4953977"
+              },
+              {
+                "Title": "Brad Hargreaves of Third Eye Blind",
+                "Publisher": "Modern Drummer",
+                "Url": "https://www.moderndrummer.com/2012/04/brad-hargreaves-of-third-eye-blind/"
+              },
+              {
+                "Title": "Third Eye Blind Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/third-eye-blind-mn0000926237"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Kryz Reid",
+          "YearsActive": "2010–present",
+          "Roles": "Lead guitar; backing vocals",
+          "Instruments": "Guitar; backing vocals",
+          "Albums": [
+            {
+              "Title": "Dopamine",
+              "Year": "2015"
+            },
+            {
+              "Title": "Screamer",
+              "Year": "2019"
+            },
+            {
+              "Title": "Our Bande Apart",
+              "Year": "2021"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "",
+              "Place": "Ireland"
+            },
+            "Nationality": "Irish",
+            "Roles": "Guitarist; backing vocalist; modern‑era member",
+            "Instruments": "Electric guitar; acoustic guitar; backing vocals",
+            "Biography": "Kryz Reid joined Third Eye Blind in the 2010s as lead guitarist, becoming the most prominent six‑string voice of the band’s modern lineup. Irish‑born and stylistically versatile, he stepped into a role loaded with history—helping keep the classic songs muscular and precise live while also bringing a contemporary edge to newer material.\n\nReid’s contributions are about texture and lift: harmonized lead lines, chiming arpeggios, and a sharper modern bite when the arrangements call for it. Onstage, he helps translate the dense guitar layers of the late‑’90s records into a coherent, high‑energy performance, while also supporting the band’s shift toward later releases and evolving setlists.\n\nBeyond technique, his era with Third Eye Blind reflects the band’s second‑act identity—leaner lineups, relentless touring, and a focus on keeping the catalog alive for audiences that mix original fans with listeners discovering the songs long after their initial chart run.",
+            "Sources": [
+              {
+                "Title": "Third Eye Blind",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Third_Eye_Blind"
+              },
+              {
+                "Title": "Third Eye Blind guitarist Kryz Reid talks music, performing",
+                "Publisher": "The Daily Texan",
+                "Url": "https://thedailytexan.com/2019/10/08/third-eye-blind-guitarist-kryz-reid-talks-music-performing/"
+              },
+              {
+                "Title": "Third Eye Blind Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/third-eye-blind-mn0000926237"
+              },
+              {
+                "Title": "A Semi‑Charmed Kind of Drive (Kryz Reid feature)",
+                "Publisher": "Western Digital Blog",
+                "Url": "https://blog.westerndigital.com/a-semi-charmed-kind-of-drive/"
+              },
+              {
+                "Title": "ThirdEyeBlind.com",
+                "Publisher": "ThirdEyeBlind.com",
+                "Url": "https://www.thirdeyeblind.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Alex LeCavalier",
+          "YearsActive": "2013–present",
+          "Roles": "Bass guitar",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            {
+              "Title": "Dopamine",
+              "Year": "2015"
+            },
+            {
+              "Title": "Screamer",
+              "Year": "2019"
+            },
+            {
+              "Title": "Our Bande Apart",
+              "Year": "2021"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "",
+              "Place": "Canada"
+            },
+            "Nationality": "Canadian",
+            "Roles": "Bassist; modern‑era member",
+            "Instruments": "Bass guitar",
+            "Biography": "Alex LeCavalier became Third Eye Blind’s bassist during the band’s long‑running modern era, joining as the group shifted toward a touring‑first rhythm and a steady stream of later‑career releases. His role is central to how the classic songs land live: the bass has to lock tightly with the drums to keep the grooves buoyant, while leaving room for the vocal hooks and interlocking guitars that define the band’s sound.\n\nIn the post‑2010 lineup, LeCavalier has helped anchor performances of the ’90s hits while also supporting the newer catalog—music that often blends sleek, contemporary production with the band’s familiar melodic instincts. That combination of precision and adaptability has made him part of the stable core of Third Eye Blind’s current touring configuration.",
+            "Sources": [
+              {
+                "Title": "Third Eye Blind",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Third_Eye_Blind"
+              },
+              {
+                "Title": "Third Eye Blind Endures",
+                "Publisher": "Shepherd Express",
+                "Url": "https://shepherdexpress.com/music/music-feature/third-eye-blind-endures/"
+              },
+              {
+                "Title": "Third Eye Blind Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/third-eye-blind-mn0000926237"
+              },
+              {
+                "Title": "Third Eye Blind (artist page)",
+                "Publisher": "TIDAL",
+                "Url": "https://tidal.com/browse/artist/14737"
+              },
+              {
+                "Title": "ThirdEyeBlind.com",
+                "Publisher": "ThirdEyeBlind.com",
+                "Url": "https://www.thirdeyeblind.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Colin Creev",
+          "YearsActive": "2019–present",
+          "Roles": "Keyboards; guitar; programming/production",
+          "Instruments": "Keyboards; guitar",
+          "Albums": [
+            {
+              "Title": "Screamer",
+              "Year": "2019"
+            },
+            {
+              "Title": "Our Bande Apart",
+              "Year": "2021"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "",
+            "Roles": "Keyboardist; guitarist; producer/songwriter",
+            "Instruments": "Keyboards; guitar; programming",
+            "Biography": "Colin Creev joined Third Eye Blind as a multi‑instrumentalist in the late 2010s, expanding the band’s onstage palette with keyboards, additional guitar layers, and modern production textures. In a catalog built on stacked hooks, he helps recreate studio depth in a live setting—filling harmonic space, adding synth and keyboard accents, and supporting transitions that keep the set moving.\n\nOutside the band context, Creev is also active as a producer and songwriter, experience that translates into the detail work of contemporary touring: arrangement tweaks, sound design, and the subtle choices that let older songs feel current without losing their identity. His role reflects the band’s modern approach—lean, flexible lineups that can deliver both the classic radio hits and newer tracks with a fuller sonic footprint.",
+            "Sources": [
+              {
+                "Title": "Third Eye Blind",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Third_Eye_Blind"
+              },
+              {
+                "Title": "Rock/Alt/Pop/Hip-Hop Producer — Colin creeV",
+                "Publisher": "SoundBetter",
+                "Url": "https://soundbetter.com/profiles/659304-colin-creev"
+              },
+              {
+                "Title": "Meet Colin CreeV",
+                "Publisher": "Third Eye Blind (YouTube)",
+                "Url": "https://www.youtube.com/watch?v=-u1zLG7bIwc"
+              },
+              {
+                "Title": "colin creeV (Instagram profile)",
+                "Publisher": "Instagram",
+                "Url": "https://www.instagram.com/colincreev/?hl=en"
+              },
+              {
+                "Title": "Third Eye Blind Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/third-eye-blind-mn0000926237"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Kevin Cadogan",
+          "Roles": [
+            "lead guitar",
+            "backing vocals"
+          ],
+          "Years": "1993–2000",
+          "Instruments": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Albums": [
+            {
+              "Title": "Third Eye Blind",
+              "Year": "1997"
+            },
+            {
+              "Title": "Blue",
+              "Year": "1999"
+            }
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Tony Fredianelli / Kryz Reid",
+          "Overview": "A key early member and co‑architect of the band’s classic guitar sound, Cadogan was part of the breakthrough lineup that recorded the debut and *Blue* before departing in 2000."
+        },
+        {
+          "Name": "Arion Salazar",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1994–2006",
+          "Instruments": [
+            "bass",
+            "vocals (select tracks)"
+          ],
+          "Albums": [
+            {
+              "Title": "Third Eye Blind",
+              "Year": "1997"
+            },
+            {
+              "Title": "Blue",
+              "Year": "1999"
+            },
+            {
+              "Title": "Out of the Vein",
+              "Year": "2003"
+            }
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Alex LeCavalier",
+          "Overview": "Bassist during the band’s commercial peak and early‑2000s transition; his playing underpins much of the classic catalog, including the debut, *Blue*, and *Out of the Vein*."
+        },
+        {
+          "Name": "Jason Slater",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1993–1994",
+          "Instruments": [
+            "bass"
+          ],
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Arion Salazar",
+          "Overview": "An early bassist during the formative San Francisco years before the lineup solidified around the band’s breakthrough configuration."
+        },
+        {
+          "Name": "Tony Fredianelli",
+          "Roles": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Years": "2001–2008",
+          "Instruments": [
+            "guitar",
+            "backing vocals"
+          ],
+          "Albums": [
+            {
+              "Title": "Out of the Vein",
+              "Year": "2003"
+            }
+          ],
+          "Replacing": "Kevin Cadogan",
+          "ReplacedBy": "Kryz Reid",
+          "Overview": "Joined after the original lead‑guitar era and helped carry the catalog through extensive touring in the 2000s, contributing to the band’s live continuity between studio releases."
+        },
+        {
+          "Name": "Alex Kopp",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "2013–2019",
+          "Instruments": [
+            "keyboards"
+          ],
+          "Albums": [
+            {
+              "Title": "Dopamine",
+              "Year": "2015"
+            }
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Colin Creev",
+          "Overview": "Brought in as a dedicated keyboardist during the band’s modern lineup expansion, adding layers and texture before being replaced by Colin Creev."
+        }
+      ]
     },
     {
       "ArtistID": "thompson-twins",
