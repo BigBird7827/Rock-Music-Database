@@ -28,27 +28,747 @@
     {
       "ArtistID": "the-association",
       "Name": "The Association",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Los Angeles",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1965–1978",
+        "1979–present"
+      ],
+      "Genres": [
+        "Sunshine pop",
+        "Pop rock",
+        "Folk rock",
+        "Psychedelic pop",
+        "AM pop"
+      ],
+      "Labels": [
+        "Jubilee",
+        "Valiant",
+        "Warner Bros.",
+        "Columbia",
+        "Mums",
+        "RCA",
+        "Elektra"
+      ],
+      "Overview": "The Association emerged from Los Angeles’ mid‑1960s folk‑club circuit, coalescing in 1965 after members of the larger ensemble the Men pared down into a tighter, harmony‑driven pop group. Built around multiple lead singers rather than a single frontman, the band’s sound blended folk‑revival polish with bright, radio‑ready arrangements—what later listeners often file under “sunshine pop” and psychedelic‑tinged pop.\n\nFrom 1966 through the late 1960s, the group became a staple of AM pop and soft rock, scoring era‑defining hits including “Along Comes Mary,” “Cherish,” “Windy,” and “Never My Love.” Their appeal was the combination of intricate vocal stacks, clean guitars, and carefully shaped studio production, and they were prominent enough to appear on major packages and festivals (including a set at the 1967 Monterey Pop Festival).\n\nInternal strain and shifting pop tastes eroded the original run in the early 1970s—founding bassist Brian Cole died in 1972, and key members departed around the same period—but the Association name has continued via touring and various lineups, with original founders periodically returning for reunions and special appearances.",
+      "NotableAlbums": [
+        {
+          "Title": "And Then… Along Comes the Association",
+          "Year": "1966",
+          "Notes": "Debut album featuring “Along Comes Mary” and “Cherish,” establishing the group’s multi‑lead vocal approach and sunshine‑pop sheen."
+        },
+        {
+          "Title": "Renaissance",
+          "Year": "1966",
+          "Notes": "Released the same year as the debut; continued the polished harmony‑pop formula and broadened the group’s album presence."
+        },
+        {
+          "Title": "Insight Out",
+          "Year": "1967",
+          "Notes": "Breakthrough LP anchored by the No. 1 hit “Windy,” and a key document of late‑’60s California pop."
+        },
+        {
+          "Title": "Birthday",
+          "Year": "1968",
+          "Notes": "Late‑’60s continuation that includes “Time for Livin’,” reflecting a slightly tougher pop‑rock edge amid the group’s trademark harmonies."
+        },
+        {
+          "Title": "Greatest Hits!",
+          "Year": "1968",
+          "Notes": "A widely circulated hits collection that helped cement the band’s catalog as enduring soft‑rock radio staples."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Along Comes Mary",
+          "Year": "1966",
+          "Notes": "Early signature single that showcased the group’s layered vocals and wry pop storytelling."
+        },
+        {
+          "Title": "Cherish",
+          "Year": "1966",
+          "Notes": "Tender, harmony‑rich ballad written by Terry Kirkman; became one of the band’s biggest standards."
+        },
+        {
+          "Title": "Windy",
+          "Year": "1967",
+          "Notes": "Up‑tempo pop centerpiece and a chart‑topping hit; one of the defining “sunshine pop” singles of the era."
+        },
+        {
+          "Title": "Never My Love",
+          "Year": "1967",
+          "Notes": "Long‑running radio staple and one of the band’s best‑known songs, built around interlocking vocal parts."
+        },
+        {
+          "Title": "Time for Livin’",
+          "Year": "1968",
+          "Notes": "Top‑40 era hit that pushed the band toward a more driving pop‑rock feel while keeping the harmony core."
+        },
+        {
+          "Title": "Everything That Touches You",
+          "Year": "1968",
+          "Notes": "A lush, melodic single associated with the group’s late‑’60s peak and orchestral pop sensibility."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1966–1967",
+          "Title": "Breakthrough run of U.S. hit singles",
+          "Details": "Established as a major U.S. pop act with consecutive hits including “Along Comes Mary,” “Cherish,” “Windy,” and “Never My Love.”"
+        },
+        {
+          "Year": "1967",
+          "Title": "Monterey Pop Festival appearance",
+          "Details": "Performed at the Monterey Pop Festival during the summer of 1967, underscoring the band’s mainstream visibility in the era."
+        },
+        {
+          "Year": "2003",
+          "Title": "Vocal Group Hall of Fame induction",
+          "Details": "Inducted into the Vocal Group Hall of Fame, recognizing the group’s influence as a multi‑vocal harmony act."
+        }
+      ],
+      "KeyFacts": [
+        {
+          "Label": "Origin",
+          "Value": "Formed in Los Angeles, California (1965) out of the local folk‑club scene and the earlier ensemble the Men."
+        },
+        {
+          "Label": "Signature sound",
+          "Value": "Multiple lead singers and stacked harmonies—bright, meticulously arranged pop that later became closely associated with “sunshine pop.”"
+        },
+        {
+          "Label": "Songwriting highlight",
+          "Value": "“Cherish,” written by Terry Kirkman, became one of the group’s defining ballads and a centerpiece of their catalog."
+        },
+        {
+          "Label": "Classic‑era lineup",
+          "Value": "Best‑known core included Jules Alexander, Terry Kirkman, Russ Giguere, Jim Yester, Brian Cole, and Ted Bluechel Jr."
+        }
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Website": "https://www.theassociationwebsite.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Association",
+        "AllMusic (Artist)": "https://www.allmusic.com/artist/the-association-mn0000425843"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Jules Alexander",
+          "YearsActive": "1965–1972; 1979–present",
+          "Roles": "Founding member; vocals; lead guitar",
+          "Instruments": "Guitar, vocals",
+          "Albums": [
+            "And Then… Along Comes the Association",
+            "Renaissance",
+            "Insight Out"
+          ],
+          "Overview": "Founding guitarist and vocalist who helped form the band in 1965 and remained a key on‑stage anchor across the Association’s later touring eras.",
+          "Bio": {
+            "BioID": "the-association-jules-alexander",
+            "ArtistID": "the-association",
+            "ArtistName": "The Association",
+            "MemberName": "Jules Alexander",
+            "FullName": "Jules Gary Alexander",
+            "Nationality": "American",
+            "Roles": "",
+            "Instruments": "",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Sunshine pop",
+              "Pop rock",
+              "Folk rock"
+            ],
+            "Birth": {
+              "Date": "September 25, 1943",
+              "Place": "Chattanooga, Tennessee, U.S."
+            },
+            "ActiveYears": [
+              "1965–1972",
+              "1979–present"
+            ],
+            "AssociatedActs": [
+              "The Association"
+            ],
+            "KeyAlbums": [
+              "And Then… Along Comes the Association (1966)",
+              "Insight Out (1967)"
+            ],
+            "KeySongs": [
+              "Along Comes Mary",
+              "Cherish",
+              "Windy",
+              "Never My Love"
+            ],
+            "Achievements": [
+              "Co-founded The Association (1965)",
+              "Helped sustain the band’s touring continuity across reunion and legacy eras"
+            ],
+            "ExternalLinks": {
+              "Wikipedia (band page)": "https://en.wikipedia.org/wiki/The_Association",
+              "Official Website": "https://www.theassociationwebsite.com/"
+            },
+            "Biography": "Jules (Jules Gary) Alexander, born September 25, 1943 in Chattanooga, Tennessee, is one of The Association’s founding members and long‑time anchors. As a vocalist and guitarist, he was part of the core that defined the group’s “many lead singers” identity—an approach that made the Association sound more like a small choir than a standard rock band.\n\nAlexander’s early career is closely tied to the Los Angeles folk‑club ecosystem that fed so many mid‑’60s pop acts. Alongside Terry Kirkman, he helped steer the precursor projects that eventually distilled into The Association in 1965, keeping the focus on ensemble singing, clean arrangements, and a stage presentation that matched the era’s television‑ready pop.\n\nIn the band’s classic years, Alexander’s guitar work served the songs rather than competing with them: bright rhythm parts, melodic fills, and supportive textures that left room for harmonies to carry the emotional weight. That understated approach is one reason the Association’s recordings feel “vocals first,” even when the arrangements are busy.\n\nAs the Association’s catalog expanded beyond the initial hits, Alexander remained a stabilizing presence through touring and the practical demands of keeping a multi‑vocal group tight night after night. Even listeners who know the band mainly for ballads and radio singles are hearing the results of that discipline: harmonies that stay blended and parts that lock, even in live settings.\n\nThe early 1970s brought upheaval—Brian Cole’s death in 1972 and major lineup shifts—and the Association name began a longer, more complicated era of personnel changes and intermittent recording. Through those shifts, Alexander was often central to keeping the act working, a role that became increasingly important as the group’s identity moved from “current hitmakers” to “legacy touring act.”\n\nWhen the broader ’60s revival touring circuit gained momentum, the Association’s continued visibility depended on musicians who could carry the repertoire faithfully and present it with credibility. Alexander’s long association with the band’s origin story and classic sound made him a natural focal point for that period’s touring lineups.\n\nIn later decades, The Association’s continuity has been defined as much by the preservation of vocal arrangements as by any single studio era. Alexander’s contributions—guitar, vocals, and the organizational backbone that comes with being a surviving founder—helped keep those arrangements in circulation for new audiences well beyond the band’s original chart window.\n\nBecause he remained active with the Association across many eras, Alexander’s legacy is entwined with the group’s “living catalog.” For fans, that has meant the opportunity to hear “Along Comes Mary,” “Cherish,” “Windy,” and “Never My Love” in concert settings long after the songs first topped radio playlists.",
+            "Death": {
+              "Date": "",
+              "Place": "",
+              "Cause": ""
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – The Association",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Association"
+              },
+              {
+                "Title": "Talk And Rock Radio – Jules Alexander (The Association)",
+                "Publisher": "Talk And Rock Radio",
+                "Url": "https://talkandrockradio.libsyn.com/jules-alexander-the-association"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Terry Kirkman",
+          "YearsActive": "1965–1972; 1979–1984",
+          "Roles": "Founding member; vocals; songwriter; arranger",
+          "Instruments": "Vocals, woodwinds, percussion",
+          "Albums": [
+            "And Then… Along Comes the Association",
+            "Insight Out",
+            "Birthday"
+          ],
+          "Overview": "Founding vocalist and songwriter who wrote “Cherish” and helped define the group’s harmony‑forward, meticulously arranged pop at its commercial peak.",
+          "Bio": {
+            "BioID": "the-association-terry-kirkman",
+            "ArtistID": "the-association",
+            "ArtistName": "The Association",
+            "MemberName": "Terry Kirkman",
+            "FullName": "Terry Kirkman",
+            "Nationality": "American",
+            "Roles": "",
+            "Instruments": "",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Woodwinds",
+              "Percussion"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Sunshine pop",
+              "Pop rock",
+              "Folk rock"
+            ],
+            "Birth": {
+              "Date": "December 12, 1939",
+              "Place": "Salina, Kansas, U.S."
+            },
+            "ActiveYears": [
+              "1965–1972",
+              "1979–1984"
+            ],
+            "AssociatedActs": [
+              "The Association"
+            ],
+            "KeyAlbums": [
+              "And Then… Along Comes the Association (1966)",
+              "Insight Out (1967)"
+            ],
+            "KeySongs": [
+              "Cherish",
+              "Along Comes Mary",
+              "Windy"
+            ],
+            "Achievements": [
+              "Wrote “Cherish” (1966)",
+              "Co-founded The Association (1965)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Terry_Kirkman"
+            },
+            "Biography": "Terry Kirkman (December 12, 1939 – September 23, 2023) was a founding architect of The Association’s signature blend of intricate vocal harmony and carefully arranged pop. Born in Salina, Kansas and raised in Chino, California, he moved into the Los Angeles music world in the early 1960s, where the city’s folk clubs and studio scene offered a fast track for musicians who could sing, write, and arrange.\n\nBefore The Association fully formed, Kirkman’s early Los Angeles period included collaborations and hang‑arounds with other young scene figures, and he and guitarist Jules Alexander helped organize precursor groups that gradually evolved into the lineup that would debut as The Association in 1965. Those early years mattered: the band’s identity was built around several members who could all take leads, stack harmonies, and handle acoustic‑to‑electric shifts without losing polish.\n\nKirkman’s most famous songwriting credit is “Cherish,” a tender ballad whose plainspoken lyric and sustained, choir‑like backing vocals made it a defining mid‑’60s romantic standard. The song’s success not only lifted the group’s profile, it also crystallized the Association’s lane: emotionally direct pop, expertly sung, and produced with a clarity that stood out on AM radio.\n\nAs a performer, Kirkman was not just a vocalist. He was often associated with woodwinds and assorted percussion in the band’s stage and studio setup, a reflection of the group’s broader ambition than “guitars‑bass‑drums” pop. Those colors—flute‑like lines, airy textures, and rhythmic accents—helped separate the Association from many of their harmony‑pop peers.\n\nDuring the band’s peak (1966–1967), the Association’s singles were built for mass appeal but leaned on craft: counter‑melodies, carefully interlocked vocal parts, and a sense of arrangement that kept the songs moving without clutter. Kirkman’s writing and musical sensibility were a central part of that balance, especially on the smoother, ballad‑leaning side of the catalog.\n\nThe late 1960s brought both more hits and heavier touring demands. As pop moved toward harder rock, psychedelic experimentation, and album‑centric statements, harmony‑pop groups had to adapt—or accept that radio would treat them as specialists. The Association continued releasing records and touring, but internal strain and shifting tastes began to chip away at the classic lineup’s stability.\n\nA major turning point came in 1972, when founding bassist Brian Cole died. In the same period Kirkman left the group, stepping away from the Association name as the band entered a long phase of lineup changes and intermittent recording. His departure marked the end of the original, most widely recognized configuration.\n\nKirkman returned for the Association’s reformation and touring activity at the end of the 1970s, reflecting the broader “’60s revival” era when package tours and nostalgia circuits brought classic vocal groups back to big stages. His later stints with the band were punctuated by more departures, as the Association continued as an ongoing touring entity with different personnel combinations.\n\nOutside the spotlight, Kirkman’s post‑music work became notable in its own right. He trained and worked as an addictions counselor and served as a clinical director connected to music‑industry assistance programs, an unusual second career that drew on the realities many touring musicians face. That turn also helps explain why, for some fans, his legacy is tied to both the era’s music and the hard lessons behind it.\n\nIn the decades after the Association’s chart peak, “Cherish” remained his calling card, but his broader role—as co‑founder, arranger‑minded vocalist, and creative anchor—kept resurfacing whenever the band’s story was retold. Later honors, including the group’s Vocal Group Hall of Fame induction, reinforced the idea that the Association’s most durable achievement was its vocal identity.\n\nKirkman died on September 23, 2023 at age 83. His work with The Association continues to be a reference point for harmony‑forward pop: songs built on melody first, performed with ensemble discipline, and produced with a sheen that made them timeless on oldies radio and streaming playlists alike.",
+            "Death": {
+              "Date": "September 23, 2023",
+              "Place": "United States",
+              "Cause": ""
+            },
+            "Sources": [
+              {
+                "Title": "Pitchfork – The Association’s Terry Kirkman Dies at 83",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/the-association-terry-kirkman-dies-at-83/"
+              },
+              {
+                "Title": "Entertainment Weekly – Terry Kirkman, The Association founding member, dies at 83",
+                "Publisher": "Entertainment Weekly",
+                "Url": "https://ew.com/music/terry-kirkman-the-association-dies-83/"
+              },
+              {
+                "Title": "Wikipedia – Terry Kirkman",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Terry_Kirkman"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Russ Giguere",
+          "YearsActive": "1965–1972; 1979–present",
+          "Roles": "Founding member; vocals; guitar",
+          "Instruments": "Guitar, vocals",
+          "Albums": [
+            "And Then… Along Comes the Association",
+            "Renaissance",
+            "Insight Out"
+          ],
+          "Overview": "Founding singer-guitarist whose warm lead vocals and blend-friendly harmony work helped make the Association’s “multiple lead singers” concept sound effortless.",
+          "Bio": {
+            "BioID": "the-association-russ-giguere",
+            "ArtistID": "the-association",
+            "ArtistName": "The Association",
+            "MemberName": "Russ Giguere",
+            "FullName": "Russell Giguere",
+            "Nationality": "American",
+            "Roles": "",
+            "Instruments": "",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Sunshine pop",
+              "AM pop",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "October 18, 1943",
+              "Place": "Portsmouth, New Hampshire, U.S."
+            },
+            "ActiveYears": [
+              "1965–1972",
+              "1979–present"
+            ],
+            "AssociatedActs": [
+              "The Association"
+            ],
+            "KeyAlbums": [
+              "And Then… Along Comes the Association (1966)",
+              "Insight Out (1967)"
+            ],
+            "KeySongs": [
+              "Along Comes Mary",
+              "Cherish",
+              "Windy",
+              "Never My Love"
+            ],
+            "Achievements": [
+              "Founding member of The Association (1965)",
+              "Key lead and harmony vocalist on the group’s peak‑era hits"
+            ],
+            "ExternalLinks": {
+              "Apple Music": "https://music.apple.com/us/artist/russ-giguere/764042229"
+            },
+            "Biography": "Russ Giguere (born October 18, 1943, Portsmouth, New Hampshire) became one of The Association’s defining vocal signatures—an easy, melodic lead voice that fit the band’s harmony‑stacked pop perfectly. Raised in part in Southern California, he arrived in Los Angeles at the right moment, when folk clubs and coffeehouses doubled as informal auditions for labels and managers hunting the next radio act.\n\nBefore The Association broke nationally, Giguere was working as a singer‑guitarist on the local circuit. Accounts of the band’s formation frequently highlight that he was spotted while performing at the Troubadour, a key Los Angeles venue for the era’s folk‑to‑pop transition. His blend of approachable lead vocals and rhythmic guitar made him a natural fit for a group built around multiple front‑of‑mic singers.\n\nIn the Association’s classic lineup, Giguere’s role was both musical and practical: he could take a lead, blend into the vocal stack, and support arrangements that often required shifting quickly between harmony parts. That flexibility is one reason the band’s recordings can sound almost orchestral in their vocal layering while still feeling light and direct.\n\nDuring the 1966–1967 peak, the group’s success depended on turning studio precision into live performance—keeping pitch, blend, and timing intact across tours, television appearances, and festival sets. Giguere was part of the core that made that possible, helping translate intricate record arrangements into a reliable stage show.\n\nAlthough The Association is often summarized by its biggest singles, the band’s broader identity was an ensemble craft: rotating leads, carefully rehearsed harmonies, and parts assigned for color as much as for virtuosity. Giguere’s contributions sit squarely in that tradition, where musicianship is measured by blend, phrasing, and the ability to make a group sound like a single instrument.\n\nAs the 1970s progressed and pop’s center of gravity moved toward harder rock and singer‑songwriter intimacy, many harmony‑pop groups experienced a shift from contemporary chart competition to legacy recognition. The Association’s later activity—reformations, touring packages, and rotating personnel—reflected that new reality, and Giguere returned during the reformation era as part of keeping the classic sound available to audiences.\n\nBeyond performing, Giguere has also been associated with telling the band’s story from the inside, including later‑life reflections on the Los Angeles scene that produced the Association and the pressures that followed commercial success. Those perspectives have helped frame the group not just as a “hit‑single act,” but as a working band navigating a rapidly changing music industry.\n\nFor listeners, Giguere’s legacy is most audible in the way Association songs feel sung rather than merely recorded—lead vocals that are warm and conversational, set against harmonies that land with choral precision. It’s a combination that kept the band’s music in steady rotation for decades.",
+            "Death": {
+              "Date": "",
+              "Place": "",
+              "Cause": ""
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – The Association",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Association"
+              },
+              {
+                "Title": "Apple Music – Russ Giguere (artist biography snippet)",
+                "Publisher": "Apple Music",
+                "Url": "https://music.apple.com/us/artist/russ-giguere/764042229"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jim Yester",
+          "YearsActive": "1965–1972; 1979–present",
+          "Roles": "Vocals; guitar; songwriting",
+          "Instruments": "Guitar, vocals, keyboards",
+          "Albums": [
+            "And Then… Along Comes the Association",
+            "Insight Out",
+            "Birthday"
+          ],
+          "Overview": "Early lineup member who replaced original guitarist Bob Page before the first public shows, adding high‑tenor vocals and guitar that strengthened the band’s harmony stack.",
+          "Bio": {
+            "BioID": "the-association-jim-yester",
+            "ArtistID": "the-association",
+            "ArtistName": "The Association",
+            "MemberName": "Jim Yester",
+            "FullName": "James Yester",
+            "Nationality": "American",
+            "Roles": "",
+            "Instruments": "",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Vocals",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Sunshine pop",
+              "Pop rock",
+              "Folk rock"
+            ],
+            "Birth": {
+              "Date": "November 24, 1939",
+              "Place": "Birmingham, Alabama, U.S."
+            },
+            "ActiveYears": [
+              "1965–1972",
+              "1979–present"
+            ],
+            "AssociatedActs": [
+              "The Association",
+              "Modern Folk Quartet"
+            ],
+            "KeyAlbums": [
+              "And Then… Along Comes the Association (1966)",
+              "Insight Out (1967)"
+            ],
+            "KeySongs": [
+              "Windy",
+              "Never My Love",
+              "Time for Livin’"
+            ],
+            "Achievements": [
+              "Joined The Association in 1965 (classic lineup)",
+              "Key vocalist/guitarist across the band’s hit era and later touring"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Jim_Yester",
+              "AllMusic": "https://www.allmusic.com/artist/jim-yester-mn0000851886"
+            },
+            "Biography": "Jim Yester (born November 24, 1939, Birmingham, Alabama) joined The Association at the very beginning—replacing original rhythm guitarist Bob Page before the group played its first public shows. That timing made him, for all practical purposes, part of the classic lineup that listeners associate with the band’s biggest hits and its distinctive “multiple lead singers” identity.\n\nYester’s background fit The Association’s needs: he could sing, blend harmonies, and bring a guitarist’s rhythmic stability to arrangements that were often built around stacked vocals and shifting leads. In the mid‑1960s Los Angeles scene, those skills mattered as much as flashy soloing—especially for a group whose sound depended on clean entrances, tight phrasing, and smooth chordal backing.\n\nOn record, Yester contributed not just as a performer but also as a writer and musical mind inside an ensemble. The Association’s albums often mixed radio‑ready singles with deeper cuts that stretched toward baroque pop and soft psychedelia, and Yester’s presence helped the band maintain an album‑length identity beyond the hits.\n\nThe group’s rise was rapid: from local clubs and rehearsals to label deals, studio sessions, and national television, all within a short window. For The Association, that acceleration demanded a kind of “working band professionalism” even as the music remained light and melodic. Yester’s reliability as a vocalist and instrumentalist was part of what allowed the band to carry its studio precision into live settings.\n\nDuring the late 1960s, The Association navigated the same pressure many pop acts faced: keeping chart momentum while pop culture tilted toward harder rock, psychedelia, and album statements. The band’s response was to keep refining its core strengths—harmonies, melody, and arrangement—while experimenting around the edges with broader production and more varied song choices.\n\nBy the early 1970s, internal strain and changing tastes created instability. The death of founding bassist Brian Cole in 1972 was a profound blow, and the Association’s lineup began to shift more dramatically. Yester’s time with the band spanned those transitions, reflecting how the group gradually moved from a contemporary hit act into a legacy act that still had to earn every night onstage.\n\nYester’s career also extended beyond The Association. He pursued solo work and maintained an active performing life, and he had associations with other vocal‑group contexts that emphasized harmony and ensemble musicianship—work that aligned naturally with the skill set he developed in The Association.\n\nWhen The Association re‑formed for later touring eras, Yester returned as a key connection to the classic sound. In that role, his value was as much about maintaining vocal architecture as it was about playing guitar: keeping parts blended, preserving the melodic contour of familiar songs, and giving audiences an authentic link to the band’s original identity.\n\nAcross decades of performances, the songs that defined the group—“Cherish,” “Windy,” “Never My Love,” and “Along Comes Mary”—have remained the center of gravity. Yester’s voice and musicianship helped make those songs durable in live settings, where harmony groups can either soar or unravel depending on how disciplined the singing remains.\n\nYester’s story is a reminder that “sunshine pop” was not effortless: it required rehearsal, arrangement, and players who could treat singing as a precision instrument. His contributions helped The Association achieve that level of polish while still sounding relaxed, warm, and inviting.",
+            "Death": {
+              "Date": "",
+              "Place": "",
+              "Cause": ""
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – Jim Yester",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jim_Yester"
+              },
+              {
+                "Title": "AllMusic – Jim Yester",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/jim-yester-mn0000851886"
+              },
+              {
+                "Title": "Wikipedia – The Association",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Association"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Brian Cole",
+          "YearsActive": "1965–1972",
+          "Roles": "Founding member; bass; vocals",
+          "Instruments": "Bass guitar, vocals",
+          "Albums": [
+            "And Then… Along Comes the Association",
+            "Insight Out",
+            "Waterbeds in Trinidad!"
+          ],
+          "Overview": "Founding bassist and vocalist whose steady low‑end and harmony work underpinned the band’s biggest singles; died in 1972 at age 29.",
+          "Bio": {
+            "BioID": "the-association-brian-cole",
+            "ArtistID": "the-association",
+            "ArtistName": "The Association",
+            "MemberName": "Brian Cole",
+            "FullName": "Brian Leslie Cole",
+            "Nationality": "American",
+            "Roles": "",
+            "Instruments": "",
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Sunshine pop",
+              "Folk rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "September 8, 1942",
+              "Place": "Tacoma, Washington, U.S."
+            },
+            "ActiveYears": [
+              "1965–1972"
+            ],
+            "AssociatedActs": [
+              "The Association"
+            ],
+            "KeyAlbums": [
+              "And Then… Along Comes the Association (1966)",
+              "Insight Out (1967)",
+              "Waterbeds in Trinidad! (1972)"
+            ],
+            "KeySongs": [
+              "Along Comes Mary",
+              "Cherish",
+              "Windy",
+              "Never My Love"
+            ],
+            "Achievements": [
+              "Founding member of The Association (1965)",
+              "Performed on the band’s peak‑era hit run (1966–1967)"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Cole_(musician)"
+            },
+            "Biography": "Brian Leslie Cole (September 8, 1942 – August 2, 1972) was a founding member of The Association and a crucial part of the band’s vocal‑ensemble identity. Born in Tacoma, Washington, Cole brought more than bass guitar to the group: he also sang, blended harmonies, and helped give the Association its “many voices” character that separated them from pop bands built around a single lead singer.\n\nBy the time The Association formed in 1965, Cole was already active in the West Coast scene, and his combination of solid bass playing and vocal ability made him ideal for a group focused on layered singing. In recordings, the bass often sits understated beneath the harmonies, but that foundation is what lets the vocal stacks feel buoyant rather than thin.\n\nThe band’s first wave of hits arrived quickly, and Cole was present for the defining run that made The Association household names: “Along Comes Mary,” “Cherish,” “Windy,” and “Never My Love.” These records demanded precision—tight rhythm, clean chord changes, and consistent pitch across multiple singers—and Cole’s role was as much about ensemble discipline as about low‑end tone.\n\nAs the band moved beyond singles into album work, Cole’s presence contributed to the cohesion of a catalog that mixed baroque pop textures with soft psychedelia and folk‑rooted songwriting. The Association’s records often sound “produced,” but the production works because the underlying performances are stable and well‑blended—qualities that rely on a strong rhythm section.\n\nIn the late 1960s and early 1970s, the pressures of constant touring, the shifting center of pop music, and personal strain began to affect many bands of the era. Accounts of Cole’s later years note increasing drug use, and the toll that takes on both health and band dynamics. Even as the Association continued recording, internal stability became harder to maintain.\n\nCole remained associated with the group into the early 1970s, appearing on later releases as the band tried to adapt to changing tastes. The period is often framed as a difficult transition: the Association’s harmony‑pop identity remained intact, but the commercial environment had moved on, and the personal costs of the late‑’60s touring machine were mounting.\n\nOn August 2, 1972, Cole died in Los Angeles at age 29 from a heroin overdose. His death was a pivotal rupture in the Association story, coming at a moment when the original lineup was already under strain and accelerating the unraveling of the classic configuration.\n\nPosthumously, Cole has often been remembered as one of the band’s essential voices and as an emblem of the era’s darker underside—where extraordinary commercial visibility coexisted with intense private vulnerability. In later years, the Association’s ongoing touring lineups have kept the repertoire alive, and narratives of the band’s history routinely circle back to the loss of a founding member at such a young age.\n\nFor listeners, Cole’s legacy is best heard in the way the Association’s hits feel balanced: sweet harmonies floating above a bass foundation that is steady, melodic, and supportive. It’s a reminder that the band’s “sunshine” sound still depended on musicians who could play and sing with real craft.",
+            "Death": {
+              "Date": "August 2, 1972",
+              "Place": "Los Angeles, California, U.S.",
+              "Cause": "Heroin overdose"
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – Brian Cole (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Brian_Cole_(musician)"
+              },
+              {
+                "Title": "Wikipedia – The Association",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Association"
+              },
+              {
+                "Title": "Discogs – Brian Cole",
+                "Publisher": "Discogs",
+                "Url": "https://www.discogs.com/artist/1351519-Brian-Cole-2"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Ted Bluechel Jr.",
+          "YearsActive": "1965–1972; 1979–present",
+          "Roles": "Founding member; drums; vocals",
+          "Instruments": "Drums, vocals",
+          "Albums": [
+            "And Then… Along Comes the Association",
+            "Renaissance",
+            "Insight Out"
+          ],
+          "Overview": "Founding drummer who helped keep the group’s harmony‑heavy arrangements tight and stage‑ready during the band’s hit era and later reunion activity.",
+          "Bio": {
+            "BioID": "the-association-ted-bluechel",
+            "ArtistID": "the-association",
+            "ArtistName": "The Association",
+            "MemberName": "Ted Bluechel Jr.",
+            "FullName": "Theodore Bluechel Jr.",
+            "Nationality": "American",
+            "Roles": "",
+            "Instruments": "",
+            "PrimaryInstruments": [
+              "Drums",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician"
+            ],
+            "Genres": [
+              "Sunshine pop",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "December 2, 1942",
+              "Place": "San Pedro, California, U.S."
+            },
+            "ActiveYears": [
+              "1965–1972",
+              "1979–present"
+            ],
+            "AssociatedActs": [
+              "The Association"
+            ],
+            "KeyAlbums": [
+              "And Then… Along Comes the Association (1966)",
+              "Insight Out (1967)"
+            ],
+            "KeySongs": [
+              "Along Comes Mary",
+              "Cherish",
+              "Windy",
+              "Never My Love"
+            ],
+            "Achievements": [
+              "Founding member of The Association (1965)",
+              "Drummer during the band’s peak‑era hits and later reunion activity"
+            ],
+            "ExternalLinks": {
+              "Encyclopedia.com (membership listing)": "https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/association"
+            },
+            "Biography": "Ted Bluechel Jr. (born December 2, 1942, in the Los Angeles area of California) was the founding drummer of The Association and part of the group’s original vocal‑ensemble concept. In a band where several members rotated lead vocals, Bluechel’s role was unusually broad for a drummer: beyond keeping time, he also contributed vocals and additional instrumental support as needed, helping the group function as a flexible, arrangement‑minded unit rather than a fixed “frontman + backing band” format.\n\nBecause The Association’s signature sound depended on clean harmonic blend, the rhythm section had to be steady without drawing attention away from the vocals. Bluechel’s drumming served that aesthetic—precise, controlled, and supportive—making space for vocal entrances and layered parts to land cleanly, especially on ballads where subtle tempo feel can make or break the performance.\n\nIn the band’s early formation period, The Association spent months rehearsing before becoming a regular presence at Los Angeles venues such as the Ice House. Those long rehearsals were essential for harmony groups, and Bluechel’s place in that process mattered: tight rhythm is what allows multiple singers to lock into phrases without the slight timing drift that can blur harmonies live.\n\nOn the studio recordings that produced the band’s biggest hits, Bluechel’s job was to keep arrangements buoyant rather than heavy. The Association’s late‑’60s pop was designed to feel bright and effortless, and the drums often functioned like a frame—light, consistent, and shaped to complement the vocal architecture.\n\nBluechel was also part of the band’s visual identity in the era of televised pop: a clean‑cut ensemble whose performances had to translate to cameras as well as to radio. The Association’s success included TV appearances, tours, and festival sets, all of which required a reliable drummer who could reproduce record‑tight performances on demand.\n\nAs the Association entered the 1970s and the industry shifted toward heavier rock sounds and album‑centric acts, harmony‑pop groups faced an identity challenge. The band continued in various forms, but internal strain and the loss of founding bassist Brian Cole in 1972 were profound disruptions. Bluechel’s continued association with the group through later eras reflects how the Association gradually became a legacy touring act built around preserving its classic repertoire.\n\nIn later Association reunions, the question was often how closely the live act could preserve the familiar vocal arrangements audiences expected. For harmony‑first bands, the drummer’s contribution is less about flash and more about consistency: making transitions clean, supporting dynamic changes under layered vocals, and keeping the “easy” feel that makes the music sound warm rather than stiff.\n\nBluechel’s place in the Association story is therefore foundational. Even when the drums sit modestly in the mix, they are part of the structural support that let the band’s multi‑voice approach become its calling card—songs that remain widely known decades later precisely because they were built on dependable ensemble execution.",
+            "Death": {
+              "Date": "",
+              "Place": "",
+              "Cause": ""
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – The Association (original lineup and history)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Association"
+              },
+              {
+                "Title": "Encyclopedia.com – The Association (membership listing)",
+                "Publisher": "Encyclopedia.com",
+                "Url": "https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/association"
+              },
+              {
+                "Title": "LiveAbout – Profile: The Association",
+                "Publisher": "LiveAbout",
+                "Url": "https://www.liveabout.com/profile-the-association-2521947"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Larry Ramos",
+          "YearsActive": "1967–1975; 1979–2014",
+          "Roles": "Vocals; guitar; banjo",
+          "Instruments": "Guitar, banjo, vocals",
+          "Albums": [
+            "Insight Out",
+            "Birthday",
+            "The Association"
+          ],
+          "Overview": "Singer‑guitarist/banjo player who joined in 1967 and became a prominent later‑era voice; previously a Grammy‑winning member of the New Christy Minstrels.",
+          "Bio": {
+            "BioID": "the-association-larry-ramos",
+            "ArtistID": "the-association",
+            "ArtistName": "The Association",
+            "MemberName": "Larry Ramos",
+            "FullName": "Hilario D. Ramos Jr.",
+            "Nationality": "American",
+            "Roles": "",
+            "Instruments": "",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Banjo",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer"
+            ],
+            "Genres": [
+              "Sunshine pop",
+              "Pop rock",
+              "Folk"
+            ],
+            "Birth": {
+              "Date": "April 19, 1942",
+              "Place": "Waimea, Kauai, Hawaii, U.S."
+            },
+            "ActiveYears": [
+              "1962–2014",
+              "1967–2014"
+            ],
+            "AssociatedActs": [
+              "The Association",
+              "The New Christy Minstrels"
+            ],
+            "KeyAlbums": [
+              "Insight Out (1967)",
+              "Birthday (1968)"
+            ],
+            "KeySongs": [
+              "Windy",
+              "Never My Love"
+            ],
+            "Achievements": [
+              "Joined The Association (1967)",
+              "Member of the New Christy Minstrels’ 1963 Grammy-winning lineup"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Larry_Ramos",
+              "AllMusic": "https://www.allmusic.com/artist/larry-ramos-mn0001751484"
+            },
+            "Biography": "Hilario D. “Larry” Ramos Jr. (April 19, 1942 – April 30, 2014) was a singer, guitarist, and banjo player whose career bridged the folk boom and the pop‑rock mainstream. Born in Waimea on Kauai, Hawaii, Ramos built an early performing life around stringed instruments and harmony singing—skills that later made him an ideal fit for vocal ensembles and harmony‑forward pop groups.\n\nRamos first gained national visibility through the folk‑revival circuit, joining the New Christy Minstrels in the early 1960s. That experience was significant: the Minstrels were a high‑profile, tightly arranged vocal group, and Ramos’ ability to sing, play, and perform under professional touring conditions was sharpened in a demanding environment.\n\nIn 1963, the New Christy Minstrels won a Grammy Award, and Ramos has been cited as the first Asian American to win a Grammy—an important milestone that later became a recurring part of his public biography. The achievement also underscores how deeply his career was rooted in ensemble performance and disciplined vocal arranging.\n\nRamos joined The Association in 1967, after the band had already broken nationally, and became a key stage and studio presence during the group’s late‑’60s and early‑’70s period. His guitar and banjo background, coupled with strong vocals, complemented the Association’s identity as a band of multiple lead singers rather than a single frontman.\n\nWithin The Association, Ramos helped sustain the group’s “sunshine pop” appeal while also contributing to its live adaptability. Harmony groups can struggle to keep arrangements intact onstage; Ramos’ experience in vocal ensembles meant he understood blend, phrasing, and the unglamorous work of making stacked harmonies sound effortless night after night.\n\nThe Association’s later years were marked by changing tastes, lineup shifts, and the loss of founding bassist Brian Cole in 1972. As the band moved into reunion and touring eras, Ramos remained associated with keeping the repertoire in circulation—performing the classic hits for audiences who increasingly viewed the Association as part of the essential ’60s canon.\n\nRamos’ broader story has also been framed as a breakthrough narrative for Asian American visibility in American pop, particularly for listeners who grew up in eras when mainstream U.S. hitmaking was far less diverse. His long professional run—folk, pop, touring, and late‑career legacy performances—made him a rare figure whose résumé touched multiple phases of American popular music.\n\nHe died on April 30, 2014. For many fans, Ramos represents both a key contributor to The Association’s later classic era and a historically notable musician whose achievements predated the wider recognition later given to diversity milestones in the music industry.",
+            "Death": {
+              "Date": "April 30, 2014",
+              "Place": "Clarkston, Washington, U.S.",
+              "Cause": ""
+            },
+            "Sources": [
+              {
+                "Title": "Wikipedia – Larry Ramos",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Larry_Ramos"
+              },
+              {
+                "Title": "AllMusic – Larry Ramos",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/larry-ramos-mn0001751484"
+              },
+              {
+                "Title": "Honolulu Star-Advertiser – Larry Ramos obituary",
+                "Publisher": "Honolulu Star-Advertiser",
+                "Url": "https://obits.staradvertiser.com/2014/05/04/larry-ramos-1942-2014/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Bob Page",
+          "YearsActive": "1965",
+          "Roles": "Rhythm guitar, vocals",
+          "NotableWork": "Early member during the band’s formation; replaced before first public shows.",
+          "Overview": "Original rhythm guitarist in the founding lineup; left before the Association’s first performances and was replaced by Jim Yester."
+        },
+        {
+          "Name": "Richard Thompson",
+          "YearsActive": "1972–1979",
+          "Roles": "Vocals, guitar",
+          "NotableWork": "Later-era vocalist/guitarist during lineup transition years.",
+          "Overview": "Joined during the post-hit transition period, helping keep the group touring as original members departed and the lineup changed."
+        }
+      ]
     },
     {
       "ArtistID": "atlanta-rhythm-section",
