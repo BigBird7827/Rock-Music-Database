@@ -77,7 +77,346 @@
     },
     {
       "ArtistID": "ozzy-osbourne",
-      "Name": "Ozzy Osbourne"
+      "Name": "Ozzy Osbourne",
+      "Type": "Solo",
+      "Origin": {
+        "City": "Birmingham",
+        "Region": "West Midlands, England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1967–2025"
+      ],
+      "Genres": [
+        "Heavy metal",
+        "Hard rock"
+      ],
+      "Labels": [
+        "Jet",
+        "Epic",
+        "Columbia"
+      ],
+      "Overview": "John Michael “Ozzy” Osbourne was the Birmingham-born vocalist whose eerie, blues-soaked delivery helped define the template for heavy metal—first as the original singer of Black Sabbath, then as a solo artist who rebuilt his career into a stadium-level brand. With Sabbath in the early 1970s, his voice sat at the center of riffs that turned horror imagery, industrial grit, and down-tuned guitars into a new language for rock; after being dismissed from the band in 1979, he pivoted into an unlikely second act that proved his identity was bigger than any lineup.\n\nThat solo reinvention began with *Blizzard of Ozz* (1980) and *Diary of a Madman* (1981), records that blended sharpened hooks with virtuosic guitar work and established a more melodic, radio-capable strain of metal without losing menace. Across later decades he alternated between big-chorus hard rock and heavier, contemporary production, all while maintaining an instantly recognizable persona that crossed into mainstream pop culture.\n\nOsbourne’s late-career chapter was defined by selective releases and high-profile collaborations rather than constant touring, culminating in *Patient Number 9* (2022), which earned major awards recognition. He was inducted into the Rock & Roll Hall of Fame with Black Sabbath in 2006 and again as a solo artist in 2024, cementing a legacy that spans metal’s birth, its mainstream expansion, and its modern revival.",
+      "Achievements": [
+        {
+          "Year": "1968–1970s",
+          "Title": "Helps define heavy metal with Black Sabbath",
+          "Details": "As Black Sabbath’s original vocalist, Osbourne fronted early albums that established metal’s dark mood, weight, and theatrical imagery—becoming a foundation for countless later subgenres."
+        },
+        {
+          "Year": "1980–1981",
+          "Title": "Solo breakthrough with *Blizzard of Ozz* and *Diary of a Madman*",
+          "Details": "After leaving Black Sabbath, Osbourne rebuilt his career around a more melodic, hook-forward form of metal that still hit with riff power, producing several of his most enduring songs."
+        },
+        {
+          "Year": "2006",
+          "Title": "Inducted into the Rock & Roll Hall of Fame with Black Sabbath",
+          "Details": "The Hall recognized Black Sabbath’s era-defining influence, inducting the band and its classic members."
+        },
+        {
+          "Year": "2023",
+          "Title": "GRAMMY wins for *Patient Number 9*",
+          "Details": "Won Best Rock Album for *Patient Number 9* and Best Metal Performance for “Degradation Rules,” reflecting late-career critical and industry recognition."
+        },
+        {
+          "Year": "2024",
+          "Title": "Inducted into the Rock & Roll Hall of Fame as a solo artist",
+          "Details": "A second Hall induction honored the scope of his solo catalog and his role in expanding metal’s melodic and mainstream reach."
+        }
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "Blizzard of Ozz",
+          "Year": "1980",
+          "Notes": "Solo breakthrough that launched his post–Black Sabbath career; the classic-era lineup introduced guitarist Randy Rhoads and produced enduring staples."
+        },
+        {
+          "Title": "Diary of a Madman",
+          "Year": "1981",
+          "Notes": "Darker, more elaborate follow-up that deepened the melodic-metal blueprint and became another cornerstone of his early solo identity."
+        },
+        {
+          "Title": "Bark at the Moon",
+          "Year": "1983",
+          "Notes": "’80s pivot with a more polished, MTV-era attack and a defining title track that kept his solo momentum at arena scale."
+        },
+        {
+          "Title": "No More Tears",
+          "Year": "1991",
+          "Notes": "Major ’90s-era comeback album mixing heaviness with big ballads and polished production; anchored by multiple rock-radio hits."
+        },
+        {
+          "Title": "Ozzmosis",
+          "Year": "1995",
+          "Notes": "Mid-’90s statement that reasserted his classic sound with modern heft, closely associated with the Zakk Wylde era."
+        },
+        {
+          "Title": "Ordinary Man",
+          "Year": "2020",
+          "Notes": "Late-career return framed by cross-generational collaborations and reflective songwriting about longevity, regret, and survival."
+        },
+        {
+          "Title": "Patient Number 9",
+          "Year": "2022",
+          "Notes": "Final solo studio album; an all-star, guitar-forward set that earned top honors and underscored his lasting cultural pull."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Crazy Train",
+          "Year": "1980",
+          "Notes": "Signature solo anthem from *Blizzard of Ozz*, built on an instantly recognizable riff and one of his most enduring vocal hooks."
+        },
+        {
+          "Title": "Mr. Crowley",
+          "Year": "1980",
+          "Notes": "Occult-tinged classic showcasing theatrical melody and a celebrated Randy Rhoads guitar performance."
+        },
+        {
+          "Title": "Over the Mountain",
+          "Year": "1981",
+          "Notes": "High-energy opener from *Diary of a Madman* that emphasizes speed, melody, and the early solo band’s precision."
+        },
+        {
+          "Title": "Bark at the Moon",
+          "Year": "1983",
+          "Notes": "MTV-era title track that became a permanent fixture of his live identity and ’80s metal radio."
+        },
+        {
+          "Title": "Shot in the Dark",
+          "Year": "1986",
+          "Notes": "A polished, hook-driven single that helped define his mid-’80s crossover period."
+        },
+        {
+          "Title": "Mama, I’m Coming Home",
+          "Year": "1991",
+          "Notes": "A major power ballad that broadened his audience and remains one of his best-known mainstream hits."
+        },
+        {
+          "Title": "No More Tears",
+          "Year": "1991",
+          "Notes": "Epic, heavy title track associated with his early-’90s resurgence and long-form dramatic storytelling."
+        }
+      ],
+      "KeyFacts": [
+        "Osbourne’s career is commonly described in two defining arcs: the original Black Sabbath era that helped invent heavy metal, and the solo era that proved he could translate that identity into radio-friendly, arena-scale hits.",
+        "His early solo work is inseparable from the guitar partnership with Randy Rhoads, whose neo-classical phrasing and precision became a model for 1980s metal lead playing.",
+        "Later albums often balance punishing riff weight with big-chorus songwriting—an approach that helped his material remain compatible with both classic rock radio and modern metal audiences.",
+        "His mainstream visibility expanded dramatically in the 2000s, making him a rare metal figure whose name recognition extended well beyond the genre’s core audience.",
+        "Industry honors in the 2000s–2020s positioned him as a two-time Rock & Roll Hall of Fame inductee and a late-career award winner for a final-generation studio album."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.ozzy.com/",
+        "Rock & Roll Hall of Fame (Solo Inductee)": "https://rockhall.com/inductees/ozzy-osbourne/",
+        "GRAMMY.com Artist Profile": "https://grammy.com/artists/ozzy-osbourne/4998",
+        "AllMusic Artist Bio": "https://www.allmusic.com/artist/ozzy-osbourne-mn0000424244",
+        "Encyclopaedia Britannica Biography": "https://www.britannica.com/biography/Ozzy-Osbourne",
+        "RIAA Gold & Platinum (Artist Search)": "https://www.riaa.com/gold-%20platinum/?se=ozzy+osbourne&tab_active=default-award"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Ozzy Osbourne",
+          "YearsActive": "1967–2025",
+          "Roles": "Lead vocalist; songwriter; frontman",
+          "Instruments": "Vocals",
+          "Albums": [
+            {
+              "Title": "Blizzard of Ozz",
+              "Year": "1980"
+            },
+            {
+              "Title": "Diary of a Madman",
+              "Year": "1981"
+            },
+            {
+              "Title": "Bark at the Moon",
+              "Year": "1983"
+            },
+            {
+              "Title": "No More Tears",
+              "Year": "1991"
+            },
+            {
+              "Title": "Ozzmosis",
+              "Year": "1995"
+            },
+            {
+              "Title": "Ordinary Man",
+              "Year": "2020"
+            },
+            {
+              "Title": "Patient Number 9",
+              "Year": "2022"
+            }
+          ],
+          "Overview": "Iconic British metal frontman whose work with Black Sabbath and later solo catalog helped define heavy metal’s sound, imagery, and mainstream reach across five decades.",
+          "Bio": {
+            "FullName": "John Michael Osbourne",
+            "Birth": {
+              "Date": "1948-12-03",
+              "Place": "Birmingham, England, United Kingdom"
+            },
+            "Death": {
+              "Date": "2025-07-22",
+              "Place": "Harefield, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Singer; songwriter; frontman; media personality",
+            "Instruments": "Vocals",
+            "Overview": "Vocalist and cultural figure best known as Black Sabbath’s original singer and as a long-running solo artist whose melodic-metal approach broadened the genre’s audience.",
+            "FullText": "John Michael “Ozzy” Osbourne grew up in Birmingham, England, and emerged from the same working-class Midlands environment that later fed Black Sabbath’s heavy, industrial-toned sound. His voice—simultaneously plaintive and ominous—became a defining element of the band’s early recordings, where slow, weighty riffs and dark lyrical themes crystallized into what audiences and critics increasingly recognized as a new genre.\n\nIn 1968 he co-founded Black Sabbath with guitarist Tony Iommi, bassist Geezer Butler, and drummer Bill Ward. Through the early 1970s the group released landmark albums that turned blues-based rock into something heavier and more theatrical, with Osbourne’s vocal phrasing acting as both narrator and hook—equal parts chant, melody, and warning siren.\n\nAfter internal conflict and substance-fueled instability, Osbourne was dismissed from Black Sabbath in 1979. The turning point became the start of his second life in music: partnering with manager Sharon Arden (later Sharon Osbourne), he signed a solo deal and assembled a new band built around a young virtuoso guitarist, Randy Rhoads.\n\n*Blizzard of Ozz* (1980) reintroduced Osbourne not as an ex-frontman coasting on reputation, but as the anchor of a fresh, melodic-metal sound with sharp songwriting and guitar work that influenced an entire decade. The following year’s *Diary of a Madman* expanded the approach—more elaborate arrangements, darker atmosphere, and a sense that his solo identity could be just as distinct as his Sabbath persona.\n\nThe early solo era was marked by both success and tragedy. Rhoads’ death in 1982 ended one of heavy metal’s most celebrated partnerships, but Osbourne continued, reshaping his sound around new guitarists and shifting production styles while keeping his vocal signature and theatrical frontman role intact.\n\nThrough the 1980s and 1990s he alternated between lean, hooky hard rock and heavier, longer-form material, landing major hits and building a touring reputation that treated metal spectacle as a kind of arena ritual. Albums such as *No More Tears* (1991) demonstrated his ability to pair weight with vulnerability, producing both crushing title tracks and power-ballad staples that reached far beyond metal’s core base.\n\nOsbourne’s public identity eventually expanded beyond music. In the 2000s he became a mainstream household name through reality television, exposing a wide audience to his offstage persona and turning the Osbourne family into a pop-culture reference point—an unusual crossover for a metal figure whose myth had been built on darkness and shock.\n\nEven as health challenges limited touring later in life, he remained a high-profile recording artist and collaborator. *Patient Number 9* (2022) functioned as a late-career summit: a guitar-forward album featuring prominent guests and a performance that underscored how durable his voice and phrasing remained decades after the genre’s birth.\n\nIndustry honors reflected that longevity. Black Sabbath’s 2006 Rock & Roll Hall of Fame induction recognized the foundational band era; in 2024, a second Hall induction celebrated Osbourne’s solo work as its own major body of influence—proof that his post-Sabbath reinvention was not a footnote but a defining chapter.\n\nOsbourne died on July 22, 2025. By that point, his legacy had become twofold: as a prime mover at heavy metal’s origin and as a solo artist who translated metal’s menace into melodic, arena-scale songwriting without losing its sense of theater.",
+            "HonoursAndMilestones": [
+              {
+                "Year": "2006",
+                "Title": "Rock & Roll Hall of Fame induction (with Black Sabbath)",
+                "Details": "Inducted as a member of Black Sabbath, recognizing the band’s foundational role in heavy metal."
+              },
+              {
+                "Year": "2023",
+                "Title": "GRAMMY wins for *Patient Number 9*",
+                "Details": "Won Best Rock Album (*Patient Number 9*) and Best Metal Performance (“Degradation Rules”)."
+              },
+              {
+                "Year": "2024",
+                "Title": "Rock & Roll Hall of Fame induction (solo)",
+                "Details": "Inducted as a solo artist, honoring the scope and influence of his post–Black Sabbath career."
+              }
+            ],
+            "FunFacts": [
+              {
+                "Fact": "Osbourne is a rare two-time Rock & Roll Hall of Fame inductee—first with Black Sabbath, then for his solo catalog."
+              },
+              {
+                "Fact": "His 2022 album *Patient Number 9* won Best Rock Album at the 65th Annual GRAMMY Awards, a late-career peak decades into his recording life."
+              },
+              {
+                "Fact": "The official Ozzy Osbourne site maintains an album-and-release archive that spans his solo studio work, compilations, live recordings, and video releases."
+              }
+            ],
+            "Sources": [
+              {
+                "Title": "Ozzy Osbourne",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Ozzy-Osbourne"
+              },
+              {
+                "Title": "Ozzy Osbourne — Inductee",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/ozzy-osbourne/"
+              },
+              {
+                "Title": "Ozzy Osbourne | Artist",
+                "Publisher": "GRAMMY.com",
+                "Url": "https://grammy.com/artists/ozzy-osbourne/4998"
+              },
+              {
+                "Title": "Ozzy Osbourne — Artist Bio",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/ozzy-osbourne-mn0000424244"
+              },
+              {
+                "Title": "Home - Ozzy Osbourne Official Site",
+                "Publisher": "Ozzy.com",
+                "Url": "https://www.ozzy.com/"
+              },
+              {
+                "Title": "Gold & Platinum — Ozzy Osbourne (search results)",
+                "Publisher": "RIAA",
+                "Url": "https://www.riaa.com/gold-%20platinum/?se=ozzy+osbourne&tab_active=default-award"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Randy Rhoads",
+          "YearsActive": "1979–1982",
+          "Roles": "Guitarist; co-writer (early solo era)",
+          "Instruments": "Guitar",
+          "Albums": [
+            {
+              "Title": "Blizzard of Ozz",
+              "Year": "1980"
+            },
+            {
+              "Title": "Diary of a Madman",
+              "Year": "1981"
+            }
+          ],
+          "Overview": "Virtuosic guitarist whose melodic, neo-classical phrasing shaped Osbourne’s first two solo albums and set a template for 1980s metal lead playing."
+        },
+        {
+          "Name": "Bob Daisley",
+          "YearsActive": "1979–1981; 1988–1991",
+          "Roles": "Bassist; co-writer",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            {
+              "Title": "Blizzard of Ozz",
+              "Year": "1980"
+            },
+            {
+              "Title": "Diary of a Madman",
+              "Year": "1981"
+            },
+            {
+              "Title": "No Rest for the Wicked",
+              "Year": "1988"
+            },
+            {
+              "Title": "No More Tears",
+              "Year": "1991"
+            }
+          ],
+          "Overview": "Key architect of early solo material, contributing bass and songwriting that helped balance heaviness with hooks across multiple eras."
+        },
+        {
+          "Name": "Jake E. Lee",
+          "YearsActive": "1982–1986",
+          "Roles": "Guitarist; co-writer (mid-’80s era)",
+          "Instruments": "Guitar",
+          "Albums": [
+            {
+              "Title": "Bark at the Moon",
+              "Year": "1983"
+            },
+            {
+              "Title": "The Ultimate Sin",
+              "Year": "1986"
+            }
+          ],
+          "Overview": "Guitarist associated with Osbourne’s MTV-era surge, pairing sharp rhythm work with flashy leads that defined the mid-’80s sound."
+        },
+        {
+          "Name": "Zakk Wylde",
+          "YearsActive": "1987–1995; 2001–2025",
+          "Roles": "Guitarist; bandleader in the touring lineup",
+          "Instruments": "Guitar",
+          "Albums": [
+            {
+              "Title": "No Rest for the Wicked",
+              "Year": "1988"
+            },
+            {
+              "Title": "No More Tears",
+              "Year": "1991"
+            },
+            {
+              "Title": "Ozzmosis",
+              "Year": "1995"
+            }
+          ],
+          "Overview": "Blues-rooted heavy guitarist whose thick tone and expressive vibrato became closely identified with Osbourne’s late-’80s and ’90s reinvention and later touring eras."
+        },
+        {
+          "Name": "Tommy Aldridge",
+          "YearsActive": "1981–1982; 1983–1984",
+          "Roles": "Drummer (key touring and recording periods)",
+          "Instruments": "Drums",
+          "Overview": "Powerful hard-rock drummer who helped stabilize key transitional years in the early solo period, supporting large-scale touring and polished studio work."
+        }
+      ]
     },
     {
       "ArtistID": "pablo-cruise",
