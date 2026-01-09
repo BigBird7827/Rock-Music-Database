@@ -627,674 +627,512 @@
   {
     "ArtistID": "creed",
     "Name": "Creed",
-    "Type": "",
-    "Origin": {
-      "City": "",
-      "Region": "",
-      "Country": ""
-    },
-    "YearsActive": [],
-    "Genres": [],
-    "Labels": [],
-    "Overview": "",
-    "NotableAlbums": [],
-    "SignatureSongs": [],
-    "Achievements": [],
-    "KeyFacts": [],
-    "ExternalLinks": {
-      "Official Site": "",
-      "Wikipedia": "",
-      "Discography": ""
-    },
-    "CoreMembers": [],
-    "NonCoreMembers": []
-  },
-  {
-    "ArtistID": "creedence-clearwater-revival",
-    "Name": "Creedence Clearwater Revival",
     "Type": "Band",
     "Origin": {
-      "City": "El Cerrito",
-      "Region": "California",
+      "City": "Tallahassee",
+      "Region": "Florida",
       "Country": "United States"
     },
     "YearsActive": [
-      "1959–1972"
+      "1994–2004",
+      "2009–2012",
+      "2023–present"
     ],
     "Genres": [
-      "Roots rock",
-      "Swamp rock",
-      "Rock and roll",
-      "Blues rock",
-      "Country rock"
+      "Post-grunge",
+      "Hard rock",
+      "Alternative metal"
     ],
     "Labels": [
-      "Fantasy Records"
+      "Blue Collar Records",
+      "Wind-up Records"
     ],
-    "Overview": "Creedence Clearwater Revival (CCR) were an American roots‑rock band from El Cerrito, California, whose run of singles and albums from 1968 to 1972 made them one of the defining hitmakers of the late‑1960s and early‑1970s. While many Bay Area peers leaned toward psychedelia and extended improvisation, CCR built a punchy, tightly arranged sound that fused early rock & roll, blues, R&B, and country into what came to be tagged “swamp rock.” Fronted by singer‑guitarist John Fogerty—who also served as the group’s primary songwriter and producer—the band paired vivid storytelling with relentless grooves and radio‑ready hooks.\n\nAfter years of local gigs and recordings under earlier names, CCR broke nationally with a rapid-fire streak of classic releases: albums like *Bayou Country*, *Green River*, *Willy and the Poor Boys*, and *Cosmo’s Factory* arrived in quick succession and were packed with enduring staples (“Proud Mary,” “Bad Moon Rising,” “Green River,” “Down on the Corner,” “Fortunate Son,” and many more). Their songs captured the era’s unease and energy without losing their pop economy—protest and irony could sit beside rollicking dance‑floor rock, and a fictionalized Southern imagery could be conjured by musicians who grew up in suburban Northern California.\n\nInternal tensions—especially around creative control and business decisions—eventually fractured the group, and CCR ended in 1972 after *Mardi Gras*. Even without reunions, their catalog remained a cultural touchstone, constantly revived on classic‑rock radio, in films and television, and by later generations of American roots and rock artists. In 1993, Creedence Clearwater Revival were inducted into the Rock & Roll Hall of Fame, a late acknowledgment of a band whose concise craft and hitmaking consistency proved timeless.",
+    "Overview": "Creed emerged from Tallahassee, Florida in 1994, built around the writing partnership of vocalist Scott Stapp and guitarist Mark Tremonti. With bassist Brian Marshall and drummer Scott Phillips (and an early rhythm-guitar stint by Brian Brasher), the band developed a radio-ready blend of heavy, grunge-influenced riffs, big choruses, and earnest lyrical themes. Their debut album, *My Own Prison* (1997), began as an independent release before Wind-up Records reissued it, and it became a breakout post-grunge staple through relentless rock-radio rotation and touring.\n\nThe group’s commercial peak arrived with *Human Clay* (1999), a Billboard 200 No. 1 album that went Diamond and later reached 11× Platinum in the U.S. Powered by crossover hits like “Higher” and “With Arms Wide Open,” Creed briefly became one of the era’s defining rock acts—and “With Arms Wide Open” even hit No. 1 on the Billboard Hot 100 and won the Grammy for Best Rock Song. *Weathered* (2001) extended that dominance with “My Sacrifice” and an arena-scale sound, though internal strains and lineup changes (including Marshall’s earlier departure from the touring lineup) foreshadowed the band’s 2004 breakup.\n\nAfter splitting, Tremonti, Marshall, and Phillips formed Alter Bridge, while Stapp pursued a solo career. Creed reunited in 2009 for *Full Circle* and toured into 2012, then entered a long hiatus. Beginning in 2023, renewed visibility—helped along by a sports- and meme-fueled cultural resurgence—set the stage for another reunion era, reintroducing Creed’s catalog to a new generation while reaffirming their late-’90s/early-’00s place in mainstream rock history.",
     "NotableAlbums": [
       {
-        "Title": "Bayou Country",
-        "Year": "1969",
-        "Notes": "The breakthrough LP that established CCR’s swamp‑rock identity, anchored by “Proud Mary” and “Born on the Bayou.”"
+        "Title": "My Own Prison",
+        "Year": "1997",
+        "Notes": "Debut album first issued independently, then re-released by Wind-up; established the band’s post-grunge blueprint and became a multi-platinum rock-radio mainstay."
       },
       {
-        "Title": "Green River",
-        "Year": "1969",
-        "Notes": "A concise, singles‑heavy set that sharpened the band’s punchy groove and produced staples like “Bad Moon Rising” and “Green River.”"
+        "Title": "Human Clay",
+        "Year": "1999",
+        "Notes": "Breakthrough blockbuster that debuted at No. 1 on the Billboard 200; Diamond-certified in the U.S. and anchored by “Higher” and “With Arms Wide Open.”"
       },
       {
-        "Title": "Willy and the Poor Boys",
-        "Year": "1969",
-        "Notes": "A peak‑era album balancing protest bite and bar‑band swing—home to “Down on the Corner,” “Fortunate Son,” and “Travelin’ Band.”"
+        "Title": "Weathered",
+        "Year": "2001",
+        "Notes": "Arena-rock follow-up released as a trio in the studio after Brian Marshall’s departure; featured “My Sacrifice” and marked the end of the band’s original hit run."
       },
       {
-        "Title": "Cosmo’s Factory",
-        "Year": "1970",
-        "Notes": "Often cited as CCR’s creative summit: a tightly sequenced mix of hits, deep cuts, and an epic take on “I Heard It Through the Grapevine.”"
-      },
-      {
-        "Title": "Pendulum",
-        "Year": "1970",
-        "Notes": "A late‑peak album with a slightly expanded palette (including keys and horns touches) and classics like “Have You Ever Seen the Rain.”"
-      },
-      {
-        "Title": "Mardi Gras",
-        "Year": "1972",
-        "Notes": "The final studio album, shaped by internal strain and shared lead vocals; its mixed reception marked the end of the group."
+        "Title": "Full Circle",
+        "Year": "2009",
+        "Notes": "Reunion studio album that reestablished the classic lineup and launched a touring period that lasted into the early 2010s."
       }
     ],
     "SignatureSongs": [
       {
-        "Title": "Proud Mary",
-        "Year": "1969",
-        "Notes": "A Fogerty-written classic that helped break the band nationally—part gospel-tinged soul, part riverboat rock & roll."
+        "Title": "My Own Prison",
+        "Year": "1997",
+        "Notes": "Title track that helped push the debut album onto rock radio and MTV."
       },
       {
-        "Title": "Bad Moon Rising",
-        "Year": "1969",
-        "Notes": "A deceptively upbeat, hook‑driven hit with apocalyptic imagery—one of CCR’s most instantly recognizable singles."
+        "Title": "Higher",
+        "Year": "1999",
+        "Notes": "One of the band’s defining anthems from *Human Clay*, emblematic of their soaring choruses and heavy melodic riffing."
       },
       {
-        "Title": "Fortunate Son",
-        "Year": "1969",
-        "Notes": "A taut protest anthem that became a lasting cultural shorthand for class and power during the Vietnam era."
+        "Title": "With Arms Wide Open",
+        "Year": "2000",
+        "Notes": "Crossover hit that reached No. 1 on the Billboard Hot 100 and won the Grammy for Best Rock Song (as songwriters Stapp and Tremonti)."
       },
       {
-        "Title": "Down on the Corner",
-        "Year": "1969",
-        "Notes": "A joyful street‑band singalong that shows CCR’s gift for rootsy storytelling and irresistible rhythm."
+        "Title": "One Last Breath",
+        "Year": "2002",
+        "Notes": "Major single from *Weathered*, pairing a reflective lyric with a stadium-sized hook."
       },
       {
-        "Title": "Up Around the Bend",
-        "Year": "1970",
-        "Notes": "A high‑octane rocker that captures the band’s live-wire momentum at their commercial peak."
-      },
-      {
-        "Title": "Have You Ever Seen the Rain",
-        "Year": "1971",
-        "Notes": "A bittersweet, widely covered classic often read as reflecting tensions during the band’s final stretch."
-      },
-      {
-        "Title": "Who’ll Stop the Rain",
-        "Year": "1970",
-        "Notes": "A concise folk‑rock lament that paired perfectly with “Travelin’ Band” as a hit double‑A side."
-      },
-      {
-        "Title": "Lookin’ Out My Back Door",
-        "Year": "1970",
-        "Notes": "A playful, country‑leaning single with a kaleidoscopic lyric and one of CCR’s most buoyant melodies."
+        "Title": "My Sacrifice",
+        "Year": "2001",
+        "Notes": "Massive rock-radio single from *Weathered* that underscored the band’s peak-era mainstream reach."
       }
     ],
     "Achievements": [
       {
-        "Year": "1969–1971",
-        "Title": "One of America’s biggest hit bands",
-        "Details": "CCR placed a rapid run of Top 10 singles and gold‑selling albums during their peak era, becoming a radio‑dominant act in the U.S. and internationally."
+        "Year": "2000",
+        "Title": "Billboard Hot 100 No. 1 single",
+        "Details": "“With Arms Wide Open” reached No. 1 on the Billboard Hot 100 (issue dated November 18, 2000)."
       },
       {
-        "Year": "1993",
-        "Title": "Inducted into the Rock & Roll Hall of Fame",
-        "Details": "Creedence Clearwater Revival were inducted as Performers, recognizing their enduring influence and catalog of American rock standards."
+        "Year": "2001",
+        "Title": "Grammy Award — Best Rock Song",
+        "Details": "Scott Stapp and Mark Tremonti won Best Rock Song for “With Arms Wide Open” at the 43rd Grammy Awards."
       },
       {
-        "Year": "Legacy",
-        "Title": "Enduring catalog across film, television, and popular culture",
-        "Details": "CCR’s songs remain among the most licensed and frequently referenced tracks of the late‑1960s rock era, continually reintroduced to new audiences."
+        "Year": "2001",
+        "Title": "RIAA Diamond certification",
+        "Details": "*Human Clay* was certified Diamond (10× Platinum) by the RIAA."
+      },
+      {
+        "Year": "2004",
+        "Title": "RIAA 11× Platinum album",
+        "Details": "*Human Clay* later reached 11× Platinum certification in the United States."
       }
     ],
     "KeyFacts": [
-      "CCR formed in El Cerrito, California, evolving through earlier group names before adopting “Creedence Clearwater Revival” in 1968.",
-      "Classic lineup: John Fogerty (lead vocals/lead guitar), Tom Fogerty (rhythm guitar), Stu Cook (bass), Doug “Cosmo” Clifford (drums).",
-      "Between 1968 and 1972 the band released seven studio albums, with an unusually dense concentration of hit singles.",
-      "The group disbanded in 1972; later live projects by Cook and Clifford performed CCR material, but the original band never formally reunited."
+      "Formed in Tallahassee, Florida in 1994; the core lineup is Scott Stapp, Mark Tremonti, Brian Marshall, and Scott Phillips.",
+      "Broke nationally through the radio-driven success of *My Own Prison* (1997), then became one of the era’s biggest rock sellers with *Human Clay* (1999).",
+      "Brian Marshall left the touring lineup in 2000; *Weathered* (2001) was recorded as a trio in the studio.",
+      "After Creed’s 2004 breakup, Tremonti, Marshall, and Phillips formed Alter Bridge; Creed reunited in 2009 and again in 2023."
     ],
     "ExternalLinks": {
-      "Wikipedia": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival",
-      "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/creedence-clearwater-revival/",
-      "Britannica": "https://www.britannica.com/topic/Creedence-Clearwater-Revival",
-      "AllMusic": "https://www.allmusic.com/artist/creedence-clearwater-revival-mn0000131627",
-      "Discography (Wikipedia)": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival_discography",
-      "Spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd",
-      "YouTube": "https://www.youtube.com/channel/UCq3pGxw3GxKrmwl90eYZ_VA"
+      "Official Site": "https://creed.com/",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Creed_(band)",
+      "Discography": "https://www.allmusic.com/artist/creed-mn0000782768/discography"
     },
     "CoreMembers": [
       {
-        "Name": "John Fogerty",
+        "Name": "Scott Stapp",
         "Roles": [
           "Lead vocals",
-          "Lead guitar",
-          "Primary songwriter",
-          "Producer"
+          "Primary lyricist"
         ],
-        "Years": "1959–1972",
-        "YearsActive": "1959–1972",
+        "Years": "1994–2004; 2009–2012; 2023–present",
+        "YearsActive": "1994–present",
         "Instruments": [
-          "Vocals",
-          "Guitar",
-          "Harmonica",
-          "Keyboards"
+          "Vocals"
         ],
         "Albums": [
-          {
-            "Title": "Creedence Clearwater Revival",
-            "Year": "1968"
-          },
-          {
-            "Title": "Bayou Country",
-            "Year": "1969"
-          },
-          {
-            "Title": "Green River",
-            "Year": "1969"
-          },
-          {
-            "Title": "Willy and the Poor Boys",
-            "Year": "1969"
-          },
-          {
-            "Title": "Cosmo’s Factory",
-            "Year": "1970"
-          },
-          {
-            "Title": "Pendulum",
-            "Year": "1970"
-          },
-          {
-            "Title": "Mardi Gras",
-            "Year": "1972"
-          }
+          "My Own Prison",
+          "Human Clay",
+          "Weathered",
+          "Full Circle"
         ],
-        "Overview": "Singer‑guitarist and principal songwriter who wrote and produced most of CCR’s catalog, shaping the band’s swamp‑rock sound and hitmaking run.",
+        "Overview": "Co-founding frontman whose dramatic baritone and faith-and-doubt-inflected lyricism helped Creed cross from rock radio into mainstream pop visibility at the turn of the millennium.",
         "Bio": {
-          "BioID": "creedence-clearwater-revival-john-fogerty",
-          "ArtistID": "creedence-clearwater-revival",
-          "ArtistName": "Creedence Clearwater Revival",
-          "MemberName": "John Fogerty",
-          "FullName": "John Cameron Fogerty",
-          "Birth": {
-            "Date": "1945-05-28",
-            "Place": "Berkeley, California, United States"
-          },
+          "BioID": "creed-scott-stapp",
+          "ArtistID": "creed",
+          "ArtistName": "Creed",
+          "MemberName": "Scott Stapp",
+          "FullName": "Anthony Scott Stapp (born Anthony Scott Flippen)",
+          "BirthDate": "August 8, 1973",
+          "BirthPlace": "Orlando, Florida, United States",
+          "DeathDate": "",
           "ActiveYears": [
-            "1959–present"
+            "1994–present"
           ],
           "Occupations": [
-            "Musician",
             "Singer",
-            "Songwriter",
-            "Record producer"
-          ],
-          "PrimaryInstruments": [
-            "Vocals",
-            "Guitar",
-            "Harmonica",
-            "Keyboards"
-          ],
-          "Genres": [
-            "Roots rock",
-            "Rock and roll",
-            "Blues rock",
-            "Country rock",
-            "Americana"
-          ],
-          "AssociatedActs": [
-            "Creedence Clearwater Revival",
-            "The Golliwogs"
-          ],
-          "KeyAlbums": [
-            "Bayou Country (1969)",
-            "Green River (1969)",
-            "Willy and the Poor Boys (1969)",
-            "Cosmo’s Factory (1970)",
-            "Pendulum (1970)",
-            "Centerfield (1985)"
-          ],
-          "KeySongs": [
-            "Proud Mary",
-            "Bad Moon Rising",
-            "Fortunate Son",
-            "Down on the Corner",
-            "Have You Ever Seen the Rain"
-          ],
-          "Achievements": [
-            "Principal songwriter, lead singer, and lead guitarist of Creedence Clearwater Revival.",
-            "Inducted into the Rock & Roll Hall of Fame (with CCR, 1993)."
-          ],
-          "ExternalLinks": {
-            "Wikipedia": "https://en.wikipedia.org/wiki/John_Fogerty"
-          },
-          "Biography": "John Cameron Fogerty (born May 28, 1945, Berkeley, California) is the singer, guitarist, and principal songwriter who defined Creedence Clearwater Revival’s sound and identity. Raised in the East Bay, Fogerty absorbed early rock & roll, blues, and R&B, developing a direct, rhythmic guitar style and a writing voice that could compress vivid scenes into three‑minute singles.\n\nAs a teenager he formed the group that would become CCR with classmates Doug Clifford and Stu Cook, later joined by his older brother Tom Fogerty. The band spent years playing local dances and clubs and recording for Fantasy Records under earlier names, learning studio discipline and tightening their arrangements long before national success arrived.\n\nWhen the group rechristened itself Creedence Clearwater Revival in 1968, Fogerty took on an unusually comprehensive leadership role: he wrote most of the songs, sang lead, played lead guitar, arranged parts, and—crucially—produced the records. That combination helped CCR stand apart from the era’s more sprawling rock; the band’s singles hit hard, moved fast, and left no filler.\n\nFogerty’s writing drew on American vernacular music and a storyteller’s instinct. Even when he invoked bayous, riverboats, and Southern backroads—places he largely imagined rather than lived—his lyrics landed because the emotional point was clear: working‑class longing, moral unease, and the push‑pull between escape and responsibility.\n\nFrom 1969 through 1971, CCR’s release pace was almost unreal: album after album arrived packed with hits. Fogerty delivered politically charged songs like “Fortunate Son” alongside exuberant crowd‑pleasers like “Down on the Corner,” proving that protest and party music could share the same stage without diluting either.\n\nBehind the scenes, the same control that kept the records focused also strained relationships. Bandmates increasingly resisted Fogerty’s dominance of songwriting and decision‑making, and disputes around contracts and publishing added pressure during the very years the band was most successful.\n\nAfter CCR’s breakup in 1972, Fogerty’s path was complicated by business and rights issues that made him reluctant to revisit parts of the catalog for a time. Over the long arc of his career, however, he reclaimed his place as one of American rock’s central writer‑performers, both as a solo artist and as the author of the CCR songbook.\n\nHis solo work reinforced his reputation for sturdy melodies and lived‑in grooves, showing that the voice behind CCR could still deliver stadium‑scale hooks and pointed storytelling in a new era. At the same time, he continued to be evaluated through the lens of CCR’s astonishing late‑sixties run—one of the most concentrated bursts of classic singles in rock history.\n\nFogerty’s influence travels widely: heartland rock, Americana, and roots revival movements routinely echo his blend of twang, backbeat, and narrative detail. Guitarists cite his economy and rhythm authority; songwriters cite his ability to make a lyric feel like a scene.\n\nIn 1993, Fogerty was inducted into the Rock & Roll Hall of Fame as a member of Creedence Clearwater Revival—formal recognition of a catalog that never stopped circulating. Decades after the band ended, his songs remain part of the shared vocabulary of American popular music, immediately identifiable from a riff, a drum pattern, or a single line of chorus.",
-          "Sources": [
-            {
-              "Title": "John Fogerty — Wikipedia",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/John_Fogerty"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Inductee Page",
-              "Publisher": "Rock & Roll Hall of Fame",
-              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Artist Biography",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/creedence-clearwater-revival-mn0000131627"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Encyclopedia Entry",
-              "Publisher": "Encyclopaedia Britannica",
-              "Url": "https://www.britannica.com/topic/Creedence-Clearwater-Revival"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Wikipedia",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival"
-            }
-          ]
-        }
-      },
-      {
-        "Name": "Tom Fogerty",
-        "Roles": [
-          "Rhythm guitar",
-          "Backing vocals",
-          "Early lead vocals"
-        ],
-        "Years": "1959–1972",
-        "YearsActive": "1959–1972",
-        "Instruments": [
-          "Guitar",
-          "Vocals"
-        ],
-        "Albums": [
-          {
-            "Title": "Creedence Clearwater Revival",
-            "Year": "1968"
-          },
-          {
-            "Title": "Bayou Country",
-            "Year": "1969"
-          },
-          {
-            "Title": "Green River",
-            "Year": "1969"
-          },
-          {
-            "Title": "Willy and the Poor Boys",
-            "Year": "1969"
-          },
-          {
-            "Title": "Cosmo’s Factory",
-            "Year": "1970"
-          },
-          {
-            "Title": "Pendulum",
-            "Year": "1970"
-          },
-          {
-            "Title": "Mardi Gras",
-            "Year": "1972"
-          }
-        ],
-        "Overview": "Rhythm guitarist and key early member whose steady chord work and harmony vocals helped define CCR’s tight, groove‑centered arrangements.",
-        "Bio": {
-          "BioID": "creedence-clearwater-revival-tom-fogerty",
-          "ArtistID": "creedence-clearwater-revival",
-          "ArtistName": "Creedence Clearwater Revival",
-          "MemberName": "Tom Fogerty",
-          "FullName": "Thomas Richard Fogerty",
-          "Birth": {
-            "Date": "1941-11-09",
-            "Place": "Berkeley, California, United States"
-          },
-          "ActiveYears": [
-            "1959–1990"
-          ],
-          "Occupations": [
-            "Musician"
-          ],
-          "PrimaryInstruments": [
-            "Guitar",
-            "Vocals"
-          ],
-          "Genres": [
-            "Roots rock",
-            "Rock and roll",
-            "Blues rock"
-          ],
-          "AssociatedActs": [
-            "Creedence Clearwater Revival",
-            "The Golliwogs"
-          ],
-          "KeyAlbums": [
-            "Creedence Clearwater Revival (1968)",
-            "Bayou Country (1969)",
-            "Green River (1969)",
-            "Willy and the Poor Boys (1969)",
-            "Cosmo’s Factory (1970)"
-          ],
-          "KeySongs": [
-            "Down on the Corner",
-            "Bad Moon Rising",
-            "Proud Mary"
-          ],
-          "Achievements": [
-            "Rhythm guitarist in the classic CCR lineup.",
-            "Inducted into the Rock & Roll Hall of Fame (with CCR, 1993; posthumous)."
-          ],
-          "ExternalLinks": {
-            "Wikipedia": "https://en.wikipedia.org/wiki/Tom_Fogerty"
-          },
-          "Biography": "Thomas Richard Fogerty (born November 9, 1941, Berkeley, California; died September 6, 1990, Scottsdale, Arizona) was the rhythm guitarist and early organizing force within the group that became Creedence Clearwater Revival. Older than John by a few years, Tom helped anchor the band’s early identity and often served as the practical, steady presence during their long pre‑fame apprenticeship.\n\nTom’s musical life was intertwined with his younger brother’s from the start. As teenagers in the East Bay, the Fogertys joined classmates Doug Clifford and Stu Cook in a band that cycled through names, styles, and small‑label studio sessions, learning how to play tightly and record efficiently—skills that later became CCR’s competitive advantage.\n\nIn the early phases, Tom handled prominent vocal duties and frontman responsibilities as the group worked local shows and tried to find a commercial foothold. Even as John’s songwriting and lead vocal role expanded, Tom remained central to the group’s sonic balance, providing steady rhythm guitar that locked into Clifford’s snare and Cook’s bass.\n\nWhen CCR’s breakthrough arrived in 1968–1969, Tom’s role shifted toward being the dependable second guitarist and harmony voice in a hit machine. The band’s sound depended on the interlocking parts: John’s sharp riffs and lead lines sat on top of Tom’s churning rhythm patterns, which kept the grooves muscular and uncluttered.\n\nAs the group’s fame accelerated, so did internal friction—especially around creative control and songwriting credit. Tom increasingly wanted space for his own material and felt the strain of a band built around a single dominant writer‑producer, even while he remained proud of what the four accomplished together.\n\nAfter CCR ended in 1972, Tom pursued a solo career, recording and performing in the years that followed. Though his solo work never matched CCR’s commercial peak, it reflected the same fundamental musicianship: sturdy chords, a feel for classic rock & roll forms, and a preference for direct songcraft.\n\nHis relationship with John was complicated by business disputes and personal distance, a rift that became one of the saddest subplots in CCR’s history. The irony of massive shared success alongside private estrangement has often colored retrospective accounts of the band.\n\nTom’s health declined in the late 1980s. He died in 1990 at age 48; accounts describe an AIDS-related illness with tuberculosis complications, following HIV infection believed by family to have resulted from a blood transfusion during back surgery.\n\nIn the decades since, Tom’s contribution has been re‑evaluated as essential to CCR’s relentless drive. The band’s records are often discussed in terms of John’s authorship, but CCR’s precision and power were a four‑person achievement, and Tom’s rhythm playing is baked into the feel of every classic single.\n\nRemembered through both the band’s catalog and the complicated human story behind it, Tom Fogerty remains a crucial part of CCR’s legacy: the brother on rhythm guitar, the early frontman, and one quarter of a lineup whose brief, intense run became a permanent chapter of American rock.",
-          "Sources": [
-            {
-              "Title": "Tom Fogerty — Wikipedia",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Tom_Fogerty"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Inductee Page",
-              "Publisher": "Rock & Roll Hall of Fame",
-              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Artist Biography",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/creedence-clearwater-revival-mn0000131627"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Encyclopedia Entry",
-              "Publisher": "Encyclopaedia Britannica",
-              "Url": "https://www.britannica.com/topic/Creedence-Clearwater-Revival"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Wikipedia",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival"
-            }
-          ],
-          "Death": {
-            "Date": "1990-09-06",
-            "Place": "Scottsdale, Arizona, United States",
-            "Cause": "Tuberculosis in the setting of AIDS-related illness (reported in biographical accounts)."
-          }
-        }
-      },
-      {
-        "Name": "Stu Cook",
-        "Roles": [
-          "Bass",
-          "Backing vocals"
-        ],
-        "Years": "1959–1972",
-        "YearsActive": "1959–1972",
-        "Instruments": [
-          "Bass guitar",
-          "Guitar",
-          "Piano",
-          "Vocals"
-        ],
-        "Albums": [
-          {
-            "Title": "Creedence Clearwater Revival",
-            "Year": "1968"
-          },
-          {
-            "Title": "Bayou Country",
-            "Year": "1969"
-          },
-          {
-            "Title": "Green River",
-            "Year": "1969"
-          },
-          {
-            "Title": "Willy and the Poor Boys",
-            "Year": "1969"
-          },
-          {
-            "Title": "Cosmo’s Factory",
-            "Year": "1970"
-          },
-          {
-            "Title": "Pendulum",
-            "Year": "1970"
-          },
-          {
-            "Title": "Mardi Gras",
-            "Year": "1972"
-          }
-        ],
-        "Overview": "Bassist whose melodic, driving lines anchored CCR’s rhythm section and kept the band’s concise songs moving with forward momentum.",
-        "Bio": {
-          "BioID": "creedence-clearwater-revival-stu-cook",
-          "ArtistID": "creedence-clearwater-revival",
-          "ArtistName": "Creedence Clearwater Revival",
-          "MemberName": "Stu Cook",
-          "FullName": "Stuart Alden Cook",
-          "Birth": {
-            "Date": "1945-04-25",
-            "Place": "Oakland, California, United States"
-          },
-          "ActiveYears": [
-            "1959–2020"
-          ],
-          "Occupations": [
-            "Musician",
-            "Songwriter",
-            "Producer"
-          ],
-          "PrimaryInstruments": [
-            "Bass guitar",
-            "Guitar",
-            "Piano",
-            "Vocals"
-          ],
-          "Genres": [
-            "Roots rock",
-            "Swamp rock",
-            "Rock"
-          ],
-          "AssociatedActs": [
-            "Creedence Clearwater Revival",
-            "Creedence Clearwater Revisited"
-          ],
-          "KeyAlbums": [
-            "Bayou Country (1969)",
-            "Green River (1969)",
-            "Willy and the Poor Boys (1969)",
-            "Cosmo’s Factory (1970)",
-            "Pendulum (1970)"
-          ],
-          "KeySongs": [
-            "Proud Mary",
-            "Bad Moon Rising",
-            "Fortunate Son",
-            "Down on the Corner"
-          ],
-          "Achievements": [
-            "Bassist in the classic CCR lineup.",
-            "Inducted into the Rock & Roll Hall of Fame (with CCR, 1993)."
-          ],
-          "ExternalLinks": {
-            "Wikipedia": "https://en.wikipedia.org/wiki/Stu_Cook"
-          },
-          "Biography": "Stuart Alden “Stu” Cook (born April 25, 1945, Oakland, California) is the bassist whose melodic, forward-moving lines helped drive Creedence Clearwater Revival’s tightly wound groove. Raised in the East Bay, Cook came up in the same junior‑high and high‑school scene as John Fogerty and Doug Clifford, forming the nucleus of the band long before the name CCR existed.\n\nIn the group’s earliest iterations, Cook’s musicianship proved adaptable: he shifted roles as needed while the young band learned to work dances, clubs, and studio sessions. By the time CCR’s national breakthrough hit, his bass playing had become one of the band’s defining engines—simple on the surface, but relentlessly propulsive in feel.\n\nCCR’s records are a masterclass in economy, and Cook’s parts are central to that economy. He rarely overplays; instead he reinforces the riff, accents the lyric, and keeps the pocket deep enough for Fogerty’s vocals and guitar to cut through without clutter.\n\nDuring the 1968–1972 run, the band’s studio schedule was intense and the arrangements were remarkably disciplined. Cook’s steadiness under pressure helped CCR deliver album after album with a consistent sonic identity, even as musical trends around them swung toward extended jams and ornate production.\n\nLike the other members, Cook experienced the tensions that grew from Fogerty’s creative control and from disputes over business terms. Those pressures ultimately contributed to the group’s end, but Cook’s playing on the classic albums remains one of the clearest examples of bass serving the song while still being unmistakably present.\n\nAfter CCR disbanded, Cook continued working as a musician in various contexts, carrying forward the skills he’d honed in one of rock’s most demanding hitmaking environments. He later joined with Doug Clifford in projects that revisited the CCR songbook in live performance.\n\nOne of the most visible of those efforts was Creedence Clearwater Revisited, formed in the mid‑1990s by Cook and Clifford. The project kept CCR’s repertoire on the road for audiences who wanted to hear the music played with veteran authority, even as the original band remained unreunited.\n\nCook has also been recognized as part of CCR’s institutional legacy. In 1993, he was inducted into the Rock & Roll Hall of Fame with Creedence Clearwater Revival, a marker of how deeply those records entered the American canon.\n\nOutside the headlines, Cook’s contribution is the kind musicians notice: the way the bass sits with the kick drum, the way a line turns a riff into a groove, the way momentum is maintained without flashy technique. CCR’s songs often feel like they’re moving forward even when the chords are simple—that’s Cook at work.\n\nDecades after the band’s short lifespan, listeners still find new appreciation for the rhythm section’s precision. Cook’s bass is inseparable from CCR’s identity: grounded, melodic, and built to make three minutes feel inevitable.",
-          "Sources": [
-            {
-              "Title": "Stu Cook — Wikipedia",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Stu_Cook"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Inductee Page",
-              "Publisher": "Rock & Roll Hall of Fame",
-              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Artist Biography",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/creedence-clearwater-revival-mn0000131627"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Encyclopedia Entry",
-              "Publisher": "Encyclopaedia Britannica",
-              "Url": "https://www.britannica.com/topic/Creedence-Clearwater-Revival"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Wikipedia",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival"
-            }
-          ]
-        }
-      },
-      {
-        "Name": "Doug Clifford",
-        "Roles": [
-          "Drums",
-          "Backing vocals"
-        ],
-        "Years": "1959–1972",
-        "YearsActive": "1959–1972",
-        "Instruments": [
-          "Drums",
-          "Vocals",
-          "Washboard"
-        ],
-        "Albums": [
-          {
-            "Title": "Creedence Clearwater Revival",
-            "Year": "1968"
-          },
-          {
-            "Title": "Bayou Country",
-            "Year": "1969"
-          },
-          {
-            "Title": "Green River",
-            "Year": "1969"
-          },
-          {
-            "Title": "Willy and the Poor Boys",
-            "Year": "1969"
-          },
-          {
-            "Title": "Cosmo’s Factory",
-            "Year": "1970"
-          },
-          {
-            "Title": "Pendulum",
-            "Year": "1970"
-          },
-          {
-            "Title": "Mardi Gras",
-            "Year": "1972"
-          }
-        ],
-        "Overview": "Drummer nicknamed “Cosmo,” known for a crisp backbeat and disciplined feel that powered CCR’s hit-heavy catalog.",
-        "Bio": {
-          "BioID": "creedence-clearwater-revival-doug-clifford",
-          "ArtistID": "creedence-clearwater-revival",
-          "ArtistName": "Creedence Clearwater Revival",
-          "MemberName": "Doug Clifford",
-          "FullName": "Douglas Raymond Clifford",
-          "Birth": {
-            "Date": "1945-04-24",
-            "Place": "Palo Alto, California, United States"
-          },
-          "ActiveYears": [
-            "1959–present"
-          ],
-          "Occupations": [
-            "Musician",
             "Songwriter"
           ],
           "PrimaryInstruments": [
-            "Drums",
-            "Vocals",
-            "Washboard"
+            "Vocals"
           ],
           "Genres": [
-            "Roots rock",
-            "Swamp rock",
-            "Rock"
+            "Post-grunge",
+            "Hard rock",
+            "Alternative rock"
           ],
           "AssociatedActs": [
-            "Creedence Clearwater Revival",
-            "Creedence Clearwater Revisited"
-          ],
-          "KeyAlbums": [
-            "Bayou Country (1969)",
-            "Green River (1969)",
-            "Willy and the Poor Boys (1969)",
-            "Cosmo’s Factory (1970)",
-            "Pendulum (1970)"
-          ],
-          "KeySongs": [
-            "Bad Moon Rising",
-            "Fortunate Son",
-            "Up Around the Bend",
-            "Lookin’ Out My Back Door"
+            "Creed",
+            "Art of Anarchy",
+            "Scott Stapp (solo)"
           ],
           "Achievements": [
-            "Drummer nicknamed “Cosmo” in the classic CCR lineup.",
-            "Inducted into the Rock & Roll Hall of Fame (with CCR, 1993)."
+            "Grammy Award (Best Rock Song) as co-writer of “With Arms Wide Open” (2001)"
           ],
-          "ExternalLinks": {
-            "Wikipedia": "https://en.wikipedia.org/wiki/Doug_Clifford"
-          },
-          "Biography": "Douglas Raymond “Doug” Clifford (born April 24, 1945, Palo Alto, California) is the drummer nicknamed “Cosmo” whose crisp backbeat and dynamic restraint powered Creedence Clearwater Revival’s greatest recordings. Growing up in the East Bay scene with John Fogerty and Stu Cook, Clifford helped form the band’s earliest versions and stayed through every name change to the final CCR lineup.\n\nClifford’s drumming is often described as deceptively simple: a rock‑solid pocket, sharp snare accents, and fills that arrive exactly where the song needs them. That economy was essential to CCR’s identity—tight arrangements that hit like singles even when the subject matter was dark or politically pointed.\n\nOn the classic albums, Clifford’s feel is the glue between Fogerty’s riff-driven guitar and Cook’s bass propulsion. He plays with a dancer’s sense of forward motion, pushing choruses without rushing them and giving verses space for the vocal to tell the story.\n\nThe band’s pace of recording and touring during 1969–1971 demanded consistency and stamina. Clifford’s ability to deliver the same authority take after take helped CCR build a catalog that sounds unified across multiple albums released in rapid succession.\n\nHis nickname “Cosmo” became part of the band’s lore—so much so that *Cosmo’s Factory* (1970) used it as a title, turning a rehearsal‑room detail into a symbol of the group’s workmanlike hitmaking. The record, packed with singles and a famous long cover of “I Heard It Through the Grapevine,” is one of the clearest documents of Clifford’s controlled power.\n\nLike the other members, Clifford lived through the internal conflicts that ended the band. CCR’s breakup in 1972 cut short what could have been a longer evolution, but it also sealed their run as a concentrated burst—four years of hits that still feels unmatched for density.\n\nAfter the split, Clifford continued making music, releasing solo work and collaborating in other projects. Over time he became one of the stewards of CCR’s live legacy, keeping the songs in performance circulation for new audiences.\n\nAlongside Stu Cook, Clifford co‑founded Creedence Clearwater Revisited in the 1990s, a touring group dedicated to CCR material. The project underscored how durable the drumming and grooves were: played by the original rhythm section, the songs retained their snap and authority decades later.\n\nIn 1993, Clifford was inducted into the Rock & Roll Hall of Fame as a member of Creedence Clearwater Revival, formal recognition of a drummer whose signature is stamped on some of the most recognizable rhythms in classic rock.\n\nMusicians often point to Clifford’s sense of time as the secret weapon of CCR’s “no‑fat” approach. He doesn’t hide behind cymbal wash or technical fireworks; he makes the groove undeniable, letting the riff and lyric do their work while the track stays locked and alive.\n\nClifford’s legacy is inseparable from the songs themselves. When “Bad Moon Rising” or “Fortunate Son” comes on, it’s the immediacy of the beat—clean, urgent, and perfectly placed—that makes the music feel like it’s happening right now. That is Doug “Cosmo” Clifford’s enduring contribution.",
+          "Biography": "Scott Stapp (born Anthony Scott Flippen in Orlando, Florida) became widely known in the late 1990s as the lead vocalist and primary lyricist for Creed. His delivery—part baritone croon, part arena-ready roar—helped define the band’s crossover appeal during the post-grunge boom, when rock radio and mainstream charts briefly aligned around big hooks and emotionally direct songwriting.\n\nStapp’s formative musical influences and early performance experiences fed directly into Creed’s lyrical identity: the songs leaned into themes of faith, doubt, responsibility, and perseverance without functioning as overt worship music. That blend—spiritual vocabulary inside a mainstream hard-rock frame—became one of the band’s signature differentiators, and it helped Creed connect with audiences well beyond alternative-rock core fans.\n\nIn Tallahassee, Stapp and guitarist Mark Tremonti developed a tight writing partnership that prioritized memorable riffs and melodies alongside choruses built for mass sing-alongs. With bassist Brian Marshall and drummer Scott Phillips completing the lineup, Creed’s early years were defined by persistent local gigging, demo distribution, and a rapid scaling-up once their first material found traction on Florida rock stations.\n\nCreed’s debut album *My Own Prison* became a template for the band’s rise: a gritty, riff-forward sound paired with Stapp’s emphatic vocals and introspective lyrics. As the record spread beyond the regional circuit—first through independent channels, then via a major reissue—Stapp shifted from local frontman to a nationally visible voice in modern rock, performing songs that became staples of late-’90s radio rotation.\n\nThe band’s commercial apex arrived with *Human Clay*. Singles like “Higher” and “With Arms Wide Open” expanded Creed’s reach into pop territory, and Stapp’s performance style—earnest, dramatic, and relentlessly committed—became both a selling point and a lightning rod. In 2001, he and Tremonti received a Grammy for Best Rock Song as the writers of “With Arms Wide Open,” cementing the track as the band’s defining crossover moment.\n\nAs Creed’s touring and visibility intensified, the pressures of a global arena act became inseparable from the music. The *Weathered* era kept Creed at the top of rock radio with songs like “My Sacrifice,” but the period also coincided with mounting internal strain and public scrutiny—factors that would soon reshape the band’s trajectory.\n\nCreed officially split in 2004. For Stapp, the breakup marked a pivot from band identity to solo identity: he pursued his own albums and collaborations, carrying forward the vocal style and thematic concerns that fans associated with Creed, but without the specific chemistry of the original lineup’s writing and arranging.\n\nWhile Tremonti, Marshall, and Phillips built a new chapter with Alter Bridge, Stapp’s career continued through both creative reinventions and highly public personal challenges. Over time, his public narrative shifted toward recovery and stability, and he reestablished himself as a working rock vocalist capable of fronting both new material and the demanding catalog of Creed’s peak years.\n\nCreed’s 2009 reunion brought Stapp back into the role that defined his mainstream profile. The band’s return wasn’t simply nostalgic: it tested whether the songs could still command a modern stage and whether the group could function without the conflicts that ended the first run. Touring through the early 2010s, Creed proved the durability of its best-known material in front of multi-generational crowds.\n\nBy the time Creed reemerged again in the early 2020s, the cultural framing had changed—what once drew backlash began to read as a time capsule of an era when rock choruses were unapologetically huge. Stapp’s renewed presence with Creed positioned him not just as a symbol of turn-of-the-millennium rock, but as a frontman whose voice and songwriting remain central to the band’s enduring resonance.",
           "Sources": [
             {
-              "Title": "Doug Clifford — Wikipedia",
+              "Title": "Scott Stapp",
               "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Doug_Clifford"
+              "Url": "https://en.wikipedia.org/wiki/Scott_Stapp"
             },
             {
-              "Title": "Creedence Clearwater Revival — Inductee Page",
-              "Publisher": "Rock & Roll Hall of Fame",
-              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Artist Biography",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/creedence-clearwater-revival-mn0000131627"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Encyclopedia Entry",
-              "Publisher": "Encyclopaedia Britannica",
-              "Url": "https://www.britannica.com/topic/Creedence-Clearwater-Revival"
-            },
-            {
-              "Title": "Creedence Clearwater Revival — Wikipedia",
+              "Title": "Creed (band)",
               "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival"
+              "Url": "https://en.wikipedia.org/wiki/Creed_(band)"
+            },
+            {
+              "Title": "Billboard Hot 100 — Week of November 18, 2000",
+              "Publisher": "Billboard",
+              "Url": "https://www.billboard.com/charts/hot-100/2000-11-18/"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Scott_Stapp",
+            "Official Site": "https://scottstapp.com/"
+          }
+        }
+      },
+      {
+        "Name": "Mark Tremonti",
+        "Roles": [
+          "Lead guitar",
+          "Backing vocals",
+          "Primary composer/co-writer"
+        ],
+        "Years": "1994–2004; 2009–2012; 2023–present",
+        "YearsActive": "1987–present",
+        "Instruments": [
+          "Guitar",
+          "Vocals"
+        ],
+        "Albums": [
+          "My Own Prison",
+          "Human Clay",
+          "Weathered",
+          "Full Circle"
+        ],
+        "Overview": "Co-founding guitarist and chief musical architect behind Creed’s signature riff-and-chorus dynamic; later expanded the same core songwriting discipline into Alter Bridge and his solo project.",
+        "Bio": {
+          "BioID": "creed-mark-tremonti",
+          "ArtistID": "creed",
+          "ArtistName": "Creed",
+          "MemberName": "Mark Tremonti",
+          "FullName": "Mark Thomas Tremonti",
+          "BirthDate": "April 18, 1974",
+          "BirthPlace": "Detroit, Michigan, United States",
+          "DeathDate": "",
+          "ActiveYears": [
+            "1987–present"
+          ],
+          "Occupations": [
+            "Guitarist",
+            "Singer",
+            "Songwriter"
+          ],
+          "PrimaryInstruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Genres": [
+            "Post-grunge",
+            "Hard rock",
+            "Alternative metal"
+          ],
+          "AssociatedActs": [
+            "Creed",
+            "Alter Bridge",
+            "Tremonti (band)"
+          ],
+          "Achievements": [
+            "Grammy Award (Best Rock Song) as co-writer of “With Arms Wide Open” (2001)"
+          ],
+          "Biography": "Mark Tremonti (born in Detroit, Michigan) is the guitarist and primary musical architect behind many of Creed’s most recognizable riffs and melodic motifs. In the band’s peak era, his combination of heavy, palm-muted rhythm work and soaring lead lines helped translate grunge-era influence into a cleaner, arena-ready post-grunge style that dominated late-’90s rock radio.\n\nTremonti’s approach in Creed balanced two priorities that rarely coexisted so cleanly: riffs that hit with metal-adjacent weight and choruses that opened up into wide, anthemic harmonies. That dynamic gave Creed songs a sense of lift—verses that felt grounded and tense, then refrains that resolved into big melodic statements.\n\nAs Creed’s catalog expanded from *My Own Prison* to *Human Clay*, Tremonti’s writing became increasingly centered on hook clarity and arrangement discipline. He didn’t just supply guitar parts; he shaped the architecture of songs—where tension builds, where the chorus lands, and how instrumental lines support Scott Stapp’s vocal cadence without competing for space.\n\nThe *Human Clay* period turned Tremonti into a household name among mainstream rock listeners, and it also earned formal recognition: he and Stapp received a Grammy for Best Rock Song for “With Arms Wide Open.” That award highlighted the band’s unusual moment of crossing into pop visibility while remaining anchored in modern rock.\n\nCreed’s third album, *Weathered*, was recorded as a trio in the studio following bassist Brian Marshall’s departure from the touring lineup, which pushed Tremonti into an even more central musical role. In addition to handling guitar responsibilities, he also contributed bass on the record, underlining how strongly he steered the band’s instrumental identity during that phase.\n\nAfter Creed’s 2004 breakup, Tremonti helped form Alter Bridge, carrying over the heaviness and melodic instincts of Creed while leaning into a more overtly hard-rock and metal-influenced direction. The move demonstrated how much of Creed’s sound was rooted in Tremonti’s writing voice: when the personnel shifted, the DNA remained—even as the stylistic emphasis changed.\n\nBeyond Alter Bridge, Tremonti expanded into solo work under his own name, using the project to explore heavier riffing, different vocal textures, and songwriting formats that didn’t need to match a specific band brand. That broader portfolio reinforced his reputation as a versatile, work-focused musician rather than a figure tied to a single era.\n\nEven as Creed’s public reception evolved—from backlash to nostalgia to reappraisal—Tremonti’s guitar parts remained the core argument for the band’s craft. The riffs are immediate, the arrangements are sturdy, and the songs still feel built for live rooms where a chorus needs to travel to the back wall.\n\nCreed’s reunions in 2009 and again in the 2020s placed Tremonti back in the position of translating studio-era radio rock into a modern touring context. The challenge wasn’t only to recreate tones; it was to deliver the exact feel that made those riffs and transitions work in the first place.\n\nAcross Creed, Alter Bridge, and his solo output, Tremonti’s throughline is a commitment to structure: songs that move, resolve, and leave a memorable shape behind. That discipline—more than any single technique—explains why Creed’s biggest tracks remain instantly identifiable decades after their original chart runs.",
+          "Sources": [
+            {
+              "Title": "Mark Tremonti",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Mark_Tremonti"
+            },
+            {
+              "Title": "Creed (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Creed_(band)"
+            },
+            {
+              "Title": "Gold & Platinum — Human Clay (Creed)",
+              "Publisher": "RIAA",
+              "Url": "https://www.riaa.com/gold-platinum/?tab_active=top_tallies&ttt=DA"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Mark_Tremonti",
+            "Official Site": "https://marktremonti.com/"
+          }
+        }
+      },
+      {
+        "Name": "Brian Marshall",
+        "Roles": [
+          "Bass"
+        ],
+        "Years": "1994–2000; 2009–2012; 2023–present",
+        "YearsActive": "1995–present",
+        "Instruments": [
+          "Bass guitar"
+        ],
+        "Albums": [
+          "My Own Prison",
+          "Human Clay",
+          "Full Circle"
+        ],
+        "Overview": "Co-founding bassist whose steady, melodic low end anchored Creed’s early rise and peak-era sound; departed the touring lineup in 2000 and later returned for the band’s reunions.",
+        "Bio": {
+          "BioID": "creed-brian-marshall",
+          "ArtistID": "creed",
+          "ArtistName": "Creed",
+          "MemberName": "Brian Marshall",
+          "FullName": "Brian Aubrey Marshall",
+          "BirthDate": "April 24, 1973",
+          "BirthPlace": "Jackson, Mississippi, United States",
+          "DeathDate": "",
+          "ActiveYears": [
+            "1995–present"
+          ],
+          "Occupations": [
+            "Bassist",
+            "Songwriter"
+          ],
+          "PrimaryInstruments": [
+            "Bass guitar"
+          ],
+          "Genres": [
+            "Post-grunge",
+            "Hard rock",
+            "Alternative rock"
+          ],
+          "AssociatedActs": [
+            "Creed",
+            "Alter Bridge"
+          ],
+          "Achievements": [
+            "Co-founding member of Creed; part of the band’s multi-platinum peak era (1997–2000)"
+          ],
+          "Biography": "Brian Marshall (born in Jackson, Mississippi) is the bassist and co-founding low-end anchor of Creed’s classic lineup. His melodic yet supportive bass lines helped give the band’s early material a full-bodied groove, sitting beneath Mark Tremonti’s guitars while leaving space for Scott Stapp’s vocal phrasing to land cleanly in the mix.\n\nMarshall’s role in Creed’s formation was not merely instrumental; he was part of the band’s early identity-building in Tallahassee, where local shows and demo circulation created the momentum that eventually turned into national attention. In a style built on heavy riffs and huge choruses, the bass had to provide both weight and clarity—Marshall’s playing supplied that balance.\n\nOn *My Own Prison*, Marshall’s bass work supported a tighter, grittier sound that still carried melodic lift. As the band’s audience expanded beyond Florida, those songs became staples of modern rock radio, and Marshall’s parts became embedded in what listeners heard as Creed’s “engine”—the sense of forward motion beneath the guitars.\n\nThe leap to *Human Clay* brought a more polished, arena-ready production and a massive commercial rise. Even as the sound grew bigger and more radio-refined, the internal arrangement still depended on the rhythm section’s steadiness—Marshall’s bass grounding transitions and helping choruses land with maximum impact.\n\nIn 2000, Marshall departed from Creed’s touring lineup, and the band continued with a different touring configuration. That change is significant in Creed’s story because it altered the onstage chemistry at the exact moment the band was cresting in mainstream visibility.\n\nAlthough *Weathered* was recorded without Marshall in the studio, his connection to Creed’s core period remained part of the band’s public identity, and his absence underscored how quickly success can shift the internal realities of a touring rock act. The *Weathered* era kept Creed at the top of rock radio, but it also marked a turning point in how the group functioned as a unit.\n\nAfter Creed’s 2004 breakup, Marshall reunited with Mark Tremonti and Scott Phillips to form Alter Bridge, demonstrating the continued creative bond within the instrumental core. In Alter Bridge, his bass playing supported a heavier and more overtly hard-rock direction, but the foundational skill set—groove, weight, melodic support—remained the same.\n\nMarshall returned for Creed’s 2009 reunion, restoring the classic four-piece lineup and reconnecting the band to the sonic chemistry audiences associated with the late-’90s peak. The reunion period tested whether Creed could work as a band again—musically and organizationally—and Marshall’s return was a central part of that credibility.\n\nIn the 2020s, Creed’s renewed public visibility brought another wave of attention to the catalog, and Marshall’s name reentered the conversation as part of the “original lineup” narrative. In a genre often judged on authenticity and lineup continuity, his presence matters to how fans frame the band’s legacy.\n\nWhether in Creed or Alter Bridge, Marshall’s contribution is best understood as structural: he holds the floor steady so that the riffs can hit harder and the choruses can open wider. That reliability is a quiet but essential ingredient in why Creed’s biggest songs still feel built for large rooms.",
+          "Sources": [
+            {
+              "Title": "Brian Marshall",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Brian_Marshall"
+            },
+            {
+              "Title": "Creed (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Creed_(band)"
+            },
+            {
+              "Title": "Creed Loses Bassist, Tour Continues (Aug. 10, 2000)",
+              "Publisher": "ABC News",
+              "Url": "https://abcnews.go.com/Entertainment/story?id=116329&page=1"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Brian_Marshall"
+          }
+        }
+      },
+      {
+        "Name": "Scott Phillips",
+        "Roles": [
+          "Drums",
+          "Percussion",
+          "Keyboards (2001)"
+        ],
+        "Years": "1994–2004; 2009–2012; 2023–present",
+        "YearsActive": "1990–present",
+        "Instruments": [
+          "Drums",
+          "Percussion",
+          "Keyboards"
+        ],
+        "Albums": [
+          "My Own Prison",
+          "Human Clay",
+          "Weathered",
+          "Full Circle"
+        ],
+        "Overview": "Co-founding drummer whose disciplined power and dynamic control helped Creed’s riff-driven verses and expansive choruses translate from clubs to arenas; later continued with Alter Bridge.",
+        "Bio": {
+          "BioID": "creed-scott-phillips",
+          "ArtistID": "creed",
+          "ArtistName": "Creed",
+          "MemberName": "Scott Phillips",
+          "FullName": "Thomas Scott Phillips",
+          "BirthDate": "February 22, 1973",
+          "BirthPlace": "Atlanta, Georgia, United States",
+          "DeathDate": "",
+          "ActiveYears": [
+            "1990–present"
+          ],
+          "Occupations": [
+            "Drummer",
+            "Musician"
+          ],
+          "PrimaryInstruments": [
+            "Drums",
+            "Percussion",
+            "Keyboards"
+          ],
+          "Genres": [
+            "Post-grunge",
+            "Hard rock",
+            "Alternative metal"
+          ],
+          "AssociatedActs": [
+            "Creed",
+            "Alter Bridge",
+            "Projected"
+          ],
+          "Achievements": [
+            "Co-founding member of Creed; part of the band’s multi-platinum albums and arena-era touring"
+          ],
+          "Biography": "Scott Phillips (born in Atlanta, Georgia) is the drummer and co-founding rhythmic backbone of Creed. His playing combines straightforward rock power with a sense of dynamics that lets Creed’s songs move from tense, riff-driven verses into expansive choruses without losing momentum or sounding overly busy.\n\nIn Creed’s early Tallahassee years, Phillips’ role was crucial: the band’s material depended on tight, confident grooves that could translate to small clubs and, later, to large arenas. He provided that consistency, helping the group lock into a dependable feel that rock radio programmers and live audiences could immediately understand.\n\nOn *My Own Prison*, Phillips’ drumming supports a leaner, grunge-influenced sound—driving the riffs while keeping enough space for Stapp’s vocal phrasing. The record’s rise through regional and national radio rewarded that kind of disciplined approach: the songs hit hard, but they also leave room for the hook.\n\nAs Creed moved into the *Human Clay* era, the production scale increased, but Phillips’ job stayed the same: make the choruses feel inevitable. His steady kick-and-snare foundation helps push tracks like “Higher” into that arena-rock zone where the beat feels simple on paper but carries huge emotional weight in performance.\n\nThe band’s third album, *Weathered*, featured a studio configuration shaped by lineup changes, and Phillips expanded his contributions beyond drums into percussion and keyboards. That flexibility mattered during a period when the band’s sound had to remain full and polished even as internal logistics shifted.\n\nCreed’s original run ended in 2004, but Phillips’ musical partnership with Mark Tremonti and Brian Marshall continued immediately in Alter Bridge. The transition highlights how tightly the rhythm section and guitar writing were linked: when Creed stopped, the instrumental core’s creative momentum did not.\n\nWith Alter Bridge, Phillips leaned into heavier modern rock and metal textures, adapting his feel to different vocal approaches and different songwriting structures while retaining the same core strengths—timekeeping, power, and dynamic control. That adaptability is part of why he has been able to sustain a long career across projects.\n\nCreed’s 2009 reunion restored Phillips to the band’s classic lineup, bringing his drumming back to the catalog that made him widely known. The reunion wasn’t simply about replaying old songs; it required delivering them at the energy level audiences remembered, and Phillips’ steady pulse is a big reason the material remains stage-ready.\n\nAs Creed reentered public conversation in the 2020s, Phillips’ contributions were often rediscovered in the context of how “big” the songs feel. The drums are a major part of that: the grooves are designed to carry choruses into large spaces, and the fills are placed to support transitions rather than distract from them.\n\nPhillips’ legacy in Creed is one of disciplined force. He plays with the kind of solidity that makes a band sound larger than the sum of its parts—an essential quality for music that lived at the intersection of modern rock aggression and mainstream, chorus-driven immediacy.",
+          "Sources": [
+            {
+              "Title": "Scott Phillips (musician)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Scott_Phillips_(musician)"
+            },
+            {
+              "Title": "Creed (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Creed_(band)"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Scott_Phillips_(musician)"
+          }
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Brian Brasher",
+        "Roles": [
+          "Rhythm guitar"
+        ],
+        "Years": "1994–1995",
+        "YearsActive": "1994–1995",
+        "Instruments": [
+          "Guitar"
+        ],
+        "Albums": [],
+        "Overview": "Early rhythm guitarist in Creed’s initial Tallahassee lineup before the band solidified as a four-piece and began its major-label rise.",
+        "Bio": {
+          "BioID": "creed-brian-brasher",
+          "ArtistID": "creed",
+          "ArtistName": "Creed",
+          "MemberName": "Brian Brasher",
+          "FullName": "Brian Brasher",
+          "ActiveYears": [
+            "1994–1995"
+          ],
+          "Occupations": [
+            "Guitarist",
+            "Music industry professional"
+          ],
+          "PrimaryInstruments": [
+            "Guitar"
+          ],
+          "AssociatedActs": [
+            "Creed (early lineup)"
+          ],
+          "Biography": "Brian Brasher was the early rhythm guitarist in Creed’s initial Tallahassee lineup, participating in the band’s formative period before they solidified as a four-piece. He left during the mid-1990s, prior to Creed’s major-label breakthrough, and later pursued work across the music business—an alternate career path that intersected with the industry side of rock’s late-’90s boom.",
+          "Sources": [
+            {
+              "Title": "Creed (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Creed_(band)"
+            },
+            {
+              "Title": "Brian Brasher, former Creed guitarist now making music for Hollywood",
+              "Publisher": "ArtsATL",
+              "Url": "https://www.artsatl.org/brian-brasher-former-creed-guitarist-now-making-music-for-hollywood-blockbusters/"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Brett Hestla",
+        "Roles": [
+          "Touring bass",
+          "Backing vocals"
+        ],
+        "Years": "2000–2004",
+        "YearsActive": "1998–present",
+        "Instruments": [
+          "Bass guitar",
+          "Vocals",
+          "Guitar"
+        ],
+        "Albums": [],
+        "Overview": "Touring bassist who supported Creed on the road after Brian Marshall’s departure, during the band’s early-2000s arena era.",
+        "Bio": {
+          "BioID": "creed-brett-hestla",
+          "ArtistID": "creed",
+          "ArtistName": "Creed",
+          "MemberName": "Brett Hestla",
+          "FullName": "Brett Adam Hestla",
+          "ActiveYears": [
+            "2000–2004"
+          ],
+          "Occupations": [
+            "Musician",
+            "Record producer"
+          ],
+          "PrimaryInstruments": [
+            "Bass guitar",
+            "Vocals",
+            "Guitar"
+          ],
+          "AssociatedActs": [
+            "Creed (touring)",
+            "Virgos Merlot",
+            "Dark New Day"
+          ],
+          "Biography": "Brett Hestla (born in Cullman, Alabama) served as Creed’s touring bassist after Brian Marshall’s departure from the touring lineup, supporting the band through its peak-visibility early-2000s era. Outside of Creed, he is best known as the frontman of Dark New Day and for work as a producer, reflecting the career path of a multi-instrumentalist who moved between touring roles and studio work.",
+          "Sources": [
+            {
+              "Title": "Brett Hestla",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Brett_Hestla"
+            },
+            {
+              "Title": "Creed (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Creed_(band)"
             }
           ]
         }
       }
-    ],
+    ]
+  },
+  {
+    "ArtistID": "creedence-clearwater-revival",
+    "Name": "Creedence Clearwater Revival",
+    "CoreMembers": [],
     "NonCoreMembers": []
   },
   {
