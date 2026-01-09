@@ -529,240 +529,332 @@
     {
       "ArtistID": "steely-dan",
       "Name": "Steely Dan",
+      "CoreMembers": [],
+      "NonCoreMembers": []
+    },
+    {
+      "ArtistID": "steppenwolf",
+      "Name": "Steppenwolf",
       "Type": "Band",
-      "Origin": {
-        "City": "Annandale-on-Hudson",
-        "Region": "New York",
-        "Country": "United States"
-      },
+      "Origin": "Los Angeles, California, United States",
       "YearsActive": [
-        "1971–1981",
-        "1993–present"
+        "1967–1972",
+        "1974–1976",
+        "1980–2018"
       ],
       "Genres": [
-        "Jazz rock",
-        "Jazz fusion",
-        "Pop rock",
-        "Soft rock",
-        "Yacht rock"
+        "Hard rock",
+        "Blues rock",
+        "Psychedelic rock",
+        "Acid rock",
+        "Proto-metal"
       ],
       "Labels": [
-        "ABC Records",
-        "MCA Records",
-        "Giant Records",
-        "Reprise Records",
-        "Warner Bros. Records"
+        "Dunhill",
+        "ABC Dunhill",
+        "Mums",
+        "Epic",
+        "MCA"
       ],
-      "Overview": "Steely Dan are an American rock band founded by songwriting partners Donald Fagen and Walter Becker, whose work fused rock craft with jazz harmony, R&B groove, and a studio-driven obsession with precision. Formed in 1971 in Annandale-on-Hudson, New York, the group quickly stood apart from their era's guitar bands: instead of leaning on extended improvisation, they built tightly composed songs, wry character studies, and meticulously arranged parts that often relied on elite session musicians.\n\nBetween 1972 and 1980, Steely Dan released a run of albums that became a touchstone for sophisticated pop and jazz-rock—moving from the radio-friendly hooks of their debut into increasingly refined writing and production on classics like The Royal Scam and Aja. Their lyrics paired dark humor with noir-ish snapshots of American ambition and disillusionment, while their recordings became known for pristine sonics, complex chord changes, and the kind of rhythmic detail that rewarded repeat listening.\n\nAfter stepping back from regular activity in the early 1980s, Fagen and Becker returned to touring and new recordings in the 1990s, culminating in Two Against Nature (2000), which won multiple Grammys including Album of the Year. Following Becker's death in 2017, Fagen continued performing Steely Dan's catalog with an expanded touring ensemble, keeping the group's exacting musical standards—and its distinctive blend of cynicism and elegance—at the center of modern classic-rock culture.",
+      "Overview": "Steppenwolf were Canadian‑American hard‑rock pioneers who formed in Los Angeles in 1967 out of the Canadian club band the Sparrows, fronted by singer and rhythm guitarist John Kay. They erupted at the height of the late‑1960s counterculture with a heavy, organ‑driven sound that fused blues roots, psychedelic atmosphere, and a blunt, riff‑first attack that helped point rock toward harder territory.\n\nTheir debut era produced signature singles that became cultural fixtures: \"Born to Be Wild\" (written by Mars Bonfire) and \"Magic Carpet Ride\" helped define classic‑rock radio, while darker material like \"The Pusher\" and the multi‑part suite \"Monster\" showed the band’s willingness to tackle addiction, politics, and social unease rather than lean solely on escapism. \"Born to Be Wild\" gained additional mythic weight through its use in the 1969 film Easy Rider and for the lyric \"heavy metal thunder\"—a line often cited in discussions of the term’s early use in rock.\n\nAfter a run of gold‑certified albums and relentless touring, the original band split in the early 1970s and returned in shifting configurations in the mid‑1970s. In 1980, Kay revived the name and sustained the catalog for decades as John Kay & Steppenwolf, culminating in what he later identified as the final Steppenwolf performance in October 2018—an unusually long second act for a band whose biggest hits arrived in a single explosive window.",
       "NotableAlbums": [
-        {
-          "Title": "Can't Buy a Thrill",
-          "Year": "1972",
-          "Notes": "Breakthrough debut featuring early staples like 'Do It Again' and 'Reelin' in the Years,' balancing pop hooks with jazz-informed chords and a polished studio sound."
-        },
-        {
-          "Title": "Countdown to Ecstasy",
-          "Year": "1973",
-          "Notes": "A sharper, road-tested follow-up that pushed deeper into groove-driven arrangements and extended instrumental interplay while keeping the songwriting tight."
-        },
-        {
-          "Title": "Pretzel Logic",
-          "Year": "1974",
-          "Notes": "A concise, stylistically wide-ranging album that blended swing, rock, and studio craft; it cemented the band's reputation for clever narratives and immaculate detail."
-        },
-        {
-          "Title": "Katy Lied",
-          "Year": "1975",
-          "Notes": "A sleek mid-1970s set whose songs and textures foreshadowed the band's later hi-fi aesthetic, pairing sardonic storytelling with sophisticated rhythms."
-        },
-        {
-          "Title": "The Royal Scam",
-          "Year": "1976",
-          "Notes": "A darker, harder-edged record built around biting character portraits and muscular playing from top session musicians; often cited as one of their most cohesive statements."
-        },
-        {
-          "Title": "Aja",
-          "Year": "1977",
-          "Notes": "Widely regarded as a studio masterpiece, uniting jazz virtuosity, pop songwriting, and audiophile production across landmarks like 'Deacon Blues' and 'Peg'."
-        },
-        {
-          "Title": "Gaucho",
-          "Year": "1980",
-          "Notes": "A late-1970s/early-1980s refinement of their style—cool, luxurious, and rhythmically exact—anchored by songs like 'Hey Nineteen'."
-        },
-        {
-          "Title": "Two Against Nature",
-          "Year": "2000",
-          "Notes": "A comeback studio album after two decades that reaffirmed the duo's perfectionism; it won multiple Grammy Awards, including Album of the Year."
-        },
-        {
-          "Title": "Everything Must Go",
-          "Year": "2003",
-          "Notes": "A mature, warmly played late-era studio album credited to the band, capturing their touring chemistry while maintaining their signature craft."
-        }
+        "Steppenwolf (1968)",
+        "Steppenwolf the Second (1968)",
+        "At Your Birthday Party (1969)",
+        "Monster (1969)",
+        "Steppenwolf Live (1970)",
+        "Steppenwolf 7 (1970)",
+        "For Ladies Only (1971)",
+        "Slow Flux (1974)",
+        "Hour of the Wolf (1975)",
+        "Skullduggery (1976)"
       ],
       "SignatureSongs": [
-        "Do It Again",
-        "Reelin' in the Years",
-        "Dirty Work",
-        "Rikki Don't Lose That Number",
-        "Kid Charlemagne",
-        "Peg",
-        "Deacon Blues",
-        "Black Cow",
-        "Hey Nineteen",
-        "FM (No Static at All)"
+        "Born to Be Wild",
+        "Magic Carpet Ride",
+        "The Pusher",
+        "Rock Me",
+        "Monster / Suicide / America",
+        "Don't Step on the Grass, Sam",
+        "Hey Lawdy Mama",
+        "Snowblind Friend",
+        "Sookie Sookie",
+        "It's Never Too Late"
       ],
       "Achievements": [
-        {
-          "Year": "2001",
-          "Title": "Rock & Roll Hall of Fame induction",
-          "Details": "Inducted as one of rock's defining studio-centric acts, recognized for combining jazz sophistication with pop songwriting and meticulous production."
-        },
-        {
-          "Year": "2001",
-          "Title": "Grammy Awards sweep for Two Against Nature",
-          "Details": "Won four Grammys for the album, including Album of the Year, plus Best Pop Vocal Album and engineering/production honors."
-        },
-        {
-          "Year": "1970s–present",
-          "Title": "Enduring influence on studio craft and 'sophisticated rock'",
-          "Details": "Became a reference point for high-fidelity rock production, jazz-pop harmony, and narrative songwriting—frequently cited by musicians, producers, and audiophile communities."
-        },
-        {
-          "Year": "2024",
-          "Title": "Songwriters Hall of Fame induction",
-          "Details": "Honored for the Becker/Fagen songwriting partnership and a catalog that reshaped the possibilities of pop, rock, and jazz crossover writing."
-        }
+        "“Born to Be Wild” reached No. 2 on the Billboard Hot 100 in 1968 and became a signature classic‑rock staple.",
+        "The phrase “heavy metal thunder” in “Born to Be Wild” is widely cited as an early mainstream use of “heavy metal” in rock lyrics.",
+        "Steppenwolf earned multiple gold‑certified albums in the late 1960s and early 1970s and remained a major touring draw for decades.",
+        "The band’s music became deeply associated with counterculture cinema and imagery, particularly through *Easy Rider* (1969).",
+        "John Kay’s long‑running John Kay & Steppenwolf era extended the live legacy through a final performance identified by Kay as taking place in October 2018."
       ],
       "KeyFacts": [
-        "Founded by Donald Fagen and Walter Becker, who wrote and produced the core catalog together.",
-        "Known for meticulous studio methods and for hiring top session players to achieve specific tones and rhythmic feel.",
-        "Lyrics often read like short stories—ironic, cinematic, and full of sharply drawn characters.",
-        "The band name is a reference to a fictional device in William S. Burroughs' novel Naked Lunch.",
-        "Returned to touring and new records in the 1990s; the 2000 comeback album Two Against Nature won Grammy Album of the Year."
+        "Formed in Los Angeles in 1967 after evolving from the Canadian club band the Sparrows.",
+        "Named after the Hermann Hesse novel *Steppenwolf* (1927).",
+        "Classic‑era lineup featured John Kay (vocals/guitar), Goldy McJohn (keyboards), Jerry Edmonton (drums), and rotating bass/guitar personnel.",
+        "Breakthrough singles “Born to Be Wild” and “Magic Carpet Ride” helped define late‑’60s hard rock and remain enduring staples of classic‑rock radio.",
+        "Official site steppenwolf.com documents later projects, archival releases, and John Kay’s post‑touring work."
       ],
       "ExternalLinks": {
-        "Official Site": "https://www.steelydan.com/",
-        "Wikipedia": "https://en.wikipedia.org/wiki/Steely_Dan",
-        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/steely-dan/",
-        "Discography (Official)": "https://www.steelydan.com/releases"
+        "Official Site": "https://steppenwolf.com/",
+        "Spotify": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m",
+        "AllMusic": "https://www.allmusic.com/artist/steppenwolf-mn0000022928",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Steppenwolf_(band)",
+        "YouTube": "https://www.youtube.com/channel/UC0aR1L5OoaiiaW73-bNl_Ug"
       },
       "CoreMembers": [
         {
-          "Name": "Donald Fagen",
-          "Roles": [
-            "lead vocals",
-            "keyboards",
-            "songwriter",
-            "producer"
+          "Name": "John Kay",
+          "YearsActive": "1967–1972; 1980–2018",
+          "Roles": "Lead vocalist; rhythm guitarist; songwriter",
+          "Instruments": "Vocals; guitar; harmonica",
+          "Albums": [
+            "Steppenwolf (1968)",
+            "Steppenwolf the Second (1968)",
+            "Monster (1969)",
+            "Steppenwolf 7 (1970)"
           ],
-          "Overview": "Co-founder, primary frontman, and co-writer whose voice, keyboard textures, and satirical storytelling define the band's signature sound.",
-          "YearsActive": "1971–present",
-          "Years": "1971–present",
           "Bio": {
             "Birth": {
-              "Date": "January 10, 1948",
-              "Place": "Passaic, New Jersey, U.S."
+              "Date": "1944-04-12",
+              "Place": "Tilsit, East Prussia, Germany (now Sovetsk, Kaliningrad Oblast, Russia)"
             },
-            "Nationality": "American",
-            "Roles": "Singer-songwriter, keyboardist, record producer; co-founder and lead vocalist of Steely Dan",
-            "Instruments": "Vocals, keyboards",
-            "FullText": "Donald Fagen is the unmistakable voice and keyboard architect of Steely Dan—an artist who helped bring jazz-level harmony and studio exactitude into the center of mainstream 1970s rock. Born in Passaic, New Jersey, he gravitated early to late-night radio, R&B, and the sophisticated songwriting of jazz and classic pop, developing a musical vocabulary that prized chord color and rhythmic nuance as much as hooks.\n\nAt Bard College in the late 1960s, Fagen met guitarist and songwriter Walter Becker, and the two quickly bonded over shared tastes and a similar, literate sense of humor. The partnership became the engine of Steely Dan: Fagen's melodic instincts and keyboard-centered arranging met Becker's guitar sensibility and producer's ear, forming a writing team that treated pop songs like miniature films.\n\nAfter relocating to Los Angeles in the early 1970s, Fagen and Becker shaped Steely Dan's first incarnation as a working band, but even in the early years Fagen's attention was drawn to recording as a craft. He favored performances that felt effortless while being rigorously controlled—parts that sat perfectly in the groove, harmony that moved in surprising directions without breaking the song, and mixes that revealed new details on each listen.\n\nAs Steely Dan's catalog evolved from the radio-ready debut into the more intricate mid-1970s albums, Fagen's role as arranger and sonic curator grew. He became known for demanding takes, chasing subtle timing and tonal choices, and building tracks around the exact player who could deliver the feel he wanted—an approach that turned Steely Dan into a benchmark for studio musicianship.\n\nFagen's lyrical voice—often sly, observational, and morally ambivalent—helped make Steely Dan unique among classic-rock peers. Rather than writing straightforward confessionals, he inhabited characters: hustlers, dreamers, and burned-out romantics drifting through a stylized America of neon, late bars, and compromised choices.\n\nDuring the band's early-1980s pause, Fagen expanded his identity as a solo artist, translating the Steely Dan aesthetic into a slightly different palette. His solo work underscored his fascination with craft, nostalgia, and the sound of particular eras, while reinforcing him as a songwriter who could make sophisticated harmony feel conversational.\n\nWhen Steely Dan returned to touring and recording in the 1990s, Fagen stepped back into the role of bandleader and frontman, now supported by an ensemble capable of performing the catalog's studio complexity onstage. The comeback culminated in Two Against Nature, a late-career triumph that reaffirmed the duo's standards and earned major Grammy recognition.\n\nAfter Becker's death in 2017, Fagen continued performing the Steely Dan repertoire, treating the songs as living compositions rather than museum pieces. Live, he leans into the music's jazz roots—emphasizing dynamics, phrasing, and the pocket—while preserving the tightness that made the records legendary.\n\nAcross decades, Fagen's contribution is not just a set of hits but a philosophy of popular music: that wit, harmony, and disciplined performance can coexist with groove and accessibility. His work helped define a lane where rock, jazz, and pop meet—smart without being academic, polished without losing bite.\n\nThat combination—voice, keyboards, and a writer's eye for detail—keeps Fagen central to Steely Dan's lasting appeal. Whether in the studio or onstage, his pursuit of clarity and character has made the band's catalog a reference standard for musicians, producers, and listeners who care about how a song is built.",
-            "HonoursAndMilestones": [
-              "Co-founded Steely Dan with Walter Becker and helped define the band's jazz-rock/pop fusion approach.",
-              "Inducted into the Rock & Roll Hall of Fame as a member of Steely Dan (2001).",
-              "Two Against Nature won multiple Grammys, including Album of the Year (43rd Annual Grammy Awards).",
-              "Steely Dan recognized by the Songwriters Hall of Fame for the Becker/Fagen partnership (2024)."
-            ],
-            "FunFacts": [
-              "Fagen's Steely Dan lyrics are often praised for a novelistic point of view—characters and settings that feel like short stories set to groove-heavy arrangements.",
-              "His solo debut The Nightfly became a touchstone for high-fidelity pop production and meticulous arranging."
-            ],
+            "Nationality": "American (German-born)",
+            "Roles": "Lead vocalist, rhythm guitarist, songwriter",
+            "Instruments": "Vocals, guitar, harmonica",
+            "Overview": "German‑born American singer, songwriter, and rhythm guitarist who co‑founded Steppenwolf and remained its defining voice and leader across multiple eras, including the long‑running ‘John Kay & Steppenwolf’ touring incarnation.",
+            "FullText": "John Kay (born Joachim Fritz Krauledat) became the unmistakable voice and public face of Steppenwolf, steering the band from its Los Angeles breakout through later reinventions under the ‘John Kay & Steppenwolf’ banner. His rasping delivery and clipped phrasing helped define late‑’60s hard rock at a moment when blues, psychedelia, and heavy amplification were converging into something tougher and more direct.\n\nBorn in Tilsit, East Prussia (now Sovetsk, Russia), Kay’s early childhood unfolded in the upheaval at the end of World War II. His family history and post‑war displacement shaped a worldview that later surfaced in the band’s more socially pointed songs.\n\nKay and his mother escaped East Germany and later resettled in West Germany before he made his way to North America. He eventually connected with other émigré and Canadian musicians in Toronto, an early scene that sharpened his blend of blues vocabulary and rock urgency.\n\nIn the mid‑1960s he joined the Sparrows, a hard‑working club band whose members included keyboardist Goldy McJohn and drummer Jerry Edmonton. When the group relocated to California and retooled its identity, Kay became the central organizer around which Steppenwolf formed in 1967.\n\nAs a rhythm guitarist and vocalist, Kay favored driving, percussive strums and lean chord changes that left room for organ swells and lead‑guitar bite. That architecture made singles like “Born to Be Wild” and “Magic Carpet Ride” feel both elemental and explosive—simple frameworks with massive impact.\n\nKay’s writing also pushed beyond party‑rock slogans into darker themes: addiction (“The Pusher”), paranoia and disillusion (“Monster”), and the pressures of fame and politics in the Vietnam‑era U.S. Even when the band was marketed as ‘biker rock,’ his lyrics often carried a sharper edge than the stereotype suggested.\n\nDuring Steppenwolf’s original run (1967–1972) he helped guide a rapid album schedule and a heavy touring pace, navigating frequent lineup changes while keeping the band’s identity intact. His leadership became even more visible as the group fragmented and regrouped in the mid‑1970s.\n\nIn 1980 Kay revived the name and toured for decades as John Kay & Steppenwolf, keeping the catalog in front of new audiences and sustaining the band’s live reputation well beyond the classic‑rock era. That long second act proved that Steppenwolf was not just a momentary hit machine but a durable performing unit.\n\nOutside the stage, Kay increasingly used his platform to support environmental and wildlife causes, reflecting a shift from ‘rock star’ persona to public advocate. His later work has emphasized storytelling—recounting the band’s history, his early life, and the cultural circumstances that produced Steppenwolf’s signature songs.\n\nKay announced that the final Steppenwolf performance took place in October 2018, closing a career arc that stretched from the late 1960s counterculture to modern legacy touring. Across all eras, his consistent thread has been the ability to turn hard‑edged rock into songs with unmistakable character and enduring cultural presence.",
             "Sources": [
               {
-                "Title": "Donald Fagen — Biography",
+                "Title": "John Kay (musician)",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Donald_Fagen"
+                "Url": "https://en.wikipedia.org/wiki/John_Kay_(musician)"
               },
               {
-                "Title": "Steely Dan — Band Overview",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Steely_Dan"
+                "Title": "JOHN KAY - Steppenwolf",
+                "Publisher": "Steppenwolf.com",
+                "Url": "https://steppenwolf.com/pages/john-kay-biography"
               },
               {
-                "Title": "Steely Dan — Inductees",
-                "Publisher": "Rock & Roll Hall of Fame",
-                "Url": "https://rockhall.com/inductees/steely-dan/"
+                "Title": "BAND BIOGRAPHY - Steppenwolf",
+                "Publisher": "Steppenwolf.com",
+                "Url": "https://steppenwolf.com/pages/biography"
               },
               {
-                "Title": "43rd Annual Grammy Awards — Album of the Year",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/43rd_Annual_Grammy_Awards"
-              },
-              {
-                "Title": "Steely Dan — Official Site",
-                "Publisher": "SteelyDan.com",
-                "Url": "https://www.steelydan.com/"
+                "Title": "Steppenwolf Songs, Albums, Reviews, Bio & More...",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/steppenwolf-mn0000022928"
               }
             ]
           }
         },
         {
-          "Name": "Walter Becker",
-          "Roles": [
-            "guitar",
-            "bass",
-            "songwriter",
-            "producer"
+          "Name": "Jerry Edmonton",
+          "YearsActive": "1967–1972",
+          "Roles": "Drummer; vocalist",
+          "Instruments": "Drums; vocals",
+          "Albums": [
+            "Steppenwolf (1968)",
+            "Steppenwolf the Second (1968)",
+            "Monster (1969)",
+            "Steppenwolf Live (1970)"
           ],
-          "Overview": "Co-founder and co-writer whose guitar sensibility, arranging instincts, and producer's discipline shaped the band's sound and studio identity.",
-          "YearsActive": "1971–2017",
-          "Years": "1971–2017",
           "Bio": {
             "Birth": {
-              "Date": "February 20, 1950",
-              "Place": "Queens, New York, U.S."
+              "Date": "1946-10-24",
+              "Place": "Oshawa, Ontario, Canada"
             },
-            "Nationality": "American",
-            "Roles": "Musician, songwriter, record producer; co-founder of Steely Dan",
-            "Instruments": "Guitar, bass guitar, vocals, keyboards",
-            "FullText": "Walter Becker was Steely Dan's co-founder, co-writer, and one of rock's most influential studio minds—a guitarist and producer whose taste for nuance helped redefine what a 'band' could be. Born in Queens, New York, Becker developed a musical identity grounded in guitar, groove, and a deep respect for jazz phrasing and harmonic color.\n\nBecker's most consequential meeting came at Bard College, where he crossed paths with Donald Fagen. The two recognized a shared sensibility: a love of sophisticated music, a dry comedic streak, and a desire to write songs that sounded like nothing else on the radio. That partnership became the core of Steely Dan, with Becker and Fagen functioning less like traditional bandmates and more like writer-directors shaping a sonic world.\n\nIn the early 1970s, Becker helped steer the project from a working rock-band configuration toward a studio-first approach. He had a producer's instinct for what mattered: the exact guitar tone that could cut without harshness, the bass line that could lock with the drums while leaving space for harmony, and the subtle arrangement choices that made a track feel inevitable.\n\nBecker's musicianship was rarely about flash; it was about feel. His guitar parts often act like commentary—short, sharply voiced phrases that support the lyric's mood—while his bass work and rhythmic choices help anchor Steely Dan's distinctive pocket. Even when virtuoso session players took featured solos, Becker's sensibility guided what belonged and what didn't.\n\nAcross the 1970s album run, Becker and Fagen became famous for relentless standards, and Becker was a key driver of that reputation. He was involved in granular decisions: selecting players, shaping takes, and refining arrangements until every note served the song. This method helped produce recordings whose clarity and balance made them permanent reference points for engineers and hi-fi listeners.\n\nAs a co-lyricist, Becker shared authorship of Steely Dan's sardonic worldview—stories populated by hustlers, outsiders, and characters who drift between aspiration and collapse. The tone was rarely sentimental; instead, it was observant, sometimes bleak, and often funny in a way that only lands because the writing is so precise.\n\nAfter the band's initial pause in the early 1980s, Becker continued working as a producer and musician, applying the same discipline to projects beyond the Steely Dan name. His behind-the-scenes work emphasized arrangement, tone, and performance—elements he treated as inseparable parts of storytelling.\n\nWhen Steely Dan returned in the 1990s, Becker re-entered as co-leader and co-producer, helping translate the catalog's studio complexity into a live context without losing the music's crisp edges. The late-era records—especially Two Against Nature—demonstrated that the Becker/Fagen approach was not nostalgia, but an ongoing craft, capable of competing with contemporary production standards.\n\nIn 2001, Becker was inducted into the Rock & Roll Hall of Fame as a member of Steely Dan, recognition of a career built on writing, playing, and producing at an unusually high level. He remained active until his death on September 3, 2017 in Manhattan, leaving behind a body of work that continues to define sophisticated rock for musicians and producers.\n\nBecker's legacy is the sound of standards: the conviction that the smallest musical choices matter, that groove is a form of intelligence, and that pop songwriting can carry as much harmonic and rhythmic sophistication as jazz. Steely Dan's catalog is inseparable from that philosophy, and Becker's ear is embedded in every carefully placed note.",
-            "HonoursAndMilestones": [
-              "Co-founded Steely Dan with Donald Fagen and co-wrote/co-produced the group's core catalog.",
-              "Inducted into the Rock & Roll Hall of Fame as a member of Steely Dan (2001).",
-              "Two Against Nature won multiple Grammys, including Album of the Year (2001).",
-              "Recognized posthumously with Steely Dan's Songwriters Hall of Fame honor for the Becker/Fagen partnership (2024)."
-            ],
-            "FunFacts": [
-              "Becker and Fagen were known for hiring the exact session player needed for a specific feel—an approach that made Steely Dan sessions legendary among musicians.",
-              "His guitar work is often praised for economy: parts that sound simple at first but reveal meticulous voicing and timing."
-            ],
+            "Death": {
+              "Date": "1993-11-28",
+              "Place": "Santa Ynez, California, United States",
+              "Cause": "Car accident"
+            },
+            "Nationality": "Canadian",
+            "Roles": "Drummer, backing and occasional lead vocalist",
+            "Instruments": "Drums, vocals",
+            "Overview": "Canadian drummer and vocalist who co‑founded Steppenwolf and played on the band’s classic late‑1960s recordings, providing the hard‑driving rhythmic backbone of their signature hits.",
+            "FullText": "Jerry Edmonton (born Gerald McCrohan) was Steppenwolf’s founding drummer and a crucial part of the band’s attack: heavy backbeats, crisp fills, and a feel that bridged blues shuffle and hard‑rock punch. He also contributed vocals, giving the group a broader palette than many contemporaries who relied on a single frontman.\n\nBorn in Oshawa, Ontario, Edmonton came up in the Canadian club circuit before the band’s move to the U.S. That apprenticeship—long sets, fast turnover of material, and constant travel—helped Steppenwolf deliver high‑impact performances from the moment they broke nationally.\n\nEdmonton played alongside his brother Dennis Edmonton (better known as Mars Bonfire), who wrote “Born to Be Wild.” The family connection became an indelible piece of Steppenwolf lore, tying the band’s signature anthem to the same circle that forged its earliest identity.\n\nAs the drummer on the band’s late‑’60s recordings, Edmonton’s parts were built for clarity and propulsion: big downbeats that made the riffs feel inevitable, plus the kind of tightness that let the organ and guitar speak without clutter. The approach is especially evident on the hit singles that anchored the group’s catalog and radio life.\n\nOn stage, Edmonton was known for an assertive, forward‑driving groove that helped keep Steppenwolf’s longer performances from drifting. Even as lineups shifted, his pocket and intensity were a stabilizing force in the band’s classic period.\n\nBeyond the obvious singles, he contributed to the band’s deeper cuts—songs where Steppenwolf leaned into social commentary, darker storytelling, and extended arrangements. Those tracks demanded restraint as well as power, and Edmonton could dial the dynamics without losing momentum.\n\nAfter the original 1967–1972 run, Steppenwolf’s story became more fragmented, but Edmonton remained a key figure associated with the band’s foundational sound and reputation. His work from the late 1960s is central to why the group is often cited in discussions of early heavy rock and proto‑metal textures.\n\nEdmonton’s career, like many in the era, was shaped by relentless touring and the pressures of maintaining a hit‑level band. His musicianship—especially the balance of solid time and dramatic accents—made him a drummer other rock players absorbed almost subconsciously from the radio.\n\nHe died in 1993 in California, cutting short the possibility of further reunions or retrospective collaborations. The legacy, however, is permanently embedded in recordings that remain staples of classic‑rock radio and soundtrack culture.\n\nWhen Steppenwolf’s hits are discussed, the spotlight often goes to the riffs and lyrics, but Edmonton’s drumming is the engine underneath them. It’s the kind of foundational playing that makes a song feel bigger than its parts—and that is precisely what Steppenwolf required.",
             "Sources": [
               {
-                "Title": "Walter Becker — Biography",
+                "Title": "Jerry Edmonton",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Walter_Becker"
+                "Url": "https://en.wikipedia.org/wiki/Jerry_Edmonton"
               },
               {
-                "Title": "Steely Dan — Band Overview",
+                "Title": "Jerry Edmonton: The Man With The 'Born To Be Wild' Beat",
+                "Publisher": "uDiscoverMusic",
+                "Url": "https://www.udiscovermusic.com/stories/jerry-edmonton-steppenwolf-drummer/"
+              },
+              {
+                "Title": "Steppenwolf (band)",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Steely_Dan"
-              },
+                "Url": "https://en.wikipedia.org/wiki/Steppenwolf_(band)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Goldy McJohn",
+          "YearsActive": "1967–1972",
+          "Roles": "Keyboardist",
+          "Instruments": "Keyboards; organ",
+          "Albums": [
+            "Steppenwolf (1968)",
+            "Steppenwolf the Second (1968)",
+            "At Your Birthday Party (1969)",
+            "Steppenwolf 7 (1970)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1945-05-02",
+              "Place": "Toronto, Ontario, Canada"
+            },
+            "Death": {
+              "Date": "2017-08-01",
+              "Place": "Burien, Washington, United States",
+              "Cause": "Heart attack"
+            },
+            "Nationality": "Canadian",
+            "Roles": "Keyboardist",
+            "Instruments": "Keyboards, organ",
+            "Overview": "Canadian keyboardist and founding Steppenwolf member whose powerful organ work helped define the band’s heavy late‑1960s sound and signature recordings.",
+            "FullText": "Goldy McJohn (born John Raymond Goadsby) was Steppenwolf’s original keyboardist and one of the key architects of the band’s sonic identity. His thick organ tones—often described as grinding, swirling, and aggressive—helped separate Steppenwolf from guitar‑only hard‑rock peers.\n\nBorn in Toronto, McJohn trained as a pianist before gravitating toward electric keyboards and organs. That grounding in technique made it possible for him to treat the instrument not as background color but as a lead voice capable of riff‑level authority.\n\nIn Steppenwolf, McJohn’s playing often functioned like a second guitar: sustained chords that widened the stereo image, stabbing accents that reinforced riffs, and dramatic runs that lifted choruses. The result was a dense, muscular texture that became central to the band’s late‑’60s hits.\n\nHis work is inseparable from Steppenwolf’s signature recordings, where organ and guitar trade space rather than compete. On tracks like “Born to Be Wild” and “Magic Carpet Ride,” the keyboard timbres help sell the sense of speed and volume that made the songs feel new at the time.\n\nMcJohn also contributed to the band’s psychedelic side, using sustained tones and swirling effects to create an almost hypnotic atmosphere. That ability to move between brute force and trance‑like color made him unusually versatile within the hard‑rock framework.\n\nAfter the band’s initial breakthrough, Steppenwolf endured lineup churn and shifts in commercial taste. McJohn remained one of the recognizable elements of the classic lineup, and his sound stayed associated with the group’s defining period.\n\nOutside Steppenwolf, McJohn worked in other projects and sessions, but his reputation remained anchored to the late‑’60s run when organs were being pushed into louder, heavier contexts. He is frequently cited as an early example of how keyboards could be ‘heavy’ without sacrificing musicality.\n\nMcJohn’s organ approach—big, overdriven, and rhythmically forceful—helped lay groundwork for later hard‑rock and metal bands that used keyboards for weight rather than decoration. In that sense, his contribution is not merely ornamental; it’s structural.\n\nHe died in 2017, closing a chapter on the band’s founding generation. The recordings, however, preserve the distinctive voice he brought to the ensemble: a keyboard sound that is instantly recognizable within a few bars.\n\nSteppenwolf’s legacy is often framed around riffs, motorcycles, and counterculture imagery, but McJohn’s keyboards are one of the reasons the music still feels physical. They give the songs mass—an audible heft that helped define the band’s place in rock history.",
+            "Sources": [
               {
-                "Title": "Steely Dan — Inductees",
-                "Publisher": "Rock & Roll Hall of Fame",
-                "Url": "https://rockhall.com/inductees/steely-dan/"
-              },
-              {
-                "Title": "Two Against Nature — Awards",
+                "Title": "Goldy McJohn",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Two_Against_Nature"
+                "Url": "https://en.wikipedia.org/wiki/Goldy_McJohn"
               },
               {
-                "Title": "Pitchfork obituary for Walter Becker",
-                "Publisher": "Pitchfork",
-                "Url": "https://pitchfork.com/news/steely-dans-walter-becker-dead-at-67/"
+                "Title": "Steppenwolf (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steppenwolf_(band)"
+              },
+              {
+                "Title": "BAND BIOGRAPHY - Steppenwolf",
+                "Publisher": "Steppenwolf.com",
+                "Url": "https://steppenwolf.com/pages/biography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Michael Monarch",
+          "YearsActive": "1967–1969",
+          "Roles": "Lead guitarist",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Steppenwolf (1968)",
+            "Steppenwolf the Second (1968)",
+            "At Your Birthday Party (1969)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1950-07-05",
+              "Place": "Los Angeles, California, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Lead guitarist, songwriter",
+            "Instruments": "Guitar",
+            "Overview": "American guitarist and songwriter who served as Steppenwolf’s original lead guitarist, playing on the band’s early hit recordings during its late‑1960s breakthrough.",
+            "FullText": "Michael Monarch is best remembered as Steppenwolf’s original lead guitarist, recruited while still a teenager and immediately tasked with delivering the searing lines that defined the band’s earliest hits. His tone and phrasing helped translate blues‑rock language into a sharper, more aggressive form suited to late‑’60s hard rock.\n\nBorn in Los Angeles, Monarch was immersed in the city’s musical ecosystem at the exact moment it became a center of American rock recording. That proximity—plus raw ability—made it possible for him to step into a major band with little time for gradual development.\n\nOn Steppenwolf’s debut recordings, Monarch’s guitar work is direct and hook‑minded: riffs that support the vocal, fills that answer the lyrics, and solos that feel concise rather than indulgent. This approach kept the songs radio‑friendly even as the overall sound grew louder and heavier than much of the mainstream.\n\nHe played on the band’s signature era, including the recordings that established “Born to Be Wild” and “Magic Carpet Ride” as enduring staples. Those parts became reference points for later guitarists looking for a blueprint of how to sound heavy without losing groove or melodic clarity.\n\nMonarch’s tenure coincided with Steppenwolf’s rapid ascent, and the touring demands of the era required stamina and consistency. Night after night, he had to reproduce leads that audiences already knew from the records while keeping the performance exciting and loose.\n\nAfter his time with Steppenwolf, Monarch’s career extended into other major rock contexts, including work connected to Janis Joplin’s circle and later bands that explored hard rock and blues‑rock hybrids. The through‑line is a guitarist comfortable in both riff‑driven rock and more fluid, improvisational settings.\n\nHis later affiliations—including projects like Detective and the touring collective World Classic Rockers—reflect how musicians from the classic era continued to perform the repertoire for new generations. For Monarch, that meant revisiting songs that had become cultural shorthand for speed, rebellion, and the late 1960s.\n\nTechnically, Monarch is often praised for touch and timing more than flash: clean bends, controlled vibrato, and a sense of where to place a phrase so the groove stays intact. That discipline is why his playing still reads as muscular rather than cluttered.\n\nBecause Steppenwolf’s hits are so widely known, Monarch’s early work has a reach beyond typical band‑member legacy—his guitar lines are heard constantly in radio rotations and compilations. Even listeners who don’t know his name know his sound.\n\nIn Steppenwolf’s story, Monarch represents the explosive early moment when the band’s sound crystallized: organ weight, vocal grit, and lead guitar bite in perfect balance. His contributions are a foundational layer of the recordings that made Steppenwolf a permanent part of rock’s vocabulary.",
+            "Sources": [
+              {
+                "Title": "Michael Monarch",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Michael_Monarch"
+              },
+              {
+                "Title": "Steppenwolf (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steppenwolf_(band)"
+              },
+              {
+                "Title": "Steppenwolf Songs, Albums, Reviews, Bio & More...",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/steppenwolf-mn0000022928"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Nick St. Nicholas",
+          "YearsActive": "1968–1969",
+          "Roles": "Bassist; vocalist",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [
+            "Steppenwolf the Second (1968)",
+            "At Your Birthday Party (1969)",
+            "Monster (1969)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1943-09-28",
+              "Place": "Plön, Schleswig-Holstein, Germany"
+            },
+            "Nationality": "Canadian (German-born)",
+            "Roles": "Bassist, vocalist, songwriter",
+            "Instruments": "Bass guitar, vocals",
+            "Overview": "German‑born Canadian bassist who played with Steppenwolf during the band’s late‑1960s peak, helping power the classic hard‑rock sound behind their best‑known hits.",
+            "FullText": "Nick St. Nicholas (born Klaus Karl Kassbaum) is best known in Steppenwolf history as the bassist who helped carry the band through its prime hit‑making era in the late 1960s. His playing supported a sound that was simultaneously riff‑driven and spacious, leaving room for organ layers and vocal phrasing.\n\nBorn in Germany and raised in Canada after his family emigrated to Toronto, St. Nicholas built his early career in the same scene that produced the Sparrows. Those years mattered: the band learned how to work crowds, play long sets, and sharpen arrangements before Steppenwolf became a recording phenomenon.\n\nSt. Nicholas was connected to John Kay before the Steppenwolf name existed, and he played a role in the broader web of relationships that formed the band. As lineups shifted from the Sparrows into Steppenwolf, those friendships and practical connections proved decisive.\n\nHe joined Steppenwolf during the band’s rapid rise and became part of the group’s working identity on stage: heavy grooves, tight transitions, and a feel that locked the rhythm section to the riffs. In a catalog filled with instantly recognizable hooks, the bass often functions as the anchor that keeps the songs from rushing or dragging.\n\nSt. Nicholas’s period with the band coincided with Steppenwolf’s saturation of AM/FM radio, concert halls, and later—through soundtrack use—popular culture at large. Being a member during that window means his contributions are tied to the group’s lasting reputation even when listeners can’t always name the lineup.\n\nAfter his main tenure, St. Nicholas remained associated with the Steppenwolf story through later performances and ongoing public interest in the band’s legacy. Like many musicians in long‑running classic‑rock narratives, he navigated the complicated question of who ‘owns’ a band identity across decades.\n\nIn the early 2000s, legal disputes over the use of the Steppenwolf name highlighted how valuable that identity had become and how intensely artists can contest it. St. Nicholas is often cited in discussions of the period because of his role as a notable former member seeking to bill performances in connection with the band.\n\nOutside the Steppenwolf spotlight, he has continued to play and write, carrying the sensibility of a working bassist rather than a celebrity frontman. That musician‑first posture has been consistent in interviews and biographical accounts over time.\n\nFor fans who dig beyond the hits, the band’s live recordings and deeper album cuts reveal how much of Steppenwolf’s power is rhythmic and structural. St. Nicholas’s bass work is part of that structure: supportive, steady, and oriented toward making the riffs feel bigger.\n\nIn the end, Steppenwolf’s story is one of songs that outgrew their moment, and St. Nicholas is one of the players tied to the era when those songs were forged into a touring and recording machine. His legacy is rooted in the role every great rock band needs: a bassist who makes the whole thing move.",
+            "Sources": [
+              {
+                "Title": "Nick St. Nicholas",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Nick_St._Nicholas"
+              },
+              {
+                "Title": "Steppenwolf (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steppenwolf_(band)"
+              },
+              {
+                "Title": "Steppenwolf Songs, Albums, Reviews, Bio & More...",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/steppenwolf-mn0000022928"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Rushton Moreve",
+          "YearsActive": "1967–1968",
+          "Roles": "Bassist; songwriter",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Steppenwolf (1968)",
+            "Steppenwolf the Second (1968)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1948-11-06",
+              "Place": "Los Angeles, California, United States"
+            },
+            "Death": {
+              "Date": "1981-07-01",
+              "Place": "Sun Valley, Los Angeles, California, United States",
+              "Cause": "Injuries sustained in an automobile accident"
+            },
+            "Nationality": "American",
+            "Roles": "Bassist, songwriter",
+            "Instruments": "Bass guitar",
+            "Overview": "American bassist and songwriter who played with early Steppenwolf and co‑wrote the hit “Magic Carpet Ride,” contributing a distinctive melodic approach to the band’s foundational sound.",
+            "FullText": "Rushton Moreve (born John Rushton Morey) was one of Steppenwolf’s earliest bassists and a key contributor to the band’s first surge of creativity. His melodic instincts helped give the group’s heavy riffs an underlying sense of motion rather than simple root‑note thump.\n\nA Los Angeles native, Moreve joined the band in 1967 after responding to a posted notice seeking a bassist. That kind of ad‑hoc recruitment was common in the era, but in this case it produced a player who would leave a permanent mark on a massive hit.\n\nMoreve played on Steppenwolf’s debut album and was part of the lineup that established the band’s sound: hard grooves, organ heft, and a street‑level edge in the vocals. In early performances, the bass had to be both sturdy and flexible, supporting blues‑based material and newer original songs.\n\nHis most famous contribution is co‑writing “Magic Carpet Ride” with John Kay, credited in part to a bass‑line idea he had been developing. That riff‑centric approach—building a song’s identity from a memorable low‑end figure—anticipated techniques that later hard‑rock and funk‑rock bands would lean on heavily.\n\nIn the classic recordings, Moreve’s bass lines often move melodically against the chords, adding contour without drawing attention away from the hook. It’s the kind of writing‑through‑performance contribution that can be overlooked until you isolate the track and hear how much it shapes the song.\n\nMoreve’s tenure with Steppenwolf was relatively short, and he was eventually replaced by Nick St. Nicholas as the band’s personnel continued to shift during its commercial rise. Even so, his fingerprint remained on the catalog through the songs he played and the writing credit attached to one of the band’s biggest singles.\n\nLater accounts describe him as a musician whose instincts sometimes pulled toward less commercial textures—an understandable tension in a band balancing chart ambitions with a counterculture identity. Those internal pushes and pulls are part of what makes late‑’60s rock histories feel both creative and volatile.\n\nMoreve returned to Steppenwolf‑related activity in later years, reflecting how the band’s orbit could draw former members back in as the legacy grew. For many musicians, the chance to revisit a defining period is both personal and professional—especially when the songs have become standards.\n\nHe died in 1981 after injuries sustained in an automobile accident in the Los Angeles area, ending his story far too early. His age at death has often been noted because it underscores how young many classic‑era musicians were when they recorded work that became permanent.\n\nMoreve’s legacy inside Steppenwolf is ultimately about musical identity: a bass part that is so integral to “Magic Carpet Ride” that the song is unimaginable without it. That single contribution alone would be enough to secure his place in the band’s history.",
+            "Sources": [
+              {
+                "Title": "Rushton Moreve",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Rushton_Moreve"
+              },
+              {
+                "Title": "Steppenwolf (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steppenwolf_(band)"
+              },
+              {
+                "Title": "Steppenwolf - Magic Carpet Ride (Version 1969)",
+                "Publisher": "YouTube",
+                "Url": "https://www.youtube.com/watch?v=HPE9a_epmWw"
               }
             ]
           }
@@ -770,117 +862,76 @@
       ],
       "NonCoreMembers": [
         {
-          "Name": "Jeff 'Skunk' Baxter",
-          "Roles": [
-            "guitar"
-          ],
-          "Years": "1973–1974",
-          "Instruments": [
-            "Guitar"
-          ],
-          "Albums": [
-            "Countdown to Ecstasy",
-            "Pretzel Logic"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Key early guitarist who helped translate the band's writing into sharp, groove-heavy arrangements during the transition from the debut era into the mid-1970s sound."
+          "Name": "Andy Chapin",
+          "YearsActive": "1967–1968",
+          "Roles": "Bassist",
+          "Instruments": "Bass guitar",
+          "Overview": "Early Steppenwolf bassist during the band’s transition from the Sparrows era, appearing in formative live activity before the classic hit lineup stabilized."
         },
         {
-          "Name": "Denny Dias",
-          "Roles": [
-            "guitar"
-          ],
-          "Years": "1972–1974 (and associated studio work)",
-          "Instruments": [
-            "Guitar"
-          ],
-          "Albums": [
-            "Can't Buy a Thrill",
-            "Countdown to Ecstasy",
-            "Pretzel Logic"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Early guitarist closely tied to the first albums, contributing a jazz-informed sensibility that fit the band's harmonic language."
+          "Name": "Larry Byrom",
+          "YearsActive": "1971–1972",
+          "Roles": "Guitarist",
+          "Instruments": "Guitar",
+          "Overview": "Guitarist who joined in the early 1970s period, contributing to the band’s later classic‑era albums and touring as Steppenwolf navigated changing lineups."
         },
         {
-          "Name": "Jim Hodder",
-          "Roles": [
-            "drums",
-            "vocals"
-          ],
-          "Years": "1972–1974",
-          "Instruments": [
-            "Drums",
-            "Vocals"
-          ],
-          "Albums": [
-            "Can't Buy a Thrill",
-            "Countdown to Ecstasy",
-            "Pretzel Logic"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Early drummer/vocalist who appeared during the initial band configuration before the project shifted more decisively toward a studio-centric model."
+          "Name": "George Biondo",
+          "YearsActive": "1970–1972",
+          "Roles": "Bassist",
+          "Instruments": "Bass guitar",
+          "Overview": "Bassist during the early‑1970s lineup changes, supporting the band’s heavy touring schedule as Steppenwolf moved beyond its initial run of hit singles."
         },
         {
-          "Name": "Michael McDonald",
-          "Roles": [
-            "backing vocals"
-          ],
-          "Years": "mid-1970s (select sessions)",
-          "Instruments": [
-            "Vocals"
-          ],
-          "Albums": [
-            "Katy Lied",
-            "The Royal Scam"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Notable guest vocalist whose background harmonies became part of the band's signature mid-1970s texture on select recordings."
+          "Name": "Kent Henry",
+          "YearsActive": "1970–1975",
+          "Roles": "Guitarist",
+          "Instruments": "Guitar",
+          "Overview": "Lead guitarist associated with post‑peak Steppenwolf incarnations, part of the band’s ongoing effort to keep its hard‑rock sound viable into the mid‑1970s."
         },
         {
-          "Name": "Jeff Porcaro",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "late 1970s (select sessions)",
-          "Instruments": [
-            "Drums"
-          ],
-          "Albums": [
-            "Katy Lied",
-            "Aja"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Celebrated session drummer whose feel and precision matched the band's high standards during their late-1970s studio peak."
+          "Name": "Bobby Cochran",
+          "YearsActive": "1975",
+          "Roles": "Guitarist",
+          "Instruments": "Guitar",
+          "Overview": "Guitarist who appeared during the mid‑1970s period as Steppenwolf’s membership continued to rotate around John Kay and the band’s legacy material."
         },
         {
-          "Name": "Larry Carlton",
-          "Roles": [
-            "guitar"
-          ],
-          "Years": "mid-1970s (select sessions)",
-          "Instruments": [
-            "Guitar"
-          ],
-          "Albums": [
-            "The Royal Scam"
-          ],
-          "Replacing": "",
-          "ReplacedBy": "",
-          "Overview": "Renowned session guitarist featured prominently in the mid-1970s era, bringing a fluid, jazz-leaning tone that complemented the band's darker storytelling."
+          "Name": "Ron Hurst",
+          "YearsActive": "1975–1976",
+          "Roles": "Bassist",
+          "Instruments": "Bass guitar",
+          "Overview": "Bassist in the mid‑1970s era, helping anchor the rhythm section during later studio work and touring before the band’s next hiatus."
+        },
+        {
+          "Name": "John Hawkins",
+          "YearsActive": "1970–1972",
+          "Roles": "Drummer",
+          "Instruments": "Drums",
+          "Overview": "Drummer who passed through Steppenwolf during the early‑1970s lineup shifts as the group balanced new material with an increasingly classic‑hits‑driven identity."
+        },
+        {
+          "Name": "Danny Johnson",
+          "YearsActive": "1980–1993",
+          "Roles": "Guitarist",
+          "Instruments": "Guitar",
+          "Overview": "Long‑tenured guitarist in the John Kay & Steppenwolf touring era, helping translate the classic catalog to large audiences in the modern classic‑rock circuit."
+        },
+        {
+          "Name": "Michael Wilk",
+          "YearsActive": "1982–2018",
+          "Roles": "Keyboardist",
+          "Instruments": "Keyboards",
+          "Overview": "Keyboardist in the long‑running John Kay & Steppenwolf incarnation, supporting live performances that extended the band’s legacy well beyond its original era."
+        },
+        {
+          "Name": "Tommy Kay",
+          "YearsActive": "1980s–2018",
+          "Roles": "Bassist",
+          "Instruments": "Bass guitar",
+          "Overview": "Bassist associated with John Kay’s later touring lineups, part of the stable supporting cast that kept Steppenwolf’s repertoire in circulation for decades."
         }
       ]
-    },
-    {
-      "ArtistID": "steppenwolf",
-      "Name": "Steppenwolf",
-      "CoreMembers": [],
-      "NonCoreMembers": []
     },
     {
       "ArtistID": "steve-miller-band",
