@@ -1352,7 +1352,573 @@
     },
     {
       "ArtistID": "three-days-grace",
-      "Name": "Three Days Grace"
+      "Name": "Three Days Grace",
+      "Type": "Band",
+      "Origin": {
+        "City": "Norwood",
+        "Region": "Ontario",
+        "Country": "Canada"
+      },
+      "YearsActive": [
+        "1992–1995 (as Groundswell)",
+        "1997–present (as Three Days Grace)"
+      ],
+      "Genres": [
+        "Post-grunge",
+        "Hard rock",
+        "Alternative rock",
+        "Alternative metal",
+        "Nu metal"
+      ],
+      "Labels": [
+        "Jive",
+        "RCA Records",
+        "Zomba"
+      ],
+      "Overview": "Three Days Grace emerged from small‑town Ontario with a blunt, radio‑ready mix of post‑grunge crunch and alternative‑metal heft. After regrouping under their current name in 1997, the band broke through internationally in the early 2000s with dark, hook‑heavy singles that paired melodic choruses to hard‑edged riffs, turning anxiety, anger, and survival instincts into arena‑scale anthems. Their early run—from the self‑titled debut through *One‑X* and *Life Starts Now*—cemented a signature sound built on tight, percussive guitars, propulsive rhythm section work, and vocal lines designed to land like headline slogans.\n\nAcross lineup shifts and evolving rock trends, the group stayed focused on momentum: concise song structures, vivid titles, and choruses meant for crowds. After founding singer Adam Gontier’s 2013 departure, Matt Walst stepped in as lead vocalist for *Human* and the band continued stacking chart‑topping rock singles, expanding their palette with modern production and sharper electronic/keyboard accents while keeping the core “riff + refrain” engine intact. By the mid‑2020s, their catalog had become one of the defining mainstream-rock bodies of work of the era, with a long string of No. 1 rock‑radio hits.\n\nIn late 2024, the band entered a new chapter with Gontier returning to share lead‑vocal duties alongside Walst, making their classic voice-and-riff identity flexible again—two contrasting timbres, one band, and a renewed emphasis on big hooks. That dual‑frontman setup feeds directly into their recent material, linking the early‑2000s breakthrough years to the modern, heavy, polished approach of their 2010s–2020s releases.",
+      "NotableAlbums": [
+        {
+          "Title": "Three Days Grace",
+          "Year": 2003,
+          "Notes": "The major-label debut that launched the band globally, driven by the breakthrough single “I Hate Everything About You” and a tight, post‑grunge/alt‑metal template built for rock radio."
+        },
+        {
+          "Title": "One‑X",
+          "Year": 2006,
+          "Notes": "A darker, bigger sophomore album that became their commercial turning point, expanding the band’s scale with multi‑hit singles like “Animal I Have Become,” “Pain,” and “Never Too Late.”"
+        },
+        {
+          "Title": "Life Starts Now",
+          "Year": 2009,
+          "Notes": "A more melodic, broadly accessible set that kept the heaviness but leaned into anthemic uplift; anchored by “Break” and “The Good Life.”"
+        },
+        {
+          "Title": "Transit of Venus",
+          "Year": 2012,
+          "Notes": "A late‑Jive/RCA‑era statement that sharpened the band’s modern hard‑rock edge, highlighted by “Chalk Outline” and “Misery Loves My Company.”"
+        },
+        {
+          "Title": "Human",
+          "Year": 2015,
+          "Notes": "The first studio album with Matt Walst on lead vocals, introducing a slightly different tonal center while maintaining the band’s punchy riff‑and‑chorus identity."
+        },
+        {
+          "Title": "Outsider",
+          "Year": 2018,
+          "Notes": "A late‑2010s high point that continued their run of rock‑radio No. 1s; “Infra‑Red” marked a major chart milestone for the band."
+        },
+        {
+          "Title": "Explosions",
+          "Year": 2022,
+          "Notes": "A hard‑hitting 2020s set that kept the sound modern and aggressive while emphasizing big choruses and crisp production."
+        },
+        {
+          "Title": "Alienation",
+          "Year": 2025,
+          "Notes": "A mid‑2020s release issued via RCA in the band’s dual‑vocal era; positioned as the next step after *Explosions* and supported by multiple singles."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "I Hate Everything About You",
+          "Year": 2003,
+          "Notes": "The breakout single that established their trademark balance of grit and melody and remains a defining post‑grunge anthem."
+        },
+        {
+          "Title": "Just Like You",
+          "Year": 2004,
+          "Notes": "A punchy, confrontational hit with a massive chorus—one of the key tracks that kept the debut era dominant on rock radio."
+        },
+        {
+          "Title": "Home",
+          "Year": 2004,
+          "Notes": "A darker, moodier staple that helped define the band’s early emotional intensity and riff‑driven approach."
+        },
+        {
+          "Title": "Animal I Have Become",
+          "Year": 2006,
+          "Notes": "A flagship *One‑X* single—urgent, heavy, and built for crowd shout‑backs; often cited among their most iconic tracks."
+        },
+        {
+          "Title": "Pain",
+          "Year": 2006,
+          "Notes": "A relentless hard‑rock single that became a radio core‑track and a live set centerpiece."
+        },
+        {
+          "Title": "Never Too Late",
+          "Year": 2006,
+          "Notes": "A more melodic, reflective anthem that broadened the band’s emotional range without losing impact."
+        },
+        {
+          "Title": "Break",
+          "Year": 2009,
+          "Notes": "A late‑2000s signature that kept their No. 1 rock‑radio momentum rolling into the *Life Starts Now* era."
+        },
+        {
+          "Title": "The Good Life",
+          "Year": 2009,
+          "Notes": "A hook‑heavy single that captured the band’s ability to turn frustration and excess into catchy, arena‑ready rock."
+        },
+        {
+          "Title": "Chalk Outline",
+          "Year": 2012,
+          "Notes": "A modern hard‑rock hit that helped define the *Transit of Venus* era with sharp riffs and a soaring chorus."
+        },
+        {
+          "Title": "I Am Machine",
+          "Year": 2014,
+          "Notes": "A heavy, mechanized single that previewed the band’s post‑2013 lineup era and remained a major rock‑radio track."
+        },
+        {
+          "Title": "So Called Life",
+          "Year": 2022,
+          "Notes": "A driving 2020s single that reaffirmed the band’s focus on riffs, tempo, and big choruses in the streaming era."
+        },
+        {
+          "Title": "Mayday",
+          "Year": 2024,
+          "Notes": "A key single released as the band entered its dual‑frontman chapter, linking the classic voice to the modern lineup."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Broke the Billboard Mainstream Rock Songs record with “Infra‑Red” (14th No. 1)",
+          "Year": 2018,
+          "Notes": "“Infra‑Red” pushed the band past the long‑standing record previously held by Van Halen, underscoring their sustained dominance on U.S. rock radio."
+        },
+        {
+          "Title": "Reached 20 Mainstream Rock chart-topping singles (career milestone)",
+          "Year": 2025,
+          "Notes": "By the mid‑2020s, the band’s No. 1 count on Billboard’s Mainstream Rock charts placed them among the most successful acts in the format’s history."
+        },
+        {
+          "Title": "JUNO Awards recognition for early breakthrough era",
+          "Year": 2004,
+          "Notes": "Their early success was reflected in JUNO Awards attention tied to the breakthrough period around “I Hate Everything About You.”"
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Norwood, Ontario, Canada; originally played together as Groundswell (1992–1995) before regrouping as Three Days Grace in 1997.",
+        "Breakthrough era (2003–2009) built around the self‑titled debut, *One‑X*, and *Life Starts Now*, producing multiple enduring rock‑radio staples.",
+        "Known for blending post‑grunge songcraft with alternative‑metal weight—big choruses over tight, percussive riffing and a heavy, steady rhythm section.",
+        "Adam Gontier fronted the band through *Transit of Venus* before departing in 2013; Matt Walst took over lead vocals starting with *Human* (2015).",
+        "In late 2024, the band shifted into a dual‑frontman setup with Gontier returning to share lead‑vocal duties alongside Walst.",
+        "Issued major-label releases via Jive/RCA-era partnerships and maintained long-running mainstream-rock chart presence into the 2020s."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://threedaysgrace.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+        "Discography": "https://en.wikipedia.org/wiki/Three_Days_Grace_discography"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Adam Gontier",
+          "YearsActive": "1992–2013; 2024–present (Three Days Grace); 2015–present (Saint Asonia)",
+          "Roles": "Co‑lead vocals • Rhythm guitar • Primary songwriter (founding era)",
+          "Instruments": "Vocals • Guitar",
+          "Albums": [
+            "Three Days Grace",
+            "One‑X",
+            "Life Starts Now",
+            "Transit of Venus",
+            "Alienation"
+          ],
+          "Overview": "Founding frontman whose rasped, melodic delivery defined the band’s breakthrough era and returned in the mid‑2020s to share lead‑vocal duties.",
+          "Bio": {
+            "BioID": "bio-three-days-grace-adam-gontier",
+            "ArtistID": "three-days-grace",
+            "ArtistName": "Three Days Grace",
+            "MemberName": "Adam Gontier",
+            "FullName": "Adam Wade Gontier",
+            "Nationality": "Canadian",
+            "Occupations": [
+              "Singer",
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Genres": [
+              "Post-grunge",
+              "Hard rock",
+              "Alternative rock",
+              "Alternative metal"
+            ],
+            "Birth": {
+              "Date": "May 25, 1978",
+              "Place": "Peterborough, Ontario, Canada"
+            },
+            "Roles": "Co‑lead vocals • Rhythm guitar • Songwriting (founding era)",
+            "Instruments": "Vocals • Guitar",
+            "FullText": "Adam Wade Gontier (born May 25, 1978, in Peterborough, Ontario) is one of the founding voices behind Three Days Grace. Growing up in Ontario, he developed a taste for heavy guitar music and the kind of direct, emotionally charged songwriting that would later become the band’s calling card.\n\nIn the early 1990s he began playing with future bandmates in a local project that performed under the name Groundswell. That early period—teenage years spent writing, rehearsing, and playing shows—built the group’s habit of turning personal tension into tight, hook‑first rock songs.\n\nIn 1997, Gontier regrouped with drummer Neil Sanderson and bassist Brad Walst under the name Three Days Grace. As the primary lyricist and a central musical driver, he helped refine a style that fused post‑grunge grit with alternative‑metal weight—simple structures, heavy riffs, and choruses engineered for maximum impact.\n\nThe band’s major breakthrough arrived with the early‑2000s run beginning with the self‑titled debut and its defining single “I Hate Everything About You.” Gontier’s vocal approach—rasped intensity with clear melodic focus—gave the songs a distinctive push‑pull between anger and vulnerability that translated to both radio and live crowds.\n\nOn *One‑X* (2006), he fronted one of the era’s most successful mainstream‑rock albums, delivering career‑defining performances on tracks like “Animal I Have Become,” “Pain,” and “Never Too Late.” The record’s themes—pressure, self‑confrontation, and survival—aligned tightly with his writing style: blunt titles, vivid lines, and choruses that feel like declarations.\n\nThrough *Life Starts Now* (2009) and *Transit of Venus* (2012), Gontier continued to balance heaviness with melody, helping the band sustain a multi‑album streak of high‑impact singles. His phrasing often sits slightly behind the beat, letting riffs land first and then punching the chorus forward—an approach that became a recognizable Three Days Grace signature.\n\nIn 2013, he stepped away from the band, later describing the period as physically and emotionally difficult after years of nonstop touring and personal struggles. The departure marked the end of the original frontman era, but it also opened a path for him to reset his life and channel his writing into new settings.\n\nAfter leaving, Gontier remained active as a singer and songwriter, notably with the band Saint Asonia and through high‑profile collaborations across modern hard rock. His post‑2013 work kept the same core strengths—clear melodic hooks, a dark edge, and lyrics that aim for direct emotional connection—while exploring different production aesthetics.\n\nIn late 2024, Gontier returned to Three Days Grace to share lead‑vocal duties, effectively re‑connecting the band’s classic vocal identity with its modern lineup. The move reframed the group as a dual‑frontman act: two distinct voices capable of trading verses, stacking harmonies, and reshaping familiar dynamics without abandoning the band’s riff‑driven foundation.\n\nAcross the Three Days Grace catalog, Gontier’s legacy is the template itself: heavy, radio‑focused rock built on honest emotion and chorus-first songwriting. Whether delivering raw grit or more reflective lines, his performances helped define a generation of mainstream hard rock—music designed to be shouted back by thousands of people at once.",
+            "HonoursAndMilestones": [
+              "Co‑founded the band’s pre‑history project Groundswell and the later Three Days Grace lineup that broke internationally in the early 2000s.",
+              "Fronted the band through four studio albums before departing in 2013 and returning in 2024 as a co‑lead vocalist."
+            ],
+            "FunFacts": [
+              "The band’s name has been explained by Gontier as a sense of urgency—whether you could change your life if you only had three days."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Adam Gontier — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Adam_Gontier"
+              },
+              {
+                "Title": "Adam Gontier on leaving and returning to Three Days Grace (interview)",
+                "Publisher": "People",
+                "Url": "https://people.com/adam-gontier-was-in-dark-place-when-he-left-three-days-grace-in-2013-had-to-stop-the-machine-from-rolling-exclusive-8781769"
+              },
+              {
+                "Title": "Three Days Grace — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/three-days-grace-mn0000490860"
+              },
+              {
+                "Title": "Three Days Grace — Band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Three_Days_Grace"
+              },
+              {
+                "Title": "Music / releases (Alienation, Explosions, etc.)",
+                "Publisher": "Three Days Grace",
+                "Url": "https://threedaysgrace.com/music/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Matt Walst",
+          "YearsActive": "2013–present (Three Days Grace); 2005–2014 (My Darkest Days)",
+          "Roles": "Co‑lead vocals • Songwriting (modern era)",
+          "Instruments": "Vocals • (occasional) Guitar/Keys",
+          "Albums": [
+            "Human",
+            "Outsider",
+            "Explosions",
+            "Alienation"
+          ],
+          "Overview": "Modern-era frontman who kept the band chart-active after 2013 and now shares lead vocals in a dual‑frontman setup.",
+          "Bio": {
+            "BioID": "bio-three-days-grace-matt-walst",
+            "ArtistID": "three-days-grace",
+            "ArtistName": "Three Days Grace",
+            "MemberName": "Matt Walst",
+            "FullName": "Matthew Jean Paul Walst",
+            "Nationality": "Canadian",
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Genres": [
+              "Post-grunge",
+              "Hard rock",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "December 28, 1982",
+              "Place": "Norwood, Ontario, Canada"
+            },
+            "Roles": "Co‑lead vocals • Songwriting",
+            "Instruments": "Vocals • Guitar • Keyboards",
+            "FullText": "Matthew Jean Paul Walst (born December 28, 1982, in Norwood, Ontario) is a Canadian singer and songwriter best known as the modern front voice of Three Days Grace. He first gained wider attention as the lead singer of My Darkest Days before stepping into one of the most high‑profile vocal roles in mainstream rock.\n\nWalst’s early musical life in Ontario overlapped with the environment that produced Three Days Grace’s original members, and he developed a vocal style suited to hard rock’s demands: aggressive projection, clear melodic phrasing, and an instinct for chorus hooks that can carry over dense guitars.\n\nAs leader of My Darkest Days, Walst worked in a sleazier, modern hard‑rock lane, learning the craft of studio vocals, touring stamina, and radio‑focused songwriting. That experience became the foundation for his next chapter—fronting a band with an established catalog and a massive audience expectation for emotional intensity.\n\nIn 2013, following Adam Gontier’s departure, Walst was announced as Three Days Grace’s new lead vocalist. The transition was significant: he wasn’t just filling a position, he was inheriting a defined vocal identity attached to some of the biggest rock hits of the 2000s. His approach was to keep the band’s core intensity intact while adding his own tone and phrasing.\n\nOn *Human* (2015), Walst introduced his version of Three Days Grace—still riff‑driven and hook‑centric, but with a slightly different emotional color and modernized production choices. The album established that the band could continue as a current, chart‑active act rather than a legacy of the early‑2000s era.\n\nAcross *Outsider* (2018) and *Explosions* (2022), Walst helped extend the band’s rock‑radio dominance into a new decade. His vocals are built for momentum: verses delivered with tension, choruses opened wide and sung as statements, and melodies designed to read clearly even when guitars are thick and loud.\n\nWalst’s role also includes connecting eras. His performances keep classic themes—struggle, anger, resilience—while updating the sonic surface to match contemporary hard‑rock production. That balance is crucial for a band with a deep catalog: the music has to feel familiar without becoming frozen in time.\n\nIn late 2024, Three Days Grace shifted into a rare modern configuration: Walst sharing lead‑vocal duties with returning original singer Adam Gontier. The dual‑frontman setup expands what the band can do—two contrasting vocal textures, new harmony options, and the ability to reference the classic sound while still moving forward.\n\nIn a band built on chorus impact, Walst’s strength is clarity under pressure. He can push hard without losing pitch center, shape a hook so it’s memorable, and maintain intensity across a long set of heavy material—skills that matter as much live as they do on record.\n\nWalst’s legacy within Three Days Grace is continuity through change. He helped keep the band active and relevant after a defining lineup shift, and his vocals now coexist with the returning original voice—an unusual, flexible arrangement that reflects both the band’s history and its present ambition.",
+            "HonoursAndMilestones": [
+              "Became lead vocalist of Three Days Grace in 2013 and debuted on the band’s 2015 studio album *Human*.",
+              "Co‑leads the band alongside returning original singer Adam Gontier from the mid‑2020s era onward."
+            ],
+            "FunFacts": [
+              "Prior to joining Three Days Grace, he fronted the Canadian rock band My Darkest Days."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Matt Walst — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Matt_Walst"
+              },
+              {
+                "Title": "Three Days Grace — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/three-days-grace-mn0000490860"
+              },
+              {
+                "Title": "Three Days Grace — Band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Three_Days_Grace"
+              },
+              {
+                "Title": "Music / releases (Alienation, Explosions, etc.)",
+                "Publisher": "Three Days Grace",
+                "Url": "https://threedaysgrace.com/music/"
+              },
+              {
+                "Title": "Adam Gontier on leaving and returning to Three Days Grace (dual-frontman era context)",
+                "Publisher": "People",
+                "Url": "https://people.com/adam-gontier-was-in-dark-place-when-he-left-three-days-grace-in-2013-had-to-stop-the-machine-from-rolling-exclusive-8781769"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Neil Sanderson",
+          "YearsActive": "1992–present",
+          "Roles": "Drums • Backing vocals • Keyboards • Songwriting",
+          "Instruments": "Drums • Vocals • Piano/Keys",
+          "Albums": [
+            "Three Days Grace",
+            "One‑X",
+            "Life Starts Now",
+            "Transit of Venus",
+            "Human",
+            "Outsider",
+            "Explosions",
+            "Alienation"
+          ],
+          "Overview": "Co‑founder who drives the band’s momentum on drums while adding backing vocals, keys, and long‑term continuity across lineup eras.",
+          "Bio": {
+            "BioID": "bio-three-days-grace-neil-sanderson",
+            "ArtistID": "three-days-grace",
+            "ArtistName": "Three Days Grace",
+            "MemberName": "Neil Sanderson",
+            "FullName": "Neil Christopher Sanderson",
+            "Nationality": "Canadian",
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Drums",
+              "Vocals",
+              "Keyboards/Piano"
+            ],
+            "Genres": [
+              "Post-grunge",
+              "Hard rock",
+              "Alternative metal",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "December 17, 1978",
+              "Place": "Peterborough, Ontario, Canada"
+            },
+            "Roles": "Drummer • Backing vocals • Keyboards • Songwriting",
+            "Instruments": "Drums • Vocals • Piano",
+            "FullText": "Neil Christopher Sanderson (born December 17, 1978, in Peterborough, Ontario) is a co‑founder of Three Days Grace and one of the key architects of the band’s feel. As drummer, backing vocalist, and frequent keyboard contributor, he shapes both the groove and the dramatic lift that defines the group’s biggest choruses.\n\nSanderson’s early years in Ontario overlapped with the formative period that produced Groundswell and then Three Days Grace. The band’s core trio—Sanderson, Adam Gontier, and Brad Walst—learned how to translate small‑town rehearsal‑room ideas into songs built for loud rooms and big hooks.\n\nFrom the start, his drumming emphasized momentum over flash: tight kick patterns, clear snare placement, and fills that serve transitions rather than distract from choruses. That discipline is part of why Three Days Grace songs hit hard on radio—everything is engineered to make the chorus arrive with maximum weight.\n\nOn the band’s early albums, Sanderson’s playing helps define the “push” behind tracks like “I Hate Everything About You” and “Just Like You,” where the rhythm section locks into a steady, driving pulse while guitars punch out short, percussive riffs. His approach leaves space for vocals, then widens the song in the chorus with cymbal lift and additional texture.\n\nDuring the *One‑X* and *Life Starts Now* eras, he also became a visible on‑stage personality—high energy, vocal harmonies, and a sense of timing that keeps the set moving between heavy moments and anthem sections. His backing vocals often reinforce the band’s core storytelling style: one voice carrying the lead while the band adds communal emphasis in the hook.\n\nAs the group’s production evolved in the 2010s and 2020s, Sanderson’s role expanded beyond drums into keyboards and arrangement choices that add atmosphere without softening the impact. Subtle synth pads, piano accents, and layered percussion help modernize the sound while the drum foundation keeps it unmistakably Three Days Grace.\n\nSanderson is also known for songwriting contributions and for being involved in the broader business side of the genre. He co‑founded the label Judge & Jury Records with producer Howard Benson, reflecting a long‑term commitment to the contemporary rock ecosystem beyond just the band’s own releases.\n\nAcross lineup changes—including the shift to Matt Walst as lead vocalist and the later return of Adam Gontier as a co‑lead—Sanderson has been the continuity engine. His playing style ties the eras together: same sense of pacing, same commitment to a chorus landing cleanly, same emphasis on groove as the song’s spine.\n\nAt the level of craft, Sanderson’s drumming is about clarity and impact. He makes complex emotions feel physical—snare hits that sound like punctuation, cymbal swells that feel like release, and fills that push the band into the next section at exactly the right moment.\n\nHis legacy within Three Days Grace is the band’s relentless forward motion. When their songs feel like they can’t stop—when a chorus detonates and then the groove pulls you into the next verse—Sanderson’s sense of time, space, and drive is the reason.",
+            "HonoursAndMilestones": [
+              "Co‑founded Three Days Grace and remained a constant across all studio eras.",
+              "Co‑founded Judge & Jury Records with producer Howard Benson."
+            ],
+            "FunFacts": [
+              "Often contributes keyboards and backing vocals in addition to drums, expanding the band’s arrangements live and in studio."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Neil Sanderson — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Neil_Sanderson"
+              },
+              {
+                "Title": "Three Days Grace — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/three-days-grace-mn0000490860"
+              },
+              {
+                "Title": "Three Days Grace — Band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Three_Days_Grace"
+              },
+              {
+                "Title": "Music / releases (Alienation, Explosions, etc.)",
+                "Publisher": "Three Days Grace",
+                "Url": "https://threedaysgrace.com/music/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Brad Walst",
+          "YearsActive": "1992–present",
+          "Roles": "Bass • Songwriting/arrangement support",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Three Days Grace",
+            "One‑X",
+            "Life Starts Now",
+            "Transit of Venus",
+            "Human",
+            "Outsider",
+            "Explosions",
+            "Alienation"
+          ],
+          "Overview": "Founding bassist whose locked-in low end and continuity help unify the band’s early hit years with its modern era.",
+          "Bio": {
+            "BioID": "bio-three-days-grace-brad-walst",
+            "ArtistID": "three-days-grace",
+            "ArtistName": "Three Days Grace",
+            "MemberName": "Brad Walst",
+            "FullName": "Brad Walst",
+            "Nationality": "Canadian",
+            "Occupations": [
+              "Musician"
+            ],
+            "PrimaryInstruments": [
+              "Bass guitar"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Post-grunge",
+              "Alternative metal",
+              "Alternative rock"
+            ],
+            "Birth": {
+              "Date": "February 17, 1977",
+              "Place": "Norwood, Ontario, Canada"
+            },
+            "Roles": "Bassist • Founding member",
+            "Instruments": "Bass guitar",
+            "FullText": "Brad Walst (born February 17, 1977, in Norwood, Ontario) is the founding bassist of Three Days Grace and a central anchor of the band’s sound. His playing is less about ornament and more about weight—clean, supportive low end that makes the guitars feel bigger and the choruses land heavier.\n\nWalst came up in the same small‑town Ontario environment as his bandmates, building his musical identity in local projects that preceded the Three Days Grace name. Those early years forged a practical approach: write songs that work live, keep the groove locked, and make every section hit with purpose.\n\nWhen Three Days Grace formed in 1997, Walst’s role quickly became the “glue” between the riffs and the drums. The band’s signature attack—percussive guitars over a driving rhythm—depends on the bass sitting right in the pocket, reinforcing the kick pattern while still carving out its own shape.\n\nOn the self‑titled debut and the early hit run, Walst helped define the band’s tight, radio‑ready sound: bass lines that are muscular but uncluttered, designed to keep tension in the verses and release in the choruses. That approach supports the band’s lyrical style, where the chorus often functions like a statement of identity or emotion.\n\nThrough *One‑X* and *Life Starts Now*, Walst’s bass and Sanderson’s drums form a rhythm section built for huge hooks—steady tempos, big downbeats, and transitions that feel inevitable. Even when guitars dominate the mix, the low end is what makes the songs feel like they’re moving with unstoppable force.\n\nBeyond performance, Walst is closely associated with the band’s continuity and long-term direction. As the group evolved through lineup changes and new production aesthetics, the bass foundation remained one of the elements that kept their sound recognizable across decades.\n\nWalst is also connected to the band’s later era through family ties: his younger brother Matt Walst became the group’s lead vocalist in the mid‑2010s, a change that kept the band active and chart‑relevant after Adam Gontier’s 2013 exit. That transition preserved the Three Days Grace identity while allowing a new vocal tone and phrasing to shape the next chapter.\n\nIn the band’s dual‑frontman era of the mid‑2020s, Walst’s role stays constant—hold the center, make the riffs hit, and let the vocals and hooks ride on a solid foundation. His playing makes the band feel “grounded,” which is crucial when arrangements evolve or multiple voices share the front line.\n\nAs a bassist in a guitar‑forward genre, Walst’s craft is in restraint. The lines are meant to be felt as much as heard: a steady push in the verse, extra weight in the chorus, and tight articulation that keeps heavy music from turning muddy.\n\nWalst’s legacy is durability. Across three decades of work—from the pre‑band days through multiple vocal eras—he has been one of the constants that allow Three Days Grace to sound like Three Days Grace, no matter what’s happening above the rhythm section.",
+            "HonoursAndMilestones": [
+              "Founding member of the band’s Groundswell/Three Days Grace lineage.",
+              "Part of the core rhythm section behind the band’s long-running mainstream-rock chart presence."
+            ],
+            "FunFacts": [
+              "The band’s modern lead vocalist Matt Walst is his younger brother."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Brad Walst — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Brad_Walst"
+              },
+              {
+                "Title": "Three Days Grace — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/three-days-grace-mn0000490860"
+              },
+              {
+                "Title": "Three Days Grace — Band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Three_Days_Grace"
+              },
+              {
+                "Title": "Music / releases (Alienation, Explosions, etc.)",
+                "Publisher": "Three Days Grace",
+                "Url": "https://threedaysgrace.com/music/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Barry Stock",
+          "YearsActive": "2003–present (Three Days Grace)",
+          "Roles": "Lead guitar • Riffs/lead parts",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Three Days Grace",
+            "One‑X",
+            "Life Starts Now",
+            "Transit of Venus",
+            "Human",
+            "Outsider",
+            "Explosions",
+            "Alienation"
+          ],
+          "Overview": "Lead guitarist who helped define the band’s riff language and sustained its heavy, hook‑forward sound through multiple eras.",
+          "Bio": {
+            "BioID": "bio-three-days-grace-barry-stock",
+            "ArtistID": "three-days-grace",
+            "ArtistName": "Three Days Grace",
+            "MemberName": "Barry Stock",
+            "FullName": "Barry James Stock",
+            "Nationality": "Canadian",
+            "Occupations": [
+              "Musician",
+              "Guitarist"
+            ],
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Post-grunge",
+              "Alternative metal"
+            ],
+            "Birth": {
+              "Date": "April 24, 1974",
+              "Place": "Belgium (raised in Norwood, Ontario, Canada)"
+            },
+            "Roles": "Lead guitarist",
+            "Instruments": "Guitar",
+            "FullText": "Barry James Stock (born April 24, 1974, in Belgium; raised in Ontario) is the lead guitarist of Three Days Grace and a defining contributor to the band’s riff-first identity. Joining around the band’s major-label breakthrough period, he helped translate their early songwriting into the sharp, heavy guitar language that became a staple of 2000s mainstream rock.\n\nStock’s background is rooted in classic hard rock and metal guitar traditions—riff craft, tight rhythm work, and lead lines that serve the song’s hook rather than competing with it. That foundation fits Three Days Grace perfectly, a band built on percussive guitar parts and choruses that need a clear harmonic runway.\n\nWithin the group, Stock’s job is often to turn emotion into mechanics: a riff that feels like pressure, a palm‑muted pattern that sounds like restraint, or a chorus chord change that lands like release. His playing tends to be precise and punchy, emphasizing attack and articulation so the band’s sound stays focused even at high gain.\n\nOn the debut-era material, Stock’s guitar approach supports the band’s early hit formula—tight verse tension and a chorus that explodes without losing clarity. In songs like “Just Like You,” the guitar work is as much rhythmic as melodic, locking with the drums to make the entire band feel like one moving machine.\n\nAs the catalog progressed through *One‑X*, *Life Starts Now*, and beyond, Stock’s role expanded into helping define tonal identity: modern hard-rock production, thick layers, and lead parts that add color without diluting heaviness. In a band where the chorus is king, his lines are built to deliver impact right when the hook arrives.\n\nStock is also part of why the band’s music remains playable across different vocal eras. Whether supporting Adam Gontier’s rasped intensity or Matt Walst’s modern hard‑rock delivery, the guitar language stays consistent—big riffs, strong chord motion, and leads that underline the melody’s emotional punch.\n\nThe band’s late‑2010s run includes major chart moments tied to guitar-driven singles, including “Infra‑Red,” which carried a heavy riff backbone while marking a milestone on rock charts. That era demonstrates Stock’s central strength: delivering contemporary heaviness without losing the simple, memorable shapes that rock radio rewards.\n\nLive, Stock’s contribution is about control—tight rhythm precision, consistent tone, and leads that amplify the chorus rather than pulling focus away from it. In modern arena rock, the guitar has to be both loud and disciplined, and his playing is designed for that balance.\n\nStock’s musical identity within Three Days Grace is the riff as emotional device. He doesn’t just decorate songs; he builds their architecture, creating patterns that support the vocal line and make the hook feel inevitable.\n\nIn the band’s ongoing evolution, Stock remains one of the key threads tying the catalog together. When listeners recognize Three Days Grace within seconds—before the vocal even enters—it’s often because of the guitar voice Stock helped establish and sustain.",
+            "HonoursAndMilestones": [
+              "Joined the band around its breakthrough period and remained lead guitarist through its 2000s–2020s catalog.",
+              "Part of the lineup during chart milestones such as the record-setting Mainstream Rock No. 1 run highlighted by “Infra‑Red” (2018)."
+            ],
+            "FunFacts": [
+              "Raised in Ontario despite being born in Belgium."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Barry Stock — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Barry_Stock"
+              },
+              {
+                "Title": "Three Days Grace — Artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/three-days-grace-mn0000490860"
+              },
+              {
+                "Title": "Three Days Grace — Band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Three_Days_Grace"
+              },
+              {
+                "Title": "‘Infra-Red’ sets Mainstream Rock No. 1 record (press release)",
+                "Publisher": "Sony Music Canada",
+                "Url": "https://www.sonymusic.ca/press_release/three-days-grace-breaks-record-for-most-1-u-s-billboard-mainstream-rock-songs-ever-with-infra-red-their-14th-1-single"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Phil Crowe",
+          "YearsActive": "1992–2003",
+          "Roles": "Guitar (early era)",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Wave of Popular Feeling (Groundswell era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Barry Stock",
+          "Overview": "Early guitarist from the Groundswell years and the band’s pre‑major‑label period; departed before the breakthrough lineup solidified."
+        },
+        {
+          "Name": "Joe Grant",
+          "YearsActive": "1992–1995",
+          "Roles": "Guitar (Groundswell era)",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Wave of Popular Feeling (Groundswell era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Original Groundswell guitarist during the early 1990s, part of the group’s formative hometown phase."
+        }
+      ]
     },
     {
       "ArtistID": "three-dog-night",
