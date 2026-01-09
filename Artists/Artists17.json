@@ -2621,27 +2621,441 @@
     {
       "ArtistID": "survivor",
       "Name": "Survivor",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Chicago",
+        "Region": "Illinois",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1978–1988",
+        "1993–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Arena rock",
+        "Hard rock",
+        "AOR"
+      ],
+      "Labels": [
+        "Scotti Brothers",
+        "PolyGram",
+        "Frontiers"
+      ],
+      "Overview": "Survivor are a Chicago, Illinois rock band formed in 1978 by guitarist Frankie Sullivan and singer/songwriter/multi‑instrumentalist Jim Peterik. They emerged from the city’s late‑’70s club circuit with a streamlined, radio‑ready blend of hard rock riffs, arena‑sized choruses, and melodic AOR polish. Early albums established the group’s punchy guitar-and-keyboards sound and set the stage for a quick leap from regional act to national presence.\n\nThat leap arrived in 1982 when “Eye of the Tiger” was created for Rocky III, becoming the defining anthem of their career and one of the era’s most recognizable rock singles. The song’s success pushed the band into the mainstream and turned Survivor into a staple of early‑’80s rock radio. They followed it with a run of high‑visibility singles and albums, balancing fist‑pumping rockers with power ballads that crossed over to pop and adult contemporary audiences.\n\nLineup changes were frequent, but Survivor’s songwriting identity—hook‑first choruses, tight arrangements, and cinematic, motivational themes—remained consistent through their peak years. The band scored additional major hits in the mid‑’80s, including songs tied to big‑screen soundtracks, and their catalog has endured through compilations, reissues, and touring lineups that kept the name in circulation long after the original chart run.",
+      "NotableAlbums": [
+        {
+          "Title": "Eye of the Tiger",
+          "Year": 1982,
+          "Notes": "Breakthrough album anchored by the Rocky III theme; a defining early-’80s arena‑rock statement."
+        },
+        {
+          "Title": "Vital Signs",
+          "Year": 1984,
+          "Notes": "A major mid‑’80s release that broadened the band’s pop/AOR reach and produced multiple radio staples."
+        },
+        {
+          "Title": "Premonition",
+          "Year": 1981,
+          "Notes": "Key pre‑breakthrough album featuring the hard‑rock momentum that drew attention ahead of Rocky III."
+        },
+        {
+          "Title": "When Seconds Count",
+          "Year": 1986,
+          "Notes": "Late‑’80s peak-era set balancing glossy rock singles and ballad‑driven crossover appeal."
+        },
+        {
+          "Title": "Caught in the Game",
+          "Year": 1983,
+          "Notes": "Follow‑up to the breakout era that kept the band in heavy rotation while the lineup began shifting."
+        }
+      ],
+      "SignatureSongs": [
+        "Eye of the Tiger",
+        "Burning Heart",
+        "The Search Is Over",
+        "High on You",
+        "I Can't Hold Back",
+        "Is This Love",
+        "The Moment of Truth",
+        "Poor Man's Son",
+        "Ever Since the World Began"
+      ],
+      "Achievements": [
+        {
+          "Year": 1983,
+          "Title": "GRAMMY win",
+          "Details": "Won Best Rock Performance by a Duo or Group with Vocal for “Eye of the Tiger.”"
+        },
+        {
+          "Year": 1983,
+          "Title": "Academy Award nomination",
+          "Details": "“Eye of the Tiger” nominated for Best Original Song at the 55th Academy Awards (Rocky III)."
+        },
+        {
+          "Year": 1982,
+          "Title": "No. 1 single",
+          "Details": "“Eye of the Tiger” reached No. 1 on the Billboard Hot 100 and became an era‑defining anthem."
+        },
+        {
+          "Year": 1985,
+          "Title": "Soundtrack crossover",
+          "Details": "“Burning Heart” (Rocky IV) became a major hit and reinforced the band’s film‑anthem identity."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Chicago in 1978 by Jim Peterik and Frankie Sullivan.",
+        "Best known for “Eye of the Tiger,” written for Rocky III and widely regarded as a signature arena‑rock anthem.",
+        "Scored multiple U.S. top‑ten hits in the 1980s across rock and pop‑leaning radio formats.",
+        "Catalog remains a classic‑rock staple through compilations, reissues, and touring‑circuit visibility."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site (SurvivorMusic.com)": "https://www.survivormusic.com/",
+        "Official Site (SurvivorBand.com)": "http://survivorband.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Survivor_(band)",
+        "AllMusic": "https://www.allmusic.com/artist/survivor-mn0000039637",
+        "YouTube (Official)": "https://www.youtube.com/channel/UCXM7w2wcZhqx_QIALeN8Ajg",
+        "Spotify": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg",
+        "Facebook": "https://www.facebook.com/survivortheband/",
+        "Instagram": "https://www.instagram.com/survivorband/"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Frankie Sullivan",
+          "YearsActive": "1978–1988; 1993–present",
+          "Roles": [
+            "Co-founder",
+            "Guitarist",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Eye of the Tiger (1982)",
+            "Vital Signs (1984)",
+            "When Seconds Count (1986)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1955-02-01",
+              "Place": "Chicago, Illinois, U.S."
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Guitarist",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "Overview": "Survivor co‑founder and guitarist; co‑wrote “Eye of the Tiger” and remained the band’s long‑term anchor.",
+            "FullText": "Frankie Sullivan (born February 1, 1955, in Chicago, Illinois) is the guitarist who co‑founded Survivor and, for decades, served as the band’s most constant on‑stage presence. From Survivor’s earliest club years, his role centered on building a sound that could hit hard in arenas while still reading clearly on radio—tight power‑chord riffs, bright lead lines, and disciplined, hook‑driven arrangements.\n\nBefore the band became a household name, Sullivan helped guide Survivor through the transition from a working Chicago act into a national recording group. Those first albums laid down the template: a balance of crunchy guitars and melodic keyboards, anchored by concise songwriting that favored memorable chorus payoffs over extended jams.\n\nSurvivor’s breakthrough moment came when Sylvester Stallone asked the band to deliver a theme for Rocky III. Sullivan, working with Jim Peterik, co‑wrote “Eye of the Tiger,” pairing a riff built for cinematic impact with a vocal line designed to feel like forward motion. The result wasn’t just a hit; it became a cultural shorthand for competition and self‑motivation, and it turned Survivor into an essential part of early‑’80s rock radio.\n\nThe song’s accolades—most notably a GRAMMY win for Best Rock Performance by a Duo or Group with Vocal and major awards‑season recognition—cemented Sullivan’s reputation as a writer who could translate a narrative brief into a universal anthem. In practical terms, it also established Survivor’s identity: big, cleanly recorded arena rock with a pop sensibility and a chorus you could sing back after one listen.\n\nAcross the band’s peak period, Sullivan remained a key architect of the guitar sound that carried Survivor’s records. Whether the track called for sprint‑tempo urgency (“Eye of the Tiger”) or mid‑tempo, keyboard‑supported rock (“High on You”), his playing was built around clarity and momentum—parts that served the song first, and the spotlight second.\n\nSurvivor’s history is inseparable from lineup changes, especially at lead vocal, but Sullivan’s function as band anchor kept the catalog coherent. When singers shifted—from Dave Bickler’s early tone to Jimi Jamison’s smoother, pop‑rock reach—the guitar approach continued to frame the songs with a recognizable Survivor signature.\n\nIn addition to performing, Sullivan’s work has been tied to the practical realities of keeping a veteran touring brand alive: rehearsing new lineups, maintaining a show that honors the classic hits, and preserving the musical details that fans expect to hear—right down to the riffs that became part of pop culture.\n\nHe has also been publicly associated with the continuing life of the Survivor name into later decades, when classic‑rock touring circuits and festivals gave the band a new context. In that setting, Survivor’s songs became less about chart cycles and more about legacy: material designed to connect in a single chorus, in any decade.\n\nSullivan’s career is ultimately a case study in how a guitarist can define a band without relying on flash. His parts are memorable because they are functional: riffs that tell you where the song is headed, and leads that land exactly where the chorus needs extra lift.\n\nFor listeners, the through‑line is simple: if “Eye of the Tiger” is the anthem, Sullivan is one of the builders of its engine—co‑writing the song, shaping the sound, and standing at the center of Survivor’s identity from the start.",
+            "Sources": [
+              {
+                "Title": "Frankie Sullivan",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Frankie_Sullivan"
+              },
+              {
+                "Title": "Survivor (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Survivor_(band)"
+              },
+              {
+                "Title": "Survivor — GRAMMY Awards & Nominations",
+                "Publisher": "GRAMMY.com",
+                "Url": "https://grammy.com/artists/survivor/8178"
+              },
+              {
+                "Title": "The 55th Academy Awards (1983) — Music (Original Song) nominees",
+                "Publisher": "Oscars.org",
+                "Url": "https://www.oscars.org/oscars/ceremonies/1983"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jim Peterik",
+          "YearsActive": "1978–1983",
+          "Roles": [
+            "Co-founder",
+            "Singer",
+            "Songwriter",
+            "Guitarist/Keyboardist"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Survivor (1979)",
+            "Premonition (1981)",
+            "Eye of the Tiger (1982)",
+            "Caught in the Game (1983)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1950-11-11",
+              "Place": "Berwyn, Illinois, U.S."
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Singer",
+              "Songwriter",
+              "Guitarist",
+              "Keyboardist"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Overview": "Survivor co‑founder and principal songwriter; co‑wrote “Eye of the Tiger” and built a wider career as a major rock songwriter.",
+            "FullText": "Jim Peterik (born November 11, 1950, in Berwyn, Illinois) is a singer, guitarist/keyboardist, and songwriter whose career bridges Chicago rock, mainstream arena hits, and decades of behind‑the‑scenes writing. Before Survivor existed, Peterik was already known as a founding member of the Ides of March, a group that scored a major hit with “Vehicle,” and he built a reputation as a writer who could fuse rock energy with pop‑structured hooks.\n\nThat songwriting identity became central to Survivor when he and Frankie Sullivan formed the band in 1978. Peterik’s contribution wasn’t limited to a single instrument; he functioned as a musical organizer—shaping chord progressions, vocal melodies, and lyric concepts in a way that made the songs feel cinematic without becoming cluttered.\n\nThe peak example is “Eye of the Tiger,” co‑written by Peterik and Sullivan for Rocky III. Peterik’s writing approach on the track is almost architectural: a lyric that speaks in direct, motivational images and a melody that sits comfortably over a riff designed to feel like motion. The song’s success turned Survivor into an arena‑level act and cemented Peterik as a writer capable of delivering a definitive cultural moment.\n\nPeterik’s influence extended across Survivor’s key ’80s releases, where the band alternated between hard‑charging rock singles and radio ballads that broadened their audience. Even as lineup changes shifted the band’s vocal color, the writing framework—tight verses, chorus lift, and a clear emotional target—remained consistent, and that consistency is a hallmark of Peterik’s craft.\n\nOutside Survivor, Peterik became one of the era’s most reliable rock songwriters, contributing to major recordings for other artists and collaborating widely. That work reinforced the same traits heard in Survivor: clean narrative ideas, memorable titles, and choruses engineered to stick in the mind without sacrificing rock credibility.\n\nAs the classic‑rock era evolved into a touring‑driven ecosystem, Peterik’s role also reflected a broader truth about band legacies: songs outlive radio cycles. Material he wrote in the early ’80s continued to power festivals, soundtracks, and compilation culture decades later, making his catalog a kind of durable infrastructure for the genre.\n\nPeterik has also maintained a career as a performer and frontman outside the Survivor banner, demonstrating that his identity is not solely “the guy behind the hit.” Whether on stage with his own projects or in collaborative settings, he has continued to present the songwriting process as a living craft rather than a closed chapter.\n\nA notable dimension of Peterik’s work is how he balances specificity and universality. “Eye of the Tiger” was written for a movie character, but it reads as a personal mantra; similarly, many of his rock songs place the listener inside a clear emotional scenario while leaving enough space for people to project their own stakes onto the chorus.\n\nFor Survivor fans, Peterik’s fingerprint is in the band’s best traits: disciplined arrangements, a sense of forward drive, and lyrics that aim for big feelings without becoming vague. That combination is why Survivor’s hit period feels cohesive even though personnel changed repeatedly.\n\nPeterik’s long career ultimately illustrates the rare songwriter‑performer who can operate both as a band member and as a broader creative engine. Survivor provided the most visible stage, but the underlying skill—building songs that feel inevitable the first time you hear them—is what has kept his work in rotation.",
+            "Sources": [
+              {
+                "Title": "Jim Peterik",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jim_Peterik"
+              },
+              {
+                "Title": "The Ides of March",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Ides_of_March"
+              },
+              {
+                "Title": "Survivor (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Survivor_(band)"
+              },
+              {
+                "Title": "Eye of the Tiger",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Dave Bickler",
+          "YearsActive": "1978–1983; 1993–1999",
+          "Roles": [
+            "Lead vocalist"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Keyboards"
+          ],
+          "Albums": [
+            "Survivor (1979)",
+            "Premonition (1981)",
+            "Eye of the Tiger (1982)",
+            "Caught in the Game (1983)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1953-03-31",
+              "Place": "North Dakota, U.S."
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Singer"
+            ],
+            "Instruments": [
+              "Vocals"
+            ],
+            "Overview": "Original Survivor lead singer; voiced the “Eye of the Tiger” era and later became known for high‑profile commercial vocal work.",
+            "FullText": "Dave Bickler (born March 31, 1953, in North Dakota) is the singer whose voice defined Survivor’s early identity and fronted the band during its initial rise. After relocating through the Midwest, he emerged from the Chicago‑area music scene with a style built for radio: high, clear lead vocals with enough grit to ride hard‑rock guitars without losing melodic definition.\n\nBickler joined the founding core of Survivor in 1978 and became the sound of the band’s first album era. Those early records established Survivor’s AOR blueprint—guitar‑driven songs supported by keyboards and stacked harmonies—while Bickler’s vocal tone provided a distinct signature that separated the group from both heavier metal acts and softer pop‑rock peers.\n\nHis most famous performance is on “Eye of the Tiger,” the Rocky III theme co‑written by Frankie Sullivan and Jim Peterik. Bickler’s delivery is a big part of why the track lands as an anthem: it’s urgent without rushing, and confident without sounding detached. The vocal line locks into the riff like a drum part, reinforcing the song’s sense of momentum.\n\nThe success of “Eye of the Tiger” was career‑changing for Survivor and permanently linked Bickler’s voice to one of the most recognizable rock choruses ever recorded. Even listeners who can’t name the band immediately tend to recognize the vocal cadence the moment the chorus hits—an example of how performance can become part of cultural memory.\n\nBickler’s initial run with Survivor covered the band’s first four studio albums. That period captured the transition from developing act to world‑famous hitmakers, and it also shows the evolution of Survivor’s production style: from leaner late‑’70s rock toward the bigger, brighter, early‑’80s arena sound that dominated radio and MTV.\n\nHe left the band in the early 1980s after vocal issues, and the change in lead singer became one of Survivor’s defining narrative turns. The later era with Jimi Jamison brought different vocal colors and additional hits, but Bickler’s recordings remained foundational—especially for the band’s origin story and for the signature single that still anchors their set lists and compilations.\n\nOutside the band’s classic run, Bickler’s career includes a parallel track in commercial vocal work. He became widely recognized for singing in advertising campaigns, most famously Bud Light’s “Real Men of Genius,” a series that turned a rock vocalist’s theatrical delivery into pop‑culture shorthand for radio‑ready humor and grandeur.\n\nWhen Survivor activity revived in later years, Bickler periodically re‑entered the orbit of the band’s legacy, reflecting how classic‑rock audiences often identify eras through voices. In a genre where a chorus is the calling card, a returning singer isn’t just a personnel change—it’s a restoration of a familiar sound.\n\nAs a performer, Bickler’s strengths are precision and projection: the ability to hit demanding melodic lines cleanly while keeping the rhythmic drive that arena rock requires. That combination made him a natural fit for a band whose songs depend on choruses that feel both sing‑along and larger than life.\n\nBickler’s place in Survivor history is therefore both specific and enduring. He is the original front voice of the band’s breakout, the singer on the defining anthem, and a reminder that in pop‑leaning rock, a great performance can be as iconic as the riff itself.",
+            "Sources": [
+              {
+                "Title": "Dave Bickler",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Dave_Bickler"
+              },
+              {
+                "Title": "Survivor (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Survivor_(band)"
+              },
+              {
+                "Title": "Eye of the Tiger",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger"
+              },
+              {
+                "Title": "Official website (DaveBickler.com)",
+                "Publisher": "DaveBickler.com",
+                "Url": "http://www.davebickler.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jimi Jamison",
+          "YearsActive": "1984–1988",
+          "Roles": [
+            "Lead vocalist"
+          ],
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Vital Signs (1984)",
+            "When Seconds Count (1986)",
+            "Too Hot to Sleep (1988)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1951-08-23",
+              "Place": "Durant, Mississippi, U.S."
+            },
+            "Death": {
+              "Date": "2014-08-31",
+              "Place": "Memphis, Tennessee, U.S."
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Vocals"
+            ],
+            "Overview": "Survivor’s mid‑’80s lead singer whose smoother arena‑pop delivery powered several of the band’s biggest post‑1982 hits.",
+            "FullText": "Jimi Jamison (born August 23, 1951, in Durant, Mississippi; died August 31, 2014, in Memphis, Tennessee) was an American singer best known to mainstream audiences as Survivor’s lead vocalist during much of the band’s mid‑’80s hit period. His voice brought a different kind of power to the group: smoother, more pop‑leaning, and built for both rock radio and adult‑contemporary crossover.\n\nBefore joining Survivor, Jamison had already built a résumé as a frontman in regional and national rock projects, including bands like Cobra and Target. Those experiences sharpened the skills that later made him an ideal fit for a hit‑driven arena‑rock act: commanding stage presence, reliable high‑range delivery, and the ability to sell a chorus as a statement rather than just a melody.\n\nJamison entered Survivor in 1984, stepping into a lineup shaped by “Eye of the Tiger” and enormous public expectations. Instead of trying to imitate the earlier vocal stamp, he helped shift the band into a mid‑’80s sound that leaned into glossy production and broader pop appeal while keeping the essential Survivor ingredients—big hooks, tight arrangements, and a sense of uplift.\n\nHis era produced some of Survivor’s best‑known singles beyond the Rocky III anthem, including “High on You,” “The Search Is Over,” and “Is This Love.” Jamison’s performance style made these tracks feel expansive and emotionally direct, helping the band compete on multiple radio formats at once.\n\nJamison also became the voice on major soundtrack moments that extended Survivor’s cultural reach. “Burning Heart,” tied to Rocky IV, carried forward the cinematic, motivational identity that the band had established earlier, and it demonstrated how the Survivor brand could translate into film narratives as well as standard album cycles.\n\nLive, Jamison was valued for his consistency. Survivor’s catalog demands a singer who can carry both punchy rockers and soaring ballads in the same set, and Jamison’s range and control allowed the band to present that variety without sounding like two different acts.\n\nAfter Survivor’s late‑’80s hiatus, Jamison continued working as a vocalist and recording artist, maintaining a career that relied on the same strengths: a recognizable tone, strong melodic instincts, and the ability to elevate a chorus. His continued activity also reflects how classic‑rock singers often build long second lives in touring and niche markets after mainstream chart eras end.\n\nJamison remained closely associated with Survivor in the public imagination because so many of the band’s mid‑’80s hits feature his voice. For many listeners, that sound is the “Survivor voice” of the decade—an example of how a lineup change can become an era‑defining identity rather than a footnote.\n\nHis death in 2014 prompted renewed attention to his work, and tributes emphasized what fans had long recognized: Jamison was a singer whose power was less about aggression and more about clarity, emotion, and lift. He could make a line sound urgent without forcing it, which is exactly what arena‑rock choruses demand.\n\nJamison’s legacy within Survivor is therefore not simply “replacement singer,” but co‑author of the band’s second peak: the vocalist who helped expand their audience and whose performances remain central to the catalog that keeps Survivor’s music in circulation.",
+            "Sources": [
+              {
+                "Title": "Jimi Jamison",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jimi_Jamison"
+              },
+              {
+                "Title": "Survivor (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Survivor_(band)"
+              },
+              {
+                "Title": "Survivor — Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/survivor-mn0000039637/biography"
+              },
+              {
+                "Title": "Jimi Jamison Obituary",
+                "Publisher": "Culpepper Funeral Home",
+                "Url": "https://www.culpepperfuneralhome.com/obituaries/Jimi-Jamison?obId=11528175"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Marc Droubay",
+          "YearsActive": "1979–1988; 1993–present",
+          "Roles": [
+            "Drummer"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Eye of the Tiger (1982)",
+            "Vital Signs (1984)",
+            "When Seconds Count (1986)"
+          ],
+          "Overview": "Long‑running Survivor drummer who helped define the band’s arena‑rock pulse during the hit era and remained associated with later touring lineups."
+        },
+        {
+          "Name": "Stephan Ellis",
+          "YearsActive": "1981–1983; 1987–1988; 1993–1996",
+          "Roles": [
+            "Bassist"
+          ],
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "Eye of the Tiger (1982)",
+            "Caught in the Game (1983)",
+            "Too Hot to Sleep (1988)"
+          ],
+          "Overview": "Bass player during key ’80s periods, including the blockbuster Eye of the Tiger era, contributing to the band’s tight, punchy rhythm‑section feel."
+        },
+        {
+          "Name": "Gary Smith",
+          "YearsActive": "1978–1980; 1984–1988",
+          "Roles": [
+            "Bassist"
+          ],
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "Survivor (1979)",
+            "Vital Signs (1984)",
+            "When Seconds Count (1986)"
+          ],
+          "Overview": "Early and later‑era Survivor bassist whose tenure spans both the formative years and the mid‑’80s chart period."
+        },
+        {
+          "Name": "Kyle Woodring",
+          "YearsActive": "1987–1988; 2001–2011",
+          "Roles": [
+            "Drummer"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Too Hot to Sleep (1988)",
+            "Reach (2006)"
+          ],
+          "Overview": "Drummer in late‑’80s and 2000s lineups, appearing in the band’s later studio work and touring activity."
+        },
+        {
+          "Name": "Randy Riley",
+          "YearsActive": "1987–1988; 2006–2010",
+          "Roles": [
+            "Guitarist"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Too Hot to Sleep (1988)",
+            "Reach (2006)"
+          ],
+          "Overview": "Guitarist associated with the band’s late‑’80s period and later revival era, helping carry the signature dual‑guitar arena sound on stage."
+        },
+        {
+          "Name": "Robin McAuley",
+          "YearsActive": "1986–1987",
+          "Roles": [
+            "Lead vocalist"
+          ],
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "When Seconds Count (1986)"
+          ],
+          "Overview": "Briefly fronted Survivor during a transitional moment in the late ’80s as the band navigated vocal changes after its mid‑decade peak."
+        },
+        {
+          "Name": "Cameron Barton",
+          "YearsActive": "2015–present",
+          "Roles": [
+            "Lead vocalist"
+          ],
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [],
+          "Overview": "Joined as lead vocalist in the mid‑2010s, representing a newer chapter for Survivor’s touring identity while keeping the classic hits in rotation."
+        }
+      ]
     }
   ]
 }
