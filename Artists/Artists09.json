@@ -3,27 +3,285 @@
     {
       "ArtistID": "hootie-and-the-blowfish",
       "Name": "Hootie & the Blowfish",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Columbia",
+        "Region": "South Carolina",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1986–2009",
+        "2015",
+        "2018–present"
+      ],
+      "Genres": [
+        "Pop rock",
+        "Alternative rock",
+        "Soft rock",
+        "Roots rock",
+        "Heartland rock",
+        "Jangle pop"
+      ],
+      "Labels": [
+        "Atlantic",
+        "Sneaky Long",
+        "Vanguard",
+        "UMG Nashville"
+      ],
+      "Overview": "Formed in Columbia, South Carolina in 1986, Hootie & the Blowfish became one of the defining American pop‑rock bands of the 1990s by pairing jangly guitars and warm, rootsy grooves with Darius Rucker’s unmistakable baritone and a singer‑songwriter approach shaped by college‑town club circuits. After years of local momentum and relentless touring, the group’s major‑label debut *Cracked Rear View* (1994) exploded into a cultural mainstay—a rare album whose radio hits (“Hold My Hand,” “Let Her Cry,” “Only Wanna Be with You”) also reflected the band’s everyday-story lyricism and communal, band‑in‑a‑room feel.\n\nThe success brought both accolades and inevitable backlash, but the quartet continued to evolve through mid‑ and late‑’90s albums like *Fairweather Johnson* (1996) and *Musical Chairs* (1998), leaning into a more seasoned, road‑tested sound while remaining anchored by melody and a relaxed Southern-American sensibility. After a long period of reduced activity and side pursuits—most visibly Rucker’s successful solo career—the band reunited for major touring and returned with *Imperfect Circle* (2019), reconnecting their classic songwriting chemistry with an older, reflective perspective.\n\nAcross eras, Hootie & the Blowfish’s signature is durability: songs built for sing‑alongs rather than flash, a democratic writing partnership among the core four, and a catalog that still bridges rock, pop, and country‑adjacent audiences. Their debut remains a sales and airplay landmark, and the band’s live reputation—for straightforward musicianship and crowd-first energy—has kept their name circulating well beyond the peak MTV/radio years.",
+      "NotableAlbums": [
+        {
+          "Year": 1994,
+          "Title": "Cracked Rear View",
+          "Details": "Blockbuster debut featuring “Hold My Hand,” “Let Her Cry,” and “Only Wanna Be with You”; later earned RIAA Double‑Diamond status and remains one of the best‑selling U.S. albums."
+        },
+        {
+          "Year": 1996,
+          "Title": "Fairweather Johnson",
+          "Details": "Follow‑up that extended the band’s radio presence, led by “Old Man & Me (When I Get to Heaven)” and continued heavy touring through the mid‑’90s."
+        },
+        {
+          "Year": 1998,
+          "Title": "Musical Chairs",
+          "Details": "A more mature, roots-leaning set highlighted by “Only Lonely” and “I Will Wait,” reflecting the band’s steady craftsmanship beyond the debut boom."
+        },
+        {
+          "Year": 2003,
+          "Title": "Hootie & the Blowfish",
+          "Details": "Self‑titled release that kept the core sound intact while the group navigated a changing rock-radio landscape in the early 2000s."
+        },
+        {
+          "Year": 2005,
+          "Title": "Looking for Lucky",
+          "Details": "Released via the band’s Sneaky Long imprint (distributed by Vanguard), signaling a shift away from the major‑label machinery of their ’90s peak."
+        },
+        {
+          "Year": 2019,
+          "Title": "Imperfect Circle",
+          "Details": "First studio album in many years, released alongside reunion touring; revisits their melodic strengths with a reflective, veteran-band tone."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1994,
+          "Title": "Hold My Hand",
+          "Details": "Breakthrough single that introduced the band’s sunny, sing‑along pop‑rock style to a national audience."
+        },
+        {
+          "Year": 1994,
+          "Title": "Let Her Cry",
+          "Details": "Ballad centerpiece of the debut era; won the Grammy for Best Pop Performance by a Duo or Group with Vocals."
+        },
+        {
+          "Year": 1995,
+          "Title": "Only Wanna Be with You",
+          "Details": "Signature mid‑tempo anthem that became one of the band’s best‑known singles and a defining ’90s radio staple."
+        },
+        {
+          "Year": 1995,
+          "Title": "Time",
+          "Details": "A major single from the *Cracked Rear View* run, balancing gentle groove with bittersweet reflection."
+        },
+        {
+          "Year": 1996,
+          "Title": "Old Man & Me (When I Get to Heaven)",
+          "Details": "Lead hit from *Fairweather Johnson* that kept the band firmly on pop‑rock radio."
+        },
+        {
+          "Year": 1996,
+          "Title": "I Go Blind",
+          "Details": "Fan-favorite cover that became a substantial radio presence and later appeared on compilations."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1996,
+          "Title": "Two Grammy Awards",
+          "Details": "Won Best New Artist and Best Pop Performance by a Duo or Group with Vocals (for “Let Her Cry”)."
+        },
+        {
+          "Year": 1994,
+          "Title": "One of the era’s biggest debuts",
+          "Details": "*Cracked Rear View* became a long‑running sales phenomenon and a defining pop‑rock album of the decade."
+        },
+        {
+          "Year": 2019,
+          "Title": "Reunion-era return",
+          "Details": "Returned with a major tour cycle and the studio album *Imperfect Circle*, reactivating the band’s classic lineup and audience."
+        }
+      ],
+      "KeyFacts": [
+        "Formed at/around the University of South Carolina scene and broke nationally after years of club work and touring.",
+        "Core lineup has remained the quartet of Darius Rucker, Mark Bryan, Dean Felber, and Jim “Soni” Sonefeld for the band’s main career arc.",
+        "The band’s name was inspired by college nicknames rather than a literal meaning, even as fans often associated “Hootie” with Rucker."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.hootie.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Hootie_%26_the_Blowfish",
+        "Discography": "https://en.wikipedia.org/wiki/Hootie_%26_the_Blowfish_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Darius Rucker",
+          "YearsActive": "1986–present",
+          "Roles": "Lead vocals, rhythm guitar, songwriter",
+          "Instruments": "Vocals; guitar",
+          "Albums": "Cracked Rear View; Fairweather Johnson; Musical Chairs; Hootie & the Blowfish; Looking for Lucky; Imperfect Circle",
+          "Bio": {
+            "Birth": {
+              "Date": "1966-05-13",
+              "Place": "Charleston, South Carolina, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Singer, songwriter, musician; frontman of Hootie & the Blowfish; later solo artist",
+            "Instruments": "Vocals; guitar",
+            "FullText": "Darius Carlos Rucker (born May 13, 1966) emerged from Charleston, South Carolina with a deep, instantly recognizable voice that would become one of the signature sounds of 1990s American pop‑rock.\n\nWhile attending the University of South Carolina, Rucker connected with fellow students who shared a love of melodic rock and classic songwriting. The group that formed around those friendships evolved into Hootie & the Blowfish, with Rucker as lead vocalist and a key co‑writer.\n\nIn the years before national success, Rucker helped shape the band’s early identity in local venues and regional touring, focusing on crowd‑friendly arrangements and songs built around clear hooks and everyday, conversational storytelling.\n\nThe breakthrough arrived with *Cracked Rear View* (1994). As the band’s primary voice, Rucker carried radio staples like “Hold My Hand,” “Let Her Cry,” and “Only Wanna Be with You,” helping the album become an era‑defining commercial phenomenon.\n\nThe band’s early mainstream peak also brought awards recognition, including Grammys tied to the debut era. Rucker’s performance style—direct, unshowy, and emotionally centered—helped the group connect with a wide audience that spanned rock, pop, and country‑leaning listeners.\n\nThrough subsequent albums (*Fairweather Johnson*, *Musical Chairs*, and beyond), Rucker continued as a democratic collaborator within the quartet, co‑writing across the catalog and keeping the band’s tone grounded even as the music industry shifted around them.\n\nIn the 2000s, as the group’s activity slowed, Rucker broadened his profile with a successful solo career, notably in country music, demonstrating that his songwriting and vocal approach could translate across formats.\n\nEven with solo work in full swing, Rucker remained publicly connected to the band’s legacy, acknowledging the importance of the original lineup’s chemistry and the rare scale of the debut’s impact.\n\nThe reunion era culminated in new touring and *Imperfect Circle* (2019), where Rucker returned to the band context with a more reflective vocal delivery, emphasizing maturity rather than chasing a repeat of 1994’s lightning strike.\n\nAcross decades, Rucker’s role in Hootie & the Blowfish is defined by consistency: a frontman whose strength is clarity and warmth, anchoring songs that prioritize melody, empathy, and the communal feel of a live band playing together.",
+            "Sources": [
+              {
+                "Title": "Darius Rucker",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Darius_Rucker"
+              },
+              {
+                "Title": "Hootie & the Blowfish",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Hootie_%26_the_Blowfish"
+              },
+              {
+                "Title": "Darius Rucker Biography",
+                "Publisher": "PBS (Ken Burns Country Music)",
+                "Url": "https://www.pbs.org/kenburns/country-music/darius-rucker-biography"
+              },
+              {
+                "Title": "Darius Rucker",
+                "Publisher": "Biography.com",
+                "Url": "https://www.biography.com/musicians/darius-rucker"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mark Bryan",
+          "YearsActive": "1986–present",
+          "Roles": "Lead guitar, backing vocals, songwriter",
+          "Instruments": "Guitar; vocals",
+          "Albums": "Cracked Rear View; Fairweather Johnson; Musical Chairs; Hootie & the Blowfish; Looking for Lucky; Imperfect Circle",
+          "Bio": {
+            "Birth": {
+              "Date": "1967-05-06",
+              "Place": "Silver Spring, Maryland, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Guitarist, singer, songwriter; co‑founder of Hootie & the Blowfish; solo artist",
+            "Instruments": "Guitar; vocals",
+            "FullText": "Mark William Bryan (born May 6, 1967) is the lead guitarist and a founding creative engine of Hootie & the Blowfish, known for clean, melodic parts that sit comfortably between jangle, roots rock, and radio‑ready pop.\n\nBorn in Silver Spring, Maryland, Bryan became central to the band’s origin story during his time at the University of South Carolina, where he and Darius Rucker began playing together before the full quartet solidified.\n\nAs the group developed in the late 1980s, Bryan’s role was both musical and structural: shaping arrangements, co‑writing material, and building the guitar‑driven framework that let Rucker’s voice and the band’s choruses hit with maximum clarity.\n\nThe national breakout with *Cracked Rear View* turned Bryan’s approachable, song‑first guitar style into a familiar radio texture. He co‑wrote and performed on the era’s defining singles, helping the band’s sound feel friendly and immediate rather than flashy.\n\nOn follow‑up releases like *Fairweather Johnson* and *Musical Chairs*, Bryan remained a steady through‑line, balancing bright strumming and supportive lead lines with a feel informed by classic rock and college‑rock sensibilities.\n\nBeyond playing, he has been credited as part of the quartet’s collaborative writing identity—an important factor in how the band maintained a consistent voice across albums even when critical narratives shifted.\n\nDuring periods when the band was less active, Bryan continued writing and recording, releasing solo albums and collaborating with other musicians while keeping his musical identity rooted in songcraft.\n\nIn interviews during later years, Bryan has described the drive to keep creating regardless of whether the band is touring, emphasizing the difference between “band cycles” and a lifelong relationship with making records.\n\nThe reunion era, including *Imperfect Circle* (2019), showcased Bryan’s ability to return to the band context without forcing nostalgia—his playing and writing supporting a more adult, reflective version of the group.\n\nBryan’s legacy within Hootie & the Blowfish is the architecture of the songs: guitar work that prioritizes melody and momentum, and co‑writing that helped turn a college‑town band into a multi‑generation radio staple.",
+            "Sources": [
+              {
+                "Title": "Mark Bryan",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mark_Bryan"
+              },
+              {
+                "Title": "Hootie & the Blowfish",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Hootie_%26_the_Blowfish"
+              },
+              {
+                "Title": "Mark Bryan Co-Founded Hootie & the Blowfish. Now It's Time for Him to Enjoy a Little More of the Spotlight",
+                "Publisher": "People",
+                "Url": "https://people.com/mark-bryan-co-founded-hootie-and-the-blowfish-solo-album-popped-exclusive-11758788"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Dean Felber",
+          "YearsActive": "1986–present",
+          "Roles": "Bass, backing vocals, songwriter",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": "Cracked Rear View; Fairweather Johnson; Musical Chairs; Hootie & the Blowfish; Looking for Lucky; Imperfect Circle",
+          "Bio": {
+            "Birth": {
+              "Year": 1967,
+              "Place": "Bethesda, Maryland, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Bassist, backing vocalist, songwriter; founding member of Hootie & the Blowfish",
+            "Instruments": "Bass guitar; vocals",
+            "FullText": "Dean Felber (born June 9, 1967) is the bassist and a founding member of Hootie & the Blowfish, providing the warm, supportive low end that underpins the band’s relaxed, groove‑friendly approach to pop‑rock.\n\nBorn in Bethesda, Maryland, Felber became part of the band’s core collaboration during the University of South Carolina–era formation, helping the group translate club‑scene energy into a tight, radio‑ready four‑piece.\n\nFelber’s bass work is typically economical and song‑centered—built to keep choruses buoyant and verses moving—an approach that matched the band’s priorities of melody, clarity, and crowd connection.\n\nDuring the breakthrough run of *Cracked Rear View*, his playing and co‑writing contributions supported singles that balanced soft‑rock accessibility with a roots‑leaning band feel, helping the record become a long‑lasting commercial landmark.\n\nThrough the mid‑’90s and beyond, Felber remained part of the band’s democratic writing identity, continuing to develop material across albums while the group toured heavily and navigated shifts in public perception.\n\nIn later years, as the band’s release schedule slowed, Felber remained associated with the Hootie catalog as it continued to circulate widely through radio, playlists, and nostalgia‑driven live demand.\n\nWhen the band reactivated around *Imperfect Circle* (2019), Felber returned to high‑profile touring and promotion, emphasizing the continuity of the original lineup and the value of approaching new music without pretending it was still 1994.\n\nInterviews from the reunion period highlight Felber’s perspective as a veteran band member: proud of the catalog’s reach, realistic about the business realities of the modern industry, and focused on the satisfaction of playing together again.\n\nAcross the band’s history, Felber’s role has been foundational rather than attention‑seeking—keeping the rhythm section centered so the songs can do the talking.\n\nThat consistency is a major reason the group’s best‑known recordings still feel “band‑like” decades later: a tight, supportive bass presence that makes the choruses land and the performances feel lived‑in.",
+            "Sources": [
+              {
+                "Title": "Dean Felber",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/dean-felber-mn0000187533"
+              },
+              {
+                "Title": "Hootie & the Blowfish",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Hootie_%26_the_Blowfish"
+              },
+              {
+                "Title": "Interview: Hootie & the Blowfish – Dean Felber",
+                "Publisher": "SoundVapors",
+                "Url": "https://soundvapors.com/interview-hootie-the-blowfish-dean-felber/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jim “Soni” Sonefeld",
+          "YearsActive": "1989–present",
+          "Roles": "Drums, percussion, songwriter",
+          "Instruments": "Drums; percussion",
+          "Albums": "Cracked Rear View; Fairweather Johnson; Musical Chairs; Hootie & the Blowfish; Looking for Lucky; Imperfect Circle",
+          "Bio": {
+            "Birth": {
+              "Date": "1964-10-20",
+              "Place": "Lansing, Michigan, U.S."
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Drummer, songwriter; founding-era member of Hootie & the Blowfish",
+            "Instruments": "Drums; percussion",
+            "FullText": "James George “Jim” Sonefeld (born October 20, 1964) is the drummer for Hootie & the Blowfish, recognized for a time‑keeping style that favors pocket, restraint, and song‑support over flashy technique.\n\nBorn in Lansing, Michigan, Sonefeld became part of the band’s classic lineup in the late 1980s, completing the rhythm section that would carry the group from college‑town stages to worldwide touring.\n\nAs Hootie’s popularity accelerated, Sonefeld’s drumming helped define the band’s approachable feel—steady backbeats, subtle dynamics, and an emphasis on keeping the groove comfortable for radio while still sounding like a real live band.\n\nOn *Cracked Rear View* (1994), the drums play a crucial but understated role: driving sing‑along choruses without crowding the vocal, and giving ballads enough space to breathe. That balance became part of why the record’s singles felt both intimate and arena‑ready.\n\nThrough follow‑up albums and relentless touring, Sonefeld maintained that same philosophy, helping the band’s performances translate reliably from studio to stage across changing eras of rock radio.\n\nSonefeld is also credited as a co‑writer on key songs from the band’s catalog, reflecting the group’s broader approach where the core four collectively shaped the material rather than relying on a single songwriter.\n\nOutside the band’s peak commercial years, he developed additional creative outlets and public-facing work, including solo activity, while remaining closely identified with the Hootie sound.\n\nDuring the reunion period around *Imperfect Circle* (2019), Sonefeld’s playing underscored the point of the comeback: not recreating the past as a museum piece, but returning to the chemistry that made the band’s songs feel durable in the first place.\n\nIn interviews and bios from later years, he has emphasized themes of resilience and personal growth alongside music—an angle that aligns with the long arc of a career that includes both massive early success and the quieter work of sustaining creativity.\n\nUltimately, Sonefeld’s contribution to Hootie & the Blowfish is feel: a drummer whose best moments are the ones you don’t notice immediately, because the song simply moves the way it’s supposed to.",
+            "Sources": [
+              {
+                "Title": "Jim ‘Soni’ Sonefeld — Biography",
+                "Publisher": "IMDb",
+                "Url": "https://www.imdb.com/name/nm0814240/bio/"
+              },
+              {
+                "Title": "Sonefeld, Jim",
+                "Publisher": "Brucebase Wiki",
+                "Url": "https://brucebase.wikidot.com/relation:jim-sonefeld"
+              },
+              {
+                "Title": "Jim Sonefeld (Official Site)",
+                "Publisher": "jimsonefeld.com",
+                "Url": "https://www.jimsonefeld.com/"
+              },
+              {
+                "Title": "Hootie & the Blowfish",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Hootie_%26_the_Blowfish"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Brantley Smith",
+          "Roles": [
+            "Drums"
+          ],
+          "YearsActive": "1986–1989",
+          "Overview": "Early drummer during the band’s formative years before the classic quartet lineup stabilized."
+        }
+      ]
     },
     {
       "ArtistID": "hot-chocolate",
