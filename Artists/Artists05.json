@@ -1132,7 +1132,537 @@
   {
     "ArtistID": "creedence-clearwater-revival",
     "Name": "Creedence Clearwater Revival",
-    "CoreMembers": [],
+    "Type": "Band",
+    "Origin": "El Cerrito, California, U.S.",
+    "YearsActive": [
+      "1959–1967 (as The Blue Velvets / The Golliwogs)",
+      "1967–1972"
+    ],
+    "Genres": [
+      "Roots rock",
+      "Swamp rock",
+      "Blues rock",
+      "Country rock",
+      "Rock and roll"
+    ],
+    "Labels": [
+      "Fantasy"
+    ],
+    "Overview": "Creedence Clearwater Revival (CCR) were an American roots‑rock band whose late‑1960s breakthrough came from doing the opposite of what many of their Bay Area peers were doing. Instead of long psychedelic improvisations, CCR specialized in concise, riff‑forward songs that fused blues, country, R&B, and early rock ’n’ roll into a sound that felt tough, plainspoken, and instantly memorable. Their records were built on groove and economy: sharp choruses, vivid storytelling, and arrangements that hit hard without excess.\n\nThe classic lineup—John Fogerty (lead vocals/lead guitar), Tom Fogerty (rhythm guitar), Stu Cook (bass), and Doug “Cosmo” Clifford (drums)—had played together for years in El Cerrito before adopting the CCR name and breaking through on Fantasy Records. Between 1968 and 1972 they released seven studio albums, and their 1969 output alone produced three Top Ten albums (Bayou Country, Green River, and Willy and the Poor Boys). The singles from that run became era‑defining staples, balancing good‑time rockers with songs that carried sharper social commentary.\n\nCCR’s lifespan was short, but their cultural footprint is enormous: the songs remain ubiquitous on classic‑rock radio and in film and television, and the band was inducted into the Rock & Roll Hall of Fame in 1993. The original group never reunited publicly, and the post‑band story has been shaped by long‑running disputes over business and rights—culminating in John Fogerty regaining worldwide control of the publishing for many of his CCR songs in 2023. Through it all, the core legacy is the recordings themselves: disciplined performances, unforgettable hooks, and songwriting that still feels immediate decades later.",
+    "NotableAlbums": [
+      {
+        "Title": "Bayou Country",
+        "Year": "1969",
+        "Notes": "Breakthrough LP featuring “Proud Mary”; helped establish CCR as a national hitmaker."
+      },
+      {
+        "Title": "Green River",
+        "Year": "1969",
+        "Notes": "Lean, hook-heavy set that includes “Bad Moon Rising” and the title track; a high point of their swampy pop precision."
+      },
+      {
+        "Title": "Willy and the Poor Boys",
+        "Year": "1969",
+        "Notes": "Home to “Fortunate Son” and “Down on the Corner,” balancing social bite with jukebox joy."
+      },
+      {
+        "Title": "Cosmo's Factory",
+        "Year": "1970",
+        "Notes": "Often cited as their commercial/artistic summit; packed with hits and extended performances including “I Heard It Through the Grapevine.”"
+      },
+      {
+        "Title": "Pendulum",
+        "Year": "1970",
+        "Notes": "A broader, more textured album that includes “Have You Ever Seen the Rain?”"
+      },
+      {
+        "Title": "Mardi Gras",
+        "Year": "1972",
+        "Notes": "Final studio album; released amid internal strain and followed by the band’s breakup later that year."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Proud Mary",
+        "Year": "1969",
+        "Notes": "One of CCR’s signature anthems; later famously covered by Ike & Tina Turner and many others."
+      },
+      {
+        "Title": "Bad Moon Rising",
+        "Year": "1969",
+        "Notes": "A fast, ominous hit built on bright hooks and apocalyptic imagery."
+      },
+      {
+        "Title": "Fortunate Son",
+        "Year": "1969",
+        "Notes": "A pointed protest song that became a defining Vietnam-era cultural reference point."
+      },
+      {
+        "Title": "Down on the Corner",
+        "Year": "1969",
+        "Notes": "Good-time street-band rocker that showcased CCR’s pop economy."
+      },
+      {
+        "Title": "Travelin’ Band",
+        "Year": "1970",
+        "Notes": "High-speed rocker capturing the pressure-cooker feel of life on the road."
+      },
+      {
+        "Title": "Have You Ever Seen the Rain?",
+        "Year": "1971",
+        "Notes": "Late-era classic; reflective songwriting with enduring radio life."
+      }
+    ],
+    "Achievements": [
+      {
+        "Title": "Rock & Roll Hall of Fame induction",
+        "Year": "1993",
+        "Details": "Inducted as Performers; recognized for a short but massively influential run of roots-rock hits."
+      },
+      {
+        "Title": "Nine Top Ten singles in three years",
+        "Year": "1968–1971",
+        "Details": "A concentrated run of Hot 100 Top Ten hits that made CCR one of the era’s most consistent singles bands."
+      },
+      {
+        "Title": "Prolific 1969 release schedule",
+        "Year": "1969",
+        "Details": "Released three Top Ten albums in a single year—Bayou Country, Green River, and Willy and the Poor Boys."
+      },
+      {
+        "Title": "Catalog publishing regained by John Fogerty",
+        "Year": "2023",
+        "Details": "Fogerty regained worldwide control of publishing for many classic CCR songs after decades of dispute."
+      }
+    ],
+    "KeyFacts": [
+      "Formed in El Cerrito, California, by longtime bandmates who had played together since the late 1950s, including a pre-CCR stint as The Golliwogs.",
+      "Released seven studio albums between 1968 and 1972 and became a defining American singles band of the era.",
+      "Never had a U.S. Billboard Hot 100 No. 1 single; five hits peaked at No. 2 during their run.",
+      "Inducted into the Rock & Roll Hall of Fame in 1993.",
+      "The original band never publicly reunited; Stu Cook and Doug Clifford later toured CCR material as Creedence Clearwater Revisited."
+    ],
+    "ExternalLinks": {
+      "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/creedence-clearwater-revival/",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival",
+      "Discography": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival_discography",
+      "Spotify": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd",
+      "Official YouTube": "https://www.youtube.com/@TheOfficialCCR/videos"
+    },
+    "CoreMembers": [
+      {
+        "Name": "John Fogerty",
+        "Roles": [
+          "Lead vocals",
+          "Lead guitar",
+          "Primary songwriter",
+          "Producer/arranger"
+        ],
+        "Years": "1967–1972",
+        "YearsActive": "1967–1972",
+        "Instruments": [
+          "Vocals",
+          "Guitar"
+        ],
+        "Albums": [
+          {
+            "Title": "Creedence Clearwater Revival",
+            "Year": "1968"
+          },
+          {
+            "Title": "Bayou Country",
+            "Year": "1969"
+          },
+          {
+            "Title": "Green River",
+            "Year": "1969"
+          },
+          {
+            "Title": "Willy and the Poor Boys",
+            "Year": "1969"
+          },
+          {
+            "Title": "Cosmo's Factory",
+            "Year": "1970"
+          },
+          {
+            "Title": "Pendulum",
+            "Year": "1970"
+          },
+          {
+            "Title": "Mardi Gras",
+            "Year": "1972"
+          }
+        ],
+        "Overview": "Founding frontman and primary songwriter whose voice, guitar style, and concise storytelling defined CCR’s sound.",
+        "Bio": {
+          "BioID": "john-fogerty",
+          "ArtistID": "creedence-clearwater-revival",
+          "ArtistName": "Creedence Clearwater Revival",
+          "MemberName": "John Fogerty",
+          "FullName": "John Cameron Fogerty",
+          "BirthDate": "May 28, 1945",
+          "BirthPlace": "Berkeley, California, U.S.",
+          "DeathDate": "",
+          "ActiveYears": [
+            "1959–present"
+          ],
+          "Occupations": [
+            "Singer",
+            "Songwriter",
+            "Musician",
+            "Producer"
+          ],
+          "PrimaryInstruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Genres": [
+            "Roots rock",
+            "Swamp rock",
+            "Blues rock",
+            "Country rock",
+            "Rock and roll"
+          ],
+          "AssociatedActs": [
+            "Creedence Clearwater Revival",
+            "The Golliwogs"
+          ],
+          "Achievements": [
+            "Primary songwriter and frontman of Creedence Clearwater Revival’s classic run (1968–1972).",
+            "Rock & Roll Hall of Fame inductee as a member of CCR (1993).",
+            "Regained worldwide control of CCR publishing rights in 2023 after decades of dispute."
+          ],
+          "Biography": "John Fogerty (born May 28, 1945, in Berkeley, California) is the singer, lead guitarist, and primary songwriter who became the creative engine of Creedence Clearwater Revival (CCR). His concise, story-driven writing and instantly identifiable voice gave the band a sound that felt both regional and universal—equal parts blues, country, R&B, and rock ’n’ roll.\n\nRaised in the East Bay and drawn early to rock’s first generation, Fogerty formed a neighborhood band in El Cerrito with friends Stu Cook and Doug Clifford while still in junior high school. The group evolved through a series of local names and eventually recorded for Fantasy Records under the label-assigned name The Golliwogs before rebranding as Creedence Clearwater Revival.\n\nCCR’s breakthrough came fast, and Fogerty’s writing pace was relentless. Between 1968 and 1972, the band released seven studio albums and turned tight three-minute singles into radio staples, often pairing vivid characters and place-names with sharp, economical riffs.\n\nFogerty’s songs were grounded in Americana but rarely nostalgic in a simple way—he could sketch a working-class narrator, drop a swampy guitar hook, and still deliver a pointed social observation. Tracks like “Fortunate Son” and “Who’ll Stop the Rain” became enduring touchstones of the Vietnam-era soundtrack, while “Proud Mary” and “Bad Moon Rising” showed his gift for pop structure and memorable choruses.\n\nOnstage, Fogerty doubled as frontman and bandleader, driving CCR with clipped rhythm guitar and dynamic lead lines. The group’s reputation for being lean and tight—more like a hardened road band than a studio project—helped their recordings translate directly to large crowds and national television appearances.\n\nInternal tension grew alongside success. Fogerty’s dominant role in writing, arranging, and directing the band’s sound became a fault line, and the pressures of constant recording and touring intensified disputes that would later define the group’s short lifespan as much as the hits did.\n\nAfter CCR disbanded in late 1972, Fogerty built a significant solo career while navigating years of bitter legal and business conflict connected to the group’s catalog and contracts. Those disputes became part of the public lore around CCR, shaping how he spoke about the band and, at times, how he approached performing the songs.\n\nIn January 2023, Fogerty announced that he had regained worldwide control of the publishing for many of his classic CCR compositions after decades of struggle, a milestone that reframed the catalog as something he could finally embrace on his own terms.\n\nThat regained control has also highlighted what CCR’s music represents in the broader rock canon: an unusually compact run of albums and singles that still feels omnipresent in film, radio, and live performance decades later, with Fogerty’s songwriting at the center of that durability.\n\nAcross CCR and his solo work, Fogerty’s legacy is that of an American song craftsman: direct language, unforgettable riffs, and a voice that can be both plainspoken and urgent. Even separated from the original band context, the songs remain instantly recognizable, and their themes continue to resonate with new audiences.",
+          "Sources": [
+            {
+              "Title": "John Fogerty",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/John_Fogerty"
+            },
+            {
+              "Title": "Creedence Clearwater Revival",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
+            },
+            {
+              "Title": "John Fogerty Regains Control Over Creedence Clearwater Revival Songs After Half-Century Fight",
+              "Publisher": "Concord",
+              "Url": "https://concord.com/news/john-fogerty-regains-control-over-creedence-clearwater-revival-songs-after-half-century-fight/"
+            },
+            {
+              "Title": "John Fogerty Acquires Rights to His Creedence Clearwater Revival Songs",
+              "Publisher": "Variety",
+              "Url": "https://variety.com/2023/music/news/john-fogerty-acquires-rights-to-creedence-clearwater-revival-songs-1235487289/"
+            }
+          ],
+          "ExternalLinks": {
+            "Official Site": "https://johnfogerty.com/",
+            "Wikipedia": "https://en.wikipedia.org/wiki/John_Fogerty"
+          }
+        }
+      },
+      {
+        "Name": "Tom Fogerty",
+        "Roles": [
+          "Rhythm guitar",
+          "Backing vocals"
+        ],
+        "Years": "1967–1971",
+        "YearsActive": "1967–1971",
+        "Instruments": [
+          "Guitar",
+          "Vocals"
+        ],
+        "Albums": [
+          {
+            "Title": "Creedence Clearwater Revival",
+            "Year": "1968"
+          },
+          {
+            "Title": "Bayou Country",
+            "Year": "1969"
+          },
+          {
+            "Title": "Green River",
+            "Year": "1969"
+          },
+          {
+            "Title": "Willy and the Poor Boys",
+            "Year": "1969"
+          },
+          {
+            "Title": "Cosmo's Factory",
+            "Year": "1970"
+          },
+          {
+            "Title": "Pendulum",
+            "Year": "1970"
+          },
+          {
+            "Title": "Mardi Gras",
+            "Year": "1972"
+          }
+        ],
+        "Overview": "Rhythm guitarist and early anchor of CCR’s lineup; provided steady accompaniment during the band’s breakthrough years.",
+        "Bio": {
+          "BioID": "tom-fogerty",
+          "ArtistID": "creedence-clearwater-revival",
+          "ArtistName": "Creedence Clearwater Revival",
+          "MemberName": "Tom Fogerty",
+          "FullName": "Thomas Richard Fogerty",
+          "BirthDate": "November 9, 1941",
+          "BirthPlace": "Berkeley, California, U.S.",
+          "DeathDate": "September 6, 1990",
+          "ActiveYears": [
+            "1959–1988"
+          ],
+          "Occupations": [
+            "Musician",
+            "Songwriter"
+          ],
+          "PrimaryInstruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Genres": [
+            "Roots rock",
+            "Swamp rock",
+            "Rock"
+          ],
+          "AssociatedActs": [
+            "Creedence Clearwater Revival",
+            "The Golliwogs",
+            "Ruby"
+          ],
+          "Achievements": [
+            "Founding rhythm guitarist of Creedence Clearwater Revival.",
+            "Rock & Roll Hall of Fame inductee as a member of CCR (1993, posthumous)."
+          ],
+          "Biography": "Tom Fogerty (born November 9, 1941, in Berkeley, California; died September 6, 1990, in Scottsdale, Arizona) was the rhythm guitarist and an early stabilizing presence in Creedence Clearwater Revival. As the older brother of John Fogerty, Tom helped anchor the group’s transition from local East Bay bands into a nationally known recording act.\n\nBefore CCR existed, Tom was part of the same El Cerrito music circle that included John, Stu Cook, and Doug Clifford. Their early years involved constant playing, gradual improvement, and the kinds of practical lessons that later made CCR’s recordings sound unusually tight and road-tested.\n\nWhen the band recorded for Fantasy Records as The Golliwogs, Tom provided rhythm guitar and vocals, supporting the group through an era of singles that did not break through commercially. Those years were formative: they established a working relationship with the label and forged a core lineup that could function like a compact unit.\n\nWith the name change to Creedence Clearwater Revival, the band’s sound sharpened and the songwriting focus intensified. In that setting, Tom’s role was to reinforce the groove—locking into the downbeat, keeping chords clean, and leaving space for John’s lead lines and vocal phrasing.\n\nCCR’s peak years were marked by fast-turnaround sessions and heavy touring. Tom’s rhythmic steadiness mattered because the band’s arrangements often relied on momentum: straightforward progressions, driving tempos, and riffs that needed a disciplined foundation to hit as hard as they did.\n\nCreative tensions within the group are well documented, and Tom’s position could be complicated—both as a bandmate and as John’s brother. As CCR’s success grew, disagreements over direction and control became harder to manage inside such a small lineup.\n\nTom left CCR in 1971, ahead of the band’s final album cycle, stepping away from an environment that had become strained. His departure changed the band’s internal balance and was one of the major turning points on the road to the group’s breakup the following year.\n\nAfter leaving CCR, Tom continued making music, forming the band Ruby and releasing recordings that showcased his songwriting and singing outside the shadow of CCR’s massive catalog. While those projects did not match CCR’s commercial scale, they reflected his commitment to being more than a sideman.\n\nIn the late 1980s, Tom’s health declined, and he died in 1990 at age 48. His death ended any realistic chance of a future reconciliation between the original members and made the brother story a lasting part of CCR’s history.\n\nTom Fogerty’s legacy within CCR is the sound of restraint and reliability: rhythm guitar that serves the song, vocals that thicken the band’s blend, and a steady musical presence during one of rock’s most famously compressed, high-impact runs of hit-making.",
+          "Sources": [
+            {
+              "Title": "Tom Fogerty",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Tom_Fogerty"
+            },
+            {
+              "Title": "Creedence Clearwater Revival",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
+            },
+            {
+              "Title": "Creedence Clearwater Revival | The Ed Sullivan Show",
+              "Publisher": "The Ed Sullivan Show",
+              "Url": "https://www.edsullivan.com/artists/creedence-clearwater-revival/"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Tom_Fogerty"
+          }
+        }
+      },
+      {
+        "Name": "Stu Cook",
+        "Roles": [
+          "Bass guitar",
+          "Backing vocals"
+        ],
+        "Years": "1967–1972",
+        "YearsActive": "1967–1972",
+        "Instruments": [
+          "Bass guitar",
+          "Vocals"
+        ],
+        "Albums": [
+          {
+            "Title": "Creedence Clearwater Revival",
+            "Year": "1968"
+          },
+          {
+            "Title": "Bayou Country",
+            "Year": "1969"
+          },
+          {
+            "Title": "Green River",
+            "Year": "1969"
+          },
+          {
+            "Title": "Willy and the Poor Boys",
+            "Year": "1969"
+          },
+          {
+            "Title": "Cosmo's Factory",
+            "Year": "1970"
+          },
+          {
+            "Title": "Pendulum",
+            "Year": "1970"
+          },
+          {
+            "Title": "Mardi Gras",
+            "Year": "1972"
+          }
+        ],
+        "Overview": "Bassist whose supportive, groove-first lines helped give CCR its driving, radio-ready low end.",
+        "Bio": {
+          "BioID": "stu-cook",
+          "ArtistID": "creedence-clearwater-revival",
+          "ArtistName": "Creedence Clearwater Revival",
+          "MemberName": "Stu Cook",
+          "FullName": "Stuart Alden Cook",
+          "BirthDate": "April 25, 1945",
+          "BirthPlace": "Oakland, California, U.S.",
+          "DeathDate": "",
+          "ActiveYears": [
+            "1959–2020"
+          ],
+          "Occupations": [
+            "Musician",
+            "Songwriter",
+            "Producer"
+          ],
+          "PrimaryInstruments": [
+            "Bass guitar"
+          ],
+          "Genres": [
+            "Roots rock",
+            "Swamp rock",
+            "Rock"
+          ],
+          "AssociatedActs": [
+            "Creedence Clearwater Revival",
+            "The Golliwogs",
+            "Creedence Clearwater Revisited",
+            "Southern Pacific"
+          ],
+          "Achievements": [
+            "Founding bassist of Creedence Clearwater Revival; Rock & Roll Hall of Fame inductee (1993).",
+            "Co-founded Creedence Clearwater Revisited with Doug Clifford (1995) to tour CCR material."
+          ],
+          "Biography": "Stu Cook (born April 25, 1945, in Oakland, California) is the bassist whose melodic, supportive lines helped give Creedence Clearwater Revival its muscular, propulsive low end. In a band built on groove and economy, Cook’s playing often did quiet structural work—holding the center while leaving room for riffs and vocals to land cleanly.\n\nCook grew up in El Cerrito and, as a teenager, began playing with John Fogerty and Doug Clifford in local groups that predated CCR. Those early years mattered: the players developed a shared sense of time and feel long before they were national stars.\n\nDuring the Fantasy Records period as The Golliwogs, Cook’s bass parts helped the band operate like a compact rhythm machine. Even when the singles did not chart, the group was building the kind of internal cohesion that would later make CCR’s recordings sound unusually confident and direct.\n\nWhen the band became CCR, Cook’s bass anchored songs that moved between bluesy shuffles, rockabilly-leaning tempos, and country-rock cadences. He tended to favor lines that were both functional and memorable—often doubling a guitar figure just enough to thicken it, or walking into a chorus to give it lift.\n\nCCR’s late-1960s peak brought an intense pace of studio work and touring. Cook’s consistency was a big part of why CCR could cut records quickly without sounding rushed; the rhythm section could lock in almost instantly, allowing songs to be built from simple, strong parts.\n\nAfter CCR disbanded in 1972, Cook continued working as a musician in various settings, broadening his resume beyond the CCR template. His later projects included playing in other bands and exploring different production and performance contexts.\n\nIn 1995, Cook and drummer Doug Clifford formed Creedence Clearwater Revisited, a touring group that performed CCR material live with other musicians. The project underscored how durable the CCR catalog remained and how much demand there was for that sound in concert settings, even without the original lineup.\n\nCook’s post-CCR public identity is often tied to those live performances and to the broader conversation about CCR’s legacy—who could perform the songs, how the catalog should be presented, and what it means to carry that music forward outside the band’s original era.\n\nWithin CCR’s classic recordings, Cook’s playing is a reminder that the band’s “simplicity” was disciplined craft. The bass rarely calls attention to itself, but it consistently shapes the pocket and keeps the music moving, which is exactly what the songs required.\n\nCook stands as a key architect of CCR’s rhythm sound: tight, forward-driving, and unflashy in the best way. His contributions are inseparable from why those records still feel immediate and physical decades after they were cut.",
+          "Sources": [
+            {
+              "Title": "Stu Cook",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Stu_Cook"
+            },
+            {
+              "Title": "Creedence Clearwater Revival",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
+            },
+            {
+              "Title": "Doug Clifford",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Doug_Clifford"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Stu_Cook"
+          }
+        }
+      },
+      {
+        "Name": "Doug Clifford",
+        "Roles": [
+          "Drums",
+          "Backing vocals"
+        ],
+        "Years": "1967–1972",
+        "YearsActive": "1967–1972",
+        "Instruments": [
+          "Drums",
+          "Vocals"
+        ],
+        "Albums": [
+          {
+            "Title": "Creedence Clearwater Revival",
+            "Year": "1968"
+          },
+          {
+            "Title": "Bayou Country",
+            "Year": "1969"
+          },
+          {
+            "Title": "Green River",
+            "Year": "1969"
+          },
+          {
+            "Title": "Willy and the Poor Boys",
+            "Year": "1969"
+          },
+          {
+            "Title": "Cosmo's Factory",
+            "Year": "1970"
+          },
+          {
+            "Title": "Pendulum",
+            "Year": "1970"
+          },
+          {
+            "Title": "Mardi Gras",
+            "Year": "1972"
+          }
+        ],
+        "Overview": "Drummer (“Cosmo”) whose crisp backbeat and tempo authority powered CCR’s tight, forward-driving recordings.",
+        "Bio": {
+          "BioID": "doug-clifford",
+          "ArtistID": "creedence-clearwater-revival",
+          "ArtistName": "Creedence Clearwater Revival",
+          "MemberName": "Doug Clifford",
+          "FullName": "Douglas Raymond Clifford",
+          "BirthDate": "April 24, 1945",
+          "BirthPlace": "Palo Alto, California, U.S.",
+          "DeathDate": "",
+          "ActiveYears": [
+            "1959–present"
+          ],
+          "Occupations": [
+            "Musician",
+            "Songwriter"
+          ],
+          "PrimaryInstruments": [
+            "Drums"
+          ],
+          "Genres": [
+            "Roots rock",
+            "Swamp rock",
+            "Rock"
+          ],
+          "AssociatedActs": [
+            "Creedence Clearwater Revival",
+            "The Golliwogs",
+            "Creedence Clearwater Revisited"
+          ],
+          "Achievements": [
+            "Founding drummer of Creedence Clearwater Revival; Rock & Roll Hall of Fame inductee (1993).",
+            "Co-founded Creedence Clearwater Revisited with Stu Cook (1995)."
+          ],
+          "Biography": "Doug “Cosmo” Clifford (born April 24, 1945, in Palo Alto, California) is the drummer who powered Creedence Clearwater Revival with crisp backbeats and a punchy, no-nonsense feel. His nickname became part of CCR lore, and his drumming helped define the band’s image as a hard-working American rock unit rather than a psychedelic studio experiment.\n\nClifford grew up in El Cerrito and started playing music with John Fogerty and Stu Cook in the late 1950s. Those early rehearsals and local gigs built a shared internal clock that later made CCR unusually tight in the studio and on stage.\n\nIn the pre-CCR years as The Golliwogs, Clifford’s approach already leaned toward clarity and drive. Instead of ornate fills, he emphasized tempo control and groove, which aligned perfectly with the band’s later strengths: short songs, big choruses, and riffs that needed a firm rhythmic spine.\n\nAs CCR’s hits arrived, Clifford’s drumming became a signature element of the band’s sound—steady enough to carry swampy rhythms, but forceful enough to make fast singles feel like a runaway train. His parts were built for momentum, giving CCR’s recordings the sense that they’re always pushing forward.\n\nThe band’s rapid release schedule from 1968 to 1972 demanded musicians who could deliver under pressure. Clifford and Cook formed a rhythm section that could lock quickly, allowing CCR to record efficiently while still sounding like a band playing together in a room.\n\nAfter CCR disbanded in late 1972, Clifford continued making music, including solo and collaborative work. His career illustrates how a drummer known for one iconic band can still evolve—moving between projects while remaining closely identified with the catalog that made him famous.\n\nIn 1995, Clifford and Stu Cook launched Creedence Clearwater Revisited, touring extensively with CCR material for many years. The group’s long run highlighted how deeply CCR’s songs remained embedded in popular culture and how audiences still responded to that rhythm-driven sound live.\n\nClifford’s public role in CCR’s legacy also includes speaking about the band’s history, the realities of their breakup, and the difference between the original creative unit and later attempts to present the music onstage. His perspective is that of a founding member who lived both the ascent and the aftermath.\n\nOn classic tracks, Clifford’s drumming is the connective tissue between genre flavors: he can swing a blues shuffle, drive a straight rock beat, or sit back behind a country-leaning groove without losing the band’s identity. That adaptability is part of why CCR’s catalog feels stylistically broad while still unified.\n\nClifford’s legacy is the sound of propulsion. When CCR recordings hit, they move, and that motion comes from a drummer who prized time, impact, and the simple authority of a well-placed backbeat.",
+          "Sources": [
+            {
+              "Title": "Doug Clifford",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Doug_Clifford"
+            },
+            {
+              "Title": "Stu Cook",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Stu_Cook"
+            },
+            {
+              "Title": "Creedence Clearwater Revival",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://rockhall.com/inductees/creedence-clearwater-revival/"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Doug_Clifford"
+          }
+        }
+      }
+    ],
     "NonCoreMembers": []
   },
   {
