@@ -1309,27 +1309,571 @@
     {
       "ArtistID": "pure-prairie-league",
       "Name": "Pure Prairie League",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Waverly",
+        "Region": "Ohio",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1970–1988",
+        "1998–2002",
+        "2004–present"
+      ],
+      "Genres": [
+        "Country rock",
+        "Soft rock"
+      ],
+      "Labels": [
+        "RCA",
+        "Casablanca",
+        "Drifter's Church",
+        "Thirty Tigers"
+      ],
+      "Overview": "Pure Prairie League are an American country-rock band whose roots trace to Ohio’s late-1960s/early-1970s club circuit. Formed in 1970, they built early momentum as a Cincinnati-area live draw, fusing rock rhythm sections and harmony vocals with pedal steel guitar and other country signifiers. The result was a sound that sat comfortably between the West Coast country-rock boom and Midwestern road-band grit—recognizable for its melodic hooks, vocal blend, and instrumental interplay.\n\nTheir breakthrough came via “Amie,” a Craig Fuller song originally released on 1972’s *Bustin’ Out* and later reissued as a single in 1975. The track became a Top 40 pop hit and helped push *Bustin’ Out* into the Billboard 200 Top 40, opening the door to a mid-’70s run of charting albums that included *Two Lane Highway* and *If the Shoe Fits*. As the band’s membership shifted—a recurring theme in their history—they kept their identity by balancing country instrumentation with a radio-friendly soft-rock finish, and by leaning into road-tested musicianship rather than studio tricks.\n\nIn the early 1980s, Pure Prairie League reached their commercial high point with “Let Me Love You Tonight,” a Top 10 pop single that also topped the Adult Contemporary chart, reflecting the era’s smoother production trends. After a late-’80s breakup, they regrouped in the late 1990s and continued as a touring act, later issuing new studio work including *All in Good Time* (2005) and *Back on Track* (2024). Across decades, their legacy rests on durable songs, a fluid roster of notable musicians, and a style that helped map the bridge between country tradition and mainstream rock radio.",
+      "NotableAlbums": [
+        {
+          "Title": "Pure Prairie League",
+          "Year": "1972",
+          "Notes": "Self-titled debut that introduced the band’s country-rock blend and established the visual “Luke” motif on their album covers."
+        },
+        {
+          "Title": "Bustin' Out",
+          "Year": "1972",
+          "Notes": "Home to the signature song “Amie”; gained major momentum after the track was reissued as a single in 1975."
+        },
+        {
+          "Title": "Two Lane Highway",
+          "Year": "1975",
+          "Notes": "Mid-’70s peak-era studio album; continued the blend of harmony-driven country rock with radio-ready polish."
+        },
+        {
+          "Title": "If the Shoe Fits",
+          "Year": "1976",
+          "Notes": "Another charting release from the band’s 1970s run, featuring a country-charting cover of “That’ll Be the Day.”"
+        },
+        {
+          "Title": "Firin' Up",
+          "Year": "1980",
+          "Notes": "The band’s biggest pop-era statement; includes “Let Me Love You Tonight,” their highest-charting single."
+        },
+        {
+          "Title": "Back on Track",
+          "Year": "2024",
+          "Notes": "Return to studio recording with new material, released after a long gap since their previous studio album."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Amie",
+          "Year": "1975",
+          "Notes": "Breakthrough hit (originally on *Bustin’ Out*); remains their best-known song and a long-running radio staple."
+        },
+        {
+          "Title": "Let Me Love You Tonight",
+          "Year": "1980",
+          "Notes": "Top 10 pop single and major Adult Contemporary hit from *Firin’ Up*."
+        },
+        {
+          "Title": "Two Lane Highway",
+          "Year": "1975",
+          "Notes": "Title track from the 1975 album; a minor charting single and a core live-set staple."
+        },
+        {
+          "Title": "Still Right Here in My Heart",
+          "Year": "1981",
+          "Notes": "Early-’80s follow-up single that extended the band’s Adult Contemporary and pop presence."
+        },
+        {
+          "Title": "That'll Be the Day",
+          "Year": "1976",
+          "Notes": "Buddy Holly cover that crossed onto the country chart from *If the Shoe Fits*."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1975",
+          "Title": "Top 40 breakthrough with “Amie”",
+          "Details": "The reissued single “Amie” became a Top 40 hit and helped elevate *Bustin’ Out* into the Billboard 200 Top 40."
+        },
+        {
+          "Year": "1975",
+          "Title": "Peak-charting studio run",
+          "Details": "A mid-’70s streak of charting albums included *Two Lane Highway* and *If the Shoe Fits*, reinforcing the band’s touring and radio profile."
+        },
+        {
+          "Year": "1980",
+          "Title": "Biggest pop hit: “Let Me Love You Tonight”",
+          "Details": "Reached the Billboard Hot 100 Top 10 and topped the Adult Contemporary chart, propelling *Firin’ Up* into a new commercial tier."
+        },
+        {
+          "Year": "1998",
+          "Title": "Reunion era begins",
+          "Details": "Returned to touring with classic members involved, extending the band’s live presence into a new generation of audiences."
+        },
+        {
+          "Year": "2024",
+          "Title": "New studio album release",
+          "Details": "Issued *Back on Track*, marking a major late-career studio return after a long recording gap."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Ohio in 1970; early success built in the Cincinnati club circuit.",
+        "Named after a women’s temperance group referenced in the 1939 film *Dodge City* (per widely cited band histories).",
+        "Known for blending rock harmonies with country instrumentation, especially pedal steel guitar.",
+        "Breakthrough came with “Amie,” originally released in 1972 and reissued as a hit in 1975.",
+        "Biggest pop-era hit was “Let Me Love You Tonight” (1980), which also topped the Adult Contemporary chart.",
+        "Disbanded in 1988, regrouped in 1998, and has continued as a touring act with evolving lineups."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://pureprairieleague.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Pure_Prairie_League",
+        "Discography": "https://www.allmusic.com/artist/pure-prairie-league-mn0000371879/discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Craig Fuller",
+          "Roles": [
+            "Founder",
+            "Lead vocals",
+            "Guitar",
+            "Songwriter"
+          ],
+          "Years": "1970–1973; 1985–1988; 1998–2002; 2004–2012",
+          "YearsActive": "1970s–2010s",
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Albums": [
+            {
+              "Title": "Pure Prairie League",
+              "Year": "1972"
+            },
+            {
+              "Title": "Bustin' Out",
+              "Year": "1972"
+            }
+          ],
+          "Overview": "Co-founder, early lead vocalist/guitarist, and the writer/original singer of the signature hit “Amie.”",
+          "Bio": {
+            "BioID": "pure-prairie-league-craig-fuller",
+            "ArtistID": "pure-prairie-league",
+            "ArtistName": "Pure Prairie League",
+            "MemberName": "Craig Fuller",
+            "FullName": "Craig Lee Fuller",
+            "Birth": {
+              "Date": "1949-07-18",
+              "Place": "Ohio, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1970s–2010s",
+            "Occupations": "Singer, songwriter, musician",
+            "PrimaryInstruments": "Vocals, guitar",
+            "Genres": "Country rock, rock",
+            "AssociatedActs": "Pure Prairie League; American Flyer; Little Feat",
+            "KeyAlbums": "Bustin' Out; Pure Prairie League",
+            "KeySongs": "Amie",
+            "Achievements": "Co-founded Pure Prairie League; wrote and originally sang 'Amie', the band's signature hit",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Craig_Fuller"
+            },
+            "Biography": "",
+            "FullText": "Craig Fuller is the founding singer, guitarist, and principal early songwriter of Pure Prairie League, a band that helped define the country-rock blend coming out of Ohio in the early 1970s.\n\nGrowing up around Ohio’s club circuit, Fuller developed a style that mixed melodic rock songcraft with country harmony and instrumentation—an approach that became a practical blueprint for the group’s earliest lineups.\n\nIn 1970, he co-formed Pure Prairie League and quickly became one of its key musical “centers”: the player who could drive a set with electric-guitar bite while also leaning into acoustic textures and country phrasing.\n\nHis strongest imprint on the catalog is as the writer and original vocalist of “Amie,” first recorded for the band’s 1972 album *Bustin’ Out*. When the song was later reissued as a single, it became the group’s breakthrough and a long-lived radio staple.\n\nFuller’s tenure in the band was interrupted in the early 1970s; despite leaving before “Amie” became a hit, the track’s success permanently tied his name to Pure Prairie League’s identity and sound.\n\nAfter his first departure, he remained active in the broader country-rock and soft-rock ecosystem—moving through projects where harmony-heavy writing and road-tested musicianship mattered as much as studio polish.\n\nAcross later decades, Fuller returned to Pure Prairie League for multiple reunion periods, reflecting the band’s long-running, lineup-shifting nature and the ongoing audience demand for the classic material he helped create.\n\nOutside the group, he is also known for work with other established acts, including a notable period fronting Little Feat, where his voice and songwriting were tasked with carrying a legacy catalog while keeping the band moving forward.\n\nFuller’s contribution to Pure Prairie League is less about a fixed “era” than a foundation: the early blend of rock drive, country detail, and melodic hooks that later configurations continued to refine.\n\nEven as different singers and guitarists cycled through the band, the Fuller-written core—especially “Amie”—remained a touchstone for the group’s live sets and for the broader genre of 1970s country-rock.",
+            "Sources": [
+              {
+                "Title": "Craig Fuller",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Craig_Fuller"
+              },
+              {
+                "Title": "Pure Prairie League",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pure_Prairie_League"
+              },
+              {
+                "Title": "Pure Prairie League | Biography & History",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/pure-prairie-league-mn0000371879/biography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John David Call",
+          "Roles": [
+            "Pedal steel guitar",
+            "Dobro",
+            "Banjo"
+          ],
+          "Years": "1970–1972; 1973–1977; 2010–2024",
+          "YearsActive": "1970s–2020s",
+          "Instruments": [
+            "Pedal steel guitar",
+            "Dobro",
+            "Banjo"
+          ],
+          "Albums": [
+            {
+              "Title": "Pure Prairie League",
+              "Year": "1972"
+            },
+            {
+              "Title": "Bustin' Out",
+              "Year": "1972"
+            },
+            {
+              "Title": "Two Lane Highway",
+              "Year": "1975"
+            }
+          ],
+          "Overview": "Pedal steel guitarist whose playing helped define the band’s signature country-rock texture.",
+          "Bio": {
+            "BioID": "pure-prairie-league-john-david-call",
+            "ArtistID": "pure-prairie-league",
+            "ArtistName": "Pure Prairie League",
+            "MemberName": "John David Call",
+            "FullName": "John David Call",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1970s–2020s",
+            "Occupations": "Musician",
+            "PrimaryInstruments": "Pedal steel guitar",
+            "Genres": "Country rock, rock",
+            "AssociatedActs": "Pure Prairie League",
+            "KeyAlbums": "Bustin' Out; Two Lane Highway",
+            "KeySongs": "Amie (touring era); Two Lane Highway",
+            "Achievements": "Helped define Pure Prairie League’s signature country-rock sound through pedal steel guitar",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Pure_Prairie_League"
+            },
+            "Biography": "",
+            "FullText": "John David Call is the pedal steel guitarist whose playing helped give Pure Prairie League its distinctive country credibility and a signature instrumental voice in the early 1970s.\n\nComing out of Ohio’s regional scene, Call joined the band in its formative period and became central to the group’s defining blend: rock structures and harmonies anchored by steel-guitar lines more typical of country records.\n\nOn the early albums and in the band’s live reputation, Call’s steel work functioned as both texture and lead instrument—interlocking with the group’s electric-guitar parts to create the “duel” feel that audiences associated with Pure Prairie League.\n\nBecause the group’s personnel shifted frequently, Call’s influence is often best understood as a sonic fingerprint rather than a single fixed lineup: when he was present, the band leaned harder into country tone and phrasing.\n\nHe played across the key 1970s run that established the band’s touring footprint and recorded identity, including the era around *Bustin’ Out* and *Two Lane Highway*.\n\nIn later years, as Pure Prairie League evolved into a long-running touring act with periodic reunion cycles, Call also returned to the fold, underscoring his status as a foundational member audiences associated with the classic sound.\n\nHis presence in the band’s history is also tied to the broader story of country-rock as a genre—where the steel guitar could sit comfortably alongside rock rhythm sections and pop-leaning choruses.\n\nWithin Pure Prairie League’s arrangements, Call’s parts frequently carried the emotional “lift” in transitions and outros, providing melodic hooks that complemented the band’s harmony singing.\n\nWhile many later members brought Nashville polish or contemporary adult-pop sensibilities, Call’s contributions kept a strong thread of traditional country instrumentation running through the group’s identity.\n\nAcross decades of concerts and changing personnel, his steel guitar remains one of the clearest musical signifiers of what made Pure Prairie League different from adjacent soft-rock acts.",
+            "Sources": [
+              {
+                "Title": "Pure Prairie League",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pure_Prairie_League"
+              },
+              {
+                "Title": "Pure Prairie League | Biography & History",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/pure-prairie-league-mn0000371879/biography"
+              },
+              {
+                "Title": "About Us",
+                "Publisher": "Pure Prairie League Official Site",
+                "Url": "https://pureprairieleague.com/about-us/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Michael Connor",
+          "Roles": [
+            "Keyboards",
+            "Piano",
+            "Synthesizers"
+          ],
+          "Years": "1972–1988; 1998–2004",
+          "YearsActive": "1970s–2004",
+          "Instruments": [
+            "Keyboards",
+            "Piano",
+            "Synthesizers"
+          ],
+          "Albums": [
+            {
+              "Title": "Bustin' Out",
+              "Year": "1972"
+            },
+            {
+              "Title": "Two Lane Highway",
+              "Year": "1975"
+            },
+            {
+              "Title": "Firin' Up",
+              "Year": "1980"
+            }
+          ],
+          "Overview": "Long-serving keyboardist whose piano and synth textures became a core part of the classic sound.",
+          "Bio": {
+            "BioID": "pure-prairie-league-michael-connor",
+            "ArtistID": "pure-prairie-league",
+            "ArtistName": "Pure Prairie League",
+            "MemberName": "Michael Connor",
+            "FullName": "Michael Edward Connor",
+            "Birth": {
+              "Date": "1949-12-07",
+              "Place": "Latonia, Kentucky, United States"
+            },
+            "Death": {
+              "Date": "2004-09-02",
+              "Place": "Siesta Key, Florida, United States"
+            },
+            "ActiveYears": "1970s–2004",
+            "Occupations": "Musician",
+            "PrimaryInstruments": "Keyboards, piano",
+            "Genres": "Country rock, soft rock",
+            "AssociatedActs": "Pure Prairie League",
+            "KeyAlbums": "Bustin' Out; Two Lane Highway; Firin' Up",
+            "KeySongs": "Amie; Let Me Love You Tonight",
+            "Achievements": "Long-serving keyboardist whose piano and synthesizer textures shaped the band’s classic sound",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Pure_Prairie_League"
+            },
+            "Biography": "",
+            "FullText": "Michael Connor was the keyboardist and arranger whose piano and synthesizer textures became a core component of Pure Prairie League’s best-known sound across the 1970s and into later reunion periods.\n\nJoining the band in the early 1970s, Connor helped expand the group’s palette beyond guitars and steel—adding melodic counterlines, warm chord beds, and rhythmic piano parts that supported the band’s harmony-driven songwriting.\n\nHis playing is closely associated with the era when Pure Prairie League’s touring began to translate into national chart visibility, helping to frame the band’s blend of country instrumentation and soft-rock accessibility.\n\nAs the group’s catalog moved through key titles like *Two Lane Highway* and *If the Shoe Fits*, Connor’s keyboards often acted as the connective tissue between country phrasing and pop-leaning choruses.\n\nBecause Pure Prairie League frequently changed personnel, the continuity of Connor and a few other long-serving members mattered; his sound helped keep the band recognizable even as vocalists and guitarists rotated.\n\nConnor was also part of the band’s late-1970s and early-1980s shift toward smoother adult-contemporary presentation, a period that produced major radio hits such as “Let Me Love You Tonight.”\n\nAfter the group’s 1988 break, he later returned during the 1998 revival that brought classic members back to the stage, restoring the instrumental character many listeners associated with the classic records.\n\nIn that revival era, Connor again contributed to the band’s live identity while Pure Prairie League remained a durable touring name with a multigenerational audience.\n\nConnor died in 2004 after a long battle with cancer, a loss that marked the end of an era for fans who connected his keyboard work with the band’s most enduring recordings and reunion concerts.\n\nHis legacy in Pure Prairie League is the kind that’s often felt as much as heard: the harmonic support, the tasteful melodic fills, and the sense of “space” that let the group’s steel guitar and vocals sit comfortably in the mix.",
+            "Sources": [
+              {
+                "Title": "Pure Prairie League",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pure_Prairie_League"
+              },
+              {
+                "Title": "Michael Edward Connor",
+                "Publisher": "Legacy.com",
+                "Url": "https://www.legacy.com/us/obituaries/heraldtribune/name/michael-connor-obituary?id=28852970"
+              },
+              {
+                "Title": "Pure Prairie League | Biography & History",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/pure-prairie-league-mn0000371879/biography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Michael Reilly",
+          "Roles": [
+            "Bass",
+            "Vocals",
+            "Multi-instrumentalist"
+          ],
+          "Years": "1972–1988; 1998–2021",
+          "YearsActive": "1970s–2020s",
+          "Instruments": [
+            "Bass",
+            "Vocals",
+            "Guitar",
+            "Mandolin"
+          ],
+          "Albums": [
+            {
+              "Title": "Bustin' Out",
+              "Year": "1972"
+            },
+            {
+              "Title": "Two Lane Highway",
+              "Year": "1975"
+            },
+            {
+              "Title": "Firin' Up",
+              "Year": "1980"
+            },
+            {
+              "Title": "Something in the Night",
+              "Year": "1981"
+            }
+          ],
+          "Overview": "Longtime bassist and vocalist closely associated with the band’s 1970s–1980s chart years and later touring.",
+          "Bio": {
+            "BioID": "pure-prairie-league-michael-reilly",
+            "ArtistID": "pure-prairie-league",
+            "ArtistName": "Pure Prairie League",
+            "MemberName": "Michael Reilly",
+            "FullName": "Michael Reilly",
+            "Birth": {
+              "Date": "",
+              "Place": "Fort Thomas, Kentucky, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1970s–2020s",
+            "Occupations": "Musician",
+            "PrimaryInstruments": "Bass, vocals",
+            "Genres": "Country rock, soft rock",
+            "AssociatedActs": "Pure Prairie League",
+            "KeyAlbums": "Bustin' Out; Two Lane Highway; Firin' Up; Something in the Night",
+            "KeySongs": "Amie; Let Me Love You Tonight; Still Right Here in My Heart",
+            "Achievements": "Longtime bassist/vocalist identified with the band’s 1970s–1980s chart years and later touring",
+            "ExternalLinks": {
+              "AllMusic": "https://www.allmusic.com/artist/michael-reilly-mn0000465490"
+            },
+            "Biography": "",
+            "FullText": "Michael (Mike) Reilly was the bassist and vocalist most closely associated with Pure Prairie League’s long-running “classic” years, spanning the band’s 1970s rise, 1980s radio peak, and later reunion touring.\n\nA Northern Kentucky native, Reilly joined the group in the early 1970s and became an anchor in a band known for frequent personnel changes—often providing continuity on stage and in the studio when other roles turned over.\n\nOn the records and in live performance, his contributions went beyond bass lines: he handled vocals and additional stringed instruments, helping the band maintain its harmony-rich presentation through changing lineups.\n\nReilly was part of the period when *Bustin’ Out* gained delayed national traction via the reissued single “Amie,” and he remained active through subsequent albums that kept Pure Prairie League on the charts in the mid-1970s.\n\nAs the group’s sound evolved toward a smoother, adult-contemporary sheen in the late 1970s and early 1980s, Reilly stayed in the engine room—supporting new frontmen, new label situations, and a shifting stylistic center.\n\nHe was present for the band’s biggest national pop hit, “Let Me Love You Tonight,” and the stretch of singles that kept the name in rotation even as the country-rock landscape changed around them.\n\nAfter the band’s late-1980s breakup, Reilly returned in the late 1990s for a revival edition of Pure Prairie League, once again serving as a key connective figure between the original catalog and the touring present.\n\nDuring the 2000s, the group continued to work the road, and Reilly’s role as a recognizable musical constant remained important for audiences who came to hear the classic songs delivered with authority.\n\nReilly faced significant health challenges in the mid-2000s, including a period in which he was sidelined; he later returned to perform again, underscoring his personal identification with the band and its audience.\n\nHe ultimately stepped back from full-time touring in the 2020s, closing a chapter defined by durability: decades of shows, multiple eras of the band, and a steady musical presence that helped Pure Prairie League remain a living act rather than a nostalgia brand.",
+            "Sources": [
+              {
+                "Title": "Pure Prairie League",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pure_Prairie_League"
+              },
+              {
+                "Title": "Michael Reilly",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/michael-reilly-mn0000465490"
+              },
+              {
+                "Title": "Defy Categorization: A conversation with Pure Prairie League's Mike Reilly",
+                "Publisher": "Southern Stages",
+                "Url": "https://southernstagesmusic.com/defy-categorization-a-conversation-with-pure-prairie-leagues-mike-reilly/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Vince Gill",
+          "Roles": [
+            "Lead vocals",
+            "Guitar",
+            "Songwriter"
+          ],
+          "Years": "1978–1982",
+          "YearsActive": "1976–present",
+          "Instruments": [
+            "Vocals",
+            "Guitar",
+            "Mandolin",
+            "Banjo",
+            "Fiddle"
+          ],
+          "Albums": [
+            {
+              "Title": "Can't Hold Back",
+              "Year": "1979"
+            },
+            {
+              "Title": "Firin' Up",
+              "Year": "1980"
+            },
+            {
+              "Title": "Something in the Night",
+              "Year": "1981"
+            }
+          ],
+          "Overview": "Late-1970s frontman who sang lead on the band’s biggest pop hit, “Let Me Love You Tonight.”",
+          "Bio": {
+            "BioID": "pure-prairie-league-vince-gill",
+            "ArtistID": "pure-prairie-league",
+            "ArtistName": "Pure Prairie League",
+            "MemberName": "Vince Gill",
+            "FullName": "Vincent Grant Gill",
+            "Birth": {
+              "Date": "1957-04-12",
+              "Place": "Norman, Oklahoma, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": "1976–present",
+            "Occupations": "Singer, songwriter, musician",
+            "PrimaryInstruments": "Vocals, guitar",
+            "Genres": "Country, bluegrass, rock",
+            "AssociatedActs": "Pure Prairie League; The Notorious Cherry Bombs; Eagles",
+            "KeyAlbums": "Can't Hold Back; Firin' Up; Something in the Night",
+            "KeySongs": "Let Me Love You Tonight; I'm Almost Ready",
+            "Achievements": "Became Pure Prairie League’s late-1970s frontman and sang lead on the band’s biggest pop hit, 'Let Me Love You Tonight'",
+            "ExternalLinks": {
+              "Official Site": "https://vincegill.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Vince_Gill"
+            },
+            "Biography": "",
+            "FullText": "Vince Gill is a guitarist, vocalist, and songwriter whose early mainstream breakthrough came when he joined Pure Prairie League at the end of the 1970s, stepping into the role of lead singer during a major transition for the band.\n\nBorn in Norman, Oklahoma, Gill came up through bluegrass and regional bands before moving into a more pop-leaning country-rock context—skills that made him a strong fit for a touring act looking for both vocal range and instrumental versatility.\n\nIn 1978, Pure Prairie League held auditions for a new frontman, and Gill was hired soon after—bringing a clearer, more contemporary lead vocal and a musician’s comfort with multiple stringed instruments.\n\nHe appeared on *Can’t Hold Back* (1979), a record that documented the band’s lineup reset and set the stage for their next—and biggest—commercial phase.\n\nOn *Firin’ Up* (1980), Gill fronted the group for “Let Me Love You Tonight,” the band’s highest-charting pop single and a major adult-contemporary hit. His voice gave the track an immediacy that fit radio trends of the era.\n\nGill also contributed as a writer in this period, including work connected to the album’s follow-up singles, reflecting a role that was not just “hired gun” frontman but an integrated creative contributor.\n\nDuring his Pure Prairie League years, the band’s sound leaned more directly into adult-pop and soft-rock polish, while still retaining traces of the earlier country-rock instrumentation—an evolution that mirrored broader shifts in late-1970s American radio.\n\nGill left the band in the early 1980s as label and lineup pressures changed, and he moved into the Nashville ecosystem that would define the rest of his career.\n\nHe went on to become one of modern country music’s most decorated and respected artists, known for high-level guitar playing, vocal control, and songwriting craft across decades of albums and collaborations.\n\nAlthough his tenure in Pure Prairie League was only one chapter, it remains a pivotal one: the moment he first reached a national audience, and the era when the band achieved its biggest pop-chart impact.",
+            "Sources": [
+              {
+                "Title": "Vince Gill",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Vince_Gill"
+              },
+              {
+                "Title": "Pure Prairie League",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pure_Prairie_League"
+              },
+              {
+                "Title": "Vince Gill",
+                "Publisher": "Country Music Hall of Fame and Museum",
+                "Url": "https://www.countrymusichalloffame.org/artist/vince-gill"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "George Ed Powell",
+          "Roles": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Years": "1970–1978",
+          "YearsActive": "1970s",
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Overview": "Early co-founder and frontman in the band’s Ohio club years, appearing on the earliest lineup and helping establish the original country-rock blend.",
+          "Albums": []
+        },
+        {
+          "Name": "Larry Goshorn",
+          "Roles": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Years": "1973–1978",
+          "YearsActive": "1970s",
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Overview": "Joined after Craig Fuller’s early departure and became a prominent mid-1970s vocalist/guitarist during the band’s charting run.",
+          "Albums": []
+        },
+        {
+          "Name": "Billy Hinds",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Years": "1972–1984",
+          "YearsActive": "1970s–1980s",
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Overview": "Long-serving drummer through the core 1970s albums and the band’s late-1970s/early-1980s transition to a smoother radio sound.",
+          "Albums": []
+        },
+        {
+          "Name": "Gary Burr",
+          "Roles": [
+            "Vocals",
+            "Guitar",
+            "Songwriter"
+          ],
+          "Years": "1984–1985; 1998–2000",
+          "YearsActive": "1980s–2000s",
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Overview": "Singer-songwriter who took a lead role in the mid-1980s and later participated in the late-1990s revival lineup.",
+          "Albums": []
+        }
+      ]
     },
     {
       "ArtistID": "queen",
