@@ -2965,8 +2965,409 @@
   {
     "ArtistID": "bread",
     "Name": "Bread",
-    "CoreMembers": [],
-    "NonCoreMembers": []
+    "Type": "Band",
+    "Origin": {
+      "City": "Los Angeles",
+      "Region": "California",
+      "Country": "United States"
+    },
+    "YearsActive": [
+      "1968–1973",
+      "1976–1978",
+      "1996–1997"
+    ],
+    "Genres": [
+      "Soft rock",
+      "Pop rock",
+      "AM pop"
+    ],
+    "Labels": [
+      "Elektra"
+    ],
+    "Overview": "Formed in Los Angeles in 1968, Bread became one of the defining hit-making groups of early‑1970s soft rock—built around producer/songwriter David Gates’ polished craft and a shared‑vocal partnership with guitarist/songwriter Jimmy Griffin. With clean, radio-friendly arrangements, warm harmonies, and melodies that sat between pop, rock, and adult contemporary, Bread helped codify an “AM gold” sound that would dominate FM/AM crossover playlists through the decade.\n\nThe band broke through when “Make It with You” topped the U.S. singles chart in 1970, and they followed it with a run of enduring ballads and mid‑tempo pop‑rock staples—songs like “If,” “Baby I’m‑a Want You,” “Everything I Own,” and “Guitar Man.” Across their classic run they placed more than a dozen singles on the Billboard Hot 100 and maintained a steady album presence, with *On the Waters*, *Manna*, *Baby I’m‑a Want You*, and *Guitar Man* anchoring their peak era.\n\nInternal tensions and shifting priorities led to multiple breakups and reunions (including a mid‑1970s comeback and a 1996–97 anniversary tour), but the core appeal never changed: concise songwriting, studio precision, and a bittersweet romantic tone that made Bread staples for both pop radio and the adult contemporary format.",
+    "NotableAlbums": [
+      {
+        "Title": "On the Waters",
+        "Year": 1970,
+        "Notes": "Breakthrough album that cemented Bread’s soft‑rock identity and included the chart‑topping single “Make It with You.”"
+      },
+      {
+        "Title": "Manna",
+        "Year": 1971,
+        "Notes": "A polished, harmony‑rich set that extended the band’s hit run and showcased their balance of ballads and radio‑ready pop arrangements."
+      },
+      {
+        "Title": "Baby I’m‑a Want You",
+        "Year": 1972,
+        "Notes": "Often considered their commercial peak, pairing high‑gloss production with some of the group’s most enduring singles."
+      },
+      {
+        "Title": "Guitar Man",
+        "Year": 1972,
+        "Notes": "A strong late‑classic entry that leaned a bit more into rock instrumentation while retaining the band’s melodic, romantic core."
+      },
+      {
+        "Title": "The Best of Bread",
+        "Year": 1973,
+        "Notes": "A definitive hits compilation that helped canonize their 1970–72 singles run for later generations."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Make It with You",
+        "Year": 1970,
+        "Notes": "Their signature No. 1—an effortless pop‑soul ballad built on Gates’ melody and understated groove."
+      },
+      {
+        "Title": "It Don’t Matter to Me",
+        "Year": 1970,
+        "Notes": "A key early hit that highlighted Bread’s knack for emotional clarity and tight vocal blends."
+      },
+      {
+        "Title": "If",
+        "Year": 1971,
+        "Notes": "A tender ballad that became one of the era’s standard love songs, later widely covered."
+      },
+      {
+        "Title": "Baby I’m‑a Want You",
+        "Year": 1971,
+        "Notes": "A sleek, yearning single that defined their early‑’70s adult‑contemporary peak."
+      },
+      {
+        "Title": "Everything I Own",
+        "Year": 1972,
+        "Notes": "A bittersweet pledge of devotion that became a perennial soft‑rock staple."
+      },
+      {
+        "Title": "Diary",
+        "Year": 1972,
+        "Notes": "A gentle, confessional single that exemplifies the band’s intimate lyrical approach."
+      },
+      {
+        "Title": "The Guitar Man",
+        "Year": 1972,
+        "Notes": "A slightly tougher arrangement with a memorable riff, showing Bread’s pop‑rock side."
+      },
+      {
+        "Title": "Aubrey",
+        "Year": 1972,
+        "Notes": "A piano‑led heartbreak ballad that endures as one of Gates’ most beloved songs."
+      },
+      {
+        "Title": "Sweet Surrender",
+        "Year": 1972,
+        "Notes": "A late‑classic hit that paired upbeat rhythm with the group’s warm, melodic sheen."
+      }
+    ],
+    "Achievements": [
+      {
+        "Title": "U.S. No. 1 single",
+        "Year": 1970,
+        "Details": "“Make It with You” reached the top of the U.S. singles chart and remains the group’s defining crossover hit."
+      },
+      {
+        "Title": "String of Hot 100 hits",
+        "Year": 1970,
+        "Details": "Placed more than a dozen singles on the Billboard Hot 100 during their classic 1970–77 run."
+      },
+      {
+        "Title": "Vocal Group Hall of Fame induction",
+        "Year": 2006,
+        "Details": "Inducted in recognition of their harmony‑driven pop success and lasting influence on soft rock."
+      }
+    ],
+    "KeyFacts": [
+      "Core classic lineup: David Gates, Jimmy Griffin, Mike Botts; with Robb Royer (1968–1971) and Larry Knechtel (from 1971).",
+      "Known for immaculate studio production, close harmonies, and concise songwriting—foundational to the adult‑contemporary/soft‑rock format.",
+      "Multiple reunions followed their 1973 split, including a mid‑1970s comeback and a final 25th‑anniversary tour in 1996–97.",
+      "Gates wrote or co‑wrote most of Bread’s biggest hits, while Griffin contributed key tracks and co‑writing across the catalog."
+    ],
+    "ExternalLinks": {
+      "AllMusic — Bread": "https://www.allmusic.com/artist/bread-mn0000610706",
+      "Wikipedia — Bread (band)": "https://en.wikipedia.org/wiki/Bread_(band)",
+      "Vocal Group Hall of Fame — Bread": "https://vocalgroup.org/inductees/bread/"
+    },
+    "CoreMembers": [
+      {
+        "Name": "David Gates",
+        "YearsActive": "1968–1973; 1976–1978; 1996–1997",
+        "Years": "1968–1973; 1976–1978; 1996–1997",
+        "Roles": "Co‑lead vocals; keyboards; guitar; primary songwriter; producer",
+        "Instruments": "Vocals; piano/keyboards; guitar; bass (studio)",
+        "Albums": [
+          "Bread (1969)",
+          "On the Waters (1970)",
+          "Manna (1971)",
+          "Baby I’m‑a Want You (1972)",
+          "Guitar Man (1972)",
+          "Lost Without Your Love (1977)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1940-12-11",
+            "Place": "Tulsa, Oklahoma, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Co‑lead vocals; keyboards; guitar; primary songwriter; producer",
+          "Instruments": "Vocals; piano/keyboards; guitar; bass (studio)",
+          "FullText": "David Ashworth Gates (born December 11, 1940, in Tulsa, Oklahoma) was the architectural center of Bread’s sound: a songwriter with a gift for economical hooks, a producer’s ear for gloss, and a vocalist whose gentle phrasing became synonymous with early‑’70s soft rock.\n\nBefore Bread’s name was on a marquee, Gates had already built a reputation around Los Angeles as a studio‑savvy musician and producer. That background mattered: Bread’s records were never casual demos turned loose—each track was arranged to land cleanly on radio, with bright vocals, tidy rhythm parts, and a warm, uncluttered mix.\n\nIn 1968, Gates joined forces with guitarist/singer Jimmy Griffin and multi‑instrumentalist Robb Royer, forming Bread and signing to Elektra. From the start, Gates wrote with a “single‑minded” sense of song shape—strong opening line, memorable chorus, and a bridge that deepened the mood without derailing the melody.\n\nThe band’s breakthrough came when “Make It with You” reached No. 1 in the U.S. in 1970, putting Gates’ romantic minimalism at the center of mainstream pop. The song’s success also set a template for Bread’s best work: a soft groove, clear chord movement, and a chorus that felt inevitable.\n\nThrough the band’s classic run, Gates supplied many of the core titles that define their catalog—“If,” “Everything I Own,” “Aubrey,” and “Sweet Surrender,” among others. Even when arrangements leaned a bit more toward pop‑rock (“The Guitar Man”), his writing kept the emotional temperature intimate rather than bombastic.\n\nInside the group, Gates functioned as both leader and lightning rod. Bread’s identity was closely tied to his songs, and that balance—between a band’s collective chemistry and a frontman’s hit‑driven direction—shaped the internal tensions that surfaced as their success grew.\n\nAfter Bread’s initial split in 1973, Gates continued as a solo artist and remained associated with the same melodic sensibility that made Bread ubiquitous on radio. The period reinforced a key truth about his craft: he could deliver hits in a band context or under his own name because the songwriting voice was unmistakably his.\n\nReunions in the mid‑1970s and again in the mid‑1990s brought the classic material back to the stage, where Gates’ role as lead vocalist and musical director was even more evident. Live, Bread’s songs depended on pacing and tone—qualities he controlled carefully, keeping performances faithful to the recorded feel that audiences expected.\n\nIn the wider arc of 1970s pop, Gates’ influence is often heard in the adult‑contemporary format that followed: carefully produced ballads, emotionally direct lyrics, and melodies designed to be sung easily by listeners at home or in the car.\n\nTaken together, his work with Bread stands as a masterclass in pop craftsmanship—songs that sound simple on the surface but are built with the precision of someone who understood studios, singles, and the psychology of melody as well as any writer of his era.",
+          "HonoursAndMilestones": [
+            "Frontman and primary songwriter/producer for Bread’s classic era.",
+            "Wrote/co‑wrote many of the band’s best‑known songs, including the U.S. No. 1 “Make It with You.”"
+          ],
+          "FunFacts": [
+            "Known for a producer’s approach to pop songwriting—clean arrangements, clear vocal stacks, and radio‑ready mixes.",
+            "Often cited as one of the defining voices of early‑1970s soft rock."
+          ],
+          "Sources": [
+            {
+              "Title": "AllMusic — David Gates",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/david-gates-mn0000179126"
+            },
+            {
+              "Title": "Wikipedia — David Gates",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/David_Gates"
+            },
+            {
+              "Title": "Wikipedia — Bread (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Bread_(band)"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Jimmy Griffin",
+        "YearsActive": "1968–1973; 1976–1978; 1996–1997 (touring era association)",
+        "Years": "1968–1973; 1976–1978; 1996–1997 (touring era association)",
+        "Roles": "Co‑lead vocals; guitar; songwriter",
+        "Instruments": "Vocals; guitar",
+        "Albums": [
+          "Bread (1969)",
+          "On the Waters (1970)",
+          "Manna (1971)",
+          "Baby I’m‑a Want You (1972)",
+          "Guitar Man (1972)",
+          "Lost Without Your Love (1977)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1943-08-10",
+            "Place": "Cincinnati, Ohio, U.S. (raised in Memphis, Tennessee)"
+          },
+          "Nationality": "American",
+          "Roles": "Co‑lead vocals; guitar; songwriter",
+          "Instruments": "Vocals; guitar",
+          "FullText": "James Arthur “Jimmy” Griffin (August 10, 1943 – January 11, 2005) was Bread’s essential counterweight to David Gates: a guitarist and vocalist with a slightly tougher pop‑rock edge, plus a songwriter’s instincts shaped by early‑’60s Los Angeles industry realities.\n\nBorn in Cincinnati, Ohio, Griffin pursued music professionally at a young age and eventually established himself in Southern California’s songwriting and recording orbit. By the time Bread formed, he already understood how to build a track around a hook and a vocal that felt conversational rather than theatrical.\n\nAs a founding member, Griffin helped define Bread’s early identity as a *band*, not just a vehicle for one writer. The debut album split writing credit between Gates and the Griffin‑Royer partnership, reflecting how the group initially aimed for balance between multiple voices and styles.\n\nGriffin’s strengths were clear in the way Bread handled mid‑tempo pop and guitar‑driven material: he brought rhythmic bite and a rock musician’s grounding, giving the group a sturdier backbone than their “soft rock” label sometimes suggests.\n\nHis collaboration with Robb Royer extended beyond Bread’s albums. The pair co‑wrote “For All We Know,” a song that won the Academy Award for Best Original Song—an achievement that underscores Griffin’s stature as a professional songwriter of his generation.\n\nWithin Bread’s hit years, Griffin was also a vital harmony singer and stage presence. The band’s appeal relied on the sense of multiple lead voices blending into a unified sound, and Griffin’s contributions kept that blend from becoming too polished or one‑dimensional.\n\nTensions over single choices and the distribution of attention were part of Bread’s story, and Griffin was often at the center of those disputes because he cared intensely about the band being represented as a true partnership. In many ways, that friction is inseparable from why the catalog feels like more than a set of studio ballads.\n\nAfter Bread, Griffin continued working in songwriting and performance, moving through different projects as the music industry shifted away from the early‑’70s album‑and‑single ecosystem. He remained connected to country‑leaning collaborations later on, illustrating his adaptability as tastes changed.\n\nEven as Bread’s reputation settled into classic‑hits programming, Griffin’s role stayed visible to devoted listeners: his voice, guitar presence, and co‑writing helped keep the group’s repertoire from collapsing into a single mood or tempo.\n\nGriffin’s legacy inside Bread is the legacy of a co‑founder who insisted on musical identity and band chemistry—proof that the most enduring “soft rock” often has a rock‑and‑roll engine underneath the smooth finish.",
+          "HonoursAndMilestones": [
+            "Co‑founder of Bread and key early writer/voice in the group.",
+            "Co‑wrote the Academy Award‑winning song “For All We Know” (lyrics, with Robb Royer)."
+          ],
+          "FunFacts": [
+            "Also credited as “James Griffin” and “Jimmy Griffin” across releases and press.",
+            "Maintained a songwriting career beyond Bread through multiple later projects."
+          ],
+          "Sources": [
+            {
+              "Title": "AllMusic — James Griffin",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/james-griffin-mn0000787170"
+            },
+            {
+              "Title": "Wikipedia — Jimmy Griffin",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Jimmy_Griffin"
+            },
+            {
+              "Title": "Rolling Stone — Bread’s James Griffin Dies",
+              "Publisher": "Rolling Stone",
+              "Url": "https://www.rollingstone.com/music/music-news/breads-james-griffin-dies-113341/"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Robb Royer",
+        "YearsActive": "1968–1971",
+        "Years": "1968–1971",
+        "Roles": "Founding member; guitar/bass; harmony vocals; songwriter",
+        "Instruments": "Guitar; bass; vocals; flute/keyboards (select)",
+        "Albums": [
+          "Bread (1969)",
+          "On the Waters (1970)",
+          "Manna (1971)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1942-12-06",
+            "Place": "Los Angeles, California, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Founding member; guitar/bass; harmony vocals; songwriter",
+          "Instruments": "Guitar; bass; vocals; flute/keyboards (select)",
+          "FullText": "Robb Royer (born December 6, 1942, in Los Angeles, California) was a founding member of Bread whose multi‑instrumental skill set and songwriting partnership with Jimmy Griffin shaped the band’s earliest albums before his departure in 1971.\n\nRoyer came out of Southern California’s late‑’60s pop and studio scene, where versatility was a survival trait. In Bread’s first phase he contributed bass and guitar parts, added color through instruments like flute and keyboards, and helped build the group’s layered vocal blend.\n\nOn the debut and follow‑up records, Royer’s role is felt in the band’s “band‑as‑a‑unit” texture—arrangements that leave room for small instrumental hooks and background details that keep the songs moving even when the tempos are gentle.\n\nSongwriting was central to his identity. With Griffin, Royer shared credits across Bread’s early catalog, giving the group a second writing engine alongside Gates and ensuring the first three albums weren’t confined to one melodic vocabulary.\n\nOutside Bread, Royer’s most widely recognized achievement with Griffin was co‑writing “For All We Know,” the Academy Award‑winning song later popularized by major pop interpretations. That credential highlights the level at which he operated: not only as a band member but as a professional songwriter in the wider industry.\n\nRoyer left Bread in 1971 and was replaced by Larry Knechtel, a change that nudged the group toward an even more session‑polished, keyboard‑driven sound. Royer’s exit also marked the end of the initial era where Bread’s internal writing balance was most evenly split.\n\nEven after leaving, Royer remained connected to Griffin through occasional collaborations, and his later career leaned heavily into songwriting and production work—paths common for musicians whose strengths are compositional craft and studio intelligence.\n\nRoyer’s Bread years are a reminder that the band’s “soft rock” identity was built from multiple ingredients: Gates’ radio‑perfect melodies, Griffin’s guitar‑anchored edge, and Royer’s arranging instincts and co‑writing support.\n\nFor listeners tracing Bread’s evolution album to album, Royer’s period has a distinct flavor—slightly more group‑centric and exploratory, with a sense of three writers testing what the Bread sound could encompass before the hit machine fully locked in.\n\nIn the end, Royer’s legacy within Bread is foundational: he helped create the band, helped set its early musical vocabulary, and co‑wrote material that connected Bread’s internal story to the broader world of pop songwriting accolades.",
+          "HonoursAndMilestones": [
+            "Co‑founder of Bread; primary early collaborator with Jimmy Griffin.",
+            "Co‑wrote the Academy Award‑winning “For All We Know” (lyrics, with Jimmy Griffin)."
+          ],
+          "FunFacts": [
+            "Left Bread in 1971 and was replaced by Larry Knechtel.",
+            "Continued songwriting and production work after his touring years with Bread."
+          ],
+          "Sources": [
+            {
+              "Title": "AllMusic — Robb Royer",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/robb-royer-mn0000237917"
+            },
+            {
+              "Title": "Wikipedia — Robb Royer",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Robb_Royer"
+            },
+            {
+              "Title": "Wikipedia — Bread (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Bread_(band)"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Mike Botts",
+        "YearsActive": "1969–1973; 1976–1978; 1996–1997",
+        "Years": "1969–1973; 1976–1978; 1996–1997",
+        "Roles": "Drums; percussion; backing vocals (select)",
+        "Instruments": "Drums; percussion",
+        "Albums": [
+          "On the Waters (1970)",
+          "Manna (1971)",
+          "Baby I’m‑a Want You (1972)",
+          "Guitar Man (1972)",
+          "Lost Without Your Love (1977)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1944-12-08",
+            "Place": "Oakland, California, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Drums; percussion; backing vocals (select)",
+          "Instruments": "Drums; percussion",
+          "FullText": "Michael Gene Botts (December 8, 1944 – December 9, 2005) became Bread’s permanent drummer in 1969, and his understated, radio‑ready feel was a quiet but crucial ingredient in the band’s defining run of early‑’70s hits.\n\nBorn in Oakland, California, Botts developed as a working drummer in a scene where reliability and taste mattered as much as flash. That orientation fit Bread perfectly: their songs required grooves that stayed steady under dense vocal stacks and carefully balanced arrangements.\n\nBotts joined after the band’s earliest recordings used session drummers, and his arrival helped solidify Bread as a consistent touring unit. The difference wasn’t about louder drumming—it was about cohesion, the sense that the group had a stable rhythmic center in both the studio and on stage.\n\nOn Bread’s best‑known singles, Botts’ playing is defined by restraint: clean backbeats, gentle fills, and dynamics that support the melody rather than compete with it. In soft rock, that discipline is an art form, and Botts practiced it at a high level.\n\nBecause Bread’s arrangements often featured prominent acoustic guitars, pianos, and layered vocals, the drum parts had to be “felt” more than noticed. Botts’ touch kept the songs buoyant without pushing them into harder rock territory, helping the band remain accessible to both pop and adult‑contemporary audiences.\n\nOutside Bread, Botts also built a reputation as a session and touring drummer, contributing to recordings across the singer‑songwriter and pop‑rock spectrum. His adaptability—switching from intimate ballads to brighter, uptempo pop—mirrored the versatility required of Los Angeles‑based professionals.\n\nDuring Bread’s reunions, Botts remained a key connective thread, returning for the mid‑1970s comeback and the later anniversary tour. That continuity mattered: audiences associate Bread with a particular “feel,” and Botts was one of the players who could reproduce it authentically.\n\nBotts’ reputation among listeners often comes through in the way Bread songs *sit* on the beat—never rushed, never heavy‑handed, always designed to let the vocal story land. It’s the sort of contribution that becomes more impressive the more closely you listen.\n\nHis later years were marked by continued musical work and the enduring recognition that Bread’s hits remained staples on radio decades after their release—a testament to the kind of classic pop craftsmanship Botts helped deliver.\n\nBotts died in 2005, but his drumming lives on in a catalog that still sets a benchmark for soft‑rock rhythm sections: supportive, precise, and emotionally tuned to the song rather than the spotlight.",
+          "HonoursAndMilestones": [
+            "Joined in 1969 and became Bread’s permanent drummer for their hit era.",
+            "Respected for restrained, radio‑ready grooves that supported vocal‑forward arrangements."
+          ],
+          "FunFacts": [
+            "Known for extensive work as a touring and session drummer beyond Bread.",
+            "Died in 2005, leaving a legacy tied to Bread’s signature feel and pacing."
+          ],
+          "Sources": [
+            {
+              "Title": "Wikipedia — Mike Botts",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Mike_Botts"
+            },
+            {
+              "Title": "Wikipedia — Bread (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Bread_(band)"
+            },
+            {
+              "Title": "AllMusic — Mike Botts",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/mike-botts-mn0000893118"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Larry Knechtel",
+        "YearsActive": "1971–1973; 1976–1978; 1996–1997",
+        "Years": "1971–1973; 1976–1978; 1996–1997",
+        "Roles": "Keyboards; bass; guitar (multi‑instrumentalist)",
+        "Instruments": "Keyboards; bass; guitar; harmonica (select)",
+        "Albums": [
+          "Manna (1971)",
+          "Baby I’m‑a Want You (1972)",
+          "Guitar Man (1972)",
+          "Lost Without Your Love (1977)"
+        ],
+        "Bio": {
+          "Birth": {
+            "Date": "1940-08-04",
+            "Place": "Bell, California, U.S."
+          },
+          "Nationality": "American",
+          "Roles": "Keyboards; bass; guitar (multi‑instrumentalist)",
+          "Instruments": "Keyboards; bass; guitar; harmonica (select)",
+          "FullText": "Lawrence William “Larry” Knechtel (August 4, 1940 – August 20, 2009) joined Bread in 1971, bringing world‑class keyboard and bass chops from his long career as a Los Angeles session musician—an upgrade that deepened the band’s harmonic palette without changing their hit‑making focus.\n\nBorn in Bell, California, Knechtel became part of the famed L.A. studio ecosystem often associated with the Wrecking Crew, where players were expected to read anything, improvise tastefully, and elevate a track within minutes. That training made him an ideal fit for Bread’s precision‑built arrangements.\n\nIn Bread, Knechtel replaced founding member Robb Royer, and his arrival coincided with the band’s peak commercial period. His keyboard textures—pianos, organs, and other supportive layers—helped broaden the sound on albums like *Baby I’m‑a Want You* and *Guitar Man*.\n\nKnechtel’s value was not only technical. He had an arranger’s intuition about when to add weight and when to leave space, which is crucial in soft rock: the emotion often lives in the gaps between phrases as much as in the notes themselves.\n\nOutside Bread, Knechtel’s résumé is legendary, with credits across major pop and rock sessions. He is widely associated with high‑profile recordings from the era, illustrating how Bread’s internal lineup was intertwined with the same studio elite that powered countless classic records.\n\nThat session background also meant Knechtel could switch roles seamlessly—keyboards one moment, bass the next—supporting whatever a given song required. Bread’s music benefited from that flexibility because their arrangements frequently pivoted between ballad intimacy and brighter pop propulsion.\n\nDuring the band’s reunions, Knechtel returned as a stabilizing musical presence, helping the group recreate the layered, album‑faithful sound that audiences expected from the radio hits. His ability to reproduce nuanced parts night after night made him invaluable in live settings.\n\nKnechtel remained active as a working musician long after Bread’s initial era, exemplifying the career arc of the best session players: constantly in demand, respected across genres, and rarely limited to a single band identity.\n\nHe died in Yakima, Washington, in 2009, but his contribution to Bread is permanently embedded in their most beloved recordings—particularly the early‑’70s stretch where the band’s production and musicianship reached their most refined balance.\n\nKnechtel’s legacy inside Bread is a story of craftsmanship: a top‑tier session professional stepping into a successful band and quietly making it *better*—more harmonically rich, more texturally confident, and still perfectly aligned with the band’s melodic mission.",
+          "HonoursAndMilestones": [
+            "Joined Bread in 1971, replacing Robb Royer during the band’s commercial peak.",
+            "Noted L.A. session musician associated with the Wrecking Crew tradition."
+          ],
+          "FunFacts": [
+            "Played on countless studio sessions across major pop and rock recordings beyond Bread.",
+            "Died in 2009 in Yakima, Washington."
+          ],
+          "Sources": [
+            {
+              "Title": "Wikipedia — Larry Knechtel",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Larry_Knechtel"
+            },
+            {
+              "Title": "Los Angeles Times — Larry Knechtel dies at 69",
+              "Publisher": "Los Angeles Times",
+              "Url": "https://www.latimes.com/local/obituaries/la-me-larry-knechtel24-2009aug24-story.html"
+            },
+            {
+              "Title": "Wikipedia — Bread (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Bread_(band)"
+            }
+          ]
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Jim Gordon",
+        "YearsActive": "1968–1969 (session)",
+        "Years": "1968–1969 (session)",
+        "Roles": "Session drummer; percussion; piano (select)",
+        "Instruments": "Drums; percussion; piano",
+        "Albums": [
+          "Bread (1969)"
+        ],
+        "Overview": "Session musician who played drums on Bread’s debut album and performed at the band’s earliest concerts before Mike Botts became the permanent drummer."
+      },
+      {
+        "Name": "Ron Edgar",
+        "YearsActive": "1969 (session)",
+        "Years": "1969 (session)",
+        "Roles": "Session drummer",
+        "Instruments": "Drums",
+        "Albums": [
+          "Bread (1969)"
+        ],
+        "Overview": "Session drummer credited on Bread’s first album, part of the early studio lineup used before the band settled into a consistent touring rhythm section."
+      },
+      {
+        "Name": "Dean Parks",
+        "YearsActive": "1977–1978 (touring)",
+        "Years": "1977–1978 (touring)",
+        "Roles": "Touring lead guitarist",
+        "Instruments": "Guitar",
+        "Albums": [
+          "Lost Without Your Love (1977) (tour era)"
+        ],
+        "Overview": "Veteran session and touring guitarist who joined Bread’s late‑1970s reunion tour as lead guitarist, effectively serving as an additional on‑stage member during the 1977–78 performances."
+      }
+    ]
   },
   {
     "ArtistID": "breaking-benjamin",
