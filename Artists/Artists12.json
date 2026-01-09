@@ -115,8 +115,776 @@
     {
       "ArtistID": "nazareth",
       "Name": "Nazareth",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Dunfermline, Fife",
+        "Region": "Scotland",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1968–present"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Blues rock",
+        "Heavy metal",
+        "Rock and roll"
+      ],
+      "Labels": [
+        "Mooncrest",
+        "A&M",
+        "Vertigo",
+        "NEMS",
+        "Eagle",
+        "Frontiers"
+      ],
+      "Overview": "Nazareth are a Scottish hard rock band formed in December 1968 in Dunfermline, Fife, emerging from the local circuit around the Shadettes. Built around Dan McCafferty’s unmistakably raspy lead voice, Manny Charlton’s blues-rooted guitar approach, Pete Agnew’s melodic bass and harmony vocals, and Darrell Sweet’s driving drums, the group developed a tough, road-tested sound that sat between British blues-rock, early heavy metal, and arena-ready hard rock.\n\nAfter relocating to London in 1970, Nazareth released their self-titled debut in 1971 and quickly earned wider attention through relentless touring—most notably supporting Deep Purple. Their early-’70s run established the template: big riffs, hooky choruses, and a knack for reworking songs into crowd-pleasing rock statements. The Roger Glover–produced breakthrough Razamanaz (1973) delivered major UK singles and set the stage for a prolific mid-decade stretch that culminated in Hair of the Dog (1975), their best-known and highest-selling release.\n\nNazareth’s profile broadened internationally via signature songs like “This Flight Tonight” and their era-defining cover of “Love Hurts,” which became a major U.S. hit. Across decades marked by lineup changes and hard touring, the band maintained an unusually durable live following in Europe and beyond. Even after the deaths of Sweet (1999), Charlton (2022) and McCafferty (2022), Nazareth continued as a working rock institution anchored by Agnew, with later lineups carrying the catalog into new tours and studio releases.",
+      "NotableAlbums": [
+        {
+          "Title": "Razamanaz",
+          "Year": "1973",
+          "Notes": "Breakthrough studio album produced by Roger Glover; spawned major UK singles and pushed the band onto larger tours."
+        },
+        {
+          "Title": "Loud 'n' Proud",
+          "Year": "1973",
+          "Notes": "Follow-up produced by Glover; further cemented the band’s hard-rock identity and deepened their UK and European profile."
+        },
+        {
+          "Title": "Rampant",
+          "Year": "1974",
+          "Notes": "Hard-driving mid-’70s set with a heavier edge; continued Nazareth’s move toward arena-scale rock."
+        },
+        {
+          "Title": "Hair of the Dog",
+          "Year": "1975",
+          "Notes": "Best-known and highest-selling Nazareth album; features “Hair of the Dog” and their hit version of “Love Hurts”."
+        },
+        {
+          "Title": "Expect No Mercy",
+          "Year": "1977",
+          "Notes": "Late-’70s hard rock staple that kept the band in heavy rotation for touring audiences."
+        },
+        {
+          "Title": "No Mean City",
+          "Year": "1979",
+          "Notes": "Heavier, guitar-forward album associated with the Zal Cleminson era; includes fan favorite “Holiday”."
+        },
+        {
+          "Title": "Tattooed on My Brain",
+          "Year": "2018",
+          "Notes": "A late-career studio statement released via Frontiers; showed the band still oriented around classic hard-rock hooks."
+        },
+        {
+          "Title": "Surviving the Law",
+          "Year": "2022",
+          "Notes": "Late-period album released after decades of touring; part of the band’s continuing 21st-century output."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Love Hurts",
+          "Year": "1975/1976",
+          "Notes": "Nazareth’s power-ballad cover became a major U.S. hit, peaking at No. 8 on the Billboard Hot 100 in 1976."
+        },
+        {
+          "Title": "Hair of the Dog",
+          "Year": "1975",
+          "Notes": "Signature riff-driven anthem and title track of the band’s best-known album."
+        },
+        {
+          "Title": "This Flight Tonight",
+          "Year": "1973",
+          "Notes": "Hard-rock rework of the Joni Mitchell song; one of the band’s best-known singles and a live staple."
+        },
+        {
+          "Title": "Broken Down Angel",
+          "Year": "1973",
+          "Notes": "UK Top 10 single from Razamanaz; helped establish Nazareth as a hit-making hard rock act in Britain."
+        },
+        {
+          "Title": "Bad Bad Boy",
+          "Year": "1973",
+          "Notes": "Another key UK single from the breakthrough era, reinforcing the band’s swaggering stage persona."
+        },
+        {
+          "Title": "Razamanaz",
+          "Year": "1973",
+          "Notes": "Title track that became a defining concert opener/closer in multiple eras of the band."
+        },
+        {
+          "Title": "My White Bicycle",
+          "Year": "1975",
+          "Notes": "Memorable cover that became a notable single in parts of Europe and a fan-favorite in the catalog."
+        },
+        {
+          "Title": "Holiday",
+          "Year": "1979",
+          "Notes": "Late-’70s crowd favorite associated with No Mean City-era concerts."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1973",
+          "Title": "Breakthrough UK singles era",
+          "Details": "Razamanaz produced UK Top 10 singles including “Broken Down Angel,” driving the band from cult touring status into mainstream visibility."
+        },
+        {
+          "Year": "1975",
+          "Title": "Career-defining album",
+          "Details": "Hair of the Dog became Nazareth’s best-known and highest-selling release, reported as selling over two million copies worldwide."
+        },
+        {
+          "Year": "1976",
+          "Title": "Major U.S. hit single",
+          "Details": "“Love Hurts” peaked at No. 8 on the Billboard Hot 100 and ranked No. 23 on Billboard’s year-end Hot 100 for 1976."
+        },
+        {
+          "Year": "1973",
+          "Title": "International single success",
+          "Details": "“This Flight Tonight” became one of the band’s signature international singles, charting strongly in multiple territories."
+        },
+        {
+          "Year": "1993",
+          "Title": "Influence recognized by peers",
+          "Details": "Guns N’ Roses covered “Hair of the Dog” on The Spaghetti Incident?, highlighting Nazareth’s vocal and riff influence on later hard rock."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in December 1968 in Dunfermline, Scotland; the lineup came out of the local band the Shadettes.",
+        "The band name references Nazareth, Pennsylvania, as cited in the opening line of The Band’s song “The Weight.”",
+        "After moving to London in 1970, Nazareth built momentum through touring and supporting major acts such as Deep Purple.",
+        "Classic founding lineup: Dan McCafferty (vocals), Manny Charlton (guitar), Pete Agnew (bass), Darrell Sweet (drums).",
+        "Drummer Darrell Sweet died in 1999 while on tour; guitarist Manny Charlton and singer Dan McCafferty both died in 2022."
+      ],
+      "ExternalLinks": {
+        "Official Site — Nazareth": "https://www.nazarethband.com/",
+        "Wikipedia — Nazareth (band)": "https://en.wikipedia.org/wiki/Nazareth_(band)",
+        "Wikipedia — Hair of the Dog (album)": "https://en.wikipedia.org/wiki/Hair_of_the_Dog_(album)"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Dan McCafferty",
+          "Roles": [
+            "Lead vocals",
+            "Songwriter"
+          ],
+          "Years": "1968–2013",
+          "YearsActive": "1961–2022",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            {
+              "Title": "Razamanaz",
+              "Year": "1973"
+            },
+            {
+              "Title": "Hair of the Dog",
+              "Year": "1975"
+            },
+            {
+              "Title": "No Mean City",
+              "Year": "1979"
+            },
+            {
+              "Title": "Rock 'n' Roll Telephone",
+              "Year": "2014"
+            }
+          ],
+          "Overview": "Founding lead singer whose raspy, soulful delivery defined Nazareth’s classic sound; stepped back from touring due to illness and died in 2022.",
+          "Bio": {
+            "BioID": "nazareth-dan-mccafferty",
+            "ArtistID": "nazareth",
+            "ArtistName": "Nazareth",
+            "MemberName": "Dan McCafferty",
+            "FullName": "William Daniel McCafferty",
+            "Birth": {
+              "Date": "October 14, 1946",
+              "Place": "Dunfermline, Fife, Scotland"
+            },
+            "Death": {
+              "Date": "November 8, 2022",
+              "Place": "Scotland"
+            },
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician"
+            ],
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Blues rock",
+              "Heavy metal",
+              "Rock and roll"
+            ],
+            "AssociatedActs": [
+              "Nazareth"
+            ],
+            "ActiveYears": [
+              "1961–2022"
+            ],
+            "CareerHighlights": [
+              "Co-founded Nazareth in 1968 and fronted the band through its 1970s global breakthrough.",
+              "Sang lead on the band’s best-known recordings including “Love Hurts” and “Hair of the Dog.”",
+              "Retired from touring due to COPD, remaining associated with the band’s studio legacy."
+            ],
+            "HonoursAndMilestones": [
+              "Nazareth’s “Love Hurts” reached No. 8 on the U.S. Billboard Hot 100 (1976).",
+              "Hair of the Dog is widely cited as the band’s best-known and highest-selling release."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Razamanaz",
+                "Year": "1973"
+              },
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              },
+              {
+                "Title": "Expect No Mercy",
+                "Year": "1977"
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Love Hurts",
+                "Year": "1976"
+              },
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              },
+              {
+                "Title": "This Flight Tonight",
+                "Year": "1973"
+              }
+            ],
+            "FullText": "William Daniel “Dan” McCafferty (born October 14, 1946, in Dunfermline, Fife, Scotland; died November 8, 2022) was the founding lead vocalist and defining vocal presence of Nazareth. His voice—gravelly, forceful, and unusually expressive in the upper register—became one of the most instantly recognizable sounds in 1970s hard rock, equally suited to full-throttle riff rock and aching power-ballads.\n\nMcCafferty’s musical life began on the Dunfermline circuit, where he and bassist Pete Agnew developed a long friendship and played in local groups that fed into the Shadettes. When the core Shadettes members regrouped in late 1968, McCafferty’s vocals became the anchor for the new band Nazareth, which would soon outgrow the local scene through constant gigging and a reputation for tight, loud, audience-first rock.\n\nAs Nazareth moved to London and transitioned into a recording career, McCafferty helped shape the band’s early identity: blues-rock roots, strong melodic hooks, and a singer’s sense of drama. Those traits were audible on the early albums and grew sharper as the band’s touring schedule expanded and they gained larger exposure, including major support slots that placed them in front of hard-rock audiences primed for a heavier, more direct sound.\n\nThe breakthrough period in the early 1970s crystallized the “Nazareth voice” in pop culture. On records like Razamanaz (1973) and Loud ’n’ Proud (1973), McCafferty balanced swagger and grit with a clear sense of melody—an approach that let Nazareth compete with both blues-based rock acts and the emerging heavy end of the mainstream without abandoning sing-along choruses.\n\nMcCafferty’s best-known global moment came via Nazareth’s version of “Love Hurts.” His delivery turned a well-traveled song into a towering hard-rock ballad, and the single became a major U.S. hit—peaking at No. 8 on the Billboard Hot 100 in early 1976. That performance is a big part of why Nazareth’s mid-’70s peak is still referenced as a template for the power-ballad era that followed.\n\nOn the same career-defining stretch, McCafferty’s persona fit the band’s riff-heavy staples as cleanly as it fit ballads. Songs like “Hair of the Dog” and “This Flight Tonight” highlighted his ability to cut through dense guitars without losing lyrical clarity, and his stage approach—part storyteller, part brawler—made Nazareth an unusually consistent live draw across territories even when the band’s U.S. radio profile fluctuated.\n\nBeyond the band, McCafferty also pursued solo work, releasing the self-titled Dan McCafferty (1975) and later projects that kept his voice in circulation outside the Nazareth brand. Those records reinforced what fans already knew: his singing was the central instrument, and his interpretive choices—when to rasp, when to soften, when to lean into a phrase—were what made familiar rock material feel newly alive.\n\nHealth ultimately changed McCafferty’s onstage role. He publicly discussed chronic obstructive pulmonary disease (COPD) and, after decades of touring, stepped back from performing full live sets. Even as Nazareth continued with replacement vocalists, his identity remained inseparable from the classic catalog: most of the songs that defined the band’s international reputation were built around his vocal signature and phrasing.\n\nMcCafferty’s influence is routinely cited by later hard-rock singers, in part because his style bridged blues-based grit and metal-adjacent intensity while still sounding like a “song” singer. Tributes after his death highlighted that combination: he was tough-sounding without being one-dimensional, and melodic without losing the sense of danger that hard-rock audiences craved.\n\nMcCafferty’s legacy is ultimately the catalog itself: a run of albums and singles where the vocal is not just present but decisive. Whether fronting a bruising anthem or a slow-burning ballad, he gave Nazareth a core identity that survived changing decades and shifting lineups—an identity that remains the band’s reference point for every new era that performs the songs.",
+            "FunFacts": [
+              "He is often cited for a vocal style that bridges blues grit and arena-rock melody.",
+              "He released solo albums in addition to his Nazareth work."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Wikipedia: Dan McCafferty",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Dan_McCafferty"
+              },
+              {
+                "Title": "Guardian obituary: Dan McCafferty",
+                "Publisher": "The Guardian",
+                "Url": "https://www.theguardian.com/music/2022/nov/13/dan-mccafferty-obituary"
+              },
+              {
+                "Title": "Entertainment Weekly: Dan McCafferty dies at 76",
+                "Publisher": "Entertainment Weekly",
+                "Url": "https://ew.com/music/dan-mccafferty-lead-singer-of-nazareth-dies-at-76/"
+              },
+              {
+                "Title": "Wikipedia: Nazareth (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Nazareth_(band)"
+              },
+              {
+                "Title": "Wikipedia: Love Hurts (Nazareth version charting)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Love_Hurts"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Manny Charlton",
+          "Roles": [
+            "Guitarist",
+            "Songwriter",
+            "Record producer"
+          ],
+          "Years": "1968–1990",
+          "YearsActive": "1958–2022",
+          "Instruments": [
+            "Guitars",
+            "Backing vocals"
+          ],
+          "Albums": [
+            {
+              "Title": "Razamanaz",
+              "Year": "1973"
+            },
+            {
+              "Title": "Hair of the Dog",
+              "Year": "1975"
+            },
+            {
+              "Title": "No Mean City",
+              "Year": "1979"
+            }
+          ],
+          "Overview": "Founding lead guitarist and key studio architect; produced major 1970s Nazareth albums including Hair of the Dog; died in 2022.",
+          "Bio": {
+            "BioID": "nazareth-manny-charlton",
+            "ArtistID": "nazareth",
+            "ArtistName": "Nazareth",
+            "MemberName": "Manny Charlton",
+            "FullName": "Manuel Charlton",
+            "Birth": {
+              "Date": "July 25, 1941",
+              "Place": "La Línea de la Concepción, Cádiz, Spain"
+            },
+            "Death": {
+              "Date": "July 5, 2022",
+              "Place": "Texas, U.S."
+            },
+            "Occupations": [
+              "Musician",
+              "Record producer",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Guitars"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Blues rock",
+              "Heavy metal",
+              "Boogie rock"
+            ],
+            "AssociatedActs": [
+              "Nazareth"
+            ],
+            "ActiveYears": [
+              "1958–2022"
+            ],
+            "CareerHighlights": [
+              "Co-founded Nazareth in 1968 and served as lead guitarist through 1990.",
+              "Stepped into production duties for key 1970s albums, including Hair of the Dog.",
+              "Helped define the band’s riff-driven guitar identity and stage sound."
+            ],
+            "HonoursAndMilestones": [
+              "Hair of the Dog is widely cited as Nazareth’s signature album and commercial peak.",
+              "Charlton is frequently credited as a major songwriter/producer figure in the band’s classic era."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              },
+              {
+                "Title": "Loud 'n' Proud",
+                "Year": "1973"
+              },
+              {
+                "Title": "No Mean City",
+                "Year": "1979"
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              },
+              {
+                "Title": "Razamanaz",
+                "Year": "1973"
+              }
+            ],
+            "FullText": "Manuel “Manny” Charlton (born July 25, 1941, in La Línea de la Concepción, Cádiz, Spain; died July 5, 2022, in Texas, U.S.) was the founding lead guitarist of Nazareth and a key architect of the band’s tone, songwriting, and studio identity. Though widely associated with Scottish hard rock, Charlton’s musical base was steeped in blues-rock phrasing and riff craft—skills that translated into some of Nazareth’s most durable guitar hooks.\n\nCharlton settled in Scotland and became part of the same local ecosystem that produced Nazareth’s other founders. When the Shadettes’ orbit reorganized into Nazareth in late 1968, Charlton’s role quickly expanded beyond lead guitar: he helped define the band’s arrangements, the rhythmic feel behind the riffs, and the layered textures that made their songs sound bigger than the standard four-piece bar-band template.\n\nIn the early albums, Charlton’s playing balanced economy and bite—short, memorable figures rather than flashy virtuosity. That approach matched Nazareth’s audience-first mission: riffs that locked with the drums, solos that served the chorus, and a tone that felt aggressive without becoming abstract. As the band’s tours grew and their productions became more confident, Charlton’s guitar became a reliable signature in the same way McCafferty’s voice did.\n\nA major turning point was the band’s collaboration with producer Roger Glover during the early-’70s rise. Those sessions sharpened Nazareth’s punch and clarity, and Charlton absorbed the studio lessons. When he later took on production duties himself, he applied that focus to records that had to compete in a loud, competitive hard-rock market—tightening performances while keeping the grit that made the band feel real.\n\nCharlton’s dual role is especially tied to Hair of the Dog (1975). The album is widely described as Nazareth’s best-known and highest-selling release, and Charlton’s fingerprints are all over its identity: heavy rhythm guitars, smart layering, and a producer’s sense of how to frame McCafferty’s vocal so it hits with maximum impact. The title track’s riff and the album’s overall hardness helped define the band’s mid-’70s peak.\n\nAs Nazareth’s catalog expanded, Charlton remained a central composer and a stabilizing creative force through changes in rock fashion—from early-’70s hard rock through punk-era pressures and the late-’70s heavier turn. Records like No Mean City (1979) emphasized a more muscular guitar profile, and Charlton’s ability to keep songs hooky while sounding heavier helped Nazareth remain credible to fans who wanted riffs first and trends second.\n\nCharlton left the band’s full-time lineup in 1990, but his importance remained embedded in the repertoire. The “classic” Nazareth sound—bluesy riffs, economical solos, and a production approach that favors impact over polish—was, in large part, the sound Charlton helped assemble and refine over the group’s most defining decade.\n\nIn later years, Charlton pursued his own music and maintained a public identity as both musician and producer. Accounts of his life note that he moved to Texas in the late 1990s and continued working, reflecting a career built around long-term musicianship rather than a single era of fame. Even away from the Nazareth stage, his reputation remained strongly tied to the guitar language he brought to the band.\n\nCharlton’s death in 2022 prompted tributes that framed him as far more than “the guitarist.” For many fans and peers, he was the band’s internal engine: the one who could translate road-tested instincts into studio-ready rock records without sanding off the edges that made Nazareth feel like a real working band.\n\nCharlton’s legacy is audible wherever hard rock values riff clarity, groove, and a producer’s sense of dynamics. For Nazareth specifically, he remains the essential guitar voice of the founding lineup and a prime reason their best records still read as both tough and tuneful—two qualities that are harder to combine than they sound.",
+            "FunFacts": [
+              "He was born in Spain and later became closely associated with Dunfermline’s rock scene.",
+              "He maintained an active musical life beyond his years in Nazareth."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Wikipedia: Manny Charlton",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Manny_Charlton"
+              },
+              {
+                "Title": "Guardian obituary: Manny Charlton",
+                "Publisher": "The Guardian",
+                "Url": "https://www.theguardian.com/music/2022/jul/19/manny-charlton-obituary"
+              },
+              {
+                "Title": "Wikipedia: Hair of the Dog (album)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Hair_of_the_Dog_(album)"
+              },
+              {
+                "Title": "Wikipedia: Nazareth (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Nazareth_(band)"
+              },
+              {
+                "Title": "Official: Manny Charlton site",
+                "Publisher": "mannycharltonband.com",
+                "Url": "http://www.mannycharltonband.com"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Pete Agnew",
+          "Roles": [
+            "Bass guitar",
+            "Backing vocals",
+            "Songwriter"
+          ],
+          "Years": "1968–present",
+          "YearsActive": "1968–present",
+          "Instruments": [
+            "Bass guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            {
+              "Title": "Nazareth",
+              "Year": "1971"
+            },
+            {
+              "Title": "Hair of the Dog",
+              "Year": "1975"
+            },
+            {
+              "Title": "Surviving the Law",
+              "Year": "2022"
+            }
+          ],
+          "Overview": "Founding bassist and harmony vocalist; the long-running continuity figure for Nazareth and widely noted as the last surviving original member.",
+          "Bio": {
+            "BioID": "nazareth-pete-agnew",
+            "ArtistID": "nazareth",
+            "ArtistName": "Nazareth",
+            "MemberName": "Pete Agnew",
+            "FullName": "Peter Agnew",
+            "Birth": {
+              "Date": "September 14, 1946",
+              "Place": "Dunfermline, Scotland"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Occupations": [
+              "Bassist",
+              "Vocalist",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Bass guitar",
+              "Vocals"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Blues rock",
+              "Rock"
+            ],
+            "AssociatedActs": [
+              "Nazareth"
+            ],
+            "ActiveYears": [
+              "1968–present"
+            ],
+            "CareerHighlights": [
+              "Co-founded Nazareth in 1968 and remained with the band across decades of touring and lineup changes.",
+              "Provided bass foundation and backing vocals through the band’s 1970s peak and later touring eras.",
+              "Continued to steward the Nazareth catalog into the 21st century."
+            ],
+            "HonoursAndMilestones": [
+              "As of the 2020s, widely described as the last surviving member of the original Nazareth lineup."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Razamanaz",
+                "Year": "1973"
+              },
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Love Hurts",
+                "Year": "1976"
+              },
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              }
+            ],
+            "FullText": "Peter “Pete” Agnew (born September 14, 1946, in Dunfermline, Scotland) is the founding bassist and longtime backing vocalist of Nazareth, and—after the deaths of his bandmates—has been widely noted as the last surviving member of the original 1968 lineup. His playing and harmony vocals provided an essential counterweight to Dan McCafferty’s lead voice, helping Nazareth’s choruses land with the kind of massed punch that arena rock demands.\n\nAgnew’s musical story begins in the same Dunfermline scene that produced the Shadettes, where he and McCafferty formed a long friendship and played in local groups before Nazareth existed. That shared background mattered: Nazareth’s early sound wasn’t assembled by label committee, but by musicians who had already tested what worked in clubs night after night and learned how to keep audiences engaged through groove and melody.\n\nWhen Nazareth formed in late 1968, Agnew’s bass became the connective tissue between riff and drum groove. The band’s trademark heaviness is often credited to guitars and vocals, but Nazareth’s drive depends on how the low end pushes the riff forward while leaving space for McCafferty’s phrasing. That approach is particularly obvious on mid-’70s material where the bass is both supportive and melodic, setting up choruses that feel like they lift off the stage.\n\nAgnew also contributed backing vocals that helped define the group’s sound in the studio and live. Nazareth’s best-known songs aren’t just “loud”; they’re arranged for singable impact, and the harmony texture matters. His role as a steady secondary voice helped the band sound bigger than a four-piece, especially in the years when touring schedules demanded consistency night after night.\n\nThrough the breakthrough era—Razamanaz (1973), Loud ’n’ Proud (1973), Hair of the Dog (1975)—Agnew’s value was both musical and practical. Nazareth’s career was built on work: touring, repeating, refining, and rebuilding audiences. A bassist who can also anchor the band socially and professionally is not a small thing in a road life measured in years rather than seasons, and Agnew became one of the continuity points that kept Nazareth functioning as a long-term unit.\n\nAgnew’s career also spans the band’s most difficult transitions. In 1999, drummer Darrell Sweet died suddenly while on tour, forcing Nazareth to continue in the aftermath of a foundational loss. In later years, McCafferty stepped back from touring due to health issues. Agnew’s presence through these eras helped preserve the band’s working identity: a live act with a catalog, rather than a brand existing only in old records.\n\nBy the 2000s and 2010s, Nazareth had become a generational touring institution, especially in parts of Europe. Agnew’s role expanded by necessity—keeping the show stable as the lineup evolved, and maintaining a link to the founding-era interpretations of the songs. Even when audiences came to hear the classics, those songs still had to be performed with authority, and Agnew’s bass-and-vocal foundation was a major part of that authority.\n\nAgnew’s family connection is also part of the band’s modern story: his son Lee Agnew joined on drums after Sweet’s death, giving later Nazareth lineups a direct line to the original rhythm section’s feel and priorities. That doesn’t mean the band stopped changing—it continued to rotate vocalists and guitarists—but the father/son rhythm core reinforced the sense that Nazareth remained a living band rather than a nostalgia project.\n\nAs the sole remaining founder through the 2020s, Agnew has become a steward of the repertoire. That stewardship is musical (tempos, dynamics, arrangement choices) and cultural (the identity of what “Nazareth” is supposed to feel like). In a genre where many bands fade after their first big decade, his long-term commitment is a central reason Nazareth’s catalog continues to be performed in active touring cycles.\n\nAgnew’s legacy is therefore twofold: a musician whose bass and harmonies helped define classic hard rock recordings, and an organizer figure whose presence enabled Nazareth to survive shifts in fashion, lineup changes, and losses. In the story of a band built on stamina, he represents the stamina itself.",
+            "FunFacts": [
+              "Discogs and related reference databases list him as the father of drummer Lee Agnew, who later joined Nazareth.",
+              "He is credited with keeping the band active as a touring unit across multiple decades."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Discogs: Pete Agnew profile",
+                "Publisher": "Discogs",
+                "Url": "https://www.discogs.com/artist/454224-Pete-Agnew"
+              },
+              {
+                "Title": "Wikipedia: Nazareth (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Nazareth_(band)"
+              },
+              {
+                "Title": "Official: Nazareth history",
+                "Publisher": "Nazareth (official)",
+                "Url": "https://www.nazarethband.com/history/"
+              },
+              {
+                "Title": "Wikidata: Pete Agnew",
+                "Publisher": "Wikidata",
+                "Url": "https://www.wikidata.org/wiki/Q2991881"
+              },
+              {
+                "Title": "Ultimate Classic Rock: lineup context",
+                "Publisher": "Ultimate Classic Rock",
+                "Url": "https://ultimateclassicrock.com/nazareth-new-singer/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Darrell Sweet",
+          "Roles": [
+            "Drums",
+            "Percussion",
+            "Backing vocals"
+          ],
+          "Years": "1968–1999",
+          "YearsActive": "1968–1999",
+          "Instruments": [
+            "Drums",
+            "Percussion",
+            "Vocals"
+          ],
+          "Albums": [
+            {
+              "Title": "Razamanaz",
+              "Year": "1973"
+            },
+            {
+              "Title": "Hair of the Dog",
+              "Year": "1975"
+            },
+            {
+              "Title": "Boogaloo",
+              "Year": "1998"
+            }
+          ],
+          "Overview": "Founding drummer whose steady, hard-driving feel underpinned Nazareth’s classic era; died in 1999 while the band was on tour.",
+          "Bio": {
+            "BioID": "nazareth-darrell-sweet",
+            "ArtistID": "nazareth",
+            "ArtistName": "Nazareth",
+            "MemberName": "Darrell Sweet",
+            "FullName": "Darrell Antony Sweet",
+            "Birth": {
+              "Date": "May 16, 1947",
+              "Place": "England"
+            },
+            "Death": {
+              "Date": "April 30, 1999",
+              "Place": "New Albany, Indiana, U.S."
+            },
+            "Occupations": [
+              "Drummer",
+              "Musician"
+            ],
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Genres": [
+              "Hard rock",
+              "Rock"
+            ],
+            "AssociatedActs": [
+              "Nazareth"
+            ],
+            "ActiveYears": [
+              "1968–1999"
+            ],
+            "CareerHighlights": [
+              "Co-founded Nazareth in 1968 and played on the band’s core 1970s catalog.",
+              "Helped define the band’s live power through steady, driving rock grooves.",
+              "Died of a heart attack while on tour in the United States in 1999."
+            ],
+            "HonoursAndMilestones": [
+              "Nazareth’s decades-long touring reputation was built in part on the reliability of the founding rhythm section."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              },
+              {
+                "Title": "No Mean City",
+                "Year": "1979"
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Hair of the Dog",
+                "Year": "1975"
+              },
+              {
+                "Title": "Razamanaz",
+                "Year": "1973"
+              }
+            ],
+            "FullText": "Darrell Antony Sweet (born May 16, 1947; died April 30, 1999) was the founding drummer of Nazareth and one of the band’s key architects of feel. While Nazareth is often remembered for Dan McCafferty’s vocal and Manny Charlton’s guitar, the band’s long-term effectiveness as a live act depended just as much on Sweet’s ability to drive riffs with a hard, steady pulse that translated cleanly from clubs to theaters and, eventually, arenas.\n\nSweet’s drumming was built for touring realities: strong backbeats, clear transitions, and dynamics that supported choruses without cluttering the groove. In hard rock, that kind of discipline is a creative choice. It keeps the band’s impact focused, lets the guitars sound heavier, and gives the singer a foundation to phrase against. Sweet’s style made Nazareth songs feel like they were moving forward even when tempos weren’t fast.\n\nAs a co-founder in 1968, Sweet was part of the core group that turned Dunfermline rehearsal-room chemistry into a working professional band. That early identity—tight, loud, and direct—was not just a guitar-and-vocal thing. It was rhythm section discipline and a road mentality: play every night, win the room, and build reputation through reliability. Sweet’s drumming fit that mission perfectly.\n\nThrough Nazareth’s 1970s rise, Sweet provided continuity as the band’s sound expanded. When production became more sophisticated and arrangements more layered, his job was still to make the song feel simple and inevitable. That consistency is one reason Nazareth’s classic records remain easy to play loud: the drums don’t distract; they propel.\n\nSweet was also credited with backing vocals in various eras, reflecting the reality of many working bands: everyone contributes to the sound. In Nazareth’s case, harmony textures and shouted responses often add to the live feel, especially on choruses designed for crowd participation. Sweet’s participation helped the band sound like a unit rather than a set of hired parts.\n\nThe band’s longevity makes Sweet’s tenure particularly significant. He stayed with Nazareth for three decades, spanning early bar-band years, the 1970s international peak, and the later touring era in which the band’s reputation was sustained by live performance. For hard rock audiences, a drummer who can keep the engine running for that long becomes part of the band’s identity, even if the spotlight tends to fall elsewhere.\n\nSweet’s life ended abruptly while Nazareth were on tour in the United States. Contemporary reporting and later summaries note that he suffered a fatal heart attack as the band arrived for a show in New Albany, Indiana, on April 30, 1999. The shock of that loss forced the group to decide whether “Nazareth” could continue without one of the original four—and whether the catalog could still be played with the right feel.\n\nNazareth chose to continue, and Sweet’s death became a turning point in the band’s later history. His role in defining the original rhythmic feel made him irreplaceable in one sense, but the band’s survival also served as a testament to how deeply the repertoire had taken root with audiences. In practice, keeping the band active meant finding drummers who could honor Sweet’s groove choices rather than simply play the parts louder or faster.\n\nSweet’s legacy is therefore both musical and structural. Musically, he helped create the “Nazareth drive” that lets songs like “Hair of the Dog” hit with blunt-force momentum. Structurally, his long tenure illustrates the level of stamina required to keep a working rock band alive across decades.\n\nFor many fans, the most accurate way to hear Sweet’s contribution is to focus on feel: the way the band leans into choruses, the steadiness under the vocal, and the sense that the songs are built to be played live. That feel is the drummer’s signature, and Sweet’s signature remains embedded in Nazareth’s classic era.",
+            "FunFacts": [
+              "He remained Nazareth’s drummer for three decades, from formation through 1999.",
+              "Contemporary reporting notes he died suddenly while the band was touring in the U.S."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Independent obituary: Darrell Sweet",
+                "Publisher": "The Independent",
+                "Url": "https://www.the-independent.com/arts-entertainment/obituaries-darrell-sweet-1092714.html"
+              },
+              {
+                "Title": "Wikipedia: Nazareth (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Nazareth_(band)"
+              },
+              {
+                "Title": "Billboard: This Day in Music (Darrell Sweet)",
+                "Publisher": "Billboard",
+                "Url": "https://www.billboard.com/music/music-news/this-day-in-music-483-72931/"
+              },
+              {
+                "Title": "Find a Grave: Darrell Sweet memorial",
+                "Publisher": "Find a Grave",
+                "Url": "https://www.findagrave.com/memorial/9951761/darrell-sweet"
+              },
+              {
+                "Title": "Wikipedia: Hair of the Dog (album)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Hair_of_the_Dog_(album)"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Zal Cleminson",
+          "YearsActive": "1978–1980",
+          "Roles": [
+            "Guitars"
+          ],
+          "Instruments": [
+            "Guitars"
+          ],
+          "Albums": [
+            "No Mean City (1979)",
+            "Malice in Wonderland (1980)"
+          ],
+          "Overview": "Joined in the late 1970s, bringing a more aggressive guitar profile associated with the heavier No Mean City era."
+        },
+        {
+          "Name": "Billy Rankin",
+          "YearsActive": "1980–1983; 1991–1994",
+          "Roles": [
+            "Guitars",
+            "Vocals"
+          ],
+          "Instruments": [
+            "Guitars",
+            "Vocals"
+          ],
+          "Albums": [
+            "The Fool Circle (1981)",
+            "2XS (1982)",
+            "No Jive (1991)"
+          ],
+          "Overview": "Key multi-era member who helped steer early-’80s records and later returned for the early-’90s No Jive period."
+        },
+        {
+          "Name": "Ronnie Leahy",
+          "YearsActive": "1994–2007",
+          "Roles": [
+            "Keyboards"
+          ],
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Move Me (1994)",
+            "Boogaloo (1998)"
+          ],
+          "Overview": "Keyboardist who supported the band’s long touring phase after the 1990s lineup shift, adding texture to the live sound."
+        },
+        {
+          "Name": "Jimmy Murrison",
+          "YearsActive": "1994–present",
+          "Roles": [
+            "Guitars"
+          ],
+          "Instruments": [
+            "Guitars"
+          ],
+          "Albums": [
+            "Move Me (1994)",
+            "Tattooed on My Brain (2018)"
+          ],
+          "Overview": "Longtime guitarist in the modern era, helping keep the band active through late-period releases and tours."
+        },
+        {
+          "Name": "Lee Agnew",
+          "YearsActive": "1999–present",
+          "Roles": [
+            "Drums"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Back to the Trenches (2001)",
+            "Surviving the Law (2022)"
+          ],
+          "Overview": "Joined after Darrell Sweet’s death; part of the band’s ongoing touring identity into the 21st century."
+        },
+        {
+          "Name": "Carl Sentance",
+          "YearsActive": "2015–2025",
+          "Roles": [
+            "Lead vocals"
+          ],
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Tattooed on My Brain (2018)",
+            "Surviving the Law (2022)"
+          ],
+          "Overview": "Lead vocalist for much of Nazareth’s late-2010s/early-2020s studio output and touring."
+        },
+        {
+          "Name": "Gianni Pontillo",
+          "YearsActive": "2025–present",
+          "Roles": [
+            "Lead vocals"
+          ],
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [],
+          "Overview": "Announced as the band’s lead vocalist in late 2025, continuing the post-McCafferty touring era."
+        }
+      ]
     },
     {
       "ArtistID": "neil-diamond",
