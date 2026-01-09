@@ -1658,8 +1658,637 @@
     {
       "ArtistID": "genesis",
       "Name": "Genesis",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Godalming",
+        "Region": "Surrey",
+        "Country": "England"
+      },
+      "YearsActive": [
+        "1967–2000",
+        "2002",
+        "2006–2007",
+        "2020–2022"
+      ],
+      "Genres": [
+        "Prog rock",
+        "art rock",
+        "pop rock",
+        "soft rock"
+      ],
+      "Labels": [
+        "Charisma",
+        "Virgin",
+        "EMI",
+        "Atlantic",
+        "Atco",
+        "Vertigo",
+        "Decca"
+      ],
+      "Overview": "Genesis are an English rock band formed by schoolmates at Charterhouse School in Godalming, Surrey. After early pop-leaning recordings, they became a cornerstone of 1970s progressive rock, known for atmospheric arrangements, story-driven writing, and (during the early years) Peter Gabriel’s theatrical stage persona.\n\nTheir classic “Gabriel era” developed through albums such as *Nursery Cryme*, *Foxtrot*, *Selling England by the Pound*, and the ambitious double concept set *The Lamb Lies Down on Broadway*. Gabriel’s departure in 1975 prompted a major transition: drummer Phil Collins moved to lead vocals, and the band increasingly balanced extended musicianship with tighter songwriting.\n\nFrom the late 1970s onward, Genesis broadened into one of the dominant pop-rock acts of the 1980s and early 1990s, pairing intricate musicianship with radio-ready hits (“Follow You Follow Me,” “Turn It On Again,” “Invisible Touch,” “Land of Confusion”). The group later experimented with a new frontman (Ray Wilson) in the 1990s and staged major reunion tours, culminating in a final run of concerts in the early 2020s.",
+      "NotableAlbums": [
+        {
+          "Year": "1971",
+          "Title": "Nursery Cryme",
+          "Details": "Breakthrough early prog statement that helped define the band’s 1970s identity with longer-form writing and a distinctive English character."
+        },
+        {
+          "Year": "1972",
+          "Title": "Foxtrot",
+          "Details": "A landmark progressive-rock album featuring side-long ambition and expanding live stature, cementing Genesis as a premier UK art-rock act."
+        },
+        {
+          "Year": "1973",
+          "Title": "Selling England by the Pound",
+          "Details": "A widely celebrated peak of the Gabriel-era, blending intricate arrangements with sharp, distinctly British lyrical satire."
+        },
+        {
+          "Year": "1974",
+          "Title": "The Lamb Lies Down on Broadway",
+          "Details": "A double concept album and theatrical tour centerpiece—Genesis at their most narrative-driven and experimental in the 1970s."
+        },
+        {
+          "Year": "1976",
+          "Title": "A Trick of the Tail",
+          "Details": "First studio album after Peter Gabriel’s departure, introducing Phil Collins as lead vocalist while retaining progressive depth."
+        },
+        {
+          "Year": "1980",
+          "Title": "Duke",
+          "Details": "A pivotal bridge between prog complexity and pop focus; a major commercial breakthrough that shaped the band’s 1980s sound."
+        },
+        {
+          "Year": "1986",
+          "Title": "Invisible Touch",
+          "Details": "The group’s pop-rock commercial apex, producing multiple major singles and establishing Genesis as a defining mainstream act of the decade."
+        },
+        {
+          "Year": "1991",
+          "Title": "We Can’t Dance",
+          "Details": "A late-career high point with arena-scale production and hits that kept the band at the center of early-1990s rock-pop radio."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": "1973",
+          "Title": "I Know What I Like (In Your Wardrobe)",
+          "Details": "A Gabriel-era staple that showcases Genesis’ wit, melodic craft, and character-driven storytelling."
+        },
+        {
+          "Year": "1974",
+          "Title": "The Carpet Crawlers",
+          "Details": "One of the band’s most enduring narrative songs, closely associated with *The Lamb Lies Down on Broadway* era."
+        },
+        {
+          "Year": "1978",
+          "Title": "Follow You Follow Me",
+          "Details": "A romantic, concise single that signaled a decisive shift toward accessible songwriting and broad radio appeal."
+        },
+        {
+          "Year": "1980",
+          "Title": "Turn It On Again",
+          "Details": "A signature live and radio staple built on inventive rhythmic structure and arena-ready energy."
+        },
+        {
+          "Year": "1983",
+          "Title": "Mama",
+          "Details": "A darker, dramatic 1980s track highlighted by atmospheric textures and a commanding vocal performance from Collins."
+        },
+        {
+          "Year": "1986",
+          "Title": "Invisible Touch",
+          "Details": "Their biggest U.S. chart hit and a defining example of the band’s polished 1980s pop-rock sound."
+        },
+        {
+          "Year": "1986",
+          "Title": "Land of Confusion",
+          "Details": "A pointed political-tinged rock single whose celebrated video won a Grammy for Best Concept Music Video."
+        },
+        {
+          "Year": "1991",
+          "Title": "No Son of Mine",
+          "Details": "A forceful comeback single in the 1990s, balancing punchy production with darker subject matter."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2010",
+          "Title": "Rock & Roll Hall of Fame Induction",
+          "Details": "Inducted as Performers, reflecting the band’s multi-era influence from progressive rock experimentation to mainstream pop-rock dominance."
+        },
+        {
+          "Year": "1988",
+          "Title": "Grammy Award — Best Concept Music Video",
+          "Details": "The satirical “Land of Confusion” video (directed by John Lloyd and Jim Yukich) won the Grammy for Best Concept Music Video at the 30th Grammy Awards."
+        }
+      ],
+      "KeyFacts": [
+        "Formed by Charterhouse School classmates in Godalming, Surrey, in 1967.",
+        "Evolved from 1970s progressive rock epics and theatrical shows into major 1980s/1990s pop-rock chart success.",
+        "The long-running core trio was Tony Banks (keyboards), Mike Rutherford (guitar/bass), and Phil Collins (drums/vocals).",
+        "Peter Gabriel’s 1970–1975 frontman era is particularly associated with narrative concepts and theatrical staging.",
+        "Major reunion tours included the 2006–2007 “Turn It On Again” run and a final tour in the early 2020s."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.genesis-music.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Genesis_(band)",
+        "AllMusic": "https://www.allmusic.com/artist/genesis-mn0000199995",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/genesis/"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Tony Banks",
+          "Roles": [
+            "keyboards",
+            "composer",
+            "songwriter"
+          ],
+          "Years": "1967–2022",
+          "Bio": {
+            "BioID": "genesis-tony-banks",
+            "ArtistID": "genesis",
+            "ArtistName": "Genesis",
+            "MemberName": "Tony Banks",
+            "FullName": "Anthony George Banks",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Piano",
+              "Synthesizers",
+              "Organ"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Composer"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1950-03-27",
+              "Place": "East Hoathly, East Sussex, England"
+            },
+            "ActiveYears": "1967–present",
+            "AssociatedActs": [
+              "Genesis"
+            ],
+            "KeyAlbums": [
+              "Selling England by the Pound",
+              "The Lamb Lies Down on Broadway",
+              "Duke",
+              "Invisible Touch"
+            ],
+            "KeySongs": [
+              "Firth of Fifth",
+              "The Cinema Show",
+              "Duke's Travels",
+              "Invisible Touch (co-writer)"
+            ],
+            "Achievements": [
+              "Co-founded Genesis and served as its principal keyboard architect and a major writer across every era.",
+              "Inducted into the Rock & Roll Hall of Fame with Genesis (2010).",
+              "Developed a distinctive harmonic and textural style that helped define 1970s progressive rock keyboard writing."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Tony_Banks_(musician)",
+              "AllMusic": "https://www.allmusic.com/artist/tony-banks-mn0000633929"
+            },
+            "Biography": "Tony Banks is an English keyboardist, composer, and songwriter best known as a founding member of Genesis. Alongside Mike Rutherford, he is often cited as the band’s longest-constant creative anchor, shaping the group’s harmonic language and arranging approach from the late 1960s onward.\n\nRaised in southern England, Banks met fellow Charterhouse School students Peter Gabriel, Mike Rutherford, and Anthony Phillips and began writing and performing in early school bands that would evolve into Genesis. His early writing favored melody and structure, but also embraced extended forms that suited the emerging progressive-rock era.\n\nAs Genesis moved from early recordings into more ambitious 1970s work, Banks became the band’s key architect of sweeping keyboard textures—churchy organs, piano, Mellotron colors, and later synthesizer lines. His playing often functioned like an orchestral backbone, supporting shifting scenes and dynamic builds rather than simple accompaniment.\n\nDuring the Gabriel-fronted years, Banks’ compositions and co-writes helped anchor classic albums such as *Foxtrot* and *Selling England by the Pound*, where layered keyboards and unusual harmonic turns became part of Genesis’ signature sound. His sense of tension-and-release was central to the band’s long-form tracks and suite-like structures.\n\nAfter Gabriel left in 1975 and Phil Collins moved to lead vocals, Banks adapted without abandoning ambition. He helped steer the band through *A Trick of the Tail* and *Wind & Wuthering*, balancing progressive complexity with more direct hooks as Genesis widened its audience.\n\nIn the late 1970s and early 1980s, Banks’ writing contributed to a tighter, rhythm-forward style—still harmonically rich, but built for stadiums and radio. Albums such as *Duke* and *Abacab* showcased a band integrating new technology and pop efficiency while retaining musical fingerprints forged in the prog years.\n\nThe mid-1980s commercial peak—especially *Invisible Touch*—didn’t erase Banks’ identity; instead, he translated his arranging instincts into sleek, synth-driven production and memorable chord progressions that helped Genesis thrive in the MTV era.\n\nBeyond Genesis, Banks pursued solo projects that explored pop, progressive rock, and more classical-influenced composition, reflecting a long-standing interest in structured, thematic writing. His work outside the band underscores the breadth behind Genesis’ most intricate music.\n\nBanks’ legacy within Genesis is not only virtuosity, but architecture: he is frequently credited with the harmonic vocabulary and textural palette that made the band’s music instantly recognizable across decades of stylistic change.\n\nIn 2010, Banks was inducted into the Rock & Roll Hall of Fame with Genesis, a public recognition of the band’s cross-era impact and of his sustained role as one of its defining creative voices.",
+            "Sources": [
+              {
+                "Title": "Genesis (band) — Tony Banks listed among principal members; background and founding",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Genesis-British-rock-group"
+              },
+              {
+                "Title": "Genesis artist page — group members and overview",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/genesis-mn0000199995"
+              },
+              {
+                "Title": "Tony Banks (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Tony_Banks_(musician)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike Rutherford",
+          "Roles": [
+            "guitar",
+            "bass",
+            "songwriter"
+          ],
+          "Years": "1967–2022",
+          "Bio": {
+            "BioID": "genesis-mike-rutherford",
+            "ArtistID": "genesis",
+            "ArtistName": "Genesis",
+            "MemberName": "Mike Rutherford",
+            "FullName": "Michael Rutherford",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Bass",
+              "12-string guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Pop rock"
+            ],
+            "Birth": {
+              "Date": "1950-10-02",
+              "Place": "Guildford, Surrey, England"
+            },
+            "ActiveYears": "1967–present",
+            "AssociatedActs": [
+              "Genesis",
+              "Mike + The Mechanics"
+            ],
+            "KeyAlbums": [
+              "Selling England by the Pound",
+              "A Trick of the Tail",
+              "Duke",
+              "Invisible Touch"
+            ],
+            "KeySongs": [
+              "Follow You Follow Me (co-writer)",
+              "Turn It On Again (co-writer)",
+              "The Living Years (Mike + The Mechanics)"
+            ],
+            "Achievements": [
+              "Co-founded Genesis and remained a continuous member across every major lineup and era.",
+              "Helped define Genesis’ distinctive 12-string and rhythm-guitar textures as the band’s arrangements evolved.",
+              "Inducted into the Rock & Roll Hall of Fame with Genesis (2010)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mike_Rutherford",
+              "Britannica": "https://www.britannica.com/biography/Mike-Rutherford"
+            },
+            "Biography": "Mike Rutherford is an English guitarist, bassist, and songwriter who co-founded Genesis and remained one of its two continuous members throughout the band’s long history. His playing—often built around interlocking 12-string patterns and solid bass foundations—helped give Genesis a signature rhythmic and textural identity.\n\nAt Charterhouse School, Rutherford met Peter Gabriel, Tony Banks, and Anthony Phillips, and the group’s early songwriting partnership eventually formed the nucleus of Genesis. Even as the band shifted styles over decades, Rutherford’s role as a structural musician—supporting both harmony and groove—remained constant.\n\nIn the early progressive-rock years, Rutherford frequently handled bass and substantial rhythm-guitar duties, creating dense, layered parts that complemented the band’s elaborate arrangements. His approach emphasized ensemble cohesion over flashy spotlighting, an ethos that shaped Genesis’ “group performance” feel on record and onstage.\n\nRutherford’s compositions and co-writes became essential to the band’s catalog, particularly as Genesis developed a more direct songwriting profile in the late 1970s. Tracks like “Follow You Follow Me” exemplified that pivot toward concise pop craft while retaining a distinctive Genesis emotional tone.\n\nAs Genesis entered the arena-rock and MTV era, Rutherford adapted to changing production styles—moving from pastoral 12-string textures into cleaner electric tones and punchier rhythmic frameworks. He remained a key songwriter within the band’s tight collaborative core, especially alongside Banks and Collins.\n\nDuring the 1980s peak, Genesis’ music often balanced polish with musicianship, and Rutherford’s guitar-and-bass choices were central to that balance. Whether building a driving hook or anchoring a mid-tempo groove, he helped translate the band’s complexity into accessible impact.\n\nBeyond Genesis, Rutherford co-founded Mike + The Mechanics, a project that further showcased his songwriting instincts in a pop-rock context. The band produced major international hits and provided a parallel outlet during Genesis downtime without severing his identity as a Genesis core figure.\n\nRutherford returned for high-profile Genesis reunions, notably the mid-2000s “Turn It On Again” tour and the band’s final performances in the early 2020s. Across these eras, he continued to serve as the connective tissue linking Genesis’ progressive roots to its later mainstream dominance.\n\nHis reputation is built less on virtuoso display and more on architecture: the ability to make layered arrangements feel inevitable, and to keep complex music grounded in pulse, harmony, and song form.\n\nIn recognition of Genesis’ lasting influence, Rutherford was inducted into the Rock & Roll Hall of Fame with the band in 2010—an honor reflecting both the group’s reinvention and his steadiness across every reinvention.",
+            "Sources": [
+              {
+                "Title": "Mike Rutherford",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Mike-Rutherford"
+              },
+              {
+                "Title": "Genesis — inductee page",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/genesis/"
+              },
+              {
+                "Title": "Mike Rutherford",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mike_Rutherford"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Phil Collins",
+          "Roles": [
+            "drums",
+            "vocals",
+            "songwriter"
+          ],
+          "Years": "1970–2022",
+          "Bio": {
+            "BioID": "genesis-phil-collins",
+            "ArtistID": "genesis",
+            "ArtistName": "Genesis",
+            "MemberName": "Phil Collins",
+            "FullName": "Philip David Charles Collins",
+            "PrimaryInstruments": [
+              "Drums",
+              "Vocals",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "Pop",
+              "Art rock",
+              "Progressive rock",
+              "Soft rock"
+            ],
+            "Birth": {
+              "Date": "1951-01-30",
+              "Place": "London, England"
+            },
+            "ActiveYears": "1960s–present",
+            "AssociatedActs": [
+              "Genesis",
+              "Brand X",
+              "Flaming Youth"
+            ],
+            "KeyAlbums": [
+              "A Trick of the Tail",
+              "Duke",
+              "Invisible Touch",
+              "Face Value"
+            ],
+            "KeySongs": [
+              "In the Air Tonight",
+              "Against All Odds",
+              "Invisible Touch",
+              "Land of Confusion"
+            ],
+            "Achievements": [
+              "Joined Genesis as drummer in 1970 and later became lead singer, fronting the band through its biggest commercial era.",
+              "Built a massively successful solo career alongside Genesis work, becoming one of the defining pop voices of the 1980s.",
+              "Inducted into the Rock & Roll Hall of Fame with Genesis (2010)."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.philcollins.com/",
+              "Britannica": "https://www.britannica.com/biography/Phil-Collins",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Phil_Collins"
+            },
+            "Biography": "Phil Collins is an English drummer, singer, songwriter, and producer whose career uniquely spans progressive rock, pop stardom, and arena-scale live performance. He first rose to prominence with Genesis in the 1970s, then became one of the most commercially dominant solo artists of the 1980s and early 1990s.\n\nBorn in London, Collins developed as a musician from an early age and built a strong reputation as a drummer before becoming a household-name vocalist. His sense of groove and arrangement became one of his defining traits—whether driving complex band pieces or anchoring tightly produced pop songs.\n\nCollins joined Genesis in 1970, strengthening the band’s lineup during a crucial period of creative expansion. As the group’s progressive-rock ambitions grew, his drumming supported intricate structures while maintaining an elastic, song-first feel that translated powerfully in live performance.\n\nWhen Peter Gabriel left Genesis in 1975, Collins took on the lead-vocal role, an unusual transition that reshaped the band’s identity. His voice and rhythmic instincts helped Genesis maintain musical credibility while increasingly prioritizing hook-driven songwriting.\n\nThroughout the late 1970s and early 1980s, Collins fronted Genesis through albums that balanced complexity and accessibility, including major commercial breakthroughs. He became a defining “bridge” figure—carrying the band’s progressive discipline into a new era of radio and MTV visibility.\n\nIn parallel, Collins launched a solo career that quickly became a cultural force, marked by distinctive production, emotional directness, and a drummer’s instinct for dynamics. His solo work expanded his public identity beyond Genesis and helped define the sound of 1980s pop.\n\nCollins’ success also influenced Genesis’ broader mainstream profile: the band’s 1980s catalog often aligned with the polished, punchy approach that dominated contemporary pop-rock. Even so, Genesis retained a recognizable musical personality built on strong writing and ensemble interplay.\n\nLater, Collins stepped away from the band’s core activity, but returned for major reunion tours that drew on Genesis’ full multi-era catalog. These tours highlighted the unusual breadth of his work: progressive epics, big pop singles, and live arrangements refined across decades.\n\nHis legacy is dual: as a drummer’s drummer who influenced rock rhythm and studio sound, and as a vocalist who delivered some of the era’s most recognizable performances. Few artists have remained central to both musicians’ conversations and mass pop culture for so long.\n\nCollins was inducted into the Rock & Roll Hall of Fame with Genesis in 2010, a recognition of the band’s reinvention across eras and of his pivotal role in making that reinvention not only possible, but hugely popular.",
+            "Sources": [
+              {
+                "Title": "Phil Collins",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Phil-Collins"
+              },
+              {
+                "Title": "Genesis — inductee page",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/genesis/"
+              },
+              {
+                "Title": "Phil Collins",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Phil_Collins"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Peter Gabriel",
+          "Roles": [
+            "lead vocals",
+            "songwriter",
+            "frontman"
+          ],
+          "Years": "1967–1975",
+          "Bio": {
+            "BioID": "genesis-peter-gabriel",
+            "ArtistID": "genesis",
+            "ArtistName": "Genesis",
+            "MemberName": "Peter Gabriel",
+            "FullName": "Peter Brian Gabriel",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Keyboards",
+              "Flute"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Musician",
+              "Activist"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock",
+              "Worldbeat"
+            ],
+            "Birth": {
+              "Date": "1950-02-13",
+              "Place": "Woking, Surrey, England"
+            },
+            "ActiveYears": "1960s–present",
+            "AssociatedActs": [
+              "Genesis",
+              "Garden Wall"
+            ],
+            "KeyAlbums": [
+              "Selling England by the Pound",
+              "The Lamb Lies Down on Broadway",
+              "So"
+            ],
+            "KeySongs": [
+              "Solsbury Hill",
+              "Sledgehammer",
+              "In Your Eyes"
+            ],
+            "Achievements": [
+              "Co-founded Genesis and became a defining early-era frontman known for theatrical live performance and narrative lyricism.",
+              "Built an influential solo career spanning art-pop, experimental production, and global collaborations.",
+              "Inducted into the Rock & Roll Hall of Fame with Genesis (2010)."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://petergabriel.com/",
+              "Britannica": "https://www.britannica.com/biography/Peter-Gabriel",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Peter_Gabriel"
+            },
+            "Biography": "Peter Gabriel is an English singer, songwriter, and musician who first became widely known as the original frontman of Genesis. His early work helped define a particularly theatrical, narrative-driven strand of 1970s progressive rock, and his later solo career made him one of the most distinctive voices in modern popular music.\n\nBorn in Surrey, Gabriel developed a musical identity that mixed dramatic storytelling with an ear for memorable melody. At Charterhouse School he met Tony Banks, Mike Rutherford, and Anthony Phillips, and their early songwriting partnership evolved into Genesis, where Gabriel quickly emerged as a charismatic focal point.\n\nIn Genesis’ formative years, Gabriel’s presence onstage—costumes, characters, and theatrical staging—became a signature element of the band’s live reputation. This theatricality supported the group’s long-form compositions, reinforcing the sense that Genesis performances were closer to musical theatre than standard rock shows.\n\nGabriel’s lyric writing and vocal delivery helped shape classic 1970s albums such as *Foxtrot* and *Selling England by the Pound*, where surreal imagery and pointed social observation sat alongside intricate arrangements. His approach encouraged Genesis to embrace concept-driven work and ambitious narrative structure.\n\nThe double concept album *The Lamb Lies Down on Broadway* represented the height of that era’s storytelling ambition. The project intensified internal pressures, and after the accompanying tour Gabriel left Genesis in 1975, closing a defining chapter in the band’s history.\n\nAs a solo artist, Gabriel broadened his palette into art-pop experimentation, innovative studio production, and global musical collaboration. His work is often noted for its emotional intelligence and for a willingness to merge pop accessibility with unusual textures and rhythms.\n\nA major commercial and critical peak arrived with *So* (1986), which brought Gabriel a massive global audience while preserving his distinctive sound and lyrical depth. The era also cemented his reputation for visual innovation, as his videos became influential in the MTV age.\n\nBeyond music, Gabriel has been associated with activism and humanitarian engagement, a public dimension that has remained consistent across decades. This commitment is often discussed alongside his artistic identity, as both reflect a tendency toward intensity and purpose.\n\nGabriel’s relationship to Genesis remains central to his story: even after leaving, the Gabriel-era Genesis catalog continued to shape perceptions of progressive rock and theatrical live performance. His departure also catalyzed the band’s transformation into a different but equally influential pop-rock force.\n\nIn 2010, Gabriel was inducted into the Rock & Roll Hall of Fame with Genesis, recognizing the impact of the band’s multiple eras and his role in establishing the original artistic identity that made later reinventions possible.",
+            "Sources": [
+              {
+                "Title": "Peter Gabriel",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Peter-Gabriel"
+              },
+              {
+                "Title": "Genesis — inductee page",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/genesis/"
+              },
+              {
+                "Title": "Peter Gabriel",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Peter_Gabriel"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Steve Hackett",
+          "Roles": [
+            "guitar",
+            "songwriter"
+          ],
+          "Years": "1971–1977, 2010, 2020–2022",
+          "Bio": {
+            "BioID": "genesis-steve-hackett",
+            "ArtistID": "genesis",
+            "ArtistName": "Genesis",
+            "MemberName": "Steve Hackett",
+            "FullName": "Stephen Richard Hackett",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Progressive rock",
+              "Art rock"
+            ],
+            "Birth": {
+              "Date": "1950-02-12",
+              "Place": "London, England"
+            },
+            "ActiveYears": "1960s–present",
+            "AssociatedActs": [
+              "Genesis"
+            ],
+            "KeyAlbums": [
+              "Selling England by the Pound",
+              "The Lamb Lies Down on Broadway",
+              "A Trick of the Tail"
+            ],
+            "KeySongs": [
+              "Horizons",
+              "Blood on the Rooftops (co-writer)",
+              "The Musical Box (live-era staple)"
+            ],
+            "Achievements": [
+              "Joined Genesis in the early 1970s and helped define the band’s guitar vocabulary during its classic progressive-rock peak.",
+              "Built a long-running solo career that revisits and reinterprets Genesis material alongside original work.",
+              "Inducted into the Rock & Roll Hall of Fame with Genesis (2010)."
+            ],
+            "ExternalLinks": {
+              "Official Site": "https://www.hackettsongs.com/",
+              "Britannica": "https://www.britannica.com/biography/Steve-Hackett",
+              "AllMusic": "https://www.allmusic.com/artist/steve-hackett-mn0000754587"
+            },
+            "Biography": "Steve Hackett is an English guitarist and songwriter best known for his influential tenure with Genesis during the band’s early-to-mid 1970s progressive-rock peak. His playing expanded the group’s sonic vocabulary, introducing a broader range of textures that complemented the band’s keyboard-led arrangements.\n\nBorn in London, Hackett developed a style that drew from rock, classical influences, and blues phrasing. Rather than focusing solely on flashy solos, he often prioritized atmosphere—sustained tones, carefully voiced chords, and melodic lines that served the drama of the composition.\n\nHackett joined Genesis as the band’s ambitions were accelerating, and his arrival helped complete the classic five-piece lineup associated with the era’s most celebrated albums. His guitar work became an essential counterweight to Tony Banks’ keyboard architecture, adding bite, color, and lyrical emphasis.\n\nOn stage and in the studio, Hackett supported Genesis’ long-form compositions with a sense of narrative timing—knowing when to underline a theme, when to push dynamics, and when to disappear into the arrangement. This approach made his contributions feel woven into the songs rather than layered on top.\n\nDuring the Gabriel-fronted period, Hackett helped shape a distinct progressive-rock guitar language that favored texture and motif. His playing remains closely associated with the emotional contour of key Genesis material and with the band’s reputation for carefully crafted ensemble performance.\n\nAfter Peter Gabriel’s departure, Hackett continued with Genesis into the mid-1970s transition, contributing to albums that retained progressive depth while moving toward a more direct style. The band’s ability to evolve without losing identity is often linked to the strength of this lineup.\n\nHackett left Genesis in the late 1970s and pursued a wide-ranging solo career, exploring progressive rock, classical-leaning composition, and reinterpretations of earlier work. This breadth reflects an artistic personality interested in both technical craft and expressive atmosphere.\n\nIn later decades he became an important curator of the Genesis legacy, frequently performing material from the classic era with deep respect for its original structure while allowing room for live reinvention. His work helped keep the 1970s catalog vivid for new audiences.\n\nHackett’s reputation rests on musicality and imagination: a guitarist who treated progressive rock as an opportunity for orchestration, mood, and storytelling. His style influenced later generations of players who valued texture and composition over mere speed.\n\nIn 2010, Hackett was inducted into the Rock & Roll Hall of Fame with Genesis, recognizing both the band’s multi-era impact and his role in shaping the sound of its most revered progressive period.",
+            "Sources": [
+              {
+                "Title": "Steve Hackett",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Steve-Hackett"
+              },
+              {
+                "Title": "Steve Hackett artist page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/steve-hackett-mn0000754587"
+              },
+              {
+                "Title": "Genesis — inductee page",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/genesis/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Anthony Phillips",
+          "Roles": [
+            "guitar",
+            "vocals",
+            "songwriter"
+          ],
+          "Years": "1967–1970",
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "From Genesis to Revelation",
+            "Trespass"
+          ],
+          "Replacing": "Original founding lineup (early guitarist)",
+          "ReplacedBy": "Steve Hackett / evolving guitar roles",
+          "Overview": "A founding guitarist and key early writer whose departure coincided with Genesis’ shift into a heavier, more ambitious progressive-rock direction."
+        },
+        {
+          "Name": "Chris Stewart",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1967–1968",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "From Genesis to Revelation (early period)"
+          ],
+          "Replacing": "Original drummer",
+          "ReplacedBy": "John Silver / John Mayhew / Phil Collins (later)",
+          "Overview": "Genesis’ original drummer during the earliest Charterhouse-to-first-recording transition before the band’s lineup stabilized."
+        },
+        {
+          "Name": "John Silver",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1968–1969",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "From Genesis to Revelation (early period)"
+          ],
+          "Replacing": "Early drummer rotation",
+          "ReplacedBy": "John Mayhew / Phil Collins (later)",
+          "Overview": "An early Genesis drummer during the late-1960s pre-prog period, part of the band’s shifting personnel before the 1970s classic lineup."
+        },
+        {
+          "Name": "John Mayhew",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1970–1971",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Trespass"
+          ],
+          "Replacing": "Early drummer rotation",
+          "ReplacedBy": "Phil Collins",
+          "Overview": "Played during the *Trespass* era, bridging Genesis from their earliest recordings toward the lineup that would define the 1970s progressive-rock expansion."
+        },
+        {
+          "Name": "Mick Barnard",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1967–1968",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "From Genesis to Revelation (early period)"
+          ],
+          "Replacing": "Early guitarist rotation",
+          "ReplacedBy": "Anthony Phillips",
+          "Overview": "An early guitarist associated with Genesis’ late-1960s beginnings before the band’s core songwriting partnership fully solidified."
+        },
+        {
+          "Name": "Ray Wilson",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "1997–1999",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Calling All Stations"
+          ],
+          "Replacing": "Frontman after Phil Collins’ departure",
+          "ReplacedBy": "Band hiatus / reunion-era lineup",
+          "Overview": "Brought a darker vocal tone to the late-1990s lineup and fronted the band for *Calling All Stations* during a transitional, short-lived era."
+        }
+      ]
     },
     {
       "ArtistID": "george-thorogood-and-the-destroyers",
