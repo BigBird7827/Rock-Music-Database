@@ -1572,27 +1572,617 @@
     {
       "ArtistID": "earth-wind-and-fire",
       "Name": "Earth, Wind & Fire",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "Type": "Band",
+      "Origin": "Chicago, Illinois, U.S.",
+      "YearsActive": [
+        "1969–1984",
+        "1987–present"
+      ],
+      "Genres": [
+        "R&B",
+        "Soul",
+        "Funk",
+        "Disco",
+        "Pop",
+        "Jazz"
+      ],
+      "Labels": [
+        "Warner Bros.",
+        "Columbia",
+        "ARC/Columbia",
+        "Legacy/Columbia"
+      ],
+      "Overview": "Earth, Wind & Fire (often shortened to EWF) formed in Chicago in 1969 around drummer, songwriter, and producer Maurice White. From the start, the group fused jazz training with deep R&B and funk roots, then widened the palette with Latin rhythms, African-derived percussion, and gospel harmony—built for both radio and an explosive live show.\n\nIn the mid‑1970s the band turned that hybrid into mainstream pop power. A run of albums on Columbia produced a string of era-defining singles—mixing tight horn arrangements, layered vocals, and studio polish—while the stage presentation (including the Phenix Horns and choreographed ensemble performance) helped make EWF one of the most reliable draw-and-dance acts of the decade.\n\nAcross multiple lineup shifts and stylistic eras—from classic funk and disco through sleek early‑’80s pop and later revival touring—EWF’s catalog remained a cornerstone of American popular music. Their honors include multiple Grammy wins, a Rock & Roll Hall of Fame induction, a Recording Academy Lifetime Achievement Award, and recognition as 2019 Kennedy Center Honorees.",
+      "NotableAlbums": [
+        {
+          "Title": "That's the Way of the World",
+          "Year": "1975",
+          "Notes": "The breakthrough studio album that crystallized EWF’s mix of funk, soul, jazz sophistication, and pop hooks, anchored by 'Shining Star' and a signature, celebratory band identity."
+        },
+        {
+          "Title": "Gratitude",
+          "Year": "1975",
+          "Notes": "A career‑making double set pairing live power with new studio material, capturing the band’s peak‑’70s stage energy while expanding their hit profile."
+        },
+        {
+          "Title": "All ’n All",
+          "Year": "1977",
+          "Notes": "A landmark late‑’70s release that sharpened the group’s production and vocal layering, yielding enduring singles and a template for elegant, dance‑ready R&B pop."
+        },
+        {
+          "Title": "I Am",
+          "Year": "1979",
+          "Notes": "A chart‑dominant album that balanced smooth balladry with club‑ready grooves, featuring major crossover hits including 'After the Love Has Gone' and 'Boogie Wonderland'."
+        },
+        {
+          "Title": "Raise!",
+          "Year": "1981",
+          "Notes": "An early‑’80s update with bright synthesizers and sleek funk, highlighted by 'Let’s Groove'—a defining dance single of the decade."
+        },
+        {
+          "Title": "Powerlight",
+          "Year": "1983",
+          "Notes": "A polished, radio‑forward set that extended EWF’s early‑’80s sound while keeping their core emphasis on rhythm, harmony, and big‑band precision."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Shining Star",
+          "Year": "1975",
+          "Notes": "The first U.S. No. 1 single and a mission‑statement anthem: bright horns, buoyant groove, and a confidence‑building lyric that became inseparable from the band’s identity."
+        },
+        {
+          "Title": "September",
+          "Year": "1978",
+          "Notes": "A perennial party standard built on tight rhythm guitar, call‑and‑response vocals, and a chorus engineered for instant sing‑along; one of the most durable pop records of its era."
+        },
+        {
+          "Title": "Boogie Wonderland",
+          "Year": "1979",
+          "Notes": "A disco‑era centerpiece (with The Emotions) that pairs orchestral sweep with funk rhythm and remains a go‑to dancefloor record decades later."
+        },
+        {
+          "Title": "After the Love Has Gone",
+          "Year": "1979",
+          "Notes": "A sophisticated, bittersweet ballad showcasing the group’s vocal blend and jazz‑leaning harmony—an essential example of EWF’s crossover elegance."
+        },
+        {
+          "Title": "Fantasy",
+          "Year": "1977",
+          "Notes": "A soaring, melodic showcase that highlights the band’s gospel‑tinted uplift and studio layering, often featured as a centerpiece in their live set."
+        },
+        {
+          "Title": "Sing a Song",
+          "Year": "1975",
+          "Notes": "A feel‑good groove built around handclaps, horns, and a communal lyric—an early example of the band’s ability to turn funk discipline into pop joy."
+        },
+        {
+          "Title": "Let’s Groove",
+          "Year": "1981",
+          "Notes": "A sleek early‑’80s dance hit that modernized EWF’s sound with synth sparkle while keeping their rhythmic engine and vocal hooks front and center."
+        },
+        {
+          "Title": "Reasons",
+          "Year": "1975",
+          "Notes": "A concert staple ballad, celebrated for its vocal performance and emotional build—often used to slow the pace in the middle of high‑energy EWF shows."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1975",
+          "Title": "'Shining Star' reaches No. 1 in the U.S.",
+          "Details": "The single became Earth, Wind & Fire’s first U.S. chart‑topper and helped establish the band as a mainstream force beyond the soul and funk audience."
+        },
+        {
+          "Year": "1979",
+          "Title": "Major crossover success with 'I Am' era hits",
+          "Details": "'After the Love Has Gone' and 'Boogie Wonderland' expanded the band’s reach across pop and R&B formats, reinforcing EWF as one of the era’s dominant hitmakers."
+        },
+        {
+          "Year": "1995",
+          "Title": "Hollywood Walk of Fame star",
+          "Details": "Earth, Wind & Fire received a star on the Hollywood Walk of Fame, reflecting decades of pop and R&B impact and a touring reputation built on showmanship."
+        },
+        {
+          "Year": "2000",
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Details": "The band was inducted in 2000, honoring a body of work that reshaped crossover R&B pop and influenced generations of ensemble funk and dance acts."
+        },
+        {
+          "Year": "2016",
+          "Title": "Recording Academy Lifetime Achievement Award",
+          "Details": "Earth, Wind & Fire received the Recording Academy’s Lifetime Achievement Award, recognizing their enduring influence and sustained excellence."
+        },
+        {
+          "Year": "2019",
+          "Title": "Kennedy Center Honors (2019 honorees)",
+          "Details": "EWF were named among the 2019 Kennedy Center Honorees, a high‑profile recognition of their cultural and artistic contribution to American music."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Chicago in 1969 by Maurice White, blending R&B, funk, jazz, and pan‑African rhythmic ideas into a pop‑forward ensemble sound.",
+        "Known for precision horn arrangements, layered vocal harmonies, and a live show that combines choreography with big‑band power.",
+        "Signature instruments and textures include kalimba, dense percussion, and bright, celebratory horn writing.",
+        "Classic‑era lineup is strongly associated with Maurice White, Philip Bailey, Verdine White, Ralph Johnson, and Larry Dunn, among others.",
+        "A core run of 1970s–early 1980s albums produced enduring hits across R&B, pop, and dance formats.",
+        "Honored with multiple major industry and cultural recognitions, including Rock & Roll Hall of Fame induction and a Recording Academy Lifetime Achievement Award."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.earthwindandfire.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Earth%2C_Wind_%26_Fire",
+        "Discography": "https://en.wikipedia.org/wiki/Earth%2C_Wind_%26_Fire_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Maurice White",
+          "Roles": [
+            "founder",
+            "lead vocals",
+            "drums",
+            "percussion",
+            "kalimba",
+            "songwriter",
+            "producer"
+          ],
+          "Years": "1969–2016",
+          "Overview": "Founder, bandleader, primary creative force, and co‑lead singer who shaped EWF’s fusion of funk, soul, jazz sophistication, and pop uplift.",
+          "Bio": {
+            "BioID": "earth-wind-and-fire-maurice-white",
+            "ArtistID": "earth-wind-and-fire",
+            "ArtistName": "Earth, Wind & Fire",
+            "MemberName": "Maurice White",
+            "FullName": "Maurice White",
+            "PrimaryInstruments": [
+              "vocals",
+              "drums",
+              "percussion",
+              "kalimba"
+            ],
+            "Occupations": [
+              "singer",
+              "songwriter",
+              "producer",
+              "bandleader"
+            ],
+            "Genres": [
+              "R&B",
+              "soul",
+              "funk",
+              "jazz",
+              "pop"
+            ],
+            "Birth": {
+              "Date": "1941-12-19",
+              "Place": "Memphis, Tennessee, U.S."
+            },
+            "Death": {
+              "Date": "2016-02-04",
+              "Place": "Los Angeles, California, U.S.",
+              "Cause": "Parkinson’s disease"
+            },
+            "ActiveYears": [
+              "1960s–2016"
+            ],
+            "AssociatedActs": [
+              "Earth, Wind & Fire",
+              "Ramsey Lewis",
+              "Chess Records"
+            ],
+            "KeyAlbums": [
+              "That's the Way of the World (1975)",
+              "All ’n All (1977)",
+              "I Am (1979)",
+              "Raise! (1981)"
+            ],
+            "KeySongs": [
+              "Shining Star",
+              "September",
+              "Sing a Song",
+              "Fantasy"
+            ],
+            "Achievements": [
+              "Founded Earth, Wind & Fire and shaped its signature fusion of funk, soul, jazz sophistication, and pop reach.",
+              "Helped popularize kalimba and pan‑African rhythmic textures in mainstream American pop production.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Earth, Wind & Fire (2000)."
+            ],
+            "ExternalLinks": {
+              "Earth, Wind & Fire – Maurice White": "https://www.earthwindandfire.com/maurice-white/",
+              "Wikipedia – Maurice White": "https://en.wikipedia.org/wiki/Maurice_White"
+            },
+            "Biography": "Maurice White (1941–2016) was the architect of Earth, Wind & Fire: a drummer’s bandleader with a producer’s ear and a songwriter’s instinct for hooks that could carry sophisticated harmony. He began as a working musician in the Chicago scene, where jazz, soul, and studio craft overlapped nightly, and he learned how to make rhythm feel both disciplined and ecstatic.\n\nBefore EWF became a household name, White built credibility as a drummer and arranger in professional rooms where time, taste, and reliability mattered. Those early years—splitting nights between performance and the pragmatic grind of session work—shaped the precision that later defined EWF’s records, even when the music sounded effortless.\n\nIn 1969 he formed Earth, Wind & Fire in Chicago with a vision that was wider than a standard funk outfit. He wanted an ensemble that could move like a horn band, sing like a gospel choir, and improvise with jazz intelligence—while still delivering choruses that sounded inevitable on the radio.\n\nAs the group evolved, White became its central organizer: directing musical roles, arranging the balance between horns and rhythm section, and guiding studio decisions that made dense layers read clearly. His leadership wasn’t only about control; it was about creating space for a large cast of musicians to sound like one personality.\n\nWhite’s songwriting and production emphasized uplift without losing groove. The band’s classic singles often turn on a simple emotional thesis—confidence, joy, perseverance—then dress that thesis in sophisticated harmony and a rhythmic engine built for dancing.\n\nOne of his most distinctive sonic signatures was the use of kalimba and texture‑rich percussion, which added a bright, shimmering timbre to EWF’s sound. In the context of 1970s pop, those colors felt both ancient and futuristic, reinforcing the band’s cosmic‑earthy identity.\n\nThe mid‑1970s breakthrough established White as a rare kind of crossover auteur: someone who could lead a Black American ensemble to mass pop success without sanding down the complexity that made the music special. Albums like 'That’s the Way of the World' helped cement the band’s reputation as both a hit factory and a musicians’ band.\n\nAs the decades progressed and lineups shifted, White remained the guiding thread—protecting the core elements (horn writing, vocal blend, rhythmic lift) while allowing the band to update its surface textures for new radio eras. Even when he stepped back from constant touring, his role as curator and standard‑setter continued to shape what 'Earth, Wind & Fire' meant.\n\nWhite also became closely associated with a spiritual and philosophical presentation that ran alongside the music—an emphasis on positivity, human connection, and aspiration. For many listeners, that dimension turned EWF from a great band into a kind of cultural comfort: dance music with a higher emotional ceiling.\n\nHe spent his later years with Parkinson’s disease and died in 2016, but the structure he built—musically and organizationally—kept EWF active as a touring and recording legacy. His influence persists not only in the band’s catalog but in the broader template for polished, harmony‑rich, horn‑driven R&B pop.",
+            "Sources": [
+              {
+                "Title": "Maurice White (official profile)",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/maurice-white/"
+              },
+              {
+                "Title": "Earth, Wind & Fire (official biography)",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/history/biography/"
+              },
+              {
+                "Title": "Maurice White",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Maurice_White"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Philip Bailey",
+          "Roles": [
+            "lead vocals",
+            "falsetto lead",
+            "percussion",
+            "kalimba"
+          ],
+          "Years": "1972–present",
+          "Overview": "Co‑lead singer whose distinctive falsetto and wide range became central to EWF’s crossover sound and ballad catalog.",
+          "Bio": {
+            "BioID": "earth-wind-and-fire-philip-bailey",
+            "ArtistID": "earth-wind-and-fire",
+            "ArtistName": "Earth, Wind & Fire",
+            "MemberName": "Philip Bailey",
+            "FullName": "Philip James Bailey",
+            "PrimaryInstruments": [
+              "vocals",
+              "percussion",
+              "kalimba"
+            ],
+            "Occupations": [
+              "singer",
+              "songwriter",
+              "musician"
+            ],
+            "Genres": [
+              "R&B",
+              "soul",
+              "funk",
+              "pop",
+              "gospel"
+            ],
+            "Birth": {
+              "Date": "1951-05-08",
+              "Place": "Denver, Colorado, U.S."
+            },
+            "ActiveYears": [
+              "1970–present"
+            ],
+            "AssociatedActs": [
+              "Earth, Wind & Fire",
+              "Phil Collins"
+            ],
+            "KeyAlbums": [
+              "All ’n All (1977)",
+              "I Am (1979)",
+              "Raise! (1981)",
+              "Chinese Wall (1984)"
+            ],
+            "KeySongs": [
+              "September",
+              "Fantasy",
+              "After the Love Has Gone",
+              "Easy Lover (with Phil Collins)"
+            ],
+            "Achievements": [
+              "One of Earth, Wind & Fire’s signature lead voices, known for a wide range and distinctive falsetto.",
+              "Expanded EWF’s reach through solo work and high‑profile collaborations, while remaining a core touring frontman.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Earth, Wind & Fire (2000)."
+            ],
+            "ExternalLinks": {
+              "Official site – Philip Bailey": "https://philipbailey.com/",
+              "Philip Bailey – Biography": "https://philipbailey.com/biography/",
+              "Philip Bailey": "https://en.wikipedia.org/wiki/Philip_Bailey"
+            },
+            "Biography": "Philip Bailey became one of the defining voices of Earth, Wind & Fire, pairing smooth lead singing with a bright, instantly recognizable falsetto that helped push the band into true pop crossover. Raised in Colorado, he came up in local R&B scenes that emphasized harmony, groove discipline, and stagecraft—skills that would later translate perfectly to EWF’s large‑ensemble format.\n\nBailey’s early musical life was rooted in groups and bandstands where singers also had to be musicians, and his comfort with percussion and rhythmic phrasing became part of his style. When he joined Earth, Wind & Fire in the early 1970s, he entered a band that was still defining itself—jazz‑trained, ambition‑heavy, and built to evolve quickly.\n\nAs EWF’s audience exploded in the mid‑to‑late 1970s, Bailey emerged as a central frontman alongside Maurice White. The band’s vocal identity often depended on his ability to switch from gentle, romantic lines to soaring choruses without losing clarity or pitch—an athletic kind of singing that made the records feel both precise and exuberant.\n\nBailey’s voice also became crucial to the band’s ballad catalog, where emotional nuance mattered as much as volume. Songs like 'Reasons' and 'After the Love Has Gone' rely on controlled dynamics and phrasing, and Bailey helped give EWF a 'quiet power' mode that balanced their party‑ignition singles.\n\nIn the studio, his parts were often layered into the group’s hallmark choral texture—dense harmonies that still read cleanly through busy arrangements. That combination of individual personality and blend discipline made him an ideal vocalist for an ensemble that wanted both star moments and collective impact.\n\nDuring the 1980s, Bailey also built a parallel solo profile, proving he could carry songs outside the EWF framework. His duet 'Easy Lover' with Phil Collins became a major pop hit, and the visibility of that success fed back into EWF’s image as a group whose members could thrive in the broader mainstream.\n\nEven as popular tastes shifted and EWF’s output moved through different production eras, Bailey remained a stabilizing presence: an anchor voice that guaranteed the band’s classics would land the way fans remembered. In live performance, that reliability is not trivial—EWF’s catalog is demanding, and Bailey’s consistency helped keep the show’s emotional arc intact.\n\nBailey’s musicianship extends beyond vocals: he has long been associated with percussion and with the band’s symbolic, texture‑driven instruments like kalimba. That connection to rhythm—rather than pure 'lead singer' spotlight—matches the EWF ethos, where groove and ensemble precision are the primary stars.\n\nAcross decades of touring, Bailey became the public continuity point for listeners who discovered EWF in different eras: some through 1970s funk, others through 1980s pop, and many through evergreen radio staples. His voice functions as a kind of time machine, instantly placing the listener back inside the band’s most iconic sound.\n\nToday, Bailey’s legacy is inseparable from the idea of Earth, Wind & Fire as a living institution: a band that still performs with authority because the lead vocals can still deliver both celebration and sophistication. His career shows how a singular voice can be both a personal signature and a disciplined instrument inside a larger musical engine.",
+            "Sources": [
+              {
+                "Title": "Biography",
+                "Publisher": "PhilipBailey.com",
+                "Url": "https://philipbailey.com/biography/"
+              },
+              {
+                "Title": "Philip Bailey",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Philip_Bailey"
+              },
+              {
+                "Title": "Members",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/history/members/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Verdine White",
+          "Roles": [
+            "bass guitar",
+            "percussion",
+            "vocals"
+          ],
+          "Years": "1969–present",
+          "Overview": "Founding bassist and live-show catalyst, known for melodic funk bass lines and an energetic stage presence.",
+          "Bio": {
+            "BioID": "earth-wind-and-fire-verdine-white",
+            "ArtistID": "earth-wind-and-fire",
+            "ArtistName": "Earth, Wind & Fire",
+            "MemberName": "Verdine White",
+            "FullName": "Verdine Adams White",
+            "PrimaryInstruments": [
+              "bass guitar"
+            ],
+            "Occupations": [
+              "bassist",
+              "songwriter",
+              "producer"
+            ],
+            "Genres": [
+              "R&B",
+              "soul",
+              "funk",
+              "pop"
+            ],
+            "Birth": {
+              "Date": "1951-07-25",
+              "Place": "Chicago, Illinois, U.S."
+            },
+            "ActiveYears": [
+              "1969–present"
+            ],
+            "AssociatedActs": [
+              "Earth, Wind & Fire"
+            ],
+            "KeyAlbums": [
+              "That's the Way of the World (1975)",
+              "All ’n All (1977)",
+              "I Am (1979)",
+              "Raise! (1981)"
+            ],
+            "KeySongs": [
+              "September",
+              "Sing a Song",
+              "Shining Star",
+              "Let’s Groove"
+            ],
+            "Achievements": [
+              "Founding bassist whose energetic style and stage presence became part of EWF’s live identity.",
+              "Helped define a dance‑focused bass approach that stays melodic while locking tightly with percussion and rhythm guitar.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Earth, Wind & Fire (2000)."
+            ],
+            "ExternalLinks": {
+              "Verdine White (HistoryMakers biography)": "https://www.thehistorymakers.org/biography/verdine-adams-white",
+              "Verdine White": "https://en.wikipedia.org/wiki/Verdine_White"
+            },
+            "Biography": "Verdine White is the founding bassist of Earth, Wind & Fire and one of the group’s most visible live personalities: a player whose parts are as much about propulsion and joy as they are about notes. Growing up in Chicago, he absorbed the city’s deep R&B and jazz ecosystem—music that prized both groove authority and musical conversation.\n\nWhen the band formed in 1969, Verdine’s role quickly became structural. Earth, Wind & Fire’s arrangements are famously dense—horn lines, percussion layers, vocal stacks—and the bass has to do more than hold down roots. Verdine’s approach makes the low end sing while still punching the beat hard enough to carry dancers.\n\nOn the classic 1970s records, his lines often serve as a second hook: simple enough to remember, active enough to feel alive. He locks with the drums and congas, but he also answers horn riffs and vocal phrases, creating a sense that the whole arrangement is moving in one coordinated wave.\n\nVerdine’s stage presence became a signature in its own right. EWF shows are choreographed and visually dramatic, and the bassist is frequently one of the band’s kinetic centers—moving, interacting, and amplifying the 'celebration' aspect that defines the group’s public image.\n\nMusically, his tone and timing help explain why EWF’s grooves remain modern. Even in disco‑adjacent hits, the bass never feels generic; it has a rounded funk snap that can lean smooth or aggressive depending on the song’s emotional temperature.\n\nAs the band moved into the 1980s, the surface textures changed—more synthesizers, sharper pop sheen—but Verdine’s job stayed the same: translate new production into a groove that still feels physical. That continuity is a major reason the catalog plays seamlessly across eras in concert.\n\nBeyond the band’s core discography, Verdine has remained closely identified with the EWF brand, helping carry the legacy through changing lineups and decades of touring. For many fans, seeing him on stage functions as proof of authenticity: the spirit of the original ensemble is present.\n\nHe has also been recognized for his influence as a bassist, frequently cited in discussions of great funk and R&B low‑end playing. The key to his impact isn’t flash; it’s the way he makes movement feel inevitable—turning complex arrangements into something the body understands immediately.\n\nVerdine’s long career illustrates how ensemble music depends on leadership from every chair. While EWF has celebrated singers and producers, the bass is one of the band’s real command centers—where tempo, feel, and momentum are decided in real time.\n\nAcross more than five decades, Verdine White’s playing has remained a core part of what people mean when they say 'Earth, Wind & Fire.' The bass lines don’t just support the songs; they are part of the songs’ identities, carrying the same optimism and lift that the lyrics promise.",
+            "Sources": [
+              {
+                "Title": "Verdine Adams White",
+                "Publisher": "The HistoryMakers",
+                "Url": "https://www.thehistorymakers.org/biography/verdine-adams-white"
+              },
+              {
+                "Title": "Verdine White",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Verdine_White"
+              },
+              {
+                "Title": "Members",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/history/members/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Ralph Johnson",
+          "Roles": [
+            "drums",
+            "percussion",
+            "vocals"
+          ],
+          "Years": "1972–present",
+          "Overview": "Percussionist/drummer and vocalist who helped define EWF’s layered rhythmic approach and long-running stage lineup.",
+          "Bio": {
+            "BioID": "earth-wind-and-fire-ralph-johnson",
+            "ArtistID": "earth-wind-and-fire",
+            "ArtistName": "Earth, Wind & Fire",
+            "MemberName": "Ralph Johnson",
+            "FullName": "Ralph Randolph Johnson",
+            "PrimaryInstruments": [
+              "drums",
+              "percussion",
+              "vocals"
+            ],
+            "Occupations": [
+              "drummer",
+              "percussionist",
+              "singer",
+              "songwriter"
+            ],
+            "Genres": [
+              "R&B",
+              "soul",
+              "funk",
+              "pop"
+            ],
+            "Birth": {
+              "Date": "1951-07-04",
+              "Place": "Los Angeles, California, U.S."
+            },
+            "ActiveYears": [
+              "1972–present"
+            ],
+            "AssociatedActs": [
+              "Earth, Wind & Fire"
+            ],
+            "KeyAlbums": [
+              "All ’n All (1977)",
+              "I Am (1979)",
+              "Raise! (1981)",
+              "Powerlight (1983)"
+            ],
+            "KeySongs": [
+              "September",
+              "Boogie Wonderland",
+              "Let’s Groove",
+              "Fantasy"
+            ],
+            "Achievements": [
+              "Longtime percussionist/drummer who helped define EWF’s layered rhythmic sound in the classic lineup.",
+              "A key live-show anchor, integrating drums, percussion, and vocals within EWF’s choreographed ensemble format.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Earth, Wind & Fire (2000)."
+            ],
+            "ExternalLinks": {
+              "Ralph Johnson (musician)": "https://en.wikipedia.org/wiki/Ralph_Johnson_(musician)",
+              "Members": "https://www.earthwindandfire.com/history/members/"
+            },
+            "Biography": "Ralph Johnson joined Earth, Wind & Fire in the early 1970s and became a defining part of the band’s rhythmic signature—an onstage engine who could handle drums, percussion, and vocals inside a large, tightly arranged ensemble. Coming out of Los Angeles, he arrived with the kind of studio‑ready timing and versatility that a multi‑percussion band demands.\n\nEWF’s grooves work because they’re layered: a drum kit foundation, hand percussion details, and rhythmic accents that interact with bass, guitar, and horns. Johnson’s role sits right at that intersection, making sure the layers hit cleanly rather than turning into noise.\n\nOn the classic records, the percussion feels engineered: small details appear at exactly the right moment to lift a chorus or sharpen a break. That kind of precision is a craft, and Johnson helped execute it in a way that still sounds natural and danceable.\n\nIn concert, his job expands. Earth, Wind & Fire’s stage show isn’t a loose jam; it’s a coordinated production where musical cues line up with visual movement and horn choreography. Johnson’s steadiness provides a grid the rest of the show can safely build on—especially in medleys and extended crowd‑interaction passages.\n\nJohnson is also a vocalist, which matters more than it might seem. In a band with multiple lead and harmony parts, being able to sing while maintaining rhythmic responsibility is a rare skill, and it helps explain why EWF’s live sound stays full even when arrangements are complex.\n\nAs the group transitioned into the 1980s, the drum and percussion parts had to adapt to brighter, more synthesized production without losing the band’s physical feel. Johnson’s playing kept the music grounded, ensuring that the new sonic sheen still hit with body and momentum.\n\nOver decades of lineup changes, Johnson remained one of the key continuity figures on stage. Along with Philip Bailey and Verdine White, he helped carry the band’s identity into later touring eras—where audiences come expecting classics delivered with authority and joy.\n\nHis presence underscores an important EWF truth: the band’s magic is not just its melodies or horns; it’s the rhythmic confidence that makes every part feel celebratory. The grooves have to feel inevitable, and Johnson’s precision helps make that inevitability real.\n\nJohnson’s career is also a reminder that 'support' roles can be leadership roles. In a large ensemble, the rhythm chairs often decide whether the music feels tense, relaxed, urgent, or floating—and EWF’s emotional range depends on those decisions.\n\nToday, Johnson is remembered and celebrated as part of the classic machine that made Earth, Wind & Fire a cultural landmark: a drummer‑percussionist who helped turn complex arrangements into music that feels simple where it matters most—right in the body.",
+            "Sources": [
+              {
+                "Title": "Ralph Johnson (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Ralph_Johnson_(musician)"
+              },
+              {
+                "Title": "Members",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/history/members/"
+              },
+              {
+                "Title": "Biography",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/history/biography/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Larry Dunn",
+          "Roles": [
+            "keyboards",
+            "synthesizers",
+            "musical director"
+          ],
+          "Years": "1972–1983; guest appearances later",
+          "Overview": "Classic‑era keyboardist and musical director, adding harmonic color, synth texture, and arrangement discipline to EWF’s signature sound.",
+          "Bio": {
+            "BioID": "earth-wind-and-fire-larry-dunn",
+            "ArtistID": "earth-wind-and-fire",
+            "ArtistName": "Earth, Wind & Fire",
+            "MemberName": "Larry Dunn",
+            "FullName": "Lorenzo Russell Dunn",
+            "PrimaryInstruments": [
+              "keyboards",
+              "synthesizers"
+            ],
+            "Occupations": [
+              "keyboardist",
+              "musical director",
+              "producer",
+              "songwriter"
+            ],
+            "Genres": [
+              "funk",
+              "soul",
+              "disco",
+              "R&B"
+            ],
+            "Birth": {
+              "Date": "1953-06-19",
+              "Place": "Denver, Colorado, U.S."
+            },
+            "ActiveYears": [
+              "1972–present"
+            ],
+            "AssociatedActs": [
+              "Earth, Wind & Fire",
+              "Twennynine",
+              "Ramsey Lewis"
+            ],
+            "KeyAlbums": [
+              "That's the Way of the World (1975)",
+              "All ’n All (1977)",
+              "I Am (1979)",
+              "Raise! (1981)"
+            ],
+            "KeySongs": [
+              "Shining Star",
+              "September",
+              "Boogie Wonderland",
+              "After the Love Has Gone"
+            ],
+            "Achievements": [
+              "Keyboardist and musical director in the classic lineup, bringing jazz‑informed chord color and modern synth textures to EWF’s arrangements.",
+              "Credited as a co‑composer of 'Shining Star', the band’s first U.S. No. 1 single.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Earth, Wind & Fire (2000)."
+            ],
+            "ExternalLinks": {
+              "Official site – Larry Dunn": "https://larrydunnmusic.com/",
+              "Larry Dunn": "https://en.wikipedia.org/wiki/Larry_Dunn"
+            },
+            "Biography": "Larry Dunn became one of Earth, Wind & Fire’s key architects in the studio era that turned the band from a powerful concept into a world‑famous hit machine. Raised in Denver, he developed as a working keyboardist early—playing long nights and learning how to cover wide stylistic territory, from hard funk to sophisticated harmony, without losing the groove.\n\nThat versatility mattered because EWF’s sound depends on chord color as much as rhythm. The horns are bright, the vocals are layered, and the bass‑drum engine is relentless; keyboards have to connect those elements—providing harmonic glue while also adding hooks, textures, and transitions that make dense arrangements feel clear.\n\nDunn joined Earth, Wind & Fire in 1972 as the band’s classic lineup took shape. He brought a musical director’s mindset, helping translate Maurice White’s vision into playable, repeatable parts that could work both on record and in a choreographed live show.\n\nOn the mid‑1970s breakthrough material, his keyboard work supports EWF’s cinematic sheen: electric piano warmth, organ grit, and later synthesizer sparkle that made the tracks sound bigger than a standard rhythm section. In a band famous for horns, Dunn’s contribution often sits 'under' the brass—quietly shaping how the chords lift and resolve.\n\nDunn is also credited as a co‑composer of 'Shining Star', the single that became EWF’s first U.S. No. 1 hit. That credit reflects a core truth about EWF: their biggest songs are ensemble creations, built from the interaction of rhythm, harmony, and arrangement as much as from a single melody line.\n\nHis role extended beyond playing. Dunn’s production and arranging work outside the band demonstrates the same skill set EWF relied on—tight grooves, clean layers, and harmony that feels luxurious without becoming cluttered. It’s the craft of making sophisticated music sound like it simply 'happens.'\n\nAs the group moved into the late 1970s and early 1980s, synthesizers became more central to pop production, and Dunn helped EWF modernize without abandoning their identity. The challenge was keeping the warmth of funk and soul while embracing brighter, more futuristic textures; Dunn’s keyboard palette was a major part of that balance.\n\nAfter leaving the band’s day‑to‑day lineup in the 1980s, Dunn remained connected to the EWF story as a key classic‑era contributor. His name stays attached to the records that defined the group’s sound for global audiences—the period when the band’s musical ambition and pop success were perfectly aligned.\n\nIn the broader arc of Earth, Wind & Fire, Dunn represents the importance of harmonic intelligence in dance music. The grooves get people moving, but the chords are what give the music emotional altitude—turning party songs into something closer to a musical world.\n\nDunn’s legacy is heard in the way EWF tracks still feel rich on modern systems: layered but not muddy, bright but not harsh, complex but instantly readable. That clarity is a keyboardist‑arranger’s gift—and it helped make Earth, Wind & Fire timeless.",
+            "Sources": [
+              {
+                "Title": "Larry Dunn",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Larry_Dunn"
+              },
+              {
+                "Title": "Members",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/history/members/"
+              },
+              {
+                "Title": "Biography",
+                "Publisher": "Earth, Wind & Fire",
+                "Url": "https://www.earthwindandfire.com/history/biography/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Al McKay",
+          "Roles": [
+            "guitar",
+            "rhythm guitar",
+            "percussion"
+          ],
+          "Years": "1973–1981",
+          "Bio": "Guitarist in the classic 1970s lineup whose tight rhythm work and funk feel supported EWF’s dance-floor drive during their breakthrough era."
+        },
+        {
+          "Name": "Fred White",
+          "Roles": [
+            "drums",
+            "percussion"
+          ],
+          "Years": "1974–1983",
+          "Bio": "Drummer associated with EWF’s late‑’70s peak; his crisp pocket and dynamic fills helped power the band’s live momentum during their arena era."
+        },
+        {
+          "Name": "Andrew Woolfolk",
+          "Roles": [
+            "saxophone",
+            "flute",
+            "percussion"
+          ],
+          "Years": "1973–1986; 1987–1993",
+          "Bio": "Woodwind player associated with the classic lineup, contributing sax and flute color to EWF’s horn-and-texture palette across key hit years."
+        },
+        {
+          "Name": "Johnny Graham",
+          "Roles": [
+            "guitar",
+            "percussion"
+          ],
+          "Years": "1973–1983",
+          "Bio": "Guitarist and ensemble contributor in the core 1970s/early‑1980s configuration, supporting the band’s layered grooves and stage sound."
+        }
+      ]
     },
     {
       "ArtistID": "eddie-money",
