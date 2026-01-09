@@ -2082,8 +2082,452 @@
   {
     "ArtistID": "scorpions",
     "Name": "Scorpions",
-    "CoreMembers": [],
-    "NonCoreMembers": []
+    "Type": "Band",
+    "Origin": "Hanover, Lower Saxony, West Germany (now Germany)",
+    "YearsActive": [
+      "1965–present"
+    ],
+    "Genres": [
+      "Hard rock",
+      "Heavy metal",
+      "Arena rock",
+      "Glam metal"
+    ],
+    "Labels": [
+      "Brain",
+      "RCA",
+      "Harvest",
+      "Mercury",
+      "EMI",
+      "Columbia",
+      "BMG"
+    ],
+    "Overview": "Formed in Hanover in 1965 by guitarist Rudolf Schenker, Scorpions became the rare European hard-rock group to break through internationally and then stay stadium-sized for decades. After early LPs that leaned into heavy psychedelic rock, the band sharpened its attack in the mid‑’70s and began a long working relationship with producer Dieter Dierks, laying the groundwork for the arena-ready mix of crunching riffs, melodic guitar leads, and sing-along choruses that would define their global run.\n\nTheir late‑’70s/’80s peak is built around a string of albums that turned Scorpions into MTV-era staples and tour monsters: Lovedrive (1979) and Blackout (1982) set the template, while Love at First Sting (1984) delivered their signature hit “Rock You Like a Hurricane” alongside a parallel identity as one of rock’s most durable power‑ballad bands (“Still Loving You,” later “Send Me an Angel”). The group’s classic lineup—Schenker, singer/lyricist Klaus Meine, guitarist Matthias Jabs, bassist Francis Buchholz, and drummer Herman Rarebell—balanced tight, hook-driven songwriting with a live show built for big rooms.\n\nIn 1990–91, “Wind of Change” turned Scorpions into a cultural shorthand for the end of the Cold War era, becoming a worldwide hit that peaked at No. 4 on the U.S. Billboard Hot 100 and helped power Crazy World (1990). The band has continued recording and touring into the 21st century, marking major anniversaries and remaining a high-visibility legacy act; their official history cites more than 100 million records sold worldwide.",
+    "NotableAlbums": [
+      {
+        "Title": "Lonesome Crow",
+        "Year": "1972",
+        "Notes": "Debut LP; early heavy/psychedelic sound with future UFO guitarist Michael Schenker appearing."
+      },
+      {
+        "Title": "In Trance",
+        "Year": "1975",
+        "Notes": "A key step toward their signature hard-rock style; start of the band’s long collaboration with producer Dieter Dierks."
+      },
+      {
+        "Title": "Lovedrive",
+        "Year": "1979",
+        "Notes": "Breakthrough-era album that helped establish Scorpions as an international arena act; first LP featuring Matthias Jabs."
+      },
+      {
+        "Title": "Blackout",
+        "Year": "1982",
+        "Notes": "High-energy classic of their prime years; includes “No One Like You” and the title track."
+      },
+      {
+        "Title": "Love at First Sting",
+        "Year": "1984",
+        "Notes": "Career-defining blockbuster featuring “Rock You Like a Hurricane” and “Still Loving You.”"
+      },
+      {
+        "Title": "Crazy World",
+        "Year": "1990",
+        "Notes": "Late-career peak driven by the global success of “Wind of Change” and “Send Me an Angel.”"
+      },
+      {
+        "Title": "Rock Believer",
+        "Year": "2022",
+        "Notes": "Late-era studio statement underscoring the band’s continued touring and recording longevity."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Rock You Like a Hurricane",
+        "Year": "1984",
+        "Notes": "Signature hard-rock anthem; lead single from Love at First Sting."
+      },
+      {
+        "Title": "Still Loving You",
+        "Year": "1984",
+        "Notes": "Power ballad that became a defining part of the band’s global profile."
+      },
+      {
+        "Title": "No One Like You",
+        "Year": "1982",
+        "Notes": "Breakout single from Blackout; a cornerstone of their early-’80s rise."
+      },
+      {
+        "Title": "Wind of Change",
+        "Year": "1991",
+        "Notes": "Worldwide hit associated with the end of the Cold War era; peaked at No. 4 on the U.S. Billboard Hot 100."
+      },
+      {
+        "Title": "Send Me an Angel",
+        "Year": "1991",
+        "Notes": "Follow-up hit from Crazy World that reinforced their ballad/anthem balance."
+      }
+    ],
+    "Achievements": [
+      {
+        "Year": "1991",
+        "Title": "Global breakthrough single",
+        "Details": "“Wind of Change” became a worldwide hit and peaked at No. 4 on the U.S. Billboard Hot 100."
+      },
+      {
+        "Year": "1995",
+        "Title": "RIAA certifications (U.S.)",
+        "Details": "RIAA listings show U.S. certification entries for titles including Love at First Sting (album) and Wind of Change (single)."
+      },
+      {
+        "Year": "2022",
+        "Title": "Late-era studio resurgence",
+        "Details": "Released Rock Believer, a new studio album supporting continued major touring activity."
+      },
+      {
+        "Year": "N/A",
+        "Title": "Career sales milestone (official history)",
+        "Details": "Official band history cites more than 100 million records sold worldwide."
+      }
+    ],
+    "KeyFacts": [
+      "Formed in Hanover in 1965 by guitarist Rudolf Schenker.",
+      "Classic lineup (late ’70s–early ’90s): Rudolf Schenker, Klaus Meine, Matthias Jabs, Francis Buchholz, Herman Rarebell.",
+      "“Rock You Like a Hurricane” (1984) is widely treated as the band’s signature hard-rock anthem.",
+      "“Wind of Change” (1991) became a worldwide hit and peaked at No. 4 on the U.S. Billboard Hot 100."
+    ],
+    "ExternalLinks": {
+      "Official Site — Band history": "https://www.the-scorpions.com/band/",
+      "AllMusic — Scorpions": "https://www.allmusic.com/artist/scorpions-mn0000299471",
+      "Wikipedia — Scorpions (band)": "https://en.wikipedia.org/wiki/Scorpions_(band)",
+      "RIAA — Gold & Platinum search (Scorpions)": "https://www.riaa.com/gold-platinum/?se=scorpion&tab_active=default-award",
+      "Wikipedia — “Wind of Change”": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)",
+      "Wikipedia — “Rock You Like a Hurricane”": "https://en.wikipedia.org/wiki/Rock_You_Like_a_Hurricane"
+    },
+    "CoreMembers": [
+      {
+        "Name": "Rudolf Schenker",
+        "YearsActive": "1965–present (Scorpions)",
+        "Roles": "Founder; rhythm/lead guitarist; principal songwriter; bandleader",
+        "Instruments": "Guitar; occasional vocals",
+        "Albums": [
+          "Lonesome Crow",
+          "Lovedrive",
+          "Blackout",
+          "Love at First Sting",
+          "Crazy World"
+        ],
+        "Overview": "Founder and constant member of Scorpions; built the band’s signature riff-driven sound and helped steer its business and touring longevity.",
+        "Bio": {
+          "FullName": "Heinrich Rudolf Schenker",
+          "Birth": {
+            "Date": "August 31, 1948",
+            "Place": "Hildesheim, Lower Saxony, Germany"
+          },
+          "Death": null,
+          "Nationality": "German",
+          "Roles": [
+            "Guitarist",
+            "Songwriter",
+            "Bandleader",
+            "Founder"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "FullText": "Rudolf Schenker founded Scorpions in Hanover in 1965 and remains the band’s one uninterrupted constant, shaping both its sound and its long-term strategy.\n\nHe developed a riff-forward approach that blends hard-rock groove with melodic hooks, forming a backbone for the band’s dual identity as an anthem machine and a power-ballad powerhouse.\n\nAcross the classic era, Schenker’s writing and arranging instincts helped turn the band’s songs into stadium-ready forms—tight structures, big choruses, and guitars that sit equally well beside pop-friendly melody and metal weight.\n\nOn the international breakthrough run from Lovedrive through Love at First Sting, his rhythm parts and co-writing became a signature stamp: aggressive but cleanly articulated, designed to translate in arenas and on radio.\n\nSchenker’s onstage presence—wide stance, Flying‑V silhouettes, and call-and-response crowd work—became inseparable from the Scorpions brand as the group turned touring into a core engine of its fame.\n\nHe also played a key role in continuity as personnel shifted around the core; even when lineups changed, the band’s sonic identity and performance discipline stayed remarkably stable.\n\nBeyond the music, sources credit Schenker with hands-on involvement in the group’s business infrastructure, including management/publishing interests that helped Scorpions operate as a long-running enterprise rather than a short-lived cycle.\n\nIn later decades, he continued to frame new records around live viability, emphasizing material that could stand next to legacy staples without breaking the setlist’s momentum.\n\nSchenker is frequently cited as the band’s principal “architect”—the member who kept Scorpions focused through changing industry eras, from LP cycles and MTV to global touring and streaming.\n\nHis longevity, leadership, and songwriting footprint make him one of the most recognizable figures in German rock’s international export story.",
+          "HonoursAndMilestones": [
+            "Founded Scorpions (1965) and remains the sole continuous member across all eras."
+          ],
+          "FunFacts": [
+            "Often associated with Flying‑V style guitars as part of the band’s visual identity.",
+            "Older brother of guitarist Michael Schenker (UFO/Michael Schenker Group)."
+          ],
+          "Quotes": [],
+          "Sources": [
+            {
+              "Title": "Rudolf Schenker",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Rudolf_Schenker"
+            },
+            {
+              "Title": "Band (official history & milestones)",
+              "Publisher": "Scorpions Official Site",
+              "Url": "https://www.the-scorpions.com/band/"
+            },
+            {
+              "Title": "Scorpions — Artist Biography",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/scorpions-mn0000299471"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Klaus Meine",
+        "YearsActive": "1969–present (Scorpions)",
+        "Roles": "Lead vocalist; primary lyricist; songwriter",
+        "Instruments": "Vocals",
+        "Albums": [
+          "In Trance",
+          "Lovedrive",
+          "Blackout",
+          "Love at First Sting",
+          "Crazy World"
+        ],
+        "Overview": "Distinctive frontman and lyricist; wrote or co-wrote defining songs including “Wind of Change,” and anchored the band’s melodic identity.",
+        "Bio": {
+          "FullName": "Klaus Willi Meine",
+          "Birth": {
+            "Date": "May 25, 1948",
+            "Place": "Hanover, Lower Saxony, Germany"
+          },
+          "Death": null,
+          "Nationality": "German",
+          "Roles": [
+            "Singer",
+            "Lyricist",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Vocals"
+          ],
+          "FullText": "Klaus Meine became Scorpions’ defining voice and, over time, its primary lyricist—an unusually important role for a band whose hits often hinge on chorus clarity and memorable, singable phrasing.\n\nJoining the group in the late ’60s, he helped guide Scorpions from their early heavy-rock roots into a more streamlined, melodic hard-rock identity that could compete globally alongside British and American acts.\n\nMeine’s vocal style balances grit with a clean high register, allowing the band to pivot between metallic punch (“Blackout,” “No One Like You”) and grand-scale balladry (“Still Loving You,” “Send Me an Angel”).\n\nHe is credited as the writer of “Wind of Change,” the song that tied Scorpions to the geopolitical symbolism of the late Cold War era and became one of the most widely recognized rock singles of the early ’90s.\n\nIn the band’s classic 1978–1992 lineup, Meine’s partnership with Rudolf Schenker and Matthias Jabs produced a reliable formula: guitars supply the attack, while the vocal and lyric provide the emotional “hook” that turns riffs into anthems.\n\nBiographical accounts note periods where he had to protect and rebuild his voice—an issue that highlights how central his tone is to Scorpions’ identity; the band’s continued touring depends heavily on his ability to deliver demanding sets.\n\nAs a frontman, Meine projects a calmer presence than many metal peers, often letting the songs do the dramatic work; this approach helped Scorpions cross over to mainstream radio without abandoning hard-rock power.\n\nHis lyrics frequently combine romantic melodrama with a broader “big picture” tone—freedom, change, perseverance—themes that made their biggest ballads resonate far beyond the hard-rock audience.\n\nAcross decades, Meine remained one of the two members (alongside Rudolf Schenker) to appear on every Scorpions studio album, a continuity that gives the catalog a consistent vocal signature.\n\nBecause Scorpions are often introduced to new listeners through “Wind of Change” or “Rock You Like a Hurricane,” Meine’s voice and words are effectively the band’s handshake with the world.",
+          "HonoursAndMilestones": [
+            "Primary lyricist and longtime frontman of Scorpions’ global breakthrough era.",
+            "Writer of “Wind of Change,” a worldwide hit that peaked at No. 4 on the U.S. Billboard Hot 100."
+          ],
+          "FunFacts": [
+            "Frequently cited for writing lyrics that helped Scorpions translate into multiple markets beyond the German rock scene."
+          ],
+          "Quotes": [],
+          "Sources": [
+            {
+              "Title": "Klaus Meine",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Klaus_Meine"
+            },
+            {
+              "Title": "Band (official history & milestones)",
+              "Publisher": "Scorpions Official Site",
+              "Url": "https://www.the-scorpions.com/band/"
+            },
+            {
+              "Title": "Wind of Change (Scorpions song)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Matthias Jabs",
+        "YearsActive": "1978–present (Scorpions)",
+        "Roles": "Lead/rhythm guitarist; songwriter",
+        "Instruments": "Guitar",
+        "Albums": [
+          "Lovedrive",
+          "Blackout",
+          "Love at First Sting",
+          "Crazy World",
+          "Rock Believer"
+        ],
+        "Overview": "Lead guitarist of Scorpions’ classic era; brought sharper melodic lead work that helped define the band’s late‑’70s through ’90s sound.",
+        "Bio": {
+          "FullName": "Matthias Jabs",
+          "Birth": {
+            "Date": "October 25, 1955",
+            "Place": "Hannover, West Germany"
+          },
+          "Death": null,
+          "Nationality": "German",
+          "Roles": [
+            "Guitarist",
+            "Songwriter",
+            "Musician"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "FullText": "Matthias Jabs became Scorpions’ lead guitarist at the turning point when the band was transforming into a world‑class arena act.\n\nHe is widely associated with the sleek, melodic lead style that defines the group’s biggest hits—solos that are memorable in their own right, but tightly integrated into song structure rather than extended jams.\n\nBiographical sources describe his path into the band as unusually practical: bassist Francis Buchholz knew him through tutoring and recommended him when Scorpions needed a new lead guitarist.\n\nStarting with Lovedrive, Jabs appears on virtually the entire canon most listeners recognize: Blackout, Love at First Sting, Crazy World, and the live staples that made Scorpions a touring brand as much as a recording act.\n\nHis playing helped give the band a dual-guitar identity—Rudolf Schenker’s riff architecture paired with Jabs’ lead lines and harmonized parts, a balance that became a hallmark of the classic lineup.\n\nOn signature tracks, Jabs’ clean attack and melodic sense allow Scorpions to stay heavy while still sounding “singable,” a key reason the band could thrive in both hard-rock and mainstream settings.\n\nIn live performance, his role is both technical and dramatic: delivering signature solos that audiences expect note-for-note, and keeping the band’s arrangements tight at high volume.\n\nJabs also became a long-running public face of the band’s gear culture, often associated with carefully curated guitars and a polished tone that fits Scorpions’ studio-to-stage consistency.\n\nAs Scorpions moved into later decades, Jabs continued to adapt—supporting new material while ensuring it could sit comfortably beside the band’s ’80s staples in setlists.\n\nFor many fans, Jabs’ era is the “Scorpions sound”: the moment when the band’s songwriting and musicianship locked into a distinct, globally recognizable hard-rock language.",
+          "HonoursAndMilestones": [
+            "Joined Scorpions in the late ’70s and played on the band’s most commercially and culturally defining albums.",
+            "Featured guitarist on “Wind of Change,” including the iconic clean-guitar introduction (as described in major song references)."
+          ],
+          "FunFacts": [
+            "Biographical references note he owns/operates a guitar-related business venture (music store) in Munich."
+          ],
+          "Quotes": [],
+          "Sources": [
+            {
+              "Title": "Matthias Jabs",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Matthias_Jabs"
+            },
+            {
+              "Title": "Scorpions (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Scorpions_(band)"
+            },
+            {
+              "Title": "Wind of Change (Scorpions song)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Francis Buchholz",
+        "YearsActive": "1973–1992 (Scorpions)",
+        "Roles": "Bassist",
+        "Instruments": "Bass guitar",
+        "Albums": [
+          "In Trance",
+          "Lovedrive",
+          "Blackout",
+          "Love at First Sting",
+          "Crazy World"
+        ],
+        "Overview": "Bass player of the classic lineup; provided the low-end foundation for the band’s international breakthrough and contributed to the group’s tight, groove-centered feel.",
+        "Bio": {
+          "FullName": "Francis Buchholz",
+          "Birth": {
+            "Date": "February 19, 1954",
+            "Place": "Hanover, West Germany"
+          },
+          "Death": null,
+          "Nationality": "German",
+          "Roles": [
+            "Bassist",
+            "Musician"
+          ],
+          "Instruments": [
+            "Bass guitar"
+          ],
+          "FullText": "Francis Buchholz joined Scorpions in the early ’70s and became the bassist for the band’s most celebrated and commercially dominant lineup.\n\nHis tenure covers the key arc from the mid‑’70s hardening of the band’s sound through the late‑’70s/’80s explosion into arena-rock superstardom.\n\nAs a bassist in a guitar-driven group, Buchholz’s contribution is often about discipline and feel: locking the groove so the riffs hit with weight, while leaving space for layered guitars and soaring vocal melodies.\n\nBiographical accounts also note his behind-the-scenes influence on personnel: sources credit him with recommending Matthias Jabs to the band, a move that helped define the classic two-guitar identity of Scorpions’ prime years.\n\nOn records like Lovedrive, Blackout, and Love at First Sting, his playing supports songs that demand both punch and polish—tight enough for radio, heavy enough for metal audiences.\n\nBuchholz remained in the group through Crazy World, the album cycle that produced “Wind of Change,” meaning his era spans both the ’80s MTV breakthrough and the early‑’90s global cultural moment.\n\nAfter leaving Scorpions in the early ’90s, he continued working in rock projects, including associations with guitarist Michael Schenker’s later bands—an extension of the Scorpions-linked musical family.\n\nHis long run in Scorpions is especially significant because the classic lineup’s stability was a major factor in the band’s international dominance; Buchholz is part of that stability.\n\nFor fans of the band’s “classic” sound, Buchholz represents the bass tone and feel behind the era’s biggest riffs and choruses.\n\nEven in a catalog often remembered for guitars and vocals, Buchholz’s work is foundational—an engine room presence that kept the anthems moving.",
+          "HonoursAndMilestones": [
+            "Bassist for the band’s most successful long-running lineup (late ’70s–early ’90s).",
+            "Credited in biographical accounts with helping connect Matthias Jabs to the band."
+          ],
+          "FunFacts": [
+            "Continued to collaborate within the broader Schenker/Scorpions rock network after leaving the band."
+          ],
+          "Quotes": [],
+          "Sources": [
+            {
+              "Title": "Francis Buchholz",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Francis_Buchholz"
+            },
+            {
+              "Title": "Matthias Jabs",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Matthias_Jabs"
+            },
+            {
+              "Title": "Scorpions (band)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Scorpions_(band)"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Herman Rarebell",
+        "YearsActive": "1977–1996 (Scorpions)",
+        "Roles": "Drummer; songwriter/lyricist (select tracks)",
+        "Instruments": "Drums",
+        "Albums": [
+          "Lovedrive",
+          "Blackout",
+          "Love at First Sting",
+          "Savage Amusement",
+          "Crazy World"
+        ],
+        "Overview": "Drummer of the classic lineup and a notable behind-the-scenes writer; contributed lyrics/co-writes on key anthems including “Rock You Like a Hurricane.”",
+        "Bio": {
+          "FullName": "Hermann Erbel",
+          "Birth": {
+            "Date": "November 18, 1949",
+            "Place": "Schmelz, West Germany"
+          },
+          "Death": null,
+          "Nationality": "German",
+          "Roles": [
+            "Drummer",
+            "Songwriter",
+            "Lyricist"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "FullText": "Herman Rarebell became Scorpions’ drummer in 1977, joining just as the band was transitioning into its most stable and successful international lineup.\n\nHis playing emphasizes drive and clarity—an approach that supports Scorpions’ arena-rock precision, where the rhythm section must be powerful but tightly controlled to keep choruses and guitar figures sharply defined.\n\nRarebell’s influence extends beyond drums: major references credit him as a lyricist or co-writer on several key tracks, including “Rock You Like a Hurricane,” placing him inside the band’s hit-making engine rather than only the rhythm chair.\n\nDuring the classic run, he played on the albums most associated with Scorpions’ global identity—Lovedrive through Crazy World—helping set a rhythmic character that fans still associate with the band’s biggest songs.\n\nHis writing contributions are notable for a hard-rock band: Rarebell is credited with lyrics on multiple staples, reflecting how collaborative Scorpions could be when shaping anthems.\n\nOutside the band, sources note solo work and later projects, underscoring that his public identity extended beyond Scorpions even while the group’s touring and recording schedule was intense.\n\nRarebell’s era also aligns with Scorpions’ peak as a live institution—when a consistent, punchy drum sound was essential for delivering songs night after night at arena volume.\n\nHis background includes formal music education (as described in biographical accounts), which helps explain the disciplined, well-structured approach he brought to a band that needed precision as much as raw power.\n\nWhen listeners picture the “classic” Scorpions lineup, Rarebell is central: he is part of the five-man unit that defined the band’s late‑’70s through early‑’90s identity.\n\nIn short, he was both the engine and—on key songs—one of the voices behind the message, helping shape the Scorpions catalog from the inside.",
+          "HonoursAndMilestones": [
+            "Drummer for Scorpions during their most commercially dominant years (late ’70s through mid‑’90s).",
+            "Credited as a lyricist/co-writer on major songs including “Rock You Like a Hurricane.”"
+          ],
+          "FunFacts": [
+            "Maintains an official site and performs with related projects reflecting the 1980s-era repertoire."
+          ],
+          "Quotes": [],
+          "Sources": [
+            {
+              "Title": "Herman Rarebell",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Herman_Rarebell"
+            },
+            {
+              "Title": "Rock You Like a Hurricane",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Rock_You_Like_a_Hurricane"
+            },
+            {
+              "Title": "Herman Rarebell Official Website",
+              "Publisher": "Herman Rarebell",
+              "Url": "https://www.hermanrarebell.com/"
+            }
+          ]
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Uli Jon Roth",
+        "YearsActive": "1973–1978",
+        "Roles": "Lead guitarist",
+        "Instruments": "Guitar",
+        "Overview": "Early-era lead guitarist whose virtuoso playing helped push Scorpions toward the heavier, more ambitious sound that set up their later arena breakthrough."
+      },
+      {
+        "Name": "Michael Schenker",
+        "YearsActive": "1970–1973",
+        "Roles": "Lead guitarist",
+        "Instruments": "Guitar",
+        "Overview": "Early lead guitarist (and Rudolf Schenker’s younger brother) who appeared on the debut-era period before achieving major fame with UFO and the Michael Schenker Group."
+      },
+      {
+        "Name": "Pawel Mąciwoda",
+        "YearsActive": "2003–present",
+        "Roles": "Bassist",
+        "Instruments": "Bass guitar",
+        "Overview": "Modern-era bassist who joined as the band entered its long-running legacy phase, contributing to continued touring and later studio releases."
+      },
+      {
+        "Name": "James Kottak",
+        "YearsActive": "1996–2016",
+        "Roles": "Drummer",
+        "Instruments": "Drums",
+        "Overview": "Long-serving drummer who helped carry Scorpions through late-’90s/2000s touring and recording cycles."
+      },
+      {
+        "Name": "Mikkey Dee",
+        "YearsActive": "2016–present",
+        "Roles": "Drummer",
+        "Instruments": "Drums",
+        "Overview": "Veteran hard-rock/metal drummer (also known for Motörhead) who joined Scorpions in the band’s later touring era."
+      }
+    ]
   },
   {
     "ArtistID": "seals-and-crofts",
