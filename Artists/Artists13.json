@@ -1688,7 +1688,255 @@
     },
     {
       "ArtistID": "phil-collins",
-      "Name": "Phil Collins"
+      "Name": "Phil Collins",
+      "Type": "Solo artist",
+      "Origin": {
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1963–2022",
+        "1981–2022 (solo)",
+        "1970–1996; 2007; 2020–2022 (Genesis)"
+      ],
+      "Genres": [
+        "Pop rock",
+        "Soft rock",
+        "Blue-eyed soul",
+        "Adult contemporary",
+        "Progressive rock"
+      ],
+      "Labels": [
+        "Virgin",
+        "Atlantic",
+        "Warner Bros."
+      ],
+      "Overview": "Phil Collins is an English drummer, singer-songwriter, producer, and one of the defining pop voices of the 1980s. He is widely associated with a rhythm-first approach to songwriting—where the drum part and arrangement shape the emotional arc as much as the lyric—and with a studio sound that helped set the template for radio pop-rock and adult contemporary in the MTV era. Alongside his solo work, Collins spent decades as a central member of Genesis, first as drummer and later as lead vocalist, making him one of the rare artists to sustain arena-level success simultaneously inside a major band and as a solo hitmaker.\n\nHis solo breakthrough arrived with *Face Value* (1981), written during a period of personal upheaval and anchored by “In the Air Tonight,” whose dramatic build and signature drum sonics became instantly recognizable. Over the next decade he refined a style that paired direct, conversational vocals with big hooks and meticulous, groove-driven production—peaking with the blockbuster *No Jacket Required* (1985) and the socially aware *...But Seriously* (1989). Even at his most polished, his best singles keep a sense of narrative detail: longing, regret, reassurance, and moral concern delivered with a plainspoken intensity rather than theatrical ornament.\n\nIn later years, health issues increasingly limited his ability to drum and tour at full scale, but his cultural footprint stayed constant through catalog longevity, soundtrack work, and the continued influence of his production aesthetic. Whether approached through Genesis’ evolution, his solo run, or film songs like “You’ll Be in My Heart,” Collins’ legacy is tied to craft: feel-forward drumming, economical melodic writing, and the ability to make pop records sound both intimate and stadium-sized.",
+      "NotableAlbums": [
+        {
+          "Title": "Face Value",
+          "Year": "1981",
+          "Notes": "Solo debut shaped by personal upheaval; introduced Collins’ signature blend of confessional songwriting and bold drum production, led by “In the Air Tonight.”"
+        },
+        {
+          "Title": "Hello, I Must Be Going!",
+          "Year": "1982",
+          "Notes": "Follow-up that broadened his pop reach; features “You Can’t Hurry Love,” a major Motown cover hit."
+        },
+        {
+          "Title": "No Jacket Required",
+          "Year": "1985",
+          "Notes": "Career-defining blockbuster of punchy pop-rock and sophisticated studio craft; produced multiple global singles and established his 1980s peak."
+        },
+        {
+          "Title": "...But Seriously",
+          "Year": "1989",
+          "Notes": "Balances polished adult-pop with topical writing; includes “Another Day in Paradise” and “I Wish It Would Rain Down.”"
+        },
+        {
+          "Title": "Both Sides",
+          "Year": "1993",
+          "Notes": "More inward, writer-led album largely performed by Collins; emphasizes mood, drums, and personal reflection over big-session sheen."
+        },
+        {
+          "Title": "Going Back",
+          "Year": "2010",
+          "Notes": "Tribute to Motown and soul—revisiting formative influences with period-minded arrangements and deep catalog choices."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "In the Air Tonight",
+          "Year": "1981",
+          "Notes": "Moody, slow-burn classic from *Face Value*, famous for its dramatic build and iconic drum sound."
+        },
+        {
+          "Title": "Against All Odds (Take a Look at Me Now)",
+          "Year": "1984",
+          "Notes": "Power ballad tied to the film *Against All Odds*; one of his most enduring vocal performances."
+        },
+        {
+          "Title": "Sussudio",
+          "Year": "1985",
+          "Notes": "Bright, synth-driven pop hit from *No Jacket Required*—a defining example of mid-’80s stadium pop."
+        },
+        {
+          "Title": "One More Night",
+          "Year": "1985",
+          "Notes": "Soft-rock ballad showcasing his restrained, conversational delivery and chart-dominating 1980s sound."
+        },
+        {
+          "Title": "Take Me Home",
+          "Year": "1985",
+          "Notes": "Anthemic closer from *No Jacket Required*, built on a steady pulse and expansive hooks."
+        },
+        {
+          "Title": "Another Day in Paradise",
+          "Year": "1989",
+          "Notes": "Socially conscious hit from *...But Seriously* that became one of his signature late-’80s singles."
+        },
+        {
+          "Title": "Two Hearts",
+          "Year": "1988",
+          "Notes": "Up-tempo, ’60s-soul-inflected single from the *Buster* soundtrack that expanded his soundtrack profile."
+        },
+        {
+          "Title": "You'll Be in My Heart",
+          "Year": "1999",
+          "Notes": "Theme from Disney’s *Tarzan* that became his most famous film song and a late-career standard."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1980s",
+          "Title": "Defines mainstream pop-rock in the MTV/radio era",
+          "Details": "A sustained run of hit singles and multi-platinum albums made Collins one of the decade’s most visible solo artists while he also fronted Genesis during its commercial peak."
+        },
+        {
+          "Year": "1999–2000",
+          "Title": "Major film-music breakthrough with *Tarzan*",
+          "Details": "“You’ll Be in My Heart” became a flagship soundtrack song and earned top-tier film-music recognition."
+        },
+        {
+          "Year": "2010",
+          "Title": "Rock & Roll Hall of Fame induction (with Genesis)",
+          "Details": "Inducted as part of Genesis, recognizing the band’s long arc from progressive rock origins to global pop-rock success."
+        },
+        {
+          "Year": "2003",
+          "Title": "Songwriters Hall of Fame induction",
+          "Details": "Honored for long-form songwriting impact across solo work, collaborations, and band catalog."
+        },
+        {
+          "Year": "2022",
+          "Title": "Closes a major touring chapter",
+          "Details": "After years of health challenges, Collins stepped away from drumming and large-scale touring, marking the end of an era for his live career."
+        }
+      ],
+      "KeyFacts": [
+        "Collins’ career bridges three overlapping identities: a drummer with a distinctive feel, a pop singer with a conversational delivery, and a producer who helped popularize crisp, rhythm-forward studio sounds.",
+        "His solo catalog is often described in “chapters”: early, emotionally direct writing (*Face Value*), maximal 1980s pop craft (*No Jacket Required*), and later, more introspective albums (*Both Sides*).",
+        "The drum sonics associated with “In the Air Tonight” became an era marker—frequently referenced in discussions of gated reverb and 1980s studio aesthetics.",
+        "Beyond solo hits, his broader visibility is tied to Genesis’ evolution and to soundtrack work that reached audiences outside rock radio.",
+        "In interviews and retrospectives, health limitations are regularly cited as a key reason his performing role narrowed in the 2020s."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://philcollins.com/",
+        "AllMusic Artist Bio": "https://www.allmusic.com/artist/phil-collins-mn0000315597",
+        "Britannica Biography": "https://www.britannica.com/biography/Phil-Collins",
+        "GRAMMY.com Artist": "https://www.grammy.com/artists/phil-collins/12320",
+        "Rock & Roll Hall of Fame — Genesis (inductee)": "https://rockhall.com/inductees/genesis/",
+        "Songwriters Hall of Fame Profile": "https://www.songhall.org/profiles/phil-collins"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Phil Collins",
+          "YearsActive": "1963–2022",
+          "Roles": "Singer; songwriter; drummer; producer",
+          "Instruments": "Vocals; drums; piano; percussion",
+          "Albums": [
+            {
+              "Title": "Face Value",
+              "Year": "1981"
+            },
+            {
+              "Title": "No Jacket Required",
+              "Year": "1985"
+            },
+            {
+              "Title": "...But Seriously",
+              "Year": "1989"
+            },
+            {
+              "Title": "Both Sides",
+              "Year": "1993"
+            },
+            {
+              "Title": "Going Back",
+              "Year": "2010"
+            }
+          ],
+          "Overview": "English musician whose rhythm-first songwriting and studio craft made him one of the most commercially prominent solo artists of the 1980s, while also fronting Genesis through its peak pop era.",
+          "Bio": {
+            "FullName": "Philip David Charles Collins",
+            "Birth": {
+              "Date": "1951-01-30",
+              "Place": "Putney, London, England, United Kingdom"
+            },
+            "Nationality": "British",
+            "Roles": "Singer; songwriter; drummer; record producer; bandleader",
+            "Instruments": "Drums; vocals; piano; percussion",
+            "Overview": "Drummer-turned-frontman whose solo catalog and work with Genesis defined a mainstream pop-rock sound that emphasized feel, polished arrangements, and emotionally direct storytelling.",
+            "FullText": "Philip David Charles Collins was born on January 30, 1951, in West London. His earliest public life mixed performance and percussion: he attended drama school and worked as a child actor, experiences that sharpened his timing, diction, and stage instincts. At the same time, a toy drum kit became a serious obsession, and by his early teens he was practicing constantly—developing the touch and stamina that would later make him one of rock’s most recognizable drummers.\n\nIn 1970, Collins joined Genesis as the group’s drummer, arriving while the band’s progressive-rock identity was still forming. His playing was energetic and song-minded, favoring clear backbeats and rolling fills that pushed arrangements forward rather than simply decorating them. As Genesis’ music shifted from extended, suite-like structures toward tighter songs, Collins became a steady musical center—reliable live, inventive in the studio, and increasingly influential in how tracks were built and recorded.\n\nWhen Peter Gabriel left Genesis, Collins stepped into the role of lead singer, an unusual transition that reshaped the band’s trajectory. As a vocalist, he brought a more direct, conversational tone and an actor’s sense of phrasing, helping Genesis translate complex musical ideas into hooks without abandoning dynamic arrangement. Over the late 1970s and 1980s, the band moved from cult-status prog to global pop-rock power, with Collins’ voice and drum feel both central to that crossover.\n\nCollins’ solo career emerged from intensely personal circumstances. During breaks in Genesis activity, he wrote songs that confronted emotional upheaval head-on, and those pieces became the foundation of *Face Value* (1981). The album announced a distinct solo identity—tighter, moodier, and more confessional than the band’s work—and it introduced “In the Air Tonight,” a slow-burn classic whose build, atmosphere, and drum sound would become an era marker.\n\nThrough the early and mid-1980s he refined a signature approach: pop songs constructed like rhythm tracks, with drums and arrangement choices driving tension and release. *Hello, I Must Be Going!* expanded his profile with major radio singles, and *No Jacket Required* (1985) turned him into one of the decade’s dominant hitmakers. That record balanced sleek synth-pop energy with arena-scale balladry, demonstrating how he could sound intimate and huge using the same disciplined toolbox.\n\nAt his commercial peak, Collins was simultaneously a solo superstar and the frontman of Genesis, a dual role that shaped how audiences perceived him. Some listeners heard him as the voice of mainstream 1980s pop-rock; others emphasized that his first language was the drum kit. The unifying thread is craft: a focus on groove, clear melodic writing, and the ability to sculpt performances so the emotional message lands immediately—whether the track is a quiet confession or a stadium chorus.\n\nIn the late 1980s and early 1990s, his writing widened in subject matter. *...But Seriously* paired polished pop with overt social themes—most famously on “Another Day in Paradise”—while retaining the melodic clarity that powered his earlier hits. On *Both Sides* (1993), he leaned inward and auteur-like, performing much of the record himself and emphasizing mood, drum textures, and reflective songwriting over the big-session sheen most associated with his mid-’80s sound.\n\nCollins’ catalog also includes major film work that reached audiences outside rock radio. His music for Disney’s *Tarzan* produced “You’ll Be in My Heart,” a song that distilled his melodic strengths into a cinematic emotional core and became a late-career standard. Alongside a long record of collaborations and production work, the soundtrack success highlighted his versatility: drummer, singer, writer, arranger, and producer operating at a world-pop scale.\n\nAcross decades, his honors have reflected that breadth. He has been recognized with major music-industry awards, inducted into songwriter-focused institutions, and enshrined in rock history through Genesis’ Rock & Roll Hall of Fame induction. Yet the most durable measure of his impact is cultural: the drum sonics and rhythmic feel associated with his records, and a catalogue of songs that remain staples of classic hits formats, film/TV placement, and cover versions across genres.\n\nIn the 2010s and into the 2020s, long-term health challenges increasingly limited his ability to play drums and tour at the scale that once defined his live identity. Rather than rewriting his legacy, those constraints underscored how much of his artistry also lives in songwriting, vocal phrasing, and studio decision-making—the behind-the-board craft that shaped a generation of pop-rock records. By the close of his major touring chapter, Collins stood as a musician whose story is inseparable from rhythm: not just the instrument he played, but the way he built songs around pulse, space, and feel.",
+            "HonoursAndMilestones": [
+              {
+                "Year": "2010",
+                "Title": "Rock & Roll Hall of Fame induction (with Genesis)",
+                "Details": "Genesis was inducted into the Rock & Roll Hall of Fame, recognizing the band’s multi-era impact and Collins’ central role as drummer and lead vocalist."
+              },
+              {
+                "Year": "2003",
+                "Title": "Songwriters Hall of Fame induction",
+                "Details": "Inducted into the Songwriters Hall of Fame, reflecting long-term songwriting influence across solo hits, band work, and collaborations."
+              },
+              {
+                "Year": "2000",
+                "Title": "Academy Award for “You’ll Be in My Heart”",
+                "Details": "Won the Oscar for Best Original Song for “You’ll Be in My Heart” from Disney’s *Tarzan*."
+              },
+              {
+                "Year": "2022",
+                "Title": "Retires from drumming; end of major touring era",
+                "Details": "Publicly stepped away from drumming amid health challenges, bringing a long performance chapter to a close."
+              }
+            ],
+            "FunFacts": [
+              "Collins attended drama school as a child and performed on stage before committing fully to a music career.",
+              "“In the Air Tonight” is frequently cited for its distinctive drum sound and is often referenced in discussions of 1980s studio production techniques.",
+              "In addition to his own releases, Collins has credits as a producer and session musician on projects by major rock and pop artists."
+            ],
+            "Sources": [
+              {
+                "Title": "Phil Collins (official site)",
+                "Publisher": "PhilCollins.com",
+                "Url": "https://philcollins.com/"
+              },
+              {
+                "Title": "Phil Collins — Artist Bio",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/phil-collins-mn0000315597"
+              },
+              {
+                "Title": "Phil Collins",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Phil-Collins"
+              },
+              {
+                "Title": "Phil Collins | Artist",
+                "Publisher": "GRAMMY.com",
+                "Url": "https://www.grammy.com/artists/phil-collins/12320"
+              },
+              {
+                "Title": "Phil Collins — Songwriters Hall of Fame",
+                "Publisher": "Songwriters Hall of Fame",
+                "Url": "https://www.songhall.org/profiles/phil-collins"
+              },
+              {
+                "Title": "“You’ll Be in My Heart” (Tarzan) — song overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/You%27ll_Be_in_My_Heart"
+              },
+              {
+                "Title": "Phil Collins gives rare health update two years after retiring from drumming",
+                "Publisher": "People",
+                "Url": "https://people.com/phil-collins-gives-rare-health-update-two-years-after-retiring-from-drumming-8764150"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": []
     },
     {
       "ArtistID": "pilot",
