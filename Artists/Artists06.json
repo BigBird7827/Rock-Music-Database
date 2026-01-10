@@ -872,8 +872,462 @@
     {
       "ArtistID": "the-doobie-brothers",
       "Name": "The Doobie Brothers",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "San Jose",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1970–1982",
+        "1987–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Soft rock",
+        "Blue-eyed soul",
+        "Boogie rock",
+        "Pop rock",
+        "R&B"
+      ],
+      "Labels": [
+        "Warner Bros.",
+        "Capitol",
+        "Arista",
+        "Sony"
+      ],
+      "Overview": "The Doobie Brothers are a San Jose, California–formed rock band whose long 1970s run made them one of the era’s most durable hitmakers. Known for flexibility and vocal harmonies, they began as a guitar-forward, groove-heavy rock act and quickly proved they could absorb folk, country, and R&B touches without losing their road-band punch. Co-founded in 1970 by Tom Johnston and Patrick Simmons (with drummer John Hartman), the group broke through with early-’70s releases like Toulouse Street and The Captain and Me, fueled by Johnston’s riff-driven songwriting and the band’s tight ensemble feel.\n\nA major mid-decade shift arrived when Johnston’s health problems reduced his touring workload and singer/keyboardist Michael McDonald joined in 1975. McDonald’s soulful phrasing and keyboard-driven arrangements steered the band toward a polished blue-eyed-soul and soft-rock blend, producing the #1 album Minute by Minute and the #1 single “What a Fool Believes,” co-written with Kenny Loggins. In parallel, Simmons’ acoustic-leaning “Black Water” became the band’s first #1 hit, underscoring how the Doobies could move between rootsy textures and sleek pop-soul without sounding like a different band.\n\nAfter disbanding in 1982, The Doobie Brothers reunited in 1987 and have remained active for decades as a touring and recording band, with Johnston and Simmons joined in the modern lineup by McDonald and multi-instrumentalist John McFee. Their legacy has been formalized by major honors, including Rock and Roll Hall of Fame induction (2020) and the Songwriters Hall of Fame’s 2025 class recognizing Johnston, Simmons, and McDonald. In 2025 the reunited core lineup released Walk This Road, continuing a multi-era story while keeping their harmony-driven identity intact.",
+      "NotableAlbums": [
+        {
+          "Title": "Toulouse Street",
+          "Year": "1972",
+          "Notes": "Breakthrough album that set the early boogie-rock/harmony template; includes “Listen to the Music.”"
+        },
+        {
+          "Title": "The Captain and Me",
+          "Year": "1973",
+          "Notes": "Expanded the band’s guitar-driven sound; home to “Long Train Runnin’” and “China Grove.”"
+        },
+        {
+          "Title": "What Were Once Vices Are Now Habits",
+          "Year": "1974",
+          "Notes": "Features the band’s first #1 single, “Black Water,” and deepened their stylistic blend."
+        },
+        {
+          "Title": "Takin’ It to the Streets",
+          "Year": "1976",
+          "Notes": "Introduced Michael McDonald’s lead-vocal era and a more keyboard-and-soul-forward approach."
+        },
+        {
+          "Title": "Minute by Minute",
+          "Year": "1978",
+          "Notes": "Their commercial peak: #1 album and a Grammy-winning period; includes “What a Fool Believes.”"
+        },
+        {
+          "Title": "Walk This Road",
+          "Year": "2025",
+          "Notes": "New studio album by the reunited core lineup (Johnston, Simmons, McDonald, McFee)."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Listen to the Music",
+          "Year": "1972",
+          "Notes": "A defining early hit built on harmonies and Johnston’s rhythmic guitar feel."
+        },
+        {
+          "Title": "Long Train Runnin’",
+          "Year": "1973",
+          "Notes": "One of the band’s signature riff-and-groove singles from The Captain and Me."
+        },
+        {
+          "Title": "China Grove",
+          "Year": "1973",
+          "Notes": "Hard-driving classic-rock staple anchored by Johnston’s songwriting."
+        },
+        {
+          "Title": "Black Water",
+          "Year": "1974",
+          "Notes": "Patrick Simmons-penned acoustic-leaning track that became the band’s first #1 hit."
+        },
+        {
+          "Title": "Takin’ It to the Streets",
+          "Year": "1976",
+          "Notes": "Title track that announced the McDonald-led, soul-inflected phase."
+        },
+        {
+          "Title": "What a Fool Believes",
+          "Year": "1978",
+          "Notes": "McDonald/Loggins composition and the band’s second #1 single; a hallmark of late-’70s soft rock."
+        },
+        {
+          "Title": "Minute by Minute",
+          "Year": "1978",
+          "Notes": "Title track from their #1 album, emblematic of the band’s keyboard-driven polish."
+        },
+        {
+          "Title": "The Doctor",
+          "Year": "1989",
+          "Notes": "A major late-era comeback single after the group’s reunion."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Rock and Roll Hall of Fame induction",
+          "Year": "2020",
+          "Notes": "Inducted as part of the 2020 class, recognizing their 1970s-era impact and catalog."
+        },
+        {
+          "Title": "Grammy recognition for Minute by Minute era",
+          "Year": "1979",
+          "Notes": "Minute by Minute won a Grammy for Best Pop Vocal Performance by a Duo or Group, and “What a Fool Believes” earned major Grammy awards."
+        },
+        {
+          "Title": "Songwriters Hall of Fame induction (Johnston, Simmons, McDonald)",
+          "Year": "2025",
+          "Notes": "Honored as part of the Songwriters Hall of Fame’s 2025 class for their songwriting legacy."
+        },
+        {
+          "Title": "Best of the Doobies certified Diamond by the RIAA",
+          "Year": "1976",
+          "Notes": "Their blockbuster hits compilation reached Diamond (10 million units) certification in the U.S."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1970 in San Jose, California.",
+        "Two distinct hitmaking eras: early boogie/blues-rock fronted by Tom Johnston and a later soft-rock/blue-eyed-soul period centered on Michael McDonald’s voice and keyboards.",
+        "First #1 single: “Black Water” (1974); second #1 single: “What a Fool Believes” (1979).",
+        "Minute by Minute (1978) reached #1 and anchored one of the band’s most award-decorated periods.",
+        "Reunited in 1987 and has remained active for decades as a touring and recording band.",
+        "Honors include Rock and Roll Hall of Fame (2020) and Songwriters Hall of Fame (2025)."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://thedoobiebrothers.com/",
+        "AllMusic Artist Bio": "https://www.allmusic.com/artist/the-doobie-brothers-mn0000136871",
+        "Britannica": "https://www.britannica.com/topic/The-Doobie-Brothers",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/doobie-brothers/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Doobie_Brothers"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Tom Johnston",
+          "Roles": [
+            "Founding member",
+            "Lead vocals",
+            "Guitars",
+            "Primary early songwriter"
+          ],
+          "Years": "1970–1982; 1987–present",
+          "Overview": "Co-founder and original lead singer whose riff-driven songwriting powered the band’s early-’70s breakthrough.",
+          "Bio": {
+            "BioID": "the-doobie-brothers-tom-johnston",
+            "FullName": "Charles Thomas Johnston",
+            "Birth": {
+              "Date": "1948-08-15",
+              "Location": {
+                "City": "Visalia",
+                "Region": "California",
+                "Country": "United States"
+              }
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Guitarist, vocalist, songwriter",
+            "Instruments": "Guitars, vocals, harmonica, keyboards",
+            "Biography": "Charles Thomas “Tom” Johnston (born August 15, 1948, in Visalia, California) is a guitarist, vocalist, and songwriter best known as a co-founder and early frontman of The Doobie Brothers. Rooted in rhythm-and-blues and early rock ’n’ roll, he developed a punchy, groove-first guitar approach that became central to the band’s original boogie-rock identity.\n\nJohnston helped form the group in Northern California in 1970 with drummer John Hartman and later guitarist/singer Patrick Simmons, building a strong live following before their recording breakthrough. As the Doobies moved from local stages to a major-label career, Johnston became the band’s most visible early voice—singing lead and writing many of the songs that defined their first wave of success.\n\nHis writing combined bright major-key hooks, chugging rhythm guitar, and stacked harmonies, yielding staples such as “Listen to the Music,” “China Grove,” and “Long Train Runnin’.” Those songs, and the albums that housed them, established The Doobie Brothers as a radio-and-arena act in the early 1970s while still retaining a road-band toughness in their arrangements.\n\nMid-decade, Johnston’s role changed as health issues limited his ability to maintain the band’s touring pace. During this transition, the group brought in singer/keyboardist Michael McDonald, whose soulful phrasing and keyboard-driven textures shifted the Doobies toward a smoother, R&B-leaning soft-rock sound without entirely abandoning their guitar roots.\n\nEven as the band’s center of gravity moved, Johnston remained part of the story—appearing on key releases of the era and returning to the stage when his health allowed. His early work continued to anchor the live set, ensuring that the Doobie Brothers’ original boogie-rock identity stayed present alongside the newer McDonald-led material.\n\nOutside the group, Johnston pursued a solo career that reflected his mix of rock and R&B influences. While his solo releases were more modest commercially than the Doobies’ peak output, they underscored his strengths as a guitarist and songwriter whose instincts favored direct grooves and choruses built for the stage.\n\nThe Doobie Brothers’ 1982 breakup did not end Johnston’s association with the band. When the group reunited in 1987, he returned as a key public face and creative cornerstone, helping bridge the classic 1970s era with later touring lineups and new studio efforts.\n\nIn the decades that followed, Johnston remained a core member, consistently identified with the band’s founding sound and early songwriting. His role has often been described as the keeper of the original Doobie Brothers feel—riff-based, harmony-rich, and grounded in American R&B and blues-rock traditions.\n\nMajor career honors have reinforced that legacy. Johnston was inducted into the Rock and Roll Hall of Fame as a member of The Doobie Brothers in 2020, reflecting the band’s multi-era impact and enduring popularity.\n\nIn 2025, Johnston—alongside Patrick Simmons and Michael McDonald—was named to the Songwriters Hall of Fame’s inductee class, recognizing the group’s songwriting footprint across multiple stylistic phases. In the modern era, Johnston continues to tour and record with the band, keeping the early Doobies’ signature guitar-and-harmony stamp at the center of their identity.",
+            "HonoursAndMilestones": [
+              "Rock and Roll Hall of Fame inductee (as a member of The Doobie Brothers, 2020).",
+              "Songwriters Hall of Fame class of 2025 (with The Doobie Brothers songwriting team)."
+            ],
+            "FunFacts": [
+              "Johnston’s early Doobies songs remain core staples of classic-rock radio and the band’s live set."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Tom Johnston — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/tom-johnston-mn0000511942"
+              },
+              {
+                "Title": "Tom Johnston (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Tom_Johnston_(musician)"
+              },
+              {
+                "Title": "The Doobie Brothers",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Doobie_Brothers"
+              },
+              {
+                "Title": "The Doobie Brothers — Inductee",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/doobie-brothers/"
+              },
+              {
+                "Title": "Songwriters Hall of Fame Inducts Doobie Brothers, Ashley Gorley, Mike Love & More",
+                "Publisher": "ASCAP",
+                "Url": "https://www.ascap.com/news-events/articles/2025/01/shof-inductions-gorley-doobies-mikelove-macaulay"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Patrick Simmons",
+          "Roles": [
+            "Founding member",
+            "Guitars",
+            "Lead and backing vocals",
+            "Songwriter"
+          ],
+          "Years": "1970–1982; 1987–present",
+          "Overview": "Founding guitarist-songwriter whose fingerstyle playing and harmony sense helped define the band’s sound; wrote their first #1 hit, “Black Water.”",
+          "Bio": {
+            "BioID": "the-doobie-brothers-patrick-simmons",
+            "FullName": "Patrick Simmons",
+            "Birth": {
+              "Date": "1948-10-19",
+              "Location": {
+                "City": "Aberdeen",
+                "Region": "Washington",
+                "Country": "United States"
+              }
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Guitarist, vocalist, songwriter",
+            "Instruments": "Guitar, vocals, banjo",
+            "Biography": "Patrick Simmons (born October 19, 1948, in Aberdeen, Washington) is a singer, guitarist, and songwriter who joined the emerging Doobie Brothers lineup in 1970 and became one of the band’s defining creative anchors. Known for a strong fingerstyle approach and an ear for harmony, Simmons helped broaden the group’s sound beyond straight boogie-rock into country-leaning textures, acoustic colors, and carefully layered vocals.\n\nAfter moving through the Northern California music scene, Simmons connected with Tom Johnston and drummer John Hartman as the group coalesced in San Jose. His playing complemented Johnston’s rhythmic R&B strum, giving the band a two-guitar identity that could pivot between hard-driving riffs and more intricate, melodic accompaniment.\n\nDuring the Doobies’ rise in the early 1970s, Simmons contributed key album tracks that deepened their palette. He could deliver bright, jangly rhythm parts, but he also leaned into acoustic writing and story-like songs that contrasted with the band’s tougher bar-band image—an important ingredient in their broad crossover appeal.\n\nSimmons’ most famous songwriting credit is “Black Water,” a song that became The Doobie Brothers’ first #1 single and one of classic rock’s most enduring acoustic sing-alongs. Its success highlighted his ability to write in a folk-and-country-tinged mode while still sounding unmistakably like the Doobies because of the vocal blend and band feel.\n\nHe also sang lead on beloved album cuts such as “South City Midnight Lady,” and across multiple records he contributed compositions that balanced romance, travelogue imagery, and a relaxed West Coast groove. Those songs helped define the band’s “soft side” even before the more overtly soul-oriented shift of the later 1970s.\n\nWhen the Doobie Brothers’ lineup changed dramatically in the mid-to-late 1970s—particularly as Michael McDonald’s voice and keyboards became central—Simmons remained a stabilizing presence. He continued contributing songs and vocals, ensuring the group retained elements of its original guitar-based identity even as their radio sound became more polished and R&B-influenced.\n\nBy the early 1980s, Simmons had become the only remaining founding member actively steering the band’s direction, and he was widely viewed as the keeper of the group’s continuity. Even amid personnel changes, his musical signature—two-guitar interplay, acoustic textures, and harmony awareness—remained an audible throughline.\n\nAfter the band’s 1982 breakup, Simmons returned when The Doobie Brothers reunited in 1987 and has continued as a core leader into the present era. He has often been noted as the only member to appear across every Doobie Brothers release, underscoring his role as the project’s connective tissue across decades.\n\nSimmons’ long-term legacy is tied to the band’s ability to sound like itself while changing styles. Whether the set leaned toward Johnston-era boogie-rock, McDonald-era blue-eyed soul, or later touring lineups, Simmons’ guitar work and harmony instincts have remained central to what audiences recognize as “the Doobies.”\n\nThat impact has been honored formally: Simmons was inducted into the Rock and Roll Hall of Fame with The Doobie Brothers in 2020, and in 2025 he was named to the Songwriters Hall of Fame’s inductee class alongside Johnston and McDonald. He continues to tour and record as a principal voice, guitarist, and guardian of the band’s multi-era identity.",
+            "HonoursAndMilestones": [
+              "Rock and Roll Hall of Fame inductee (as a member of The Doobie Brothers, 2020).",
+              "Songwriters Hall of Fame class of 2025 (with The Doobie Brothers songwriting team)."
+            ],
+            "FunFacts": [
+              "Simmons is frequently cited as the only member to appear on every Doobie Brothers release."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Patrick Simmons",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Patrick_Simmons"
+              },
+              {
+                "Title": "Patrick Simmons — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/patrick-simmons-mn0000013622"
+              },
+              {
+                "Title": "The Doobie Brothers",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Doobie_Brothers"
+              },
+              {
+                "Title": "The Doobie Brothers — Inductee",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/doobie-brothers/"
+              },
+              {
+                "Title": "Songwriters Hall of Fame Class of 2025: George Clinton, the Doobie Brothers, and More",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/songwriters-hall-of-fame-class-of-2025-george-clinton-the-doobie-brothers/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Michael McDonald",
+          "Roles": [
+            "Keyboards",
+            "Lead vocals",
+            "Songwriter"
+          ],
+          "Years": "1975–1982; 1987; 2019–present",
+          "Overview": "Soulful singer/keyboardist whose arrival shifted the band toward blue-eyed soul and soft rock; co-wrote and sang “What a Fool Believes.”",
+          "Bio": {
+            "BioID": "the-doobie-brothers-michael-mcdonald",
+            "FullName": "Michael H. McDonald",
+            "Birth": {
+              "Date": "1952-02-12",
+              "Location": {
+                "City": "St. Louis",
+                "Region": "Missouri",
+                "Country": "United States"
+              }
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Singer, keyboardist, songwriter",
+            "Instruments": "Vocals, keyboards",
+            "Biography": "Michael H. McDonald (born February 12, 1952, in St. Louis, Missouri) is a singer, keyboardist, and songwriter whose distinctive, soulful voice became one of the defining sounds of late-1970s American pop and rock. While he built a substantial solo and collaborative career, he is widely best known for his work as the Doobie Brothers’ lead vocalist and keyboard centerpiece during one of the band’s most successful and stylistically transformative eras.\n\nMcDonald emerged in the early 1970s as a musician with both rock and R&B instincts, developing a smooth but urgent vocal style that translated easily across genres. Before his best-known Doobie Brothers period, he became a familiar presence in major-studio circles as a backing vocalist and collaborator, including prominent work associated with Steely Dan.\n\nHe joined The Doobie Brothers in 1975, initially stepping in as the group navigated changes in personnel and direction. Almost immediately, his voice and keyboard textures pushed the band toward a more refined, soul-informed soft-rock approach—one that retained the Doobies’ harmony strengths while shifting the rhythmic feel toward grooves associated with R&B and blue-eyed soul.\n\nThe first major statement of that era was 1976’s Takin’ It to the Streets, whose title track announced McDonald as a new lead voice and writer within the group. Over the next several years, he became central to the Doobies’ radio identity, pairing his keyboard-driven arrangements with a vocal delivery that was instantly recognizable on pop and adult-contemporary formats.\n\nMcDonald’s songwriting peak with the band is often tied to Minute by Minute (1978), which reached #1 and anchored a run of hit singles. The album’s title track and other key cuts showcased his ability to blend pop structure with soulful phrasing and sophisticated chord movement, bridging rock audiences with listeners drawn to R&B-inflected polish.\n\nHis most iconic Doobie Brothers song is “What a Fool Believes,” co-written with Kenny Loggins. The single became a #1 hit and was celebrated at the Grammy Awards, cementing McDonald’s reputation not only as a vocalist but as a songwriter capable of shaping a mainstream pop standard with harmonic complexity and emotional clarity.\n\nWhen The Doobie Brothers disbanded in 1982, McDonald transitioned fully into a solo career that produced enduring hits and high-profile collaborations. His voice became a sought-after feature on duets, soundtracks, and sessions, and he built a reputation as a versatile songwriter and vocalist able to move between pop, rock, and contemporary R&B settings.\n\nAcross those decades, McDonald accumulated major industry recognition, including multiple Grammy Awards, and he maintained an active recording and touring schedule under his own name. The throughline remained the same: a rare vocal timbre and phrasing that could carry both intimate ballads and groove-driven pop.\n\nMcDonald’s relationship with The Doobie Brothers remained open, leading to periodic reunions and guest appearances. In 2019 he returned as part of a major reunion that brought the band’s best-known voices back together for large-scale touring and, eventually, new recording projects.\n\nIn 2020 he was inducted into the Rock and Roll Hall of Fame as a member of The Doobie Brothers, and in 2025 he was named to the Songwriters Hall of Fame’s inductee class alongside Johnston and Simmons. With the reunited lineup moving forward—touring and releasing new material—McDonald continues to embody the Doobies’ soulful, late-’70s chapter while remaining a significant figure in American pop-rock songwriting.",
+            "HonoursAndMilestones": [
+              "Rock and Roll Hall of Fame inductee (as a member of The Doobie Brothers, 2020).",
+              "Songwriters Hall of Fame inductee (2025).",
+              "Recipient of multiple Grammy Awards (solo and with collaborators)."
+            ],
+            "FunFacts": [
+              "Co-wrote “What a Fool Believes” with Kenny Loggins, one of the signature songs of late-’70s soft rock."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Michael McDonald",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Michael-McDonald"
+              },
+              {
+                "Title": "Michael McDonald — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/michael-mcdonald-mn0000459616"
+              },
+              {
+                "Title": "Michael McDonald (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Michael_McDonald_(musician)"
+              },
+              {
+                "Title": "The Doobie Brothers",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Doobie_Brothers"
+              },
+              {
+                "Title": "Songwriters Hall of Fame Inducts Doobie Brothers, Ashley Gorley, Mike Love & More",
+                "Publisher": "ASCAP",
+                "Url": "https://www.ascap.com/news-events/articles/2025/01/shof-inductions-gorley-doobies-mikelove-macaulay"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John McFee",
+          "Roles": [
+            "Guitars",
+            "Pedal steel guitar",
+            "Multi-instrumentalist",
+            "Vocals"
+          ],
+          "Years": "1979–1982; 1993–present",
+          "Overview": "Versatile multi-instrumentalist who added guitar and pedal-steel textures; a core modern-era member and key live arranger.",
+          "Bio": {
+            "BioID": "the-doobie-brothers-john-mcfee",
+            "FullName": "John McFee",
+            "Birth": {
+              "Date": "1950-09-09",
+              "Location": {
+                "City": "Santa Cruz",
+                "Region": "California",
+                "Country": "United States"
+              }
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Multi-instrumentalist, singer, songwriter, producer",
+            "Instruments": "Guitars, pedal steel guitar, dobro, banjo, mandolin, violin, cello, harmonica, vocals",
+            "Biography": "John McFee (born September 9, 1950, in Santa Cruz, California) is a multi-instrumentalist, singer, songwriter, and producer whose versatility has made him a long-running pillar of The Doobie Brothers’ modern lineup. Equally comfortable on electric guitar, pedal steel, and a range of acoustic instruments, McFee brought a wide musical vocabulary—country, rock, and roots traditions—into the Doobies’ late-1970s and later touring eras.\n\nMcFee’s early career unfolded in the Northern California scene, where he developed as both a guitarist and an adaptable session-ready player. He became associated with the country-rock group Clover, a band whose members later connected to major artists and projects in the rock world, including work around Elvis Costello’s early recordings.\n\nHis reputation as a flexible, taste-driven musician positioned him for high-profile band roles. By the late 1970s, The Doobie Brothers were evolving again, adding new instrumental colors and players as the group’s lineup shifted around the McDonald-led era and subsequent touring needs.\n\nMcFee joined The Doobie Brothers in 1979, contributing guitar and other instruments during a period when the band’s sound blended polished soft rock with deeper grooves and expanded arrangements. His ability to move between lead lines, rhythmic support, and specialty textures like pedal steel helped the band keep its arrangements rich onstage and in the studio.\n\nAfter the group disbanded in 1982, McFee co-founded the country-rock band Southern Pacific with Doobies drummer Keith Knudsen. The project emphasized contemporary country-rock songwriting and performance, showing McFee’s ability to shift genres while staying within a roots-oriented American tradition.\n\nMcFee continued working widely as a musician and producer, sustaining a career that valued craft, arrangement, and adaptability. His credits and associations reflected a broad musical reach, from rock to country and beyond, built on the practical skill set of a player who can fill multiple roles within an ensemble.\n\nWhen The Doobie Brothers returned to active touring, McFee’s relationship with the band remained significant. Over time he became a steady presence in later lineups, helping to translate multiple eras of the catalog—Johnston-era boogie rock, McDonald-era blue-eyed soul, and later material—into coherent live arrangements.\n\nIn the band’s modern configuration, McFee is often described as the glue of the instrumental section: a musician able to honor classic guitar parts, add color where needed, and cover stylistic territory ranging from classic-rock drive to country-inflected textures.\n\nMcFee was inducted into the Rock and Roll Hall of Fame in 2020 as part of The Doobie Brothers’ induction, reflecting his recognized membership in the group’s legacy alongside founding and long-tenured players.\n\nAs The Doobie Brothers have continued touring and recording into the 2020s, McFee remains a core member, helping the band’s reunited lineup deliver a set that spans multiple decades while retaining the musical precision and ensemble flexibility that have always defined the Doobies at their best.",
+            "HonoursAndMilestones": [
+              "Rock and Roll Hall of Fame inductee (as a member of The Doobie Brothers, 2020)."
+            ],
+            "FunFacts": [
+              "McFee’s multi-instrument skills (especially pedal steel) helped widen the Doobies’ instrumental palette in later eras."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "John McFee",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/John_McFee"
+              },
+              {
+                "Title": "John McFee — Artist Profile",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/john-mcfee-mn0000187113"
+              },
+              {
+                "Title": "Clover (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Clover_(band)"
+              },
+              {
+                "Title": "The Doobie Brothers",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Doobie_Brothers"
+              },
+              {
+                "Title": "The Doobie Brothers — Inductee",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/doobie-brothers/"
+              },
+              {
+                "Title": "John McFee | Playing For Change",
+                "Publisher": "Playing For Change",
+                "Url": "https://playingforchange.com/artists/john-mcfee"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John Hartman",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1970–1979",
+          "Bio": "Co-founding drummer whose driving groove helped define the early Doobies’ boogie-rock sound and live reputation."
+        },
+        {
+          "Name": "Michael Hossack",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1971–1973; 1974–1982; 1987–1989; 2010–2012",
+          "Bio": "Key member of the band’s famed dual-drummer setup, contributing to the propulsive feel of the classic 1970s lineup."
+        },
+        {
+          "Name": "Tiran Porter",
+          "Roles": [
+            "Bass",
+            "Vocals"
+          ],
+          "Years": "1972–1982; 1987–1992",
+          "Bio": "Long-tenured bassist and harmony singer during the band’s biggest commercial years, spanning both the Johnston and McDonald eras."
+        },
+        {
+          "Name": "Jeff “Skunk” Baxter",
+          "Roles": [
+            "Guitar"
+          ],
+          "Years": "1974–1979",
+          "Bio": "Added jazz-inflected guitar color during the mid-’70s transition period, bridging the band’s rock roots and the McDonald-era polish."
+        },
+        {
+          "Name": "Keith Knudsen",
+          "Roles": [
+            "Drums",
+            "Vocals"
+          ],
+          "Years": "1974–1982; 1987–1993",
+          "Bio": "Drummer and singer who helped anchor the band’s late-’70s and reunion-era touring, later co-founding Southern Pacific with John McFee."
+        },
+        {
+          "Name": "Cornelius Bumpus",
+          "Roles": [
+            "Saxophone",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Years": "1979–1982; 1987–1990",
+          "Bio": "Horn and keyboard contributor who expanded the band’s R&B textures in late-’70s and late-’80s lineups."
+        },
+        {
+          "Name": "Bobby LaKind",
+          "Roles": [
+            "Percussion"
+          ],
+          "Years": "1972–1980",
+          "Bio": "Percussionist whose stage energy and grooves were a visible part of the band’s classic concert presentation."
+        }
+      ]
     },
     {
       "ArtistID": "the-doors",
