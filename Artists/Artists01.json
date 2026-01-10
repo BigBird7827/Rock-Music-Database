@@ -5896,26 +5896,564 @@
     {
       "ArtistID": "alice-in-chains",
       "Name": "Alice in Chains",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Seattle",
+        "State": "Washington",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1987–2002",
+        "2005–present"
+      ],
+      "Genres": [
+        "Grunge",
+        "Alternative metal",
+        "Hard rock",
+        "Heavy metal"
+      ],
+      "Labels": [
+        "Columbia",
+        "Virgin",
+        "BMG"
+      ],
+      "Overview": "Alice in Chains are a Seattle‑formed rock band whose sound bridged heavy metal heft and the darker melodic side of the early‑1990s alternative boom. Emerging in the late 1980s with a lineup anchored by guitarist/songwriter Jerry Cantrell, vocalist Layne Staley, drummer Sean Kinney, and bassist Mike Starr, the band stood out for its thick riffs and, especially, the harmonized vocal blend between Cantrell and Staley—a signature that made their songs feel both anthemic and haunted.\n\nTheir national breakthrough began with the Columbia‑released debut album Facelift (1990) and the hit single “Man in the Box,” but it was Dirt (1992) that cemented them as a defining heavy band of the era. Alice in Chains also proved unusually effective in acoustic and mid‑tempo settings; the EP Jar of Flies (1994) became a landmark release, spotlighting the band’s songwriting and harmony craft without relying on sheer volume.\n\nAfter the mid‑1990s peak—including the self‑titled Alice in Chains (1995) and the widely remembered MTV Unplugged set—the band’s activity slowed as Staley’s health and addiction struggles intensified. Staley died in 2002, and after several years of uncertainty, Alice in Chains returned to performing and recording with vocalist/guitarist William DuVall joining in 2006. The modern era has kept the signature elements—heavy riffing, brooding melodic writing, and layered vocals—while reflecting the band’s survival and evolution across decades.",
+      "NotableAlbums": [
+        {
+          "Title": "Facelift",
+          "Year": "1990",
+          "Notes": "Debut studio album featuring “Man in the Box”; established the band nationally on heavy radio/MTV."
+        },
+        {
+          "Title": "Dirt",
+          "Year": "1992",
+          "Notes": "Breakthrough album that cemented the band’s heavy, dark melodic identity; widely considered a defining early‑’90s release."
+        },
+        {
+          "Title": "Jar of Flies (EP)",
+          "Year": "1994",
+          "Notes": "Acoustic-leaning EP that debuted at No. 1 on the Billboard 200, highlighting the band’s harmony and songwriting depth."
+        },
+        {
+          "Title": "Alice in Chains",
+          "Year": "1995",
+          "Notes": "Self-titled album that extended the band’s slow-burn heaviness and vocal-harmony approach."
+        },
+        {
+          "Title": "MTV Unplugged",
+          "Year": "1996",
+          "Notes": "Live acoustic set capturing the classic lineup’s dynamics and emotional range in a stripped-down format."
+        },
+        {
+          "Title": "Black Gives Way to Blue",
+          "Year": "2009",
+          "Notes": "First studio album with William DuVall; framed the band’s return while honoring the past and reasserting the core sound."
+        },
+        {
+          "Title": "Rainier Fog",
+          "Year": "2018",
+          "Notes": "Modern-era album that leans into the band’s Seattle roots while keeping the post-reunion voice firmly established."
+        }
+      ],
+      "SignatureSongs": [
+        "Man in the Box",
+        "Would?",
+        "Rooster",
+        "Them Bones",
+        "Down in a Hole",
+        "Nutshell",
+        "No Excuses",
+        "I Stay Away",
+        "Angry Chair",
+        "Heaven Beside You",
+        "Again",
+        "Check My Brain"
+      ],
+      "Achievements": [
+        {
+          "Year": "1992",
+          "Title": "Breakthrough single success",
+          "Details": "“Man in the Box” became a defining early hit and earned a Grammy nomination (Best Hard Rock Performance with Vocal)."
+        },
+        {
+          "Year": "1994",
+          "Title": "EP chart milestone",
+          "Details": "Jar of Flies debuted at No. 1 on the Billboard 200, a landmark achievement for an EP release."
+        },
+        {
+          "Year": "1996",
+          "Title": "MTV Unplugged legacy",
+          "Details": "The band’s Unplugged performance became one of the most remembered sets in the series, reflecting their acoustic strength and harmonized vocals."
+        },
+        {
+          "Year": "2009",
+          "Title": "Major comeback album",
+          "Details": "Black Gives Way to Blue relaunched the band’s studio career in the post‑Staley era and reestablished them as a touring and recording act."
+        },
+        {
+          "Year": "1990s–2010s",
+          "Title": "Multi‑platinum catalog",
+          "Details": "Key releases such as Facelift and Dirt achieved multi‑platinum certification in the United States, reflecting long-term popularity."
+        },
+        {
+          "Year": "1992–1995",
+          "Title": "Multiple Grammy nominations",
+          "Details": "The band received multiple Grammy nominations across the 1990s, including recognition for songs like “Would?” and “I Stay Away.”"
+        }
+      ],
+      "KeyFacts": [
+        "Known for distinctive two‑voice harmonies (Cantrell/Staley, later Cantrell/DuVall) over heavy, down‑tuned riffs.",
+        "Part of the Seattle-era wave, but often heavier and more metal-rooted than many peer alternative bands.",
+        "Jar of Flies (1994) demonstrated the band’s acoustic and melodic strengths alongside its heavy identity.",
+        "Returned to recording and touring in the mid‑2000s, continuing as an active band with a modern studio catalog."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://aliceinchains.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Alice_in_Chains",
+        "AllMusic": "https://www.allmusic.com/artist/alice-in-chains-mn0000007920",
+        "Awards & Nominations": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Alice_in_Chains",
+        "Discography": "https://en.wikipedia.org/wiki/Alice_in_Chains_discography"
       },
-      "CoreMembers": [],
+      "CoreMembers": [
+        {
+          "Name": "Layne Staley",
+          "YearsActive": [
+            "1987–2002"
+          ],
+          "Roles": [
+            "Lead vocals"
+          ],
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Facelift (1990)",
+            "Sap (1992)",
+            "Dirt (1992)",
+            "Jar of Flies (1994)",
+            "Alice in Chains (1995)",
+            "MTV Unplugged (1996)"
+          ],
+          "Overview": "Original lead vocalist whose powerful delivery and harmonized blend with Jerry Cantrell defined the band’s classic sound.",
+          "Bio": {
+            "FullName": "Layne Thomas Staley",
+            "Birth": "1967-08-22",
+            "Death": "2002-04-05",
+            "Nationality": "American",
+            "Roles": "Singer; lead vocalist; songwriter",
+            "Instruments": "Vocals",
+            "AssociatedActs": [
+              "Alice in Chains",
+              "Mad Season"
+            ],
+            "Genres": [
+              "Grunge",
+              "Alternative metal",
+              "Hard rock"
+            ],
+            "KeyAlbums": [
+              "Facelift (1990)",
+              "Dirt (1992)",
+              "Jar of Flies (1994)",
+              "Above (Mad Season, 1995)"
+            ],
+            "KeySongs": [
+              "Man in the Box",
+              "Would?",
+              "Rooster",
+              "Nutshell",
+              "No Excuses"
+            ],
+            "HonoursAndMilestones": [
+              "Grammy-nominated vocalist with Alice in Chains (band received multiple Grammy nominations).",
+              "Fronted Mad Season, an influential Seattle supergroup project in the mid‑1990s."
+            ],
+            "FunFacts": [
+              "Known for a distinctive vocal tone and wide emotional range, from abrasive power to intimate vulnerability.",
+              "His harmonized vocals with Jerry Cantrell became a defining signature of Alice in Chains."
+            ],
+            "FullText": "Layne Thomas Staley (born Layne Rutherford Staley; August 22, 1967 – April 5, 2002) was the original lead vocalist and a defining voice of Alice in Chains. Born in Bellevue, Washington, he came up in the local hard‑rock/metal circuit in the 1980s before the Seattle scene broke worldwide.\n\nBefore Alice in Chains became a major-label act, Staley fronted earlier bands (including Sleze, later renamed Alice N’ Chains), building a reputation for a powerful, expressive delivery that could move from melodic vulnerability to a harsh, cutting edge.\n\nWhen guitarist Jerry Cantrell, drummer Sean Kinney, bassist Mike Starr, and Staley solidified as Alice in Chains, Staley’s voice became central to the band’s identity—especially the stacked vocal harmonies he and Cantrell developed. That harmony approach helped the group stand apart from both straight metal and the punk-leaning side of grunge.\n\nOn the breakthrough era releases—starting with Facelift (1990) and then Dirt (1992)—Staley’s performances carried songs that blended heavy riffs with a bleak emotional palette. Tracks like “Man in the Box,” “Would?,” and “Rooster” are often cited for the way his phrasing and timbre sell both menace and pain.\n\nStaley also showed a different side on the band’s acoustic‑leaning material, particularly the EP Jar of Flies (1994). The softer arrangements highlighted his ability to sound intimate without losing intensity, and the band’s harmonized vocals remained a signature even when the guitars backed off.\n\nOutside Alice in Chains, Staley explored other collaborations, most notably the supergroup Mad Season, which provided a separate outlet and produced the album Above (1995). His work there reinforced how much his voice could carry slower, bluesier, and more atmospheric material.\n\nAs the 1990s progressed, Staley’s struggles with addiction increasingly affected his availability and the band’s momentum. Alice in Chains became sporadic, and after a final stretch of high-profile performances—including the MTV Unplugged set in 1996—he largely withdrew from public life.\n\nIn the band’s story, Staley’s absence shaped everything that followed: Alice in Chains effectively went dormant, while Cantrell pursued other work and the remaining members waited rather than formally replace him during the late 1990s.\n\nStaley died in Seattle on April 5, 2002, at age 34. His death was widely felt in the rock community and became one of the most tragic chapters of the Seattle-era generation of bands.\n\nToday, Staley is remembered not only for his range and raw power, but for an unmistakable vocal character—one that could sound haunted, furious, or tender within the same song. His recorded work with Alice in Chains remains a primary reference point for hard rock and alternative metal vocalists.",
+            "Sources": [
+              {
+                "Title": "Layne Staley bio",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/layne-staley-mn0000123076"
+              },
+              {
+                "Title": "Layne Staley",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Layne_Staley"
+              },
+              {
+                "Title": "Layne Staley Found Dead (2002)",
+                "Publisher": "Rolling Stone",
+                "Url": "https://www.rollingstone.com/music/music-news/layne-staley-found-dead-178694/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jerry Cantrell",
+          "YearsActive": [
+            "1987–present"
+          ],
+          "Roles": [
+            "Lead guitar",
+            "Co-lead vocals",
+            "Primary songwriter"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "Facelift (1990)",
+            "Dirt (1992)",
+            "Jar of Flies (1994)",
+            "Alice in Chains (1995)",
+            "Black Gives Way to Blue (2009)",
+            "The Devil Put Dinosaurs Here (2013)",
+            "Rainier Fog (2018)"
+          ],
+          "Overview": "Founder, lead guitarist, and main songwriter; his riffs and vocal harmonies are the consistent through-line across all eras.",
+          "Bio": {
+            "FullName": "Jerry Fulton Cantrell Jr.",
+            "Birth": "1966-03-18",
+            "Nationality": "American",
+            "Roles": "Guitarist; singer; songwriter; producer",
+            "Instruments": "Guitar; vocals",
+            "AssociatedActs": [
+              "Alice in Chains",
+              "Jerry Cantrell (solo)"
+            ],
+            "Genres": [
+              "Grunge",
+              "Alternative metal",
+              "Hard rock"
+            ],
+            "KeyAlbums": [
+              "Facelift (1990)",
+              "Dirt (1992)",
+              "Jar of Flies (1994)",
+              "Black Gives Way to Blue (2009)",
+              "The Devil Put Dinosaurs Here (2013)",
+              "Rainier Fog (2018)"
+            ],
+            "KeySongs": [
+              "Man in the Box",
+              "Them Bones",
+              "Would?",
+              "No Excuses",
+              "Check My Brain"
+            ],
+            "HonoursAndMilestones": [
+              "Founder and principal songwriter of Alice in Chains; central to the band’s harmonized vocal identity.",
+              "Maintained a parallel solo career with multiple studio albums."
+            ],
+            "FunFacts": [
+              "Often described as the band’s main songwriter and tonal architect.",
+              "Known for instantly identifiable guitar tone and riff construction."
+            ],
+            "FullText": "Jerry Fulton Cantrell Jr. (born March 18, 1966) is the founder, lead guitarist, and principal songwriter of Alice in Chains. Born in Tacoma, Washington, he emerged from the Pacific Northwest scene with a writing style that fused metal’s weight with darker, more melodic chord movement.\n\nCantrell co-formed Alice in Chains in 1987 and quickly became the band’s musical architect—writing or co-writing much of the core catalog. His guitar approach is riff-forward, but often built around mood and texture as much as sheer heaviness.\n\nA major part of the classic Alice in Chains sound is the vocal blend between Cantrell and Layne Staley. Cantrell’s harmony parts and occasional lead vocals created a two-voice identity that remained recognizable even when the band shifted between aggressive rock and acoustic arrangements.\n\nAcross Facelift (1990) and Dirt (1992), Cantrell’s writing helped define the band’s breakthrough: memorable hooks embedded inside heavy, sometimes doom-leaning riff structures. Songs like “Man in the Box,” “Them Bones,” and “Would?” show his knack for making dark material feel anthemic.\n\nCantrell’s composing also suited the band’s quieter side. On releases like Jar of Flies (1994), the arrangements lean more toward acoustic and mid-tempo grooves without losing the tension and melancholy that runs through the band’s best work.\n\nWhen Alice in Chains slowed down in the late 1990s, Cantrell remained active as a solo artist. His solo albums—beginning with Boggy Depot (1998) and followed by Degradation Trip (released as volumes in 2002)—expanded his songwriting voice while staying connected to the harmonic and rhythmic language of his main band.\n\nAfter Staley’s death and a long period of uncertainty, Cantrell was central to the band’s eventual return. Rather than attempting to recreate the original dynamic, the group rebuilt around the idea of continuing as a band while honoring the earlier era.\n\nIn 2006, vocalist/guitarist William DuVall joined, and Cantrell’s role as the sonic anchor became even more pronounced. The harmonized vocal approach continued, now shaped by a different blend, with Cantrell still writing a large share of the material.\n\nOn the reunion-and-beyond albums—Black Gives Way to Blue (2009), The Devil Put Dinosaurs Here (2013), and Rainier Fog (2018)—Cantrell’s writing and tone remained the connective tissue between eras. The riffs stayed heavy, but the perspective widened to reflect the band’s history and survival.\n\nCantrell’s legacy is often summed up as a rare combination: a guitarist with an instantly identifiable tone and a songwriter with a consistent emotional fingerprint. In Alice in Chains, he helped build a catalog that sits at the intersection of grunge, alternative metal, and classic hard rock.",
+            "Sources": [
+              {
+                "Title": "Jerry Cantrell bio",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/jerry-cantrell-mn0000323194"
+              },
+              {
+                "Title": "Jerry Cantrell",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jerry_Cantrell"
+              },
+              {
+                "Title": "Alice in Chains",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Alice_in_Chains"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Sean Kinney",
+          "YearsActive": [
+            "1987–present"
+          ],
+          "Roles": [
+            "Drums"
+          ],
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Facelift (1990)",
+            "Dirt (1992)",
+            "Jar of Flies (1994)",
+            "Alice in Chains (1995)",
+            "Black Gives Way to Blue (2009)",
+            "The Devil Put Dinosaurs Here (2013)",
+            "Rainier Fog (2018)"
+          ],
+          "Overview": "Co-founder and drummer whose groove-first, dynamic approach keeps the band heavy without losing atmosphere.",
+          "Bio": {
+            "FullName": "Sean Howard Kinney",
+            "Birth": "1966-05-27",
+            "Nationality": "American",
+            "Roles": "Drummer; songwriter",
+            "Instruments": "Drums; percussion",
+            "AssociatedActs": [
+              "Alice in Chains"
+            ],
+            "Genres": [
+              "Grunge",
+              "Alternative metal",
+              "Hard rock"
+            ],
+            "KeyAlbums": [
+              "Facelift (1990)",
+              "Dirt (1992)",
+              "Jar of Flies (1994)",
+              "Alice in Chains (1995)",
+              "Black Gives Way to Blue (2009)"
+            ],
+            "KeySongs": [
+              "Would?",
+              "Rooster",
+              "No Excuses",
+              "Nutshell",
+              "Man in the Box"
+            ],
+            "HonoursAndMilestones": [
+              "Co-founder and longtime drummer of Alice in Chains; part of the band’s classic and post‑reunion eras."
+            ],
+            "FunFacts": [
+              "Known for groove-forward drumming with dynamic control rather than constant flash."
+            ],
+            "FullText": "Sean Howard Kinney (born May 27, 1966) is the drummer and a co-founder of Alice in Chains. Born in Renton, Washington, he developed early as a drummer long before the band’s major-label years.\n\nKinney’s playing is a key reason Alice in Chains can feel both heavy and elastic. Rather than relying on constant flash, he emphasizes groove, restraint, and tension—supporting thick guitar parts without turning the band into a purely metal act.\n\nIn the late 1980s and early 1990s, as the Seattle scene gained international attention, Kinney helped shape the band’s rhythm identity on tracks that move between tight, aggressive hits and slower, grinding tempos. That control is especially notable on material from Facelift (1990) and Dirt (1992).\n\nOn the acoustic-leaning EP Jar of Flies (1994), Kinney’s touch becomes more subtle—serving the songs with lighter dynamics and careful accents. The shift shows how the band’s heaviness often came from arrangement and mood, not only volume.\n\nKinney’s role is also interpersonal: through periods of instability, he remained part of the core that kept the band’s identity intact. During years when Alice in Chains could not operate normally, Kinney’s commitment to the group remained steady even as activity paused.\n\nBeyond Alice in Chains, Kinney has taken part in side projects and collaborations, and he has been associated with the Seattle music community in ways that extend beyond performing. He has also played on Jerry Cantrell’s solo work, reinforcing the tight musical link inside the band’s camp.\n\nAfter Alice in Chains returned in the mid-2000s, Kinney’s drumming continued to anchor the band as it adapted to a new era. The modern albums keep the same DNA—heavy riffs, dark harmonies, and slow-burn dynamics—with Kinney’s feel still at the center.\n\nKinney is often described as a drummer who serves the song first, but with a signature sense of space and punch. That combination helps explain why the band’s catalog remains immediately recognizable across different production eras.\n\nLive, his playing supports the band’s layered vocal approach by keeping the rhythmic foundation clear and forceful. The result is music that can be crushing without losing precision or atmosphere.\n\nKinney’s longevity with the band—spanning the original rise, long dormancy, and the reunion years—makes him one of the essential through-lines of Alice in Chains’ story and sound.",
+            "Sources": [
+              {
+                "Title": "Sean Kinney",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Sean_Kinney"
+              },
+              {
+                "Title": "Alice in Chains",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Alice_in_Chains"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike Starr",
+          "YearsActive": [
+            "1987–1993"
+          ],
+          "Roles": [
+            "Bass"
+          ],
+          "Instruments": [
+            "Bass guitar"
+          ],
+          "Albums": [
+            "Facelift (1990)",
+            "Sap (1992)",
+            "Dirt (1992)"
+          ],
+          "Overview": "Original bassist during the band’s rise from Seattle clubs to major-label breakthrough; departed in 1993.",
+          "Bio": {
+            "FullName": "Michael Christopher Starr",
+            "Birth": "1966-04-04",
+            "Death": "2011-03-08",
+            "Nationality": "American",
+            "Roles": "Bassist",
+            "Instruments": "Bass guitar",
+            "AssociatedActs": [
+              "Alice in Chains",
+              "Days of the New"
+            ],
+            "Genres": [
+              "Grunge",
+              "Alternative metal",
+              "Hard rock"
+            ],
+            "KeyAlbums": [
+              "Facelift (1990)",
+              "Sap (1992)",
+              "Dirt (1992)"
+            ],
+            "KeySongs": [
+              "Man in the Box",
+              "Sea of Sorrow",
+              "Would?",
+              "Them Bones"
+            ],
+            "HonoursAndMilestones": [
+              "Original bassist of Alice in Chains (1987–1993)."
+            ],
+            "FunFacts": [
+              "Left the band in 1993 and was replaced by Mike Inez."
+            ],
+            "FullText": "Michael Christopher Starr (April 4, 1966 – March 8, 2011) was the original bassist of Alice in Chains. Born in Honolulu, Hawaii, he became part of the band’s foundational lineup as it formed in Seattle in 1987.\n\nStarr’s early years with the group cover the period when Alice in Chains transitioned from a local club band into a major-label act. His bass playing is part of the band’s first wave of recordings and the initial public identity of the lineup.\n\nDuring the Facelift (1990) era, Alice in Chains broke through with MTV exposure and heavy-radio success, and Starr was present as the band established its blend of metal weight and alternative rock hooks. That era set the stage for the larger explosion to come.\n\nStarr remained in the band into the early Dirt period, but he departed in January 1993. The split marked a turning point for the group’s internal dynamics, and he was replaced by bassist Mike Inez.\n\nAfter leaving Alice in Chains, Starr remained connected to music through other projects, though his career was often affected by well-documented struggles with substance abuse. His story is frequently discussed as part of the wider human cost surrounding the era’s music scene.\n\nIn the years after his departure, Starr’s association with Alice in Chains never fully disappeared—his status as an original member meant that early fans continued to identify him with the band’s rise. He also made later public appearances that kept him in the conversation.\n\nStarr died in Salt Lake City, Utah, on March 8, 2011, at age 44. His death was widely reported as another tragic outcome tied to long-standing addiction issues.\n\nFor many listeners, Starr is inseparable from the band’s formative identity—the era when Alice in Chains first broke nationally and established its heavy, harmonized sound. His presence on the earliest lineup photos and performances makes him part of the group’s origin story.\n\nWithin the band’s arc, Starr’s departure also highlights how quickly Alice in Chains evolved in the early 1990s, moving through major success alongside serious internal strain.\n\nStarr’s legacy inside the Alice in Chains narrative is therefore twofold: a founding bassist on the early breakthrough, and a reminder of the darker pressures that surrounded the band and its generation.",
+            "Sources": [
+              {
+                "Title": "Mike Starr (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mike_Starr_(musician)"
+              },
+              {
+                "Title": "Alice in Chains",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Alice_in_Chains"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike Inez",
+          "YearsActive": [
+            "1993–present"
+          ],
+          "Roles": [
+            "Bass"
+          ],
+          "Instruments": [
+            "Bass guitar"
+          ],
+          "Albums": [
+            "Jar of Flies (1994)",
+            "Alice in Chains (1995)",
+            "MTV Unplugged (1996)",
+            "Black Gives Way to Blue (2009)",
+            "The Devil Put Dinosaurs Here (2013)",
+            "Rainier Fog (2018)"
+          ],
+          "Overview": "Joined in 1993 and became the band’s longest-tenured bassist; anchors both the late-classic and post-reunion catalogs.",
+          "Bio": {
+            "FullName": "Michael Allen Inez",
+            "Birth": "1966-05-14",
+            "Nationality": "American",
+            "Roles": "Bassist; songwriter",
+            "Instruments": "Bass guitar",
+            "AssociatedActs": [
+              "Alice in Chains",
+              "Ozzy Osbourne",
+              "Heart"
+            ],
+            "Genres": [
+              "Grunge",
+              "Alternative metal",
+              "Hard rock"
+            ],
+            "KeyAlbums": [
+              "Jar of Flies (1994)",
+              "Alice in Chains (1995)",
+              "MTV Unplugged (1996)",
+              "Black Gives Way to Blue (2009)",
+              "The Devil Put Dinosaurs Here (2013)",
+              "Rainier Fog (2018)"
+            ],
+            "KeySongs": [
+              "No Excuses",
+              "I Stay Away",
+              "Again",
+              "Check My Brain"
+            ],
+            "HonoursAndMilestones": [
+              "Bassist of Alice in Chains since 1993; previously toured/recorded with Ozzy Osbourne (1989–1993)."
+            ],
+            "FunFacts": [
+              "Known for a clear, pick-driven bass attack that cuts through dense guitars."
+            ],
+            "FullText": "Michael Allen Inez (born May 14, 1966) is the bassist of Alice in Chains, joining the group in 1993. Born in Los Angeles County, California, he entered the band after professional experience in other high-profile rock settings.\n\nBefore Alice in Chains, Inez played bass for Ozzy Osbourne from 1989 to 1993, a credential that speaks to his ability to lock into heavy, riff-based music while maintaining a strong sense of groove. That background made him a natural fit for Alice in Chains’ weighty sound.\n\nInez’s first major recorded work with the band arrived during a pivotal transition period. He appears on the era that includes Jar of Flies (1994) and the self-titled album Alice in Chains (1995), where the bass helps deepen the band’s low-end power and atmosphere.\n\nHis contributions also carry into the band’s live legacy, including the MTV Unplugged performance (recorded in 1996), where the bass lines have to be musical and exposed in a way that’s different from amplified heavy rock.\n\nAfter the band’s long pause, Inez remained part of the core when Alice in Chains returned to activity in the mid-2000s. His playing helped the group reestablish itself as a functioning unit without trying to erase the past.\n\nOn the post-reunion albums—Black Gives Way to Blue (2009), The Devil Put Dinosaurs Here (2013), and Rainier Fog (2018)—Inez is part of the rhythm section that keeps the band’s modern sound grounded and forceful, supporting Cantrell’s riff architecture and the layered vocals.\n\nA notable aspect of Inez’s style is a clear, pick-driven attack that can cut through dense guitars while still sounding thick. It suits Alice in Chains’ blend of metal weight and alternative-rock clarity.\n\nOutside the band, Inez has been connected to other artists and projects (including work with Heart and various collaborations), reinforcing his reputation as a versatile rock bassist.\n\nIn Alice in Chains’ timeline, Inez represents continuity across eras: he joined during the classic period and remained through the band’s return. That long tenure makes him a foundational member of the group’s second chapter.\n\nHis role is less about spotlight and more about stability—keeping the low end consistent as the band moves between slow, sludgy tempos and more driving rock arrangements.",
+            "Sources": [
+              {
+                "Title": "Mike Inez",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mike_Inez"
+              },
+              {
+                "Title": "Alice in Chains",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Alice_in_Chains"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "William DuVall",
+          "YearsActive": [
+            "2006–present"
+          ],
+          "Roles": [
+            "Co-lead vocals",
+            "Rhythm guitar"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Albums": [
+            "Black Gives Way to Blue (2009)",
+            "The Devil Put Dinosaurs Here (2013)",
+            "Rainier Fog (2018)"
+          ],
+          "Overview": "Joined in 2006, providing a new vocal blend with Cantrell and helping establish the band’s modern era.",
+          "Bio": {
+            "FullName": "William Bradley DuVall",
+            "Birth": "1967-09-06",
+            "Nationality": "American",
+            "Roles": "Singer; guitarist; songwriter",
+            "Instruments": "Vocals; guitar",
+            "AssociatedActs": [
+              "Alice in Chains",
+              "Comes with the Fall"
+            ],
+            "Genres": [
+              "Alternative metal",
+              "Hard rock",
+              "Grunge",
+              "Alternative rock"
+            ],
+            "KeyAlbums": [
+              "Black Gives Way to Blue (2009)",
+              "The Devil Put Dinosaurs Here (2013)",
+              "Rainier Fog (2018)"
+            ],
+            "KeySongs": [
+              "Check My Brain",
+              "Your Decision",
+              "Hollow",
+              "The One You Know"
+            ],
+            "HonoursAndMilestones": [
+              "Joined Alice in Chains in 2006 as co-lead vocalist and rhythm guitarist, helping relaunch the band’s live and studio work."
+            ],
+            "FunFacts": [
+              "Came from a punk/hardcore and alternative-rock background before joining Alice in Chains."
+            ],
+            "FullText": "William Bradley DuVall (born September 6, 1967) is an American musician who became the co-lead vocalist and rhythm guitarist of Alice in Chains in 2006. Born in Washington, D.C., he established his own musical identity long before joining the band.\n\nDuVall built his résumé through multiple projects, including work in punk and alternative rock settings, and he became particularly associated with the band Comes with the Fall. That background mattered because he arrived with a developed voice and stage presence rather than as an imitator of the earlier era.\n\nWhen Alice in Chains chose to return to activity after years of dormancy, the central challenge was how to continue without attempting a replacement of Layne Staley. DuVall’s fit was grounded in chemistry: he could blend with Jerry Cantrell’s voice and support the band’s harmony-forward signature.\n\nIn the live setting, DuVall helped the band re-enter the world with respect for the classic material while still sounding like a living, present-tense group. His role required both technical control and emotional intelligence, given how iconic the earlier songs had become.\n\nDuVall’s first studio album with the band was Black Gives Way to Blue (2009), which framed the comeback as both continuation and tribute. The record’s tone acknowledges the band’s history while reasserting the heaviness and dark melody that define Alice in Chains.\n\nHe continued with the group on The Devil Put Dinosaurs Here (2013) and Rainier Fog (2018), helping shape a modern catalog that keeps the band’s core elements—dense riffs, harmonized vocals, and brooding atmosphere—without freezing the sound in the early 1990s.\n\nIn addition to singing, DuVall contributes guitar and songwriting, reinforcing that his role is participatory rather than symbolic. That contribution is part of why the post-2000s era is generally treated as a legitimate second chapter of the band.\n\nDuVall has also maintained activity outside Alice in Chains, including solo work and collaborations, reflecting an identity that extends beyond his role in a famous legacy act.\n\nFor Alice in Chains fans, DuVall often represents the band’s decision to keep going in a way that honors what was lost without pretending nothing changed. His presence enables the continued performance and evolution of a major catalog.\n\nTaken together, DuVall’s tenure shows how a band can preserve a recognizable signature—especially a harmony-based vocal approach—while adapting to new realities and new creative voices.",
+            "Sources": [
+              {
+                "Title": "William DuVall bio",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/william-duvall-mn0001739036"
+              },
+              {
+                "Title": "William DuVall",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/William_DuVall"
+              },
+              {
+                "Title": "Alice in Chains",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Alice_in_Chains"
+              }
+            ]
+          }
+        }
+      ],
       "NonCoreMembers": []
     },
     {
