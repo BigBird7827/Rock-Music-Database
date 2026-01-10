@@ -1604,7 +1604,618 @@
     },
     {
       "ArtistID": "nine-inch-nails",
-      "Name": "Nine Inch Nails"
+      "Name": "Nine Inch Nails",
+      "Type": "Band",
+      "Origin": {
+        "City": "Cleveland",
+        "Region": "Ohio",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1988–2009",
+        "2013–present"
+      ],
+      "Genres": [
+        "Industrial rock",
+        "Industrial metal",
+        "Alternative rock",
+        "Electronic rock"
+      ],
+      "Labels": [
+        "TVT",
+        "Nothing",
+        "Interscope",
+        "Columbia",
+        "The Null Corporation"
+      ],
+      "Overview": "Nine Inch Nails (often abbreviated NIN) is an American industrial rock project founded in Cleveland, Ohio, in 1988 by singer, songwriter, multi‑instrumentalist, and producer Trent Reznor. In the studio, Reznor has generally served as the primary writer and sonic architect, combining programmed rhythm, synthesizers, noise, and distorted guitars into tightly controlled, emotionally abrasive songs. Live, he has assembled changing lineups of musicians to translate those studio constructions into physical, high-intensity performances that helped define 1990s alternative rock’s darker edge.\n\nThe band broke through with the synth‑and‑sampling heavy Pretty Hate Machine (1989), then pushed industrial rock into the mainstream with the conceptual ferocity of The Downward Spiral (1994) and the ambitious sprawl of The Fragile (1999). After years of headline-level touring and a period of retreat, Nine Inch Nails returned with a strong 2000s run—With Teeth (2005), the dystopian Year Zero (2007), and experimental releases like the largely instrumental Ghosts I–IV and The Slip (both 2008). The 2010s output continued to evolve in format and tone, from Hesitation Marks (2013) to the tightly wound EP trilogy Not the Actual Events (2016), Add Violence (2017), and Bad Witch (2018).\n\nReznor’s closest collaborator, English musician and producer Atticus Ross, first worked with him in the early 2000s, became a key studio contributor beginning in the With Teeth era, and was named an official member in 2016—making Nine Inch Nails an official duo while touring personnel continued to shift. In parallel, Reznor and Ross became one of modern screen music’s defining partnerships, bringing industrial texture and minimalist tension to major film and television scores. In 2020, Nine Inch Nails was inducted into the Rock & Roll Hall of Fame, reflecting the group’s long influence on alternative, industrial, and electronic rock.",
+      "NotableAlbums": [
+        {
+          "Title": "Pretty Hate Machine",
+          "Year": "1989",
+          "Notes": "Debut album that blended synth-pop structure with abrasive industrial textures, establishing NIN’s core sound."
+        },
+        {
+          "Title": "The Downward Spiral",
+          "Year": "1994",
+          "Notes": "Landmark concept album that brought industrial rock to the center of 1990s alternative culture; a peak of Reznor’s studio craft."
+        },
+        {
+          "Title": "The Fragile",
+          "Year": "1999",
+          "Notes": "Ambitious double album with cinematic pacing and expanded atmosphere; a major artistic statement after the 1990s run."
+        },
+        {
+          "Title": "With Teeth",
+          "Year": "2005",
+          "Notes": "A sharp, revitalized return built on tighter songwriting and muscular rhythm, launching a major touring era."
+        },
+        {
+          "Title": "Year Zero",
+          "Year": "2007",
+          "Notes": "Dystopian concept album pairing aggressive tracks with world-building themes and experimentation beyond the standard album format."
+        },
+        {
+          "Title": "Bad Witch",
+          "Year": "2018",
+          "Notes": "Short, intense late‑era statement with jazz‑tinted edges and industrial bite, closing the 2016–2018 EP-to-album cycle."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Head Like a Hole",
+          "Year": "1989",
+          "Notes": "Early defining anthem built on pummeling electronics and a chant-like hook."
+        },
+        {
+          "Title": "Closer",
+          "Year": "1994",
+          "Notes": "Provocative mainstream breakthrough single with an iconic groove and unsettling atmosphere."
+        },
+        {
+          "Title": "Hurt",
+          "Year": "1994",
+          "Notes": "Stark closing ballad that became one of Reznor’s most enduring songs."
+        },
+        {
+          "Title": "March of the Pigs",
+          "Year": "1994",
+          "Notes": "Explosive, rhythmically jagged track that captures NIN’s live intensity."
+        },
+        {
+          "Title": "The Hand That Feeds",
+          "Year": "2005",
+          "Notes": "Hook-forward single that introduced the With Teeth era to a broad audience."
+        },
+        {
+          "Title": "Survivalism",
+          "Year": "2007",
+          "Notes": "Crisp, urgent track reflecting the paranoia and politics of the Year Zero concept."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1993",
+          "Title": "Grammy Award (Best Metal Performance)",
+          "Details": "Won for “Wish.”"
+        },
+        {
+          "Year": "1996",
+          "Title": "Grammy Award (Best Metal Performance)",
+          "Details": "Won for “Happiness in Slavery.”"
+        },
+        {
+          "Year": "2020",
+          "Title": "Rock & Roll Hall of Fame Induction",
+          "Details": "Nine Inch Nails inducted into the Rock & Roll Hall of Fame."
+        },
+        {
+          "Year": "1994–present",
+          "Title": "Multi-platinum era-defining catalog",
+          "Details": "Albums such as Pretty Hate Machine and The Downward Spiral became long‑term staples of alternative rock’s canon and were certified multi‑platinum in the U.S."
+        }
+      ],
+      "KeyFacts": [
+        "Founded in 1988 by Trent Reznor in Cleveland, Ohio, as a studio-driven project.",
+        "Reznor has typically been the primary writer/performer/producer in the studio, with rotating touring lineups.",
+        "Atticus Ross became an official member in 2016 after years as a key studio collaborator.",
+        "Major studio peaks include Pretty Hate Machine (1989), The Downward Spiral (1994), and The Fragile (1999).",
+        "2000s reinvention includes With Teeth (2005) and the concept-driven Year Zero (2007).",
+        "Inducted into the Rock & Roll Hall of Fame in 2020."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.nin.com/",
+        "Discography (Official)": "https://www.nin.com/discography/",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/nine-inch-nails/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Nine_Inch_Nails",
+        "AllMusic": "https://www.allmusic.com/artist/nine-inch-nails-mn0000344454",
+        "Discogs": "https://www.discogs.com/artist/385-Nine-Inch-Nails"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Trent Reznor",
+          "Roles": [
+            "Founder",
+            "Lead vocals",
+            "Songwriter",
+            "Producer",
+            "Multi-instrumentalist"
+          ],
+          "Years": "1988–present",
+          "YearsActive": "1988–present",
+          "Instruments": [
+            "Vocals",
+            "Guitar",
+            "Bass",
+            "Keyboards",
+            "Synthesizers",
+            "Programming",
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            {
+              "Title": "Pretty Hate Machine",
+              "Year": "1989"
+            },
+            {
+              "Title": "The Downward Spiral",
+              "Year": "1994"
+            },
+            {
+              "Title": "The Fragile",
+              "Year": "1999"
+            },
+            {
+              "Title": "With Teeth",
+              "Year": "2005"
+            },
+            {
+              "Title": "Year Zero",
+              "Year": "2007"
+            },
+            {
+              "Title": "Hesitation Marks",
+              "Year": "2013"
+            },
+            {
+              "Title": "Bad Witch",
+              "Year": "2018"
+            }
+          ],
+          "Overview": "Founder and creative engine of Nine Inch Nails, known for marrying industrial abrasion to meticulous studio craft and confessional songwriting.",
+          "Bio": {
+            "BioID": "trent-reznor-bio",
+            "ArtistID": "nine-inch-nails",
+            "ArtistName": "Nine Inch Nails",
+            "MemberName": "Trent Reznor",
+            "FullName": "Michael Trent Reznor",
+            "Birth": {
+              "Date": "May 17, 1965",
+              "Place": "New Castle, Pennsylvania, U.S. (grew up in Mercer, Pennsylvania)"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Occupations": [
+              "Musician",
+              "Singer-songwriter",
+              "Producer",
+              "Composer"
+            ],
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Keyboards",
+              "Synthesizers",
+              "Programming"
+            ],
+            "Genres": [
+              "Industrial rock",
+              "Industrial metal",
+              "Alternative rock",
+              "Electronic rock"
+            ],
+            "ActiveYears": "1988–present",
+            "AssociatedActs": [
+              "Nine Inch Nails",
+              "How to Destroy Angels"
+            ],
+            "Overview": "Reznor founded Nine Inch Nails in 1988 and became one of alternative music’s defining studio auteurs, pairing industrial sound design with confessional songwriting and later expanding into award-winning screen scoring.",
+            "FullText": "Michael Trent Reznor was born on May 17, 1965, in New Castle, Pennsylvania, and grew up in the nearby town of Mercer. He began studying piano as a child and developed the mix of discipline and experimentation that later defined him as a writer and producer. Even early on, he was drawn to music that felt both melodic and uneasy, a tension he would later magnify through electronics, distortion, and carefully shaped noise.\n\nIn the 1980s, Reznor played in regional bands and worked around recording studios, learning how songs are built from the inside. Access to studio time during off‑hours became a turning point: he could record, edit, and refine ideas without compromise, stacking parts one at a time and treating the control room like an instrument. Those early sessions formed the foundation of what became Nine Inch Nails.\n\nNine Inch Nails emerged in 1988 as Reznor’s project and primary outlet, with him writing, performing, and producing the core material. He embraced drum machines, samplers, and synthesizers as tools for precision, then paired them with aggressive guitar textures and confessional lyrics. The result felt like industrial machinery with a beating heart—cold surfaces carrying heat underneath.\n\nPretty Hate Machine (1989) established the blueprint: electronic grooves and pop‑level structure, but with dark emotional content and abrasive sound design. The album helped bring industrial rock into wider alternative culture and set Reznor up as both frontman and studio auteur. Its success also locked in a creative expectation that he would spend the rest of his career challenging rather than repeating.\n\nAcross the early 1990s, Reznor pushed the sound heavier and more volatile, sharpening the project’s live reputation and deepening his production craft. The Broken era intensified the guitars and rhythmic attack, while Reznor’s obsession with sonic detail—how a drum hit decays, how distortion blooms—became a signature. He treated arrangement as psychology: the sound of a track should tell you what the narrator is feeling.\n\nThe Downward Spiral (1994) marked a major creative and cultural peak, combining conceptual ambition with meticulous songcraft. Reznor used treated drums, samples, and layered degradation to create music that felt both massive and claustrophobic. Tracks like “Closer” and “Hurt” showcased his range from provocation to stark vulnerability, and the album became one of the defining alternative records of the decade.\n\nAfter the mid‑1990s intensity, Reznor expanded his palette and pacing. The Fragile (1999) leaned into atmosphere, instrumental passages, and cinematic sequencing, reflecting a composer’s sense of momentum and emotional contrast. It also revealed the cost of living at full speed: the music often sounds like exhaustion fighting for clarity.\n\nIn the 2000s, Reznor steered Nine Inch Nails through reinvention instead of nostalgia. With Teeth (2005) tightened the songwriting, while Year Zero (2007) paired aggression with a broader dystopian framework. He also experimented with formats and release strategies, embracing instrumental work and treating albums as evolving bodies of material rather than fixed containers.\n\nA key partnership developed with English musician and producer Atticus Ross, whose programming, production instincts, and compositional discipline complemented Reznor’s intensity. Their collaboration reshaped parts of the Nine Inch Nails process and later became central to their screen‑scoring work. In film and television, Reznor’s industrial vocabulary translated into pulse, tension, and psychological space.\n\nAcross decades, Reznor has blurred roles: songwriter as engineer, rock frontman as producer, band as studio project. He helped industrial rock break into the alternative mainstream, then refused to stay in any one lane, moving between the aggression of touring and the quiet menace of long‑form sound. That combination of mass appeal and stubborn experimentation has kept his work relevant across changing eras.\n\nIn 2020, Nine Inch Nails was inducted into the Rock & Roll Hall of Fame, recognizing the project’s influence and endurance. Even as scoring accolades expanded Reznor’s public profile, Nine Inch Nails remained his most direct outlet for personal, abrasive ideas. The through‑line has always been craft in service of emotion: using rhythm, noise, and melody to translate internal states into sound.",
+            "CareerHighlights": [
+              "Founded Nine Inch Nails in 1988 and served as its primary writer, performer, and producer in the studio.",
+              "Released landmark albums including Pretty Hate Machine (1989), The Downward Spiral (1994), and The Fragile (1999).",
+              "Expanded NIN’s scope in the 2000s with With Teeth (2005), Year Zero (2007), and experimental instrumental releases.",
+              "Inducted into the Rock & Roll Hall of Fame with Nine Inch Nails (2020).",
+              "Became a major modern screen composer through long-term collaboration with Atticus Ross."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Pretty Hate Machine",
+                "Year": "1989"
+              },
+              {
+                "Title": "The Downward Spiral",
+                "Year": "1994"
+              },
+              {
+                "Title": "The Fragile",
+                "Year": "1999"
+              },
+              {
+                "Title": "With Teeth",
+                "Year": "2005"
+              },
+              {
+                "Title": "Year Zero",
+                "Year": "2007"
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Head Like a Hole",
+                "Year": "1989"
+              },
+              {
+                "Title": "Closer",
+                "Year": "1994"
+              },
+              {
+                "Title": "Hurt",
+                "Year": "1994"
+              },
+              {
+                "Title": "The Hand That Feeds",
+                "Year": "2005"
+              },
+              {
+                "Title": "Came Back Haunted",
+                "Year": "2013"
+              }
+            ],
+            "HonoursAndMilestones": [
+              "Rock & Roll Hall of Fame inductee (Nine Inch Nails, class of 2020).",
+              "Multiple Grammy wins with Nine Inch Nails, including “Wish” and “Happiness in Slavery.”"
+            ],
+            "Quotes": [],
+            "FunFacts": [
+              "Reznor often describes the studio as an instrument, treating editing and sound design as part of songwriting.",
+              "Nine Inch Nails’ iconic logo was developed early in the project’s history and became a staple of alternative-era design."
+            ],
+            "Sources": [
+              {
+                "Title": "Trent Reznor",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Trent_Reznor"
+              },
+              {
+                "Title": "Nine Inch Nails",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Nine-Inch-Nails"
+              },
+              {
+                "Title": "Nine Inch Nails Inductees",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/nine-inch-nails/"
+              },
+              {
+                "Title": "List of Nine Inch Nails band members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Nine_Inch_Nails_band_members"
+              },
+              {
+                "Title": "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Atticus Ross",
+          "Roles": [
+            "Keyboards",
+            "Synthesizers",
+            "Programming",
+            "Producer",
+            "Composer"
+          ],
+          "Years": "2016–present (studio collaborator since 2004)",
+          "YearsActive": "1992–present",
+          "Instruments": [
+            "Keyboards",
+            "Synthesizers",
+            "Programming",
+            "Bass"
+          ],
+          "Albums": [
+            {
+              "Title": "With Teeth",
+              "Year": "2005"
+            },
+            {
+              "Title": "Year Zero",
+              "Year": "2007"
+            },
+            {
+              "Title": "Ghosts I–IV",
+              "Year": "2008"
+            },
+            {
+              "Title": "The Slip",
+              "Year": "2008"
+            },
+            {
+              "Title": "Hesitation Marks",
+              "Year": "2013"
+            },
+            {
+              "Title": "Not the Actual Events",
+              "Year": "2016"
+            },
+            {
+              "Title": "Bad Witch",
+              "Year": "2018"
+            },
+            {
+              "Title": "Ghosts V: Together",
+              "Year": "2020"
+            }
+          ],
+          "Overview": "Longtime studio collaborator who became an official member in 2016, helping shape Nine Inch Nails’ modern era while also co-leading an acclaimed screen-scoring partnership with Reznor.",
+          "Bio": {
+            "BioID": "atticus-ross-bio",
+            "ArtistID": "nine-inch-nails",
+            "ArtistName": "Nine Inch Nails",
+            "MemberName": "Atticus Ross",
+            "FullName": "Atticus Matthew Cowper Ross",
+            "Birth": {
+              "Date": "January 16, 1968",
+              "Place": "London, England"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "English",
+            "Occupations": [
+              "Musician",
+              "Producer",
+              "Composer"
+            ],
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Synthesizers",
+              "Programming"
+            ],
+            "Genres": [
+              "Industrial rock",
+              "Electronic",
+              "Alternative rock",
+              "Ambient"
+            ],
+            "ActiveYears": "1992–present",
+            "AssociatedActs": [
+              "Nine Inch Nails",
+              "Trent Reznor & Atticus Ross"
+            ],
+            "Overview": "Ross became a key Nine Inch Nails studio collaborator in the 2000s and an official member in 2016, while also earning top honors as a screen composer with Reznor.",
+            "FullText": "Atticus Matthew Cowper Ross was born on January 16, 1968, in London, England. He emerged in the 1990s as a programmer, producer, and multi‑instrumentalist with a taste for dense texture and precise electronic rhythm. Ross’s early career was defined by the behind‑the‑scenes work of modern record‑making: building sound palettes, shaping mixes, and helping artists turn sketches into finished, high‑impact recordings.\n\nBefore he became publicly linked with Nine Inch Nails, Ross moved through the borderlands of electronic, alternative, and experimental music. His skill set—keyboards, programming, sound design, and arrangement—made him valuable in rooms where detail matters. He developed a reputation for translating abstract mood into concrete sonic choices: the right drum programming, the right distortion profile, the right harmonic tension.\n\nRoss first connected creatively with Trent Reznor in the early 2000s, a period when Reznor was rethinking how Nine Inch Nails could operate after the project’s 1990s peak. Their collaboration grew from studio exploration into a durable working relationship. Ross’s strengths—systematic construction, disciplined editing, and a composer’s patience—fit naturally with Reznor’s intensity and willingness to push sounds to extremes.\n\nHe became a significant contributor around the With Teeth era, helping shape the tighter, more rhythmic direction of Nine Inch Nails in the mid‑2000s. Rather than functioning as a traditional “band member,” Ross operated as a production partner: part programmer, part co‑arranger, part sonic engineer. That role blurred the line between musician and producer in a way that matched the project’s studio‑built identity.\n\nIn 2016, Ross was named an official member of Nine Inch Nails, joining Reznor as the only official lineup alongside an evolving cast of touring musicians. The move recognized a long period of deep collaboration and formalized the duo format that had already become central to the group’s working method. On recordings and in the NIN ecosystem, Ross helped extend the project’s reach into both aggressive rock structures and cinematic, instrumental space.\n\nRoss’s public profile expanded dramatically through film and television scoring with Reznor. Their work on David Fincher’s The Social Network earned the Academy Award for Best Original Score, signaling that their industrial and electronic sensibilities could carry mainstream cinema. Instead of imitating traditional orchestral scoring, they used pulse, texture, and negative space to build psychological tension.\n\nThe scoring partnership continued across major films and series, establishing a recognizable aesthetic: minimalist motifs, uneasy harmonies, and sound design that behaves like narrative. Ross’s technical control and ear for timbre became as important as melody; the score often communicates mood through the weight of a bass tone or the way a rhythm grid subtly destabilizes. The approach influenced how a generation of filmmakers and audiences heard “modern” score language.\n\nAt the 2021 Academy Awards, Reznor and Ross—alongside Jon Batiste—won Best Original Score for Pixar’s Soul, further cementing their standing as elite contemporary composers. That win, and the broader body of work around it, demonstrated the range of their palette: they could write tense, industrial material or warm, reflective cues without losing their identity. For Ross, the achievement underscored a rare dual career: major‑band architect and award‑winning screen composer.\n\nEven with accolades and high‑profile credits, Ross’s core value has remained the craft of building sound from the inside out. He is less a spotlight‑seeking frontman than a maker of systems: rhythmic frameworks, harmonic beds, and sonic textures that support the emotional goal of a piece. Whether inside Nine Inch Nails or scoring, he tends to think like a producer and like a composer at the same time.\n\nAs a member of Nine Inch Nails, Ross represents continuity and evolution. He helped translate Reznor’s long‑running project into a modern two‑person creative unit capable of shifting forms—songs, instrumentals, immersive live production, and screen work—without diluting the core identity. His career is a study in how contemporary music is made: collaboration, detail, and the discipline to let the sound speak.",
+            "CareerHighlights": [
+              "Became a major studio collaborator with Trent Reznor beginning in the early 2000s and contributed significantly from the With Teeth era onward.",
+              "Named an official member of Nine Inch Nails in 2016.",
+              "Won the Academy Award for Best Original Score for The Social Network (with Trent Reznor).",
+              "Won the Academy Award for Best Original Score for Soul (with Trent Reznor and Jon Batiste).",
+              "Inducted into the Rock & Roll Hall of Fame with Nine Inch Nails (2020)."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "With Teeth",
+                "Year": "2005"
+              },
+              {
+                "Title": "Year Zero",
+                "Year": "2007"
+              },
+              {
+                "Title": "Hesitation Marks",
+                "Year": "2013"
+              },
+              {
+                "Title": "Not the Actual Events",
+                "Year": "2016"
+              },
+              {
+                "Title": "Bad Witch",
+                "Year": "2018"
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "The Hand That Feeds",
+                "Year": "2005"
+              },
+              {
+                "Title": "Survivalism",
+                "Year": "2007"
+              },
+              {
+                "Title": "Came Back Haunted",
+                "Year": "2013"
+              }
+            ],
+            "HonoursAndMilestones": [
+              "Rock & Roll Hall of Fame inductee (Nine Inch Nails, class of 2020).",
+              "Academy Award (Best Original Score) winner for The Social Network (with Trent Reznor).",
+              "Academy Award (Best Original Score) winner for Soul (with Trent Reznor and Jon Batiste)."
+            ],
+            "Quotes": [],
+            "FunFacts": [
+              "Ross’s formal “band member” status is modern NIN: an official duo supported by evolving touring lineups.",
+              "The Reznor/Ross scoring style is known for pulse-driven minimalism and heavy emphasis on timbre."
+            ],
+            "Sources": [
+              {
+                "Title": "Atticus Ross",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Atticus_Ross"
+              },
+              {
+                "Title": "List of Nine Inch Nails band members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Nine_Inch_Nails_band_members"
+              },
+              {
+                "Title": "Nine Inch Nails Inductees",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/nine-inch-nails/"
+              },
+              {
+                "Title": "Nine Inch Nails | Trent Reznor, History, Songs, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Nine-Inch-Nails"
+              },
+              {
+                "Title": "2020 Rock and Roll Hall of Fame Inductees",
+                "Publisher": "NIN.com",
+                "Url": "https://www.nin.com/2020-rock-hall/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Robin Finck",
+          "YearsActive": "1994–1996, 1999–2000, 2008–2009, 2013–present",
+          "Roles": [
+            "Touring musician",
+            "Guitar"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Keyboards",
+            "Synthesizers",
+            "Backing vocals"
+          ],
+          "Albums": [
+            "Woodstock 94 Live Album",
+            "Closure",
+            "And All That Could Have Been",
+            "Another Version of the Truth",
+            "Live 2013 EP"
+          ],
+          "Overview": "Long-running live guitarist who first joined during the Self Destruct era and has returned across multiple touring cycles, becoming a central figure in the modern touring lineup."
+        },
+        {
+          "Name": "Alessandro Cortini",
+          "YearsActive": "2005–2008, 2013–present",
+          "Roles": [
+            "Touring musician",
+            "Keyboards",
+            "Bass",
+            "Guitar"
+          ],
+          "Instruments": [
+            "Keyboards",
+            "Synthesizers",
+            "Bass",
+            "Guitar"
+          ],
+          "Albums": [
+            "Beside You in Time",
+            "Year Zero Remixed",
+            "Ghosts I–IV",
+            "The Slip",
+            "Hesitation Marks"
+          ],
+          "Overview": "Multi-instrumentalist who joined in the mid‑2000s and returned for the 2013 revival, contributing keyboards and later bass/guitar roles in the touring band."
+        },
+        {
+          "Name": "Josh Freese",
+          "YearsActive": "2005–2008, 2025–present",
+          "Roles": [
+            "Touring musician",
+            "Drums"
+          ],
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            "Year Zero",
+            "Beside You in Time",
+            "Another Version of the Truth"
+          ],
+          "Overview": "Veteran drummer who anchored key mid‑2000s tours and returned in the mid‑2020s, known for precision and power in complex industrial arrangements."
+        },
+        {
+          "Name": "Ilan Rubin",
+          "YearsActive": "2008–2025",
+          "Roles": [
+            "Touring musician",
+            "Drums"
+          ],
+          "Instruments": [
+            "Drums",
+            "Programming",
+            "Percussion",
+            "Guitar",
+            "Keyboards"
+          ],
+          "Albums": [
+            "The Slip",
+            "Not the Actual Events",
+            "Add Violence",
+            "Bad Witch"
+          ],
+          "Overview": "Multi-talented drummer who became the longest-serving modern live member, powering tours from the late 2000s through the 2010s and early 2020s."
+        },
+        {
+          "Name": "Danny Lohner",
+          "YearsActive": "1993–2003",
+          "Roles": [
+            "Touring musician",
+            "Bass",
+            "Guitar"
+          ],
+          "Instruments": [
+            "Bass",
+            "Guitar",
+            "Keyboards",
+            "Synthesizers"
+          ],
+          "Albums": [
+            "The Downward Spiral (touring era)",
+            "And All That Could Have Been"
+          ],
+          "Overview": "Key 1990s live-era member who handled bass and multi-instrument duties during the band’s most intense touring period and contributed to the project’s stage power."
+        },
+        {
+          "Name": "Chris Vrenna",
+          "YearsActive": "1988–1990, 1992–1996",
+          "Roles": [
+            "Touring musician",
+            "Drums",
+            "Programming"
+          ],
+          "Instruments": [
+            "Drums",
+            "Percussion",
+            "Keyboards",
+            "Programming"
+          ],
+          "Albums": [
+            "Pretty Hate Machine (touring era)",
+            "Broken (sessions)",
+            "Self-Destruct (touring era)"
+          ],
+          "Overview": "Early collaborator who played a major role in the initial touring bands and key early-era work, helping translate Reznor’s studio ideas into a live format."
+        }
+      ]
     },
     {
       "ArtistID": "nirvana",
