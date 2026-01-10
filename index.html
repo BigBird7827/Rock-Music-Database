@@ -1,981 +1,1285 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Classic Rock Artists</title>
-  <style>
-    :root{
-      --bg:#12113d;
-      --panel:rgba(255,255,255,.07);
-      --panel2:rgba(255,255,255,.10);
-      --stroke:rgba(255,255,255,.14);
-      --text:#f2f2f7;
-      --muted:rgba(242,242,247,.72);
-      --shadow:0 18px 60px rgba(0,0,0,.55);
-      --radius:18px;
-      --radius2:24px;
-      --gold:#d4af37;
-      --black:#07070a;
-    }
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    body{
-      margin:0;
-      color:var(--text);
-      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-      background: var(--bg);
-      overflow:hidden;
-    }
-
-    .wrap{
-      height:100%;
-      display:grid;
-      grid-template-rows:auto 1fr;
-      padding: 0 25px;
-    }
-
-    header{
-      padding:18px 0 12px;
-      border-bottom: 1px solid rgba(0,0,0,.25);
-      background: linear-gradient(180deg, rgba(0,0,0,.28), rgba(0,0,0,0));
-}
-
-    .top{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:14px;
-      width:100%;
-    }
-
-    .brand{display:flex;align-items:center;gap:12px;min-width:0}
-    .logo{
-      width:44px;height:44px;border-radius:14px;
-      background:
-        linear-gradient(135deg, rgba(255,53,94,.95), rgba(58,160,255,.95)),
-        radial-gradient(20px 20px at 30% 30%, rgba(255,255,255,.45), transparent 55%);
-      box-shadow: 0 18px 45px rgba(0,0,0,.55), 0 0 0 1px rgba(255,255,255,.14) inset;
-      position:relative;overflow:hidden;flex:0 0 auto;
-    }
-    .logo:before{
-      content:"";
-      position:absolute;inset:-35%;
-      background: repeating-linear-gradient(90deg, rgba(255,255,255,.18) 0 8px, transparent 8px 18px);
-      transform: rotate(18deg);
-      opacity:.55;
-    }
-    h1{margin:0;font-size:22px;letter-spacing:.6px;font-weight:900;line-height:1.15}
-    .tag{margin-top:4px;color:var(--muted);font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-
-    .controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end}
-    .pill{
-      display:flex;align-items:center;gap:10px;
-      background: rgba(0,0,0,.22);
-      border:1px solid rgba(255,255,255,.12);
-      border-radius:16px;
-      padding:10px 12px;
-      box-shadow: 0 10px 30px rgba(0,0,0,.35);
-}
-    .pill input{
-      border:0;outline:0;background:transparent;color:var(--text);
-      width:260px;max-width:40vw;font-size:14px;
-    }
-    .pill input::placeholder{color:rgba(242,242,247,.55)}
-
-    /* Search clear (x) icon: white circle for visibility */
-    #search::-webkit-search-cancel-button{
-      -webkit-appearance:none;
-      height:22px;
-      width:22px;
-      background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+CiAgPGNpcmNsZSBjeD0nMTInIGN5PScxMicgcj0nMTAuMjUnIGZpbGw9JyNmZmZmZmYnIHN0cm9rZT0nIzExMTExMScgc3Ryb2tlLXdpZHRoPScxLjUnLz4KICA8cGF0aCBkPSdNOC40IDguNCBMMTUuNiAxNS42IE0xNS42IDguNCBMOC40IDE1LjYnIHN0cm9rZT0nIzExMTExMScgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnLz4KPC9zdmc+') no-repeat center / contain;
-      cursor:pointer;
-      opacity:1;
-    }
-    #search::-webkit-search-decoration{
-      -webkit-appearance:none;
-    }
-
-
-    main{
-      width:100%;
-      padding:14px 0 18px;
-      display:grid;
-      grid-template-columns: 360px 1fr;
-      gap:14px;
-      height:100%;
-      min-height:0;
-    }
-
-    .panel{
-      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.05));
-      border:1px solid rgba(255,255,255,.12);
-      border-radius:var(--radius2);
-      box-shadow: var(--shadow);
-      overflow:hidden;
-      min-height:0;
-    }
-    .panel[aria-label="Artist list"]{
-      display:flex;
-      flex-direction:column;
-      min-height:0;
-    }
-    .panel[aria-label="Artist list"] .list{
-      flex:1 1 auto;
-      min-height:0;
-      height:auto;
-      padding-bottom:18px;
-    }
-
-    .listHeader{
-      padding:14px 14px 10px;
-      display:flex;align-items:center;justify-content:space-between;gap:10px;
-      border-bottom:1px solid rgba(255,255,255,.08);
-      background: linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,0));
-    }
-    .count{font-size:13px;color:rgba(242,242,247,.75)}
-    .spark{display:flex;gap:3px;align-items:flex-end;opacity:.90;height:22px}
-        .bar{
-          width:4px;
-          height:20px;
-          border-radius:6px;
-          background:linear-gradient(180deg, rgba(255,228,77,.95), rgba(255,53,94,.95));
-          box-shadow:0 10px 24px rgba(0,0,0,.35);
-          transform-origin: bottom;
-          transform: scaleY(.25);
-          animation: eq 1.15s ease-in-out infinite;
-        }
-        @keyframes eq{
-          0%,100%{transform:scaleY(.18);opacity:.65}
-          50%{transform:scaleY(1);opacity:1}
-        }
-        .bar:nth-child(3n){animation-duration:.95s}
-        .bar:nth-child(4n){animation-duration:1.25s}
-        .bar:nth-child(5n){animation-duration:1.05s}
-        .bar:nth-child(2n){animation-delay:-.35s}
-        .bar:nth-child(3n+1){animation-delay:-.55s}
-        .bar:nth-child(4n+2){animation-delay:-.15s}
-        @media (prefers-reduced-motion: reduce){
-          .bar{animation:none;transform:scaleY(.6);opacity:.85}
-        }
-    
-.list{padding:10px;overflow:auto;height:100%}
-    .item{
-      display:flex;align-items:center;justify-content:space-between;gap:10px;
-      padding:12px 12px;
-      border-radius:16px;
-      border:1px solid rgba(255,255,255,.08);
-      background: rgba(0,0,0,.16);
-      cursor:pointer;
-      transition: transform .08s ease, background .12s ease, border-color .12s ease;
-      margin-bottom:10px;
-    }
-    .item:hover{transform: translateY(-1px);background: rgba(0,0,0,.22);border-color:rgba(255,255,255,.14)}
-    .item.active{
-      border-color: rgba(255,228,77,.40);
-      box-shadow: 0 16px 40px rgba(0,0,0,.45), 0 0 0 1px rgba(255,228,77,.10) inset;
-      background: linear-gradient(180deg, rgba(255,228,77,.10), rgba(0,0,0,.20));
-    }
-    .itemName{font-weight:800;letter-spacing:.2px}
-
-    .badge{
-      display:inline-flex;align-items:center;gap:7px;
-      padding:6px 10px;border-radius:999px;
-      border:1px solid rgba(255,255,255,.12);
-      background: rgba(0,0,0,.20);
-      font-size:12px;color:rgba(242,242,247,.78);
-      white-space:nowrap;
-    }
-    .badge .dot{width:7px;height:7px;border-radius:50%}
-    .dot.full{background: rgba(44,255,154,.95); box-shadow:0 0 0 4px rgba(44,255,154,.12)}
-    .dot.todo{background: rgba(255,228,77,.95); box-shadow:0 0 0 4px rgba(255,228,77,.12)}
-
-    .detail{height:100%;overflow:auto;padding:14px}
-    .empty{
-      padding:26px 18px;
-      border-radius:18px;
-      border:1px dashed rgba(255,255,255,.18);
-      background: rgba(0,0,0,.14);
-      color:rgba(242,242,247,.85);
-    }
-    .empty h2{margin:0 0 8px;font-size:22px}
-    .empty p{margin:0;color:rgba(242,242,247,.72);line-height:1.55}
-
-    .hero{
-      display:flex;align-items:flex-start;justify-content:space-between;gap:14px;
-      padding:16px 16px 12px;
-      border-radius:20px;
-      background: linear-gradient(180deg, rgba(0,0,0,.28), rgba(0,0,0,.10));
-      border:1px solid rgba(255,255,255,.10);
-      box-shadow: 0 18px 45px rgba(0,0,0,.42);
-    }
-    .artistTitle{
-      margin:0;
-      font-size:52px;
-      font-weight:950;
-      letter-spacing:.8px;
-      line-height:1.05;
-      background: linear-gradient(90deg, rgba(255,228,77,.96), rgba(255,53,94,.92), rgba(58,160,255,.92), rgba(44,255,154,.90));
-      -webkit-background-clip:text;background-clip:text;color:transparent;
-      text-shadow: 0 6px 30px rgba(0,0,0,.45);
-    }
-    .subline{
-      margin-top:8px;
-      color:rgba(242,242,247,.74);
-      font-size:13px;
-      display:flex;gap:10px;align-items:center;flex-wrap:wrap;
-    }
-    .subline .dotSep{width:4px;height:4px;border-radius:50%;background:rgba(242,242,247,.32)}
-    .chipRow{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:flex-end}
-    .chip{
-      display:inline-flex;align-items:center;gap:8px;
-      padding:7px 10px;border-radius:999px;
-      border:1px solid rgba(255,255,255,.12);
-      background: rgba(0,0,0,.18);
-      font-size:12px;color:rgba(242,242,247,.78);
-    }
-    .chip.red{border-color: rgba(255,53,94,.30)}
-    .chip.blue{border-color: rgba(58,160,255,.30)}
-    .chip.green{border-color: rgba(44,255,154,.28)}
-    .chip.yellow{border-color: rgba(255,228,77,.30)}
-
-    .albumTags{
-      display:flex;
-      flex-wrap:wrap;
-      gap:6px;
-      margin-top:8px;
-    }
-    .albumTag{
-      display:inline-flex;
-      align-items:center;
-      padding:5px 9px;
-      border-radius:999px;
-      border:1px solid rgba(255,255,255,.12);
-      background: rgba(0,0,0,.14);
-      font-size:11px;
-      color: rgba(242,242,247,.78);
-      line-height:1.1;
-    }
-
-    .grid{
-      margin-top:14px;
-      display:grid;
-      grid-template-columns: repeat(12, 1fr);
-      gap:12px;
-    }
-    .card{
-      grid-column: span 12;
-      background: rgba(0,0,0,.16);
-      border:1px solid rgba(255,255,255,.10);
-      border-radius:18px;
-      padding:14px 14px 12px;
-    }
-    .card.full{grid-column: span 12}
-    .card.half{grid-column: span 6}
-    .card.third{grid-column: span 4}
-    .card h3{
-      margin:0 0 10px;
-      font-size:14px;
-      letter-spacing:.9px;
-      text-transform:uppercase;
-      color:rgba(242,242,247,.82);
-      display:flex;align-items:center;gap:10px;
-    }
-    .accent{
-      width:10px;height:10px;border-radius:4px;
-      background: linear-gradient(135deg, rgba(255,228,77,.92), rgba(255,53,94,.92));
-      box-shadow: 0 12px 22px rgba(0,0,0,.35);
-    }
-    .card p{margin:0;color:rgba(242,242,247,.78);line-height:1.55}
-    ul{margin:0;padding-left:18px;color:rgba(242,242,247,.80)}
-    li{margin:6px 0}
-
-    .links{display:flex;flex-wrap:wrap;gap:10px}
-    .links a{
-      display:inline-flex;align-items:center;gap:10px;
-      padding:10px 12px;
-      border-radius:14px;
-      border:1px solid rgba(255,255,255,.12);
-      background: rgba(0,0,0,.18);
-      color:rgba(242,242,247,.82);
-      text-decoration:none;
-      box-shadow: 0 12px 30px rgba(0,0,0,.35);
-      transition: transform .08s ease, filter .12s ease, border-color .12s ease;
-    }
-    .links a:hover{transform: translateY(-1px);filter: brightness(1.06);border-color: rgba(255,255,255,.18)}
-    .links .k{
-      width:10px;height:10px;border-radius:4px;
-      background: linear-gradient(135deg, rgba(58,160,255,.92), rgba(44,255,154,.92));
-      box-shadow: 0 10px 22px rgba(0,0,0,.35);
-      flex:0 0 auto;
-    }
-
-    button{
-      font: inherit;
-      border-radius: 14px;
-      padding: 10px 12px;
-      border:1px solid rgba(255,255,255,.12);
-      cursor:pointer;
-      transition: transform .08s ease, filter .12s ease, border-color .12s ease, box-shadow .12s ease;
-    }
-    button:active{transform: translateY(1px)}
-    .bioBtn,
-    .returnBtn{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.10), rgba(0,0,0,.55)),
-        radial-gradient(900px 520px at 22% 18%, rgba(212,175,55,.10), transparent 55%);
-      border-color: rgba(212,175,55,.40);
-      color: var(--gold);
-      text-shadow: 0 1px 0 rgba(0,0,0,.85), 0 0 10px rgba(212,175,55,.18);
-      box-shadow:
-        0 16px 40px rgba(0,0,0,.55),
-        inset 0 1px 0 rgba(255,255,255,.18),
-        inset 0 -1px 0 rgba(0,0,0,.55);
-      background-color: var(--black);
-    }
-    .bioBtn:hover,
-    .returnBtn:hover{filter: brightness(1.06);border-color: rgba(212,175,55,.55)}
-    .bioBtn:focus-visible,
-    .returnBtn:focus-visible{
-      outline: none;
-      box-shadow:
-        0 0 0 3px rgba(212,175,55,.22),
-        0 16px 40px rgba(0,0,0,.65),
-        inset 0 1px 0 rgba(255,255,255,.18),
-        inset 0 -1px 0 rgba(0,0,0,.55);
-    }
-
-    .bioOverlay{
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,.62);
-display:none;
-      z-index: 50;
-    }
-    .bioOverlay.show{display:block}
-    .bioShell{
-      position:absolute;
-      inset: 18px 25px;
-      border-radius: var(--radius2);
-      border:1px solid rgba(255,255,255,.12);
-      background: linear-gradient(180deg, #17165a, #0e0d2f);
-      box-shadow: var(--shadow);
-      overflow:hidden;
-      display:grid;
-      grid-template-rows:auto 1fr;
-    }
-    .bioHeader{
-      position: sticky;
-      top: 0;
-      z-index: 5;
-      padding: 16px 16px 12px;
-      display:flex;
-      align-items:flex-start;
-      justify-content: space-between;
-      gap: 12px;
-      border-bottom: 1px solid rgba(212,175,55,.28);
-      background: linear-gradient(135deg, #0b0b12 0%, #1a1a24 42%, #0e0e17 100%);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,.08), inset 0 -1px 0 rgba(0,0,0,.55);
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Classic Rock Artists</title>
+    <style>
+      :root {
+        --bg: #12113d;
+        --panel: rgba(255, 255, 255, .07);
+        --panel2: rgba(255, 255, 255, .10);
+        --stroke: rgba(255, 255, 255, .14);
+        --text: #f2f2f7;
+        --muted: rgba(242, 242, 247, .72);
+        --shadow: 0 18px 60px rgba(0, 0, 0, .55);
+        --radius: 18px;
+        --radius2: 24px;
+        --gold: #d4af37;
+        --black: #07070a;
       }
-    .bioTitle{
-      font-size: 26px;
-      font-weight: 900;
-      letter-spacing: .6px;
-      line-height: 1.1;
-      background: linear-gradient(90deg, rgba(255,228,77,.96), rgba(255,53,94,.92), rgba(58,160,255,.92), rgba(44,255,154,.90));
-      -webkit-background-clip:text;
-      background-clip:text;
-      color: transparent;
-      text-shadow: 0 6px 30px rgba(0,0,0,.45);
-    }
-    .bioSub{ margin-top: 6px; font-size: 13px; color: rgba(242,242,247,.72); }
-    .bioBody{
-      overflow:auto;
-      padding: 14px 14px 18px;
-      height:100%;
-    }
-    .bioGrid{
-      display:grid;
-      grid-template-columns: repeat(12, 1fr);
-      gap: 12px;
-      margin-top: 12px;
-    }
-    .bioCard{
-      grid-column: span 4;
-      border-radius: 18px;
-      border: 1px solid rgba(255,255,255,.10);
-      background: linear-gradient(180deg, #111048, #0b0a25);
-      padding: 14px 14px 12px;
-    }
-    .bioCard.wide{grid-column: span 12}
 
-    .bioBox{
-      max-width: 1110px;
-      width: 100%;
-      margin: 0 auto;
-      padding: 14px 14px;
-      border-radius: 18px;
-      border: 1px solid rgba(255,255,255,.10);
-      background: rgba(0,0,0,.18);
-    }
-    .bioText{
-      margin: 0;
-      color: rgba(242,242,247,.80);
-      line-height: 1.7;
-      white-space: pre-wrap;
-      font-size: 17px;
-    }
+      * {
+        box-sizing: border-box
+      }
 
-    .list, .detail, .bioBody{
-      scrollbar-width: thin;
-      scrollbar-color: rgba(242,242,247,.26) rgba(0,0,0,.18);
-    }
-    .list::-webkit-scrollbar, .detail::-webkit-scrollbar, .bioBody::-webkit-scrollbar{
-      width: 10px;
-      height: 10px;
-    }
-    .list::-webkit-scrollbar-track, .detail::-webkit-scrollbar-track, .bioBody::-webkit-scrollbar-track{
-      background: rgba(0,0,0,.18);
-      border-radius: 999px;
-    }
-    .list::-webkit-scrollbar-thumb, .detail::-webkit-scrollbar-thumb, .bioBody::-webkit-scrollbar-thumb{
-      background: rgba(242,242,247,.22);
-      border-radius: 999px;
-      border: 2px solid rgba(0,0,0,.18);
-    }
-    .list::-webkit-scrollbar-thumb:hover, .detail::-webkit-scrollbar-thumb:hover, .bioBody::-webkit-scrollbar-thumb:hover{
-      background: rgba(242,242,247,.32);
-    }
+      html,
+      body {
+        height: 100%
+      }
 
-    .bioCard h3{
-      margin:0 0 10px;
-      font-size:14px;
-      letter-spacing:.9px;
-      text-transform:uppercase;
-      color:rgba(242,242,247,.82);
-      display:flex;align-items:center;gap:10px;
-    }
-    .bioLinks{display:flex;flex-direction:column;align-items:flex-start;gap:10px;margin-top:10px}
-    .bioLinks a{
-      width: fit-content;
-      max-width: 100%;
-      text-decoration:none;
-      display:inline-flex;
-      align-items:center;
-      gap:10px;
-      padding: 10px 12px;
-      border-radius: 14px;
-      border:1px solid rgba(212,175,55,.40);
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.10), rgba(0,0,0,.58)),
-        radial-gradient(900px 520px at 22% 18%, rgba(212,175,55,.10), transparent 55%);
-      background-color: var(--black);
-      color: var(--gold);
-      text-shadow: 0 1px 0 rgba(0,0,0,.85), 0 0 10px rgba(212,175,55,.18);
-      box-shadow:
-        0 16px 40px rgba(0,0,0,.55),
-        inset 0 1px 0 rgba(255,255,255,.18),
-        inset 0 -1px 0 rgba(0,0,0,.55);
-      transition: transform .08s ease, filter .12s ease, border-color .12s ease;
-    }
-    .bioLinks a:hover{transform: translateY(-1px);filter: brightness(1.06);border-color: rgba(212,175,55,.55)}
-    .bioLinks a:active{transform: translateY(1px)}
-    .bioLinks .k{
-      width:10px;height:10px;border-radius:4px;
-      background: linear-gradient(135deg, rgba(58,160,255,.92), rgba(44,255,154,.92));
-      box-shadow: 0 10px 22px rgba(0,0,0,.35);
-      flex:0 0 auto;
-    }
+      body {
+        margin: 0;
+        color: var(--text);
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        background: var(--bg);
+        overflow: hidden;
+      }
 
-    @media (max-width: 980px){
-      body{overflow:auto}
-      .wrap{padding: 0 16px}
-      main{grid-template-columns: 1fr}
-      .pill input{width: 180px}
-      .bioShell{inset: 14px 16px}
-      .bioCard{grid-column: span 12}
-    }
-/* Virtualized list performance */
-    .list.vlist{position:relative}
-    .list.vlist .vItems{position:absolute;left:0;right:0;top:0}
-    .list.vlist .vSpacer{width:1px}
-    .list.vlist .item{margin-bottom:0}
-</style>
-</head>
-<body>
-  <div class="wrap">
-    <header>
-      <div class="top">
-        <div class="brand">
-          <div class="logo" aria-hidden="true"></div>
-          <div style="min-width:0">
-            <h1>Classic Rock Artists</h1>
-            <div class="tag">Browse the library • click an artist to view details</div>
+      .wrap {
+        height: 100%;
+        display: grid;
+        grid-template-rows: auto 1fr;
+        padding: 0 25px;
+      }
+
+      header {
+        padding: 18px 0 12px;
+        border-bottom: 1px solid rgba(0, 0, 0, .25);
+        background: linear-gradient(180deg, rgba(0, 0, 0, .28), rgba(0, 0, 0, 0));
+      }
+
+      .top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        width: 100%;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        min-width: 0
+      }
+
+      .logo {
+        width: 44px;
+        height: 44px;
+        border-radius: 14px;
+        background:
+          linear-gradient(135deg, rgba(255, 53, 94, .95), rgba(58, 160, 255, .95)),
+          radial-gradient(20px 20px at 30% 30%, rgba(255, 255, 255, .45), transparent 55%);
+        box-shadow: 0 18px 45px rgba(0, 0, 0, .55), 0 0 0 1px rgba(255, 255, 255, .14) inset;
+        position: relative;
+        overflow: hidden;
+        flex: 0 0 auto;
+      }
+
+      .logo:before {
+        content: "";
+        position: absolute;
+        inset: -35%;
+        background: repeating-linear-gradient(90deg, rgba(255, 255, 255, .18) 0 8px, transparent 8px 18px);
+        transform: rotate(18deg);
+        opacity: .55;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 22px;
+        letter-spacing: .6px;
+        font-weight: 900;
+        line-height: 1.15
+      }
+
+      .tag {
+        margin-top: 4px;
+        color: var(--muted);
+        font-size: 13px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis
+      }
+
+      .controls {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: flex-end
+      }
+
+      .pill {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        background: rgba(0, 0, 0, .22);
+        border: 1px solid rgba(255, 255, 255, .12);
+        border-radius: 16px;
+        padding: 10px 12px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, .35);
+      }
+
+      .pill input {
+        border: 0;
+        outline: 0;
+        background: transparent;
+        color: var(--text);
+        width: 260px;
+        max-width: 40vw;
+        font-size: 14px;
+      }
+
+      .pill input::placeholder {
+        color: rgba(242, 242, 247, .55)
+      }
+
+      /* Search clear (x) icon: white circle for visibility */
+      #search::-webkit-search-cancel-button {
+        -webkit-appearance: none;
+        height: 22px;
+        width: 22px;
+        background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+CiAgPGNpcmNsZSBjeD0nMTInIGN5PScxMicgcj0nMTAuMjUnIGZpbGw9JyNmZmZmZmYnIHN0cm9rZT0nIzExMTExMScgc3Ryb2tlLXdpZHRoPScxLjUnLz4KICA8cGF0aCBkPSdNOC40IDguNCBMMTUuNiAxNS42IE0xNS42IDguNCBMOC40IDE1LjYnIHN0cm9rZT0nIzExMTExMScgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnLz4KPC9zdmc+') no-repeat center / contain;
+        cursor: pointer;
+        opacity: 1;
+      }
+
+      #search::-webkit-search-decoration {
+        -webkit-appearance: none;
+      }
+
+      main {
+        width: 100%;
+        padding: 14px 0 18px;
+        display: grid;
+        grid-template-columns: 360px 1fr;
+        gap: 14px;
+        height: 100%;
+        min-height: 0;
+      }
+
+      .panel {
+        background: linear-gradient(180deg, rgba(255, 255, 255, .08), rgba(255, 255, 255, .05));
+        border: 1px solid rgba(255, 255, 255, .12);
+        border-radius: var(--radius2);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+        min-height: 0;
+      }
+
+      .panel[aria-label="Artist list"] {
+        display: flex;
+        flex-direction: column;
+        min-height: 0;
+      }
+
+      .panel[aria-label="Artist list"] .list {
+        flex: 1 1 auto;
+        min-height: 0;
+        height: auto;
+        padding-bottom: 18px;
+      }
+
+      .listHeader {
+        padding: 14px 14px 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        border-bottom: 1px solid rgba(255, 255, 255, .08);
+        background: linear-gradient(180deg, rgba(0, 0, 0, .25), rgba(0, 0, 0, 0));
+      }
+
+      .count {
+        font-size: 13px;
+        color: rgba(242, 242, 247, .75)
+      }
+
+      .spark {
+        display: flex;
+        gap: 3px;
+        align-items: flex-end;
+        opacity: .90;
+        height: 22px
+      }
+
+      .bar {
+        width: 4px;
+        height: 20px;
+        border-radius: 6px;
+        background: linear-gradient(180deg, rgba(255, 228, 77, .95), rgba(255, 53, 94, .95));
+        box-shadow: 0 10px 24px rgba(0, 0, 0, .35);
+        transform-origin: bottom;
+        transform: scaleY(.25);
+        animation: eq 1.15s ease-in-out infinite;
+      }
+
+      @keyframes eq {
+
+        0%,
+        100% {
+          transform: scaleY(.18);
+          opacity: .65
+        }
+
+        50% {
+          transform: scaleY(1);
+          opacity: 1
+        }
+      }
+
+      .bar:nth-child(3n) {
+        animation-duration: .95s
+      }
+
+      .bar:nth-child(4n) {
+        animation-duration: 1.25s
+      }
+
+      .bar:nth-child(5n) {
+        animation-duration: 1.05s
+      }
+
+      .bar:nth-child(2n) {
+        animation-delay: -.35s
+      }
+
+      .bar:nth-child(3n+1) {
+        animation-delay: -.55s
+      }
+
+      .bar:nth-child(4n+2) {
+        animation-delay: -.15s
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .bar {
+          animation: none;
+          transform: scaleY(.6);
+          opacity: .85
+        }
+      }
+
+      .list {
+        padding: 10px;
+        overflow: auto;
+        height: 100%
+      }
+
+      .item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        padding: 12px 12px;
+        border-radius: 16px;
+        border: 1px solid rgba(255, 255, 255, .08);
+        background: rgba(0, 0, 0, .16);
+        cursor: pointer;
+        transition: transform .08s ease, background .12s ease, border-color .12s ease;
+        margin-bottom: 10px;
+      }
+
+      .item:hover {
+        transform: translateY(-1px);
+        background: rgba(0, 0, 0, .22);
+        border-color: rgba(255, 255, 255, .14)
+      }
+
+      .item.active {
+        border-color: rgba(255, 228, 77, .40);
+        box-shadow: 0 16px 40px rgba(0, 0, 0, .45), 0 0 0 1px rgba(255, 228, 77, .10) inset;
+        background: linear-gradient(180deg, rgba(255, 228, 77, .10), rgba(0, 0, 0, .20));
+      }
+
+      .itemName {
+        font-weight: 800;
+        letter-spacing: .2px
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        padding: 6px 10px;
+        border-radius: 999px;
+        border: 1px solid rgba(255, 255, 255, .12);
+        background: rgba(0, 0, 0, .20);
+        font-size: 12px;
+        color: rgba(242, 242, 247, .78);
+        white-space: nowrap;
+      }
+
+      .badge .dot {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%
+      }
+
+      .dot.full {
+        background: rgba(44, 255, 154, .95);
+        box-shadow: 0 0 0 4px rgba(44, 255, 154, .12)
+      }
+
+      .dot.todo {
+        background: rgba(255, 228, 77, .95);
+        box-shadow: 0 0 0 4px rgba(255, 228, 77, .12)
+      }
+
+      .detail {
+        height: 100%;
+        overflow: auto;
+        padding: 14px
+      }
+
+      .empty {
+        padding: 26px 18px;
+        border-radius: 18px;
+        border: 1px dashed rgba(255, 255, 255, .18);
+        background: rgba(0, 0, 0, .14);
+        color: rgba(242, 242, 247, .85);
+      }
+
+      .empty h2 {
+        margin: 0 0 8px;
+        font-size: 22px
+      }
+
+      .empty p {
+        margin: 0;
+        color: rgba(242, 242, 247, .72);
+        line-height: 1.55
+      }
+
+      .hero {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 14px;
+        padding: 16px 16px 12px;
+        border-radius: 20px;
+        background: linear-gradient(180deg, rgba(0, 0, 0, .28), rgba(0, 0, 0, .10));
+        border: 1px solid rgba(255, 255, 255, .10);
+        box-shadow: 0 18px 45px rgba(0, 0, 0, .42);
+      }
+
+      .artistTitle {
+        margin: 0;
+        font-size: 52px;
+        font-weight: 950;
+        letter-spacing: .8px;
+        line-height: 1.05;
+        background: linear-gradient(90deg, rgba(255, 228, 77, .96), rgba(255, 53, 94, .92), rgba(58, 160, 255, .92), rgba(44, 255, 154, .90));
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        text-shadow: 0 6px 30px rgba(0, 0, 0, .45);
+      }
+
+      .subline {
+        margin-top: 8px;
+        color: rgba(242, 242, 247, .74);
+        font-size: 13px;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+
+      .subline .dotSep {
+        width: 4px;
+        height: 4px;
+        border-radius: 50%;
+        background: rgba(242, 242, 247, .32)
+      }
+
+      .chipRow {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: flex-end
+      }
+
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 7px 10px;
+        border-radius: 999px;
+        border: 1px solid rgba(255, 255, 255, .12);
+        background: rgba(0, 0, 0, .18);
+        font-size: 12px;
+        color: rgba(242, 242, 247, .78);
+      }
+
+      .chip.red {
+        border-color: rgba(255, 53, 94, .30)
+      }
+
+      .chip.blue {
+        border-color: rgba(58, 160, 255, .30)
+      }
+
+      .chip.green {
+        border-color: rgba(44, 255, 154, .28)
+      }
+
+      .chip.yellow {
+        border-color: rgba(255, 228, 77, .30)
+      }
+
+      .albumTags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-top: 8px;
+      }
+
+      .albumTag {
+        display: inline-flex;
+        align-items: center;
+        padding: 5px 9px;
+        border-radius: 999px;
+        border: 1px solid rgba(255, 255, 255, .12);
+        background: rgba(0, 0, 0, .14);
+        font-size: 11px;
+        color: rgba(242, 242, 247, .78);
+        line-height: 1.1;
+      }
+
+      .grid {
+        margin-top: 14px;
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 12px;
+      }
+
+      .card {
+        grid-column: span 12;
+        background: rgba(0, 0, 0, .16);
+        border: 1px solid rgba(255, 255, 255, .10);
+        border-radius: 18px;
+        padding: 14px 14px 12px;
+      }
+
+      .card.full {
+        grid-column: span 12
+      }
+
+      .card.half {
+        grid-column: span 6
+      }
+
+      .card.third {
+        grid-column: span 4
+      }
+
+      .card h3 {
+        margin: 0 0 10px;
+        font-size: 14px;
+        letter-spacing: .9px;
+        text-transform: uppercase;
+        color: rgba(242, 242, 247, .82);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .accent {
+        width: 10px;
+        height: 10px;
+        border-radius: 4px;
+        background: linear-gradient(135deg, rgba(255, 228, 77, .92), rgba(255, 53, 94, .92));
+        box-shadow: 0 12px 22px rgba(0, 0, 0, .35);
+      }
+
+      .card p {
+        margin: 0;
+        color: rgba(242, 242, 247, .78);
+        line-height: 1.55
+      }
+
+      ul {
+        margin: 0;
+        padding-left: 18px;
+        color: rgba(242, 242, 247, .80)
+      }
+
+      li {
+        margin: 6px 0
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px
+      }
+
+      .links a {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        border-radius: 14px;
+        border: 1px solid rgba(255, 255, 255, .12);
+        background: rgba(0, 0, 0, .18);
+        color: rgba(242, 242, 247, .82);
+        text-decoration: none;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, .35);
+        transition: transform .08s ease, filter .12s ease, border-color .12s ease;
+      }
+
+      .links a:hover {
+        transform: translateY(-1px);
+        filter: brightness(1.06);
+        border-color: rgba(255, 255, 255, .18)
+      }
+
+      .links .k {
+        width: 10px;
+        height: 10px;
+        border-radius: 4px;
+        background: linear-gradient(135deg, rgba(58, 160, 255, .92), rgba(44, 255, 154, .92));
+        box-shadow: 0 10px 22px rgba(0, 0, 0, .35);
+        flex: 0 0 auto;
+      }
+
+      button {
+        font: inherit;
+        border-radius: 14px;
+        padding: 10px 12px;
+        border: 1px solid rgba(255, 255, 255, .12);
+        cursor: pointer;
+        transition: transform .08s ease, filter .12s ease, border-color .12s ease, box-shadow .12s ease;
+      }
+
+      button:active {
+        transform: translateY(1px)
+      }
+
+      .bioBtn,
+      .returnBtn {
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, .10), rgba(0, 0, 0, .55)),
+          radial-gradient(900px 520px at 22% 18%, rgba(212, 175, 55, .10), transparent 55%);
+        border-color: rgba(212, 175, 55, .40);
+        color: var(--gold);
+        text-shadow: 0 1px 0 rgba(0, 0, 0, .85), 0 0 10px rgba(212, 175, 55, .18);
+        box-shadow:
+          0 16px 40px rgba(0, 0, 0, .55),
+          inset 0 1px 0 rgba(255, 255, 255, .18),
+          inset 0 -1px 0 rgba(0, 0, 0, .55);
+        background-color: var(--black);
+      }
+
+      .bioBtn:hover,
+      .returnBtn:hover {
+        filter: brightness(1.06);
+        border-color: rgba(212, 175, 55, .55)
+      }
+
+      .bioBtn:focus-visible,
+      .returnBtn:focus-visible {
+        outline: none;
+        box-shadow:
+          0 0 0 3px rgba(212, 175, 55, .22),
+          0 16px 40px rgba(0, 0, 0, .65),
+          inset 0 1px 0 rgba(255, 255, 255, .18),
+          inset 0 -1px 0 rgba(0, 0, 0, .55);
+      }
+
+      .bioOverlay {
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, .62);
+        display: none;
+        z-index: 50;
+      }
+
+      .bioOverlay.show {
+        display: block
+      }
+
+      .bioShell {
+        position: absolute;
+        inset: 18px 25px;
+        border-radius: var(--radius2);
+        border: 1px solid rgba(255, 255, 255, .12);
+        background: linear-gradient(180deg, #17165a, #0e0d2f);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+        display: grid;
+        grid-template-rows: auto 1fr;
+      }
+
+      .bioHeader {
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        padding: 16px 16px 12px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 12px;
+        border-bottom: 1px solid rgba(212, 175, 55, .28);
+        background: linear-gradient(135deg, #0b0b12 0%, #1a1a24 42%, #0e0e17 100%);
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, .08), inset 0 -1px 0 rgba(0, 0, 0, .55);
+      }
+
+      .bioTitle {
+        font-size: 26px;
+        font-weight: 900;
+        letter-spacing: .6px;
+        line-height: 1.1;
+        background: linear-gradient(90deg, rgba(255, 228, 77, .96), rgba(255, 53, 94, .92), rgba(58, 160, 255, .92), rgba(44, 255, 154, .90));
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        text-shadow: 0 6px 30px rgba(0, 0, 0, .45);
+      }
+
+      .bioSub {
+        margin-top: 6px;
+        font-size: 13px;
+        color: rgba(242, 242, 247, .72);
+      }
+
+      .bioBody {
+        overflow: auto;
+        padding: 14px 14px 18px;
+        height: 100%;
+      }
+
+      .bioGrid {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 12px;
+        margin-top: 12px;
+      }
+
+      .bioCard {
+        grid-column: span 4;
+        border-radius: 18px;
+        border: 1px solid rgba(255, 255, 255, .10);
+        background: linear-gradient(180deg, #111048, #0b0a25);
+        padding: 14px 14px 12px;
+      }
+
+      .bioCard.wide {
+        grid-column: span 12
+      }
+
+      .bioBox {
+        max-width: 1110px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 14px 14px;
+        border-radius: 18px;
+        border: 1px solid rgba(255, 255, 255, .10);
+        background: rgba(0, 0, 0, .18);
+      }
+
+      .bioText {
+        margin: 0;
+        color: rgba(242, 242, 247, .80);
+        line-height: 1.7;
+        white-space: pre-wrap;
+        font-size: 17px;
+      }
+
+      .list,
+      .detail,
+      .bioBody {
+        scrollbar-width: thin;
+        scrollbar-color: rgba(242, 242, 247, .26) rgba(0, 0, 0, .18);
+      }
+
+      .list::-webkit-scrollbar,
+      .detail::-webkit-scrollbar,
+      .bioBody::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+      }
+
+      .list::-webkit-scrollbar-track,
+      .detail::-webkit-scrollbar-track,
+      .bioBody::-webkit-scrollbar-track {
+        background: rgba(0, 0, 0, .18);
+        border-radius: 999px;
+      }
+
+      .list::-webkit-scrollbar-thumb,
+      .detail::-webkit-scrollbar-thumb,
+      .bioBody::-webkit-scrollbar-thumb {
+        background: rgba(242, 242, 247, .22);
+        border-radius: 999px;
+        border: 2px solid rgba(0, 0, 0, .18);
+      }
+
+      .list::-webkit-scrollbar-thumb:hover,
+      .detail::-webkit-scrollbar-thumb:hover,
+      .bioBody::-webkit-scrollbar-thumb:hover {
+        background: rgba(242, 242, 247, .32);
+      }
+
+      .bioCard h3 {
+        margin: 0 0 10px;
+        font-size: 14px;
+        letter-spacing: .9px;
+        text-transform: uppercase;
+        color: rgba(242, 242, 247, .82);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .bioLinks {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        margin-top: 10px
+      }
+
+      .bioLinks a {
+        width: fit-content;
+        max-width: 100%;
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        border-radius: 14px;
+        border: 1px solid rgba(212, 175, 55, .40);
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, .10), rgba(0, 0, 0, .58)),
+          radial-gradient(900px 520px at 22% 18%, rgba(212, 175, 55, .10), transparent 55%);
+        background-color: var(--black);
+        color: var(--gold);
+        text-shadow: 0 1px 0 rgba(0, 0, 0, .85), 0 0 10px rgba(212, 175, 55, .18);
+        box-shadow:
+          0 16px 40px rgba(0, 0, 0, .55),
+          inset 0 1px 0 rgba(255, 255, 255, .18),
+          inset 0 -1px 0 rgba(0, 0, 0, .55);
+        transition: transform .08s ease, filter .12s ease, border-color .12s ease;
+      }
+
+      .bioLinks a:hover {
+        transform: translateY(-1px);
+        filter: brightness(1.06);
+        border-color: rgba(212, 175, 55, .55)
+      }
+
+      .bioLinks a:active {
+        transform: translateY(1px)
+      }
+
+      .bioLinks .k {
+        width: 10px;
+        height: 10px;
+        border-radius: 4px;
+        background: linear-gradient(135deg, rgba(58, 160, 255, .92), rgba(44, 255, 154, .92));
+        box-shadow: 0 10px 22px rgba(0, 0, 0, .35);
+        flex: 0 0 auto;
+      }
+
+      @media (max-width: 980px) {
+        body {
+          overflow: auto
+        }
+
+        .wrap {
+          padding: 0 16px
+        }
+
+        main {
+          grid-template-columns: 1fr
+        }
+
+        .pill input {
+          width: 180px
+        }
+
+        .bioShell {
+          inset: 14px 16px
+        }
+
+        .bioCard {
+          grid-column: span 12
+        }
+      }
+
+      /* Virtualized list performance */
+      .list.vlist {
+        position: relative
+      }
+
+      .list.vlist .vItems {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0
+      }
+
+      .list.vlist .vSpacer {
+        width: 1px
+      }
+
+      .list.vlist .item {
+        margin-bottom: 0
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div class="top">
+          <div class="brand">
+            <div class="logo" aria-hidden="true"></div>
+            <div style="min-width:0">
+              <h1>Classic Rock Artists</h1>
+              <div class="tag">Browse the library • click an artist to view details</div>
+            </div>
           </div>
-        </div>
-
-        <div class="controls">
-          <div class="pill" title="Search artists">
-            <span style="color:rgba(242,242,247,.75);font-size:14px">🔎</span>
-            <input id="search" type="search" placeholder="Search artists…" autocomplete="off" autofocus />
+          <div class="controls">
+            <div class="pill" title="Search artists"><span style="color:rgba(242,242,247,.75);font-size:14px">🔎</span><input id="search" type="search" placeholder="Search artists…" autocomplete="off" autofocus /></div>
           </div>
-</div>
-    </header>
-
-    <main>
-      <section class="panel" aria-label="Artist list">
-        <div class="listHeader">
-          <div class="count" id="count">Loading…</div>
-          <div class="spark" aria-hidden="true">
-            <div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div>
-        </div>
-        <div class="list" id="list"></div>
-      </section>
-
-      <section class="panel" aria-label="Artist details">
-        <div class="detail" id="detail">
-          <div class="empty" style="text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;height:100%;background:linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url('https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Rock%20Band.png');background-size:cover;background-position:center;background-repeat:no-repeat;">
-            <h2 style="font-size:38pt;color:var(--gold);">Select an Artist</h2>
-            <p style="font-size:17pt;color:#ffffff;">Select an artist from the list on the left or use the Search function. Artists marked as &quot;TODO&quot; are not ready yet. But check back often. We are constantly updating.</p>
+      </header>
+      <main>
+        <section class="panel" aria-label="Artist list">
+          <div class="listHeader">
+            <div class="count" id="count">Loading…</div>
+            <div class="spark" aria-hidden="true">
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+              <div class="bar"></div>
+            </div>
           </div>
-        </div>
-      </section>
-    </main>
-  </div>
-
-  <div class="bioOverlay" id="bioOverlay" aria-hidden="true">
-    <div class="bioShell" role="dialog" aria-modal="true" aria-label="Biography">
-      <div class="bioHeader">
-        <div>
-          <div class="bioTitle" id="bioTitle">Biography</div>
-          <div class="bioSub" id="bioSub"></div>
-        </div>
-        <button class="returnBtn" id="bioReturnBtn" type="button">Return</button>
-      </div>
-      <div class="bioBody" id="bioBody"></div>
+          <div class="list" id="list"></div>
+        </section>
+        <section class="panel" aria-label="Artist details">
+          <div class="detail" id="detail">
+            <div class="empty" style="text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;height:100%;background:linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url('https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Rock%20Band.png');background-size:cover;background-position:center;background-repeat:no-repeat;">
+              <h2 style="font-size:38pt;color:var(--gold);">Select an Artist</h2>
+              <p style="font-size:17pt;color:#ffffff;">Select an artist from the list on the left or use the Search function. Artists marked as &quot;TODO&quot; are not ready yet. But check back often. We are constantly updating.</p>
+            </div>
+          </div>
+        </section>
+      </main>
     </div>
-  </div>
-
-  <script>
-    window.addEventListener("DOMContentLoaded", () => {
-      const s = document.getElementById("search");
-      if (s) {
-        try { s.focus({ preventScroll: true }); } catch (_) { try { s.focus(); } catch (_) {} }
-      }
-    });
-
-    const RAW_ARTISTS_BASE = "https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists/Artists";
-    const RAW_ARTISTS_URLS = Array.from({ length: 20 }, (_, i) => `${RAW_ARTISTS_BASE}${String(i + 1).padStart(2, "0")}.json`);
-
-    const state = { artists: [], filtered: [], selectedId: null };
-
-
-    const focusSearch = () => {
-      if (!el.search) return;
-      try { el.search.focus({ preventScroll: true }); } catch (_) { try { el.search.focus(); } catch (_) {} }
-      try {
-        const v = safe(el.search.value);
-        el.search.setSelectionRange(v.length, v.length);
-      } catch (_) {}
-    };
-
-
-
-    const PREVIEW_SECONDS = 15;
-    let previewAudio = null;
-    let previewTimer = null;
-    let previewAbort = null;
-
-    const ensurePreviewAudio = () => {
-      if (!previewAudio) {
-        previewAudio = new Audio();
-        previewAudio.preload = "none";
-      }
-      return previewAudio;
-    };
-
-    const stopPreview = () => {
-      if (previewTimer) {
-        clearTimeout(previewTimer);
-        previewTimer = null;
-      }
-      if (previewAbort) {
-        try { previewAbort.abort(); } catch (_) {}
-        previewAbort = null;
-      }
-      if (previewAudio) {
-        try { previewAudio.pause(); } catch (_) {}
-        try { previewAudio.currentTime = 0; } catch (_) {}
-        try { previewAudio.removeAttribute("src"); } catch (_) {}
-        try { previewAudio.load(); } catch (_) {}
-      }
-    };
-
-    const normArtistName = (s) => safe(s).toLowerCase().trim().replace(/^the\s+/i, "").replace(/[^a-z0-9]+/g, "");
-
-    const getItunesPreviewUrl = async (artistName) => {
-      const term = encodeURIComponent(artistName);
-      const url = `https://itunes.apple.com/search?term=${term}&entity=song&limit=10&media=music&attribute=artistTerm`;
-      previewAbort = new AbortController();
-      const res = await fetch(url, { signal: previewAbort.signal });
-      const data = await res.json();
-      const results = Array.isArray(data.results) ? data.results : [];
-      const target = normArtistName(artistName);
-      const match = results.find(r => r && r.previewUrl && normArtistName(r.artistName || "") === target)
-        || results.find(r => r && r.previewUrl);
-      return match ? match.previewUrl : "";
-    };
-
-    const playArtistPreview = async (artist) => {
-      stopPreview();
-      const name = artist && artist.Name ? artist.Name : "";
-      if (!name) return;
-      let previewUrl = "";
-      try {
-        previewUrl = await getItunesPreviewUrl(name);
-      } catch (_) {
-        previewUrl = "";
-      }
-      if (!previewUrl) return;
-      const audio = ensurePreviewAudio();
-      audio.src = previewUrl;
-      audio.currentTime = 0;
-      const p = audio.play();
-      if (p && typeof p.catch === "function") p.catch(() => {});
-      previewTimer = setTimeout(() => {
-        if (!previewAudio) return;
-        try { previewAudio.pause(); } catch (_) {}
-      }, PREVIEW_SECONDS * 1000);
-    };
-
-
-    const el = {
-      list: document.getElementById("list"),
-      detail: document.getElementById("detail"),
-      count: document.getElementById("count"),
-      search: document.getElementById("search"),
-      bioOverlay: document.getElementById("bioOverlay"),
-      bioTitle: document.getElementById("bioTitle"),
-      bioSub: document.getElementById("bioSub"),
-      bioBody: document.getElementById("bioBody"),
-      bioReturnBtn: document.getElementById("bioReturnBtn")};
-
-    const safe = (v) => (v == null ? "" : String(v));
-    const escapeHtml = (s) => safe(s)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#039;");
-
-    const normKey = (s) => safe(s).toLowerCase().trim()
-      .replace(/\s+/g, " ")
-      .replace(/[’‘]/g, "'")
-      .replace(/[“”]/g, '"');
-
-    
-
-    function firstYearFromYearsActive(arr) {
-      if (!Array.isArray(arr)) return null;
-      let best = null;
-      for (const raw of arr) {
-        const s = String(raw || "");
-        const nums = s.match(/\b(19\d{2}|20\d{2})\b/g);
-        if (!nums || !nums.length) continue;
-        const y = parseInt(nums[0], 10);
-        if (!Number.isFinite(y)) continue;
-        if (best === null || y < best) best = y;
-      }
-      return best;
-    }
-
-    function computeArtistIndex(a) {
-      if (!a) return a;
-      try { a._sortName = stripThe(a.Name || ""); } catch (_) {}
-      try { a._filled = isFilled(a); } catch (_) {}
-      try { a._startYear = firstYearFromYearsActive(a.YearsActive); } catch (_) {}
-      try {
-        const hay = [
-          a.Name,
-          ...(a.Genres || []),
-          ...(a.YearsActive || []),
-          a.Type,
-          a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
-        ].filter(Boolean).join(" • ");
-        a._searchKey = normKey(hay);
-      } catch (_) {}
-      return a;
-    }
-
-    const vlist = {
-      enabled: false,
-      container: null,
-      spacer: null,
-      itemsHost: null,
-      pool: [],
-      data: [],
-      step: 64,
-      overscan: 8,
-      raf: 0,
-      setData(arr) {
-        this.data = Array.isArray(arr) ? arr : [];
-        if (!this.enabled) return;
-        const total = this.data.length;
-        this.spacer.style.height = Math.max(0, total * this.step) + "px";
-        this.render();
-      },
-      schedule() {
-        if (this.raf) return;
-        this.raf = requestAnimationFrame(() => {
-          this.raf = 0;
-          this.render();
-        });
-      },
-      ensurePool() {
-        const h = this.container.clientHeight || 0;
-        const needed = Math.min(this.data.length, Math.ceil(h / this.step) + this.overscan);
-        while (this.pool.length < needed) {
-          const node = document.createElement("div");
-          node.className = "item";
-          node.setAttribute("role", "button");
-          node.setAttribute("tabindex", "0");
-          node.style.position = "absolute";
-          node.style.left = "0";
-          node.style.right = "0";
-          this.itemsHost.appendChild(node);
-          this.pool.push(node);
-        }
-        while (this.pool.length > needed) {
-          const node = this.pool.pop();
-          try { node.remove(); } catch (_) {}
-        }
-      },
-      render() {
-        if (!this.enabled) return;
-        this.ensurePool();
-        const top = this.container.scrollTop || 0;
-        const start = Math.max(0, Math.floor(top / this.step));
-        for (let i = 0; i < this.pool.length; i++) {
-          const idx = start + i;
-          const node = this.pool[i];
-          if (idx >= this.data.length) {
-            node.style.display = "none";
-            continue;
+    <div class="bioOverlay" id="bioOverlay" aria-hidden="true">
+      <div class="bioShell" role="dialog" aria-modal="true" aria-label="Biography">
+        <div class="bioHeader">
+          <div>
+            <div class="bioTitle" id="bioTitle">Biography</div>
+            <div class="bioSub" id="bioSub"></div>
+          </div><button class="returnBtn" id="bioReturnBtn" type="button">Return</button>
+        </div>
+        <div class="bioBody" id="bioBody"></div>
+      </div>
+    </div>
+    <script>
+      window.addEventListener("DOMContentLoaded", () => {
+        const s = document.getElementById("search");
+        if (s) {
+          try {
+            s.focus({
+              preventScroll: true
+            });
+          } catch (_) {
+            try {
+              s.focus();
+            } catch (_) {}
           }
-          const a = this.data[idx];
-          const id = safe(a.ArtistID || a.Name);
-          const active = state.selectedId === id ? "active" : "";
-          node.style.display = "";
-          node.style.transform = "translateY(" + (idx * this.step) + "px)";
-          node.setAttribute("data-id", id);
-          node.className = "item " + active;
-          node.innerHTML = `
-            <div><div class="itemName">${escapeHtml(a.Name)}</div></div>
-            <div class="itemMeta">${badgeHTML(a)}</div>
-          `;
         }
-      },
-      init(container) {
-        this.container = container;
-        container.classList.add("vlist");
-        container.innerHTML = "";
-        const spacer = document.createElement("div");
-        spacer.className = "vSpacer";
-        const host = document.createElement("div");
-        host.className = "vItems";
-        container.appendChild(spacer);
-        container.appendChild(host);
-        this.spacer = spacer;
-        this.itemsHost = host;
+      });
+      const RAW_ARTISTS_BASE = "https://raw.githubusercontent.com/BigBird7827/Rock-Music-Database/main/Artists/Artists";
+      const RAW_ARTISTS_URLS = Array.from({
+        length: 20
+      }, (_, i) => `${RAW_ARTISTS_BASE}${String(i + 1).padStart(2, "0")}.json`);
+      const state = {
+        artists: [],
+        filtered: [],
+        selectedId: null
+      };
+      const focusSearch = () => {
+        if (!el.search) return;
+        try {
+          el.search.focus({
+            preventScroll: true
+          });
+        } catch (_) {
+          try {
+            el.search.focus();
+          } catch (_) {}
+        }
+        try {
+          const v = safe(el.search.value);
+          el.search.setSelectionRange(v.length, v.length);
+        } catch (_) {}
+      };
+      const PREVIEW_SECONDS = 15;
+      let previewAudio = null;
+      let previewTimer = null;
+      let previewAbort = null;
+      const ensurePreviewAudio = () => {
+        if (!previewAudio) {
+          previewAudio = new Audio();
+          previewAudio.preload = "none";
+        }
+        return previewAudio;
+      };
+      const stopPreview = () => {
+        if (previewTimer) {
+          clearTimeout(previewTimer);
+          previewTimer = null;
+        }
+        if (previewAbort) {
+          try {
+            previewAbort.abort();
+          } catch (_) {}
+          previewAbort = null;
+        }
+        if (previewAudio) {
+          try {
+            previewAudio.pause();
+          } catch (_) {}
+          try {
+            previewAudio.currentTime = 0;
+          } catch (_) {}
+          try {
+            previewAudio.removeAttribute("src");
+          } catch (_) {}
+          try {
+            previewAudio.load();
+          } catch (_) {}
+        }
+      };
+      const normArtistName = (s) => safe(s).toLowerCase().trim().replace(/^the\s+/i, "").replace(/[^a-z0-9]+/g, "");
+      const getItunesPreviewUrl = async (artistName) => {
+        const term = encodeURIComponent(artistName);
+        const url = `https://itunes.apple.com/search?term=${term}&entity=song&limit=10&media=music&attribute=artistTerm`;
+        previewAbort = new AbortController();
+        const res = await fetch(url, {
+          signal: previewAbort.signal
+        });
+        const data = await res.json();
+        const results = Array.isArray(data.results) ? data.results : [];
+        const target = normArtistName(artistName);
+        const match = results.find(r => r && r.previewUrl && normArtistName(r.artistName || "") === target) || results.find(r => r && r.previewUrl);
+        return match ? match.previewUrl : "";
+      };
+      const playArtistPreview = async (artist) => {
+        stopPreview();
+        const name = artist && artist.Name ? artist.Name : "";
+        if (!name) return;
+        let previewUrl = "";
+        try {
+          previewUrl = await getItunesPreviewUrl(name);
+        } catch (_) {
+          previewUrl = "";
+        }
+        if (!previewUrl) return;
+        const audio = ensurePreviewAudio();
+        audio.src = previewUrl;
+        audio.currentTime = 0;
+        const p = audio.play();
+        if (p && typeof p.catch === "function") p.catch(() => {});
+        previewTimer = setTimeout(() => {
+          if (!previewAudio) return;
+          try {
+            previewAudio.pause();
+          } catch (_) {}
+        }, PREVIEW_SECONDS * 1000);
+      };
+      const el = {
+        list: document.getElementById("list"),
+        detail: document.getElementById("detail"),
+        count: document.getElementById("count"),
+        search: document.getElementById("search"),
+        bioOverlay: document.getElementById("bioOverlay"),
+        bioTitle: document.getElementById("bioTitle"),
+        bioSub: document.getElementById("bioSub"),
+        bioBody: document.getElementById("bioBody"),
+        bioReturnBtn: document.getElementById("bioReturnBtn")
+      };
+      const safe = (v) => (v == null ? "" : String(v));
+      const escapeHtml = (s) => safe(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+      const normKey = (s) => safe(s).toLowerCase().trim().replace(/\s+/g, " ").replace(/[’‘]/g, "'").replace(/[“”]/g, '"');
 
-        const probe = document.createElement("div");
-        probe.className = "item";
-        probe.style.position = "absolute";
-        probe.style.visibility = "hidden";
-        probe.style.left = "0";
-        probe.style.right = "0";
-        probe.style.top = "0";
-        probe.innerHTML = `<div><div class="itemName">Probe</div></div><div class="itemMeta"></div>`;
-        host.appendChild(probe);
-        const gap = 10;
-        const h = probe.offsetHeight || 54;
-        try { probe.remove(); } catch (_) {}
-        this.step = Math.max(44, h + gap);
-        this.enabled = true;
-
-        container.addEventListener("scroll", () => this.schedule(), { passive: true });
-        window.addEventListener("resize", () => this.schedule(), { passive: true });
+      function firstYearFromYearsActive(arr) {
+        if (!Array.isArray(arr)) return null;
+        let best = null;
+        for (const raw of arr) {
+          const s = String(raw || "");
+          const nums = s.match(/\b(19\d{2}|20\d{2})\b/g);
+          if (!nums || !nums.length) continue;
+          const y = parseInt(nums[0], 10);
+          if (!Number.isFinite(y)) continue;
+          if (best === null || y < best) best = y;
+        }
+        return best;
       }
-    };
-const withCacheBust = (url) => {
-      const u = new URL(url);
-      const params = new URLSearchParams(window.location.search);
-      if (params.get("cb") === "1") u.searchParams.set("cb", String(Date.now()));
-      return u.toString();
-    };
 
-    const hasMeaningfulValue = (v) => {
-      if (v === null || v === undefined) return false;
-      if (typeof v === "string") return v.trim().length > 0;
-      if (typeof v === "number") return Number.isFinite(v);
-      if (typeof v === "boolean") return v === true;
-      if (Array.isArray(v)) return v.some(hasMeaningfulValue);
-      if (typeof v === "object") return Object.values(v).some(hasMeaningfulValue);
-      return false;
-    };
-
-    const isFilled = (a) => {
-      if (!a) return false;
-      for (const [k, v] of Object.entries(a)) {
-        if (k === "ArtistID" || k === "Name") continue;
-        if (k && k.startsWith("_")) continue;
-        if (hasMeaningfulValue(v)) return true;
+      function computeArtistIndex(a) {
+        if (!a) return a;
+        try {
+          a._sortName = stripThe(a.Name || "");
+        } catch (_) {}
+        try {
+          a._filled = isFilled(a);
+        } catch (_) {}
+        try {
+          a._startYear = firstYearFromYearsActive(a.YearsActive);
+        } catch (_) {}
+        try {
+          const hay = [
+            a.Name, ...(a.Genres || []), ...(a.YearsActive || []),
+            a.Type,
+            a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
+          ].filter(Boolean).join(" • ");
+          a._searchKey = normKey(hay);
+        } catch (_) {}
+        return a;
       }
-      return false;
-    };
-
-    const badgeHTML = (a) => {
-      const filled = isFilled(a);
-      if (filled) return "";
-      return `<span class="badge" title="TODO">
-        <span class="dot todo"></span>
+      const vlist = {
+        enabled: false,
+        container: null,
+        spacer: null,
+        itemsHost: null,
+        pool: [],
+        data: [],
+        step: 64,
+        overscan: 8,
+        raf: 0,
+        setData(arr) {
+          this.data = Array.isArray(arr) ? arr : [];
+          if (!this.enabled) return;
+          const total = this.data.length;
+          this.spacer.style.height = Math.max(0, total * this.step) + "px";
+          this.render();
+        },
+        schedule() {
+          if (this.raf) return;
+          this.raf = requestAnimationFrame(() => {
+            this.raf = 0;
+            this.render();
+          });
+        },
+        ensurePool() {
+          const h = this.container.clientHeight || 0;
+          const needed = Math.min(this.data.length, Math.ceil(h / this.step) + this.overscan);
+          while (this.pool.length < needed) {
+            const node = document.createElement("div");
+            node.className = "item";
+            node.setAttribute("role", "button");
+            node.setAttribute("tabindex", "0");
+            node.style.position = "absolute";
+            node.style.left = "0";
+            node.style.right = "0";
+            this.itemsHost.appendChild(node);
+            this.pool.push(node);
+          }
+          while (this.pool.length > needed) {
+            const node = this.pool.pop();
+            try {
+              node.remove();
+            } catch (_) {}
+          }
+        },
+        render() {
+          if (!this.enabled) return;
+          this.ensurePool();
+          const top = this.container.scrollTop || 0;
+          const start = Math.max(0, Math.floor(top / this.step));
+          for (let i = 0; i < this.pool.length; i++) {
+            const idx = start + i;
+            const node = this.pool[i];
+            if (idx >= this.data.length) {
+              node.style.display = "none";
+              continue;
+            }
+            const a = this.data[idx];
+            const id = safe(a.ArtistID || a.Name);
+            const active = state.selectedId === id ? "active" : "";
+            node.style.display = "";
+            node.style.transform = "translateY(" + (idx * this.step) + "px)";
+            node.setAttribute("data-id", id);
+            node.className = "item " + active;
+            node.innerHTML = `
+            <div><div class="itemName">${escapeHtml(a.Name)}</div></div><div class="itemMeta">${badgeHTML(a)}</div>
+          `;
+          }
+        },
+        init(container) {
+          this.container = container;
+          container.classList.add("vlist");
+          container.innerHTML = "";
+          const spacer = document.createElement("div");
+          spacer.className = "vSpacer";
+          const host = document.createElement("div");
+          host.className = "vItems";
+          container.appendChild(spacer);
+          container.appendChild(host);
+          this.spacer = spacer;
+          this.itemsHost = host;
+          const probe = document.createElement("div");
+          probe.className = "item";
+          probe.style.position = "absolute";
+          probe.style.visibility = "hidden";
+          probe.style.left = "0";
+          probe.style.right = "0";
+          probe.style.top = "0";
+          probe.innerHTML = `<div><div class="itemName">Probe</div></div><div class="itemMeta"></div>`;
+          host.appendChild(probe);
+          const gap = 10;
+          const h = probe.offsetHeight || 54;
+          try {
+            probe.remove();
+          } catch (_) {}
+          this.step = Math.max(44, h + gap);
+          this.enabled = true;
+          container.addEventListener("scroll", () => this.schedule(), {
+            passive: true
+          });
+          window.addEventListener("resize", () => this.schedule(), {
+            passive: true
+          });
+        }
+      };
+      const withCacheBust = (url) => {
+        const u = new URL(url);
+        const params = new URLSearchParams(window.location.search);
+        if (params.get("cb") === "1") u.searchParams.set("cb", String(Date.now()));
+        return u.toString();
+      };
+      const hasMeaningfulValue = (v) => {
+        if (v === null || v === undefined) return false;
+        if (typeof v === "string") return v.trim().length > 0;
+        if (typeof v === "number") return Number.isFinite(v);
+        if (typeof v === "boolean") return v === true;
+        if (Array.isArray(v)) return v.some(hasMeaningfulValue);
+        if (typeof v === "object") return Object.values(v).some(hasMeaningfulValue);
+        return false;
+      };
+      const isFilled = (a) => {
+        if (!a) return false;
+        for (const [k, v] of Object.entries(a)) {
+          if (k === "ArtistID" || k === "Name") continue;
+          if (k && k.startsWith("_")) continue;
+          if (hasMeaningfulValue(v)) return true;
+        }
+        return false;
+      };
+      const badgeHTML = (a) => {
+        const filled = isFilled(a);
+        if (filled) return "";
+        return `<span class="badge" title="TODO"><span class="dot todo"></span>
         TODO
       </span>`;
-    };
-
-    
-    const matches = (a, qKey) => {
-      if (!qKey) return true;
-      const hayKey = a && a._searchKey ? a._searchKey : normKey([
-        a && a.Name,
-        ...((a && a.Genres) || []),
-        ...((a && a.YearsActive) || []),
-        a && a.Type,
-        a && a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
-      ].filter(Boolean).join(" • "));
-      return hayKey.includes(qKey);
-    };
-
-    const stripThe = (n) => safe(n).replace(/^the\s+/i, "");
-
-    
-    const sortArtists = (arr) => [...arr].sort((a, b) => stripThe(a.Name).localeCompare(stripThe(b.Name)));
-
-const itemHTML = (a) => {
-      const name = escapeHtml(a.Name);
-      const id = escapeHtml(a.ArtistID || a.Name);
-      const active = state.selectedId === id ? "active" : "";
-      return `
-        <div class="item ${active}" role="button" tabindex="0" data-id="${id}">
-          <div><div class="itemName">${name}</div></div>
-          <div class="itemMeta">${badgeHTML(a)}</div>
-        </div>
+      };
+      const matches = (a, qKey) => {
+        if (!qKey) return true;
+        const hayKey = a && a._searchKey ? a._searchKey : normKey([
+          a && a.Name, ...((a && a.Genres) || []), ...((a && a.YearsActive) || []),
+          a && a.Type,
+          a && a.Origin && [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(" "),
+        ].filter(Boolean).join(" • "));
+        return hayKey.includes(qKey);
+      };
+      const stripThe = (n) => safe(n).replace(/^the\s+/i, "");
+      const sortArtists = (arr) => [...arr].sort((a, b) => stripThe(a.Name).localeCompare(stripThe(b.Name)));
+      const itemHTML = (a) => {
+        const name = escapeHtml(a.Name);
+        const id = escapeHtml(a.ArtistID || a.Name);
+        const active = state.selectedId === id ? "active" : "";
+        return `
+        <div class="item ${active}" role="button" tabindex="0" data-id="${id}"><div><div class="itemName">${name}</div></div><div class="itemMeta">${badgeHTML(a)}</div></div>
       `;
-    };
-
-    const setCount = () => {
-      const total = state.artists.length;
-      const shown = state.filtered.length;
-      const filled = state.artists.filter(isFilled).length;
-      el.count.textContent = `${shown} shown • ${total} total • ${filled} filled`;
-    };
-
-    
-    const renderList = () => {
-      const q = safe(el.search.value);
-      const qKey = normKey(q);
-      let filtered = state.artists.filter(a => matches(a, qKey));
-      state.filtered = sortArtists(filtered);
-      setCount();
-
-      if (vlist.enabled) {
-        vlist.setData(state.filtered);
-      } else {
-        el.list.innerHTML = state.filtered.map(itemHTML).join("");
-      }
-    };
-
-    const chips = (a) => {
-      const out = [];
-      if (a.Type) out.push(`<span class="chip red">${escapeHtml(a.Type)}</span>`);
-      const origin = a.Origin ? [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(", ") : "";
-      if (origin) out.push(`<span class="chip blue">${escapeHtml(origin)}</span>`);
-      if (a.YearsActive && a.YearsActive.length) out.push(`<span class="chip yellow">${escapeHtml(a.YearsActive.join(", "))}</span>`);
-      if (a.Genres && a.Genres.length) out.push(`<span class="chip green">${escapeHtml(a.Genres.slice(0,3).join(" • "))}${a.Genres.length>3?"…":""}</span>`);
-      const coreN = (a.CoreMembers && a.CoreMembers.length) ? a.CoreMembers.length : 0;
-      const nonCoreN = (a.NonCoreMembers && a.NonCoreMembers.length) ? a.NonCoreMembers.length : 0;
-      if (coreN || nonCoreN) out.push(`<span class="chip blue">${coreN} core • ${nonCoreN} non-core</span>`);
-      return out.join("");
-    };
-
-    const card = (title, body, spanClass) => `
-      <div class="card ${spanClass || "full"}">
-        <h3><span class="accent"></span>${escapeHtml(title)}</h3>
+      };
+      const setCount = () => {
+        const total = state.artists.length;
+        const shown = state.filtered.length;
+        const filled = state.artists.filter(isFilled).length;
+        el.count.textContent = `${shown} shown • ${total} total • ${filled} filled`;
+      };
+      const renderList = () => {
+        const q = safe(el.search.value);
+        const qKey = normKey(q);
+        let filtered = state.artists.filter(a => matches(a, qKey));
+        state.filtered = sortArtists(filtered);
+        setCount();
+        if (vlist.enabled) {
+          vlist.setData(state.filtered);
+        } else {
+          el.list.innerHTML = state.filtered.map(itemHTML).join("");
+        }
+      };
+      const chips = (a) => {
+        const out = [];
+        if (a.Type) out.push(`<span class="chip red">${escapeHtml(a.Type)}</span>`);
+        const origin = a.Origin ? [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(", ") : "";
+        if (origin) out.push(`<span class="chip blue">${escapeHtml(origin)}</span>`);
+        if (a.YearsActive && a.YearsActive.length) out.push(`<span class="chip yellow">${escapeHtml(a.YearsActive.join(", "))}</span>`);
+        if (a.Genres && a.Genres.length) out.push(`<span class="chip green">${escapeHtml(a.Genres.slice(0,3).join(" • "))}${a.Genres.length>3?"…":""}</span>`);
+        const coreN = (a.CoreMembers && a.CoreMembers.length) ? a.CoreMembers.length : 0;
+        const nonCoreN = (a.NonCoreMembers && a.NonCoreMembers.length) ? a.NonCoreMembers.length : 0;
+        if (coreN || nonCoreN) out.push(`<span class="chip blue">${coreN} core • ${nonCoreN} non-core</span>`);
+        return out.join("");
+      };
+      const card = (title, body, spanClass) => `
+      <div class="card ${spanClass || "full"}"><h3><span class="accent"></span>${escapeHtml(title)}</h3>
         ${body}
       </div>
     `;
-
-    const formatListItem = (v) => {
-      if (v == null) return "";
-      if (typeof v === "string" || typeof v === "number" || typeof v === "boolean") return String(v);
-      if (typeof v === "object") {
-        const name =
-          v.Title ??
-          v.Name ??
-          v.Type ??
-          v.Award ??
-          v.Label ??
-          v.Role ??
-          v.Work ??
-          v.Item ??
-          "";
-        const year = v.Year ?? v.Date ?? "";
-        const detail =
-          v.Notes ??
-          v.Note ??
-          v.Details ??
-          v.Description ??
-          v.Summary ??
-          v.Context ??
-          "";
-        const head = [name, year ? `(${year})` : ""].filter(Boolean).join(" ");
-        return [head, detail].filter(Boolean).join(" — ");
-      }
-      return "";
-    };
-
-    const listOrDash = (arr) => {
-      const xs = (arr || []).filter(Boolean).map(formatListItem).filter(Boolean);
-      if (!xs.length) return `<p>—</p>`;
-      return `<ul>${xs.map(v => `<li>${escapeHtml(v)}</li>`).join("")}</ul>`;
-    };
-
-
-    const tagListOrDash = (arr) => {
-      const xs = (arr || []).filter(Boolean).map(formatListItem).filter(Boolean);
-      if (!xs.length) return `<p>—</p>`;
-      return `<div class="albumTags">${xs.map(v => `<span class="albumTag">${escapeHtml(v)}</span>`).join("")}</div>`;
-    };
-
-
-    const linksHTML = (links) => {
-      if (!links) return `<p>—</p>`;
-      const items = Object.entries(links).filter(([,v]) => !!v);
-      if (!items.length) return `<p>—</p>`;
-      return `<div class="links">${items.map(([k,v]) => `<a href="${escapeHtml(v)}" target="_blank" rel="noopener"><span class="k"></span>${escapeHtml(k)}</a>`).join("")}</div>`;
-    };
-
-    const memberCardHTML = (m, isCore) => {
-      const name = escapeHtml(m.Name || "");
-      const years = m.YearsActive ? escapeHtml(m.YearsActive) : "";
-      const roles = m.Roles ? escapeHtml(m.Roles) : "";
-      const instruments = m.Instruments ? escapeHtml(m.Instruments) : "";
-      const albums = Array.isArray(m.Albums) ? m.Albums.filter(Boolean) : [];
-      return `
-        <div style="border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.16);border-radius:18px;padding:12px 12px;">
-          <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between;">
-            <div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;">
-              <div style="font-weight:800;letter-spacing:.2px;">${name}</div>
+      const formatListItem = (v) => {
+        if (v == null) return "";
+        if (typeof v === "string" || typeof v === "number" || typeof v === "boolean") return String(v);
+        if (typeof v === "object") {
+          const name = v.Title ?? v.Name ?? v.Type ?? v.Award ?? v.Label ?? v.Role ?? v.Work ?? v.Item ?? "";
+          const year = v.Year ?? v.Date ?? "";
+          const detail = v.Notes ?? v.Note ?? v.Details ?? v.Description ?? v.Summary ?? v.Context ?? "";
+          const head = [name, year ? `(${year})` : ""].filter(Boolean).join(" ");
+          return [head, detail].filter(Boolean).join(" — ");
+        }
+        return "";
+      };
+      const listOrDash = (arr) => {
+        const xs = (arr || []).filter(Boolean).map(formatListItem).filter(Boolean);
+        if (!xs.length) return `<p>—</p>`;
+        return `<ul>${xs.map(v => `<li>${escapeHtml(v)}</li>`).join("")}</ul>`;
+      };
+      const tagListOrDash = (arr) => {
+        const xs = (arr || []).filter(Boolean).map(formatListItem).filter(Boolean);
+        if (!xs.length) return `<p>—</p>`;
+        return `<div class="albumTags">${xs.map(v => `<span class="albumTag">${escapeHtml(v)}</span>`).join("")}</div>`;
+      };
+      const linksHTML = (links) => {
+        if (!links) return `<p>—</p>`;
+        const items = Object.entries(links).filter(([, v]) => !!v);
+        if (!items.length) return `<p>—</p>`;
+        return `<div class="links">${items.map(([k,v]) => `<a href="${escapeHtml(v)}" target="_blank" rel="noopener"><span class="k"></span>${escapeHtml(k)}</a>`).join("")}</div>`;
+      };
+      const memberCardHTML = (m, isCore) => {
+        const name = escapeHtml(m.Name || "");
+        const years = m.YearsActive ? escapeHtml(m.YearsActive) : "";
+        const roles = m.Roles ? escapeHtml(m.Roles) : "";
+        const instruments = m.Instruments ? escapeHtml(m.Instruments) : "";
+        const albums = Array.isArray(m.Albums) ? m.Albums.filter(Boolean) : [];
+        return `
+        <div style="border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.16);border-radius:18px;padding:12px 12px;"><div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between;"><div style="display:flex;flex-wrap:wrap;align-items:center;gap:10px;"><div style="font-weight:800;letter-spacing:.2px;">${name}</div>
               ${years ? `<span class="badge" style="opacity:.92;">${years}</span>` : ``}
             </div>
             ${isCore ? `<button class="bioBtn" type="button" data-member="${escapeHtml(m.Name || "")}">Biography</button>` : ``}
@@ -985,35 +1289,22 @@ const itemHTML = (a) => {
           ${albums.length ? `<div style="margin-top:10px;"><span style="opacity:.75;font-size:12px;letter-spacing:.9px;text-transform:uppercase;">Albums</span>${tagListOrDash(albums)}</div>` : ``}
         </div>
       `;
-    };
-
-    const renderDetail = (a) => {
-      if (!a) return;
-      const name = escapeHtml(a.Name || "—");
-      const sub = "";
-      const core = Array.isArray(a.CoreMembers) ? a.CoreMembers : [];
-      const nonCore = Array.isArray(a.NonCoreMembers) ? a.NonCoreMembers : [];
-
-      const origin = a.Origin ? [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(", ") : "";
-      const yearsActive = Array.isArray(a.YearsActive) ? a.YearsActive : [];
-      const genres = Array.isArray(a.Genres) ? a.Genres : [];
-      const albums = Array.isArray(a.NotableAlbums) ? a.NotableAlbums : [];
-      const songs = Array.isArray(a.SignatureSongs) ? a.SignatureSongs : [];
-      const achievements = Array.isArray(a.Achievements) ? a.Achievements : [];
-      const links = a.ExternalLinks || null;
-
-      el.detail.innerHTML = `
-        <div class="hero">
-          <div class="titleBlock" style="min-width:0">
-            <h2 class="artistTitle">${name}</h2>
-            <div class="subline">
-              <span>${badgeHTML(a)}</span>
-            </div>
-          </div>
-          <div class="chipRow">${chips(a)}</div>
-        </div>
-
-        <div class="grid">
+      };
+      const renderDetail = (a) => {
+        if (!a) return;
+        const name = escapeHtml(a.Name || "—");
+        const sub = "";
+        const core = Array.isArray(a.CoreMembers) ? a.CoreMembers : [];
+        const nonCore = Array.isArray(a.NonCoreMembers) ? a.NonCoreMembers : [];
+        const origin = a.Origin ? [a.Origin.City, a.Origin.Region, a.Origin.Country].filter(Boolean).join(", ") : "";
+        const yearsActive = Array.isArray(a.YearsActive) ? a.YearsActive : [];
+        const genres = Array.isArray(a.Genres) ? a.Genres : [];
+        const albums = Array.isArray(a.NotableAlbums) ? a.NotableAlbums : [];
+        const songs = Array.isArray(a.SignatureSongs) ? a.SignatureSongs : [];
+        const achievements = Array.isArray(a.Achievements) ? a.Achievements : [];
+        const links = a.ExternalLinks || null;
+        el.detail.innerHTML = `
+        <div class="hero"><div class="titleBlock" style="min-width:0"><h2 class="artistTitle">${name}</h2><div class="subline"><span>${badgeHTML(a)}</span></div></div><div class="chipRow">${chips(a)}</div></div><div class="grid">
           ${card("Overview", `<p>${a.Overview ? escapeHtml(a.Overview) : "—"}</p>`, "full")}
           ${card("Origin", `<p>${origin ? escapeHtml(origin) : "—"}</p>`, "third")}
           ${card("Years Active", yearsActive.length ? `<p>${escapeHtml(yearsActive.join(", "))}</p>` : `<p>—</p>`, "third")}
@@ -1026,232 +1317,169 @@ const itemHTML = (a) => {
           ${card("Non-core Members", nonCore.length ? nonCore.map(m => memberCardHTML(m, false)).join("<div style='height:10px'></div>") : "<p>—</p>", "full")}
         </div>
       `;
-    };
-
-    const findSelectedArtist = () => state.artists.find(a => safe(a.ArtistID || a.Name) === safe(state.selectedId));
-
-    const hasText = (v) => !!safe(v).trim();
-
-    const joinNonEmpty = (parts, sep) => parts.map(safe).map(s => s.trim()).filter(Boolean).join(sep);
-
-    const formatDateUS = (v) => {
-      const s = safe(v).trim();
-      const m = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
-      if (!m) return s;
-      return `${m[2]}/${m[3]}/${m[1]}`;
-    };
-
-
-    const renderBioOverlay = (artist, memberName) => {
-      const core = Array.isArray(artist.CoreMembers) ? artist.CoreMembers : [];
-      const member = core.find(m => normKey(m.Name) === normKey(memberName));
-      const bio = member && member.Bio ? member.Bio : null;
-
-      el.bioTitle.textContent = member ? safe(member.Name) : "Biography";
-      el.bioSub.textContent = joinNonEmpty([artist.Name, member && member.YearsActive ? `Active: ${member.YearsActive}` : ""], " • ");
-
-      const sections = [];
-
-      const birth = bio && bio.Birth ? bio.Birth : null;
-      const death = bio && bio.Death ? bio.Death : null;
-
-      const birthLine = birth ? joinNonEmpty([birth.Date ? formatDateUS(birth.Date) : birth.Year, birth.Place], " • ") : "";
-      const deathLine = death ? joinNonEmpty([death.Date ? formatDateUS(death.Date) : death.Year, death.Place, death.Cause], " • ") : "";
-
-      const cards = [];
-      if (hasText(birthLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Birth</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(birthLine)}</p></div>`);
-      if (hasText(deathLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Death</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(deathLine)}</p></div>`);
-      if (member && hasText(member.YearsActive)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Active Years</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(member.YearsActive)}</p></div>`);
-
-      if (bio && hasText(bio.Nationality)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Nationality</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Nationality)}</p></div>`);
-      if (bio && hasText(bio.Roles)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Roles</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Roles)}</p></div>`);
-      if (bio && hasText(bio.Instruments)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Instruments</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Instruments)}</p></div>`);
-
-      if (cards.length) sections.push(`<div class="bioGrid">${cards.join("")}</div>`);
-
-      const bioText = bio ? (bio.FullText || bio.Overview || bio.Biography || "") : "";
-      if (hasText(bioText)) {
-        sections.push(`
-          <div class="bioGrid">
-            <div class="bioCard wide">
-              <div class="bioBox">
-                <p class="bioText">${escapeHtml(bioText)}</p>
-              </div>
-            </div>
-          </div>
-        `);
-      }
-
-      const honours = bio && Array.isArray(bio.HonoursAndMilestones) ? bio.HonoursAndMilestones.filter(Boolean) : [];
-      if (honours.length) {
-        sections.push(`
-          <div class="bioGrid">
-            <div class="bioCard wide">
-              <h3><span class="accent"></span>Honours &amp; Milestones</h3>
-              <ul>${honours.map(h => `<li>${escapeHtml(typeof h === "string" ? h : (h.Title || h.Summary || JSON.stringify(h)))}</li>`).join("")}</ul>
-            </div>
-          </div>
-        `);
-      }
-
-      const facts = bio && Array.isArray(bio.FunFacts) ? bio.FunFacts.filter(Boolean) : [];
-      if (facts.length) {
-        sections.push(`
-          <div class="bioGrid">
-            <div class="bioCard wide">
-              <h3><span class="accent"></span>Fun Facts</h3>
-              <ul>${facts.map(f => `<li>${escapeHtml(typeof f === "string" ? f : (f.Fact || f.Text || JSON.stringify(f)))}</li>`).join("")}</ul>
-            </div>
-          </div>
-        `);
-      }
-
-      const quotes = bio && Array.isArray(bio.Quotes) ? bio.Quotes.filter(Boolean) : [];
-      if (quotes.length) {
-        sections.push(`
-          <div class="bioGrid">
-            <div class="bioCard wide">
-              <h3><span class="accent"></span>Quotes</h3>
-              <ul>${quotes.map(q => `<li>${escapeHtml(typeof q === "string" ? q : (q.Quote || q.Text || JSON.stringify(q)))}</li>`).join("")}</ul>
-            </div>
-          </div>
-        `);
-      }
-
-      const sources = bio && Array.isArray(bio.Sources) ? bio.Sources.filter(Boolean) : [];
-      if (sources.length) {
-        const links = sources.map((s, i) => {
-          const url = typeof s === "string" ? s : (s.Url || s.URL || "");
-          if (!url) return "";
-          const label = typeof s === "string" ? `Source ${i+1}` : (s.Title || s.Publisher || s.Name || `Source ${i+1}`);
-          return `<a href="${escapeHtml(url)}" target="_blank" rel="noopener"><span class="k"></span>${escapeHtml(label)}</a>`;
-        }).filter(Boolean).join("");
-        if (links) {
+      };
+      const findSelectedArtist = () => state.artists.find(a => safe(a.ArtistID || a.Name) === safe(state.selectedId));
+      const hasText = (v) => !!safe(v).trim();
+      const joinNonEmpty = (parts, sep) => parts.map(safe).map(s => s.trim()).filter(Boolean).join(sep);
+      const formatDateUS = (v) => {
+        const s = safe(v).trim();
+        const m = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+        if (!m) return s;
+        return `${m[2]}/${m[3]}/${m[1]}`;
+      };
+      const renderBioOverlay = (artist, memberName) => {
+        const core = Array.isArray(artist.CoreMembers) ? artist.CoreMembers : [];
+        const member = core.find(m => normKey(m.Name) === normKey(memberName));
+        const bio = member && member.Bio ? member.Bio : null;
+        el.bioTitle.textContent = member ? safe(member.Name) : "Biography";
+        el.bioSub.textContent = joinNonEmpty([artist.Name, member && member.YearsActive ? `Active: ${member.YearsActive}` : ""], " • ");
+        const sections = [];
+        const birth = bio && bio.Birth ? bio.Birth : null;
+        const death = bio && bio.Death ? bio.Death : null;
+        const birthLine = birth ? joinNonEmpty([birth.Date ? formatDateUS(birth.Date) : birth.Year, birth.Place], " • ") : "";
+        const deathLine = death ? joinNonEmpty([death.Date ? formatDateUS(death.Date) : death.Year, death.Place, death.Cause], " • ") : "";
+        const cards = [];
+        if (hasText(birthLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Birth</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(birthLine)}</p></div>`);
+        if (hasText(deathLine)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Death</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(deathLine)}</p></div>`);
+        if (member && hasText(member.YearsActive)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Active Years</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(member.YearsActive)}</p></div>`);
+        if (bio && hasText(bio.Nationality)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Nationality</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Nationality)}</p></div>`);
+        if (bio && hasText(bio.Roles)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Roles</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Roles)}</p></div>`);
+        if (bio && hasText(bio.Instruments)) cards.push(`<div class="bioCard"><h3><span class="accent"></span>Instruments</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.55">${escapeHtml(bio.Instruments)}</p></div>`);
+        if (cards.length) sections.push(`<div class="bioGrid">${cards.join("")}</div>`);
+        const bioText = bio ? (bio.FullText || bio.Overview || bio.Biography || "") : "";
+        if (hasText(bioText)) {
           sections.push(`
-            <div class="bioGrid">
-              <div class="bioCard wide">
-                <h3><span class="accent"></span>Sources</h3>
-                <div class="bioLinks">${links}</div>
-              </div>
-            </div>
-          `);
-        }
-      }
-
-      if (!sections.length) {
-        sections.push(`
-          <div class="bioGrid">
-            <div class="bioCard wide">
-              <h3><span class="accent"></span>Biography</h3>
-              <p style="margin:0;color:rgba(242,242,247,.78);line-height:1.65">No biography is available for this member yet.</p>
-            </div>
-          </div>
+          <div class="bioGrid"><div class="bioCard wide"><div class="bioBox"><p class="bioText">${escapeHtml(bioText)}</p></div></div></div>
         `);
-      }
-
-      el.bioBody.innerHTML = sections.join("");
-      el.bioBody.scrollTop = 0;
-    };
-
-    const openBio = (memberName) => {
-      const artist = findSelectedArtist();
-      if (!artist) return;
-      renderBioOverlay(artist, memberName);
-      el.bioOverlay.classList.add("show");
-      el.bioOverlay.setAttribute("aria-hidden", "false");
-      document.body.style.overflow = "hidden";
-    };
-
-    const closeBio = () => {
-      el.bioOverlay.classList.remove("show");
-      el.bioOverlay.setAttribute("aria-hidden", "true");
-      document.body.style.overflow = "";
-    };
-
-    const selectArtistById = (id) => {
-      state.selectedId = id;
-      const a = state.artists.find(x => safe(x.ArtistID || x.Name) === safe(id));
-      renderList();
-      if (el.detail) el.detail.scrollTop = 0;
-      if (a) { renderDetail(a); playArtistPreview(a); }
-    };
-
-    const onListActivate = (target) => {
-      const item = target.closest(".item");
-      if (!item) return;
-      const id = item.getAttribute("data-id");
-      selectArtistById(id);
-    };
-
-    const loadArtists = async () => {
-      const urls = RAW_ARTISTS_URLS.map(u => withCacheBust(u));
-      const chunks = await Promise.all(urls.map(async (u) => {
-        const res = await fetch(u, { cache: "no-store" });
-        if (!res.ok) throw new Error(`Failed to load ${u} (${res.status})`);
-        const data = await res.json();
-        return Array.isArray(data) ? data : (Array.isArray(data.Artists) ? data.Artists : []);
-      }));
-      return chunks.flat();
-    };
-
-    
-    window.addEventListener("pageshow", () => {
-      setTimeout(focusSearch, 0);
-      setTimeout(focusSearch, 120);
-    });
-
-    document.addEventListener("visibilitychange", () => {
-      if (!document.hidden) {
+        }
+        const honours = bio && Array.isArray(bio.HonoursAndMilestones) ? bio.HonoursAndMilestones.filter(Boolean) : [];
+        if (honours.length) {
+          sections.push(`
+          <div class="bioGrid"><div class="bioCard wide"><h3><span class="accent"></span>Honours &amp; Milestones</h3><ul>${honours.map(h => `<li>${escapeHtml(typeof h === "string" ? h : (h.Title || h.Summary || JSON.stringify(h)))}</li>`).join("")}</ul></div></div>
+        `);
+        }
+        const facts = bio && Array.isArray(bio.FunFacts) ? bio.FunFacts.filter(Boolean) : [];
+        if (facts.length) {
+          sections.push(`
+          <div class="bioGrid"><div class="bioCard wide"><h3><span class="accent"></span>Fun Facts</h3><ul>${facts.map(f => `<li>${escapeHtml(typeof f === "string" ? f : (f.Fact || f.Text || JSON.stringify(f)))}</li>`).join("")}</ul></div></div>
+        `);
+        }
+        const quotes = bio && Array.isArray(bio.Quotes) ? bio.Quotes.filter(Boolean) : [];
+        if (quotes.length) {
+          sections.push(`
+          <div class="bioGrid"><div class="bioCard wide"><h3><span class="accent"></span>Quotes</h3><ul>${quotes.map(q => `<li>${escapeHtml(typeof q === "string" ? q : (q.Quote || q.Text || JSON.stringify(q)))}</li>`).join("")}</ul></div></div>
+        `);
+        }
+        const sources = bio && Array.isArray(bio.Sources) ? bio.Sources.filter(Boolean) : [];
+        if (sources.length) {
+          const links = sources.map((s, i) => {
+            const url = typeof s === "string" ? s : (s.Url || s.URL || "");
+            if (!url) return "";
+            const label = typeof s === "string" ? `Source ${i+1}` : (s.Title || s.Publisher || s.Name || `Source ${i+1}`);
+            return `<a href="${escapeHtml(url)}" target="_blank" rel="noopener"><span class="k"></span>${escapeHtml(label)}</a>`;
+          }).filter(Boolean).join("");
+          if (links) {
+            sections.push(`
+            <div class="bioGrid"><div class="bioCard wide"><h3><span class="accent"></span>Sources</h3><div class="bioLinks">${links}</div></div></div>
+          `);
+          }
+        }
+        if (!sections.length) {
+          sections.push(`
+          <div class="bioGrid"><div class="bioCard wide"><h3><span class="accent"></span>Biography</h3><p style="margin:0;color:rgba(242,242,247,.78);line-height:1.65">No biography is available for this member yet.</p></div></div>
+        `);
+        }
+        el.bioBody.innerHTML = sections.join("");
+        el.bioBody.scrollTop = 0;
+      };
+      const openBio = (memberName) => {
+        const artist = findSelectedArtist();
+        if (!artist) return;
+        renderBioOverlay(artist, memberName);
+        el.bioOverlay.classList.add("show");
+        el.bioOverlay.setAttribute("aria-hidden", "false");
+        document.body.style.overflow = "hidden";
+      };
+      const closeBio = () => {
+        el.bioOverlay.classList.remove("show");
+        el.bioOverlay.setAttribute("aria-hidden", "true");
+        document.body.style.overflow = "";
+      };
+      const selectArtistById = (id) => {
+        state.selectedId = id;
+        const a = state.artists.find(x => safe(x.ArtistID || x.Name) === safe(id));
+        renderList();
+        if (el.detail) el.detail.scrollTop = 0;
+        if (a) {
+          renderDetail(a);
+          playArtistPreview(a);
+        }
+      };
+      const onListActivate = (target) => {
+        const item = target.closest(".item");
+        if (!item) return;
+        const id = item.getAttribute("data-id");
+        selectArtistById(id);
+      };
+      const loadArtists = async () => {
+        const urls = RAW_ARTISTS_URLS.map(u => withCacheBust(u));
+        const chunks = await Promise.all(urls.map(async (u) => {
+          const res = await fetch(u, {
+            cache: "no-store"
+          });
+          if (!res.ok) throw new Error(`Failed to load ${u} (${res.status})`);
+          const data = await res.json();
+          return Array.isArray(data) ? data : (Array.isArray(data.Artists) ? data.Artists : []);
+        }));
+        return chunks.flat();
+      };
+      window.addEventListener("pageshow", () => {
         setTimeout(focusSearch, 0);
         setTimeout(focusSearch, 120);
-      }
-    });
-
-const init = async () => {
-      try {
-        state.artists = (await loadArtists()).map(computeArtistIndex);
-        if (el.list && !vlist.enabled) vlist.init(el.list);
-        state.filtered = sortArtists(state.artists);
-        setCount();
-        renderList();
-} catch (e) {
-        el.count.textContent = "Failed to load artist data";
-        el.list.innerHTML = `<div class="empty" style="margin:10px"><h2>Error</h2><p>${escapeHtml(e && (e.message || e))}</p></div>`;
-      }
-
-      setTimeout(focusSearch, 0);
-      setTimeout(focusSearch, 120);
-    };
-
-
-    el.list.addEventListener("click", (e) => onListActivate(e.target));
-    el.list.addEventListener("keydown", (e) => {
-      if (e.key !== "Enter" && e.key !== " ") return;
-      const item = e.target.closest(".item");
-      if (!item) return;
-      e.preventDefault();
-      selectArtistById(item.getAttribute("data-id"));
-    });
-
-    el.search.addEventListener("input", () => renderList());
-
-    el.detail.addEventListener("click", (e) => {
-      const btn = e.target.closest(".bioBtn");
-      if (!btn) return;
-      const member = btn.getAttribute("data-member") || "";
-      if (member) openBio(member);
-    });
-
-    el.bioReturnBtn.addEventListener("click", closeBio);
-    el.bioOverlay.addEventListener("click", (e) => {
-      if (e.target === el.bioOverlay) closeBio();
-    });
-
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape" && el.bioOverlay.classList.contains("show")) closeBio();
-    });
-
-    init();
-  </script>
-</body>
+      });
+      document.addEventListener("visibilitychange", () => {
+        if (!document.hidden) {
+          setTimeout(focusSearch, 0);
+          setTimeout(focusSearch, 120);
+        }
+      });
+      const init = async () => {
+        try {
+          state.artists = (await loadArtists()).map(computeArtistIndex);
+          if (el.list && !vlist.enabled) vlist.init(el.list);
+          state.filtered = sortArtists(state.artists);
+          setCount();
+          renderList();
+        } catch (e) {
+          el.count.textContent = "Failed to load artist data";
+          el.list.innerHTML = `<div class="empty" style="margin:10px"><h2>Error</h2><p>${escapeHtml(e && (e.message || e))}</p></div>`;
+        }
+        setTimeout(focusSearch, 0);
+        setTimeout(focusSearch, 120);
+      };
+      el.list.addEventListener("click", (e) => onListActivate(e.target));
+      el.list.addEventListener("keydown", (e) => {
+        if (e.key !== "Enter" && e.key !== " ") return;
+        const item = e.target.closest(".item");
+        if (!item) return;
+        e.preventDefault();
+        selectArtistById(item.getAttribute("data-id"));
+      });
+      el.search.addEventListener("input", () => renderList());
+      el.detail.addEventListener("click", (e) => {
+        const btn = e.target.closest(".bioBtn");
+        if (!btn) return;
+        const member = btn.getAttribute("data-member") || "";
+        if (member) openBio(member);
+      });
+      el.bioReturnBtn.addEventListener("click", closeBio);
+      el.bioOverlay.addEventListener("click", (e) => {
+        if (e.target === el.bioOverlay) closeBio();
+      });
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && el.bioOverlay.classList.contains("show")) closeBio();
+      });
+      init();
+    </script>
+  </body>
 </html>
