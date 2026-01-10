@@ -6459,8 +6459,598 @@
     {
       "ArtistID": "the-allman-brothers-band",
       "Name": "The Allman Brothers Band",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "Jacksonville",
+        "State": "Florida",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1969–1976",
+        "1978–1982",
+        "1989–2014"
+      ],
+      "Genres": [
+        "Southern rock",
+        "Blues rock",
+        "Jam band",
+        "Rock"
+      ],
+      "Overview": "The Allman Brothers Band were a Jacksonville, Florida–formed rock institution whose blend of electric blues, jazz-minded improvisation, and country-soul songwriting effectively defined “Southern rock” as a living, breathing style rather than a marketing tag. Built around twin lead guitars and a two‑drummer engine, the group developed a concert language based on extended jams, dynamic tempo shifts, and conversational soloing—music that could stretch, tighten, and explode without losing its groove.\n\nAfter early studio releases established the lineup’s identity, the band’s national breakthrough came through its live reputation, crystallized on the landmark 1971 album At Fillmore East (recorded at the Fillmore East in New York). Producer Tom Dowd captured performances that turned long-form arrangements into narrative arcs, and the record became a touchstone for live rock albums and improvisational rock bands that followed.\n\nTragedy and reinvention became part of the Allmans’ story: founding guitarist Duane Allman died in a 1971 motorcycle crash, and founding bassist Berry Oakley died in a 1972 motorcycle crash. Yet the band continued, scoring major radio success in the early 1970s (notably through Dickey Betts’ songwriting) and later returning in different eras with evolving lineups and a renewed focus on live performance. Their legacy is cemented by a 1995 Rock & Roll Hall of Fame induction and a reputation for shows that treated blues and rock as a shared improvisational dialect.",
+      "NotableAlbums": [
+        {
+          "Title": "The Allman Brothers Band",
+          "Year": "1969",
+          "Notes": "Debut studio album that introduced the twin‑guitar/twin‑drummer framework and early staples; established the band’s blues-rock foundation."
+        },
+        {
+          "Title": "Idlewild South",
+          "Year": "1970",
+          "Notes": "Second studio album that sharpened the band’s writing-and-jam balance and expanded its national profile ahead of the live breakthrough."
+        },
+        {
+          "Title": "At Fillmore East",
+          "Year": "1971",
+          "Notes": "Breakthrough live album (recorded March 12–13, 1971; released July 1971) produced by Tom Dowd; widely regarded as one of rock’s definitive live records."
+        },
+        {
+          "Title": "Eat a Peach",
+          "Year": "1972",
+          "Notes": "Double album blending live Fillmore East performances with studio tracks; released after Duane Allman’s death and became a key statement of resilience."
+        },
+        {
+          "Title": "Brothers and Sisters",
+          "Year": "1973",
+          "Notes": "Commercial high-water mark featuring radio staples like “Ramblin’ Man” and “Jessica,” highlighting Dickey Betts’ expanded songwriting role."
+        }
+      ],
+      "SignatureSongs": [
+        "Whipping Post",
+        "Ramblin’ Man",
+        "Jessica",
+        "Midnight Rider",
+        "Melissa",
+        "Blue Sky"
+      ],
+      "Achievements": [
+        {
+          "Year": "1971",
+          "Title": "At Fillmore East becomes the band’s artistic and commercial breakthrough",
+          "Details": "The album captured the group’s improvisational live identity and is frequently cited among the greatest live rock recordings."
+        },
+        {
+          "Year": "1995",
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Details": "Recognized for influential live performance culture and a genre-defining fusion of blues, rock, and improvisation."
+        },
+        {
+          "Year": "2012",
+          "Title": "Recording Academy Lifetime Achievement Award",
+          "Details": "Honored for decades-long impact on American rock, blues-rock, and improvisational live music."
+        },
+        {
+          "Year": "2014",
+          "Title": "Final concerts at the Beacon Theatre",
+          "Details": "Capped a long-running modern era; the band’s last concert was recorded at the Beacon Theatre (New York City) on October 28, 2014."
+        }
+      ],
+      "Labels": [
+        "Capricorn",
+        "PolyGram",
+        "Arista",
+        "Epic",
+        "Sanctuary"
+      ],
+      "KeyFacts": [
+        "The original six-piece lineup paired twin lead guitars (Duane Allman and Dickey Betts) with twin drummers (Butch Trucks and Jaimoe), creating a wide rhythmic canvas for long-form improvisation.",
+        "Their live format fused electric blues language with jazz-like interaction and extended arrangements, influencing jam bands and generations of guitar-driven rock acts.",
+        "At Fillmore East (1971) remains a benchmark for live rock albums, while Brothers and Sisters (1973) delivered their biggest mainstream radio hits.",
+        "The band’s history is shaped by loss and reinvention: founding members Duane Allman (1971) and Berry Oakley (1972) died in separate motorcycle accidents, yet the group continued through multiple eras until 2014."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://allmanbrothersband.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Allman_Brothers_Band",
+        "AllMusic": "https://www.allmusic.com/artist/the-allman-brothers-band-mn0000745964",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/allman-brothers-band/"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Duane Allman",
+          "YearsActive": "1961–1971",
+          "Roles": [
+            "co-founder",
+            "guitarist",
+            "bandleader",
+            "slide guitar pioneer"
+          ],
+          "Instruments": [
+            "guitar",
+            "slide guitar",
+            "dobro"
+          ],
+          "Albums": [
+            "The Allman Brothers Band (1969)",
+            "Idlewild South (1970)",
+            "At Fillmore East (1971)",
+            "Eat a Peach (1972)"
+          ],
+          "Overview": "Founder and original leader whose slide and lead playing defined the band’s twin‑guitar voice and improvisational approach.",
+          "Bio": {
+            "FullName": "Howard Duane Allman",
+            "Birth": "1946-11-20",
+            "Death": "1971-10-29",
+            "Nationality": "American",
+            "Roles": "Guitarist; slide guitarist; band founder; bandleader; session musician",
+            "Instruments": "Guitar; slide guitar; dobro",
+            "AssociatedActs": [
+              "The Allman Brothers Band",
+              "Derek and the Dominos",
+              "Hour Glass"
+            ],
+            "Genres": [
+              "Blues rock",
+              "Rock",
+              "Southern rock",
+              "Jam band"
+            ],
+            "KeyAlbums": [
+              "At Fillmore East (1971)",
+              "Eat a Peach (1972)",
+              "The Allman Brothers Band (1969)",
+              "Idlewild South (1970)"
+            ],
+            "KeySongs": [
+              "Statesboro Blues (live staple)",
+              "Whipping Post (live staple)",
+              "In Memory of Elizabeth Reed (live staple)"
+            ],
+            "HonoursAndMilestones": [
+              "Co-founded The Allman Brothers Band in 1969 and set the template for their twin‑guitar sound and extended live improvisation.",
+              "Posthumously inducted into the Rock & Roll Hall of Fame as a member of The Allman Brothers Band (1995)."
+            ],
+            "FunFacts": [
+              "His slide tone and phrasing helped bridge Delta-blues vocabulary with rock volume and sustain, influencing generations of guitarists.",
+              "His short career left a disproportionately large footprint because many definitive performances were captured live."
+            ],
+            "FullText": "Howard Duane Allman—known universally as Duane Allman—was born November 20, 1946, in Nashville, Tennessee, and became one of the most influential guitar voices to emerge from American rock’s late‑1960s era. From the start, he approached the guitar as a conversational instrument, building solos from blues phrases but stretching them with jazz-like timing, dynamic control, and a singer’s sense of breath.\n\nDuane’s identity is inseparable from slide guitar, a technique he pushed into the mainstream without turning it into a novelty. He treated the slide as a second voice that could cry, whisper, and roar—capable of sustaining long notes with vocal-like vibrato while still snapping into rhythmic riffs when the groove demanded it.\n\nIn 1969 he formed The Allman Brothers Band in Jacksonville, Florida, bringing together a lineup designed for interplay: two lead guitarists, two drummers, and a rhythm section built to support both tight song structures and open-ended improvisation. Duane’s leadership wasn’t about dominating the mix; it was about directing traffic so the whole band could accelerate together.\n\nA key piece of the Allmans’ signature was the twin‑guitar relationship between Duane and Dickey Betts. Rather than strict “lead vs. rhythm” roles, the two guitarists traded melodies and harmonies, creating a front line that could sound like a horn section one moment and a blues duel the next.\n\nDuane’s reputation grew rapidly through the band’s relentless touring and its ability to turn live sets into immersive journeys. The approach crystallized on At Fillmore East, recorded in March 1971, where the band transformed long arrangements into carefully shaped arcs of tension and release.\n\nEven as the Allmans became known for their live magic, Duane was also admired as a broadly capable musician. He was comfortable in blues, rock, and soul contexts, and he carried a session player’s discipline into the band’s improvisation—listening closely, responding fast, and treating each performance as a collective event rather than a soloist’s showcase.\n\nDuane’s death on October 29, 1971, in a motorcycle crash in Macon, Georgia, abruptly ended a career that still felt like it was gathering speed. In a cruel twist, the band’s ascent had just reached national visibility, and the live album that defined them had only recently been released.\n\nThe music that followed—especially the double album Eat a Peach—became a document of both his artistry and the band’s will to continue. Duane’s guitar parts, captured onstage and in the studio, remained a central emotional anchor for the group’s next chapter.\n\nDuane’s influence endures because his playing combined emotional directness with technical imagination. He could make a single sustained note feel like a story, then pivot into rapid, articulate runs that never lost the blues feel beneath the speed.\n\nAlthough his time with the Allman Brothers was brief, it set the tone for how improvisational rock could sound when the band’s instincts were as sharp as its chops. Duane Allman remains a reference point for slide guitar in rock and for the idea that virtuosity can still serve the song and the groove first.",
+            "Sources": [
+              {
+                "Title": "Duane Allman",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Duane_Allman"
+              },
+              {
+                "Title": "Guitarist Duane Allman dies in motorcycle accident (1971)",
+                "Publisher": "HISTORY.com",
+                "Url": "https://www.history.com/this-day-in-history/october-29/guitarist-duane-allman-dies-in-motorcycle-accident"
+              },
+              {
+                "Title": "The Allman Brothers Band (inducted 1995)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/allman-brothers-band/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Gregg Allman",
+          "YearsActive": "1960–2017",
+          "Roles": [
+            "co-founder",
+            "lead vocalist",
+            "keyboardist",
+            "songwriter"
+          ],
+          "Instruments": [
+            "vocals",
+            "organ",
+            "keyboards",
+            "guitar"
+          ],
+          "Albums": [
+            "The Allman Brothers Band (1969)",
+            "Idlewild South (1970)",
+            "At Fillmore East (1971)",
+            "Eat a Peach (1972)",
+            "Brothers and Sisters (1973)"
+          ],
+          "Overview": "Co-founder whose soulful voice and Hammond organ work anchored the band’s blues identity and helped shape its songwriting core.",
+          "Bio": {
+            "FullName": "Gregory LeNoir Allman",
+            "Birth": "1947-12-08",
+            "Death": "2017-05-27",
+            "Nationality": "American",
+            "Roles": "Singer; songwriter; keyboardist; guitarist; band co-founder",
+            "Instruments": "Vocals; organ; keyboards; guitar",
+            "AssociatedActs": [
+              "The Allman Brothers Band",
+              "Hour Glass",
+              "Gregg Allman Band"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Blues rock",
+              "Rock",
+              "Gospel",
+              "Country"
+            ],
+            "KeyAlbums": [
+              "At Fillmore East (1971)",
+              "Eat a Peach (1972)",
+              "Brothers and Sisters (1973)"
+            ],
+            "KeySongs": [
+              "Whipping Post",
+              "Midnight Rider",
+              "Melissa"
+            ],
+            "HonoursAndMilestones": [
+              "Co-founded The Allman Brothers Band in 1969; his voice and organ defined the group’s blues-soul center.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Allman Brothers Band (1995)."
+            ],
+            "FunFacts": [
+              "Often associated with the Hammond organ’s gritty, gospel-tinged sound in rock contexts, balancing the band’s guitar-driven front line.",
+              "His songwriting voice helped keep the band’s improvisational concerts grounded in emotional, singable themes."
+            ],
+            "FullText": "Gregory LeNoir “Gregg” Allman was born December 8, 1947, in Nashville, Tennessee, and became one of American rock’s most recognizable voices—raw, soulful, and steeped in rhythm-and-blues tradition. As a singer, he carried the grain and phrasing of classic blues shouters, but he could also soften into a weary tenderness that made ballads feel lived-in rather than performed.\n\nGregg’s musicianship wasn’t limited to the microphone. His Hammond organ and keyboard work gave The Allman Brothers Band a thick, churchy undercurrent—sustaining chords behind guitar harmonies, answering solo lines with vocal-like swells, and helping the band move between blues changes and more expansive, modal improvisation.\n\nIn 1969 Gregg joined the lineup his brother Duane was assembling in Jacksonville, Florida. That arrival completed the band’s core identity: twin guitars out front, twin drummers underneath, and Gregg’s voice and organ providing a center that sounded equally at home in blues clubs, rock rooms, and long late‑night jams.\n\nAs a songwriter, Gregg helped define the Allmans’ emotional palette. He could write from a place of restlessness and longing, and his lyrics often felt like confessions delivered with the restraint of someone who has already learned that pain is part of the deal. Songs such as “Whipping Post” became both personal statements and vehicles for the band’s improvisational power.\n\nThe band’s early studio albums established their vocabulary, but Gregg’s art truly flourished in the live setting where his singing could ride the band’s expanding dynamics. On At Fillmore East, the Allmans sounded like a single organism—each musician listening, pushing, and pulling—while Gregg anchored the narrative with vocals that cut through the instrumental fireworks.\n\nThe death of Duane Allman in 1971 could have ended the group, but Gregg helped carry the band forward, turning grief into momentum rather than paralysis. That resolve is woven into the era around Eat a Peach, where the music functions as both memorial and mission statement: the band will keep playing, and it will keep evolving.\n\nThrough subsequent lineup changes and multiple band eras, Gregg remained a symbolic and practical center. His presence reminded audiences that the Allmans were not just a jam vehicle; they were a blues-rooted band with songs, stories, and a voice that could make the improvisation feel earned rather than indulgent.\n\nOutside the Allman Brothers, Gregg pursued a solo career that leaned into blues, soul, and country colors, but the Allmans remained the axis of his public identity. Even as trends shifted, his style stayed anchored in American roots music—unfashionable at times, but never inauthentic.\n\nGregg Allman died on May 27, 2017, leaving behind a body of work that helped define Southern rock and the broader idea of improvisational American rock as a tradition. His voice remains one of the genre’s most human instruments: flawed, brave, and unmistakably present.\n\nIn the Allman Brothers story, Gregg represents continuity—the thread that connects the early, hungry band to later eras of renewed fire. For listeners, his legacy is simple and lasting: when he sang, the songs sounded like truth, and when he played, the groove sounded like home.",
+            "Sources": [
+              {
+                "Title": "Gregg Allman",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Gregg_Allman"
+              },
+              {
+                "Title": "Gregg Allman Dead at 69",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/67352-gregg-allman-dead-at-69/"
+              },
+              {
+                "Title": "The Allman Brothers Band (inducted 1995)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/allman-brothers-band/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Dickey Betts",
+          "YearsActive": "1960–2018",
+          "Roles": [
+            "co-founder",
+            "guitarist",
+            "vocalist",
+            "songwriter"
+          ],
+          "Instruments": [
+            "guitar",
+            "vocals"
+          ],
+          "Albums": [
+            "The Allman Brothers Band (1969)",
+            "Idlewild South (1970)",
+            "At Fillmore East (1971)",
+            "Eat a Peach (1972)",
+            "Brothers and Sisters (1973)"
+          ],
+          "Overview": "Co-founding guitarist and songwriter whose melodic sensibility delivered the band’s biggest radio hits while preserving improvisational muscle.",
+          "Bio": {
+            "FullName": "Forrest Richard Betts",
+            "Birth": "1943-12-12",
+            "Death": "2024-04-18",
+            "Nationality": "American",
+            "Roles": "Guitarist; vocalist; songwriter; band co-founder",
+            "Instruments": "Guitar; vocals",
+            "AssociatedActs": [
+              "The Allman Brothers Band",
+              "Dickey Betts & Great Southern"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Rock",
+              "Country rock",
+              "Blues rock",
+              "Jam band"
+            ],
+            "KeyAlbums": [
+              "Brothers and Sisters (1973)",
+              "At Fillmore East (1971)",
+              "Eat a Peach (1972)"
+            ],
+            "KeySongs": [
+              "Ramblin’ Man",
+              "Jessica",
+              "Blue Sky",
+              "In Memory of Elizabeth Reed"
+            ],
+            "HonoursAndMilestones": [
+              "Wrote and sang “Ramblin’ Man,” the band’s biggest charting hit, and composed enduring instrumentals and set pieces such as “Jessica.”",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Allman Brothers Band (1995)."
+            ],
+            "FunFacts": [
+              "Helped define the Allmans’ dual-guitar identity by pairing blues phrasing with lyrical, major‑key melodies and harmonized leads.",
+              "His tunes often became long-form live vehicles, showing how radio-friendly writing could coexist with improvisational depth."
+            ],
+            "FullText": "Forrest Richard “Dickey” Betts was born December 12, 1943, in West Palm Beach, Florida, and became one of the defining guitarists and songwriters of Southern rock. Where Duane Allman often brought a fierce blues intensity, Betts added a bright melodic imagination—an ability to turn a riff into a singable line and a solo into a memorable theme.\n\nAs a co-founder of The Allman Brothers Band in 1969, Betts helped build a front line that functioned like a two‑guitar orchestra. The band’s sound depended on conversation: harmonized leads, trading phrases, and shifting roles so that either guitarist could steer the music while the other colored the edges.\n\nBetts’ musical identity was rooted in blues and rock, but his phrasing often leaned toward country and folk melody, creating a distinctive balance. That balance mattered because it kept the Allmans from becoming only a heavy blues band; the music could soar, smile, and open into major-key sunlight without losing its grit.\n\nHis composing and singing brought the band its most visible mainstream success. “Ramblin’ Man” became their signature radio hit, while pieces like “Jessica” and “Blue Sky” helped define the optimistic, open-road side of the Southern rock imagination—songs that could still stretch into extended live improvisations.\n\nBetts also wrote tunes that became central to the band’s jam vocabulary, including “In Memory of Elizabeth Reed,” a piece that invited long, lyrical solos over a groove that felt both relaxed and relentless. In concert, his songs became frameworks for collective storytelling rather than fixed arrangements.\n\nAfter Duane Allman’s death in 1971, Betts’ leadership and songwriting presence grew in importance. He helped the group continue not by imitating what was lost, but by leaning into a different strength: melody, structure, and a sense of uplift that could coexist with the band’s blues heaviness.\n\nAcross the band’s multiple eras, Betts’ guitar voice remained instantly recognizable—warm tone, articulate runs, and a knack for writing lines that sounded inevitable, as if they had always existed. Even when the band’s personnel shifted, his playing connected the live shows back to the original blueprint.\n\nBetts eventually left the group permanently in 2000, but his role in the Allman Brothers legacy remained foundational. His songs stayed in the repertoire, and his approach to harmonized lead guitar became a core vocabulary for countless Southern rock and jam-influenced players.\n\nHe died on April 18, 2024, at age 80, closing the chapter on one of the genre’s principal architects. Tributes emphasized not only his songwriting, but the way his guitar lines seemed to carry both joy and discipline—an art of making hard work sound effortless.\n\nFor listeners, Dickey Betts represents the Allman Brothers at their most expansive: blues roots, yes, but also melody, movement, and the feeling of a long drive with the windows down. His writing proved that improvisational bands could still craft songs that lived in the culture.",
+            "Sources": [
+              {
+                "Title": "Dickey Betts",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Dickey_Betts"
+              },
+              {
+                "Title": "Dickey Betts dies at 80 (news report)",
+                "Publisher": "AP News",
+                "Url": "https://apnews.com/article/fe2e01a963d446538b2f10fd134165e8"
+              },
+              {
+                "Title": "The Allman Brothers Band statement on Dickey Betts",
+                "Publisher": "Allman Brothers Band (Official Site)",
+                "Url": "https://allmanbrothersband.com/forrest-richard-dickey-betts-december-12-1943-april-17-2024/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Berry Oakley",
+          "YearsActive": "1964–1972",
+          "Roles": [
+            "co-founder",
+            "bassist"
+          ],
+          "Instruments": [
+            "bass guitar",
+            "guitar",
+            "vocals"
+          ],
+          "Albums": [
+            "The Allman Brothers Band (1969)",
+            "Idlewild South (1970)",
+            "At Fillmore East (1971)",
+            "Eat a Peach (1972)"
+          ],
+          "Overview": "Founding bassist whose melodic, singing lines were crucial to the band’s live arrangements and harmonic motion.",
+          "Bio": {
+            "FullName": "Raymond Berry Oakley III",
+            "Birth": "1948-04-04",
+            "Death": "1972-11-11",
+            "Nationality": "American",
+            "Roles": "Bassist; band co-founder",
+            "Instruments": "Bass guitar; guitar; vocals",
+            "AssociatedActs": [
+              "The Allman Brothers Band"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Blues rock",
+              "Jam band",
+              "Rock"
+            ],
+            "KeyAlbums": [
+              "At Fillmore East (1971)",
+              "Eat a Peach (1972)",
+              "Idlewild South (1970)"
+            ],
+            "KeySongs": [
+              "Whipping Post (live)",
+              "In Memory of Elizabeth Reed (live)",
+              "Mountain Jam (live)"
+            ],
+            "HonoursAndMilestones": [
+              "Co-founded The Allman Brothers Band and helped define its live sound with long, melodic bass runs that functioned like a second lead voice.",
+              "Posthumously inducted into the Rock & Roll Hall of Fame as a member of The Allman Brothers Band (1995)."
+            ],
+            "FunFacts": [
+              "Known for bass lines that moved melodically through chord changes, often adding counter-melodies beneath the guitars.",
+              "His playing helped make long improvisations feel composed by providing thematic “hooks” inside jams."
+            ],
+            "FullText": "Raymond Berry Oakley III—known as Berry Oakley—was born April 4, 1948, in Chicago, Illinois, and became one of the most distinctive bass voices in improvisational rock. In The Allman Brothers Band, his role went far beyond “holding down the low end”: he helped shape the band’s melodic identity from the inside out.\n\nOakley’s bass approach was famously vocal. He often played long, lyrical runs that acted as counter-melodies to the guitars, turning the rhythm section into an additional lead voice. That style mattered in a band built for extended improvisation, because it gave the jams internal structure and direction.\n\nAs a founding member in 1969, Oakley helped cement the Allmans’ rhythmic power with drummer partners Butch Trucks and Jaimoe. With two drummers filling the stereo field, the bass became a navigator—connecting grooves to chord movement and keeping the music grounded even when solos grew expansive.\n\nOn early studio recordings, his lines already hinted at the band’s live language: phrases that climb, dip, and resolve like sung melodies. But the full scale of his contribution became most apparent in concert recordings, where the group’s long-form arrangements allowed him to develop themes over minutes rather than measures.\n\nAt Fillmore East became the enduring showcase for that approach. In that setting, Oakley’s playing isn’t just supportive; it’s narrative. He moves the harmony forward, pushes momentum during crescendos, and locks into the drummers in ways that make the band’s swing feel both heavy and agile.\n\nAfter the death of Duane Allman in 1971, Oakley remained part of the band’s effort to continue, and his bass lines helped keep the sound cohesive as the group processed loss and changed shape. The music around Eat a Peach captured both the ferocity of the live band and the bittersweet sense of transition.\n\nOakley died on November 11, 1972, in a motorcycle accident in Macon, Georgia, only 24 years old. Like Duane’s earlier death, the loss underscored how quickly the original era of the Allmans was being rewritten by tragedy.\n\nEven with a short career, his influence persists because his concept of bass in a jam-oriented rock band was unusually melodic and fearless. He treated the instrument as a storyteller—capable of lyricism, propulsion, and harmonic imagination.\n\nPlayers in blues-rock and jam scenes often cite Oakley’s ability to balance groove with melody as a template: be solid enough to anchor the band, but creative enough to contribute to the conversation on equal footing.\n\nWithin The Allman Brothers Band mythology, Berry Oakley represents the heart of the early ensemble sound—an engine room musician whose lines still feel like part of the band’s signature voice rather than a background layer.",
+            "Sources": [
+              {
+                "Title": "Berry Oakley",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Berry_Oakley"
+              },
+              {
+                "Title": "The Allman Brothers Band (inducted 1995)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/allman-brothers-band/"
+              },
+              {
+                "Title": "History of the band (context on founding lineup)",
+                "Publisher": "The Big House Museum",
+                "Url": "https://thebighousemuseum.com/the-band/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Butch Trucks",
+          "YearsActive": "1964–2017",
+          "Roles": [
+            "co-founder",
+            "drummer",
+            "bandleader"
+          ],
+          "Instruments": [
+            "drums"
+          ],
+          "Albums": [
+            "The Allman Brothers Band (1969)",
+            "Idlewild South (1970)",
+            "At Fillmore East (1971)",
+            "Eat a Peach (1972)",
+            "Brothers and Sisters (1973)"
+          ],
+          "Overview": "Founding drummer who provided the band’s hard-driving foundation and helped shape the two‑drummer dynamic in rock.",
+          "Bio": {
+            "FullName": "Claude Hudson Trucks",
+            "Birth": "1947-05-11",
+            "Death": "2017-01-24",
+            "Nationality": "American",
+            "Roles": "Drummer; band co-founder",
+            "Instruments": "Drums",
+            "AssociatedActs": [
+              "The Allman Brothers Band"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Blues rock",
+              "Jam band",
+              "Rock"
+            ],
+            "KeyAlbums": [
+              "At Fillmore East (1971)",
+              "Eat a Peach (1972)",
+              "Brothers and Sisters (1973)"
+            ],
+            "KeySongs": [
+              "Whipping Post (live)",
+              "In Memory of Elizabeth Reed (live)",
+              "One Way Out (live staple)"
+            ],
+            "HonoursAndMilestones": [
+              "Co-founded The Allman Brothers Band and helped popularize the twin‑drummer setup as a core rock-band texture.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Allman Brothers Band (1995)."
+            ],
+            "FunFacts": [
+              "The two‑drummer approach allowed shifting accents and polyrhythmic feel while keeping the groove heavy and danceable.",
+              "His interplay with Jaimoe gave the band a rhythmic “push-pull” that made long jams feel alive."
+            ],
+            "FullText": "Claude Hudson “Butch” Trucks was born May 11, 1947, in Jacksonville, Florida, and became one of rock’s most influential drummers through his work with The Allman Brothers Band. As a founding member, he helped create a rhythmic template that countless improvisational rock groups would borrow: two drummers, not for spectacle, but for feel.\n\nTrucks’ drumming style combined power with clarity. In a band that could stretch a tune into a long arc, he had to be both timekeeper and architect—building crescendos, signaling transitions, and maintaining forward momentum even when multiple soloists were exploring simultaneously.\n\nThe Allmans’ two‑drummer approach relied on division of labor without rigidity. Trucks often supplied the hard-driving spine—snare backbeats, kick-drum authority—while leaving space for color and syncopation from Jaimoe. Together they created a stereo field of rhythm that made the band sound larger than its personnel.\n\nThat engine is central to the live recordings that define the Allman Brothers legacy. On At Fillmore East, Trucks’ sense of pacing allows the band to stretch without drifting: sections expand, but the groove never loses its center of gravity.\n\nTrucks also played a bandleader’s role within the rhythm section, coordinating with bass lines and cueing shifts that let jams evolve organically. The effect is that improvisations feel composed in real time—an illusion that depends on deep listening and disciplined time.\n\nAcross studio and live eras, he helped the Allmans maintain a distinctive swing. Even when the music hit hard, it often carried a rolling, almost danceable pulse that separated the band from straighter, more rigid hard-rock contemporaries.\n\nThrough lineup changes and multiple reunions, Trucks remained a symbol of continuity. His drumming connected later eras to the original blueprint, ensuring that—even with new guitarists and new songs—the band’s heartbeat stayed recognizable.\n\nTrucks was inducted into the Rock & Roll Hall of Fame with the band in 1995, a formal recognition of what audiences already understood: the Allman Brothers’ greatness wasn’t only guitar heroics—it was the engine that made those guitars fly.\n\nHe died on January 24, 2017. By then, the band’s live culture—especially the idea that a rock show could be improvisational, dynamic, and still deeply grooving—had become part of the broader American music landscape.\n\nButch Trucks’ legacy lives in the way modern jam and roots-rock drummers think about space, intensity, and collective timing. He proved that rhythm can be both foundation and narrative—and that a drummer can shape the story without ever stepping out of the pocket.",
+            "Sources": [
+              {
+                "Title": "Butch Trucks",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Butch_Trucks"
+              },
+              {
+                "Title": "The Allman Brothers Band (inducted 1995)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/allman-brothers-band/"
+              },
+              {
+                "Title": "Butch Trucks obituary",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/71168-allman-brothers-butch-trucks-dead-after-shooting-himself-in-front-of-his-wife/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jaimoe",
+          "YearsActive": "1966–present",
+          "Roles": [
+            "co-founder",
+            "drummer",
+            "percussionist"
+          ],
+          "Instruments": [
+            "drums",
+            "percussion"
+          ],
+          "Albums": [
+            "The Allman Brothers Band (1969)",
+            "Idlewild South (1970)",
+            "At Fillmore East (1971)",
+            "Eat a Peach (1972)",
+            "Brothers and Sisters (1973)"
+          ],
+          "Overview": "Founding drummer/percussionist whose jazz and R&B background shaped the band’s improvisational feel and rhythmic color.",
+          "Bio": {
+            "FullName": "John Lee Johnson (Jai Johanny Johanson)",
+            "Birth": "1944-07-08",
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Drummer; percussionist; band co-founder",
+            "Instruments": "Drums; percussion",
+            "AssociatedActs": [
+              "The Allman Brothers Band"
+            ],
+            "Genres": [
+              "Southern rock",
+              "Blues rock",
+              "Jam band",
+              "Jazz"
+            ],
+            "KeyAlbums": [
+              "At Fillmore East (1971)",
+              "Eat a Peach (1972)",
+              "Brothers and Sisters (1973)"
+            ],
+            "KeySongs": [
+              "Whipping Post (live)",
+              "In Memory of Elizabeth Reed (live)",
+              "You Don’t Love Me (live staple)"
+            ],
+            "HonoursAndMilestones": [
+              "Co-founded The Allman Brothers Band; credited with bringing jazz sensibility that encouraged open-ended improvisation.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Allman Brothers Band (1995)."
+            ],
+            "FunFacts": [
+              "Known for blending groove-first R&B time with jazz phrasing, creating rhythmic “conversation” rather than straight backbeat repetition.",
+              "His percussion colors helped the band shift smoothly between blues shuffles, swinging rock, and extended modal jams."
+            ],
+            "FullText": "John Lee Johnson—widely known as Jaimoe (and as Jai Johanny Johanson)—was born July 8, 1944, in Ocean Springs, Mississippi, and became an essential rhythmic architect of The Allman Brothers Band. His background in R&B and soul, combined with a deep love of jazz, gave the Allmans a rhythmic palette that could swing, shuffle, and stretch without losing the pocket.\n\nBefore the Allman Brothers, Jaimoe worked in the broader Southern soul circuit, absorbing the discipline of groove-based music where time has to feel inevitable. That grounding mattered when the Allmans began building long improvisations: no matter how far the band traveled, the rhythm had to stay believable.\n\nWhen Duane Allman began assembling a new group in early 1969, Jaimoe was among the earliest recruits. The band’s eventual identity depended on his ability to add color without clutter—percussion textures, cymbal shading, and syncopations that made the groove breathe.\n\nIn the famous two‑drummer setup, Jaimoe’s role was often the painter while Butch Trucks supplied the hard-driving frame. The division wasn’t strict, but the effect was clear: the rhythm section could carry both muscle and nuance at the same time, giving the guitars a wide runway for harmony and improvisation.\n\nJaimoe’s jazz sensibility encouraged the band’s conversational approach. Rather than repeating patterns mechanically, he reacted to melodic ideas—answering guitar lines with accents, pushing a phrase forward, or easing the dynamics so a solo could turn inward before building again.\n\nThat approach is vivid on the group’s defining live recordings. On At Fillmore East, the drummers don’t merely keep time; they guide it, shaping long crescendos and making transitions feel like natural evolution rather than abrupt changes.\n\nBecause the Allmans’ concerts were built around listening, Jaimoe’s attention to detail mattered. Small shifts in ride-cymbal feel or snare placement could steer the entire band into a different emotional lane—more blues grit, more jazz swing, more rock drive—without anyone saying a word.\n\nAcross decades and lineup changes, Jaimoe remained a link to the founding sound. Even as guitar chairs rotated and new material entered the set, his feel helped keep the band’s rhythmic identity recognizable: loose enough to swing, tight enough to hit hard.\n\nHis work is frequently cited as proof that “jam band” playing isn’t only about solo length—it’s about ensemble intelligence. Jaimoe showed that the most powerful improvisation is often the kind that stays rooted in groove and mutual attention.\n\nAs the last surviving original member after later losses, Jaimoe’s role has come to symbolize the band’s origins: an R&B-and-jazz-informed rhythmic heart that made Southern rock not just loud, but deeply musical.",
+            "Sources": [
+              {
+                "Title": "Jaimoe",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jaimoe"
+              },
+              {
+                "Title": "History of the band (founding lineup context)",
+                "Publisher": "The Big House Museum",
+                "Url": "https://thebighousemuseum.com/the-band/"
+              },
+              {
+                "Title": "The Allman Brothers Band (inducted 1995)",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/allman-brothers-band/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Chuck Leavell",
+          "YearsActive": "1972–1976",
+          "Roles": [
+            "keyboardist",
+            "pianist"
+          ],
+          "Instruments": [
+            "piano",
+            "keyboards"
+          ],
+          "Overview": "Joined in the early 1970s and became the band’s principal keyboard voice in a key post‑Duane era. His piano added harmonic clarity and rhythmic drive, complementing the twin-drum groove without crowding the guitars. He later became widely known for long-term work with The Rolling Stones."
+        },
+        {
+          "Name": "Warren Haynes",
+          "YearsActive": "1989–1997, 2000–2014",
+          "Roles": [
+            "guitarist",
+            "singer"
+          ],
+          "Instruments": [
+            "guitar",
+            "vocals"
+          ],
+          "Overview": "A cornerstone of the band’s modern era, bringing a thick blues tone and commanding soloing to late‑period live shows. He helped anchor the group’s lengthy Beacon Theatre runs and broadened the repertoire with new material and deep blues choices. Outside the Allmans, he is also known for Gov’t Mule and The Dead."
+        },
+        {
+          "Name": "Derek Trucks",
+          "YearsActive": "1999–2014",
+          "Roles": [
+            "guitarist"
+          ],
+          "Instruments": [
+            "guitar",
+            "slide guitar"
+          ],
+          "Overview": "Joined as a young guitarist and quickly became a defining voice in the 2000s lineup. His fluid slide technique and jazz-influenced phrasing expanded the band’s improvisational vocabulary while respecting the Duane-era language. He later co-led the Tedeschi Trucks Band and became one of the era’s most acclaimed slide players."
+        }
+      ]
     },
     {
       "ArtistID": "ambrosia",
