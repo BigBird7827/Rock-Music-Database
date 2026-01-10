@@ -2663,27 +2663,531 @@
     {
       "ArtistID": "the-zombies",
       "Name": "The Zombies",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "St Albans",
+        "Region": "Hertfordshire, England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1962–1967",
+        "1968",
+        "1989–1991",
+        "2000–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Pop",
+        "British Invasion",
+        "Beat",
+        "Baroque Pop",
+        "Psychedelic Pop"
+      ],
+      "Labels": [
+        "Decca",
+        "Parrot",
+        "Date",
+        "CBS",
+        "Ode",
+        "Big Beat",
+        "Ace",
+        "Rhino",
+        "Cooking Vinyl"
+      ],
+      "Overview": "The Zombies are an English rock band formed in St Albans, Hertfordshire, in the early 1960s, celebrated for pairing British Invasion immediacy with unusually sophisticated songwriting and arrangements. With Colin Blunstone’s distinctive lead voice, Rod Argent’s jazz‑tinged keyboards, and tight ensemble playing, they crafted a sound that could move from R&B‑rooted beat music to elegant, harmony‑rich pop without losing clarity or drive.\n\nThey broke internationally with Argent’s debut single “She’s Not There” (1964), followed by the U.S. hit “Tell Her No” (1965). While their first album *Begin Here* mixed originals with rhythm‑and‑blues covers, the band’s ambition peaked with *Odessey and Oracle* (recorded 1967; released 1968), a meticulously arranged album that later became regarded as a classic of the era. In an unusual twist, “Time of the Season” rose to major U.S. chart success in early 1969 after the original band had already wound down, turning their most famous late‑period hit into a delayed breakthrough.\n\nOver the following decades, the Zombies’ reputation steadily grew through reissues, musician advocacy, and the enduring presence of their singles on radio and in film/TV. The band returned in various forms for touring and later studio work centered on Argent and Blunstone, culminating in major recognition with their induction into the Rock & Roll Hall of Fame (2019). Their catalog remains a reference point for melodic pop craftsmanship—where memorable hooks, lyrical detail, and harmonic sophistication reinforce each other rather than compete.",
+      "NotableAlbums": [
+        {
+          "Title": "Begin Here",
+          "Year": 1965,
+          "Notes": "Debut LP; combines R&B/beat covers with early originals including “She’s Not There.”"
+        },
+        {
+          "Title": "Odessey and Oracle",
+          "Year": 1968,
+          "Notes": "Landmark studio album recorded in 1967; later acclaimed as a 1960s pop/psychedelic classic."
+        },
+        {
+          "Title": "Still Got That Hunger",
+          "Year": 2015,
+          "Notes": "Later‑era studio album led by Argent and Blunstone, praised for retaining the classic melodic/harmony approach."
+        },
+        {
+          "Title": "Different Game",
+          "Year": 2023,
+          "Notes": "Final studio album featuring Rod Argent before his retirement from touring; modern chapter of the Zombies’ sound."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "She's Not There",
+          "Year": 1964,
+          "Notes": "Breakthrough debut single written by Rod Argent; major U.S. hit."
+        },
+        {
+          "Title": "Tell Her No",
+          "Year": 1965,
+          "Notes": "Second major U.S. hit single written by Rod Argent."
+        },
+        {
+          "Title": "Time of the Season",
+          "Year": 1968,
+          "Notes": "Late‑era hit from *Odessey and Oracle*; became a major U.S. success in 1969."
+        },
+        {
+          "Title": "This Will Be Our Year",
+          "Year": 1968,
+          "Notes": "Fan‑favorite from *Odessey and Oracle*, written by Chris White."
+        },
+        {
+          "Title": "Care of Cell 44",
+          "Year": 1967,
+          "Notes": "Album‑opening track from *Odessey and Oracle*; emblematic of the band’s melodic craft."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 2019,
+          "Title": "Inducted into the Rock & Roll Hall of Fame",
+          "Description": "The Zombies were inducted into the Rock & Roll Hall of Fame, formalizing their long‑recognized influence and catalog."
+        },
+        {
+          "Year": 1964,
+          "Title": "“She’s Not There” becomes a major international hit",
+          "Description": "The debut single broke the band globally and established their signature keyboard‑led pop sound."
+        },
+        {
+          "Year": 1969,
+          "Title": "“Time of the Season” reaches major U.S. chart success",
+          "Description": "The song became a surprise U.S. hit more than a year after release, helping turn *Odessey and Oracle* into a long‑term classic."
+        },
+        {
+          "Year": 2016,
+          "Title": "“She’s Not There” inducted into the Grammy Hall of Fame",
+          "Description": "The breakthrough single was recognized for lasting significance as a recorded work."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in St Albans, Hertfordshire, England, in the early 1960s by Rod Argent, Colin Blunstone, Paul Atkinson, Chris White, and Hugh Grundy.",
+        "Best‑known hits include “She’s Not There,” “Tell Her No,” and “Time of the Season.”",
+        "*Odessey and Oracle* (1968) was recorded in 1967 and is widely regarded as the band’s defining album.",
+        "“Time of the Season” became a major U.S. hit in 1969 after the band’s initial run had largely ended.",
+        "Inducted into the Rock & Roll Hall of Fame in 2019."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.thezombiesmusic.com/home",
+        "AllMusic": "https://www.allmusic.com/artist/the-zombies-mn0000582313",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/zombies/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Zombies"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Rod Argent",
+          "Roles": "Founding member; keyboardist; songwriter; occasional lead vocals",
+          "Instruments": "Keyboards; piano; organ; vocals",
+          "YearsActive": "1961–1967; 1989–present",
+          "Albums": [
+            {
+              "Title": "Begin Here",
+              "Year": 1965
+            },
+            {
+              "Title": "Odessey and Oracle",
+              "Year": 1968
+            },
+            {
+              "Title": "Still Got That Hunger",
+              "Year": 2015
+            },
+            {
+              "Title": "Different Game",
+              "Year": 2023
+            }
+          ],
+          "Bio": {
+            "BioID": "the-zombies-rodney-terence-argent",
+            "ArtistID": "the-zombies",
+            "FullName": "Rodney Terence Argent",
+            "Birth": {
+              "Date": "1945-06-14",
+              "Place": "St Albans, Hertfordshire, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Keyboardist; singer; songwriter; bandleader",
+            "Instruments": "Keyboards; piano; organ; vocals",
+            "FullText": "Rod Argent (Rodney Terence Argent, born June 14, 1945, in St Albans, Hertfordshire) is the Zombies’ founding keyboardist, a principal songwriter, and one of the defining keyboard voices of the British Invasion era. His early style blended jazz and R&B instincts with a crisp pop sense, giving the band a sound that stood apart from guitar‑forward contemporaries and emphasizing melodic hooks, layered harmony vocals, and distinctive electric‑piano textures.\n\nGrowing up in Hertfordshire, Argent trained his ears on both American rhythm‑and‑blues records and the musical discipline of school ensembles. In St Albans he connected with guitarist Paul Atkinson and drummer Hugh Grundy, and the three began playing together before recruiting bassist Chris White and vocalist Colin Blunstone—forming the lineup that would become The Zombies.\n\nArgent’s first major breakthrough came almost immediately once the group began recording: he wrote “She’s Not There,” the band’s debut single, which became a transatlantic hit and established their signature mix of minor‑key tension, jazzy keyboard phrasing, and Blunstone’s airy vocal tone. He followed with “Tell Her No,” another major U.S. hit that reinforced the Zombies’ knack for crafting sophisticated pop within the tight frame of mid‑’60s singles.\n\nAs the band developed, Argent and White evolved into a complementary writing partnership—Argent often supplying the harmonic and melodic architecture, White frequently bringing lyrical specificity and narrative detail. That balance is central to the Zombies’ most celebrated work, *Odessey and Oracle*, where Argent’s songs (“Care of Cell 44,” “Time of the Season”) sit alongside White’s (“This Will Be Our Year,” “Butcher’s Tale”), all arranged with rich keyboards, counter‑melodies, and stacked harmonies that feel closer to chamber‑pop craft than standard beat‑group templates.\n\n*Odessey and Oracle* was recorded in 1967 and released in 1968, but its masterpiece status was recognized slowly. The band’s momentum had already been undermined by label changes, uneven promotion, and the increasingly difficult economics of touring; by the time “Time of the Season” rose to major U.S. chart success in early 1969, the original Zombies had effectively ended their run, turning a classic record into a delayed victory lap.\n\nAfter the first Zombies era, Argent kept moving forward as a songwriter and bandleader. He formed the progressive‑leaning rock group Argent, which carried his melodic instincts into the album‑rock world and scored a durable hit with “Hold Your Head Up.” The experience deepened his interest in extended arrangements and performance dynamics while keeping his trademark keyboard melodic clarity at the center.\n\nEven during periods when the Zombies name was inactive, Argent’s compositions kept the band’s catalog alive: songs like “She’s Not There,” “Tell Her No,” and “Time of the Season” remained staples of radio, compilations, and film/TV syncs, often serving as a gateway for new listeners back into the deeper cuts of *Odessey and Oracle* and the band’s earlier R&B‑rooted recordings.\n\nIn the 2000s and 2010s, Argent re‑activated the Zombies as a touring and recording unit built around the classic identity of the band—especially the Argent/Blunstone front line—while bringing in trusted collaborators to support the live show. A major milestone arrived when the Zombies were inducted into the Rock & Roll Hall of Fame (2019), a recognition that cemented Argent’s role not only as a performer but as an architect of one of the era’s most refined pop catalogs.\n\nArgent continued to write and record with the band into the modern era, including the 2015 studio album *Still Got That Hunger* and the 2023 album *Different Game*, projects that leaned into the Zombies’ hallmark blend of melody, harmony, and keyboard color while updating the production and lyrical perspective for a later chapter.\n\nIn 2023, Argent announced his retirement from touring following a stroke, marking a significant transition for the live version of the band. Even stepping back from the road, he remains closely identified with the Zombies’ sound and songwriting legacy—an artist whose best work proves that pop craft and musical sophistication can be the same thing.",
+            "HonoursAndMilestones": [
+              "Wrote the Zombies’ debut hit “She’s Not There” (1964) and later “Time of the Season” (1968/69), two of the band’s signature songs.",
+              "Co‑created *Odessey and Oracle* (recorded 1967; released 1968), widely regarded as the Zombies’ landmark album.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Zombies (2019).",
+              "Fronted and wrote for the post‑Zombies band Argent, scoring the hit “Hold Your Head Up” (1972)."
+            ],
+            "FunFacts": [
+              "“Time of the Season” became a major U.S. hit after the original Zombies had already ended their initial run.",
+              "Argent announced his retirement from touring in 2023 following a stroke."
+            ],
+            "Sources": [
+              {
+                "Title": "Rod Argent — artist profile (birthplace/date, career overview)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/rod-argent-mn0000291826"
+              },
+              {
+                "Title": "The Zombies — Inducted 2019",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/zombies/"
+              },
+              {
+                "Title": "The Zombies — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Zombies"
+              },
+              {
+                "Title": "The Zombies founder Rod Argent to retire from touring following stroke",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/the-zombies-founder-rod-argent-to-retire-from-touring-following-stroke/"
+              },
+              {
+                "Title": "Rod Argent — About",
+                "Publisher": "RodArgent.com",
+                "Url": "https://www.rodargent.com/about"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Colin Blunstone",
+          "Roles": "Founding member; lead vocalist",
+          "Instruments": "Vocals",
+          "YearsActive": "1961–1967; 1989–present",
+          "Albums": [
+            {
+              "Title": "Begin Here",
+              "Year": 1965
+            },
+            {
+              "Title": "Odessey and Oracle",
+              "Year": 1968
+            },
+            {
+              "Title": "Still Got That Hunger",
+              "Year": 2015
+            },
+            {
+              "Title": "Different Game",
+              "Year": 2023
+            }
+          ],
+          "Bio": {
+            "BioID": "the-zombies-colin-edward-michael-blunstone",
+            "ArtistID": "the-zombies",
+            "FullName": "Colin Edward Michael Blunstone",
+            "Birth": {
+              "Date": "1945-06-24",
+              "Place": "Hatfield, Hertfordshire, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Singer; songwriter",
+            "Instruments": "Vocals",
+            "FullText": "Colin Blunstone (Colin Edward Michael Blunstone, born June 24, 1945, in Hatfield, Hertfordshire) is the Zombies’ original lead vocalist and one of the most recognizable voices to emerge from the British Invasion. His delivery—soft‑edged but precise, intimate yet melodically assured—helped the band sound elegant even when the arrangements leaned into R&B grit or psychedelic color.\n\nRaised in Hertfordshire, Blunstone came of age at the moment when British beat groups were absorbing American soul, jazz, and rock ’n’ roll. When Rod Argent and friends assembled the lineup in the early 1960s, Blunstone’s vocal character became the band’s secret weapon: it could float over complex chord changes, lock tightly into stacked harmonies, and still cut through a radio mix with a distinctive timbre.\n\nThe first wave of Zombies success hinged on that combination. “She’s Not There” introduced Blunstone as a frontman capable of delivering a noir‑tinged pop story with cool restraint, while “Tell Her No” showcased his ability to turn a conversational lyric into a hook without overselling it. Those singles became defining U.S. hits and set the template for a band whose sophistication rarely sounded heavy‑handed.\n\nOn *Odessey and Oracle*, Blunstone’s vocals became even more central, balancing the album’s ornate keyboard arrangements and layered harmonies. He navigated the wistful optimism of “This Will Be Our Year,” the narrative detail of “Care of Cell 44,” and the sly, late‑night groove of “Time of the Season,” giving each track emotional specificity while preserving the Zombies’ trademark polish.\n\nThe album’s delayed commercial story also shaped Blunstone’s life. As the band’s original run wound down, the Zombies name went quiet just as “Time of the Season” began to break big in the United States, creating the unusual situation where one of the era’s best‑known voices suddenly wasn’t fronting an active touring band. That gap pushed Blunstone into a more uncertain phase—artistically and professionally—at the turn of the 1970s.\n\nBlunstone rebuilt his career as a solo artist, releasing records that leaned into baroque‑pop and singer‑songwriter textures while keeping his signature vocal tone front and center. He also recorded under the pseudonym Neil MacArthur early in his solo period, a detour that illustrates how many British artists of the era were navigating label expectations, branding, and the changing post‑Invasion marketplace.\n\nOver time, he became a valued collaborator beyond the Zombies brand. Notably, he contributed vocals as a recurring guest with The Alan Parsons Project across multiple albums, bringing his instantly recognizable voice into a different kind of studio‑crafted progressive pop/rock setting and linking his 1960s legacy to later, high‑fidelity production aesthetics.\n\nBlunstone’s partnership with Argent proved enduring. As the Zombies’ reputation grew—especially as *Odessey and Oracle* gained classic‑album status—Blunstone returned to the band’s catalog not as a nostalgia act, but as a working singer capable of re‑inhabiting the material with craft and control. The Zombies’ modern touring chapter showcased how well his voice aged for songs built on melody and nuance rather than brute power.\n\nA major public recognition arrived with the Zombies’ induction into the Rock & Roll Hall of Fame in 2019, affirming Blunstone’s place in rock history as the voice at the center of a remarkably consistent body of work. That honor also underscored the band’s influence: many later pop and indie artists cite the Zombies’ harmony‑rich, keyboard‑colored approach as a blueprint for sophisticated guitar‑band songwriting.\n\nIn the 2020s, Blunstone continued to record and perform within the Zombies universe, including the *Different Game* era, which updated the band’s sound without abandoning its melodic identity. Across decades, his career shows how a distinctive voice—paired with disciplined phrasing and emotional understatement—can remain timeless, even as musical eras and production styles shift around it.",
+            "HonoursAndMilestones": [
+              "Sang lead on the Zombies’ signature recordings including “She’s Not There,” “Tell Her No,” and *Odessey and Oracle*.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Zombies (2019).",
+              "Became a notable guest vocalist with The Alan Parsons Project across multiple albums in the 1970s–1980s."
+            ],
+            "FunFacts": [
+              "Recorded early solo material under the pseudonym Neil MacArthur.",
+              "His voice is often cited as a defining element of the Zombies’ ‘elegant’ sound."
+            ],
+            "Sources": [
+              {
+                "Title": "Colin Blunstone — artist profile (birthplace/date, career overview)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/colin-blunstone-mn0000776562"
+              },
+              {
+                "Title": "The Zombies — Inducted 2019",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/zombies/"
+              },
+              {
+                "Title": "Colin Blunstone — biography and career overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Colin_Blunstone"
+              },
+              {
+                "Title": "The Zombies Official Website | Home",
+                "Publisher": "The Zombies (Official)",
+                "Url": "https://www.thezombiesmusic.com/home"
+              },
+              {
+                "Title": "The Zombies React to Rock and Roll Hall of Fame Induction",
+                "Publisher": "Rolling Stone",
+                "Url": "https://www.rollingstone.com/music/music-news/zombies-colin-blunstone-rod-argent-rock-and-roll-hall-of-fame-interview-768457/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Paul Atkinson",
+          "Roles": "Founding member; guitarist; backing vocals",
+          "Instruments": "Guitar; vocals",
+          "YearsActive": "1961–1967",
+          "Albums": [
+            {
+              "Title": "Begin Here",
+              "Year": 1965
+            },
+            {
+              "Title": "Odessey and Oracle",
+              "Year": 1968
+            }
+          ],
+          "Bio": {
+            "BioID": "the-zombies-paul-ashley-warren-atkinson",
+            "ArtistID": "the-zombies",
+            "FullName": "Paul Ashley Warren Atkinson",
+            "Birth": {
+              "Date": "1946-03-19",
+              "Place": "Cuffley, Hertfordshire, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Guitarist; singer; A&R executive",
+            "Instruments": "Guitar; vocals",
+            "FullText": "Paul Atkinson (Paul Ashley Warren Atkinson; born March 19, 1946, in Cuffley, Hertfordshire; died April 1, 2004, in Santa Monica, California) was the Zombies’ original guitarist and an essential part of the band’s early identity. While the Zombies are often celebrated for keyboards and harmonies, Atkinson’s playing—clean, economical, and rhythmically tight—helped anchor their R&B roots and supported the nuanced vocal arrangements that became their calling card.\n\nAtkinson’s path intersected with Rod Argent and Hugh Grundy in the St Albans area during their school years, and those friendships formed the nucleus of the band. In the early 1960s club circuit, his guitar work provided the snap and propulsion that let the Zombies move fluidly between American covers and increasingly sophisticated originals.\n\nOn the band’s breakthrough recordings, Atkinson’s role was rarely flashy, but it was crucial: he left space for Argent’s keyboard lines while still supplying the rhythmic definition that makes “She’s Not There” and “Tell Her No” feel like complete band performances rather than studio constructions. That restraint is part of why the Zombies’ records still sound modern—arrangements are detailed, but not cluttered.\n\nAcross the mid‑’60s run, Atkinson weathered the difficult realities faced by many British groups: relentless touring demands, shifting label priorities, and the pressure to keep producing hits as tastes changed. The Zombies’ increasing studio ambition, especially on *Odessey and Oracle*, wasn’t always matched by commercial support, and the band’s original era ended before the album’s biggest U.S. success fully arrived.\n\nAfter stepping away from the guitarist spotlight, Atkinson built a second, highly influential career on the industry side. He became an A&R executive, using the same musical instincts that served him in the band to identify and develop artists. In this role, he helped shape recordings and careers from behind the scenes, extending his impact well beyond the Zombies’ original discography.\n\nAtkinson’s A&R chapter is often cited as a model of a musician’s transition into the business: he understood studio needs, arrangement choices, and what made a performance translate, because he had lived it. That perspective made him valuable to labels during a period when rock and pop were rapidly expanding in style and market reach.\n\nEven as his professional focus shifted, Atkinson remained closely associated with the Zombies’ legacy. His contributions to the band’s early sound are audible in the tight, unshowy ensemble feel of their hits—records that rely on group balance and tasteful playing rather than individual virtuoso displays.\n\nIn 2004, Atkinson died at 58. His passing meant he would not be present for the full public re‑evaluation of the Zombies that accelerated in the 2000s and culminated in major honors later on, but his place in the band’s story remained central in retrospectives and in the way the original lineup is remembered.\n\nIn 2019, Atkinson was inducted into the Rock & Roll Hall of Fame as a member of the Zombies, a posthumous recognition that highlighted the importance of the full original group, not just its most visible songwriters and singers.\n\nAtkinson’s story captures a broader truth about classic bands: sometimes the player who doesn’t dominate the spotlight is the one who makes the whole machine work. As a guitarist, he helped give the Zombies their early drive; as an A&R figure, he helped other artists find theirs.",
+            "HonoursAndMilestones": [
+              "Original guitarist of The Zombies’ classic lineup (early 1960s–1967).",
+              "Transitioned to a prominent A&R career after the band’s initial era.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Zombies (2019, posthumous)."
+            ],
+            "FunFacts": [
+              "Atkinson’s A&R career is frequently noted in Zombies histories as a major post‑band chapter for a founding member.",
+              "He was inducted into the Rock Hall in the same class that celebrated the band’s delayed recognition."
+            ],
+            "Sources": [
+              {
+                "Title": "Paul Atkinson — artist profile (birth/death, member of The Zombies)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/paul-atkinson-mn0000011851"
+              },
+              {
+                "Title": "Paul Atkinson (guitarist) — biography and career overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Paul_Atkinson_(guitarist)"
+              },
+              {
+                "Title": "The Zombies — Inducted 2019",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/zombies/"
+              },
+              {
+                "Title": "The Zombies — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Zombies"
+              },
+              {
+                "Title": "The Zombies React to Rock and Roll Hall of Fame Induction",
+                "Publisher": "Rolling Stone",
+                "Url": "https://www.rollingstone.com/music/music-news/zombies-colin-blunstone-rod-argent-rock-and-roll-hall-of-fame-interview-768457/"
+              }
+            ],
+            "Death": {
+              "Date": "2004-04-01",
+              "Place": "Santa Monica, California, United States"
+            }
+          }
+        },
+        {
+          "Name": "Chris White",
+          "Roles": "Founding member; bassist; songwriter; backing vocals",
+          "Instruments": "Bass; vocals",
+          "YearsActive": "1961–1967",
+          "Albums": [
+            {
+              "Title": "Begin Here",
+              "Year": 1965
+            },
+            {
+              "Title": "Odessey and Oracle",
+              "Year": 1968
+            }
+          ],
+          "Bio": {
+            "BioID": "the-zombies-christopher-taylor-white",
+            "ArtistID": "the-zombies",
+            "FullName": "Christopher Taylor White",
+            "Birth": {
+              "Date": "1943-03-07",
+              "Place": "Barnet, Hertfordshire, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Bassist; songwriter",
+            "Instruments": "Bass; vocals",
+            "FullText": "Chris White (Christopher Taylor White; born March 7, 1943, in Barnet, Hertfordshire) was the Zombies’ bassist and, with Rod Argent, one of the group’s two principal songwriters. If Argent provided much of the harmonic and melodic framework, White often supplied lyrical detail and narrative perspective—together creating a catalog that feels unusually complete for a band whose original run was relatively brief.\n\nWhite joined the group in its formative years, replacing an early bassist and quickly becoming central to the band’s musical identity. His bass parts are typically supportive rather than showy, designed to lock tightly with Hugh Grundy’s drumming and leave room for the band’s intricate keyboard lines and vocal stacks.\n\nAs a writer, White’s fingerprints are all over the Zombies’ most admired work. He wrote or co‑wrote songs that reveal the band’s emotional range: the bright, forward‑looking “This Will Be Our Year,” the wry narrative touch of “Care of Cell 44,” and darker, more story‑driven material like “Butcher’s Tale (Western Front 1914),” where the Zombies’ pop sophistication meets a grim historical perspective.\n\nWhite’s lyrical approach often grounded the band’s elegance in concrete scenes—letters, seasons, specific places—making the Zombies’ songs feel like miniature short stories rather than generic love‑song templates. That specificity is a major reason *Odessey and Oracle* gained long‑term critical status: it feels lived‑in and cinematic, not merely stylish.\n\nDuring the band’s 1960s peak, White also contributed vocally on select recordings, underscoring how the Zombies functioned as a true ensemble. Even when Colin Blunstone’s lead voice was the primary focal point, the band’s identity depended on stacked harmony vocals and careful arrangement decisions that required everyone to play (and sing) with discipline.\n\nAfter the initial Zombies era, White remained musically active in various capacities, including songwriting, production, and later performance appearances linked to the band’s legacy. The Zombies’ catalog experienced a significant revival as reissues and critical reassessments highlighted how advanced their studio craft had been compared with many contemporaries.\n\nIn the 2000s and 2010s, White participated in high‑profile moments celebrating the original lineup and the *Odessey and Oracle* repertoire, reconnecting audiences with the band’s full creative partnership rather than just its headline hits. These appearances reinforced White’s role as a co‑architect of the Zombies’ signature blend of melody, harmony, and narrative songwriting.\n\nThe band’s delayed commercial story—their biggest U.S. chart moment arriving after the group had already wound down—also shaped how White’s writing was perceived: not as a set of period singles, but as part of a deeper album‑centric statement that listeners discovered and treasured over time.\n\nIn 2019, White was inducted into the Rock & Roll Hall of Fame as a member of the Zombies, a recognition that affirmed his standing as one of the era’s most tasteful pop writers and one of rock’s quietly influential bassist‑songwriters.\n\nWhite’s legacy is a reminder that ‘classic’ songwriting is often the product of partnership and structure: strong melodies, clear scenes, and arrangements that let the emotion land. In the Zombies, White helped build exactly that kind of durable musical architecture.",
+            "HonoursAndMilestones": [
+              "Co‑principal songwriter for The Zombies, writing key *Odessey and Oracle* tracks including “This Will Be Our Year.”",
+              "Helped shape the band’s harmony‑rich, keyboard‑colored approach through arrangement and ensemble playing.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Zombies (2019)."
+            ],
+            "FunFacts": [
+              "White’s lyrics often use concrete scenes and narrative details, a hallmark that helped *Odessey and Oracle* age well.",
+              "He is frequently paired with Rod Argent as one of the band’s two main writers."
+            ],
+            "Sources": [
+              {
+                "Title": "Chris White — artist profile and biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/chris-white-mn0000112853"
+              },
+              {
+                "Title": "Chris White (musician) — biography and songwriting credits overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Chris_White_(musician)"
+              },
+              {
+                "Title": "The Zombies — Inducted 2019",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/zombies/"
+              },
+              {
+                "Title": "The Zombies — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Zombies"
+              },
+              {
+                "Title": "*The Zombies / I Love You / R.I.P.* — review and career context",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/reviews/albums/the-zombies-i-love-you-rip-the-zombies/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Hugh Grundy",
+          "Roles": "Founding member; drummer",
+          "Instruments": "Drums; percussion",
+          "YearsActive": "1961–1967",
+          "Albums": [
+            {
+              "Title": "Begin Here",
+              "Year": 1965
+            },
+            {
+              "Title": "Odessey and Oracle",
+              "Year": 1968
+            }
+          ],
+          "Bio": {
+            "BioID": "the-zombies-hugh-birch-grundy",
+            "ArtistID": "the-zombies",
+            "FullName": "Hugh Birch Grundy",
+            "Birth": {
+              "Date": "1945-03-06",
+              "Place": "Winchester, Hampshire, England, United Kingdom"
+            },
+            "Nationality": "English",
+            "Roles": "Drummer; A&R executive",
+            "Instruments": "Drums; percussion",
+            "FullText": "Hugh Grundy (Hugh Birch Grundy; born March 6, 1945, in Winchester, Hampshire) was the Zombies’ original drummer, providing the subtle, steady pulse beneath the band’s sophisticated pop. The Zombies’ records often hinge on feel rather than brute force—tight pocket, crisp accents, and just enough swing to keep the songs alive—and Grundy’s drumming is a major reason the band could move between R&B, beat music, and more ornate late‑’60s pop without sounding stiff.\n\nGrundy connected with Rod Argent and Paul Atkinson in the St Albans area as a teenager, and the three began playing together before the classic lineup was completed. That early chemistry mattered: the Zombies were never a ‘studio‑only’ act. Even when their arrangements became complex, the records retained the balance of a working band that knew how to play a groove.\n\nOn early hits like “She’s Not There,” Grundy’s approach is understated but essential—he locks the beat with the bass, leaving space for Argent’s keyboard lines and Blunstone’s vocal phrasing. Rather than filling every bar, he emphasizes clarity and dynamics, helping the band’s melodic detail read clearly on radio speakers.\n\nAs the band entered its most ambitious studio period, Grundy adapted to arrangements that required precision and restraint. *Odessey and Oracle* depends on nuanced tempo control and tonal shading as much as on hooks; Grundy’s ability to keep the foundation stable while the keyboards and harmonies bloom overhead is one of the album’s quiet strengths.\n\nLike many players in 1960s British groups, Grundy faced the intense churn of touring, recording schedules, and changing label expectations. When the original Zombies era ended, the band’s delayed breakthrough with “Time of the Season” meant that their biggest U.S. moment didn’t translate into a sustained touring career for the original lineup at that time—an unusual and frustrating twist for the musicians involved.\n\nAfter leaving the constant cycle of band life, Grundy moved into the industry side of music, working in A&R roles. That path mirrors Paul Atkinson’s later career arc and underscores how several Zombies members used their musical judgment in behind‑the‑scenes work once the band’s first chapter closed.\n\nAlthough he wasn’t continuously active as a high‑profile touring drummer, Grundy remained central to the Zombies’ story as the rhythmic backbone of their original recordings. As the band’s reputation grew with reissues and critical reassessment, his playing became part of what listeners and musicians cited when describing the Zombies’ exceptional ‘feel’ and arrangement discipline.\n\nIn later years, Zombies‑related projects and celebrations brought renewed attention to the original lineup’s contributions. Even when newer touring lineups carried the band name forward, the sonic template they were honoring was built on the classic Argent/White songwriting partnership, Blunstone’s voice, and Grundy’s tasteful rhythmic foundation.\n\nIn 2019, Grundy was inducted into the Rock & Roll Hall of Fame as a member of the Zombies, placing his work in the broader narrative of rock history and recognizing that the band’s elegance and endurance came from the whole ensemble, not just its most famous singles.\n\nGrundy’s legacy is the kind drummers respect: not about flashy fills, but about making sophisticated songs breathe. The Zombies’ best recordings remain compelling partly because his timekeeping and dynamics serve the composition—and that kind of musical service is what makes classic records last.",
+            "HonoursAndMilestones": [
+              "Original drummer of The Zombies’ classic lineup and a defining part of the band’s recorded feel.",
+              "Inducted into the Rock & Roll Hall of Fame as a member of The Zombies (2019)."
+            ],
+            "FunFacts": [
+              "After the original Zombies era, Grundy worked in A&R roles in the music industry.",
+              "Fans often cite the Zombies’ tight ‘pocket’ as a key reason their recordings still sound fresh."
+            ],
+            "Sources": [
+              {
+                "Title": "Hugh Grundy — artist profile (birthplace/date, member of The Zombies)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/hugh-grundy-mn0000279265"
+              },
+              {
+                "Title": "Hugh Grundy — biography and career overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Hugh_Grundy"
+              },
+              {
+                "Title": "The Zombies — Inducted 2019",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/zombies/"
+              },
+              {
+                "Title": "The Zombies — band overview and history",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Zombies"
+              },
+              {
+                "Title": "The Zombies Official Website | Home",
+                "Publisher": "The Zombies (Official)",
+                "Url": "https://www.thezombiesmusic.com/home"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Jim Rodford",
+          "Roles": "Touring/recording bassist (reunion era)",
+          "Instruments": "Bass",
+          "YearsActive": "2004–2018",
+          "Albums": [
+            {
+              "Title": "Still Got That Hunger",
+              "Year": 2015
+            }
+          ]
+        },
+        {
+          "Name": "Steve Rodford",
+          "Roles": "Touring/recording drummer (reunion era)",
+          "Instruments": "Drums",
+          "YearsActive": "2000s–present",
+          "Albums": [
+            {
+              "Title": "Still Got That Hunger",
+              "Year": 2015
+            },
+            {
+              "Title": "Different Game",
+              "Year": 2023
+            }
+          ]
+        },
+        {
+          "Name": "Tom Toomey",
+          "Roles": "Touring guitarist (reunion era)",
+          "Instruments": "Guitar",
+          "YearsActive": "2000s–present",
+          "Albums": [
+            {
+              "Title": "Still Got That Hunger",
+              "Year": 2015
+            },
+            {
+              "Title": "Different Game",
+              "Year": 2023
+            }
+          ]
+        },
+        {
+          "Name": "Søren Koch",
+          "Roles": "Touring guitarist; vocalist (reunion era)",
+          "Instruments": "Guitar; vocals",
+          "YearsActive": "2000s–present",
+          "Albums": [
+            {
+              "Title": "Still Got That Hunger",
+              "Year": 2015
+            },
+            {
+              "Title": "Different Game",
+              "Year": 2023
+            }
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "zz-top",
