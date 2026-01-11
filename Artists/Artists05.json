@@ -1668,27 +1668,443 @@
   {
     "ArtistID": "crosby-stills-and-nash",
     "Name": "Crosby, Stills & Nash",
-    "Type": "",
+    "Type": "Band",
     "Origin": {
-      "City": "",
-      "Region": "",
-      "Country": ""
+      "City": "Los Angeles",
+      "Region": "California",
+      "Country": "United States"
     },
-    "YearsActive": [],
-    "Genres": [],
-    "Labels": [],
-    "Overview": "",
-    "NotableAlbums": [],
-    "SignatureSongs": [],
-    "Achievements": [],
-    "KeyFacts": [],
+    "YearsActive": [
+      "1968–1970",
+      "1974",
+      "1976–1977",
+      "1982–2015"
+    ],
+    "Genres": [
+      "Folk rock",
+      "Soft rock",
+      "Pop rock",
+      "Country rock"
+    ],
+    "Labels": [
+      "Atlantic"
+    ],
+    "Overview": "Formed in Los Angeles in 1968, Crosby, Stills & Nash brought together three established writers from three different worlds: David Crosby from the Byrds, Stephen Stills from Buffalo Springfield, and Graham Nash from the Hollies. What made the group feel immediately different was the vocal blend—three distinctive voices that locked into tight, choir‑like harmonies—matched to interlocking acoustic guitars and songwriting that could move from intimate scenes to era‑defining social commentary. CSN appeared at a moment when rock was absorbing folk storytelling, studio craft, and political awareness, and they became one of the clearest embodiments of that shift.\n\nThe 1969 debut *Crosby, Stills & Nash* became a landmark of the singer‑songwriter era, with signature songs such as “Suite: Judy Blue Eyes,” “Marrakesh Express,” “Helplessly Hoping,” and “Long Time Gone.” In 1969 the trio expanded to Crosby, Stills, Nash & Young with the addition of Neil Young, creating one of rock’s most celebrated and volatile supergroups. Even as the lineup toggled between CSN and CSNY, the core harmony identity remained the anchor: voices stacked with pop precision, guitars arranged like rhythm sections, and three strong writers pulling in different directions.\n\nCSN continued in waves through the 1970s and beyond, balancing solo careers with reunions and returning repeatedly to touring. Later records produced durable radio staples including “Just a Song Before I Go,” “Wasted on the Way,” and “Southern Cross,” and the band’s catalog became a template for harmony‑driven rock and acoustic‑electric dynamics. Crosby, Stills & Nash were inducted into the Rock & Roll Hall of Fame in 1997, and their songs remain touchstones for artists who value melody, lyric clarity, and the power of voices used as instruments.",
+    "NotableAlbums": [
+      {
+        "Title": "Crosby, Stills & Nash",
+        "Year": "1969",
+        "Details": "Debut studio album; introduced the trio’s stacked harmonies and acoustic‑electric folk‑rock sound."
+      },
+      {
+        "Title": "CSN",
+        "Year": "1977",
+        "Details": "Return-to-form studio album featuring the hit single “Just a Song Before I Go.”"
+      },
+      {
+        "Title": "Daylight Again",
+        "Year": "1982",
+        "Details": "Commercial comeback; includes “Wasted on the Way” and “Southern Cross.”"
+      },
+      {
+        "Title": "Allies",
+        "Year": "1983",
+        "Details": "Early‑’80s studio follow‑up blending harmony pop with contemporary production."
+      },
+      {
+        "Title": "American Dream",
+        "Year": "1988",
+        "Details": "Late‑’80s reunion album with polished adult‑rock writing."
+      },
+      {
+        "Title": "Live It Up",
+        "Year": "1990",
+        "Details": "Studio album continuing the group’s late‑period run of releases."
+      },
+      {
+        "Title": "After the Storm",
+        "Year": "1994",
+        "Details": "’90s studio release with reflective songwriting and mature arrangements."
+      },
+      {
+        "Title": "Looking Forward",
+        "Year": "1999",
+        "Details": "Late‑career studio statement; widely noted as the trio’s final studio album."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Suite: Judy Blue Eyes",
+        "Year": "1969",
+        "Details": "Stills’ multi‑section suite; became the band’s signature early showcase for harmonies and acoustic guitars."
+      },
+      {
+        "Title": "Marrakesh Express",
+        "Year": "1969",
+        "Details": "Nash’s vivid travelogue; one of the trio’s defining early singles."
+      },
+      {
+        "Title": "Helplessly Hoping",
+        "Year": "1969",
+        "Details": "A harmony centerpiece from the debut album, often cited for its intricate vocal writing."
+      },
+      {
+        "Title": "Long Time Gone",
+        "Year": "1969",
+        "Details": "Crosby’s politically charged rocker that broadened the group’s sonic range."
+      },
+      {
+        "Title": "Just a Song Before I Go",
+        "Year": "1977",
+        "Details": "A major late‑’70s hit that re‑established the trio on radio."
+      },
+      {
+        "Title": "Wasted on the Way",
+        "Year": "1982",
+        "Details": "Adult‑rock staple from *Daylight Again*, built around mature reflection and harmony."
+      },
+      {
+        "Title": "Southern Cross",
+        "Year": "1982",
+        "Details": "An enduring classic associated with the group’s ’80s peak popularity."
+      }
+    ],
+    "Achievements": [
+      {
+        "Title": "Grammy Award – Best New Artist",
+        "Year": "1970",
+        "Details": "Won the Grammy for Best New Artist early in the band’s career (following the impact of the 1969 debut)."
+      },
+      {
+        "Title": "Rock & Roll Hall of Fame Induction",
+        "Year": "1997",
+        "Details": "Inducted as Crosby, Stills & Nash for their influence on rock harmony and singer‑songwriter era songwriting."
+      },
+      {
+        "Title": "Songwriters Hall of Fame Recognition",
+        "Year": "2009",
+        "Details": "The CSN songwriters were honored for their contributions to modern songwriting and vocal harmony."
+      }
+    ],
+    "KeyFacts": [
+      "Formed in Los Angeles in 1968 after David Crosby (the Byrds), Stephen Stills (Buffalo Springfield), and Graham Nash (the Hollies) began singing together.",
+      "Known for three‑part harmonies treated as a central instrument, often paired with interlocking acoustic guitars.",
+      "The core trio frequently expanded to CSNY with Neil Young, then returned to CSN depending on touring and recording eras.",
+      "Later hit era included “Just a Song Before I Go,” “Wasted on the Way,” and “Southern Cross.”"
+    ],
     "ExternalLinks": {
-      "Official Site": "",
-      "Wikipedia": "",
-      "Discography": ""
+      "Official Site": "https://www.crosbystillsnash.com/",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Crosby,_Stills_%26_Nash",
+      "Rock & Roll Hall of Fame": "https://www.rockhall.com/inductees/crosby-stills-nash"
     },
-    "CoreMembers": [],
-    "NonCoreMembers": []
+    "CoreMembers": [
+      {
+        "Name": "David Crosby",
+        "Roles": [
+          "Vocals",
+          "Guitar",
+          "Songwriting"
+        ],
+        "Years": "1968–2016",
+        "YearsActive": "1964–2023",
+        "Instruments": [
+          "Vocals",
+          "Guitar"
+        ],
+        "Albums": [
+          "Crosby, Stills & Nash (1969)",
+          "Looking Forward (1999)",
+          "If I Could Only Remember My Name (1971)"
+        ],
+        "Overview": "A founding voice of CSN, Crosby brought a distinctive harmony sensibility and a set of songs that blended atmosphere with political urgency. His earlier work with the Byrds and later CSNY recordings made him a central figure in American folk‑rock.",
+        "Bio": {
+          "BioID": "david-crosby",
+          "ArtistID": "crosby-stills-and-nash",
+          "ArtistName": "Crosby, Stills & Nash",
+          "MemberName": "David Crosby",
+          "FullName": "David Van Cortlandt Crosby",
+          "BirthDate": "August 14, 1941",
+          "BirthPlace": "Los Angeles, California, U.S.",
+          "DeathDate": "January 18, 2023",
+          "Roles": [
+            "Singer",
+            "Songwriter",
+            "Guitarist"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "YearsActive": [
+            "1964–2023"
+          ],
+          "AssociatedActs": [
+            "The Byrds",
+            "Crosby, Stills & Nash",
+            "Crosby, Stills, Nash & Young",
+            "Crosby & Nash",
+            "CPR"
+          ],
+          "NotableContributions": [
+            "Key CSN songwriter and harmony architect; Byrds member during their formative folk‑rock and psychedelic era; wrote/introduced songs such as “Long Time Gone” and “Guinnevere.”"
+          ],
+          "AwardsHonors": [
+            "Rock & Roll Hall of Fame induction (The Byrds)",
+            "Rock & Roll Hall of Fame induction (Crosby, Stills & Nash)",
+            "Songwriters Hall of Fame recognition (CSN)"
+          ],
+          "Biography": "David Van Cortlandt Crosby (August 14, 1941 – January 18, 2023) was a Los Angeles–born singer, guitarist, and songwriter whose voice and harmonic instincts helped define 1960s folk‑rock and the Laurel Canyon era. He became famous first with the Byrds and later as a founding member of Crosby, Stills & Nash (CSN) and the related quartet Crosby, Stills, Nash & Young (CSNY). Across those settings, Crosby’s gifts were often less about showmanship than about architecture: he built vocal blends, chordal colors, and lyrical moods that made songs feel lived‑in rather than performed at the audience.\n\nCrosby’s first major platform arrived with the Byrds in the mid‑1960s, when the group helped push folk songwriting into an electric band format that could compete with pop radio while still sounding adventurous. The Byrds’ mix of chiming guitars and layered vocals made them one of the central American bands of the era, and Crosby’s presence mattered to that identity. He contributed harmonies and original songs, and he also brought an exploratory streak that encouraged the band to stretch beyond straightforward pop into more expansive, psychedelic textures. Internal tensions eventually led to his departure in 1967, ending a period in which the Byrds helped set the template for countless guitar‑driven harmony bands that followed.\n\nThat exit set up the second—and in some ways definitive—chapter. In 1968 Crosby met Stephen Stills (coming out of Buffalo Springfield) and Graham Nash (leaving the Hollies). The story is often told as a harmony epiphany: the three voices “locked” in a way that felt instantly complete, and their early performances emphasized the blend as much as any individual star power. CSN’s 1969 debut *Crosby, Stills & Nash* introduced a sound built around stacked harmonies, interlocking acoustic guitars, and songwriting that could be intimate, political, and radio‑friendly in the same breath. The album’s success helped establish the trio as a new kind of supergroup, one grounded not in virtuoso solos but in writing and vocal craft.\n\nWithin CSN, Crosby’s identity was both collaborative and distinctive. He tended to favor mood and perspective, writing songs that felt like dispatches from inside the turbulence of the late 1960s. “Long Time Gone,” for example, channeled political shock into a propulsive rock song, while “Guinnevere” leaned into imagery and atmosphere. His approach to guitar was similarly textural: rhythm parts that opened up space for the harmonies to carry the emotional center. The band’s working method also suited him; arrangements were frequently built collectively, and the vocal parts were treated like composition, with each singer occupying a specific register and emotional role.\n\nCrosby’s broader legacy can’t be separated from the CSNY story. When Neil Young joined the core trio in 1969, the group gained a second electric edge and a wider palette, but it also inherited more friction. CSNY’s *Déjà Vu* (1970) became one of the era’s defining albums, and Crosby’s “Almost Cut My Hair” and “Everybody I Love You” added bite and personality to a record that moves between tenderness and confrontation. Over the following decades, CSN and CSNY reunited in waves—sometimes for new recordings, sometimes for tours, sometimes simply because the songs demanded to be played together again. Through it all, Crosby remained a voice that brought grit and candor to a catalog often remembered for sweetness.\n\nOutside the flagship groups, Crosby built a parallel body of work that showed him in looser, more exploratory settings. His 1971 solo debut *If I Could Only Remember My Name* became a cult favorite, praised for its collaborative spirit and free‑floating, almost session‑as‑community feel. He later worked extensively with Nash as Crosby & Nash, and he continued issuing solo material across multiple decades, including a notable late‑career stretch in which he released a series of albums and remained publicly engaged as both an artist and commentator.\n\nCrosby’s life also contained well‑documented personal struggle. He battled addiction, faced legal trouble, and experienced serious health issues; in the 1990s he underwent a highly publicized liver transplant. In later interviews and public appearances he often spoke candidly about the consequences of those years and the way they shaped his relationships, especially with longtime collaborators. That candor, sometimes blunt to the point of abrasiveness, became part of his public persona. Yet the musical record shows another side: a collaborator capable of deep empathy in harmony, and a writer whose best work can sound like confession without self‑pity.\n\nIn the 1990s and 2000s he also explored different formats outside the classic CSN frame. One notable project was CPR, a trio with his son James Raymond and guitarist Jeff Pevar, which allowed Crosby to write and sing in a more contemporary adult‑rock context while keeping his harmony interests front and center. Even when he wasn’t constantly on mainstream radio, he remained a working musician—touring, collaborating, and periodically returning to the spotlight through reunions and a steady stream of new recordings.\n\nThe honors attached to Crosby’s name reflect the breadth of his impact. He was inducted into the Rock & Roll Hall of Fame as a member of the Byrds and again as a member of Crosby, Stills & Nash, and he was recognized by the Songwriters Hall of Fame (including induction connected to his work with CSN). Those accolades underscore a rare résumé: two foundational bands, two distinct eras of influence, and a catalog that helped set standards for harmony writing and socially conscious singer‑songwriter rock.\n\nCrosby died on January 18, 2023, in Santa Ynez, California, at age 81. His legacy endures not simply in a list of famous recordings, but in a musical philosophy: treat voices like instruments, treat harmonies like composition, and let songs hold both beauty and argument at the same time. At his best, Crosby turned unease into melody and friction into arrangement, leaving behind music that still feels alive because it never pretends conflict isn’t real—it just sings through it.",
+          "Sources": [
+            {
+              "Title": "David Crosby",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/David_Crosby"
+            },
+            {
+              "Title": "Crosby, Stills & Nash",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://www.rockhall.com/inductees/crosby-stills-nash"
+            },
+            {
+              "Title": "The Byrds",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://www.rockhall.com/inductees/byrds"
+            },
+            {
+              "Title": "Songwriters Hall of Fame: Crosby, Stills & Nash",
+              "Publisher": "Songwriters Hall of Fame",
+              "Url": "https://www.songhall.org/inductees/crosby-stills-nash"
+            },
+            {
+              "Title": "If I Could Only Remember My Name",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/If_I_Could_Only_Remember_My_Name"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/David_Crosby",
+            "Rock Hall – CSN": "https://www.rockhall.com/inductees/crosby-stills-nash"
+          }
+        }
+      },
+      {
+        "Name": "Stephen Stills",
+        "Roles": [
+          "Vocals",
+          "Guitar",
+          "Keyboards",
+          "Songwriting",
+          "Arrangements"
+        ],
+        "Years": "1968–2016",
+        "YearsActive": "1966–present",
+        "Instruments": [
+          "Vocals",
+          "Guitar",
+          "Keyboards",
+          "Bass"
+        ],
+        "Albums": [
+          "Crosby, Stills & Nash (1969)",
+          "Daylight Again (1982)",
+          "Stephen Stills (1970)",
+          "Manassas (1972)"
+        ],
+        "Overview": "A central songwriter and multi‑instrumentalist in CSN/CSNY, Stills supplied both expansive suites and radio‑ready hooks, and often acted as arranger and musical director. His earlier Buffalo Springfield work and solo career cemented his status as a major American rock craftsman.",
+        "Bio": {
+          "BioID": "stephen-stills",
+          "ArtistID": "crosby-stills-and-nash",
+          "ArtistName": "Crosby, Stills & Nash",
+          "MemberName": "Stephen Stills",
+          "FullName": "Stephen Arthur Stills",
+          "BirthDate": "January 3, 1945",
+          "BirthPlace": "Dallas, Texas, U.S.",
+          "DeathDate": "",
+          "Roles": [
+            "Singer",
+            "Songwriter",
+            "Multi-instrumentalist",
+            "Producer"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Guitar",
+            "Keyboards",
+            "Bass"
+          ],
+          "YearsActive": [
+            "1966–present"
+          ],
+          "AssociatedActs": [
+            "Buffalo Springfield",
+            "Crosby, Stills & Nash",
+            "Crosby, Stills, Nash & Young",
+            "Manassas",
+            "Al Kooper"
+          ],
+          "NotableContributions": [
+            "Wrote “For What It’s Worth” (Buffalo Springfield); authored CSN staples like “Suite: Judy Blue Eyes”; major arranger and instrumental force across CSN/CSNY recordings."
+          ],
+          "AwardsHonors": [
+            "Rock & Roll Hall of Fame induction (Buffalo Springfield)",
+            "Rock & Roll Hall of Fame induction (Crosby, Stills & Nash)",
+            "Songwriters Hall of Fame induction/recognition"
+          ],
+          "Biography": "Stephen Arthur Stills (born January 3, 1945) is an American singer, songwriter, record producer, and multi‑instrumentalist whose work sits at the crossroads of folk, blues, country, and rock. He is best known for Buffalo Springfield, Crosby, Stills & Nash (CSN), Crosby, Stills, Nash & Young (CSNY), and his own solo and side‑band projects. Stills has had a rare career that combines front‑rank songwriting with a musician’s musician reputation: he can carry a band as a singer and guitarist, but he can also disappear into the arrangement, playing bass, keyboards, or guitar parts that make a song feel inevitable.\n\nStills was born in Dallas, Texas, and moved frequently as a child, spending time in places including Florida, Louisiana, Costa Rica, the Panama Canal Zone, and El Salvador. That geographic variety fed a wide musical appetite. He absorbed blues and folk early, but he also heard Latin and Caribbean styles during his youth, and those rhythms later surfaced in his playing and in projects like Manassas. By the early 1960s he was performing and working his way through the folk circuit, including stints in New York City. He sang and played in groups such as the Au Go Go Singers, a harmony‑heavy ensemble that previewed the vocal blend he would later refine in CSN.\n\nHis first major breakthrough came with Buffalo Springfield in Los Angeles. In that band, Stills emerged as a primary songwriter and one of the key instrumental voices, trading twin‑lead guitar lines with Neil Young and helping define a sound that could move between folk‑rock delicacy and electric bite. Stills wrote “For What It’s Worth,” a song that became one of the most recognizable statements of the 1960s and proved his ability to capture a tense moment with plain, memorable language. He also contributed other Buffalo Springfield standouts such as “Bluebird” and “Sit Down, I Think I Love You,” and his playing showed an uncommon range—part blues guitarist, part folk accompanist, part arranger thinking in layers.\n\nWhen Buffalo Springfield fractured, Stills kept moving. He collaborated with Al Kooper on the 1968 album *Super Session*, a celebrated example of late‑1960s studio improvisation and cross‑pollination. But his next defining act was building a new vocal trio. In 1968 Stills joined forces with David Crosby and Graham Nash, and their harmonies clicked so quickly that it became the story: three established writers discovering that their voices together formed a fourth instrument. On CSN’s 1969 debut *Crosby, Stills & Nash*, Stills was also the group’s musical hub. He played multiple instruments across the album and helped shape arrangements that balanced acoustic guitars, tight rhythm, and stacked vocals without clutter.\n\nAs a writer, Stills gave the group both grandeur and directness. “Suite: Judy Blue Eyes” is a signature example: a multi‑section piece with shifting feels and melodic hooks, designed like a miniature journey but still immediate enough to become a calling card. When Neil Young joined the trio to form CSNY, Stills’ role expanded and became more competitive. The quartet’s 1970 album *Déjà Vu* turned into a landmark, and Stills contributed songs that pushed the band into bigger rock dynamics while keeping the harmony identity intact. Across the years of reunions, breakups, and reformations, he remained a centerpiece performer—often on electric guitar when the music needed force, and on acoustic guitar when the focus returned to the trio blend.\n\nStills also maintained a major solo career and built bands that couldn’t be contained by the “supergroup member” label. His 1970 solo debut *Stephen Stills* was commercially successful and is notable for featuring both Jimi Hendrix and Eric Clapton—an unusual convergence that reflected how highly he was regarded among peers. Its hit single “Love the One You’re With” became his biggest solo chart success. In the early 1970s he formed Manassas with Chris Hillman, creating a group deliberately designed to explore a broad American roots spectrum—rock, blues, country, and Latin‑tinged grooves—without having to fit the expectations of CSN.\n\nOver the following decades, Stills’ public story included both high‑visibility reunions and periods of lower‑profile work, but the through‑line remained his musicianship and songcraft. He continued recording, writing, and performing, and his guitar style stayed highly recognizable: a percussive right‑hand attack, a blues vocabulary that could turn elegant or gritty depending on the song, and a structural sense that kept complex material from collapsing under its own ambition. Even when band politics or personal challenges complicated productivity, Stills’ best performances communicated a clear musical identity—urgent, rhythmically alive, and rooted in American tradition.\n\nRecognition for Stills’ work reflects both songwriting and instrumental influence. He has been inducted into the Rock & Roll Hall of Fame as a member of Buffalo Springfield and as a member of Crosby, Stills & Nash, and he has been honored by the Songwriters Hall of Fame. He has also been widely cited on “greatest guitarists” lists, which, whatever their limits, underline a real point: Stills is not simply an accompanist who happened to be in famous bands; he is a guitarist with a personal vocabulary that other players study.\n\nStills’ influence extends beyond his own catalog. “For What It’s Worth” alone has traveled through decades of film, television, covers, and protest playlists, becoming a shorthand for social tension and public unease. Meanwhile, CSN’s and CSNY’s harmonies set a standard for vocal writing in rock, and Stills’ willingness to mix blues and country phrasing with pop‑friendly hooks helped normalize the stylistic blend that later became standard in American rock. Whether heard through Buffalo Springfield, CSN, CSNY, Manassas, or solo records, Stills’ work reads as a long conversation between folk storytelling and electric ambition—and it continues to resonate because it never treats those elements as opposites.\n\nIn later years, Stills has been more selective about touring while remaining musically active. He has spoken publicly about getting sober in the 2020s and has continued to write, revisit his archives, and occasionally perform with longtime friends, including reunions with Nash on special occasions. That late‑career arc emphasizes what fans have always heard: Stills is at his best when he treats songwriting and playing as the same craft. His strongest work balances immediacy and complexity—melodies that stick, changes that surprise, and a voice that can sound intimate even when the band behind it is big. Over six decades, he has remained a reference point for musicians who care about guitar feel, harmony, and durable song design.",
+          "Sources": [
+            {
+              "Title": "Stephen Stills",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Stephen_Stills"
+            },
+            {
+              "Title": "Buffalo Springfield",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://www.rockhall.com/inductees/buffalo-springfield"
+            },
+            {
+              "Title": "Crosby, Stills & Nash",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://www.rockhall.com/inductees/crosby-stills-nash"
+            },
+            {
+              "Title": "Songwriters Hall of Fame: Stephen Stills",
+              "Publisher": "Songwriters Hall of Fame",
+              "Url": "https://www.songhall.org/inductees/stephen_stills"
+            },
+            {
+              "Title": "For What It’s Worth",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/For_What_It%27s_Worth"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Stephen_Stills",
+            "Rock Hall – Buffalo Springfield": "https://www.rockhall.com/inductees/buffalo-springfield"
+          }
+        }
+      },
+      {
+        "Name": "Graham Nash",
+        "Roles": [
+          "Vocals",
+          "Songwriting",
+          "Guitar"
+        ],
+        "Years": "1968–2016",
+        "YearsActive": "1962–present",
+        "Instruments": [
+          "Vocals",
+          "Guitar"
+        ],
+        "Albums": [
+          "Crosby, Stills & Nash (1969)",
+          "CSN (1977)",
+          "Songs for Beginners (1971)"
+        ],
+        "Overview": "Nash brought British‑Invasion harmony craft from the Hollies into the Laurel Canyon singer‑songwriter world, writing vivid, melodic songs that became CSN staples. His solo catalog and photography work broadened his public legacy beyond the supergroup myth.",
+        "Bio": {
+          "BioID": "graham-nash",
+          "ArtistID": "crosby-stills-and-nash",
+          "ArtistName": "Crosby, Stills & Nash",
+          "MemberName": "Graham Nash",
+          "FullName": "Graham William Nash",
+          "BirthDate": "February 2, 1942",
+          "BirthPlace": "Blackpool, Lancashire, England",
+          "DeathDate": "",
+          "Roles": [
+            "Singer",
+            "Songwriter",
+            "Photographer"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "YearsActive": [
+            "1962–present"
+          ],
+          "AssociatedActs": [
+            "The Hollies",
+            "Crosby, Stills & Nash",
+            "Crosby, Stills, Nash & Young",
+            "Crosby & Nash"
+          ],
+          "NotableContributions": [
+            "Key CSN songwriter (“Marrakesh Express”); Hollies co‑founder; wrote enduring songs associated with CSNY such as “Our House.”"
+          ],
+          "AwardsHonors": [
+            "Rock & Roll Hall of Fame induction (Crosby, Stills & Nash)",
+            "Rock & Roll Hall of Fame induction (The Hollies)",
+            "OBE (Officer of the Order of the British Empire)"
+          ],
+          "Biography": "Graham William Nash (born February 2, 1942) is an English‑American singer, songwriter, and photographer whose melodic writing and clear tenor helped shape both British Invasion pop and American folk‑rock. He first rose to fame as a co‑founder of the Hollies, one of the U.K.’s most successful 1960s groups, and then became one of the three pillars of Crosby, Stills & Nash (CSN) and, at times, Crosby, Stills, Nash & Young (CSNY). Across those chapters, Nash’s signature is a songwriter’s gift for turning intimate observations into melodies that feel conversational yet durable.\n\nNash was born in Blackpool, Lancashire, during World War II, and grew up in Salford/Manchester. As a teenager he gravitated toward music and the social energy around skiffle and early rock ’n’ roll. With school friend Allan Clarke he formed the group that became the Hollies, and by the early 1960s the band was part of the wave of British pop acts breaking internationally. The Hollies were known for bright, tightly arranged harmonies and a steady run of hits, and Nash was central to their vocal identity. He encouraged the group to write more of its own material and began leaning toward songs that felt more personal and exploratory than standard pop singles.\n\nBy the late 1960s Nash wanted a different kind of songwriting space. He had met David Crosby and Stephen Stills during tours earlier in the decade, and in 1968—after being introduced more formally to Crosby in Laurel Canyon—he left the Hollies to form a new trio. The move was bold: he was stepping away from an established hit‑making machine into an untested configuration. But the harmonies were immediate. CSN’s 1969 debut *Crosby, Stills & Nash* made the vocal blend the headline, and Nash’s songs helped define the group’s emotional palette, adding vivid storytelling and warmth alongside the more jagged edges of his bandmates.\n\nNash’s writing for CSN balanced pop concision with a new singer‑songwriter intimacy. “Marrakesh Express,” which he had originally written while still in the Hollies orbit, became one of the band’s signature early singles—visual, melodic, and easy to sing without being simplistic. His softer songs (“Lady of the Island,” among others) demonstrated that a rock supergroup could also function like a small acoustic ensemble. When Neil Young joined in 1969 to form CSNY, Nash’s role expanded rather than shrank. In the quartet, he remained a key melodic voice, writing songs that could sit comfortably beside harder‑edged electric material because the harmonies tied everything together.\n\nNash’s best‑known writing from this period often turns private life into universal detail. “Our House,” written about the Laurel Canyon home he shared with Joni Mitchell, is built from ordinary domestic images—a vase of flowers, a quiet evening—and that very ordinariness is what makes it last. In duo work with Crosby, he also wrote or co‑wrote songs that reflect the realities of touring and borders, including “Immigration Man,” inspired by a tense encounter with U.S. customs officials while crossing the border. These songs show Nash’s instinct for grounding big emotions in small, reportable moments.\n\nAs the decades progressed, Nash remained one of CSN’s most consistent hit‑writers. He co‑wrote and/or penned songs associated with the group’s most commercial eras, including “Just a Song Before I Go” and “Wasted on the Way,” and his catalog also includes political songwriting, such as “Military Madness” and “Chicago / We Can Change the World,” reflecting the activism that became part of his public identity after he settled in California. Inside the band’s famously fragile interpersonal dynamics, Nash was often described as the “glue” member, someone who valued keeping the collaboration alive.\n\nNash also built a substantial solo career. Beginning with *Songs for Beginners* (1971), he released albums that blended personal reflection with topical concerns, often in a direct, conversational voice that emphasized lyric clarity and memorable melodic turns. He continued touring and recording as a solo artist while also returning to group activity in waves—CSN/CSNY reunions, duo work with Crosby as Crosby & Nash, and occasional special appearances that highlighted the longevity of the harmony style the trio pioneered. The duo format, in particular, let Nash foreground songcraft and vocal blend without the large‑band logistics of the full group.\n\nBeyond music, Nash developed a parallel public identity in photography. He became a published photographer, a serious photo collector, and an early figure in high‑quality digital fine‑art printing through work associated with Nash Editions. That visual sensibility echoes his songwriting: many of his best‑known songs function as snapshots, built from place names, domestic details, and small observations that imply a larger story. The connection is not accidental—Nash often writes in images, and his melodies tend to serve the narrative rather than compete with it.\n\nRecognition for Nash’s contributions reflects both his band history and his individual impact. He was inducted into the Rock & Roll Hall of Fame as a member of Crosby, Stills & Nash (1997) and again as a member of the Hollies (2010). He was appointed an Officer of the Order of the British Empire (OBE) in 2010 for services to music and charity. Those honors sit alongside a broader cultural influence: Nash helped move harmony‑driven pop into a confessional singer‑songwriter context, showing that radio‑ready writing and personal storytelling could coexist inside the same three‑part blend.\n\nNash’s later career has emphasized continuity and craft. Even as classic‑rock mythology draws attention to the band’s internal tensions, he has remained an active performer and a public advocate for songwriting as a living practice—something you keep doing, not just something you once did. In CSN, he often functioned as the steadying presence, the member most invested in keeping the harmonies alive even when relationships strained. The durability of his songs helps explain why: a well‑built melody does not depend on a particular decade to land.\n\nWhat ultimately distinguishes Nash is the way his pop background and singer‑songwriter turn reinforce each other. From the Hollies to CSN, he treats harmony not as decoration but as structure; the voices are how the song thinks. His best writing feels simple because it is clear, not because it is easy. That combination—bright melodic instinct, disciplined harmony, and a willingness to be personal—helps explain why his songs continue to connect with listeners long after the era that produced them.",
+          "Sources": [
+            {
+              "Title": "Graham Nash",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Graham_Nash"
+            },
+            {
+              "Title": "The Hollies",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://www.rockhall.com/inductees/hollies"
+            },
+            {
+              "Title": "Crosby, Stills & Nash",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://www.rockhall.com/inductees/crosby-stills-nash"
+            },
+            {
+              "Title": "Songwriters Hall of Fame: Crosby, Stills & Nash",
+              "Publisher": "Songwriters Hall of Fame",
+              "Url": "https://www.songhall.org/inductees/crosby-stills-nash"
+            },
+            {
+              "Title": "Our House",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Our_House_(Crosby,_Stills,_Nash_%26_Young_song)"
+            }
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Graham_Nash",
+            "Rock Hall – The Hollies": "https://www.rockhall.com/inductees/hollies"
+          }
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Dallas Taylor",
+        "Roles": [
+          "Drums"
+        ],
+        "Years": "1968–1969 (sessions)",
+        "YearsActive": "1966–2015",
+        "Instruments": [
+          "Drums"
+        ],
+        "Albums": [
+          "Crosby, Stills & Nash (1969)"
+        ],
+        "Overview": "Dallas Taylor played drums on key early CSN recordings and performances, helping translate the trio’s acoustic‑leaning songs into a full band feel during the debut era."
+      },
+      {
+        "Name": "Greg Reeves",
+        "Roles": [
+          "Bass"
+        ],
+        "Years": "1968–1969 (sessions)",
+        "YearsActive": "1967–present",
+        "Instruments": [
+          "Bass"
+        ],
+        "Albums": [
+          "Crosby, Stills & Nash (1969)"
+        ],
+        "Overview": "Bassist Greg Reeves contributed to the early CSN sound as the trio expanded from acoustic arrangements into fuller studio and stage lineups around the debut album period."
+      }
+    ]
   },
   {
     "ArtistID": "crosby-stills-nash-young",
