@@ -1630,236 +1630,228 @@
       "ArtistID": "fuel",
       "Name": "Fuel",
       "Type": "Band",
-      "Origin": "Harrisburg, Pennsylvania, United States",
+      "Origin": {
+        "City": "Harrisburg",
+        "Region": "Pennsylvania",
+        "Country": "United States"
+      },
       "YearsActive": [
         "1993–present"
       ],
       "Genres": [
         "Post-grunge",
+        "Hard rock",
         "Alternative rock",
-        "Hard rock"
+        "Alternative metal"
       ],
-      "Overview": "Fuel are a U.S. rock band associated with the late‑1990s post‑grunge/alternative boom, known for pairing radio‑ready hooks with a melancholic, guitar‑driven sound. Formed in 1993 (after earlier iterations in Tennessee), the group broke nationally with their major‑label debut *Sunburn* (1998), built around Carl Bell’s songwriting and the breakthrough single “Shimmer.” The album established Fuel’s signature mix of polished riffs, big choruses, and emotionally direct lyric themes.\n\nTheir commercial peak arrived with *Something Like Human* (2000). Led by “Hemorrhage (In My Hands),” the record pushed Fuel into heavy rotation across rock and alternative formats and became their best‑selling release, while follow‑up singles like “Bad Day” kept them visible on rock radio and MTV. A third album, *Natural Selection* (2003), continued the darker, heavier edge that had been growing in their sound, with “Falls On Me” becoming another prominent single.\n\nFuel’s story has also been defined by lineup changes and periods of dormancy. Vocalist Brett Scallions’ departures and returns shaped different eras, while Carl Bell’s role as principal songwriter anchored the band’s identity even as personnel shifted. In the 2020s, Bell and drummer Kevin Miller re‑formed a new lineup and resumed recording and touring, positioning Fuel as a legacy act that still reaches new listeners through enduring staples like “Shimmer” and “Hemorrhage (In My Hands).”",
+      "Labels": [
+        "550 Music",
+        "Epic Records",
+        "Megaforce Records",
+        "Sony BMG"
+      ],
+      "Overview": "Fuel are an American rock band associated with the late‑1990s/early‑2000s post‑grunge wave, known for melodic, hook‑driven songwriting and big dynamic shifts from restrained verses to explosive choruses. The story begins in western Tennessee, where childhood friends Carl Bell and Jeff Abercrombie started playing together in 1989. After years of grinding through club circuits under earlier names, Abercrombie recruited vocalist‑guitarist Brett Scallions in early 1993 and the group relocated to Harrisburg, Pennsylvania, where they self‑released the Porcelain EP (1996) and built a grassroots following.\n\nThat momentum led to a deal with Sony’s 550 Music and Epic, and Fuel’s major‑label debut Sunburn (1998) introduced “Shimmer” to a national audience. The record established the band’s core formula: chiming, heavy guitars arranged around instantly memorable choruses. Fuel reached their commercial peak with Something Like Human (2000), led by “Hemorrhage (In My Hands),” which spent 12 weeks at No. 1 on Billboard’s Modern Rock Tracks chart and became their highest‑charting single on the U.S. Hot 100.\n\nTheir third album Natural Selection (2003), co‑produced by Michael Beinhorn and Bell, pushed for a harder dynamic while keeping the melodic center that made the band radio‑durable (“Falls on Me,” “Won’t Back Down”). The album earned a Grammy nomination for Best Engineered Album, Non‑Classical and effectively capped the band’s most recognized era. Fuel later cycled through major lineup changes, but the late‑’90s/early‑’00s run remains the foundation of their reputation and live set.",
       "NotableAlbums": [
         {
-          "Year": "1998",
           "Title": "Sunburn",
-          "Details": "Major‑label debut that introduced Fuel’s polished post‑grunge sound; driven by the breakout single “Shimmer” and later certified platinum in the U.S."
+          "Year": 1998
         },
         {
-          "Year": "2000",
           "Title": "Something Like Human",
-          "Details": "Fuel’s commercial high point and best‑selling album, powered by “Hemorrhage (In My Hands)” and the hit single “Bad Day”; certified multi‑platinum in the U.S."
+          "Year": 2000
         },
         {
-          "Year": "2003",
           "Title": "Natural Selection",
-          "Details": "A heavier, darker third album featuring “Falls On Me”; marked a transitional period for the band amid touring and internal strain."
+          "Year": 2003
         },
         {
-          "Year": "2007",
           "Title": "Angels & Devils",
-          "Details": "Released during the post‑Scallions lineup era, reflecting a more modern hard‑rock approach while keeping Bell’s melodic sensibility at the center."
-        },
-        {
-          "Year": "2021",
-          "Title": "Anomaly",
-          "Details": "A 2020s reboot led by Carl Bell and Kevin Miller, signaling Fuel’s return to recording after a long gap and introducing a refreshed lineup."
+          "Year": 2007
         }
       ],
       "SignatureSongs": [
         {
-          "Year": "1998",
           "Title": "Shimmer",
-          "Details": "The breakthrough single that brought Fuel national attention, setting their template of chiming guitars, emotional candor, and arena‑sized choruses."
+          "Year": 1998
         },
         {
-          "Year": "2000",
           "Title": "Hemorrhage (In My Hands)",
-          "Details": "Fuel’s defining hit of the early 2000s; a dramatic power ballad that dominated alternative/rock airplay and became the band’s signature song for many listeners."
+          "Year": 2000
         },
         {
-          "Year": "2000",
           "Title": "Bad Day",
-          "Details": "A punchier, riff‑forward single that expanded Fuel’s mainstream reach beyond alternative radio during the *Something Like Human* era."
+          "Year": 2001
         },
         {
-          "Year": "2003",
-          "Title": "Falls On Me",
-          "Details": "A major single from *Natural Selection* that showcased the band’s darker tone and soaring melodic instincts."
-        },
-        {
-          "Year": "1999",
-          "Title": "Jesus or a Gun",
-          "Details": "A harder‑edged track from the *Sunburn* era that highlighted Fuel’s heavier side and guitar‑centric intensity."
+          "Title": "Falls on Me",
+          "Year": 2003
         }
       ],
       "Achievements": [
-        "RIAA platinum certification for *Sunburn* (U.S.).",
-        "RIAA multi‑platinum certification for *Something Like Human* (U.S.), Fuel’s best‑selling album.",
-        "“Hemorrhage (In My Hands)” spent 12 weeks at No. 1 on Billboard’s Alternative Airplay chart and became Fuel’s highest‑charting Hot 100 single.",
-        "Sustained late‑1990s/early‑2000s mainstream exposure via rock/alternative radio rotation, MTV‑era video play, and high‑profile tours and festival slots."
+        "Sunburn (1998) was certified platinum by the RIAA.",
+        "Something Like Human (2000) reached the Top 20 of the Billboard 200 and was certified double‑platinum by the RIAA.",
+        "“Hemorrhage (In My Hands)” spent 12 weeks at No. 1 on Billboard’s Modern Rock Tracks chart.",
+        "Natural Selection (2003) received a Grammy nomination for Best Engineered Album, Non‑Classical."
+      ],
+      "KeyFacts": [
+        "Founded in 1993 by Carl Bell, Brett Scallions, Jeff Abercrombie, Jody Abbott, and Erik Avakian; origins trace back to Bell and Abercrombie playing together in Kenton, Tennessee (1989).",
+        "Built a following in Harrisburg, Pennsylvania with the self‑released Porcelain EP (1996) before signing with 550 Music/Epic.",
+        "Recorded Sunburn with a session drummer, then toured the album cycle with drummer Kevin Miller.",
+        "All eleven songs on Sunburn were written by Carl Bell (per published contemporary band profile)."
       ],
       "ExternalLinks": {
         "Official Site": "https://www.fuel-official.com/",
-        "AllMusic": "https://www.allmusic.com/artist/fuel-mn0000988627",
         "Wikipedia": "https://en.wikipedia.org/wiki/Fuel_(band)",
-        "YouTube (Official)": "https://www.youtube.com/@FuelOfficial"
+        "AllMusic": "https://www.allmusic.com/artist/fuel-mn0000161141",
+        "Encyclopedia.com Profile": "https://www.encyclopedia.com/science-and-technology/chemistry/organic-chemistry/fuel"
       },
-      "Labels": [
-        "550 Music",
-        "Epic",
-        "Megaforce",
-        "Sony BMG"
-      ],
-      "KeyFacts": [
-        "Fuel formed in 1993 and relocated to Harrisburg, Pennsylvania, developing a strong regional following before breaking nationally.",
-        "Carl Bell has been widely credited as the band’s principal songwriter, writing key singles such as “Shimmer” and “Hemorrhage (In My Hands).”",
-        "*Sunburn* (1998) introduced Fuel to a mainstream audience, while *Something Like Human* (2000) delivered their biggest sales and airplay peak.",
-        "Vocalist Brett Scallions fronted the band for multiple eras (1990s/early‑2000s and later returns), with different lineups carrying the name between periods.",
-        "In the 2020s, Bell and drummer Kevin Miller re‑formed Fuel and returned to recording and touring activity."
-      ],
       "CoreMembers": [
         {
-          "Name": "Carl Bell",
-          "Roles": [
-            "lead guitar",
-            "songwriter",
-            "producer",
-            "backing vocals"
+          "Name": "Brett Scallions",
+          "YearsActive": "1993–2006; 2010–2014",
+          "Roles": "Lead vocals; rhythm guitar",
+          "Instruments": "Vocals; guitar",
+          "Albums": [
+            "Sunburn (1998)",
+            "Something Like Human (2000)",
+            "Natural Selection (2003)"
           ],
-          "Years": "1993–2010; 2020–present",
+          "Overview": "Original lead singer; fronted the band during its breakthrough and most visible chart era.",
           "Bio": {
+            "BioID": "fuel-bio-brett-scallions",
+            "ArtistID": "fuel",
+            "ArtistName": "Fuel",
+            "MemberName": "Brett Scallions",
+            "FullName": "Brett Scallions",
             "Birth": {
-              "Date": "1967-01-09",
-              "Place": "Kenton, Tennessee, United States"
+              "Date": "1971-12-21",
+              "Place": "Brownsville, Tennessee, United States"
             },
-            "Death": {
-              "Date": "",
-              "Place": ""
+            "ActiveYears": "1993–2006",
+            "Nationality": "American",
+            "Genres": "Rock; Post‑grunge; Alternative rock",
+            "Roles": "Lead vocals; rhythm guitar",
+            "PrimaryInstruments": "Vocals; guitar",
+            "Occupations": "Musician",
+            "AssociatedActs": "Fuel",
+            "KeyAlbums": "Sunburn (1998); Something Like Human (2000); Natural Selection (2003)",
+            "KeySongs": "Shimmer; Hemorrhage (In My Hands); Bad Day; Falls on Me",
+            "Achievements": "Part of Fuel’s core hitmaking era (Sunburn through Natural Selection).",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Fuel_(band)"
             },
-            "Background": "Founder and primary songwriter whose melodic, riff‑driven writing shaped Fuel’s biggest singles and overall sonic identity.",
-            "CareerHighlights": [
-              "Formed Fuel in the early 1990s after earlier band iterations in Tennessee.",
-              "Wrote or co‑wrote the band’s signature hits including “Shimmer” and “Hemorrhage (In My Hands).”",
-              "Served as a key studio architect across Fuel’s breakthrough albums and later re‑formed the band in the 2020s."
-            ],
-            "Biography": "Carl Bell is the creative engine most closely associated with Fuel’s rise. Born in Kenton, Tennessee in 1967, he came up playing in local bands and developing a songwriter’s ear for the tension between gritty guitars and pop‑leaning melody.\n\nBefore Fuel became a national name, Bell’s path ran through a string of regional projects and club‑circuit lineups. Those early years mattered: they taught him how to build songs that read clearly in noisy rooms, but still carry emotional weight when stripped down.\n\nFuel’s first widely recognized chapter began when the band coalesced in the early 1990s and eventually relocated to Harrisburg, Pennsylvania. Bell’s writing—concise verses, choruses that open up like floodlights, and a moody harmonic palette—quickly became the group’s calling card.\n\nThat approach reached the mainstream with *Sunburn* (1998). The album’s breakout, “Shimmer,” is often cited as the moment Fuel moved from regional promise to a fixture of late‑’90s rock radio, and Bell’s authorship is central to its lasting appeal.\n\nThe follow‑up *Something Like Human* (2000) cemented Bell’s reputation as a hit‑level rock writer. “Hemorrhage (In My Hands)” paired a stark emotional premise with a huge hook, and it became the band’s era‑defining single—an example of Bell’s ability to make vulnerability sound anthemic.\n\nAcross *Natural Selection* (2003) and subsequent eras, Bell remained the steady point even as the band navigated personnel changes and the industry’s shifting rock landscape. His parts are rarely showy for their own sake; instead, they are built to serve the song’s arc and the vocal’s emotional center.\n\nBell’s role extends beyond guitar work. He has been credited with production and studio leadership across Fuel’s catalog, shaping tones, arrangements, and the polished heaviness that made the band competitive in both alternative and mainstream rock formats.\n\nAfter periods away from the band, Bell returned with renewed focus in the 2020s, re‑forming Fuel with drummer Kevin Miller and guiding a new lineup. The reboot was presented less as nostalgia and more as a continuation of the songwriting approach that made Fuel resonate in the first place.\n\nWhether in classic hits or later recordings, Bell’s signature is the same: emotionally direct rock songs that balance radio clarity with genuine shadows—music that can sound huge without losing its human scale.",
+            "Biography": "Brett Scallions (born December 21, 1971, in Brownsville, Tennessee) is Fuel’s original lead vocalist and one of the defining voices of late‑’90s post‑grunge radio. Raised in western Tennessee, he developed as a singer and guitarist in a local bar‑band circuit that rewarded stamina, strong hooks, and the ability to project emotion over loud stages.\n\nFuel’s origin story centers on the friendship between guitarist‑songwriter Carl Bell and bassist Jeff Abercrombie, but Scallions became the catalyst who turned an evolving club act into a band with a clear identity. Abercrombie saw him performing in Jackson, Tennessee in 1992 and recruited him to join the lineup in early 1993, completing the core that would soon relocate to Harrisburg, Pennsylvania.\n\nIn Harrisburg, the band moved from cover gigs to original releases, issuing the Porcelain EP (1996) and building a grassroots audience. Scallions’ voice—raspy, urgent, and melodic—fit Bell’s songwriting approach, which often paired chiming guitar lines with choruses engineered for immediate sing‑along impact. That pairing is audible on the early version of “Shimmer,” which gained local radio traction before the band was signed.\n\nOnce Fuel signed with Sony’s 550 Music and Epic, the band re‑recorded “Shimmer” for Sunburn (1998). Scallions’ performance helped the track balance intimacy and arena scale: the verses sit back in the pocket while the chorus opens wide, a dynamic that became a hallmark of Fuel singles and an essential part of their live show.\n\nThe band’s commercial peak, Something Like Human (2000), demanded a vocalist who could carry bigger production and higher stakes without losing the grit that made the band feel human. Scallions met that moment on “Hemorrhage (In My Hands),” a single that topped Billboard’s Modern Rock Tracks chart and crossed over to the Hot 100, becoming Fuel’s signature hit and a defining song of the era.\n\nScallions also remained central as Fuel moved into Natural Selection (2003), an album that kept the melodic center but pushed heavier dynamics and harder edges. The cycle included high‑visibility touring and soundtrack placements, reflecting how strongly Fuel’s sound translated to mass‑market rock media at the time.\n\nAfter the early‑2000s run, Fuel’s lineup fractured, and Scallions’ relationship with the band became intermittent across different eras. Even so, his imprint on the catalog is foundational: most of the era‑defining tracks were recorded with him at the microphone, and his timbre remains the reference point many listeners use when they think of Fuel.\n\nAcross the larger post‑grunge landscape, Scallions’ career illustrates how a distinctive voice can become the band’s calling card—recognizable within a line, capable of selling both vulnerability and force, and suited to songs built to move between quiet tension and cathartic release.",
             "Sources": [
+              {
+                "Title": "Fuel | Encyclopedia.com (member birth details & band history)",
+                "Publisher": "Encyclopedia.com",
+                "Url": "https://www.encyclopedia.com/science-and-technology/chemistry/organic-chemistry/fuel"
+              },
               {
                 "Title": "Fuel (band)",
                 "Publisher": "Wikipedia",
                 "Url": "https://en.wikipedia.org/wiki/Fuel_(band)"
               },
+              {
+                "Title": "Something Like Human",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Something_Like_Human"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Carl Bell",
+          "YearsActive": "1989–2010; 2020–present",
+          "Roles": "Lead guitar; songwriter; producer",
+          "Instruments": "Guitar; vocals; keyboards",
+          "Albums": [
+            "Sunburn (1998)",
+            "Something Like Human (2000)",
+            "Natural Selection (2003)"
+          ],
+          "Overview": "Founder and principal songwriter; wrote Fuel’s signature hits including “Shimmer.”",
+          "Bio": {
+            "BioID": "fuel-bio-carl-bell",
+            "ArtistID": "fuel",
+            "ArtistName": "Fuel",
+            "MemberName": "Carl Bell",
+            "FullName": "Carl William Bell",
+            "Birth": {
+              "Date": "1967-01-09",
+              "Place": "Kenton, Tennessee, United States"
+            },
+            "ActiveYears": "1989–2010",
+            "Nationality": "American",
+            "Genres": "Rock; Post‑grunge; Alternative rock",
+            "Roles": "Lead guitar; songwriter; producer",
+            "PrimaryInstruments": "Guitar; vocals; keyboards",
+            "Occupations": "Musician",
+            "AssociatedActs": "Fuel",
+            "KeyAlbums": "Sunburn (1998); Something Like Human (2000); Natural Selection (2003)",
+            "KeySongs": "Shimmer; Hemorrhage (In My Hands); Bad Day; Falls on Me",
+            "Achievements": "Part of Fuel’s core hitmaking era (Sunburn through Natural Selection).",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Carl_Bell_(musician)"
+            },
+            "Biography": "Carl William Bell (born January 9, 1967, in Kenton, Tennessee) is Fuel’s founder, lead guitarist, and principal songwriter—the person most responsible for the band’s signature songs. Growing up in rural western Tennessee, he developed a deep listening habit through rock records and turned that influence into a writing style that blends hard‑rock force with melodic clarity.\n\nBell and bassist Jeff Abercrombie began playing together in 1989, first in garage bands and later in a touring club circuit act. Bell’s early role was both practical and conceptual: he built arrangements that could survive on the road, and he wrote material that left room for hooks even when the guitars were heavy.\n\nWhen vocalist‑guitarist Brett Scallions joined in 1993, Bell’s songwriting found a frontman suited to its emotional register. The band relocated to Harrisburg, Pennsylvania, and the independent EP period that followed was crucial for Bell: it let him test songs in real time, refine structures, and shape the dynamic contrasts that would later define Fuel’s singles.\n\nBell wrote “Shimmer,” the breakout track that ultimately anchored Sunburn (1998). The song’s success established Fuel’s identity and showcased Bell’s key strength: pairing an immediately graspable melodic hook with a guitar texture that feels both polished and aggressive. It is the template many of the band’s best‑known songs follow—verse restraint, chorus lift, and a guitar part that reinforces the vocal melody rather than competing with it.\n\nOn Something Like Human (2000), Bell expanded that approach into a broader, more dramatic palette. He co‑produced the album and remained the central writer, guiding songs that could sit on rock radio while still carrying emotional weight. The era’s defining single, “Hemorrhage (In My Hands),” is often cited as a prime example of his tension‑and‑release craft.\n\nNatural Selection (2003), co‑produced by Michael Beinhorn and Bell, pushed for a harder dynamic and a more aggressive sonic impact while retaining the melodic center that made the band accessible. The album received a Grammy nomination for Best Engineered Album, Non‑Classical, reflecting the seriousness with which the band and its team treated sound as part of the songwriting argument.\n\nFuel’s later history includes departures and multiple lineups, but Bell’s status as the band’s creative spine has remained a constant reference. As a guitarist and writer, he is associated with the band’s most durable catalog—songs built for the stage, engineered for radio, and structured to make a chorus feel inevitable.",
+            "Sources": [
               {
                 "Title": "Carl Bell (musician)",
                 "Publisher": "Wikipedia",
                 "Url": "https://en.wikipedia.org/wiki/Carl_Bell_(musician)"
               },
               {
-                "Title": "Fuel | Songs, Albums, Reviews, Bio & More",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/fuel-mn0000988627"
-              },
-              {
-                "Title": "Fuel — About",
-                "Publisher": "Fuel Official Site",
-                "Url": "https://www.fuel-official.com/about"
-              },
-              {
-                "Title": "Fuel",
+                "Title": "Fuel | Encyclopedia.com (member birth details & band history)",
                 "Publisher": "Encyclopedia.com",
                 "Url": "https://www.encyclopedia.com/science-and-technology/chemistry/organic-chemistry/fuel"
-              }
-            ],
-            "ExternalLinks": {
-              "Carl Bell Music (Official)": "https://www.carlbellmusic.com/",
-              "Wikipedia — Carl Bell": "https://en.wikipedia.org/wiki/Carl_Bell_(musician)"
-            }
-          }
-        },
-        {
-          "Name": "Brett Scallions",
-          "Roles": [
-            "lead vocals",
-            "rhythm guitar",
-            "songwriter"
-          ],
-          "Years": "1993–2006; 2010–2020",
-          "Bio": {
-            "Birth": {
-              "Date": "1971-12-21",
-              "Place": "Brownsville, Tennessee, United States"
-            },
-            "Death": {
-              "Date": "",
-              "Place": ""
-            },
-            "Background": "Co‑founding lead vocalist whose emotive delivery and melodic instincts defined Fuel’s biggest mainstream era.",
-            "CareerHighlights": [
-              "Fronted Fuel through the breakthrough *Sunburn* and the multi‑platinum *Something Like Human* era.",
-              "Sang on the band’s best‑known singles including “Shimmer,” “Hemorrhage (In My Hands),” and “Bad Day.”",
-              "Returned for later periods, helping bridge the band’s classic identity with subsequent lineups."
-            ],
-            "Biography": "Brett Scallions is the voice most listeners associate with Fuel’s late‑1990s and early‑2000s success. Born in Brownsville, Tennessee in 1971, he came up steeped in classic American pop and rock traditions, developing a powerful, plaintive tone that would translate well to alternative radio.\n\nScallions entered the Fuel story when the group was still a working, evolving outfit—an era of long nights, club circuits, and constant refinement. His vocal approach brought a clear emotional center to Carl Bell’s guitar‑driven writing, giving Fuel a sound that could feel both intimate and arena‑ready.\n\nThe major‑label breakthrough arrived with *Sunburn* (1998). On “Shimmer,” Scallions’ performance is simultaneously restrained and urgent, a balance that helped the song cross from rock formats into broader mainstream recognition.\n\nFuel’s peak visibility came with *Something Like Human* (2000). Scallions’ dramatic phrasing on “Hemorrhage (In My Hands)” turned a bleak emotional premise into a massive, cathartic chorus—one reason the song became a defining rock ballad of the era.\n\nHe also helped broaden Fuel’s palette. Tracks like “Bad Day” leaned into punchier, riff‑forward energy, while other album cuts highlighted his ability to shift between grit and clarity without losing melodic focus.\n\nBy the early 2000s, the pressures of touring and studio expectations intensified. The band continued with *Natural Selection* (2003) and a heavier emotional tone, and Scallions remained a central figure as Fuel navigated both artistic ambition and the realities of the changing rock marketplace.\n\nAfter leaving the band in the mid‑2000s, Scallions continued to work in music through various projects and collaborations, maintaining a reputation as a vocalist with both power and vulnerability.\n\nHis eventual return to Fuel brought continuity to the catalog—an acknowledgment that his voice was a core part of what made the band recognizable in the first place.\n\nAcross his Fuel eras, Scallions’ contribution is less about vocal flash and more about emotional readability: he sings as if the stakes are real, which is exactly why songs like “Shimmer” and “Hemorrhage” still land decades later.",
-            "Sources": [
+              },
               {
-                "Title": "Brett Scallions",
+                "Title": "Natural Selection (Fuel album) – Grammy nomination detail",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Brett_Scallions"
-              },
-              {
-                "Title": "Fuel (band)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Fuel_(band)"
-              },
-              {
-                "Title": "Fuel | Songs, Albums, Reviews, Bio & More",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/fuel-mn0000988627"
-              },
-              {
-                "Title": "Fuel — About",
-                "Publisher": "Fuel Official Site",
-                "Url": "https://www.fuel-official.com/about"
-              },
-              {
-                "Title": "Fuel",
-                "Publisher": "Encyclopedia.com",
-                "Url": "https://www.encyclopedia.com/science-and-technology/chemistry/organic-chemistry/fuel"
+                "Url": "https://en.wikipedia.org/wiki/Natural_Selection_(Fuel_album)"
               }
-            ],
-            "ExternalLinks": {
-              "Wikipedia — Brett Scallions": "https://en.wikipedia.org/wiki/Brett_Scallions"
-            }
+            ]
           }
         },
         {
           "Name": "Jeff Abercrombie",
-          "Roles": [
-            "bass",
-            "songwriter"
+          "YearsActive": "1989–2010",
+          "Roles": "Bass",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Sunburn (1998)",
+            "Something Like Human (2000)",
+            "Natural Selection (2003)"
           ],
-          "Years": "1993–2010",
+          "Overview": "Co‑founder and longtime bassist; part of the classic lineup through the band’s peak.",
           "Bio": {
+            "BioID": "fuel-bio-jeff-abercrombie",
+            "ArtistID": "fuel",
+            "ArtistName": "Fuel",
+            "MemberName": "Jeff Abercrombie",
+            "FullName": "Jeff Abercrombie",
             "Birth": {
               "Date": "1969-01-08",
               "Place": "Kenton, Tennessee, United States"
             },
-            "Death": {
-              "Date": "",
-              "Place": ""
+            "ActiveYears": "1989–2010",
+            "Nationality": "American",
+            "Genres": "Rock; Post‑grunge; Alternative rock",
+            "Roles": "Bass",
+            "PrimaryInstruments": "Bass guitar",
+            "Occupations": "Musician",
+            "AssociatedActs": "Fuel",
+            "KeyAlbums": "Sunburn (1998); Something Like Human (2000); Natural Selection (2003)",
+            "KeySongs": "Shimmer; Hemorrhage (In My Hands); Bad Day; Falls on Me",
+            "Achievements": "Part of Fuel’s core hitmaking era (Sunburn through Natural Selection).",
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Fuel_(band)"
             },
-            "Background": "Co‑founding bassist who anchored Fuel’s rhythm section through the band’s breakthrough and peak‑success years.",
-            "CareerHighlights": [
-              "Helped form early versions of the band with Carl Bell before Fuel’s move to Pennsylvania.",
-              "Played bass across Fuel’s most commercially successful era, including *Sunburn* and *Something Like Human*.",
-              "Remained with the group through major touring cycles and lineup transitions into 2010."
-            ],
-            "Biography": "Jeff Abercrombie is Fuel’s foundational low‑end voice—less visible than the band’s frontman era, but essential to how the classic records move. Born in Kenton, Tennessee in 1969, he was a longtime musical ally of Carl Bell, and their shared background provided the earliest framework for what eventually became Fuel.\n\nIn the band’s pre‑breakthrough years, Abercrombie’s role was practical as well as musical: keeping the groove steady while the group cycled through names, lineups, and regional circuits. Those years forged a workmanlike precision that later served the band well on big stages.\n\nAfter Fuel’s relocation to Harrisburg, Pennsylvania, the group sharpened its identity and began building momentum with independent releases. Abercrombie’s bass parts, typically locked closely to the kick drum, gave Bell’s guitars a firm platform while leaving space for vocals and hooks.\n\nOn *Sunburn* (1998), Abercrombie helped define the band’s balance between polished alternative rock and heavier post‑grunge weight. The riffs are big, but the rhythm section stays disciplined—one reason the songs translate cleanly to radio and live settings.\n\n*Something Like Human* (2000) expanded Fuel’s reach, and Abercrombie’s playing remained a constant through the heightened demands of larger tours and mass‑market exposure. The band’s biggest hit, “Hemorrhage (In My Hands),” succeeds partly because the arrangement leaves room for the chorus to explode without the bottom end becoming cluttered.\n\nAs Fuel moved through the early‑2000s with *Natural Selection* and increasingly complex internal dynamics, Abercrombie continued as a stabilizing presence on stage and in the lineup—an anchor during a period when the band’s personnel and direction were frequently in motion.\n\nHis tenure through 2010 makes him one of the longest‑running members in Fuel history, spanning the formative period, the platinum‑level peak, and the first major phase of transformation.\n\nAbercrombie’s legacy in Fuel is the classic bassist’s legacy: you notice it most when it’s missing. In the band’s defining recordings, his restraint and pocket are what allow the emotion and melody to hit with maximum force.",
+            "Biography": "Jeff Abercrombie (born January 8, 1969, in Kenton, Tennessee) is a co‑founder and longtime bassist of Fuel, present from the band’s earliest days. Alongside guitarist Carl Bell, he helped form the initial project in 1989 and carried it through the years when Fuel evolved from a road‑hardened club act into a major‑label rock band.\n\nIn the early period, Abercrombie’s job was to provide a stable musical foundation while the group worked out its identity—first in cover sets, then increasingly in original material. That steady rhythmic role became especially important once the band began emphasizing dynamic songwriting, where verses often pull back and choruses explode.\n\nAbercrombie also played a decisive role in the band’s personnel history: after seeing Brett Scallions perform in Jackson, Tennessee, he recruited him to join in early 1993. With the addition of drummer Jody Abbott and keyboardist Erik Avakian, the band relocated to Harrisburg, Pennsylvania, where they built a cult following and self‑released EPs that helped attract label attention.\n\nThose years led directly to Fuel’s major‑label era. As the band moved from Porcelain and Hazleton into Sunburn (1998), Abercrombie’s bass anchored the band’s hook‑heavy writing and helped keep the guitars and vocals grounded in a clear groove, an approach that translated well to radio production and high‑volume live shows.\n\nAbercrombie remained with Fuel through their most recognized run of releases, including Something Like Human (2000) and Natural Selection (2003). His tenure covers the period when Fuel became a staple on U.S. rock radio, toured heavily, and built a catalog that continues to define the band’s reputation.\n\nOver time, as lineup changes reshaped Fuel, Abercrombie eventually left the group. Even so, his co‑founder status is central to the band’s origin story: he is one of the two musicians who began the project in small‑town Tennessee and helped guide it through the rise that made Fuel a familiar name to late‑’90s rock audiences.",
             "Sources": [
               {
-                "Title": "Fuel",
+                "Title": "Fuel | Encyclopedia.com (member birth details & band history)",
                 "Publisher": "Encyclopedia.com",
                 "Url": "https://www.encyclopedia.com/science-and-technology/chemistry/organic-chemistry/fuel"
               },
@@ -1869,46 +1861,50 @@
                 "Url": "https://en.wikipedia.org/wiki/Fuel_(band)"
               },
               {
-                "Title": "Fuel | Songs, Albums, Reviews, Bio & More",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/fuel-mn0000988627"
-              },
-              {
-                "Title": "Fuel — About",
-                "Publisher": "Fuel Official Site",
-                "Url": "https://www.fuel-official.com/about"
+                "Title": "Fuel – History (early years section)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Fuel_(band)#History"
               }
-            ],
-            "ExternalLinks": {
-              "Wikipedia — Fuel": "https://en.wikipedia.org/wiki/Fuel_(band)"
-            }
+            ]
           }
         },
         {
           "Name": "Kevin Miller",
-          "Roles": [
-            "drums"
+          "YearsActive": "1998–2004; 2020–present",
+          "Roles": "Drums",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            "Something Like Human (2000)",
+            "Natural Selection (2003)"
           ],
-          "Years": "1998–2004; 2020–present",
+          "Overview": "Touring/recording-era drummer closely tied to Fuel’s early‑2000s visibility.",
           "Bio": {
+            "BioID": "fuel-bio-kevin-miller",
+            "ArtistID": "fuel",
+            "ArtistName": "Fuel",
+            "MemberName": "Kevin Miller",
+            "FullName": "Kevin Miller",
             "Birth": {
               "Date": "1962-09-06",
               "Place": "Allentown, Pennsylvania, United States"
             },
-            "Death": {
-              "Date": "",
-              "Place": ""
+            "ActiveYears": "1998–2004",
+            "Nationality": "American",
+            "Genres": "Rock; Post‑grunge; Alternative rock",
+            "Roles": "Drums",
+            "PrimaryInstruments": "Drums; percussion",
+            "Occupations": "Musician",
+            "AssociatedActs": "Fuel",
+            "KeyAlbums": "Something Like Human (2000); Natural Selection (2003)",
+            "KeySongs": "Shimmer; Hemorrhage (In My Hands); Bad Day; Falls on Me",
+            "Achievements": "Part of Fuel’s core hitmaking era (Sunburn through Natural Selection).",
+            "ExternalLinks": {
+              "Modern Drummer": "https://www.moderndrummer.com/2004/05/kevin-miller/"
             },
-            "Background": "Key drummer of Fuel’s late‑1990s/early‑2000s peak and a major figure in the band’s 2020s re‑formation.",
-            "CareerHighlights": [
-              "Joined during the touring cycle around *Sunburn* and played through Fuel’s commercial peak.",
-              "Drummed on the era that produced “Hemorrhage (In My Hands)” and other major singles.",
-              "Returned in 2020 alongside Carl Bell to relaunch Fuel with a new lineup and new recordings."
-            ],
-            "Biography": "Kevin Miller’s drumming is closely associated with Fuel’s biggest mainstream era. Born in Allentown, Pennsylvania in 1962, he entered the band as Fuel transitioned from a breakout act into a touring headliner with escalating radio presence.\n\nBy the time Miller joined, Fuel had already found its songwriting identity—big choruses, moody verses, and guitar textures designed for modern rock formats. What Miller added was a grounded, punchy approach that kept the band’s arrangements tight under pressure.\n\nHis era aligns with Fuel’s most visible run: the late 1990s into the early 2000s. In live settings, that meant translating studio polish into loud rooms night after night, keeping tempos consistent and dynamics controlled so the hooks landed.\n\nOn songs like “Hemorrhage (In My Hands),” the drumming isn’t about flash; it’s about architecture. Miller’s parts support the build, leaving space for the vocal to carry emotional weight while ensuring the chorus hits with impact.\n\nMiller’s tenure also coincided with the practical realities of peak success—relentless touring schedules, media obligations, and the strain that comes with sustaining chart performance. Drummers are often the band’s internal metronome, and that role becomes even more critical when everything else is moving fast.\n\nAfter stepping away during later lineup changes, Miller remained a meaningful part of Fuel’s history because his playing is embedded in the period most fans first encountered.\n\nIn 2020, Miller returned alongside Carl Bell as Fuel was rebooted with a new lineup. That return wasn’t just symbolic; it reconnected the band to the rhythmic identity of its most successful era and helped make the reboot feel like Fuel rather than a separate project.\n\nMiller’s contribution can be summarized simply: steadiness with power. It’s the kind of drumming that makes radio rock feel inevitable—solid enough to support big hooks, dynamic enough to lift them.",
+            "Biography": "Kevin Miller (born September 6, 1962, in Allentown, Pennsylvania) is a drummer associated with Fuel’s late‑’90s/early‑’00s peak and later‑era regroupings. According to contemporary band histories, Fuel recorded Sunburn with a session drummer, but the touring lineup that followed included Miller—an addition that strengthened the band’s live impact as their audience expanded beyond the regional circuit.\n\nMiller’s style is built for radio‑constructed rock songs: a firm backbeat, clean transitions, and dynamic control that makes big choruses land without rushing the tempo. That approach suits Fuel’s writing, which often relies on contrast—restrained verses that build tension and choruses designed to feel cathartic.\n\nHe is closely associated with the era when Fuel’s catalog included “Hemorrhage (In My Hands)” and the album Something Like Human, a period of heavy touring and mainstream visibility. In Fuel’s songcraft, the drums have to deliver both weight and clarity under dense guitars, and Miller’s playing keeps the groove readable even at maximum volume.\n\nA Modern Drummer feature captured aspects of that touring life and Miller’s perspective as a working rock drummer during a high‑profile album cycle. Profiles like that matter because they document the practical reality behind the hits: nightly performance demands, consistent sound, and the discipline required to keep a band tight over long runs.\n\nAfter the early‑2000s cycle, Fuel went through extensive lineup and branding changes, and Miller’s relationship with the band changed over time as well. Still, his name remains linked to the band’s definitive live era—when the songs from Sunburn through Natural Selection became staples—and to the punchy, straightforward groove that helped Fuel translate studio dynamics into a powerful stage show.",
             "Sources": [
               {
-                "Title": "Fuel",
+                "Title": "Fuel | Encyclopedia.com (member birth details & band history)",
                 "Publisher": "Encyclopedia.com",
                 "Url": "https://www.encyclopedia.com/science-and-technology/chemistry/organic-chemistry/fuel"
               },
@@ -1918,133 +1914,59 @@
                 "Url": "https://en.wikipedia.org/wiki/Fuel_(band)"
               },
               {
-                "Title": "Fuel — About",
-                "Publisher": "Fuel Official Site",
-                "Url": "https://www.fuel-official.com/about"
+                "Title": "Kevin Miller (Modern Drummer feature)",
+                "Publisher": "Modern Drummer",
+                "Url": "https://www.moderndrummer.com/2004/05/kevin-miller/"
               }
-            ],
-            "ExternalLinks": {
-              "Wikipedia — Fuel": "https://en.wikipedia.org/wiki/Fuel_(band)"
-            }
-          }
-        },
-        {
-          "Name": "Jody Abbott",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "1993–1998",
-          "Bio": {
-            "Birth": {
-              "Date": "",
-              "Place": ""
-            },
-            "Death": {
-              "Date": "2022-07-20",
-              "Place": ""
-            },
-            "Background": "Original drummer who helped establish Fuel’s early lineup and touring foundation before the band’s major‑label breakthrough.",
-            "CareerHighlights": [
-              "Played in Fuel’s early years and on the band’s independent releases prior to *Sunburn*.",
-              "Part of the lineup that developed Fuel’s live reputation on the club circuit.",
-              "Died in 2022 at age 55 after living with Huntington’s disease."
-            ],
-            "Biography": "Jody Abbott was Fuel’s first drummer and a key part of the band’s formative push from local circuit to serious contender. Long before Fuel became a radio staple, Abbott was in the trenches—rehearsing, gigging, and helping shape the live chemistry that allowed the songs to land with conviction.\n\nThe band’s early history ran through multiple names and versions, and Abbott was central to the period when the group hardened into a real unit. Those years mattered because Fuel’s later mainstream success was built on the ability to deliver tight, emotionally charged performances night after night.\n\nAbbott’s tenure covered the pre‑breakthrough era and the independent releases that helped attract major‑label attention. It’s the classic role of an early member: helping build the platform from which the breakout later becomes possible.\n\nEven after lineup changes, Abbott remained part of Fuel’s story because he represents the origin point—the drummer who helped define the band’s early momentum and working‑band discipline.\n\nIn 2022, Abbott died after a long battle with Huntington’s disease. Reports at the time noted he was 55, and his death prompted tributes that emphasized both his musicianship and his personal impact on those around him.\n\nAbbott’s legacy is woven into the band’s foundation: the early grind that preceded the platinum records, and the human story behind the name on the marquee.",
-            "Sources": [
-              {
-                "Title": "Original Fuel Drummer Jody Abbott Dies from Huntington’s Disease",
-                "Publisher": "American Songwriter",
-                "Url": "https://americansongwriter.com/original-fuel-drummer-jody-abbott-dies-from-huntingtons-disease/"
-              },
-              {
-                "Title": "Former Fuel & Breaking Point drummer Jody Abbott dies",
-                "Publisher": "Localmemphis.com",
-                "Url": "https://www.localmemphis.com/article/life/people/memphis-musician-jody-abbot-former-fuel-breaking-point-drummer-dies-huntingtons-disease/522-5ecf92f9-1a78-4b6f-86e6-f557d9b28553"
-              },
-              {
-                "Title": "Jody Abbott, Original Drummer of Alt-Rockers Fuel, Has Died",
-                "Publisher": "Loudwire",
-                "Url": "https://loudwire.com/jody-abbott-fuel-drummer-death/"
-              },
-              {
-                "Title": "Fuel (band)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Fuel_(band)"
-              }
-            ],
-            "ExternalLinks": {
-              "Fuel — Jody Abbott tribute post": "https://www.facebook.com/fuelofficial/posts/jody-abbott-has-passed-away-today-after-a-long-battle-with-huntingtons-disease-j/585319072962086/"
-            }
+            ]
           }
         }
       ],
       "NonCoreMembers": [
         {
+          "Name": "Jody Abbott",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1993–1997",
+          "Instruments": "Drums",
+          "Albums": [
+            "Porcelain (EP, 1996)",
+            "Small the Joy (reissued under Fuel name)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Jonathan Mover (session); Kevin Miller (touring)",
+          "Overview": "Original drummer in Fuel’s first Harrisburg-era lineup and a key part of the independent EP period that built momentum around “Shimmer.” Abbott left the band before the Sunburn sessions, after which Fuel recorded with a session drummer and toured with Kevin Miller. He died on July 20, 2022."
+        },
+        {
           "Name": "Erik Avakian",
           "Roles": [
-            "keyboards",
-            "backing vocals"
-          ],
-          "Years": "1993–1996",
-          "Instruments": [
             "Keyboards",
-            "Vocals"
+            "Backing vocals"
           ],
+          "Years": "1993–1998",
+          "Instruments": "Keyboards",
           "Albums": [
-            "Small the Joy (EP)",
-            "Porcelain (EP)"
+            "Porcelain (EP, 1996)",
+            "Hazleton (EP, 1998)"
           ],
-          "Replacing": "Early lineup (original keyboards)",
-          "ReplacedBy": "Keyboard role reduced/shifted as the band moved toward a guitar‑centric sound",
-          "Overview": "A member of Fuel’s earliest proper lineup, contributing keyboards and backing vocals on the independent‑release era before the major‑label breakthrough."
+          "Replacing": "",
+          "ReplacedBy": "various touring members",
+          "Overview": "Early member who added keyboard textures and backing vocals during Fuel’s transition from a club circuit act to an original band with independent releases. His tenure covers the EP era that led to the 550 Music/Epic signing."
         },
         {
           "Name": "Toryn Green",
           "Roles": [
-            "lead vocals"
+            "Lead vocals"
           ],
-          "Years": "2006–2010",
-          "Instruments": [
-            "Vocals"
-          ],
+          "Years": "2006–2009",
+          "Instruments": "Vocals",
           "Albums": [
-            "Angels & Devils"
+            "Angels & Devils (2007)"
           ],
           "Replacing": "Brett Scallions",
-          "ReplacedBy": "Brett Scallions (return)",
-          "Overview": "Fronted Fuel during the mid‑2000s transition period following Scallions’ departure, appearing on *Angels & Devils* as the band pursued a heavier modern‑rock profile."
-        },
-        {
-          "Name": "Tommy Stewart",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "2004–2010",
-          "Instruments": [
-            "Drums"
-          ],
-          "Albums": [
-            "Angels & Devils"
-          ],
-          "Replacing": "Kevin Miller",
-          "ReplacedBy": "Ken Schalk / later lineup changes",
-          "Overview": "Took over drums in the post‑peak era as Fuel navigated major lineup shifts and an evolving sound in the mid‑to‑late 2000s."
-        },
-        {
-          "Name": "Ken Schalk",
-          "Roles": [
-            "drums"
-          ],
-          "Years": "2010–2013",
-          "Instruments": [
-            "Drums"
-          ],
-          "Albums": [
-            "Puppet Strings"
-          ],
-          "Replacing": "Tommy Stewart",
-          "ReplacedBy": "Subsequent touring drummers",
-          "Overview": "A later‑era drummer who appeared during the band’s 2010s phase as Fuel continued under a shifting lineup and released *Puppet Strings*."
+          "ReplacedBy": "Brett Scallions / later vocalists",
+          "Overview": "Fronted Fuel after Scallions’ 2006 departure and recorded Angels & Devils. His tenure represents one of the band’s most significant post‑peak lineup changes while the group continued touring under the Fuel name."
         }
       ]
     },
