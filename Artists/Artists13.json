@@ -2165,727 +2165,27 @@
     {
       "ArtistID": "pearl-jam",
       "Name": "Pearl Jam",
-      "Type": "Band",
+      "Type": "",
       "Origin": {
-        "City": "Seattle",
-        "Region": "Washington",
-        "Country": "United States"
+        "City": "",
+        "Region": "",
+        "Country": ""
       },
-      "YearsActive": [
-        "1990–present"
-      ],
-      "Genres": [
-        "Alternative rock",
-        "Grunge",
-        "Hard rock"
-      ],
-      "Labels": [
-        "Epic",
-        "Columbia",
-        "Monkeywrench",
-        "J"
-      ],
-      "Overview": "Pearl Jam emerged from Seattle’s late‑1980s underground at the exact moment alternative rock was breaking into the mainstream. After the breakup of Mother Love Bone following the death of singer Andrew Wood, bassist Jeff Ament and guitarist Stone Gossard regrouped with guitarist Mike McCready, then looked for a vocalist whose writing could match the urgency of their new music. A demo tape reached San Diego singer Eddie Vedder, whose melodies and lyrics helped turn those instrumentals into fully formed songs. Initially working under the name Mookie Blaylock, the band soon became Pearl Jam and signed to Epic, entering the 1990s as one of the key groups that popularized grunge beyond the Pacific Northwest.\n\nTheir debut album *Ten* (1991) combined heavy riffs with anthem‑sized choruses and emotionally direct storytelling, yielding staples like “Alive,” “Even Flow,” and “Jeremy.” Rather than repeat themselves, Pearl Jam pushed harder with *Vs.* (1993) and *Vitalogy* (1994), tightening the attack while exploring more abrasive textures and darker themes. At the height of their fame they also became known for resisting parts of the music industry’s machinery—most famously through a prolonged conflict over ticketing practices in the mid‑1990s—and for prioritizing live performance as a primary way to connect with fans. That commitment to the stage, along with a culture of documenting concerts, helped build a reputation for marathon, high‑variance setlists and a fan community that treated shows as one‑off events rather than repeatable product.\n\nFrom the late 1990s onward, Pearl Jam’s catalog broadened. Albums like *No Code* (1996) and *Yield* (1998) folded in classic‑rock songcraft, acoustic color, and experimental edges; later releases continued to balance blunt hard rock with melodic, reflective writing. The band’s public identity also remained intertwined with activism, from benefit performances to advocacy around social and environmental causes. Decades into their run, Pearl Jam’s influence is measured not only by early‑’90s impact but by longevity: a group that translated a regional scene into global culture, then sustained a career through steady recording, touring, and an evolving sound. They were inducted into the Rock & Roll Hall of Fame in 2017.",
-      "NotableAlbums": [
-        {
-          "Title": "Ten",
-          "Year": "1991",
-          "Notes": "Debut album that established the band’s arena-sized sound and early classics like “Alive,” “Even Flow,” and “Jeremy.”"
-        },
-        {
-          "Title": "Vs.",
-          "Year": "1993",
-          "Notes": "More aggressive follow-up that emphasized speed, abrasion, and intensity."
-        },
-        {
-          "Title": "Vitalogy",
-          "Year": "1994",
-          "Notes": "Eclectic record balancing hard rock with experimentation and quieter dynamics."
-        },
-        {
-          "Title": "No Code",
-          "Year": "1996",
-          "Notes": "A stylistic pivot with looser structures, acoustic color, and a broader sonic palette."
-        },
-        {
-          "Title": "Yield",
-          "Year": "1998",
-          "Notes": "Song-focused late-’90s set blending classic-rock craft with alternative edge."
-        },
-        {
-          "Title": "Binaural",
-          "Year": "2000",
-          "Notes": "Texturally rich album shaped by live energy and spacious production."
-        },
-        {
-          "Title": "Riot Act",
-          "Year": "2002",
-          "Notes": "Politically charged and reflective, with darker tones and varied arrangements."
-        },
-        {
-          "Title": "Pearl Jam",
-          "Year": "2006",
-          "Notes": "A heavier, direct record often viewed as a renewed statement of purpose."
-        },
-        {
-          "Title": "Backspacer",
-          "Year": "2009",
-          "Notes": "Tighter, punchier songs with a pop-conscious sense of momentum."
-        },
-        {
-          "Title": "Lightning Bolt",
-          "Year": "2013",
-          "Notes": "Late-career set balancing hard rock with melodic, introspective writing."
-        },
-        {
-          "Title": "Gigaton",
-          "Year": "2020",
-          "Notes": "Expanded modern palette with themes of urgency and change."
-        },
-        {
-          "Title": "Dark Matter",
-          "Year": "2024",
-          "Notes": "Later-era release that re-emphasizes big hooks and high-energy rock drive."
-        }
-      ],
-      "SignatureSongs": [
-        {
-          "Title": "Alive",
-          "Year": "1991",
-          "Notes": "Breakthrough single from Ten; a defining anthem of the early era."
-        },
-        {
-          "Title": "Even Flow",
-          "Year": "1991",
-          "Notes": "Signature groove-driven rocker and perennial live staple."
-        },
-        {
-          "Title": "Jeremy",
-          "Year": "1991",
-          "Notes": "One of the band’s most famous songs, associated with a widely seen early-’90s video."
-        },
-        {
-          "Title": "Black",
-          "Year": "1991",
-          "Notes": "Beloved ballad from Ten, often cited for emotional intensity."
-        },
-        {
-          "Title": "Daughter",
-          "Year": "1993",
-          "Notes": "Vs. highlight that became a major live sing-along."
-        },
-        {
-          "Title": "Better Man",
-          "Year": "1994",
-          "Notes": "Fan-favorite song that became a concert centerpiece."
-        },
-        {
-          "Title": "Corduroy",
-          "Year": "1994",
-          "Notes": "Vitalogy-era staple with a driving, resilient feel."
-        },
-        {
-          "Title": "Given to Fly",
-          "Year": "1998",
-          "Notes": "Yield single known for soaring dynamics and uplifting momentum."
-        },
-        {
-          "Title": "I Am Mine",
-          "Year": "2002",
-          "Notes": "Riot Act single that reflects the band’s mature, introspective side."
-        },
-        {
-          "Title": "The Fixer",
-          "Year": "2009",
-          "Notes": "Backspacer single built around a tight, hook-forward rock approach."
-        },
-        {
-          "Title": "Just Breathe",
-          "Year": "2009",
-          "Notes": "Acoustic-leaning song that became one of the band’s most widely covered later tracks."
-        }
-      ],
-      "Achievements": [
-        {
-          "Year": "1991",
-          "Title": "Ten establishes national breakthrough",
-          "Details": "Debut album Ten introduced Pearl Jam’s core sound and produced enduring early singles."
-        },
-        {
-          "Year": "1993",
-          "Title": "Vs. and Vitalogy-era peak visibility",
-          "Details": "Early-’90s run consolidated Pearl Jam as a defining band of the era while they resisted parts of mainstream celebrity culture."
-        },
-        {
-          "Year": "1994–1996",
-          "Title": "High-profile stance on live ticketing practices",
-          "Details": "The band pursued a public challenge to ticketing practices, limiting touring and emphasizing fan access and principle."
-        },
-        {
-          "Year": "2000",
-          "Title": "Official concert bootlegs expand the live archive",
-          "Details": "Pearl Jam’s extensive official live releases reinforced their reputation as a band whose concerts are essential listening."
-        },
-        {
-          "Year": "2017",
-          "Title": "Rock & Roll Hall of Fame induction",
-          "Details": "Pearl Jam was inducted into the Rock & Roll Hall of Fame."
-        }
-      ],
-      "KeyFacts": [
-        "Formed in 1990 in Seattle, Washington after the breakup of Mother Love Bone.",
-        "Known for marathon concerts with frequently changing setlists and a strong live-recording culture.",
-        "Frequently associated with the rise of grunge and alternative rock into the mainstream in the early 1990s.",
-        "Inducted into the Rock & Roll Hall of Fame in 2017."
-      ],
+      "YearsActive": [],
+      "Genres": [],
+      "Labels": [],
+      "Overview": "",
+      "NotableAlbums": [],
+      "SignatureSongs": [],
+      "Achievements": [],
+      "KeyFacts": [],
       "ExternalLinks": {
-        "Official Site": "https://pearljam.com/",
-        "Wikipedia": "https://en.wikipedia.org/wiki/Pearl_Jam",
-        "Discography": "https://www.allmusic.com/artist/pearl-jam-mn0000037849/discography"
+        "Official Site": "",
+        "Wikipedia": "",
+        "Discography": ""
       },
-      "CoreMembers": [
-        {
-          "Name": "Eddie Vedder",
-          "YearsActive": "1990–present",
-          "Roles": "Lead vocalist; primary lyricist; guitarist",
-          "Instruments": "Vocals; guitar; ukulele",
-          "Albums": [
-            {
-              "Title": "Ten",
-              "Year": "1991"
-            },
-            {
-              "Title": "Vs.",
-              "Year": "1993"
-            },
-            {
-              "Title": "Vitalogy",
-              "Year": "1994"
-            },
-            {
-              "Title": "Yield",
-              "Year": "1998"
-            },
-            {
-              "Title": "Gigaton",
-              "Year": "2020"
-            },
-            {
-              "Title": "Dark Matter",
-              "Year": "2024"
-            },
-            {
-              "Title": "Into the Wild (Music for the Motion Picture)",
-              "Year": "2007"
-            }
-          ],
-          "Overview": "Pearl Jam’s frontman and principal lyricist, known for a resonant baritone, emotionally direct writing, and a long-running public commitment to activism and benefit work.",
-          "Bio": {
-            "FullName": "Edward Louis Severson III (known professionally as Eddie Vedder)",
-            "Birth": "December 23, 1964 — Evanston, Illinois, United States",
-            "Death": "",
-            "Nationality": "American",
-            "Roles": "Singer; songwriter; musician",
-            "Instruments": "Vocals; guitar; ukulele",
-            "KnownFor": "Lead vocalist and primary lyricist of Pearl Jam; solo work including Into the Wild soundtrack",
-            "Era": "1990s–present",
-            "Background": "Alternative rock / grunge; singer-songwriter",
-            "FullText": "Eddie Vedder (born Edward Louis Severson III, December 23, 1964) became the defining voice of Pearl Jam not because he fit a preexisting mold, but because his writing gave the band’s music a moral and emotional center. Born in the Chicago area and raised largely in Southern California, Vedder grew up as a devoted listener and self‑taught singer, drawn to punk, classic rock, and the kind of songcraft where lyrics carried real stakes. Before Pearl Jam, he played in local San Diego groups and worked day jobs while building a reputation for a strong baritone and an instinct for melody that could move from intimate to anthemic without losing intensity.\n\nThe turning point came in 1990, when Stone Gossard, Jeff Ament, and Mike McCready—fresh from the collapse of Mother Love Bone—circulated a set of instrumentals in search of a vocalist. Vedder received the tape through mutual connections and recorded rough vocal ideas over the tracks, adding lyrics and melodies that immediately clarified the band’s direction. He soon traveled to Seattle to meet the musicians in person, and the chemistry was fast enough that the group was writing, rehearsing, and preparing to record within weeks. Those early demos captured the template that would become Pearl Jam’s debut: heavy guitars and dynamic grooves anchored by vocal lines that felt like confession, rallying cry, and narrative all at once.\n\nOn *Ten* (1991), Vedder’s performances brought cinematic detail to songs that could have been straightforward rock. “Alive” turned a personal story into a larger meditation on survival; “Jeremy” confronted youth alienation with unsettling specificity; “Black” demonstrated that vulnerability could be as heavy as distortion. His phrasing—part growl, part croon—helped make the band instantly recognizable, while his lyrics leaned into empathy and consequence rather than posture. As Pearl Jam’s profile exploded, Vedder became an unwilling symbol of a new era, often pushing back against the idea that fame itself should dictate how the music was made or sold.\n\nThe follow‑ups *Vs.* (1993) and *Vitalogy* (1994) broadened his palette. Vedder could sound feral on “Go” or “Not for You,” but he also leaned into character sketches and moral argument, using songs to interrogate media pressure, identity, and the costs of being watched. At the same time, he began to treat the microphone as a tool for community—calling attention to social issues at shows, speaking up when he felt the band’s platform could be used responsibly, and insisting that the relationship with audiences mattered more than industry expectations.\n\nOne of the most visible expressions of that stance was Pearl Jam’s mid‑1990s conflict over ticketing practices, which led to reduced touring and a period where the band prioritized principle over convenience. For Vedder, this wasn’t just an abstract business dispute; it was tied to the idea that live music should be accessible, and that fans shouldn’t be treated as a captive market. Whether or not every goal was achievable, the episode cemented his reputation as a frontman willing to accept career risk to align actions with stated values.\n\nAs the decade progressed, Vedder’s songwriting embraced wider textures. *No Code* (1996) and *Yield* (1998) made room for acoustic dynamics, classic‑rock influence, and more open‑ended moods, and Vedder’s lyrics often shifted from direct confrontation toward reflection—still pointed, but more interested in ambiguity and growth. His voice also matured into a more controlled instrument, capable of quiet, conversational phrasing on softer material while retaining the ability to cut through a loud band when the music demanded it.\n\nVedder’s public identity has always been tied to live performance, where his connection to the band’s improvisational setlists and audience interaction becomes most vivid. Pearl Jam’s shows are structured around spontaneity and emotional pacing; Vedder acts as conductor as much as singer, adjusting intensity, addressing the crowd, and shaping the night’s narrative. The band’s official bootlegs and extensive concert documentation amplified that culture, and Vedder’s stamina and commitment to delivering songs as lived experience became a central part of Pearl Jam’s legacy.\n\nAlongside the band, Vedder developed a parallel career that highlighted different aspects of his musical personality. He has contributed to benefit compilations and collaborative projects, and his solo work has leaned into folk and singer‑songwriter traditions, emphasizing melody and storytelling over the roar of a full rock ensemble. His widely noted soundtrack work for *Into the Wild* presented him as a self‑contained writer and performer, capable of carrying an entire project with voice, guitar, and mood.\n\nIn the 2000s and beyond, Vedder continued to guide Pearl Jam through a long second act—one that balanced new records with the weight of a catalog that audiences treat as cultural memory. Albums such as *Riot Act* (2002), *Pearl Jam* (2006), *Backspacer* (2009), *Lightning Bolt* (2013), *Gigaton* (2020), and *Dark Matter* (2024) show a band still interested in momentum, shifting between hard‑charging rock and more melodic, contemplative writing. Vedder’s lyrics remained grounded in human stakes: resilience, responsibility, love, anger, and the possibility of change.\n\nActivism remains a consistent through‑line. Vedder has supported causes that align with the band’s long‑standing commitments—environmental initiatives, social justice campaigns, and benefit concerts—and he has often used stage time to direct attention outward rather than inward. Importantly, the activism in his work is usually tied to empathy rather than abstraction: songs that ask what people owe each other, and performances that treat community as something you build deliberately.\n\nVedder’s significance is therefore twofold. As a singer, he helped define the sound of a major rock era with a voice that could be both bruising and intimate. As a writer and public figure, he modeled a version of rock stardom that tries—imperfectly but persistently—to align success with conscience. That combination made him a central figure not only in Pearl Jam’s story, but in the broader narrative of how alternative rock grew up without losing its sense of urgency.",
-            "HonoursAndMilestones": [
-              {
-                "Year": "2017",
-                "Title": "Rock & Roll Hall of Fame induction (Pearl Jam)",
-                "Details": "Inducted as a member of Pearl Jam."
-              },
-              {
-                "Year": "2007",
-                "Title": "Into the Wild soundtrack acclaim",
-                "Details": "Released an acclaimed solo soundtrack album for the film Into the Wild."
-              },
-              {
-                "Year": "1991",
-                "Title": "Breakthrough with Ten",
-                "Details": "Pearl Jam’s debut Ten helped establish the band as a major force in early-1990s rock."
-              }
-            ],
-            "FunFacts": [
-              {
-                "Fact": "Vedder joined the band after recording vocals and lyrics over a Seattle demo tape he received in San Diego."
-              },
-              {
-                "Fact": "He has frequently used Pearl Jam’s platform to support benefit concerts and advocacy campaigns."
-              }
-            ],
-            "Sources": [
-              {
-                "Title": "Eddie Vedder | Biography",
-                "Publisher": "Encyclopaedia Britannica",
-                "Url": "https://www.britannica.com/biography/Eddie-Vedder"
-              },
-              {
-                "Title": "Eddie Vedder | Artist Overview & Biography",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/eddie-vedder-mn0000175025"
-              },
-              {
-                "Title": "Eddie Vedder",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Eddie_Vedder"
-              },
-              {
-                "Title": "Pearl Jam | Inductees",
-                "Publisher": "Rock & Roll Hall of Fame",
-                "Url": "https://rockhall.com/inductees/pearl-jam/"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "Stone Gossard",
-          "YearsActive": "1990–present",
-          "Roles": "Rhythm guitarist; songwriter; co-founder",
-          "Instruments": "Guitar",
-          "Albums": [
-            {
-              "Title": "Ten",
-              "Year": "1991"
-            },
-            {
-              "Title": "Vs.",
-              "Year": "1993"
-            },
-            {
-              "Title": "Vitalogy",
-              "Year": "1994"
-            },
-            {
-              "Title": "No Code",
-              "Year": "1996"
-            },
-            {
-              "Title": "Yield",
-              "Year": "1998"
-            },
-            {
-              "Title": "Dark Matter",
-              "Year": "2024"
-            },
-            {
-              "Title": "Bayleaf",
-              "Year": "2001"
-            }
-          ],
-          "Overview": "Co-founder and primary rhythm guitarist whose riff-driven writing and collaborative approach helped define Pearl Jam’s structural backbone from the earliest demos onward.",
-          "Bio": {
-            "FullName": "Stone Carpenter Gossard",
-            "Birth": "July 20, 1966 — Seattle, Washington, United States",
-            "Death": "",
-            "Nationality": "American",
-            "Roles": "Guitarist; songwriter; producer",
-            "Instruments": "Guitar",
-            "KnownFor": "Co-founding Pearl Jam; earlier work with Green River and Mother Love Bone; side projects including Brad",
-            "Era": "1980s–present",
-            "Background": "Alternative rock / grunge; rock guitarist",
-            "FullText": "Stone Gossard (born July 20, 1966) is one of Pearl Jam’s foundational architects: a guitarist whose riff‑first instincts, collaborative temperament, and deep roots in the Pacific Northwest scene helped shape the band before a single lyric was written. Born in Seattle and raised in Washington State, Gossard came of age during the region’s late‑1970s and early‑1980s punk and hard‑rock crosscurrents, developing a style that prized groove and structure over flash. He became known less as a spotlight soloist than as a builder—someone who could assemble chord progressions, rhythmic hooks, and song skeletons that gave other musicians room to add personality.\n\nHis earliest widely recognized work came through Green River, a pivotal Seattle band often cited as a seedbed for grunge. In Green River, Gossard and bassist Jeff Ament learned how to combine punk urgency with heavier guitar tones and classic‑rock heft, creating a blueprint that would echo across the scene. When internal tensions ended the group, Gossard and Ament moved on to Mother Love Bone, a band that leaned more openly into glam‑tinged rock drama and melodic ambition. Mother Love Bone’s momentum was cut short by the death of singer Andrew Wood in 1990, a loss that reverberated through the Seattle community and left Gossard and Ament searching for a new musical home.\n\nOut of that disruption came the first version of Pearl Jam. Gossard and Ament began writing and rehearsing with guitarist Mike McCready, initially treating the project as a way to keep creating rather than as a calculated career move. Gossard supplied much of the early riff and chord material—tight, percussive parts designed to lock with bass and drums—and helped assemble a demo tape of instrumentals. That tape would reach Eddie Vedder, whose vocal and lyric ideas transformed the sketches into songs with a distinct emotional identity. When Vedder arrived in Seattle, the group quickly became a band, first under the name Mookie Blaylock and soon as Pearl Jam.\n\nOn *Ten* (1991), Gossard’s playing established the band’s muscular backbone. His rhythm guitar parts were economical but emphatic, often built around open‑string resonance and syncopated accents that gave the songs both weight and motion. While Mike McCready handled many of the lead flourishes, Gossard’s contribution was the engine room: riffs and chord shapes that made tracks like “Alive,” “Even Flow,” and “Jeremy” feel like they could fill arenas without losing their scrappy origins. That division of labor—McCready’s expressive leads over Gossard’s driving framework—became one of Pearl Jam’s most durable internal balances.\n\nAs Pearl Jam moved through the intense early‑1990s spotlight, Gossard remained a stabilizing presence, comfortable with collaboration and wary of rock‑star mythology. The band’s evolution on *Vs.* (1993) and *Vitalogy* (1994) leaned into harder textures and more fractured structures, and Gossard’s writing helped support that shift. Yet he also favored a broader musical vocabulary than the “grunge” label suggested, and as the decade continued he pushed toward songs that could absorb classic rock, folk, and experimental touches without sacrificing momentum.\n\nThat openness is audible in the band’s mid‑to‑late‑1990s records. On *No Code* (1996) and *Yield* (1998), Pearl Jam made room for acoustic dynamics, odd angles, and more spacious arrangement choices. Gossard’s writing in this period often emphasized feel and atmosphere—parts that didn’t announce themselves as “signature riffs” but that shaped the emotional temperature of a track. Over time, he also became more visible as a contributor of complete songs rather than only guitar foundations, helping Pearl Jam’s internal authorship feel distributed rather than centered on any single member.\n\nOutside Pearl Jam, Gossard has consistently acted like a scene participant rather than a celebrity. He formed or joined side projects that reflected his curiosity: Brad, a band that allowed more melodic and soul‑inflected writing; collaborations with singer‑songwriters; and later projects such as Painted Shield. These outlets weren’t simply hobbies—they were ways for Gossard to keep writing in different registers, and they reinforced the idea that Pearl Jam was one branch of a larger creative ecosystem. He has also been connected to studio and label activity in Seattle, supporting other artists and reinforcing the community infrastructure that helped the city’s music thrive.\n\nGossard’s role in Pearl Jam’s long run is especially clear in how the band operates live. Pearl Jam’s concerts depend on interplay and pacing, and Gossard’s rhythm‑guitar discipline provides a consistent grid for improvisation and spontaneous setlist shifts. Even as the band’s catalog expanded into decades, the fundamental mechanics—riff, groove, dynamic lift—remain tied to the kind of parts Gossard excels at writing and performing.\n\nAlthough Pearl Jam is often discussed in terms of cultural impact—grunge’s mainstream breakthrough, the band’s refusal to play parts of the industry game—Gossard’s importance is more elemental. He is the kind of guitarist whose influence is felt in structure: he helps decide where a song sits, how it moves, and what space it leaves for voice and melody. That behind‑the‑scenes impact is exactly why his work has lasted. Pearl Jam’s sound can shift from album to album, but the band’s core identity—driving, human‑scaled rock that can be both heavy and melodic—rests on the framework that Gossard helped invent and has continued to refine.\n\nHis songwriting contributions also show up in the way Pearl Jam balances direct rock impact with slow‑burn narrative. Gossard has often gravitated toward riffs that feel deceptively simple—parts that repeat with slight rhythmic or harmonic shifts so the band can build tension over time. In practice, that approach gives Vedder room to shape lyrical arcs and gives McCready room to color outside the lines with leads. It is a pragmatic method of writing for a band that plays long concerts and needs songs to translate under the physical pressure of live volume.\n\nGossard has also been part of Pearl Jam’s ethic of internal democracy. The group’s public face frequently centers on Vedder’s voice, but Pearl Jam’s longevity depends on a shared sense of ownership: multiple writers, rotating emphases, and a willingness to let songs evolve in rehearsal and on stage. Gossard’s steady presence—comfortable contributing, comfortable stepping back—has been crucial to that culture. It helped the band avoid the common fate of 1990s rock acts that splintered under pressure or became museum pieces.\n\nFinally, Gossard’s career illustrates a broader point about the Seattle scene: its most influential figures were rarely one‑dimensional. The same guitarist who helped define a heavy regional sound also pursued melody‑driven side work, collaborated across genres, and invested in the local ecosystem that made experimentation possible. In that sense, his legacy isn’t only the riffs that launched Pearl Jam; it is the long practice of showing up, building songs with other people, and treating rock as a living craft rather than a fixed style.",
-            "HonoursAndMilestones": [
-              {
-                "Year": "2017",
-                "Title": "Rock & Roll Hall of Fame induction (Pearl Jam)",
-                "Details": "Inducted as a member of Pearl Jam."
-              },
-              {
-                "Year": "1991",
-                "Title": "Ten era breakthrough",
-                "Details": "Co-wrote and performed on Pearl Jam’s debut Ten."
-              },
-              {
-                "Year": "1980s",
-                "Title": "Seattle scene groundwork",
-                "Details": "Helped shape Seattle’s pre-grunge scene through Green River and Mother Love Bone."
-              }
-            ],
-            "FunFacts": [
-              {
-                "Fact": "Gossard’s instrumental demos were the foundation for songs that became early Pearl Jam staples."
-              },
-              {
-                "Fact": "He has maintained multiple side projects alongside Pearl Jam, reflecting a long-running connection to Seattle’s local music community."
-              }
-            ],
-            "Sources": [
-              {
-                "Title": "Stone Gossard | Artist Overview & Biography",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/stone-gossard-mn0000622886"
-              },
-              {
-                "Title": "Stone Gossard",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Stone_Gossard"
-              },
-              {
-                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer ...",
-                "Publisher": "Encyclopaedia Britannica",
-                "Url": "https://www.britannica.com/topic/Pearl-Jam"
-              },
-              {
-                "Title": "Pearl Jam | Inductees",
-                "Publisher": "Rock & Roll Hall of Fame",
-                "Url": "https://rockhall.com/inductees/pearl-jam/"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "Jeff Ament",
-          "YearsActive": "1990–present",
-          "Roles": "Bassist; songwriter; co-founder",
-          "Instruments": "Bass guitar",
-          "Albums": [
-            {
-              "Title": "Ten",
-              "Year": "1991"
-            },
-            {
-              "Title": "Vs.",
-              "Year": "1993"
-            },
-            {
-              "Title": "Vitalogy",
-              "Year": "1994"
-            },
-            {
-              "Title": "Yield",
-              "Year": "1998"
-            },
-            {
-              "Title": "Riot Act",
-              "Year": "2002"
-            },
-            {
-              "Title": "Gigaton",
-              "Year": "2020"
-            },
-            {
-              "Title": "Dark Matter",
-              "Year": "2024"
-            },
-            {
-              "Title": "Tone",
-              "Year": "2008"
-            }
-          ],
-          "Overview": "Co-founder and bassist known for a muscular, melodic style and a strong role in shaping the band’s visual identity and long-term touring/bootleg culture.",
-          "Bio": {
-            "FullName": "Jeffrey Allen Ament",
-            "Birth": "March 10, 1963 — Havre, Montana, United States",
-            "Death": "",
-            "Nationality": "American",
-            "Roles": "Musician; songwriter",
-            "Instruments": "Bass guitar",
-            "KnownFor": "Co-founding Pearl Jam; earlier work with Green River and Mother Love Bone",
-            "Era": "1980s–present",
-            "Background": "Alternative rock / grunge; rock bassist",
-            "FullText": "Jeff Ament (born March 10, 1963) is Pearl Jam’s co‑founder and one of the most distinctive bassists to emerge from the Seattle movement. His playing combines physical power with melodic intention—lines that can lock hard to a drummer’s kick while still carrying their own narrative. Born in Havre, Montana and raised in the small town of Big Sandy, Ament grew up far from the coasts that dominated rock industry mythology, and that distance shaped his sensibility: practical, self‑directed, and oriented toward making things with whatever resources were available. He played sports, studied art, and took to the bass as a way to participate in bands that treated rhythm as the center of gravity.\n\nIn the early 1980s, Ament relocated to Seattle, a move that placed him at the front edge of a rapidly forming underground. The city’s scene at the time was less a single genre than a shared set of conditions—cheap rehearsal spaces, small clubs, and musicians who blended punk urgency with heavy‑rock muscle. Ament quickly became an essential participant. With guitarist Stone Gossard he played in Green River, a band often cited as a key precursor to grunge. Green River’s music captured an important hybrid: fast and abrasive but built on riffs that could carry real weight, a combination that would become the region’s signature.\n\nWhen Green River ended, Ament and Gossard formed Mother Love Bone, shifting toward a more flamboyant, melodic attack that nodded to classic rock and glam without abandoning the scene’s grit. Ament’s bass work in Mother Love Bone was a bridge between swagger and discipline, supporting songs that aimed for anthems rather than punk blasts. The band’s trajectory was derailed by the death of singer Andrew Wood in 1990, an event that both devastated the community and forced its members to reconsider what came next.\n\nAment’s next chapter began with creation rather than reinvention. Together with Gossard and guitarist Mike McCready, he started writing new music—instrumental sketches built for dynamics, with bass lines that could carry hooks as clearly as guitars. The group recorded a demo tape and searched for a singer; when Eddie Vedder’s vocal ideas returned, Ament recognized that the material had found its missing element. Pearl Jam formed quickly thereafter, and Ament’s bass became one of the band’s defining signatures: thick tone, aggressive attack, and a willingness to play lines that cut across the guitar parts rather than simply doubling them.\n\nOn *Ten* (1991), Ament helped make the band sound enormous. His work anchors “Even Flow” with a sense of swing that keeps the riff from turning rigid, and across the album he balances weight with motion—an approach that made Pearl Jam feel both heavy and alive. As the band accelerated into *Vs.* (1993) and *Vitalogy* (1994), Ament’s playing tightened into sharper, more percussive patterns when needed, but he also retained a melodic instinct that kept the music from collapsing into pure aggression. This combination—force plus melody—became a template for countless alternative‑rock bassists who wanted to be heard without turning every song into a solo.\n\nAment’s influence on Pearl Jam is not limited to playing. He has long been associated with the band’s visual identity and broader creative presentation, drawing on his art background for concepts, design sensibility, and the idea that a rock band is an integrated project rather than only a sound. That perspective fits Pearl Jam’s self‑image as a group that values community and craft over spectacle. It also connects to the way the band cultivated its live culture: official bootlegs, documentary releases, and a sense that concerts are primary text rather than promotional afterthought.\n\nWithin Pearl Jam’s internal dynamic, Ament has functioned as both anchor and instigator. The bass often serves as the bridge between the rhythmic engine and the harmonic frame, and Ament’s style gives the music a moving spine—something that can be felt physically in a room but that also carries melodic direction. Over a multi‑decade catalog, that stability matters: it allows guitars and vocals to shift colors while the band’s identity stays coherent. His writing contributions likewise reflect the band’s collaborative ethos, with songs developing through group arrangement rather than being delivered as fixed, top‑down compositions.\n\nAment’s broader career includes numerous side projects and collaborations, reflecting a restlessness that is common among long‑running rock musicians but not always visible to casual listeners. Across these outlets he has explored different grooves, tones, and writing approaches—sometimes rough and experimental, sometimes more song‑centered—without treating them as rivals to Pearl Jam. Instead they reinforce a consistent theme: Ament is a maker who thrives on process, whether that process is building bass parts, arranging songs, or supporting creative communities.\n\nPublicly, Ament has often been one of Pearl Jam’s clearest voices about the band as a collective. In interviews and speeches he tends to emphasize influence, gratitude, and the debt the group owes to other artists and scenes. That stance fits a band that rose quickly, resisted parts of the industry’s standard playbook, and then settled into a long career defined by touring, recording, and building a loyal fan base. Rather than framing Pearl Jam as lone heroes, Ament has frequently pointed outward—to the bands that shaped them, the friends they came up with, and the idea that rock history is made by networks as much as by stars.\n\nTaken together, Ament’s legacy is the sound and the structure of Pearl Jam. He helped found the band, helped define its physical impact, and helped maintain a culture that treats integrity and community as real obligations. In an era when many alternative‑rock groups burned bright and then vanished, Ament is part of the reason Pearl Jam could evolve: because the foundation—bass, groove, and a maker’s mindset—was built to last.",
-            "HonoursAndMilestones": [
-              {
-                "Year": "2017",
-                "Title": "Rock & Roll Hall of Fame induction (Pearl Jam)",
-                "Details": "Inducted as a member of Pearl Jam."
-              },
-              {
-                "Year": "1991",
-                "Title": "Ten era breakthrough",
-                "Details": "Bassist and co-founder on Pearl Jam’s debut Ten."
-              },
-              {
-                "Year": "2008",
-                "Title": "Solo debut (Tone)",
-                "Details": "Released a solo album exploring bass-driven, experimental rock textures."
-              }
-            ],
-            "FunFacts": [
-              {
-                "Fact": "The band’s earliest working name referenced NBA player Mookie Blaylock, reflecting Ament’s long-standing basketball fandom."
-              },
-              {
-                "Fact": "Ament has pursued numerous side projects and collaborations while remaining a constant in Pearl Jam’s lineup."
-              }
-            ],
-            "Sources": [
-              {
-                "Title": "Jeff Ament | Artist Overview & Biography",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/jeff-ament-mn0000239393"
-              },
-              {
-                "Title": "Jeff Ament",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Jeff_Ament"
-              },
-              {
-                "Title": "Pearl Jam | Inductees",
-                "Publisher": "Rock & Roll Hall of Fame",
-                "Url": "https://rockhall.com/inductees/pearl-jam/"
-              },
-              {
-                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer ...",
-                "Publisher": "Encyclopaedia Britannica",
-                "Url": "https://www.britannica.com/topic/Pearl-Jam"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "Mike McCready",
-          "YearsActive": "1990–present",
-          "Roles": "Lead guitarist; songwriter; co-founder",
-          "Instruments": "Guitar",
-          "Albums": [
-            {
-              "Title": "Ten",
-              "Year": "1991"
-            },
-            {
-              "Title": "Vs.",
-              "Year": "1993"
-            },
-            {
-              "Title": "Vitalogy",
-              "Year": "1994"
-            },
-            {
-              "Title": "Yield",
-              "Year": "1998"
-            },
-            {
-              "Title": "Gigaton",
-              "Year": "2020"
-            },
-            {
-              "Title": "Dark Matter",
-              "Year": "2024"
-            },
-            {
-              "Title": "Above (Mad Season)",
-              "Year": "1995"
-            }
-          ],
-          "Overview": "Lead guitarist celebrated for expressive, blues-rooted solos and a feel-first approach that gives Pearl Jam its signature melodic lift in both studio tracks and marathon live sets.",
-          "Bio": {
-            "FullName": "Michael David McCready",
-            "Birth": "April 5, 1966 — Pensacola, Florida, United States",
-            "Death": "",
-            "Nationality": "American",
-            "Roles": "Guitarist; songwriter",
-            "Instruments": "Guitar",
-            "KnownFor": "Lead guitarist of Pearl Jam; member of Mad Season; collaborations across the Seattle scene",
-            "Era": "1990s–present",
-            "Background": "Alternative rock / grunge; blues-influenced rock guitar",
-            "FullText": "Mike McCready (born April 5, 1966) is Pearl Jam’s lead guitarist and the band member most closely associated with its soaring, blues‑based expression. Where Pearl Jam’s rhythm guitars often emphasize weight and groove, McCready brings lift: sustained notes, melodic bends, and solos that treat emotion as the point rather than virtuosity for its own sake. Born in Pensacola, Florida and raised in the Seattle area, he grew up during an era when classic‑rock guitar heroes were cultural landmarks, absorbing the influence of players like Jimi Hendrix and Stevie Ray Vaughan. That background gave him a vocabulary rooted in blues phrasing and dynamic control, even as he was drawn into the faster, louder language of punk and modern hard rock.\n\nBy the late 1980s, McCready was active in local bands and developing the feel‑first approach that would become his hallmark. He wasn’t interested in the polished “shred” aesthetic that dominated much 1980s guitar culture; instead he favored tone, touch, and the ability to turn a simple phrase into something that felt urgent and human. That sensibility made him a natural fit when Stone Gossard and Jeff Ament began assembling a new project after Mother Love Bone. McCready joined as the missing lead voice, bringing a capacity for melody and dramatic contour that complemented Gossard’s riff framework.\n\nIn early 1990, the group recorded instrumentals and searched for a singer. Once Eddie Vedder arrived and the band solidified, McCready’s role became immediately clear: he would be the band’s primary soloist, but also a key architect of its most recognizable hooks. On *Ten* (1991), his playing is central to the album’s enduring identity. The opening surge and soloing in “Alive” channels classic‑rock catharsis through an alternative‑rock lens; the kinetic drive of “Even Flow” depends on his interplay with the rhythm section; and across the record he balances rawness with melodic clarity, making the songs feel both heavy and expansive.\n\nAs Pearl Jam moved into *Vs.* (1993) and *Vitalogy* (1994), McCready adapted without losing his signature. The music became harsher and more compressed, but his solos still functioned as narrative punctuation—moments where the band could exhale into melody before snapping back into groove. He also showed a willingness to serve the song rather than the spotlight, stepping back when a track demanded restraint and then cutting through when the emotional peak arrived. That ability to treat lead guitar as storytelling—something that develops over the course of a song—helped Pearl Jam avoid the trap of “signature licks” that age poorly.\n\nMcCready’s musicianship is also deeply tied to collaboration. Pearl Jam’s internal writing process has historically involved building songs through rehearsal and arrangement, with parts evolving as the band plays them. McCready thrives in that environment because he listens for space: he can add color without crowding, and he can reshape a solo night to night depending on tempo, energy, and audience. This quality is one reason Pearl Jam’s live reputation became so strong. In concert, McCready’s improvisational instincts help turn familiar songs into unique performances, while his tone—often thick, sustaining, and vocal‑like—keeps the lead guitar emotionally legible even in large venues.\n\nOutside Pearl Jam, McCready’s most celebrated side project is Mad Season, a mid‑1990s supergroup that brought together musicians from different corners of the Seattle world. Mad Season’s work highlighted another dimension of his playing: spacious, jazz‑tinted blues lines and a willingness to let songs breathe. The project is remembered not only for its music but for the way it captured a moment of vulnerability and community within a scene under intense public scrutiny. McCready has also participated in one‑off collaborations and benefit performances, often using his profile to support causes or to celebrate the artists who shaped him.\n\nMcCready’s public story includes an openness about recovery and health that has informed his role as an advocate. He has spoken about confronting addiction and about using music as part of rebuilding a stable life, and he has been involved with efforts that raise awareness and funds for related causes. In practice, this has aligned with Pearl Jam’s broader culture of benefit work: turning the band’s platform into concrete support rather than symbolic gestures.\n\nIn the band’s long second act—from the late 1990s onward—McCready continued to evolve as both a player and a writer. Records like *Yield* (1998), *Binaural* (2000), and *Riot Act* (2002) expanded Pearl Jam’s palette, and McCready adjusted by exploring different tones and approaches, sometimes emphasizing texture and restraint instead of constant lead fireworks. Later albums such as *Pearl Jam* (2006), *Backspacer* (2009), *Lightning Bolt* (2013), *Gigaton* (2020), and *Dark Matter* (2024) show a guitarist who can still deliver classic rock catharsis but who also understands pacing—when a song needs a single bent note more than a cascade of runs.\n\nWhat makes McCready enduring is not technical novelty but emotional clarity. His best solos feel like voices: they rise, hesitate, insist, and resolve. In a band defined by intensity and conscience, he provides a melodic counterweight—an element that can turn anger into catharsis and heaviness into uplift. That role is why his guitar work remains central to Pearl Jam’s identity decades after grunge’s first wave: it translates raw feeling into melody that audiences can carry out of the room.\n\nTechnically, McCready is often described as a “feel” player rather than a theory‑driven technician. His phrasing leans on vibrato, bends, and rhythmic placement—tools that come from blues tradition—and he frequently builds solos as variations on a simple motif. That approach makes his playing resilient: it translates across changing production styles and remains effective whether Pearl Jam is at full volume or dipping into quieter dynamics. It also connects him to a lineage of guitarists he has openly admired, reinforcing the idea that Pearl Jam’s alternative‑rock impact never required rejecting classic rock; it required re‑animating it with different values and different lived experience.\n\nIn songwriting terms, McCready’s contributions often involve bridges, leads, and arrangement choices that determine how a song “turns.” Pearl Jam’s catalog includes many tracks where the emotional peak arrives through a guitar line as much as through a chorus. That is McCready’s specialty: finding the melodic doorway that lets the band step from tension into release. On record that can be a carefully composed lead; on stage it can be an improvised extension that responds to the night’s energy. Either way, it is a form of communication—music as conversation with bandmates and with the crowd.",
-            "HonoursAndMilestones": [
-              {
-                "Year": "2017",
-                "Title": "Rock & Roll Hall of Fame induction (Pearl Jam)",
-                "Details": "Inducted as a member of Pearl Jam."
-              },
-              {
-                "Year": "1991",
-                "Title": "Ten era breakthrough",
-                "Details": "Lead guitarist on Pearl Jam’s debut Ten."
-              },
-              {
-                "Year": "1995",
-                "Title": "Mad Season (Above)",
-                "Details": "Released Above with Mad Season, highlighting a more spacious, blues-driven approach."
-              }
-            ],
-            "FunFacts": [
-              {
-                "Fact": "McCready has often described himself as a ‘by ear’ player, prioritizing feel and melody over technical showmanship."
-              },
-              {
-                "Fact": "His playing is frequently cited for channeling classic-rock influences (including Hendrix and Stevie Ray Vaughan) into a modern alternative-rock context."
-              }
-            ],
-            "Sources": [
-              {
-                "Title": "Mike McCready | Artist Overview & Biography",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/mike-mccready-mn0000491447"
-              },
-              {
-                "Title": "Mike McCready",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Mike_McCready"
-              },
-              {
-                "Title": "Pearl Jam | Inductees",
-                "Publisher": "Rock & Roll Hall of Fame",
-                "Url": "https://rockhall.com/inductees/pearl-jam/"
-              },
-              {
-                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer ...",
-                "Publisher": "Encyclopaedia Britannica",
-                "Url": "https://www.britannica.com/topic/Pearl-Jam"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "Matt Cameron",
-          "YearsActive": "1998–present",
-          "Roles": "Drummer; songwriter",
-          "Instruments": "Drums",
-          "Albums": [
-            {
-              "Title": "Yield",
-              "Year": "1998"
-            },
-            {
-              "Title": "Binaural",
-              "Year": "2000"
-            },
-            {
-              "Title": "Riot Act",
-              "Year": "2002"
-            },
-            {
-              "Title": "Backspacer",
-              "Year": "2009"
-            },
-            {
-              "Title": "Gigaton",
-              "Year": "2020"
-            },
-            {
-              "Title": "Dark Matter",
-              "Year": "2024"
-            },
-            {
-              "Title": "Superunknown (Soundgarden)",
-              "Year": "1994"
-            }
-          ],
-          "Overview": "Acclaimed Seattle-scene drummer whose power and precision helped propel Soundgarden and later brought rhythmic clarity and durability to Pearl Jam’s long-running live and studio work.",
-          "Bio": {
-            "FullName": "Matthew David Cameron",
-            "Birth": "November 28, 1962 — San Diego, California, United States",
-            "Death": "",
-            "Nationality": "American",
-            "Roles": "Drummer; songwriter; musician",
-            "Instruments": "Drums",
-            "KnownFor": "Drummer for Pearl Jam and Soundgarden; contributions across the Seattle grunge era",
-            "Era": "1980s–present",
-            "Background": "Alternative rock / grunge; rock and metal drumming",
-            "FullText": "Matt Cameron (born November 28, 1962) is one of the defining drummers of the Seattle rock era, prized for a combination that is rarer than it sounds: power, precision, and musical intelligence. Born in San Diego and drawn early to drums, Cameron developed a style that could hit with heavy‑metal force while still navigating complex rhythms and sudden dynamic shifts. That versatility made him a cornerstone of multiple major projects, and it explains why he could step into Pearl Jam—already a globally established band—and become an essential part of its sound without forcing the group to change who they were.\n\nCameron’s path runs through the infrastructure of Seattle’s scene. Before Pearl Jam, he built his reputation with bands that helped define the city’s heavier edge, most prominently Soundgarden. In Soundgarden, Cameron’s drumming did more than keep time; it shaped the band’s identity. He could swing hard in odd meters, lock into slow, crushing grooves, or drive fast tempos without losing articulation. That range mattered because Soundgarden’s music often moved between psychedelic, metal, and punk sensibilities in a single set. Cameron’s ability to make those shifts feel natural contributed to the sense that Seattle rock was not a narrow style but a living hybrid.\n\nHe also participated in the wider web of collaborations that connected the city’s musicians. Projects like Temple of the Dog—formed in the wake of Andrew Wood’s death—captured the scene’s communal response to loss, and Cameron’s presence linked Soundgarden’s heavy precision to the more song‑centered writing of other bands. Over time, this made him less a “band member” than a kind of rhythmic specialist of the region: the drummer other serious musicians wanted when a project required both muscle and control.\n\nPearl Jam’s drumming history in the 1990s involved multiple players, each bringing a different feel to the band’s evolving catalog. When Cameron joined Pearl Jam in 1998, the move was significant precisely because he wasn’t an unknown replacement; he arrived with an established legacy and a specific musical personality. Instead of imposing that personality, he integrated it. Cameron’s drumming tightened Pearl Jam’s live engine and expanded what the band could do rhythmically, giving them the option of more intricate patterns without sacrificing the physical impact that audiences expected.\n\nIn the studio, Cameron’s contribution is often felt as clarity. Pearl Jam’s songs frequently hinge on dynamics—quiet verses that explode into choruses, mid‑tempo grooves that need to feel both relaxed and urgent. Cameron excels in that space because he plays with intention: ghost notes, cymbal choices, and subtle accents that shape the emotional contour of a track. Even when the beat is straightforward, his execution adds a sense of inevitability, making the band sound locked in and confident.\n\nOn stage, the benefits are even clearer. Pearl Jam’s concerts are long, setlists change nightly, and songs can be re‑arranged in the moment. A drummer in that environment must be both powerful and adaptable, able to follow spontaneous cues and to support improvisation without losing momentum. Cameron’s experience—especially from bands that navigated complex structures—made him ideally suited for this. He can drive an arena‑sized rock anthem with brute force, then pivot into a quieter, more nuanced feel without the transition sounding like a gear change.\n\nCameron is also a songwriter and multi‑instrumentalist in his own right, and that broader musicianship informs his drumming. Rather than treating rhythm as separate from melody, he plays as if the kit is part of the song’s harmonic movement—supporting vocal phrasing, leaving space for guitar leads, and using fills as connective tissue between sections. This is one reason his drumming can feel both technical and natural: the complexity serves musical flow instead of announcing itself.\n\nAcross decades, Cameron’s career demonstrates how durability in rock is often a craft choice. He maintained a high‑performance style without turning it into self‑parody, and he adapted to different band cultures: Soundgarden’s heavy intricacy, Temple of the Dog’s communal songwriting, and Pearl Jam’s blend of spontaneity and arena‑scale impact. That adaptability is its own form of artistry.\n\nFor Pearl Jam specifically, Cameron represents continuity and evolution at the same time. He joined after the band’s early‑’90s explosion and after its mid‑’90s battles with the industry, becoming part of the group’s mature era—when the challenge shifted from survival to longevity. His steadiness helped the band keep touring at a high level and keep recording music that could stand alongside the classic material.\n\nUltimately, Cameron’s significance is that he is not merely “a great drummer” in the abstract. He is a drummer whose skills map directly onto what makes Seattle‑era rock compelling: the ability to be heavy without being blunt, complex without being cold, and intense without losing groove. In Pearl Jam, those qualities help the band remain a living, breathing unit rather than a nostalgia act.\n\nBefore Soundgarden’s rise, Cameron also played in early Seattle heavy acts such as Skin Yard, further sharpening his ability to combine punk speed with metal weight. Those formative years matter because they trained him to be comfortable in rehearsal rooms and clubs where songs were still being invented and the “rules” of genre were negotiable. By the time grunge became a global label, Cameron already had a vocabulary built from multiple subcultures: hardcore’s urgency, metal’s stamina, and rock’s sense of hook and release.\n\nIn Pearl Jam’s later catalog, that vocabulary shows up in the way the band can shift rhythmic character from track to track. Some songs require a straight, muscular backbeat; others lean on rolling tom patterns or cymbal textures that create atmosphere. Cameron handles those demands with a producer’s ear, often making choices that keep the band’s arrangements breathable even at loud volume. That kind of drumming is easy to underestimate because it rarely calls attention to itself, yet it is central to why Pearl Jam can sound forceful without turning sonically congested.\n\nCameron’s status as a first‑call drummer is reflected in the respect he receives from peers and in the way he is discussed as a bridge figure between bands. In many scenes, musicians stay inside a single flagship group; Cameron’s career is instead a map of relationships and shared work. That networked history is part of what made Seattle’s music feel like a community rather than a collection of isolated acts, and Cameron is one of the clearest examples of that community’s internal excellence.",
-            "HonoursAndMilestones": [
-              {
-                "Year": "2017",
-                "Title": "Rock & Roll Hall of Fame induction (Pearl Jam)",
-                "Details": "Inducted as a member of Pearl Jam."
-              },
-              {
-                "Year": "1994",
-                "Title": "Superunknown era impact",
-                "Details": "Played drums on Soundgarden’s Superunknown, a landmark of the grunge era."
-              },
-              {
-                "Year": "1998",
-                "Title": "Joined Pearl Jam",
-                "Details": "Became Pearl Jam’s drummer, helping stabilize and expand the band’s rhythmic range for its long second act."
-              }
-            ],
-            "FunFacts": [
-              {
-                "Fact": "Cameron is noted for versatility: he can drive straightforward arena rock or navigate more complex rhythmic structures."
-              },
-              {
-                "Fact": "He played in multiple foundational Seattle projects, including Skin Yard, Soundgarden, and Temple of the Dog, before joining Pearl Jam."
-              }
-            ],
-            "Sources": [
-              {
-                "Title": "Matt Cameron | Artist Overview & Biography",
-                "Publisher": "AllMusic",
-                "Url": "https://www.allmusic.com/artist/matt-cameron-mn0000389487"
-              },
-              {
-                "Title": "Matt Cameron",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Matt_Cameron"
-              },
-              {
-                "Title": "Pearl Jam | Inductees",
-                "Publisher": "Rock & Roll Hall of Fame",
-                "Url": "https://rockhall.com/inductees/pearl-jam/"
-              },
-              {
-                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer ...",
-                "Publisher": "Encyclopaedia Britannica",
-                "Url": "https://www.britannica.com/topic/Pearl-Jam"
-              }
-            ]
-          }
-        }
-      ],
-      "NonCoreMembers": [
-        {
-          "Name": "Dave Krusen",
-          "YearsActive": "1990–1991",
-          "Roles": "Drummer (original recording era)",
-          "Instruments": "Drums",
-          "Albums": [
-            {
-              "Title": "Ten",
-              "Year": "1991"
-            }
-          ],
-          "Overview": "Original Pearl Jam drummer who played on the band’s debut album Ten before leaving early in the band’s rise."
-        },
-        {
-          "Name": "Matt Chamberlain",
-          "YearsActive": "1991",
-          "Roles": "Early drummer (brief tenure)",
-          "Instruments": "Drums",
-          "Albums": [],
-          "Overview": "Played with the band briefly around the early Ten-era transition before moving on to other work."
-        },
-        {
-          "Name": "Dave Abbruzzese",
-          "YearsActive": "1991–1994",
-          "Roles": "Drummer",
-          "Instruments": "Drums",
-          "Albums": [
-            {
-              "Title": "Vs.",
-              "Year": "1993"
-            },
-            {
-              "Title": "Vitalogy",
-              "Year": "1994"
-            }
-          ],
-          "Overview": "Drummer during the band’s explosive early-’90s peak, performing on Vs. and much of Vitalogy."
-        },
-        {
-          "Name": "Jack Irons",
-          "YearsActive": "1994–1998",
-          "Roles": "Drummer",
-          "Instruments": "Drums",
-          "Albums": [
-            {
-              "Title": "No Code",
-              "Year": "1996"
-            },
-            {
-              "Title": "Yield",
-              "Year": "1998"
-            }
-          ],
-          "Overview": "Drummer for Pearl Jam’s mid- to late-’90s creative pivot, playing on No Code and Yield."
-        }
-      ]
+      "CoreMembers": [],
+      "NonCoreMembers": []
     },
     {
       "ArtistID": "pet-shop-boys",
@@ -2914,7 +2214,283 @@
     },
     {
       "ArtistID": "peter-frampton",
-      "Name": "Peter Frampton"
+      "Name": "Peter Frampton",
+      "Type": "Solo",
+      "Origin": {
+        "City": "Beckenham",
+        "Region": "Kent, England",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1966–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Blues rock",
+        "Hard rock"
+      ],
+      "Labels": [
+        "A&M",
+        "Atlantic",
+        "Virgin"
+      ],
+      "Overview": "Peter Frampton emerged from the late‑’60s British pop and blues‑rock scene as a rare hybrid: a melodic songwriter with the chops and tone of a first‑call guitarist. Born in Beckenham, Kent, he broke nationally as a teen frontman and lead guitarist with The Herd, then stepped into heavier territory in 1969 as a co‑founder of Humble Pie, where his fluid, vocal‑like leads and crisp rhythm work helped define the band’s early mix of hard rock, blues, and soul. After leaving Humble Pie in 1971, Frampton rebuilt his profile through steady touring and a run of mid‑’70s studio albums that sharpened his identity—warm, singing guitar lines, accessible hooks, and a stagecraft that made his concerts feel communal rather than distant.\n\nThat long apprenticeship detonated in 1976 with *Frampton Comes Alive!*, the blockbuster double‑live set captured on his 1975 tour and released by A&M. Powered by “Show Me the Way,” “Baby, I Love Your Way,” and “Do You Feel Like We Do,” the album became one of the era’s signature rock documents, turning Frampton into an arena headliner and cementing the talk box—used as an expressive extension of his guitar voice—into mainstream rock vocabulary. The record’s impact wasn’t only commercial: it set a template for how live albums could function as both a greatest‑hits statement and a narrative of a performer’s relationship with an audience.\n\nFrampton’s career has proven broader and longer than the mid‑’70s peak might suggest. He continued to record and tour across decades, shifting between song‑driven rock and guitar‑forward projects, including the instrumental album *Fingerprints*, which earned him a GRAMMY for Best Pop Instrumental Album. In 2019, Frampton publicly shared his diagnosis of inclusion body myositis (IBM), using his platform to support research while continuing to perform as his health allowed. In 2024, he was inducted into the Rock & Roll Hall of Fame—recognition of a body of work that spans British beat‑era stardom, blues‑rock firepower, and one of rock’s most enduring live‑album legacies.",
+      "NotableAlbums": [
+        {
+          "Title": "Frampton",
+          "Year": "1975",
+          "Notes": "Breakthrough studio set that set up the live-era repertoire, including early versions of key songs later amplified on the concert stage."
+        },
+        {
+          "Title": "Frampton Comes Alive!",
+          "Year": "1976",
+          "Notes": "Blockbuster double-live album that made him an arena headliner and remains one of rock’s best-known live records, featuring major hit singles and signature talk box moments."
+        },
+        {
+          "Title": "I’m in You",
+          "Year": "1977",
+          "Notes": "Follow-up during his commercial peak, leaning into radio-friendly songwriting while keeping his melodic guitar voice front and center."
+        },
+        {
+          "Title": "Fingerprints",
+          "Year": "2006",
+          "Notes": "Instrumental-focused album that showcased his mature, narrative guitar style and went on to win a GRAMMY for Best Pop Instrumental Album."
+        },
+        {
+          "Title": "Frampton Forgets the Words",
+          "Year": "2021",
+          "Notes": "Late-career instrumental project built around expressive covers and tone-driven storytelling, reflecting his ongoing focus on guitar as the lead voice."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Show Me the Way",
+          "Year": "1975/1976",
+          "Notes": "A concert staple whose live version became a major hit, pairing a buoyant hook with talk box guitar phrasing."
+        },
+        {
+          "Title": "Baby, I Love Your Way",
+          "Year": "1975/1976",
+          "Notes": "One of his most enduring songs, combining tender melodic writing with a relaxed, sing-along groove."
+        },
+        {
+          "Title": "Do You Feel Like We Do",
+          "Year": "1975/1976",
+          "Notes": "Epic live showcase that helped define the *Frampton Comes Alive!* experience, spotlighting extended soloing and talk box passages."
+        },
+        {
+          "Title": "I’m in You",
+          "Year": "1977",
+          "Notes": "Title track from his peak-era studio work, reflecting his accessible pop-rock side."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1976",
+          "Title": "*Frampton Comes Alive!* becomes an era-defining live blockbuster",
+          "Details": "The double-live album turned him into a global arena star and remains one of the best-selling live albums in rock history."
+        },
+        {
+          "Year": "1979",
+          "Title": "Hollywood Walk of Fame star",
+          "Details": "Received a star on the Hollywood Walk of Fame, reflecting his widespread cultural impact during the mid-’70s peak."
+        },
+        {
+          "Year": "2007",
+          "Title": "GRAMMY Award for *Fingerprints*",
+          "Details": "Won Best Pop Instrumental Album for *Fingerprints*, a late-career validation of his guitar-forward artistry."
+        },
+        {
+          "Year": "2019",
+          "Title": "Publicly reveals inclusion body myositis (IBM) and supports research",
+          "Details": "Shared his diagnosis and helped spotlight research efforts and clinical work connected to IBM."
+        },
+        {
+          "Year": "2024",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted into the Rock & Roll Hall of Fame, recognizing his influence across British rock beginnings, solo success, and a landmark live-album legacy."
+        }
+      ],
+      "KeyFacts": [
+        "Frampton rose to prominence first as a teen star in The Herd, then as a co-founder of Humble Pie before building a solo career.",
+        "*Frampton Comes Alive!* (released January 1976) captured his 1975 tour and turned live performance into his defining commercial and cultural statement.",
+        "He is closely associated with the talk box, using it as an expressive extension of guitar phrasing rather than a novelty effect.",
+        "His GRAMMY-winning *Fingerprints* underscored his long-term reputation as a guitarist’s guitarist, decades after his 1970s breakthrough.",
+        "After publicly revealing his inclusion body myositis diagnosis in 2019, he continued performing when possible while supporting research efforts.",
+        "He was inducted into the Rock & Roll Hall of Fame in 2024."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.frampton.com/",
+        "AllMusic (Artist Bio)": "https://www.allmusic.com/artist/peter-frampton-mn0000320845",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/peter-frampton/",
+        "GRAMMY (Artist Page)": "https://www.grammy.com/artists/peter-frampton/13311",
+        "Johns Hopkins Medicine (IBM)": "https://www.hopkinsmedicine.org/news/articles/2021/02/musician-peter-frampton-provides-johns-hopkins-with-new-insights-for-treating-inclusion-body-myositis",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Peter_Frampton"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Peter Frampton",
+          "YearsActive": "1966–present",
+          "Roles": "Guitarist; singer; songwriter; bandleader",
+          "Instruments": "Guitar; vocals; talk box",
+          "Albums": [
+            {
+              "Title": "Wind of Change",
+              "Year": "1972"
+            },
+            {
+              "Title": "Frampton’s Camel",
+              "Year": "1973"
+            },
+            {
+              "Title": "Somethin’s Happening",
+              "Year": "1974"
+            },
+            {
+              "Title": "Frampton",
+              "Year": "1975"
+            },
+            {
+              "Title": "Frampton Comes Alive!",
+              "Year": "1976"
+            },
+            {
+              "Title": "I’m in You",
+              "Year": "1977"
+            },
+            {
+              "Title": "Fingerprints",
+              "Year": "2006"
+            },
+            {
+              "Title": "Frampton Forgets the Words",
+              "Year": "2021"
+            }
+          ],
+          "Overview": "Melodic, tone-driven English guitarist-singer whose arena-era live work and talk box phrasing helped define 1970s rock, with a long second act as a guitar-forward recording artist.",
+          "Bio": {
+            "FullName": "Peter Kenneth Frampton",
+            "Birth": "April 22, 1950 — Beckenham, Kent, England",
+            "Death": "",
+            "Nationality": "English",
+            "Roles": "Guitarist; singer; songwriter; bandleader",
+            "Instruments": "Guitar; vocals; talk box",
+            "Overview": "Frampton blended pop songwriting instincts with expressive, vocal-like guitar phrasing—rising from British teen-band success to Humble Pie’s blues-rock power, then achieving defining solo fame with *Frampton Comes Alive!*.",
+            "FullText": "Peter Kenneth Frampton (born April 22, 1950) built a career around an unusually “vocal” idea of guitar playing: lines that sing, answer, and phrase like a lead voice, paired with songs that never treat melody as an afterthought. Growing up in Beckenham, Kent, he gravitated to music early and developed quickly enough to become a working professional while still a teenager. That early start mattered: Frampton learned the discipline of pop structure and stage presence before he ever became known as a rock guitar hero.\n\nHis first major break came with The Herd, a London‑area band that blended beat‑group energy with late‑’60s psychedelia and pop craft. Frampton joined as a young lead guitarist and singer, and the group scored UK chart success, putting him in the public eye during a period when British rock was rapidly expanding beyond straightforward R&B. In The Herd, he gained two defining tools: the confidence to sing as well as play, and the sense that a guitar part could be as hook‑forward as any chorus.\n\nIn 1969, Frampton made a decisive artistic turn by co‑founding Humble Pie with Steve Marriott. Where The Herd leaned toward pop immediacy, Humble Pie pushed into blues‑rock muscle and improvisational fire, and Frampton’s playing grew larger—more sustain, more bite, more conversational interplay with the band’s grooves. His time in Humble Pie also positioned him as a musician’s musician: capable of serving the song while still sounding unmistakably like himself, a balance that later made him valuable in sessions and collaborations.\n\nLeaving Humble Pie in 1971, Frampton chose the harder path of building a solo identity from the ground up. Rather than chasing quick reinvention, he toured relentlessly and released a sequence of albums that refined his voice: warm, lyrical leads; mid‑tempo rock that could lift into arena choruses; and arrangements that left room for the guitar to function as a second narrator. By the mid‑1970s, he had a dedicated live following—but the wider public still hadn’t fully caught up to what his concerts delivered night after night.\n\nThat gap between reputation and mainstream recognition closed in spectacular fashion with *Frampton Comes Alive!* The double‑live set, recorded across dates on his 1975 tour and released in January 1976, captured the version of Frampton that fans already knew: a performer who built tension patiently, then released it in long, melodic climbs and call‑and‑response with the crowd. The album’s breakthrough singles—“Show Me the Way,” “Baby, I Love Your Way,” and “Do You Feel Like We Do”—didn’t simply sell a record; they sold the feeling of being in the room with him. It became one of the best‑selling live albums in rock history and, for many listeners, the defining sound of 1976.\n\nA key part of that sound was Frampton’s talk box work, which translated the phrasing of the human voice into guitar articulation in a way that felt playful and futuristic without losing musicality. The talk box wasn’t invented by Frampton, but his mainstream success popularized it so broadly that it became a shorthand for expressive, “speaking” guitar in classic rock. Importantly, he used the effect as a musical device rather than a novelty: it fit the emotional arc of songs, amplifying their sense of intimacy and direct address.\n\nSuperstardom in the wake of *Frampton Comes Alive!* also brought a familiar rock‑era challenge: the public image can harden into a single snapshot while the artist continues evolving. Frampton kept recording and performing through changing radio climates, returning again and again to what he does best—melody, tone, and feel—while refusing to abandon craft for fashion. His later decades show a guitarist who never stopped working: shifting between vocal albums and guitar‑centric projects, and treating the instrument less like a weapon and more like a storyteller.\n\nOne of the clearest examples of that long‑arc musicianship is *Fingerprints*, his instrumental album that won the GRAMMY Award for Best Pop Instrumental Album. It’s the kind of record a veteran makes when he wants the guitar itself to carry the narrative, with phrasing, dynamics, and arrangement doing the emotional heavy lifting. The award mattered not simply as a late‑career trophy, but as evidence that Frampton’s identity was bigger than any one era: he could still surprise audiences on his own terms.\n\nAlong the way, Frampton’s reputation as a tasteful, reliable guitarist led to high‑profile collaborations and guest spots, reinforcing his status beyond his own catalog. He has worked with a wide range of rock figures and remained a valued live draw, returning to the road across multiple decades. His visibility in popular culture was underscored when he received a star on the Hollywood Walk of Fame in 1979—an emblem of how quickly his live‑album era had made him a household name, and how durable that name recognition remained.\n\nIn 2019, Frampton publicly revealed that he had been diagnosed with inclusion body myositis (IBM), a progressive muscle disease. The announcement reframed his touring story from routine scheduling into something more personal—how long can a guitarist keep playing, and what does “continuing” look like when the body changes? Frampton responded with a mix of realism and determination, continuing to perform when possible and using his visibility to support research efforts, including work connected to Johns Hopkins’ myositis program.\n\nThat combination—craft, resilience, and a distinct sonic signature—helps explain why his influence is still easy to trace. Players cite his phrasing and tone; singers and songwriters cite his melodic instincts; live‑album devotees point to *Frampton Comes Alive!* as the blueprint for an arena‑era classic. Recognition caught up in a formal way when he was inducted into the Rock & Roll Hall of Fame in 2024, but the deeper legacy is already embedded in rock’s language: the idea that virtuosity can be inviting, that a guitar can speak without shouting, and that the biggest moment can still be grounded in musical conversation.\n\nTaken as a whole, Frampton’s story is less about a single peak than about continuity. From teen‑band success to blues‑rock intensity, from a career‑defining live document to late‑period instrumental acclaim, he has kept returning to the same core priorities—melody, feel, and connection. That’s why his best work doesn’t sound like a time capsule. It sounds like a player who believes the guitar is a voice, and who never stopped learning how to make it say something human.",
+            "HonoursAndMilestones": [
+              {
+                "Year": "1976",
+                "Title": "Breakthrough of *Frampton Comes Alive!*",
+                "Details": "The double-live album became a defining rock release of the year and one of the best-known live albums ever issued."
+              },
+              {
+                "Year": "1979",
+                "Title": "Hollywood Walk of Fame star",
+                "Details": "Received a star on the Hollywood Walk of Fame for contributions to the recording industry."
+              },
+              {
+                "Year": "2007",
+                "Title": "GRAMMY win for *Fingerprints*",
+                "Details": "Won Best Pop Instrumental Album for *Fingerprints*, highlighting his continued relevance as an instrumentalist."
+              },
+              {
+                "Year": "2019",
+                "Title": "Public IBM disclosure and research support",
+                "Details": "Publicly shared his inclusion body myositis diagnosis and supported research/clinical efforts focused on the disease."
+              },
+              {
+                "Year": "2024",
+                "Title": "Rock & Roll Hall of Fame induction",
+                "Details": "Inducted into the Rock & Roll Hall of Fame, reflecting his influence and enduring live-album legacy."
+              }
+            ],
+            "FunFacts": [
+              {
+                "Fact": "Frampton is widely credited with popularizing the talk box in mainstream rock during the mid-1970s, making the effect a recognizable part of classic-rock vocabulary."
+              },
+              {
+                "Fact": "*Frampton Comes Alive!* was recorded across multiple 1975 shows and released in January 1976, capturing the onstage chemistry that turned a strong touring following into mass success."
+              },
+              {
+                "Fact": "His instrumental album *Fingerprints* earned a GRAMMY for Best Pop Instrumental Album, marking a notable late-career award for guitar-forward work."
+              }
+            ],
+            "Sources": [
+              {
+                "Title": "Peter Frampton",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/peter-frampton/"
+              },
+              {
+                "Title": "All GRAMMY Awards and Nominations for Peter Frampton",
+                "Publisher": "GRAMMY.com",
+                "Url": "https://www.grammy.com/artists/peter-frampton/13311"
+              },
+              {
+                "Title": "Musician Peter Frampton provides Johns Hopkins with new insights for treating inclusion body myositis",
+                "Publisher": "Johns Hopkins Medicine",
+                "Url": "https://www.hopkinsmedicine.org/news/articles/2021/02/musician-peter-frampton-provides-johns-hopkins-with-new-insights-for-treating-inclusion-body-myositis"
+              },
+              {
+                "Title": "Peter Frampton — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/peter-frampton-mn0000320845"
+              },
+              {
+                "Title": "Frampton Comes Alive! — Album",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/album/frampton-comes-alive%21-mw0000372861"
+              },
+              {
+                "Title": "Peter Frampton",
+                "Publisher": "Biography.com",
+                "Url": "https://www.biography.com/musicians/peter-frampton"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Bob Mayo",
+          "YearsActive": "1975–1977 (key touring era)",
+          "Roles": "Keyboardist; rhythm guitarist; backing vocalist",
+          "Instruments": "Keyboards; guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Frampton Comes Alive!",
+              "Year": "1976"
+            }
+          ],
+          "Overview": "Key member of Frampton’s mid-’70s touring band, contributing keyboards, rhythm guitar, and vocals during the performances captured on *Frampton Comes Alive!*."
+        },
+        {
+          "Name": "Stanley Sheldon",
+          "YearsActive": "1975–1977 (key touring era)",
+          "Roles": "Bassist",
+          "Instruments": "Bass",
+          "Albums": [
+            {
+              "Title": "Frampton Comes Alive!",
+              "Year": "1976"
+            }
+          ],
+          "Overview": "Bassist in Frampton’s breakthrough live lineup, anchoring the groove of the 1975 shows that powered his arena-era rise."
+        },
+        {
+          "Name": "John Siomos",
+          "YearsActive": "1975–1977 (key touring era)",
+          "Roles": "Drummer",
+          "Instruments": "Drums",
+          "Albums": [
+            {
+              "Title": "Frampton Comes Alive!",
+              "Year": "1976"
+            }
+          ],
+          "Overview": "Drummer in Frampton’s mid-’70s live band, providing the steady drive behind the extended performances that made *Frampton Comes Alive!* a classic."
+        }
+      ]
     },
     {
       "ArtistID": "peter-gabriel",
