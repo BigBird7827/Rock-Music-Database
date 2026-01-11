@@ -421,27 +421,561 @@
     {
       "ArtistID": "pablo-cruise",
       "Name": "Pablo Cruise",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "San Francisco",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1973–1986",
+        "1996–present"
+      ],
+      "Genres": [
+        "Soft rock",
+        "Pop rock",
+        "Yacht rock",
+        "Jazz rock"
+      ],
+      "Labels": [
+        "A&M Records"
+      ],
+      "Overview": "Pablo Cruise emerged from California’s early-1970s rock circuit and became one of the era’s best-known soft-rock hitmakers. Formed in 1973 in the San Francisco Bay Area by guitarist-vocalist David Jenkins, keyboardist-vocalist Cory Lerios, bassist-vocalist Bud Cockrell, and drummer-percussionist Steve Price, the group blended West Coast pop hooks with a groove-friendly feel, bright keyboards, and stacked harmonies. After signing to A&M Records, they spent the mid-1970s sharpening a clean, radio-ready sound on a string of albums that steadily broadened their audience.\n\nThe breakthrough arrived with 1977’s A Place in the Sun, which produced the Top 10 single \"Whatcha Gonna Do?\" and pushed the band into the mainstream. Their commercial peak followed quickly: 1978’s Worlds Away became their biggest album and delivered \"Love Will Find a Way,\" another signature Top 10 hit, plus the high-energy cover \"I Go to Rio.\" The late-1970s and early-1980s run continued with durable radio staples such as \"Cool Love\" and \"I Want You Tonight,\" balancing polished pop craftsmanship with a rock-band backbone and a light funk pulse that helped the songs jump off the speakers.\n\nAfter seven studio albums with A&M and years of national touring, Pablo Cruise slowed down and eventually split in the mid-1980s, then regrouped in later decades to bring the catalog back to the stage. Lineups shifted over time, but the band’s identity remained rooted in the founding songwriting and vocal blend of Jenkins and Lerios, with Price’s percussion-heavy drumming a hallmark of the live sound. Pablo Cruise’s legacy is tightly tied to late-1970s FM radio: sun-lit melodies, tight musicianship, and choruses built to feel like the start of a weekend.",
+      "NotableAlbums": [
+        {
+          "Title": "Pablo Cruise",
+          "Year": "1975",
+          "Notes": "Debut studio album on A&M Records; introduced the band’s harmony-rich West Coast pop-rock sound."
+        },
+        {
+          "Title": "Lifeline",
+          "Year": "1976",
+          "Notes": "Follow-up that expanded the band’s songwriting and touring profile as they built a national audience."
+        },
+        {
+          "Title": "A Place in the Sun",
+          "Year": "1977",
+          "Notes": "Breakthrough album featuring the Top 10 hit \"Whatcha Gonna Do?\" and establishing the band as a major radio presence."
+        },
+        {
+          "Title": "Worlds Away",
+          "Year": "1978",
+          "Notes": "Commercial peak; platinum-selling album featuring \"Love Will Find a Way,\" \"Don’t Want to Live Without It,\" and the cover \"I Go to Rio.\""
+        },
+        {
+          "Title": "Part of the Game",
+          "Year": "1979",
+          "Notes": "Continued the hit run with \"I Want You Tonight\" and sustained the band’s late-1970s touring momentum."
+        },
+        {
+          "Title": "Reflector",
+          "Year": "1981",
+          "Notes": "Early-1980s lineup expansion; produced the Top 40 hit \"Cool Love\" and marked the band’s last major chart run of the original era."
+        },
+        {
+          "Title": "Out of Our Hands",
+          "Year": "1983",
+          "Notes": "Shifted toward an ’80s pop/keyboard-leaning production approach as new wave pressures reshaped radio formats."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Whatcha Gonna Do?",
+          "Year": "1977",
+          "Notes": "Breakthrough single; Billboard Hot 100 Top 10 hit (peaked at No. 6)."
+        },
+        {
+          "Title": "Love Will Find a Way",
+          "Year": "1978",
+          "Notes": "Signature single; Billboard Hot 100 Top 10 hit (peaked at No. 6)."
+        },
+        {
+          "Title": "Don’t Want to Live Without It",
+          "Year": "1978",
+          "Notes": "Major radio hit from Worlds Away; reached the Billboard Hot 100 Top 20."
+        },
+        {
+          "Title": "I Go to Rio",
+          "Year": "1979",
+          "Notes": "High-energy cover that became a fan-favorite; charted on the Billboard Hot 100."
+        },
+        {
+          "Title": "I Want You Tonight",
+          "Year": "1979",
+          "Notes": "Late-1970s single that extended the band’s hit streak; Billboard Hot 100 Top 20 hit."
+        },
+        {
+          "Title": "Cool Love",
+          "Year": "1981",
+          "Notes": "The band’s last Top 40 pop hit of the original era; Billboard Hot 100 Top 20 hit (peaked at No. 13)."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1977",
+          "Title": "Mainstream breakthrough",
+          "Details": "\"Whatcha Gonna Do?\" became a Billboard Hot 100 Top 10 hit and propelled A Place in the Sun into the national spotlight."
+        },
+        {
+          "Year": "1978",
+          "Title": "Commercial peak with Worlds Away",
+          "Details": "Worlds Away became the band’s biggest album (platinum-selling) and produced multiple Hot 100 hits including the Top 10 \"Love Will Find a Way.\""
+        },
+        {
+          "Year": "1979",
+          "Title": "Sustained hit streak",
+          "Details": "Part of the Game extended the run of charting singles with \"I Want You Tonight,\" keeping the band in heavy radio rotation."
+        },
+        {
+          "Year": "1981",
+          "Title": "Last major pop hit of original era",
+          "Details": "Reflector yielded \"Cool Love,\" the band’s last Top 40 pop single during the classic A&M period."
+        },
+        {
+          "Year": "2011",
+          "Title": "First official live release",
+          "Details": "Released the live CD/DVD package It’s Good to Be Live, capturing the reunion-era lineup in concert."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1973 in the San Francisco Bay Area by former members of Stoneground (Lerios, Price) and It’s a Beautiful Day (Cockrell), with David Jenkins joining as guitarist/lead vocalist.",
+        "Released seven studio albums on A&M Records between 1975 and 1983; five singles reached the Billboard Hot 100 Top 25.",
+        "The band name was often treated as a playful in-joke: when fans asked who Pablo Cruise was, members would quip, \"He’s the guy in the middle.\"",
+        "The group explained the name as a mood: \"Pablo\" as an honest, down-to-earth person and \"Cruise\" as a fun-loving, easygoing attitude.",
+        "Known for late-1970s radio staples including \"Whatcha Gonna Do?\" and \"Love Will Find a Way,\" along with the energetic cover \"I Go to Rio.\"",
+        "After an original run ending in the mid-1980s, the band re-formed and continued touring in later decades with a lineup anchored by founding members."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.pablocruise.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Pablo_Cruise",
+        "AllMusic": "https://www.allmusic.com/artist/pablo-cruise-mn0000003170",
+        "Discogs": "https://www.discogs.com/artist/233308-Pablo-Cruise"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "David Jenkins",
+          "YearsActive": "1973–1986, 1996–present",
+          "Roles": "Lead vocals; lead guitar; songwriter",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Pablo Cruise",
+              "Year": "1975"
+            },
+            {
+              "Title": "Lifeline",
+              "Year": "1976"
+            },
+            {
+              "Title": "A Place in the Sun",
+              "Year": "1977"
+            },
+            {
+              "Title": "Worlds Away",
+              "Year": "1978"
+            },
+            {
+              "Title": "Part of the Game",
+              "Year": "1979"
+            },
+            {
+              "Title": "Reflector",
+              "Year": "1981"
+            },
+            {
+              "Title": "Out of Our Hands",
+              "Year": "1983"
+            }
+          ],
+          "Overview": "Co-founding singer/guitarist and principal frontman; co-wrote and performed the band’s biggest radio hits and anchored the reunion touring era.",
+          "Bio": {
+            "FullName": "David Michael Jenkins",
+            "Birth": {
+              "Date": "1947-08-29",
+              "Place": ""
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Roles": "Singer-songwriter; guitarist; bandleader",
+            "Instruments": "Vocals; guitar",
+            "Overview": "Founding frontman of Pablo Cruise and the band’s lead guitarist and primary onstage identity during their A&M Records peak; later fronted country-rock band Southern Pacific and continued touring with Pablo Cruise through reunion eras.",
+            "FullText": "David Michael Jenkins (born August 29, 1947) is an American singer-songwriter and guitarist best known as the lead singer and lead guitarist of Pablo Cruise. His writing and vocal delivery sit at the center of the band’s \"California smooth rock\" identity: warm, melodic, and built for the radio without losing a working-band edge.\n\nJenkins emerged from the Northern California scene in the early 1970s and connected with keyboardist Cory Lerios and drummer Steve Price during a period when Bay Area musicians routinely moved between original bands, session work, and touring outfits. That network of players and venues provided the foundation for what would become Pablo Cruise.\n\nIn 1973, Jenkins co-founded Pablo Cruise, bringing a guitar style that could shift from bright rhythm chanks to lyrical leads and a voice that carried both the band’s breezy choruses and its more soulful moments. With bassist Bud Cockrell completing the core lineup, the group began developing a sound that mixed pop craftsmanship with a subtle funk pulse.\n\nSigned to A&M Records, Pablo Cruise released its debut album in 1975 and quickly established a reputation as a strong live act. Jenkins’s guitar work helped define the band’s studio polish without sanding away the energy that made them a concert draw during the mid-1970s club-and-theater circuit.\n\nJenkins also served as a key songwriter, co-writing many of the group’s best-known songs. On \"Love Will Find a Way\" and other hits, his writing emphasized direct, singable hooks and clean melodic arcs—traits that translated naturally to the late-1970s FM and adult contemporary formats.\n\nDuring Pablo Cruise’s commercial peak, Jenkins balanced touring with steady recording sessions as the band released albums in quick succession. The late-1970s and early-1980s period produced their signature radio run, and Jenkins remained the most recognizable onstage presence as audiences connected the voice and guitar to the band’s biggest singles.\n\nAfter Pablo Cruise disbanded in 1986, Jenkins continued working in a different corner of American rock, joining the country-rock band Southern Pacific. He served as the group’s lead singer during the late 1980s, helping front a run of country-chart hits and bringing his road-tested bandleading experience into a new genre context.\n\nJenkins also pursued collaborative projects outside of mainstream rock. In 1994, he teamed with Hawaiian singer Kapono Beamer on the album Cruisin’ on Hawaiian Time, reflecting his long-standing interest in island music and surf-era songwriting influences.\n\nIn 1996, Jenkins returned to the Pablo Cruise name as the band re-formed in a new lineup and began performing again. The reunion reflected a broader trend of classic rock and soft rock acts re-entering the live market, but for Jenkins it also meant reclaiming the catalog he helped create as both writer and performer.\n\nThrough subsequent decades, Jenkins remained closely identified with Pablo Cruise, continuing to tour and perform the band’s signature songs for long-time fans and new listeners. Whether in the original A&M era or the reunion years, his role as the band’s primary frontman and guitarist has been the thread that ties Pablo Cruise’s history together.",
+            "HonoursAndMilestones": [
+              "Co-founded Pablo Cruise in 1973 and remained the band’s lead singer/lead guitarist through the original run (1973–1986) and reunion years (1996–present).",
+              "Co-wrote and performed multiple Pablo Cruise radio staples, including \"Love Will Find a Way.\"",
+              "Served as lead singer for Southern Pacific in the late 1980s."
+            ],
+            "FunFacts": [
+              "Released a collaborative album with Hawaiian singer Kapono Beamer (Cruisin’ on Hawaiian Time, 1994).",
+              "Known for blending pop hooks with a rhythm-guitar feel that keeps the songs dancing even at mid-tempo."
+            ],
+            "Sources": [
+              {
+                "Title": "David Jenkins (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/David_Jenkins_(musician)"
+              },
+              {
+                "Title": "David Jenkins Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/david-jenkins-mn0000217594"
+              },
+              {
+                "Title": "Pablo Cruise",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pablo_Cruise"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Cory Lerios",
+          "YearsActive": "1973–1986, 1996–present",
+          "Roles": "Keyboards; vocals; songwriter; composer/producer",
+          "Instruments": "Keyboards; piano; synthesizers; vocals",
+          "Albums": [
+            {
+              "Title": "Pablo Cruise",
+              "Year": "1975"
+            },
+            {
+              "Title": "Lifeline",
+              "Year": "1976"
+            },
+            {
+              "Title": "A Place in the Sun",
+              "Year": "1977"
+            },
+            {
+              "Title": "Worlds Away",
+              "Year": "1978"
+            },
+            {
+              "Title": "Part of the Game",
+              "Year": "1979"
+            },
+            {
+              "Title": "Reflector",
+              "Year": "1981"
+            },
+            {
+              "Title": "Out of Our Hands",
+              "Year": "1983"
+            }
+          ],
+          "Overview": "Co-founding keyboardist/vocalist and primary songwriter; shaped the band’s harmony-driven sound and later built a major film/TV composing career.",
+          "Bio": {
+            "FullName": "Cory Charles Lerios",
+            "Birth": {
+              "Date": "1951-02-12",
+              "Place": "Palo Alto, California, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Roles": "Keyboardist; vocalist; songwriter; composer; producer",
+            "Instruments": "Keyboards; piano; synthesizers; vocals",
+            "Overview": "Co-founder, keyboardist, and key songwriter of Pablo Cruise; later built a long second career composing and producing music for film and television while continuing to tour with the band.",
+            "FullText": "Cory Charles Lerios (born February 12, 1951) is an American keyboardist, pianist, vocalist, composer, and producer whose career bridges classic West Coast pop and screen music. Raised in Northern California, he developed as a player in the Bay Area scene at a moment when local rock bands routinely mixed strong musicianship with radio-friendly writing.\n\nLerios entered the professional music world in 1971 as a member of Stoneground, a San Francisco-area group signed to Warner Bros. Records. The experience put him inside a touring and recording operation early, and it also connected him with fellow musicians who would soon become long-term collaborators.\n\nAfter leaving Stoneground in 1973, Lerios co-founded Pablo Cruise with guitarist David Jenkins and drummer Steve Price, later joined by bassist Bud Cockrell. From the start, Lerios helped shape the band’s signature blend of bright keyboard colors, tight harmony vocals, and a rhythmic feel that kept the songs dancing even when the tempos stayed relaxed.\n\nWith Pablo Cruise signed to A&M Records, Lerios contributed to the group’s steady mid-1970s climb through national touring and album releases. His playing became a key part of the band’s sonic identity: shimmering electric pianos, compact synth textures, and melodic fills that matched the band’s sunlit songwriting.\n\nBeyond performance, Lerios was one of Pablo Cruise’s central writers. He is credited as a co-writer on defining hits including \"Whatcha Gonna Do?\" and \"Love Will Find a Way,\" songs that helped move the band from the club circuit into major radio rotation.\n\nDuring the band’s peak years, Lerios balanced studio precision with the demands of heavy touring. The group’s late-1970s run produced their biggest albums and a string of charting singles, and Lerios’s keyboard lines and vocal blend were a constant through the classic A&M era.\n\nWhen Pablo Cruise wound down in the mid-1980s, Lerios pivoted into composing for film and television. His first major screen assignment is often cited as the 1986 comedy One Crazy Summer, a project that helped open the door to a sustained second career.\n\nIn the years that followed, Lerios partnered with John D’Andrea to form Lerios D’Andrea Music Works, a Los Angeles-based production studio. Together they wrote and produced themes, songs, and scores across a wide range of television, becoming particularly associated with long-running series work.\n\nHis TV credits include extensive music for Baywatch and additional work tied to series and productions such as Days of Our Lives, Diagnosis: Murder, Max Headroom, and The Land Before Time. That body of work highlights a different side of Lerios: an arranger and dramatic composer who could deliver memorable themes and flexible underscore on deadline.\n\nEven while building a screen-music résumé, Lerios maintained his identity as a touring musician. He returned to Pablo Cruise in later decades, helped produce live releases, and continued performing the band’s catalog for new audiences while also releasing solo material under the name Cory Charles.",
+            "HonoursAndMilestones": [
+              "Co-founded Pablo Cruise in 1973 after earlier work with Stoneground (Warner Bros.).",
+              "Co-wrote defining hits including \"Whatcha Gonna Do?\" and \"Love Will Find a Way.\"",
+              "Co-founded Lerios D’Andrea Music Works and scored extensive film/TV projects including Baywatch."
+            ],
+            "FunFacts": [
+              "Produced Pablo Cruise’s live DVD/CD It’s Good To Be Live! (2012).",
+              "Released solo material under the name Cory Charles."
+            ],
+            "Sources": [
+              {
+                "Title": "Cory Lerios",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Cory_Lerios"
+              },
+              {
+                "Title": "Cory Lerios Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/cory-lerios-mn0000106082"
+              },
+              {
+                "Title": "Pablo Cruise",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pablo_Cruise"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Steve Price",
+          "YearsActive": "1973–early 1981, 2004–present",
+          "Roles": "Drums; percussion",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            {
+              "Title": "Pablo Cruise",
+              "Year": "1975"
+            },
+            {
+              "Title": "Lifeline",
+              "Year": "1976"
+            },
+            {
+              "Title": "A Place in the Sun",
+              "Year": "1977"
+            },
+            {
+              "Title": "Worlds Away",
+              "Year": "1978"
+            },
+            {
+              "Title": "Part of the Game",
+              "Year": "1979"
+            }
+          ],
+          "Overview": "Co-founding drummer/percussionist; brought a groove-forward, percussion-rich approach that helped define Pablo Cruise’s live feel.",
+          "Bio": {
+            "FullName": "Stephen Martin \"Steve\" Price",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Roles": "Drummer; percussionist",
+            "Instruments": "Drums; percussion",
+            "Overview": "Founding drummer-percussionist of Pablo Cruise whose percussion-heavy approach helped define the band’s live feel; later returned in the 2000s as the group resumed steady touring.",
+            "FullText": "Stephen Martin \"Steve\" Price is an American drummer and percussionist best known as a founding member of Pablo Cruise. His playing brought a distinctive, percussion-forward feel to the band’s soft-rock framework, adding movement and color that helped the grooves stay lively under bright vocal harmonies.\n\nPrice’s path to music began in school, where he gravitated toward the band room and found his way to the drums. Early experiences in marching and school ensembles gave him fundamentals, but his real education came through playing with working bands in the Northern California scene.\n\nA key early connection was his friendship with keyboardist Cory Lerios. Price initially worked as a roadie within Lerios’s circle of projects, then moved into the drummer’s seat when an opening appeared, turning a behind-the-scenes role into a permanent place in a performing lineup.\n\nPrice and Lerios played together in a band called Together before being recruited into Stoneground, a San Francisco-area rock group with national exposure. Stoneground’s profile included work connected to the 1972 film Dracula A.D. 1972, and the experience placed Price inside a professional touring and recording environment.\n\nIn 1973, Price co-founded Pablo Cruise with Lerios and guitarist David Jenkins, with bassist Bud Cockrell completing the original lineup. In the band’s formative years, Price helped define a feel that sat between rock backbeat and a broader percussion palette, supporting songs that needed both polish and bounce.\n\nPrice stayed with Pablo Cruise through the band’s most productive era, appearing on the core run of A&M Records studio albums. His playing is often associated with a kit augmented by auxiliary percussion—blocks, bells, timbales, and other textures—that expanded the band’s rhythmic vocabulary in live performances.\n\nHe left the group in the early 1980s, then rejoined decades later as the band returned to steady touring. In 2004, Price and Lerios were again part of the active lineup, helping reconnect the modern touring band with the sound and feel of the original records.\n\nOutside of Pablo Cruise, Price has been credited with work as a drummer and percussionist in studio settings, including periods where he was effectively an in-house player at The Record Plant in Sausalito. That kind of role required versatility: moving quickly between styles and delivering reliable takes across a wide range of material.\n\nPrice has also pursued non-music ventures during his time away from the band, including work in e-learning and the creation of an aerial photography business. Those projects reflect the practical, multi-career reality common to many professional musicians outside of constant touring cycles.\n\nBased in Northern California, Price continues to be associated with Pablo Cruise’s live legacy—bringing the percussion-heavy drive that helped the band’s classic songs feel as much like danceable rock as easy-listening pop.",
+            "HonoursAndMilestones": [
+              "Co-founded Pablo Cruise in 1973 and played through the band’s classic A&M studio run (1973–early 1981).",
+              "Rejoined Pablo Cruise in 2004 as the band returned to active touring.",
+              "Worked as a versatile studio drummer/percussionist, including time associated with The Record Plant in Sausalito."
+            ],
+            "FunFacts": [
+              "Augmented his drum kit with extensive auxiliary percussion in live performances (blocks, bells, timbales, and more).",
+              "Pursued work in e-learning and founded an aerial photography company during time away from touring."
+            ],
+            "Sources": [
+              {
+                "Title": "Steve Price (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Price_(musician)"
+              },
+              {
+                "Title": "Pablo Cruise",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pablo_Cruise"
+              },
+              {
+                "Title": "Pablo Cruise Artist Page (Biography link)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/pablo-cruise-mn0000003170"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Bud Cockrell",
+          "YearsActive": "1973–1977",
+          "Roles": "Bass; vocals; songwriter",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Pablo Cruise",
+              "Year": "1975"
+            },
+            {
+              "Title": "Lifeline",
+              "Year": "1976"
+            },
+            {
+              "Title": "A Place in the Sun",
+              "Year": "1977"
+            }
+          ],
+          "Overview": "Original bassist and a lead vocalist; central to the early A&M albums and the breakthrough period leading into the band’s mainstream success.",
+          "Bio": {
+            "FullName": "James Ray \"Bud\" Cockrell",
+            "Birth": {
+              "Date": "1950-03-28",
+              "Place": "Greenville, Mississippi, United States"
+            },
+            "Death": {
+              "Date": "2010-03-06",
+              "Place": "Hinds County, Mississippi, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Bassist; vocalist; singer-songwriter",
+            "Instruments": "Bass guitar; vocals",
+            "Overview": "Original bassist and a lead vocalist of Pablo Cruise, central to the band’s early A&M rise; left in 1977 to pursue projects with Pattie Santos and other Bay Area acts.",
+            "FullText": "James Ray \"Bud\" Cockrell (March 28, 1950 – March 6, 2010) was an American musician and singer-songwriter best known as the original bassist and one of the lead vocalists of Pablo Cruise. Within the band’s early sound, he provided both the low-end foundation and a distinctive vocal presence that helped the harmonies stand out on record and onstage.\n\nCockrell was born in Greenville, Mississippi, and grew up in the Mississippi Delta. According to biographical accounts, his father and uncle taught him guitar and bass, and he played music with his father in bars throughout the region—an apprenticeship that grounded his later work in blues, soul, and groove-oriented rock.\n\nIn 1972, the Bay Area band It’s a Beautiful Day recruited Cockrell, bringing him from the Delta into the center of Northern California’s touring rock scene. That move also linked him with singer Pattie Santos, who would become both a close collaborator and his wife.\n\nWhen It’s a Beautiful Day broke up the following year, Cockrell helped co-found Pablo Cruise in 1973 alongside David Jenkins, Cory Lerios, and Steve Price. In the band’s earliest period, he was not only the bassist but a prominent vocalist, contributing to the signature blend of harmony parts that became a calling card for the group.\n\nWith manager Bob Brown, Pablo Cruise signed to A&M Records and released its debut album in 1975. Cockrell’s playing and singing were central to the early A&M-era records, as the group built its audience through constant touring and steady album releases.\n\nThe turning point came with 1977’s A Place in the Sun, which produced the hit single \"Whatcha Gonna Do?\" and brought the band into mainstream radio rotation. Cockrell co-wrote the album’s title track and was part of the lineup that made the breakthrough possible before the band reached its late-1970s commercial peak.\n\nLater in 1977, Cockrell left Pablo Cruise to focus on work with Pattie Santos, forming the duo Cockrell & Santos. Their album New Beginnings (released in 1978 on A&M) featured notable guest musicians from the jazz and fusion world, reflecting Cockrell’s broad musical interests beyond radio pop-rock.\n\nDuring the same general period, Cockrell also spent time as a singer with Sons of Champlin (1977–1979), stepping into a prominent vocal role after the departure of Bill Champlin. Across these projects, he moved fluidly between pop, blues, soul, funk, and country-leaning material.\n\nTragically, Pattie Santos died in a car accident in 1989. In his later years, Cockrell returned to the Mississippi Delta and faced serious health challenges, including dialysis treatment.\n\nCockrell died in Hinds County, Mississippi, in 2010 due to complications from diabetes. Although he left Pablo Cruise before their most successful album, his voice, bass work, and songwriting were foundational to the band’s rise and remain embedded in the early recordings that established their classic sound.",
+            "HonoursAndMilestones": [
+              "Co-founded Pablo Cruise in 1973 and appeared on the band’s first three A&M studio albums.",
+              "Co-wrote the title track \"A Place in the Sun\" and sang on the breakthrough era that produced \"Whatcha Gonna Do?\"",
+              "Formed Cockrell & Santos and released New Beginnings (A&M, 1978)."
+            ],
+            "FunFacts": [
+              "Was recruited in 1972 by It’s a Beautiful Day before co-founding Pablo Cruise.",
+              "Worked with Sons of Champlin during a late-1970s lineup transition."
+            ],
+            "Sources": [
+              {
+                "Title": "Bud Cockrell",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Bud_Cockrell"
+              },
+              {
+                "Title": "Pablo Cruise",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pablo_Cruise"
+              },
+              {
+                "Title": "Biography: Pablo Cruise",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/pablo-cruise-mn0000003170/biography"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Larry Antonino",
+          "YearsActive": "2010–present",
+          "Roles": "Bass; vocals",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [],
+          "Overview": "Veteran bassist who joined the touring lineup after 2009, helping anchor the band’s modern-era live sound on bass and harmony vocals. Known for extensive professional touring work outside the group, he became a steady onstage counterpart to the founding members during the band’s long-running reunion period."
+        },
+        {
+          "Name": "Robbie Wyckoff",
+          "YearsActive": "2017–present",
+          "Roles": "Vocals; percussion",
+          "Instruments": "Vocals; percussion",
+          "Albums": [],
+          "Overview": "Joined the modern lineup as a lead vocalist and percussionist, expanding the band’s front-line vocal flexibility for live performances. In the reunion-era touring configuration, he helps deliver the high harmonies and energetic stage presence associated with the classic radio hits."
+        },
+        {
+          "Name": "Sergio Gonzalez",
+          "YearsActive": "2020–2025",
+          "Roles": "Drums; percussion",
+          "Instruments": "Drums; percussion",
+          "Albums": [],
+          "Overview": "Served as the band’s drummer in the early 2020s while the group continued touring with a lineup built around the original songwriting core. His tenure reflects the ongoing, practical lineup rotation common to legacy touring acts balancing schedules and availability."
+        },
+        {
+          "Name": "Bruce Day",
+          "YearsActive": "1977–1980",
+          "Roles": "Bass; vocals",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Worlds Away",
+              "Year": "1978"
+            },
+            {
+              "Title": "Part of the Game",
+              "Year": "1979"
+            }
+          ],
+          "Overview": "Replaced Bud Cockrell in 1977 and played bass during the band’s commercial peak, including the platinum-selling Worlds Away era. His stint helped stabilize the rhythm section as the band’s singles moved into heavy national rotation; he later died in 1999."
+        },
+        {
+          "Name": "John Pierce",
+          "YearsActive": "1980–1984",
+          "Roles": "Bass; vocals",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Reflector",
+              "Year": "1981"
+            },
+            {
+              "Title": "Out of Our Hands",
+              "Year": "1983"
+            }
+          ],
+          "Overview": "Session bassist who joined after Bruce Day’s departure, appearing during the band’s early-1980s lineup changes and stylistic shifts. He is associated with the Reflector and Out of Our Hands period as the group leaned toward an ’80s pop-sheen while continuing to tour."
+        },
+        {
+          "Name": "Angelo Rossi",
+          "YearsActive": "1980–1983",
+          "Roles": "Guitar; vocals",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Reflector",
+              "Year": "1981"
+            }
+          ],
+          "Overview": "Added as a second guitarist during the early-1980s lineup expansion, helping fill out the live sound as the band moved into a new phase. His tenure overlaps with the Reflector era and the period when the group was updating its stage setup and arrangements."
+        },
+        {
+          "Name": "Donny Baldwin",
+          "YearsActive": "1981–1982",
+          "Roles": "Drums; percussion",
+          "Instruments": "Drums; percussion",
+          "Albums": [],
+          "Overview": "Briefly succeeded Steve Price on drums after Price’s sudden mid-1981 departure, keeping the touring schedule moving during a volatile lineup transition. He is noted for prior work with Elvin Bishop and later work with Jefferson Starship."
+        },
+        {
+          "Name": "David Perper",
+          "YearsActive": "1982–1984",
+          "Roles": "Drums; percussion",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            {
+              "Title": "Out of Our Hands",
+              "Year": "1983"
+            }
+          ],
+          "Overview": "Took over the drum chair after Donny Baldwin, contributing to the band’s final A&M-era stretch. His period overlaps with Out of Our Hands, when the group’s production leaned more strongly into contemporary pop keyboards and radio trends of the early 1980s."
+        },
+        {
+          "Name": "Stef Birnbaum (Stef Burns)",
+          "YearsActive": "1983–1984, 1998",
+          "Roles": "Guitar; vocals",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Out of Our Hands",
+              "Year": "1983"
+            }
+          ],
+          "Overview": "Joined as a guitarist during the later A&M era (and briefly returned in 1998), helping refresh the band’s lineup as contracts and personnel shifted. Often credited under the alternate name Stef Burns, he is associated with the band’s final original-period tours."
+        },
+        {
+          "Name": "George Gabriel",
+          "YearsActive": "2004–2009",
+          "Roles": "Bass; vocals",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [],
+          "Overview": "Bassist and vocalist in the mid-2000s reunion-era lineup as Jenkins, Lerios, and Price reconvened permanently. He helped re-establish the touring unit that led to live releases and set the stage for the later lineup featuring Larry Antonino."
+        },
+        {
+          "Name": "Kincaid Miller",
+          "YearsActive": "1996–2004",
+          "Roles": "Keyboards",
+          "Instruments": "Keyboards",
+          "Albums": [],
+          "Overview": "Keyboardist in the post-1996 reunion period, supporting live performances as the band reactivated its classic catalog. His years overlap with the era when the group transitioned from one-off reunions into a steadier touring schedule."
+        },
+        {
+          "Name": "Kevin Wells",
+          "YearsActive": "1996–2004",
+          "Roles": "Drums; percussion; backing vocals",
+          "Instruments": "Drums; percussion; vocals",
+          "Albums": [],
+          "Overview": "Drummer and backing vocalist in the late-1990s/early-2000s reunion lineup, helping keep the band active onstage while the founding members phased back into a permanent configuration. His work supported live reintroductions of the catalog ahead of the mid-2000s regrouping."
+        }
+      ]
     },
     {
       "ArtistID": "pantera",
