@@ -454,27 +454,579 @@
     {
       "ArtistID": "starship",
       "Name": "Starship",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "San Francisco",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1984–1991",
+        "1992–present"
+      ],
+      "Genres": [
+        "Pop rock",
+        "Arena rock",
+        "AOR",
+        "Soft rock",
+        "Synth-rock"
+      ],
+      "Labels": [
+        "Grunt",
+        "RCA",
+        "Loud & Proud Records"
+      ],
+      "Overview": "Starship emerged in late 1984 as the hit‑driven continuation of Jefferson Starship after internal splits and a legal dispute over the Jefferson Starship name pushed the remaining lineup to operate simply as Starship. Based in the Bay Area orbit that had produced Jefferson Airplane and Jefferson Starship, the group leaned hard into mid‑’80s radio craft—big choruses, glossy synth textures, and AOR punch—while keeping the veteran vocal pairing of Mickey Thomas and Grace Slick at the front.\n\nIn 1985, Starship’s first album under the shortened name, *Knee Deep in the Hoopla*, became a commercial breakthrough and produced two U.S. No. 1 singles: “We Built This City” and “Sara.” The follow‑up *No Protection* (1987) kept the momentum with the band’s third U.S. No. 1, “Nothing’s Gonna Stop Us Now,” a signature power‑pop duet tied to the film *Mannequin* and later noted for an Academy Award nomination for Best Original Song (as the film’s featured song, credited to its writers).\n\nAfter Grace Slick departed in 1988, the band’s classic era effectively narrowed, and 1989’s *Love Among the Cannibals* marked a transitional chapter that produced the Top 20 single “It’s Not Enough” but did not sustain the earlier peak. In the early 1990s, the group resumed activity as “Starship featuring Mickey Thomas,” with Thomas remaining the long‑term anchor while the project continued as a touring act and later returned with new studio material on *Loveless Fascination* (2013).",
+      "NotableAlbums": [
+        {
+          "Year": "1985",
+          "Title": "Knee Deep in the Hoopla",
+          "Details": "Starship’s debut under the shortened name and their commercial high-water mark; a Top 10 album that launched the No. 1 singles “We Built This City” and “Sara” and defined their glossy mid‑’80s AOR/pop‑rock sound."
+        },
+        {
+          "Year": "1987",
+          "Title": "No Protection",
+          "Details": "A harder-edged, synth-forward follow‑up that kept the band on pop radio; featured the No. 1 “Nothing’s Gonna Stop Us Now” and the Top 10 “It’s Not Over (’Til It’s Over),” reinforcing Starship’s big-hook, soundtrack-ready profile."
+        },
+        {
+          "Year": "1989",
+          "Title": "Love Among the Cannibals",
+          "Details": "The first Starship album after Grace Slick’s departure; a transitional release that produced the Top 20 “It’s Not Enough” while signaling the end of the band’s peak chart run."
+        },
+        {
+          "Year": "1991",
+          "Title": "Greatest Hits (Ten Years and Change 1979–1991)",
+          "Details": "A career-spanning compilation that captured Starship’s late‑’80s pop‑rock era alongside earlier Jefferson Starship hits, serving as a widely used entry point for casual listeners."
+        },
+        {
+          "Year": "2013",
+          "Title": "Loveless Fascination",
+          "Details": "The first new studio album in decades, released by the touring-era lineup with Mickey Thomas as the lone holdover from the ’80s peak; produced with a contemporary rock sheen and a renewed emphasis on guitar drive."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": "1985",
+          "Title": "We Built This City",
+          "Details": "A polarizing but era-defining anthem that hit No. 1 in the U.S.; its stadium-sized hook and synth polish became shorthand for mid‑’80s corporate pop‑rock."
+        },
+        {
+          "Year": "1985",
+          "Title": "Sara",
+          "Details": "A power ballad that reached No. 1 on the U.S. Hot 100 in March 1986, pairing Mickey Thomas’s lead vocal with Grace Slick’s backing lines for a softer, radio-ready contrast to the band’s anthems."
+        },
+        {
+          "Year": "1986",
+          "Title": "Tomorrow Doesn’t Matter Tonight",
+          "Details": "A brisk, keyboard-driven single from *Knee Deep in the Hoopla* that showcased Starship’s tight AOR arrangements and pop instincts."
+        },
+        {
+          "Year": "1987",
+          "Title": "Nothing’s Gonna Stop Us Now",
+          "Details": "The band’s third U.S. No. 1; a duet-powered, film-associated power ballad that became one of the decade’s signature “can’t-fail” pop-rock closers."
+        },
+        {
+          "Year": "1987",
+          "Title": "It’s Not Over (’Til It’s Over)",
+          "Details": "A Top 10 hit that extended the *No Protection* era, built around a bright chorus and sleek production aimed squarely at contemporary pop radio."
+        },
+        {
+          "Year": "1989",
+          "Title": "It’s Not Enough",
+          "Details": "A late‑era hit that reached the U.S. Top 20, marking the band’s final major chart moment of the classic Starship period."
+        }
+      ],
+      "Achievements": [
+        "Scored three U.S. Billboard Hot 100 No. 1 singles in the 1985–1987 peak era (“We Built This City,” “Sara,” and “Nothing’s Gonna Stop Us Now”).",
+        "*Knee Deep in the Hoopla* earned platinum certification in the United States and became Starship’s signature mainstream breakthrough.",
+        "“Nothing’s Gonna Stop Us Now” became closely associated with the film *Mannequin* and was nominated for the Academy Award for Best Original Song (for its credited songwriters).",
+        "Maintained a long touring afterlife as “Starship featuring Mickey Thomas,” with Thomas remaining the project’s central onstage voice into the modern era."
+      ],
+      "KeyFacts": [
+        "Starship began in 1984 as the renamed continuation of Jefferson Starship following Paul Kantner’s departure and legal restrictions on the “Jefferson Starship” name.",
+        "The classic mid‑’80s lineup centered on Mickey Thomas and Grace Slick’s vocal pairing, supported by Craig Chaquico (guitar), Pete Sears and David Freiberg (bass/keys/vocals), and Donny Baldwin (drums).",
+        "Their core studio-album run is *Knee Deep in the Hoopla* (1985), *No Protection* (1987), and *Love Among the Cannibals* (1989), followed later by *Loveless Fascination* (2013).",
+        "In the 1990s onward, the band primarily operated as a touring act under the “Starship featuring Mickey Thomas” name."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.starshipcontrol.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Starship_(band)",
+        "Discography": "https://www.allmusic.com/artist/starship-mn0000748168/discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Grace Slick",
+          "YearsActive": "1966–1973, 1981–1984 (Jefferson Starship), 1984–1988 (Starship)",
+          "Roles": [
+            "Vocalist",
+            "Songwriter",
+            "Keyboardist"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Keyboards"
+          ],
+          "Albums": [
+            "Knee Deep in the Hoopla (1985)",
+            "No Protection (1987)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1939-10-30",
+              "Place": "Highland Park, Illinois, United States"
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Vocalist",
+              "Songwriter",
+              "Keyboardist"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Keyboards"
+            ],
+            "Overview": "Iconic vocalist and songwriter from the Jefferson Airplane/Jefferson Starship lineage; co-lead singer on Starship’s biggest hits and a key link between the ’60s San Francisco scene and Starship’s mid-’80s chart dominance.",
+            "FullText": "Grace Slick (born October 30, 1939, in Highland Park, Illinois) is one of the most recognizable voices to emerge from San Francisco’s 1960s rock explosion and a rare figure whose career bridged psychedelic counterculture and 1980s pop‑radio dominance. Known for a powerful contralto and sharply articulated phrasing, she became a defining frontwoman for Jefferson Airplane and later for its successor projects Jefferson Starship and Starship.\n\nSlick first achieved major fame with Jefferson Airplane after joining in 1966, helping propel the band into the core of the late‑’60s rock canon. Her performances and songwriting—most famously associated with the *Surrealistic Pillow* era—cemented her as a cultural icon of the period and a key voice in the group’s most enduring recordings.\n\nAs the original Airplane dissolved and offshoot projects formed, Slick continued to adapt to shifting musical climates. The Jefferson Starship era brought a more mainstream rock focus, and Slick’s role expanded and contracted across different lineups, but her presence consistently signaled continuity with the earlier legacy.\n\nIn the early 1980s, Slick returned to Jefferson Starship, re‑establishing a vocal dynamic that paired her distinctive timbre with the cleaner, high‑range lead of Mickey Thomas. That contrasting blend—Slick’s bite and Thomas’s smooth lift—became central to the band’s commercial strategy as they moved further toward radio‑friendly arrangements.\n\nWhen legal and personnel conflicts in 1984 forced the group to abandon the “Jefferson Starship” name, Slick remained in the lineup that became Starship. The rebrand coincided with an intensified pursuit of contemporary pop‑rock hits, and Slick found herself fronting sleek, externally written material designed for Top 40 and MTV.\n\nEven within that polished framework, Slick’s personality and vocal presence remained unmistakable. On the era’s biggest singles, her parts function as dramatic counterweight—sometimes as co‑lead, sometimes as a hook‑sharpening accent—giving Starship’s glossy production a recognizable edge that distinguished it from anonymous session‑built pop‑rock.\n\nThe peak run included three U.S. No. 1 hits tied to the Starship name, with Slick sharing center stage on “We Built This City” and “Nothing’s Gonna Stop Us Now.” Those records positioned her, at the time, as one of the oldest women to top the U.S. charts—an unusual late‑career pop milestone for an artist who had already defined a prior era.\n\nBy 1988, Slick stepped away from Starship again, and her relationship to rock performance increasingly shifted toward closure rather than reinvention. A brief Jefferson Airplane reunion followed, but her long-term trajectory moved away from touring and recording as a primary identity.\n\nSlick formally retired from the music business around 1990 and redirected her creative energy toward visual art, building a second public career as a painter. That pivot reflects a consistent through‑line in her public persona: a preference for creating on her own terms rather than maintaining a perpetual nostalgia circuit.\n\nHer cultural stature was underscored when Jefferson Airplane was inducted into the Rock & Roll Hall of Fame in 1996. In the Starship context, Slick’s enduring significance is that she carried the lineage of the ’60s scene into a completely different commercial environment—then left when the fit no longer matched her sense of what rock performance should be.",
+            "Sources": [
+              {
+                "Title": "Grace Slick",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Grace_Slick"
+              },
+              {
+                "Title": "Grace Slick | Biography, Jefferson Airplane, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Grace-Slick"
+              },
+              {
+                "Title": "Jefferson Airplane",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/jefferson-airplane/"
+              },
+              {
+                "Title": "Starship (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Starship_(band)"
+              },
+              {
+                "Title": "The 60th Academy Awards | 1988",
+                "Publisher": "Oscars.org",
+                "Url": "https://www.oscars.org/oscars/ceremonies/1988"
+              },
+              {
+                "Title": "Official Starship Featuring Mickey Thomas Web Site",
+                "Publisher": "Starship Control",
+                "Url": "https://www.starshipcontrol.com/"
+              },
+              {
+                "Title": "Starship | Discography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/starship-mn0000748168/discography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mickey Thomas",
+          "YearsActive": "1979–present (Jefferson Starship; Starship; Starship featuring Mickey Thomas)",
+          "Roles": [
+            "Lead vocalist"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Rhythm guitar"
+          ],
+          "Albums": [
+            "Knee Deep in the Hoopla (1985)",
+            "No Protection (1987)",
+            "Love Among the Cannibals (1989)",
+            "Loveless Fascination (2013)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1949-12-03",
+              "Place": "Cairo, Georgia, United States"
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Lead vocalist"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Rhythm guitar"
+            ],
+            "Overview": "Lead vocalist of Starship and the only continuous member through the “Starship featuring Mickey Thomas” touring era; previously rose to prominence singing lead on Elvin Bishop’s hit “Fooled Around and Fell in Love.”",
+            "FullText": "John “Mickey” Michael Thomas (born December 3, 1949, in Cairo, Georgia) is the long‑running lead vocalist most closely associated with the Starship name in the post‑Jefferson era. His voice—high, clean, and built for big choruses—became a defining element of the band’s late‑1970s and 1980s hitmaking period, spanning Jefferson Starship’s arena‑rock pivot and Starship’s slick, radio‑dominant run.\n\nThomas first came to national attention in the mid‑1970s with the Elvin Bishop Group. Although Bishop was the artist credited on the single, Thomas sang the lead vocal on “Fooled Around and Fell in Love,” a major pop hit that helped establish him as a distinctive frontman even before he became a household name in a more famous band.\n\nThat breakout profile led to his recruitment into Jefferson Starship in 1979, as the group retooled after the departure of key earlier-era figures. Thomas quickly became central to the band’s late‑’70s/early‑’80s sound, bringing a more straightforward rock and pop sensibility to a lineup that had evolved from psychedelic roots into mainstream touring power.\n\nIn Jefferson Starship, he shared the spotlight during periods when Grace Slick returned to the group, and the pairing of their contrasting voices became one of the project’s most recognizable signatures. On stage and in the studio, Thomas’s ability to deliver precise melodies at high volume made him a natural fit for the band’s increasingly polished AOR production style.\n\nWhen Paul Kantner left in 1984 and the dispute over the Jefferson Starship name forced a rebrand, Thomas remained at the center of the continuing group that became Starship. The commercial reset worked: Starship’s mid‑’80s run placed Thomas at the front of slick, hook‑heavy singles built for MTV and Top 40 radio.\n\nOn Starship’s best‑known recordings, Thomas often anchors the chorus with a bright, sustained lead while harmonies and synth textures add the era’s signature sheen. His vocal chemistry with Slick—especially on duet‑leaning material—helped the band land career‑defining hits during the *Knee Deep in the Hoopla* and *No Protection* cycles.\n\nAfter Slick departed again in 1988, Thomas carried the lead-vocal burden alone as the band’s classic era wound down. The group’s late‑’80s touring schedule and studio work continued, but the project increasingly became associated with Thomas personally as the continuity figure audiences expected to hear on the signature songs.\n\nA highly publicized 1989 incident during touring led to injuries that required facial reconstruction surgery, a disruptive episode that underscored how physically and logistically demanding constant road work can be for a chart‑level act. The period also coincided with personnel changes that accelerated the end of the band’s initial run.\n\nIn 1992, Thomas revived the name for a new touring configuration billed as “Starship featuring Mickey Thomas,” effectively turning Starship into a long‑term live brand centered on his vocals. Through lineup changes, he has remained the constant performer and the public face audiences associate with Starship’s hit catalog.\n\nAcross multiple decades, Thomas’s career illustrates a particular kind of rock longevity: a singer who entered the spotlight through a single defining vocal performance, stepped into a major band at a transitional moment, and ultimately became the long‑term custodian of a touring identity built around a compact set of enduring radio staples.",
+            "Sources": [
+              {
+                "Title": "Mickey Thomas (singer)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mickey_Thomas_(singer)"
+              },
+              {
+                "Title": "Fooled Around and Fell in Love",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Fooled_Around_and_Fell_in_Love"
+              },
+              {
+                "Title": "Starship (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Starship_(band)"
+              },
+              {
+                "Title": "The 60th Academy Awards | 1988",
+                "Publisher": "Oscars.org",
+                "Url": "https://www.oscars.org/oscars/ceremonies/1988"
+              },
+              {
+                "Title": "Official Starship Featuring Mickey Thomas Web Site",
+                "Publisher": "Starship Control",
+                "Url": "https://www.starshipcontrol.com/"
+              },
+              {
+                "Title": "Starship | Discography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/starship-mn0000748168/discography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Craig Chaquico",
+          "YearsActive": "1974–1990 (Jefferson Starship; Starship)",
+          "Roles": [
+            "Guitarist"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Knee Deep in the Hoopla (1985)",
+            "No Protection (1987)",
+            "Love Among the Cannibals (1989)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1954-09-26",
+              "Place": "Sacramento, California, United States"
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Guitarist"
+            ],
+            "Instruments": [
+              "Guitar"
+            ],
+            "Overview": "Lead guitarist whose tenure bridges Jefferson Starship and Starship; known for melodic leads and adaptable pop‑rock playing that helped translate the band’s sound into the mid‑’80s hit era.",
+            "FullText": "Craig Chaquico (born September 26, 1954, in Sacramento, California) is the guitarist most strongly associated with the Jefferson Starship-to-Starship transition, valued for a melodic lead style that could move from extended rock solos to precise pop hooks. His playing forms a through‑line from the mid‑1970s Jefferson Starship catalog into the streamlined AOR approach that defined Starship’s mid‑’80s peak.\n\nChaquico joined Jefferson Starship as a teenager during the band’s early formation years, quickly earning a reputation as a technically gifted and adaptable player in a lineup that blended psychedelic history with mainstream ambition. Across the 1970s and early 1980s, he became a consistent musical presence as the group’s personnel and stylistic priorities shifted.\n\nBy the time Mickey Thomas joined in 1979 and the band pursued a more radio‑ready rock sound, Chaquico’s role became crucial: he could deliver concise riffs that supported a chorus without sacrificing the kind of signature lead lines audiences expected from an arena‑level rock act.\n\nIn the early 1980s, as Jefferson Starship evolved toward more polished production, Chaquico’s guitar tone and phrasing helped keep the band grounded in rock instrumentation even as keyboards and studio sheen took a larger role. That balancing act mattered even more once the project rebranded as Starship in 1984.\n\nStarship’s biggest singles are often remembered for their synth gloss, but Chaquico’s contribution is the way the guitar parts frame the songs’ momentum—tight rhythm beds, punctuating fills, and climactic lead moments that translate cleanly to radio format. In the *Knee Deep in the Hoopla* era, his parts function as the rock credential inside a pop construction.\n\nOn stage, he helped make the hit-heavy Starship set feel like a band performance rather than a studio replication. The live dynamic mattered for an act carrying the legacy of Jefferson Airplane and Jefferson Starship while performing contemporary material aimed at MTV and Top 40 audiences.\n\nChaquico remained through the band’s late‑’80s transition as personnel changed and the group’s commercial center of gravity shifted. With Grace Slick gone after 1988 and internal dynamics altering, the classic Starship lineup began to fragment, and Chaquico departed around 1990, marking the end of the original Starship arc.\n\nAfter leaving the band orbit, he built a successful solo career focused on instrumental music, often leaning into acoustic, jazz, and new‑age‑adjacent textures. The shift highlights a different side of his musicianship—tone, melody, and arrangement—separate from the demands of pop-rock hitmaking.\n\nHis legacy in the Starship story is structural: he is one of the few members whose tenure meaningfully spans the project’s transformation from 1970s rock-band identity into 1980s pop‑rock brand. That continuity helps explain why Starship’s biggest hits still feel connected—however loosely—to the Jefferson lineage that preceded them.\n\nAcross decades of listeners rediscovering the catalog, Chaquico’s guitar work often becomes the “musician’s entry point” into songs that casual audiences remember mainly for choruses. It’s the part of Starship’s sound that most clearly signals a live band inside the era’s studio polish.",
+            "Sources": [
+              {
+                "Title": "Craig Chaquico",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Craig_Chaquico"
+              },
+              {
+                "Title": "List of Starship members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Starship_members"
+              },
+              {
+                "Title": "Starship (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Starship_(band)"
+              },
+              {
+                "Title": "The 60th Academy Awards | 1988",
+                "Publisher": "Oscars.org",
+                "Url": "https://www.oscars.org/oscars/ceremonies/1988"
+              },
+              {
+                "Title": "Official Starship Featuring Mickey Thomas Web Site",
+                "Publisher": "Starship Control",
+                "Url": "https://www.starshipcontrol.com/"
+              },
+              {
+                "Title": "Starship | Discography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/starship-mn0000748168/discography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Pete Sears",
+          "YearsActive": "1974–1987 (Jefferson Starship; Starship)",
+          "Roles": [
+            "Bassist",
+            "Keyboardist",
+            "Backing vocalist"
+          ],
+          "Instruments": [
+            "Bass",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Albums": [
+            "Knee Deep in the Hoopla (1985)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1948-05-27",
+              "Place": "Bromley, Kent, England"
+            },
+            "Nationality": "British",
+            "Roles": [
+              "Bassist",
+              "Keyboardist",
+              "Backing vocalist"
+            ],
+            "Instruments": [
+              "Bass",
+              "Keyboards",
+              "Vocals"
+            ],
+            "Overview": "Multi‑instrumentalist (bass/keys) who bridged Jefferson Starship into early Starship; departed during the band’s move deeper into glossy mid‑’80s pop-rock hitmaking.",
+            "FullText": "Pete Sears (born May 27, 1948, in Bromley, Kent, England) is a multi‑instrumentalist best known in American rock for his long tenure in Jefferson Starship and the early Starship lineup. Switching fluidly between bass, keyboards, and supporting vocals, Sears provided the kind of harmonic and rhythmic flexibility that studio‑polished rock groups relied on as arrangements became more layered through the 1970s and 1980s.\n\nSears arrived in the Jefferson Starship world during the band’s first major lineup expansion in the mid‑1970s. His ability to cover multiple parts made him valuable in a group that blended guitar-driven rock with increasingly prominent keyboard textures, often within the same song.\n\nIn the Jefferson Starship era, he contributed to a run of albums that cemented the band as a major touring act, and his playing helped support the shift from psychedelic inheritance to mainstream rock execution. In practice, that meant locking bass parts tightly to drums while also adding keyboard layers that thickened the band’s live and studio sound.\n\nAs the group turned toward a more radio-targeted approach in the late 1970s and early 1980s—especially after Mickey Thomas joined—Sears’s role became even more structural. He could reinforce the low end in arena settings while also providing keyboard color that suited the band’s increasing reliance on synthesizers and polished production.\n\nWhen the band’s name changed to Starship in 1984, Sears initially remained in the lineup, bridging the project’s older identity to its new, hit-chasing phase. That continuity mattered: audiences recognized the voice-and-instrument blend as part of a lineage, even when the songwriting approach and studio aesthetic changed dramatically.\n\nStarship’s mid‑’80s commercial strategy leaned hard on contemporary pop-rock and synth textures. Sears’s multi-instrument skill set fit the approach, but the band’s rapid evolution toward a more overtly manufactured pop profile created tension for members who preferred a more band-driven identity.\n\nSears ultimately departed during the *No Protection* era, later describing discomfort with what he viewed as a sterilized direction. His exit is often treated as one of the signals that Starship’s classic mid‑’80s lineup was splintering under the pressures of maintaining chart-level pop success.\n\nOutside the Starship sphere, Sears maintained a broad musician’s career that included collaborations and touring work across rock’s intersecting scenes. His later association with projects connected to the Bay Area lineage reinforced how tightly his reputation remained tied to the broader Jefferson ecosystem.\n\nIn the Starship story, Sears is an important “connective tissue” figure: not always the face of the band, but an essential part of how it sounded and functioned across a period of heavy stylistic change. He represents the practical musicianship that made the lineup adaptable enough to survive multiple reinventions.\n\nHis contributions are especially evident when comparing live and studio configurations. A band moving between large venues, complex arrangements, and shifting personnel needs players who can cover multiple roles without disrupting the musical architecture—exactly the kind of utility Sears brought.\n\nEven for listeners who mainly know Starship for a handful of blockbuster singles, Sears’s presence explains why the early Starship lineup still feels rooted in a working rock band rather than a purely studio-assembled pop vehicle. He helped carry the older discipline into the new era, even as the era moved beyond what he wanted it to be.",
+            "Sources": [
+              {
+                "Title": "Pete Sears",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pete_Sears"
+              },
+              {
+                "Title": "List of Starship members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Starship_members"
+              },
+              {
+                "Title": "Jefferson Starship",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jefferson_Starship"
+              },
+              {
+                "Title": "Starship (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Starship_(band)"
+              },
+              {
+                "Title": "The 60th Academy Awards | 1988",
+                "Publisher": "Oscars.org",
+                "Url": "https://www.oscars.org/oscars/ceremonies/1988"
+              },
+              {
+                "Title": "Official Starship Featuring Mickey Thomas Web Site",
+                "Publisher": "Starship Control",
+                "Url": "https://www.starshipcontrol.com/"
+              },
+              {
+                "Title": "Starship | Discography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/starship-mn0000748168/discography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Donny Baldwin",
+          "YearsActive": "1982–1990 (Jefferson Starship; Starship)",
+          "Roles": [
+            "Drummer"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Knee Deep in the Hoopla (1985)",
+            "No Protection (1987)",
+            "Love Among the Cannibals (1989)"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1951-06-22",
+              "Place": "Seattle, Washington, United States"
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Drummer"
+            ],
+            "Instruments": [
+              "Drums"
+            ],
+            "Overview": "Drummer who anchored Jefferson Starship’s early‑’80s lineup and remained through Starship’s mid‑’80s hit era, providing tight arena‑rock grooves suited to the band’s pop‑radio production style.",
+            "FullText": "Donny Baldwin (born June 22, 1951, in Seattle, Washington) is the drummer associated with the late Jefferson Starship period and much of Starship’s core 1980s run. A hard-hitting rock player with strong timekeeping, Baldwin became part of the band at a moment when its sound demanded tighter, arena-ready rhythms rather than the looser psychedelic feel of the original Jefferson Airplane era.\n\nBefore joining the Jefferson/Starship universe, Baldwin built his reputation in the West Coast rock circuit, working with artists who blended blues-rock and pop-rock sensibilities. That background mattered: Starship’s mid‑’80s hit material often requires a drummer who can make programmed-sounding arrangements still feel like a band performance.\n\nBaldwin entered Jefferson Starship in the early 1980s, replacing earlier drummers as the group continued to recalibrate its lineup. In studio terms, the era prioritized clean, powerful grooves that could support big choruses and synth-heavy layers without sounding cluttered.\n\nWhen the group became Starship in 1984, Baldwin remained in place, anchoring the rhythm section through a stretch of massive commercial visibility. On Starship’s best-known recordings, the drum parts are designed for drive and clarity—tight kick patterns, emphatic snare backbeats, and fills that lift choruses without distracting from the vocal hooks.\n\nLive, the role expands: a drummer has to keep tempos stable for songs built around precise vocal phrasing and layered arrangements while also delivering the physical energy audiences expect in a large venue. Baldwin’s playing supported that balance during the band’s peak touring years.\n\nThe late‑’80s transition period brought more personnel change and stylistic uncertainty, and Baldwin’s tenure overlaps with the winding down of the original Starship arc. As Grace Slick departed and other long-tenured members left, the band’s identity increasingly centered on the hit catalog and on Mickey Thomas’s voice as the continuity factor.\n\nA notorious 1989 on-tour incident involving Baldwin and Thomas became part of the band’s public narrative, an example of how internal stress can erupt during constant touring and commercial pressure. The episode is widely cited in accounts of the band’s late‑’80s instability.\n\nAfter leaving the Starship orbit, Baldwin continued to work as a professional musician, reflecting the typical path of high-level rock drummers: shifting between bands, sessions, and touring contexts as industry conditions change. His career underscores how rhythm-section players often have long working lives even when public visibility varies.\n\nIn the specific context of Starship, Baldwin’s significance is that he helped translate the Jefferson lineage into a modern pop-rock engine. The band’s biggest hits are often framed as “80s production,” but the drum feel still has to carry the song—Baldwin’s job was to make that feel convincing.\n\nListeners who revisit the catalog often notice that the hits remain playable by a real band without collapsing—an underappreciated quality in heavily produced pop-rock. Baldwin’s steadiness and power are part of why the material holds together both on record and on stage.",
+            "Sources": [
+              {
+                "Title": "Donny Baldwin",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Donny_Baldwin"
+              },
+              {
+                "Title": "List of Starship members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Starship_members"
+              },
+              {
+                "Title": "Jefferson Starship",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jefferson_Starship"
+              },
+              {
+                "Title": "Starship (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Starship_(band)"
+              },
+              {
+                "Title": "The 60th Academy Awards | 1988",
+                "Publisher": "Oscars.org",
+                "Url": "https://www.oscars.org/oscars/ceremonies/1988"
+              },
+              {
+                "Title": "Official Starship Featuring Mickey Thomas Web Site",
+                "Publisher": "Starship Control",
+                "Url": "https://www.starshipcontrol.com/"
+              },
+              {
+                "Title": "Starship | Discography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/starship-mn0000748168/discography"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "David Freiberg",
+          "YearsActive": "1972–1973 (Jefferson Airplane), 1974–1985 (Jefferson Starship; early Starship)",
+          "Roles": [
+            "Vocalist",
+            "Bassist",
+            "Keyboardist",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Bass",
+            "Keyboards",
+            "Guitar"
+          ],
+          "Albums": [
+            "Knee Deep in the Hoopla (1985) – early transition period"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1938-08-24",
+              "Place": "Boston, Massachusetts, United States"
+            },
+            "Nationality": "American",
+            "Roles": [
+              "Vocalist",
+              "Bassist",
+              "Keyboardist",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Bass",
+              "Keyboards",
+              "Guitar"
+            ],
+            "Overview": "Bay Area scene veteran and multi‑instrumentalist from Quicksilver Messenger Service and the Jefferson Airplane/Jefferson Starship lineage; departed during the 1985 transition into Starship’s pop‑radio era.",
+            "FullText": "David Freiberg (born August 24, 1938, in Boston, Massachusetts) is a vocalist and multi‑instrumentalist whose career threads through multiple pillars of the San Francisco rock ecosystem. Best known for work with Quicksilver Messenger Service and the Jefferson Airplane/Jefferson Starship family, he represents the older Bay Area lineage inside the later, more commercial Starship story.\n\nFreiberg’s early career unfolded in the 1960s, and he became a co‑founder of Quicksilver Messenger Service, a band central to the development of the “San Francisco sound.” In Quicksilver, he played bass, contributed vocals, and helped shape arrangements that blended folk-rooted sensibility with electric improvisation, earning a durable reputation even as the scene fragmented into multiple offshoots.\n\nAfter a period marked by personal turbulence and interruptions, Freiberg joined Jefferson Airplane for touring in the early 1970s at the invitation of Paul Kantner. He then participated in related projects with Kantner and Grace Slick, keeping him close to the creative circle that would eventually reconstitute as Jefferson Starship.\n\nWhen Jefferson Starship formally took shape in 1974, Freiberg became a key member for more than a decade. Within that lineup he alternated between instruments—vocals, bass, and keyboards—depending on the band’s changing needs, a practical flexibility that made him valuable during years of shifting personnel and sonic direction.\n\nOne of his most widely cited contributions is songwriting: he composed “Jane,” a Jefferson Starship hit that helped push the band toward a harder-rock, more commercial approach at a crucial transition point. The fact that a musician associated with the earlier Bay Area aesthetic also wrote one of the band’s most radio-effective songs underscores how intertwined artistry and commerce became in the Jefferson/Starship evolution.\n\nBy the mid‑1980s, however, the project’s priorities shifted sharply. As the group rebranded as Starship and leaned into externally driven pop‑rock hitmaking—most notably around the recording of “We Built This City”—Freiberg found his role diminishing, including producer Peter Wolf effectively taking on a larger share of keyboard responsibilities.\n\nFreiberg left the band in early 1985, publicly framing the departure as a response to the new direction and to his reduced musical utility on the material. His exit is often cited as one of the early signs that the classic Starship era was built on a narrower core than the broader, more “band-like” Jefferson Starship identity that preceded it.\n\nAfter leaving, Freiberg continued working as a musician and also operated a recording studio, remaining active within the extended Bay Area community of artists and collaborators. His later career included returning to Jefferson-related projects, reflecting a pattern common among scene veterans: stepping away during commercial pivots, then reconnecting when the context aligns more closely with their preferred musical culture.\n\nIn the Starship narrative, Freiberg matters less as a “hit-era face” and more as a lineage anchor. He links the group’s pop‑radio chapter back to the earlier countercultural ecosystem in a tangible way—through membership, songs, and long-term association with Kantner and Slick.\n\nTaken together, Freiberg’s arc illustrates the generational sweep inside the Jefferson/Starship universe: from 1960s scene formation, through 1970s arena consolidation, to 1980s pop reinvention. Even where he disagreed with the final direction, his footprint remains part of the story that made Starship possible.",
+            "Sources": [
+              {
+                "Title": "David Freiberg",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/David_Freiberg"
+              },
+              {
+                "Title": "Jefferson Starship",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jefferson_Starship"
+              },
+              {
+                "Title": "List of Starship members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/List_of_Starship_members"
+              },
+              {
+                "Title": "Starship (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Starship_(band)"
+              },
+              {
+                "Title": "The 60th Academy Awards | 1988",
+                "Publisher": "Oscars.org",
+                "Url": "https://www.oscars.org/oscars/ceremonies/1988"
+              },
+              {
+                "Title": "Official Starship Featuring Mickey Thomas Web Site",
+                "Publisher": "Starship Control",
+                "Url": "https://www.starshipcontrol.com/"
+              },
+              {
+                "Title": "Starship | Discography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/starship-mn0000748168/discography"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Brett Bloomfield",
+          "Roles": [
+            "Bassist",
+            "Backing vocalist"
+          ],
+          "Years": "1987–1990, 1993–1997",
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [
+            "Love Among the Cannibals (1989)",
+            "Live at the Stanley Cup (1997)"
+          ],
+          "Replacing": "Varied touring/studio bass personnel",
+          "ReplacedBy": "Varied touring/studio bass personnel",
+          "Overview": "Bassist added during the late‑’80s lineup refresh, credited with bass and backing vocals on the *Love Among the Cannibals* era and later returning during the “Starship featuring Mickey Thomas” touring period."
+        },
+        {
+          "Name": "Mark Morgan",
+          "Roles": [
+            "Keyboardist"
+          ],
+          "Years": "1987–1990",
+          "Instruments": [
+            "Keyboards",
+            "Synthesizers"
+          ],
+          "Albums": [
+            "Love Among the Cannibals (1989)"
+          ],
+          "Replacing": "Touring keyboard personnel",
+          "ReplacedBy": "Peter Wolf (keyboards/electronics) – studio era",
+          "Overview": "Keyboardist/synth player brought in as Starship moved into its late‑’80s phase; part of the core lineup for the *Love Among the Cannibals* cycle and associated touring."
+        },
+        {
+          "Name": "Peter Wolf",
+          "Roles": [
+            "Keyboardist",
+            "Producer"
+          ],
+          "Years": "1990–1991",
+          "Instruments": [
+            "Keyboards",
+            "Electronics"
+          ],
+          "Albums": [
+            "\"Good Heart\" (1991)"
+          ],
+          "Replacing": "Mark Morgan",
+          "ReplacedBy": "Touring-era keyboard personnel",
+          "Overview": "Producer and keyboardist who joined late in the original Starship arc; known for high-profile pop‑rock production work and credited with producing Starship’s major mid‑’80s hits, later appearing as a band member on keyboards/electronics in 1990–1991."
+        }
+      ]
     },
     {
       "ArtistID": "the-statler-brothers",
