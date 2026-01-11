@@ -820,7 +820,541 @@
     },
     {
       "ArtistID": "snow-patrol",
-      "Name": "Snow Patrol"
+      "Name": "Snow Patrol",
+      "Type": "Band",
+      "Origin": {
+        "City": "Dundee",
+        "State": "Scotland",
+        "Country": "United Kingdom"
+      },
+      "YearsActive": [
+        "1994–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Indie rock",
+        "Post-Britpop",
+        "Power pop"
+      ],
+      "Labels": [
+        "Jeepster",
+        "Electric Honey",
+        "Polydor",
+        "Fiction",
+        "Interscope",
+        "Geffen",
+        "Island",
+        "A&M"
+      ],
+      "Overview": "Snow Patrol are a Northern Irish–Scottish alternative rock band formed in Dundee, Scotland in 1994 by university students Gary Lightbody, Mark McClelland and Michael Morrison. In their first years they operated as a small, touring indie act, changing names (Shrug, then Polarbear) before settling on Snow Patrol in 1997 as drummer Jonny Quinn joined. Their early albums on the Jeepster label—Songs for Polarbears (1998) and When It's All Over We Still Have to Clear Up (2001)—document a band working in the traditions of late‑1990s UK indie rock: bright guitars, restless tempos, and a young songwriter learning how to turn diary‑level feelings into concise pop structures.\n\nThe turning point came with the move to Polydor Records and the arrival of lead guitarist Nathan Connolly in 2002. Final Straw (2003) reframed Snow Patrol as an arena‑ready, post‑Britpop band built around Lightbody’s plainspoken lyricism and big, sing‑along hooks, with “Run” and “Chocolate” becoming staples that moved the group from clubs into major festival and headline settings. The global reach widened again with Eyes Open (2006), driven by “Chasing Cars,” a slow‑build ballad whose combination of simplicity and emotional lift made it a defining adult‑alternative crossover hit. As their profile grew, the lineup evolved: founding bassist McClelland left in 2005 and was replaced by Paul Wilson, while long‑time touring collaborator Tom Simpson became a permanent member in the mid‑2000s.\n\nFrom A Hundred Million Suns (2008) and Fallen Empires (2011) through Wildness (2018), Snow Patrol balanced the direct guitar‑band sound of their breakthrough era with more textured production and broader arrangement choices. Multi‑instrumentalist and songwriter Johnny McDaid—signed to the band’s Polar Patrol Publishing in 2009 and a full member from 2011—became central to that expanded palette. In 2023, the band announced another major transition when drummer Jonny Quinn and bassist Paul Wilson left, leaving Snow Patrol continuing as a trio led by Lightbody, Connolly and McDaid. Their 2024 album The Forest Is the Path framed that new chapter, emphasizing the band’s long‑standing strength: emotionally honest songwriting designed to be sung back by a crowd, even as the personnel and production approaches shift over time.",
+      "NotableAlbums": [
+        {
+          "Year": 1998,
+          "Title": "Songs for Polarbears",
+          "Details": "Debut album on Jeepster that captured the band’s early indie-rock sound and introduced their melodic instincts."
+        },
+        {
+          "Year": 2001,
+          "Title": "When It's All Over We Still Have to Clear Up",
+          "Details": "A darker, more expansive follow-up that later gained attention after the band’s breakthrough."
+        },
+        {
+          "Year": 2003,
+          "Title": "Final Straw",
+          "Details": "Major-label breakthrough featuring “Run” and “Chocolate,” establishing Snow Patrol as an arena-ready post‑Britpop act."
+        },
+        {
+          "Year": 2006,
+          "Title": "Eyes Open",
+          "Details": "International peak powered by “Chasing Cars,” blending restraint and stadium-scale choruses."
+        },
+        {
+          "Year": 2008,
+          "Title": "A Hundred Million Suns",
+          "Details": "A broadened, more atmospheric record that kept the band moving beyond the Final Straw / Eyes Open formula."
+        },
+        {
+          "Year": 2011,
+          "Title": "Fallen Empires",
+          "Details": "A textured late‑2010s entry with expanded production and electronic/ambient color."
+        },
+        {
+          "Year": 2018,
+          "Title": "Wildness",
+          "Details": "Return after a long gap, balancing classic hooks with contemporary studio textures."
+        },
+        {
+          "Year": 2024,
+          "Title": "The Forest Is the Path",
+          "Details": "Later-era studio album released after major lineup changes, continuing as a trio centered on Lightbody, Connolly, and McDaid."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 2003,
+          "Title": "Run",
+          "Details": "Breakthrough single that became a defining live anthem and a key driver of Final Straw’s success."
+        },
+        {
+          "Year": 2003,
+          "Title": "Chocolate",
+          "Details": "A fan-favorite single pairing intimate verses with a soaring chorus."
+        },
+        {
+          "Year": 2006,
+          "Title": "Chasing Cars",
+          "Details": "Signature slow-build ballad that became a global hit and a defining song of 2000s adult alternative."
+        },
+        {
+          "Year": 2006,
+          "Title": "Open Your Eyes",
+          "Details": "Driving, anthemic single that helped cement the Eyes Open era."
+        },
+        {
+          "Year": 2008,
+          "Title": "Take Back the City",
+          "Details": "A stadium-sized single that announced a more expansive, bright-sounding phase."
+        },
+        {
+          "Year": 2011,
+          "Title": "Called Out in the Dark",
+          "Details": "A punchy, forward-driving single from Fallen Empires."
+        },
+        {
+          "Year": 2018,
+          "Title": "Don't Give In",
+          "Details": "A comeback-era single emphasizing the band’s emotional directness and chorus craft."
+        },
+        {
+          "Year": 2024,
+          "Title": "The Beginning",
+          "Details": "A later-era single showcasing the trio’s modern, textured approach while keeping the band’s melodic heart."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 2003,
+          "Title": "Major breakthrough with Final Straw",
+          "Details": "Final Straw made Snow Patrol a mainstream force, anchoring their reputation as a chorus-driven, arena-capable rock band."
+        },
+        {
+          "Year": 2006,
+          "Title": "Global recognition with Eyes Open",
+          "Details": "Eyes Open expanded their international profile and produced their most enduring worldwide hit."
+        },
+        {
+          "Year": 2010,
+          "Title": "PRS for Music Heritage Award",
+          "Details": "The band received a PRS for Music Heritage Award, commemorated with a plaque at the Duke of York pub in Belfast (site of an early gig)."
+        },
+        {
+          "Year": 2019,
+          "Title": "“Chasing Cars” named most played UK radio track of the 21st century",
+          "Details": "PPL data reported “Chasing Cars” as the most played song of the 21st century on UK radio."
+        },
+        {
+          "Year": 2023,
+          "Title": "Lineup transition to a trio",
+          "Details": "Drummer Jonny Quinn and bassist Paul Wilson departed; Snow Patrol continued centered on Lightbody, Connolly, and McDaid."
+        },
+        {
+          "Year": 2024,
+          "Title": "Late-career continuation with a new studio chapter",
+          "Details": "The band released The Forest Is the Path and continued touring with an updated lineup and modern production approach."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Dundee, Scotland in 1994; early names included Shrug and Polarbear before adopting Snow Patrol in 1997.",
+        "Signed to Polydor and added Nathan Connolly in 2002; Final Straw (2003) became the breakthrough.",
+        "Eyes Open (2006) brought global reach, anchored by the enduring hit “Chasing Cars.”",
+        "Johnny McDaid was signed to the band’s publishing company in 2009 and became a full member in 2011, broadening the band’s sonic palette.",
+        "In 2023, drummer Jonny Quinn and bassist Paul Wilson left the band; Snow Patrol continued as a trio.",
+        "The band released The Forest Is the Path in 2024, continuing into a new late-career chapter."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://snowpatrol.com/",
+        "AllMusic": "https://www.allmusic.com/artist/snow-patrol-mn0000038321",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Snow_Patrol",
+        "YouTube": "https://www.youtube.com/@SnowPatrol",
+        "Spotify": "https://open.spotify.com/artist/3r5VBFyJYBvG1bUQ9V7q7g"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Gary Lightbody",
+          "Roles": [
+            "Lead vocals",
+            "Rhythm guitar",
+            "Primary songwriter"
+          ],
+          "Years": "1994–present",
+          "Overview": "Founding member and primary songwriter whose emotionally direct, chorus-driven writing defines the band’s identity across every era.",
+          "Bio": {
+            "BioID": "snowpatrol-garylightbody",
+            "ArtistID": "snow-patrol",
+            "ArtistName": "Snow Patrol",
+            "MemberName": "Gary Lightbody",
+            "FullName": "Gareth John Lightbody",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Indie rock",
+              "Post-Britpop"
+            ],
+            "Birth": {
+              "Date": "15 June 1976",
+              "Place": "Bangor, County Down, Northern Ireland"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1994–present"
+            ],
+            "AssociatedActs": [
+              "Snow Patrol",
+              "The Reindeer Section",
+              "Tired Pony"
+            ],
+            "KeyAlbums": [
+              "Final Straw",
+              "Eyes Open",
+              "A Hundred Million Suns",
+              "Fallen Empires",
+              "Wildness",
+              "The Forest Is the Path"
+            ],
+            "KeySongs": [
+              "Run",
+              "Chasing Cars",
+              "Open Your Eyes",
+              "Take Back the City"
+            ],
+            "Achievements": [
+              "Frontman and principal songwriter of Snow Patrol; appointed OBE; central writer of major international hits."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Gary_Lightbody",
+              "Snow Patrol Official": "https://snowpatrol.com/"
+            },
+            "Biography": "Gareth John “Gary” Lightbody (born 15 June 1976 in Bangor, County Down, Northern Ireland) is the lead singer and primary songwriter of Snow Patrol. His career is closely tied to movement between places: raised in Northern Ireland, he left home in 1994 to study English literature at the University of Dundee in Scotland, and it was there that Snow Patrol began. That student‑town beginning matters because the band’s early identity was built around a working routine—rehearse, write, play small shows, repeat—rather than an overnight discovery. Lightbody’s writing voice, which later became famous for its directness, developed in that environment where songs had to be clear enough to cut through noisy rooms.\n\nLightbody formed his first version of the band in Dundee in 1994 with bassist Mark McClelland and drummer Michael Morrison, initially under the name Shrug. As the group shifted members, toured, and eventually changed names—Polarbear, then Snow Patrol—Lightbody remained the constant. The early albums, Songs for Polarbears (1998) and When It’s All Over We Still Have to Clear Up (2001), show him operating inside late‑1990s indie rock but already leaning toward melody‑first songwriting. Even when the guitars are busy, the core idea is usually a vocal line designed to be remembered on first listen.\n\nA key professional leap arrived in 2002 when Snow Patrol signed to Polydor Records and recruited lead guitarist Nathan Connolly. For Lightbody, this was not just a label change; it was a change in scale and expectation. Final Straw (2003) became the breakthrough record, and Lightbody’s lyric style—plain language that avoids cleverness in favor of emotional accuracy—found a wide audience. Songs like “Run” place the stakes in ordinary life and then elevate them with an anthem‑sized chorus. That approach would become Snow Patrol’s signature: intimate feelings presented in a form big enough for arenas.\n\nLightbody’s writing reached its most widely recognized form on Eyes Open (2006). “Chasing Cars” is built on repetition and gradual intensification; the lyric is almost deliberately minimal, which places the emotional work on tone, pacing, and the collective lift of the band’s dynamics. The song’s endurance shows the strength of Lightbody’s method: he tends to write toward a single emotional target and then removes anything that distracts from it. Where some writers add detail, he often subtracts, trusting melody and delivery to carry what the words do not explicitly say.\n\nBeyond the band’s flagship singles, Lightbody’s career includes a long track record of side projects and cultural work that reflect how connected he is to the wider music scene around him. In 2000 he founded the Scottish supergroup The Reindeer Section, a rotating collective of musicians from bands across the scene; the project underscored his social, collaborative side as a songwriter and bandleader. Later he co‑founded the country‑leaning group Tired Pony, showing a different register of storytelling and a willingness to inhabit other musical traditions without losing his own voice.\n\nLightbody has also worked as a DJ and curator, compiling mixes such as The Trip: Created by Snow Patrol and co‑assembling Late Night Tales: Snow Patrol with bandmate Tom Simpson. Those projects matter because they illustrate a broader truth about him: he is as much a music fan as a frontman. His writing and public comments often emphasize listening—absorbing different genres and learning what makes songs durable. That fan perspective arguably helped Snow Patrol navigate shifts in radio taste, from early‑2000s guitar bands to later adult‑alternative and streaming‑era audiences.\n\nAs a lyricist, Lightbody’s primary strength is emotional framing. He tends to avoid ornate metaphor in favor of language that feels spoken. That can read as simple on the page, but it is deliberate craft: the words are chosen to be singable and to sound honest when repeated night after night. The best Snow Patrol lyrics carry the listener by rhythm and cadence as much as meaning, with lines designed to land in the mouth and in the chest. In that sense, Lightbody is closer to a classic pop writer than to a purely indie‑rock poet: he writes for impact, not for puzzle‑solving.\n\nSnow Patrol’s long history also required Lightbody to manage change. Founding bassist McClelland left in 2005, and later long‑time drummer Jonny Quinn and bassist Paul Wilson departed in 2023. Those changes do not only affect logistics; they affect identity. In interviews and public statements, Lightbody has often framed the band as a relationship that has to be maintained with honesty and care. That attitude shows in how Snow Patrol tends to communicate major shifts: with emphasis on gratitude, time served, and the reality that decades‑long creative partnerships sometimes end.\n\nThe modern era of Snow Patrol is shaped by Lightbody’s close working relationship with Johnny McDaid, a multi‑instrumentalist and songwriter signed to the band’s Polar Patrol Publishing in 2009 and a full member from 2011. McDaid brought production instincts and broader sonic options, while Lightbody remained the narrative and vocal center. Together with Connolly, that trio configuration became especially important after 2023, when Snow Patrol continued without Quinn and Wilson. The 2024 album The Forest Is the Path framed that transition as a continuation of the band’s core values rather than a radical reinvention.\n\nLightbody has been recognized with an OBE, and his public profile extends beyond touring cycles into cultural and philanthropic activity associated with music and the arts in Northern Ireland. Those recognitions are secondary to the songs, but they reflect his position as a long‑term figure in the region’s creative life. For listeners, the through‑line remains the same as it was on the early Dundee recordings: a songwriter trying to make private feelings sound true in public.\n\nAcross three decades, Lightbody’s work shows a rare combination of vulnerability and discipline. Snow Patrol’s biggest choruses are designed to be shouted, but the emotional starting point is often small: the doubt inside a relationship, the need to be understood, the desire for a moment to last. That tension—between personal confession and communal anthem—explains why his songs continue to connect across eras and audiences.",
+            "Sources": [
+              {
+                "Title": "Gary Lightbody",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Gary_Lightbody"
+              },
+              {
+                "Title": "Snow Patrol",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Snow_Patrol"
+              },
+              {
+                "Title": "Snow Patrol",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/snow-patrol-mn0000038321"
+              },
+              {
+                "Title": "‘Chasing Cars’ by Snow Patrol the Most Played track of the 21st century",
+                "Publisher": "PPL (Press Release)",
+                "Url": "https://www.ppluk.com/about-us/news/chasing-cars-snow-patrol-played-track-21st-century/"
+              },
+              {
+                "Title": "Snow Patrol Lose Two Members Amid Reports of Band Drama",
+                "Publisher": "Rolling Stone",
+                "Url": "https://www.rollingstone.com/music/music-news/snow-patrol-lineup-change-1234819607/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Nathan Connolly",
+          "Roles": [
+            "Lead guitar",
+            "Backing vocals",
+            "Songwriter"
+          ],
+          "Years": "2002–present",
+          "Overview": "Joined at the major-label transition and helped shape the band’s signature guitar architecture: bright hooks, disciplined restraint, and arena-ready dynamics.",
+          "Bio": {
+            "BioID": "snowpatrol-nathanconnolly",
+            "ArtistID": "snow-patrol",
+            "ArtistName": "Snow Patrol",
+            "MemberName": "Nathan Connolly",
+            "FullName": "Nathan Connolly",
+            "PrimaryInstruments": [
+              "Guitar",
+              "Backing vocals"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Indie rock"
+            ],
+            "Birth": {
+              "Date": "20 January 1981",
+              "Place": "Belfast, Northern Ireland"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "2002–present"
+            ],
+            "AssociatedActs": [
+              "Snow Patrol",
+              "File Under Easy Listening (F.U.E.L.)",
+              "Little Matador",
+              "Feeder (live, 2016)"
+            ],
+            "KeyAlbums": [
+              "Final Straw",
+              "Eyes Open",
+              "A Hundred Million Suns",
+              "Fallen Empires",
+              "Wildness",
+              "The Forest Is the Path",
+              "The Strange Order of Things (solo)"
+            ],
+            "KeySongs": [
+              "Run",
+              "Chasing Cars",
+              "Open Your Eyes",
+              "Take Back the City"
+            ],
+            "Achievements": [
+              "Lead guitarist for Snow Patrol since 2002; released solo debut album The Strange Order of Things (2023)."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Nathan_Connolly",
+              "Hot Press Interview": "https://www.hotpress.com/music/nathan-connolly-it-got-to-the-point-where-i-either-had-to-make-a-solo-album-or-stop-saying-id-make-one-22972844"
+            },
+            "Biography": "Nathan Connolly (born 20 January 1981 in Belfast, Northern Ireland) is Snow Patrol’s lead guitarist and backing vocalist, and one of the key reasons the band’s sound grew from late‑1990s indie rock into a radio‑dominant, arena‑scale form. Connolly joined Snow Patrol in 2002, just as the group was stepping into a major‑label world. That timing placed him at the center of the band’s most consequential transition: the move from a scrappy touring act into a band expected to deliver big songs, consistently, at a national and then international level.\n\nConnolly’s early musical spark was rooted in singing as well as playing. He has spoken about performing in a gospel church choir in Belfast as a teenager and how that experience inspired him to pursue music seriously. That background helps explain why his role in Snow Patrol is not purely instrumental: the band’s choruses often rely on stacked vocal textures, and Connolly’s backing vocals contribute to the “lift” that characterizes their most recognizable songs. In a band built on emotional directness, the way a chorus opens up can matter as much as the lyric.\n\nBefore Snow Patrol, Connolly played in a Belfast group called File Under Easy Listening (F.U.E.L.), managed by BBC Radio 1 DJ Colin Murray. The band’s short life produced a single release, but the experience positioned Connolly as a working musician in a real scene, learning rehearsal discipline, studio basics, and the day‑to‑day realities of trying to make music a job. That kind of training tends to show up later in how a guitarist approaches a large band: the priority becomes song‑craft and reliability, not just style.\n\nConnolly’s entry into Snow Patrol is often told as a small‑world story: while working at the record store HMV in Belfast, he was introduced to the band and eventually joined, at first with some hesitation. Whatever the personal drama of the moment, the musical result is clear on Final Straw (2003). The album’s guitar language—clear hooks, chiming arpeggios, and rhythmic parts that push a chorus forward without clutter—became a defining Snow Patrol feature. Connolly’s playing tends to be highly “song‑architectural”: he builds parts that make a chorus feel inevitable, and he favors tones that read cleanly in a big room.\n\nOn “Run,” for example, the guitars do more than accompany; they frame the emotional arc, turning the chorus into a surge rather than a repeat. That kind of writing is collaborative: Lightbody supplies the narrative line, and Connolly helps translate it into a physical sensation, the sense that the song is expanding. The band’s best work from the 2003–2006 era often hinges on this partnership between lyric and guitar arrangement.\n\nEyes Open (2006) required another kind of discipline. “Chasing Cars” is famously restrained, which means the guitar work has to support a slow build without announcing itself. Connolly’s contribution in that era often involves restraint—choosing what not to play, leaving space, and trusting that a simple figure can carry enormous emotional weight when repeated and gradually intensified. This is the difference between a good guitarist and a great band guitarist: the capacity to serve the arc of a song over the ego of a part.\n\nAs Snow Patrol’s later records added more texture and studio color—particularly after Johnny McDaid joined as a multi‑instrumentalist—Connolly adapted by refining his role. Instead of competing with keyboards and atmospherics, he often supplies clarity: a single bright line that cuts through the mix, or a rhythmic part that keeps the pulse grounded. That ability to remain essential even as the production vocabulary changes is one reason the band’s identity stays coherent across long gaps between albums.\n\nConnolly’s career also includes work outside Snow Patrol that reinforces his reputation as a professional, dependable musician. In 2016 he briefly served as guitarist for Feeder, including a live appearance at the Isle of Wight Festival. That kind of call‑up is revealing: bands bring in players they can trust to learn material quickly, deliver under pressure, and fit musically without turning the gig into a showcase. Connolly’s style—precise, energetic, and focused on structure—translates well in those contexts.\n\nHe also developed his own projects, forming the side project Little Matador and later releasing a debut solo album, The Strange Order of Things, in 2023. The move to solo work matters in the context of a long‑running band. It gives a musician a space to test ideas that might not fit the main act and to broaden their identity beyond a single role. For Snow Patrol, that kind of personal growth can be a survival mechanism: members stay invested when they feel their creative lives are expanding, not narrowing.\n\nIn the 2020s, Connolly’s importance to Snow Patrol became even more visible. After the 2023 departures of drummer Jonny Quinn and bassist Paul Wilson, Snow Patrol continued as a trio anchored by Lightbody, Connolly, and McDaid. In a trio configuration, every part is exposed; there is less room to hide behind arrangement density. Connolly’s ability to cover both rhythm and lead responsibilities, and to make guitars feel expansive without overcrowding, becomes central to how the band translates its catalogue to the stage.\n\nConnolly’s contributions are sometimes understated because Snow Patrol’s public narrative often centers on songwriting and vocal identity. But Snow Patrol’s major‑key catharsis, their sense of a chorus lifting into the air, is inseparable from the way Connolly writes and plays guitar parts. He is a player who treats guitar as a tool for emotional clarity: not decoration, but architecture. Over two decades in the band, that approach helped turn Snow Patrol’s songs into shared experiences that work equally well on record and in front of a stadium crowd.\n\nConnolly is also known among gear‑minded fans for treating tone as part of the arrangement. His documented use of classic instruments such as Gibson Les Paul and Fender Telecaster models, paired with touring‑ready amplifier and effects setups, reflects a practical philosophy: build a consistent sound that can reproduce the record’s emotional dynamics night after night. In Snow Patrol, that consistency is part of why the choruses feel inevitable when the band hits them live.",
+            "Sources": [
+              {
+                "Title": "Nathan Connolly",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Nathan_Connolly"
+              },
+              {
+                "Title": "Nathan Connolly: 'It got to the point where I either had to make a solo album...'",
+                "Publisher": "Hot Press",
+                "Url": "https://www.hotpress.com/music/nathan-connolly-it-got-to-the-point-where-i-either-had-to-make-a-solo-album-or-stop-saying-id-make-one-22972844"
+              },
+              {
+                "Title": "Ice cool band warms hearts",
+                "Publisher": "BBC News",
+                "Url": "https://news.bbc.co.uk/2/hi/entertainment/3584321.stm"
+              },
+              {
+                "Title": "Snow Patrol",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Snow_Patrol"
+              },
+              {
+                "Title": "Snow Patrol announce Jonny Quinn and Paul Wilson leaving (statement)",
+                "Publisher": "Facebook (Snow Patrol)",
+                "Url": "https://www.facebook.com/SnowPatrol/posts/hi-everyonesorry-to-be-the-bearer-of-such-sad-news-but-both-jonny-quinn-and-paul/885098809638472/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Johnny McDaid",
+          "Roles": [
+            "Keyboards",
+            "Guitar",
+            "Piano",
+            "Production",
+            "Songwriting",
+            "Backing vocals"
+          ],
+          "Years": "2011–present",
+          "Overview": "Multi-instrumentalist, songwriter and producer who broadened the band’s sonic palette and strengthened the studio-based, textured side of later-era Snow Patrol.",
+          "Bio": {
+            "BioID": "snowpatrol-johnnymcdaid",
+            "ArtistID": "snow-patrol",
+            "ArtistName": "Snow Patrol",
+            "MemberName": "Johnny McDaid",
+            "FullName": "John McDaid",
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Guitar",
+              "Piano",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Pop",
+              "Indie rock"
+            ],
+            "Birth": {
+              "Date": "24 July 1976",
+              "Place": "Derry, Northern Ireland"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "ActiveYears": [
+              "1990s–present"
+            ],
+            "AssociatedActs": [
+              "Snow Patrol",
+              "Vega4"
+            ],
+            "KeyAlbums": [
+              "Fallen Empires",
+              "Wildness",
+              "The Forest Is the Path"
+            ],
+            "KeySongs": [
+              "Called Out in the Dark",
+              "Don't Give In",
+              "The Beginning"
+            ],
+            "Achievements": [
+              "Multi-instrumentalist member of Snow Patrol from 2011; prolific songwriter/producer with notable pop and rock collaboration credits."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Johnny_McDaid",
+              "Concord": "https://concord.com/roster/johnny-mcdaid/"
+            },
+            "Biography": "Johnny McDaid (born 24 July 1976 in Derry, Northern Ireland) is a musician, songwriter, and record producer whose arrival in Snow Patrol signaled a broad expansion of the band’s creative language. McDaid is distinctive because he combines multiple skill sets that are often separated in rock careers: he can front a band, write in collaborative pop environments, and think like a producer in the studio. That combination makes him especially valuable to a long‑running act navigating gaps between albums, changing industry economics, and the need to sound contemporary without abandoning its identity.\n\nMcDaid’s early life and education are rooted in Derry. He is one of seven children and attended local schools including St Columb’s College. Those details may seem purely biographical, but they hint at a context: he came out of a place with a strong tradition of music and storytelling, and he developed a drive that later translated into a career that moves easily between scenes and genres. His background is Northern Irish, but his professional life quickly became international, shaped by the realities of modern songwriting and production work.\n\nBefore Snow Patrol, McDaid was the singer and songwriter of the alternative rock band Vega4. Vega4’s second album, You and Others, was produced by Jacknife Lee, and the group’s work placed McDaid in a UK rock lineage that values both melody and atmosphere. Although Vega4 did not become a permanent mainstream staple, the band gave McDaid essential experience: leading a group, writing for record structures, and learning how production choices change the emotional temperature of a song. Those lessons became part of his later value as a collaborator.\n\nMcDaid’s connection to Snow Patrol began through publishing as well as touring. In 2009 he became the first person signed to Snow Patrol’s publishing company, Polar Patrol Publishing. That detail is important: it suggests the band recognized him not only as a performer but as a writer whose skills could integrate into their broader creative ecosystem. From there, McDaid played guitar and piano and provided backing vocals while working with the band on the road. The transition into full membership in 2011 was therefore a progression from trusted collaborator to core creative partner.\n\nInside Snow Patrol, McDaid functions as a multi‑instrumentalist and an arranger‑minded writer. Where the band’s breakthrough era often centered on guitars and vocal melody, McDaid added options: keyboards, programming instincts, and a studio approach that treats texture as part of storytelling. In practical terms, that means Snow Patrol can build emotional momentum not only through louder guitars, but through layered harmony, rhythmic pulse, and subtle production shifts that make a chorus feel like an arrival. McDaid’s influence is especially audible in the band’s later‑era ability to feel cinematic without becoming bombastic.\n\nMcDaid’s reputation also extends far beyond Snow Patrol. He is a frequent collaborator with Ed Sheeran and has co‑written multiple high‑profile songs, including “Shape of You.” Wikipedia’s account of his work with Sheeran emphasizes that the partnership involved multi‑year writing and recording cycles and that McDaid co‑wrote a significant portion of Sheeran’s album X, including well‑known tracks such as “Photograph” and “Bloodstream.” These credits matter not as bragging points, but as evidence of a writer who understands how to build songs that travel globally across formats and audiences.\n\nThat pop‑world experience feeds back into Snow Patrol in subtle ways. It does not turn the band into a pop project; rather, it sharpens their sense of structure and pacing. A writer accustomed to major‑label pop sessions learns how small arrangement changes can transform the way a chorus lands, how to edit verses for clarity, and how to keep emotional stakes legible. When McDaid applies those instincts inside Snow Patrol, the result can be songs that remain unmistakably Snow Patrol—melancholic, earnest, designed for sing‑along release—while sounding polished and current.\n\nMcDaid has also worked with artists across genres, writing with acts such as Robbie Williams and P!nk and contributing to tracks that live outside rock entirely. This cross‑genre experience reinforces his flexibility: he can enter a room with a different artist, learn their language quickly, and still imprint an identifiable craft. In a band setting, that translates into adaptability. If Snow Patrol wants a song to lean more toward ambient, toward electronic pulse, or toward classic guitar band dynamics, McDaid can help guide the choice and execute it in production.\n\nIn 2023, when Snow Patrol announced that drummer Jonny Quinn and bassist Paul Wilson were leaving, the band’s continuation as a trio increased McDaid’s practical importance. Trio bands either simplify their arrangements or find ways to imply a larger ensemble through smart instrumentation and production. McDaid’s ability to move between instruments and think like an arranger is a natural solution. It allows Snow Patrol to remain expansive on record and adaptable live, even as the core lineup becomes smaller.\n\nMcDaid’s public profile also includes personal details that intersect with celebrity culture—most notably his long‑term relationship with actor Courteney Cox. While that aspect can draw media attention, it is not the foundation of his career. The core story remains musical: a Northern Irish writer and multi‑instrumentalist who built credibility in a rock band, developed into a high‑level pop collaborator, and then became a central engine of Snow Patrol’s later‑era evolution.\n\nTaken together, McDaid’s career illustrates a modern model of musicianship where writing, producing, and performing are interlocking skills. Snow Patrol’s early‑2000s legacy was already established before he joined, but his presence helped the band extend that legacy into new decades with a broader sonic palette and a stronger studio identity. As Snow Patrol continues, McDaid stands as both a creative catalyst and a bridge between the band’s guitar‑band roots and the wider world of contemporary songwriting.\n\nBecause McDaid operates comfortably in studio environments, he often becomes the person who can translate a rough demo into a finished track: shaping tempo feel, guiding harmonic color, and deciding which elements should be foregrounded or left implied. That production‑minded attention to detail aligns with Snow Patrol’s later‑era records, where atmosphere and pacing do as much storytelling as lyrics. His contribution is often heard not as a single “part,” but as the coherence of the whole record.",
+            "Sources": [
+              {
+                "Title": "Johnny McDaid",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Johnny_McDaid"
+              },
+              {
+                "Title": "Snow Patrol",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Snow_Patrol"
+              },
+              {
+                "Title": "Songwriter Johnny McDaid credits (Photograph, Bloodstream, etc.)",
+                "Publisher": "Concord Music Publishing",
+                "Url": "https://concord.com/roster/johnny-mcdaid/"
+              },
+              {
+                "Title": "Snow Patrol Lose Two Members Amid Reports of Band Drama",
+                "Publisher": "Rolling Stone",
+                "Url": "https://www.rollingstone.com/music/music-news/snow-patrol-lineup-change-1234819607/"
+              },
+              {
+                "Title": "First album in seven years: Wildness (press release)",
+                "Publisher": "Universal Music Canada",
+                "Url": "https://www.universalmusic.ca/press-releases/first-album-seven-years-wildness-now/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Mark McClelland",
+          "Roles": "Bass (founding member)",
+          "Years": "1994–2005",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Songs for Polarbears",
+            "When It's All Over We Still Have to Clear Up",
+            "Final Straw"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Paul Wilson",
+          "Overview": "Co-founded the band with Gary Lightbody and played bass through the breakthrough Final Straw era before departing in 2005."
+        },
+        {
+          "Name": "Jonny Quinn",
+          "Roles": "Drums",
+          "Years": "1997–2023",
+          "Instruments": "Drums",
+          "Albums": [
+            "Songs for Polarbears",
+            "When It's All Over We Still Have to Clear Up",
+            "Final Straw",
+            "Eyes Open",
+            "A Hundred Million Suns",
+            "Fallen Empires",
+            "Wildness"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Joined in 1997 and served as the long-time drummer through the band’s rise and later-era return before leaving in 2023."
+        },
+        {
+          "Name": "Paul Wilson",
+          "Roles": "Bass guitar",
+          "Years": "2005–2023",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Eyes Open",
+            "A Hundred Million Suns",
+            "Fallen Empires",
+            "Wildness"
+          ],
+          "Replacing": "Mark McClelland",
+          "ReplacedBy": "",
+          "Overview": "Replaced founding bassist Mark McClelland in 2005 and remained through the Wildness era before departing in 2023."
+        },
+        {
+          "Name": "Tom Simpson",
+          "Roles": "Keyboards / programming (touring)",
+          "Years": "2003–present (touring / collaborator)",
+          "Instruments": "Keyboards, programming",
+          "Albums": [
+            "Final Straw (touring era)",
+            "Eyes Open (touring era)",
+            "A Hundred Million Suns (touring era)",
+            "Fallen Empires (touring era)",
+            "Wildness (touring era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Long-time touring and collaborative member associated with the band’s live sound and expanded textures."
+        },
+        {
+          "Name": "Michael Morrison",
+          "Roles": "Drums (early)",
+          "Years": "1994–1996",
+          "Instruments": "Drums",
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Jonny Quinn",
+          "Overview": "Early drummer in the pre–Snow Patrol name-change period before the band’s later classic lineup formed."
+        },
+        {
+          "Name": "Iain Archer",
+          "Roles": "Guitar / backing vocals (touring)",
+          "Years": "2003–2007 (touring)",
+          "Instruments": "Guitar, vocals",
+          "Albums": [
+            "Final Straw (touring era)",
+            "Eyes Open (touring era)"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Touring guitarist/vocalist who supported the band in the breakthrough and Eyes Open touring years."
+        }
+      ]
     },
     {
       "ArtistID": "soft-cell",
