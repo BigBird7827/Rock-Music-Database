@@ -1193,599 +1193,659 @@
     {
       "ArtistID": "foo-fighters",
       "Name": "Foo Fighters",
-      "Type": "",
-      "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
-      },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
-      "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
-    },
-    {
-      "ArtistID": "foreigner",
-      "Name": "Foreigner",
       "Type": "Band",
       "Origin": {
-        "City": "New York City",
-        "Region": "New York",
+        "City": "Seattle",
+        "Region": "Washington",
         "Country": "United States"
       },
       "YearsActive": [
-        "1976–present"
+        "1994–present"
       ],
       "Genres": [
-        "Arena rock",
-        "Hard rock",
-        "Pop rock"
+        "alternative rock",
+        "post-grunge",
+        "hard rock",
+        "arena rock"
       ],
       "Labels": [
-        "Atlantic"
+        "Roswell",
+        "RCA",
+        "Capitol"
       ],
-      "Overview": "Formed in New York City in 1976, Foreigner became one of the defining arena‑rock bands of the late 1970s and 1980s, built around the songwriting partnership of guitarist/producer Mick Jones and vocalist Lou Gramm. The original lineup—Jones, Gramm, multi‑instrumentalist Ian McDonald, keyboardist Al Greenwood, bassist Ed Gagliardi, and drummer Dennis Elliott—hit a sweet spot between hard‑rock punch and pop‑ready precision, with riffs, choruses, and studio polish engineered for massive FM rotation.\n\nThe band broke through immediately with its self‑titled 1977 debut, anchored by enduring staples like “Feels Like the First Time” and “Cold as Ice,” and sustained its momentum with Double Vision (1978) and Head Games (1979). Foreigner’s commercial peak came with 4 (1981), which expanded the sound with sleeker textures and punchy grooves while delivering some of the group’s most recognizable hits, including “Urgent,” “Waiting for a Girl Like You,” and “Juke Box Hero.”\n\nIn the mid‑1980s, Foreigner proved equally adept at power ballads and full‑throttle rock, scoring its biggest global single with the chart‑topping “I Want to Know What Love Is” from Agent Provocateur (1984). Lineup changes followed over the years, but Jones remained the band’s creative anchor as Foreigner continued touring and recording across subsequent decades. The group’s classic‑era impact was recognized with Foreigner’s induction into the Rock & Roll Hall of Fame in 2024, while Jones and Gramm were inducted into the Songwriters Hall of Fame in 2013.",
+      "Overview": "Foo Fighters began in 1994 in Seattle as a one‑man recording project by Dave Grohl in the aftermath of Nirvana’s end. Grohl tracked early demos largely by himself, then assembled a full band to perform the material live and to expand the project into a long‑term group. Their 1995 self‑titled debut introduced a loud‑melodic blend of punk urgency and pop‑leaning hooks that quickly found space on alternative radio and MTV.\n\nWith 1997’s The Colour and the Shape, Foo Fighters sharpened their identity around big choruses, dynamic quiet‑loud songwriting, and Grohl’s direct, anthemic vocal style. The band’s late‑’90s and early‑2000s run built a durable arena‑rock profile—mixing punchy singles with albums that balanced aggression and craft—while a rotating early lineup settled into a stable core that carried them through multiple eras of modern rock.\n\nAcross the 2010s and into the 2020s, Foo Fighters became one of the defining live acts of their generation, combining classic‑rock discipline with contemporary alt‑rock energy. Records like Wasting Light reaffirmed their analog, band‑in‑a‑room strengths, while later albums explored broader textures and themes. Even through major personal and band losses, they continued to release and tour, framing their catalog as both communal release and enduring tribute to the people and moments that shaped it.",
       "NotableAlbums": [
         {
-          "Year": "1977",
-          "Title": "Foreigner",
-          "Details": "Breakthrough debut featuring “Feels Like the First Time” and “Cold as Ice,” establishing the band’s arena‑rock template."
+          "Title": "Foo Fighters",
+          "Year": "1995",
+          "Notes": "Debut built from Grohl’s early post‑Nirvana recordings; raw, hooky alt‑rock that established the band’s DNA."
         },
         {
-          "Year": "1978",
-          "Title": "Double Vision",
-          "Details": "A heavier, hook‑packed follow‑up highlighted by “Hot Blooded,” “Double Vision,” and “Blue Morning, Blue Day.”"
+          "Title": "The Colour and the Shape",
+          "Year": "1997",
+          "Notes": "Breakthrough that defined their arena‑scale sound and produced multiple enduring staples."
         },
         {
-          "Year": "1979",
-          "Title": "Head Games",
-          "Details": "Sharper, guitar‑driven set that introduced bassist Rick Wills and produced the title track and “Dirty White Boy.”"
+          "Title": "There Is Nothing Left to Lose",
+          "Year": "1999",
+          "Notes": "A more melodic, relaxed pivot that expanded their radio reach and won major industry recognition."
         },
         {
-          "Year": "1981",
-          "Title": "4",
-          "Details": "Career‑defining album blending rock punch with sleek textures; home to “Urgent,” “Waiting for a Girl Like You,” and “Juke Box Hero.”"
+          "Title": "One by One",
+          "Year": "2002",
+          "Notes": "A hard‑edged reset with some of the band’s biggest modern‑rock singles."
         },
         {
-          "Year": "1984",
-          "Title": "Agent Provocateur",
-          "Details": "Featuring the global No. 1 single “I Want to Know What Love Is,” plus rockers like “That Was Yesterday.”"
+          "Title": "In Your Honor",
+          "Year": "2005",
+          "Notes": "Double‑album concept balancing loud electric anthems with an acoustic side."
         },
         {
-          "Year": "1987",
-          "Title": "Inside Information",
-          "Details": "Late‑’80s set that continued the polished approach and included “Say You Will” and “I Don’t Want to Live Without You.”"
+          "Title": "Echoes, Silence, Patience & Grace",
+          "Year": "2007",
+          "Notes": "Refined songwriting and dynamics; a late‑2000s peak for singles and album cohesion."
+        },
+        {
+          "Title": "Wasting Light",
+          "Year": "2011",
+          "Notes": "Analog‑leaning, full‑band statement celebrated for punchy production and classic‑form songwriting."
+        },
+        {
+          "Title": "Sonic Highways",
+          "Year": "2014",
+          "Notes": "City‑by‑city recording project pairing music with American music‑history storytelling."
+        },
+        {
+          "Title": "Concrete and Gold",
+          "Year": "2017",
+          "Notes": "Big, layered production and heavier textures while keeping the band’s hook‑first core."
+        },
+        {
+          "Title": "Medicine at Midnight",
+          "Year": "2021",
+          "Notes": "Groove‑forward rock with a brighter, dance‑leaning edge."
+        },
+        {
+          "Title": "But Here We Are",
+          "Year": "2023",
+          "Notes": "Grief‑and‑recovery record that confronts loss directly while leaning into catharsis and melody."
         }
       ],
       "SignatureSongs": [
         {
-          "Year": "1977",
-          "Title": "Feels Like the First Time",
-          "Details": "One of the band’s signature openers—bright hooks, big chorus, and classic‑rock radio durability."
+          "Title": "Everlong",
+          "Year": "1997",
+          "Notes": "Signature emotional anthem; a defining example of the band’s loud‑soft dynamics."
         },
         {
-          "Year": "1977",
-          "Title": "Cold as Ice",
-          "Details": "A defining early hit with a tough riff and pop‑tight arrangement that helped cement Foreigner’s radio identity."
+          "Title": "My Hero",
+          "Year": "1998",
+          "Notes": "Stadium‑ready tribute that became one of their most enduring sing‑along staples."
         },
         {
-          "Year": "1978",
-          "Title": "Hot Blooded",
-          "Details": "Hard‑charging arena rocker that became a concert staple and one of Foreigner’s most recognizable singles."
+          "Title": "Learn to Fly",
+          "Year": "1999",
+          "Notes": "A radio breakthrough built on melodic lift and wry optimism."
         },
         {
-          "Year": "1978",
-          "Title": "Double Vision",
-          "Details": "Title track and hit single showcasing the band’s blend of swaggering guitars and glossy production."
+          "Title": "All My Life",
+          "Year": "2002",
+          "Notes": "A riff‑driven reset that reopened the band’s hardest‑hitting lane."
         },
         {
-          "Year": "1981",
-          "Title": "Urgent",
-          "Details": "A groove‑driven classic powered by Jones’s riff and McDonald’s saxophone, emblematic of the 4 era."
+          "Title": "Times Like These",
+          "Year": "2003",
+          "Notes": "Resilience anthem frequently reinterpreted across eras and live sets."
         },
         {
-          "Year": "1981",
-          "Title": "Waiting for a Girl Like You",
-          "Details": "Slow‑burning smash that helped make 4 the band’s commercial high‑water mark."
+          "Title": "Best of You",
+          "Year": "2005",
+          "Notes": "A slow‑build roar-to-chorus sing‑back centerpiece of their live show."
         },
         {
-          "Year": "1981",
-          "Title": "Juke Box Hero",
-          "Details": "Narrative anthem built for stadium sing‑alongs; a cornerstone of Foreigner’s catalog."
+          "Title": "The Pretender",
+          "Year": "2007",
+          "Notes": "Propulsive modern‑rock hit with a tension‑and‑release structure made for arenas."
         },
         {
-          "Year": "1984",
-          "Title": "I Want to Know What Love Is",
-          "Details": "Power ballad that reached No. 1 in both the U.K. and the U.S., becoming the group’s biggest global hit."
+          "Title": "Walk",
+          "Year": "2011",
+          "Notes": "Triumphant late‑career staple emphasizing perseverance and reset."
         },
         {
-          "Year": "1984",
-          "Title": "That Was Yesterday",
-          "Details": "A sleek mid‑’80s single combining melodic rock and pop polish from Agent Provocateur."
+          "Title": "These Days",
+          "Year": "2011",
+          "Notes": "Melodic anthem that pairs urgency with reflective lyricism."
+        },
+        {
+          "Title": "Rescued",
+          "Year": "2023",
+          "Notes": "Comeback single that channels classic Foo Fighters propulsion after a period of loss."
         }
       ],
       "Achievements": [
         {
-          "Year": "2013",
-          "Title": "Songwriters Hall of Fame",
-          "Details": "Mick Jones and Lou Gramm were inducted for their hit‑heavy songwriting partnership."
+          "Year": "2021",
+          "Title": "Rock & Roll Hall of Fame induction",
+          "Details": "Inducted as a Performer in their first year of eligibility, reflecting their long‑run cultural and live‑performance impact."
         },
         {
-          "Year": "2024",
-          "Title": "Rock & Roll Hall of Fame",
-          "Details": "Foreigner was inducted, recognizing the band’s classic‑era impact and enduring catalog."
+          "Year": "2000s–2020s",
+          "Title": "Multi‑GRAMMY winning rock act",
+          "Details": "Earned numerous GRAMMY Awards and repeated wins for Best Rock Album, underscoring sustained critical and industry recognition."
         },
         {
-          "Year": "1985",
-          "Title": "Global No. 1 single",
-          "Details": "“I Want to Know What Love Is” topped both the U.K. singles chart and the U.S. Billboard Hot 100."
+          "Year": "1990s–present",
+          "Title": "One of modern rock’s defining touring bands",
+          "Details": "Built a reputation for marathon sets and festival‑headlining status, translating album eras into a durable live legacy."
+        },
+        {
+          "Year": "2011",
+          "Title": "Wasting Light era resurgence",
+          "Details": "A widely celebrated late‑career high point that reaffirmed the band’s core strengths and expanded their audience across generations."
         }
       ],
       "KeyFacts": [
-        "Formed in New York City in 1976 by Mick Jones and Ian McDonald, blending British rock pedigree with American radio ambition.",
-        "Original lineup: Lou Gramm (vocals), Mick Jones (guitar/songwriting), Ian McDonald (multi‑instrumentalist), Al Greenwood (keys), Ed Gagliardi (bass), Dennis Elliott (drums).",
-        "Breakthrough with Foreigner (1977), followed by a rapid run of arena‑ready hits through the early 1980s.",
-        "4 (1981) is widely regarded as the band’s defining commercial and radio era, featuring multiple signature singles.",
-        "“I Want to Know What Love Is” (1984) became Foreigner’s biggest global hit and remains a core catalog centerpiece."
+        "Formed in 1994 in Seattle as a recording project by Dave Grohl, who then assembled a touring band.",
+        "Known for combining punk‑driven energy with classic‑rock scale, built around big choruses and dynamic arrangements.",
+        "Lineup evolved in the early years before stabilizing around a core that carried the band through multiple eras.",
+        "Frequently cited for high‑stamina live shows and for treating concerts as the centerpiece of the Foo Fighters experience.",
+        "Later‑era releases include emotionally direct work shaped by personal loss and renewed focus on community and endurance."
       ],
       "ExternalLinks": {
-        "Official Site": "https://www.foreigneronline.com/",
-        "AllMusic": "https://www.allmusic.com/artist/foreigner-mn0000168903",
-        "Rock & Roll Hall of Fame": "https://www.rockhall.com/inductees/foreigner",
-        "Wikipedia": "https://en.wikipedia.org/wiki/Foreigner_(band)"
+        "Official Site": "https://www.foofighters.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Foo_Fighters",
+        "Discography": "https://en.wikipedia.org/wiki/Foo_Fighters_discography"
       },
       "CoreMembers": [
         {
-          "Name": "Mick Jones",
-          "YearsActive": "1976–present",
-          "Roles": "Founder; primary songwriter; guitarist; producer",
-          "Instruments": "Guitar; keyboards; vocals",
-          "Albums": [
-            "Foreigner (1977)",
-            "Double Vision (1978)",
-            "Head Games (1979)",
-            "4 (1981)",
-            "Agent Provocateur (1984)",
-            "Inside Information (1987)"
+          "Name": "Dave Grohl",
+          "Roles": [
+            "lead vocals",
+            "guitar",
+            "principal songwriter",
+            "founder"
           ],
-          "Overview": "Founding guitarist and principal architect of Foreigner’s sound, Jones served as the band’s main songwriter and studio anchor across every era.",
+          "Years": "1994–present",
+          "Overview": "Founder and creative anchor of Foo Fighters, shaping the band’s sound through songwriting, vocals, and multi‑instrumental studio work.",
           "Bio": {
-            "BioID": "bio-mick-jones-foreigner",
-            "ArtistID": "mick-jones-foreigner",
-            "ArtistName": "Mick Jones",
-            "BirthName": "Michael Leslie Jones",
-            "Birth": {
-              "Date": "December 27, 1944",
-              "Place": "Portsmouth, England"
-            },
-            "Nationality": "English",
-            "Roles": [
-              "Songwriter",
-              "Guitarist",
-              "Producer"
-            ],
+            "BioID": "bio-foo-fighters-dave-grohl",
+            "ArtistID": "foo-fighters",
+            "ArtistName": "Foo Fighters",
+            "MemberName": "Dave Grohl",
+            "FullName": "David Eric Grohl",
             "PrimaryInstruments": [
-              "Guitar",
-              "Keyboards"
+              "vocals",
+              "guitar",
+              "drums"
             ],
+            "Occupations": [
+              "musician",
+              "singer",
+              "songwriter",
+              "producer"
+            ],
+            "Genres": [
+              "alternative rock",
+              "post-grunge",
+              "hard rock"
+            ],
+            "Birth": {
+              "Date": "1969-01-14",
+              "Place": "Warren, Ohio, U.S."
+            },
+            "ActiveYears": "1980s–present",
             "AssociatedActs": [
-              "Foreigner",
-              "Spooky Tooth",
-              "Nero and the Gladiators"
+              "Foo Fighters",
+              "Nirvana",
+              "Scream",
+              "Them Crooked Vultures"
             ],
-            "Hometown": "Portsmouth, England",
-            "Biography": "Michael Leslie “Mick” Jones was born on December 27, 1944, in Portsmouth, England, and came up through the British club circuit in the early 1960s. After early work in groups such as Nero and the Gladiators, he built a reputation as a versatile guitarist who could move between rhythm‑and‑blues grit and pop‑ready polish.\n\nJones broadened his musical and professional range through session and touring work, including high‑profile European engagements that sharpened his arranging instincts and studio discipline. Those experiences would later inform the tightly engineered, hook‑forward sound that became Foreigner’s calling card.\n\nBy the mid‑1970s, Jones was determined to build a band that paired British musicianship with an American sense of radio dynamics—big choruses, clean structures, and riffs that landed hard. Relocating his ambitions to New York, he connected with multi‑instrumentalist Ian McDonald, another British veteran with a deep compositional toolkit.\n\nIn 1976, Jones and McDonald assembled Foreigner with vocalist Lou Gramm and a rhythm section designed for both power and precision. From the start, Jones functioned as the group’s musical director: shaping arrangements, refining hooks, and steering the band toward a modern arena‑rock identity.\n\nForeigner’s self‑titled debut (1977) hit immediately, and Jones’s writing and production instincts helped balance guitar bite with pop clarity. As the catalog grew—Double Vision (1978), Head Games (1979), and 4 (1981)—his fingerprints remained on every major decision, from song architecture to sonic sheen.\n\nJones also proved adept at evolving the band’s palette without losing its core. On 4 and Agent Provocateur, he leaned into sleeker textures and rhythmic punch, while still delivering the muscular riffs and melodic lifts that powered Foreigner’s biggest singles.\n\nAs personnel shifted over the years, Jones became Foreigner’s lone continuous original member and the stable center of the brand. Even when he stepped back from constant touring, he continued guiding setlists, sound, and overall direction, helping newer lineups honor the classic material while keeping the live show active.\n\nHis songwriting partnership with Lou Gramm produced an unusually durable run of radio staples, ranging from hard rock anthems to power ballads. That body of work earned Jones and Gramm induction into the Songwriters Hall of Fame in 2013, reflecting the scale and consistency of their hitmaking.\n\nForeigner’s classic‑era impact was further recognized when the band was inducted into the Rock & Roll Hall of Fame in 2024. For Jones, the honor reinforced decades of work as a songwriter, guitarist, arranger, and producer who consistently prioritized craft and audience connection.\n\nAcross Foreigner’s eras, Jones’s defining trait has been architectural: he builds songs to last. Whether through riff‑driven rockers or emotionally direct ballads, his writing approach—tight structures, strong melodic payoff, and studio polish—helped make Foreigner a cornerstone of classic‑rock radio.",
+            "KeyAlbums": [
+              "The Colour and the Shape",
+              "There Is Nothing Left to Lose",
+              "Wasting Light",
+              "But Here We Are"
+            ],
+            "KeySongs": [
+              "Everlong",
+              "My Hero",
+              "All My Life",
+              "Best of You"
+            ],
             "Achievements": [
-              "Founder and only continuous original member of Foreigner.",
-              "Inducted into the Songwriters Hall of Fame (2013) with Lou Gramm.",
-              "Inducted into the Rock & Roll Hall of Fame (2024) as a member of Foreigner."
-            ],
-            "Sources": [
-              {
-                "Title": "Mick Jones (Foreigner guitarist)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Mick_Jones_(Foreigner_guitarist)"
-              },
-              {
-                "Title": "Mick Jones profile",
-                "Publisher": "Songwriters Hall of Fame",
-                "Url": "https://www.songhall.org/profiles/mick-jones"
-              },
-              {
-                "Title": "Which Foreigner Members Are Nominated for the Rock Hall?",
-                "Publisher": "Ultimate Classic Rock",
-                "Url": "https://ultimateclassicrock.com/foreigner-rock-hall-which-members/"
-              }
+              "Founder and principal songwriter of Foo Fighters",
+              "Rock & Roll Hall of Fame induction with Foo Fighters (2021)",
+              "Multiple GRAMMY Award wins with Foo Fighters"
             ],
             "ExternalLinks": {
-              "Songwriters Hall profile": "https://www.songhall.org/profiles/mick-jones",
-              "Foreigner official site": "https://www.foreigneronline.com/"
-            }
-          }
-        },
-        {
-          "Name": "Lou Gramm",
-          "YearsActive": "1976–1990; 1992–2003",
-          "Roles": "Co-founder; lead vocalist; songwriter",
-          "Instruments": "Vocals",
-          "Albums": [
-            "Foreigner (1977)",
-            "Double Vision (1978)",
-            "Head Games (1979)",
-            "4 (1981)",
-            "Agent Provocateur (1984)",
-            "Inside Information (1987)"
-          ],
-          "Overview": "Foreigner’s original frontman and co‑writer of many signature songs, Gramm supplied the powerhouse vocals that defined the band’s classic singles.",
-          "Bio": {
-            "BioID": "bio-lou-gramm",
-            "ArtistID": "lou-gramm",
-            "ArtistName": "Lou Gramm",
-            "BirthName": "Louis Andrew Grammatico",
-            "Birth": {
-              "Date": "May 2, 1950",
-              "Place": "Rochester, New York, U.S."
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dave_Grohl",
+              "AllMusic": "https://www.allmusic.com/artist/dave-grohl-mn0000180516"
             },
-            "Nationality": "American",
-            "Roles": [
-              "Singer",
-              "Songwriter"
-            ],
-            "PrimaryInstruments": [
-              "Vocals"
-            ],
-            "AssociatedActs": [
-              "Foreigner",
-              "Black Sheep",
-              "Shadow King"
-            ],
-            "Hometown": "Rochester, New York, U.S.",
-            "Biography": "Louis Andrew Grammatico—known professionally as Lou Gramm—was born on May 2, 1950, in Rochester, New York. Raised in a musical household, he developed a powerful, clear rock‑soul vocal style that would later become one of the most recognizable voices in classic rock.\n\nBefore Foreigner, Gramm built experience on the regional and national circuit with bands that blended hard rock energy and radio ambition. His most prominent pre‑Foreigner work was with Black Sheep, a Rochester‑based group that earned a major‑label platform and gave Gramm early exposure to professional touring and recording.\n\nIn 1976, Gramm joined forces with guitarist/songwriter Mick Jones and multi‑instrumentalist Ian McDonald in New York City, helping form Foreigner. From the beginning, Gramm’s voice provided the band’s emotional through‑line—able to punch through riff‑heavy rockers and then pivot to melodic, romantic ballads without losing intensity.\n\nForeigner’s self‑titled debut (1977) introduced Gramm to a massive audience with hits like “Feels Like the First Time” and “Cold as Ice.” His vocal approach—urgent, precise, and big enough for arenas—helped define the group’s identity and set the standard for the next run of albums.\n\nAs the band accelerated through Double Vision (1978) and Head Games (1979), Gramm became a primary interpreter of Jones’s tightly structured songwriting, translating crafted hooks into performances that felt immediate and human. That blend of polish and urgency kept Foreigner at the center of late‑’70s FM radio.\n\nThe 4 era (1981) marked a major commercial apex, and Gramm’s vocals powered a trio of defining singles: “Urgent,” “Waiting for a Girl Like You,” and “Juke Box Hero.” He could deliver aggression and vulnerability in the same set, which helped Foreigner thrive across both hard‑rock and pop‑leaning playlists.\n\nIn the mid‑1980s, Gramm was central to the band’s biggest global moment with “I Want to Know What Love Is,” a power ballad that reached No. 1 in both the U.K. and the U.S. His performance balanced stadium scale with sincerity, turning a carefully constructed song into an enduring cultural touchstone.\n\nGramm also co‑wrote many of Foreigner’s key tracks with Jones, making him more than a frontman—he was a creative partner in the band’s hitmaking engine. His songwriting contributions deepened the catalog and helped maintain a consistent voice even as trends and lineups shifted.\n\nAfter his first long stretch with Foreigner ended in 1990, Gramm returned in the early 1990s and remained involved into the 2000s, extending the band’s legacy into a new era. Alongside Foreigner, he pursued solo and collaborative projects, often returning to the melodic hard‑rock lane that showcased his strengths.\n\nIn recognition of the scale and durability of his work with Jones, Gramm was inducted into the Songwriters Hall of Fame in 2013. Foreigner’s induction into the Rock & Roll Hall of Fame in 2024 further underscored the classic‑era impact of his voice—an instrument that helped define a generation of radio rock.",
-            "Achievements": [
-              "Co-founder and original lead vocalist of Foreigner’s classic era.",
-              "Inducted into the Songwriters Hall of Fame (2013) with Mick Jones.",
-              "Inducted into the Rock & Roll Hall of Fame (2024) as a member of Foreigner."
-            ],
+            "Biography": "Dave Grohl (born January 14, 1969, in Warren, Ohio) emerged from Washington, D.C.’s punk ecosystem with a self‑taught, all‑in approach to drums, guitar, and songwriting. As a teenager he committed to the local scene’s DIY logic—practice, play, tour, repeat—learning as much from basements and clubs as from any formal training.\n\nHis first major professional leap came as the drummer for Scream, where constant touring hardened his timekeeping and stage instincts. The experience also taught him the practical side of being a working musician: living on the road, keeping gear together, and delivering night after night regardless of conditions.\n\nIn 1990 Grohl joined Nirvana, and the band’s rapid ascent pushed him onto the biggest stages in rock. His drumming—powerful yet precise—became one of the engines of the group’s live show and recordings, while he quietly stockpiled song ideas during down time, unsure whether they belonged in the Nirvana frame.\n\nAfter Kurt Cobain’s death in 1994 and Nirvana’s end, Grohl processed grief through creation. He recorded a set of songs largely by himself—playing most instruments—initially intending them as a low‑pressure release rather than a new band with a spotlight fixed on him.\n\nThat material became the foundation of Foo Fighters. Grohl assembled a lineup to tour the songs, then committed to building a real, durable group identity: a band that could evolve beyond its origin story and thrive on the strength of performance and songwriting rather than mythology.\n\nAs frontman, Grohl developed a vocal style that matched his drumming—forceful, emotive, and rhythmically driven—while still leaning on melodic hooks that made choruses feel communal. The band’s signature tension‑and‑release dynamic often mirrors his instincts as a drummer arranging songs from the inside out.\n\nAcross albums and eras, Grohl has been the band’s principal songwriter and the connective tissue between changing phases. He’s also played multiple instruments in studio settings when needed, treating the recording process as another form of performance rather than a separate, precious realm.\n\nOutside Foo Fighters, Grohl’s collaborations and side projects underline his reputation as a musician’s musician: comfortable as a drummer, guitarist, songwriter, and bandmate. Those detours feed back into the Foo Fighters catalog, widening the band’s reference points without diluting its core punch.\n\nPublicly, he’s become synonymous with a specific kind of rock leadership—generous, workmanlike, and oriented toward the audience experience. Whether talking about songwriting, gear, or touring, he frames success as something earned through repetition and care rather than mystique.\n\nIn Foo Fighters, Grohl’s long arc reads as a reinvention achieved through discipline: turning a private grief‑project into one of modern rock’s most consistent live institutions, and using the band as both a creative home and a community built around songs meant to be shouted together.",
             "Sources": [
               {
-                "Title": "Lou Gramm",
+                "Title": "Foo Fighters | Band, Members, Albums, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Foo-Fighters"
+              },
+              {
+                "Title": "Dave Grohl | Biography, Career, Nirvana, Foo Fighters, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Dave-Grohl"
+              },
+              {
+                "Title": "Dave Grohl — artist bio and birth information",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/dave-grohl-mn0000180516"
+              },
+              {
+                "Title": "Dave Grohl",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Lou_Gramm"
+                "Url": "https://en.wikipedia.org/wiki/Dave_Grohl"
               },
               {
-                "Title": "Lou Gramm profile",
-                "Publisher": "Songwriters Hall of Fame",
-                "Url": "https://www.songhall.org/profiles/lou-gramm"
-              },
-              {
-                "Title": "Foreigner (band)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Foreigner_(band)"
-              }
-            ],
-            "ExternalLinks": {
-              "Official site": "https://www.lougrammofficial.com/",
-              "Songwriters Hall profile": "https://www.songhall.org/profiles/lou-gramm"
-            }
-          }
-        },
-        {
-          "Name": "Ian McDonald",
-          "YearsActive": "1976–1980",
-          "Roles": "Co-founder; multi-instrumentalist; songwriter",
-          "Instruments": "Saxophone; flute; keyboards; guitar",
-          "Albums": [
-            "Foreigner (1977)",
-            "Double Vision (1978)",
-            "Head Games (1979)"
-          ],
-          "Overview": "A founding Foreigner member and key early colorist, McDonald added sax, flute, keyboards, and arranging depth shaped by his earlier work with King Crimson.",
-          "Bio": {
-            "BioID": "bio-ian-mcdonald",
-            "ArtistID": "ian-mcdonald",
-            "ArtistName": "Ian McDonald",
-            "BirthName": "Ian Richard McDonald",
-            "Birth": {
-              "Date": "June 25, 1946",
-              "Place": "Osterley, Middlesex, England"
-            },
-            "Death": {
-              "Date": "February 9, 2022",
-              "Place": "New York City, U.S.",
-              "Cause": "Colon cancer"
-            },
-            "Nationality": "English",
-            "Roles": [
-              "Multi-instrumentalist",
-              "Composer",
-              "Songwriter"
-            ],
-            "PrimaryInstruments": [
-              "Saxophone",
-              "Flute",
-              "Keyboards",
-              "Guitar"
-            ],
-            "AssociatedActs": [
-              "Foreigner",
-              "King Crimson",
-              "21st Century Schizoid Band"
-            ],
-            "Biography": "Ian Richard McDonald was born on June 25, 1946, in Osterley, Middlesex, England, and developed into a rare kind of rock musician: a multi‑instrumentalist equally comfortable on woodwinds, keyboards, guitar, and compositional structure. His early training and disciplined approach gave him a broad palette that would later shape multiple landmark bands.\n\nMcDonald first gained wide recognition as a founding member of King Crimson, appearing on their 1969 debut In the Court of the Crimson King. His Mellotron and woodwind work helped define the album’s expansive atmosphere and made him a pivotal figure in the early prog‑rock vocabulary.\n\nAfter leaving King Crimson, McDonald continued working as a musician, writer, and producer, refining his sense of arrangement and tone. By the mid‑1970s, he was primed for a new project that could channel his sophistication into songs built for mass radio reach.\n\nIn 1976, McDonald co‑founded Foreigner with guitarist Mick Jones in New York City. The collaboration fused Jones’s pop‑rock architecture with McDonald’s orchestral instincts—textures, countermelodies, and instrumental colors that elevated the band’s early recordings beyond straight guitar rock.\n\nOn Foreigner’s 1977 debut and its follow‑ups Double Vision (1978) and Head Games (1979), McDonald’s saxophone and flute lines became a signature accent, adding bite and contrast to the band’s tight, hook‑centered songwriting. His contributions helped Foreigner sound both hard‑edged and nuanced—arena‑ready without being monochrome.\n\nMcDonald’s role also extended to arrangement and musicianship: he could reinforce a chorus with keyboards, double a riff with sax, or create transitional textures that kept the songs moving. That versatility made him one of the band’s most distinctive early voices.\n\nBy 1980, Foreigner’s internal dynamics shifted as the group moved toward a leaner core, and McDonald’s tenure with the band ended around that transition. Even so, his imprint remains embedded in the first three albums—records that established Foreigner’s identity and set up the band’s commercial peak.\n\nIn later decades, McDonald continued to make music, including collaborations and releases that reflected his wide-ranging interests. His 1999 solo album Driver’s Eyes featured notable guests and highlighted his continuing strengths as a writer and instrumentalist.\n\nMcDonald died on February 9, 2022, in New York City at the age of 75, with multiple reports attributing his death to colon cancer. Tributes emphasized the dual legacy he left behind: prog‑rock innovation with King Crimson and arena‑rock hitmaking with Foreigner.\n\nAcross those very different worlds, McDonald’s through‑line was musical intelligence. He brought color, structure, and instrumental character to every project—qualities that helped Foreigner’s early catalog sound richer and more distinctive than standard late‑’70s hard rock.",
-            "Achievements": [
-              "Founding member of Foreigner; contributed to the band’s first three albums.",
-              "Founding member of King Crimson; appeared on In the Court of the Crimson King (1969).",
-              "Posthumously inducted into the Rock & Roll Hall of Fame (2024) as a member of Foreigner."
-            ],
-            "Sources": [
-              {
-                "Title": "Ian McDonald (musician)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Ian_McDonald_(musician)"
-              },
-              {
-                "Title": "Ian McDonald: King Crimson and Foreigner co-founder dies age 75",
-                "Publisher": "The Guardian",
-                "Url": "https://www.theguardian.com/music/2022/feb/11/ian-mcdonald-king-crimson-foreigner-co-founder-dies-age-75"
-              },
-              {
-                "Title": "Which Foreigner Members Are Nominated for the Rock Hall?",
-                "Publisher": "Ultimate Classic Rock",
-                "Url": "https://ultimateclassicrock.com/foreigner-rock-hall-which-members/"
+                "Title": "Foo Fighters — artist bio and group members",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/foo-fighters-mn0000184043"
               }
             ]
           }
         },
         {
-          "Name": "Dennis Elliott",
-          "YearsActive": "1976–1993",
-          "Roles": "Drummer; founding member",
-          "Instruments": "Drums",
-          "Albums": [
-            "Foreigner (1977)",
-            "Double Vision (1978)",
-            "Head Games (1979)",
-            "4 (1981)",
-            "Agent Provocateur (1984)",
-            "Inside Information (1987)",
-            "Unusual Heat (1991)"
+          "Name": "Nate Mendel",
+          "Roles": [
+            "bass"
           ],
-          "Overview": "Foreigner’s original drummer, Elliott anchored the band’s classic albums with a tight, driving style that balanced power and precision.",
+          "Years": "1995–present",
+          "Overview": "Long‑running bassist whose supportive, driving lines help anchor the band’s groove and dynamics across eras.",
           "Bio": {
-            "BioID": "bio-dennis-elliott",
-            "ArtistID": "dennis-elliott",
-            "ArtistName": "Dennis Elliott",
-            "BirthName": "Dennis Leslie Elliott",
-            "Birth": {
-              "Date": "August 18, 1950",
-              "Place": "Peckham, London, England"
-            },
-            "Nationality": "British",
-            "Roles": [
-              "Drummer",
-              "Artist"
-            ],
+            "BioID": "bio-foo-fighters-nate-mendel",
+            "ArtistID": "foo-fighters",
+            "ArtistName": "Foo Fighters",
+            "MemberName": "Nate Mendel",
+            "FullName": "Nathan Gregor Mendel",
             "PrimaryInstruments": [
-              "Drums"
+              "bass"
             ],
-            "AssociatedActs": [
-              "Foreigner",
-              "If",
-              "Spooky Tooth"
+            "Occupations": [
+              "musician"
             ],
-            "Biography": "Dennis Leslie Elliott was born on August 18, 1950, in Peckham, London, and began playing drums at an early age, building the kind of feel and control that would later translate to arena stages. His formative years in the U.K. scene gave him both technical chops and the ability to lock into a groove without overplaying.\n\nElliott worked through a series of bands during the late 1960s and early 1970s, including the jazz‑rock group If, where he gained experience with longer forms, dynamic shifts, and ensemble discipline. That background would prove valuable once Foreigner’s material began mixing hard‑rock punch with pop‑tight arrangements.\n\nBy the mid‑1970s, Elliott had relocated his professional ambitions toward the U.S. and broader touring circuits. When Mick Jones and Ian McDonald formed Foreigner in New York City in 1976, Elliott’s combination of power and precision made him a natural fit for a band designed to dominate radio and arenas.\n\nOn Foreigner’s 1977 debut, Elliott’s drumming is both muscular and economical—driving the songs forward while leaving space for hooks and vocal phrasing. As the catalog expanded, he remained a consistent engine across the band’s high‑velocity late‑’70s run.\n\nThe band’s classic stretch—Double Vision, Head Games, and 4—required a drummer who could shift between straight rock force, syncopated grooves, and tempo‑tight transitions. Elliott delivered that versatility, supporting both riff‑forward anthems and more atmospheric, keyboard‑colored tracks without breaking the band’s momentum.\n\nHis work on 4 (1981) in particular highlights his control: the grooves stay urgent and propulsive while the production becomes sleeker and more modern. Elliott helped Foreigner sound big without becoming sloppy, a key reason the band’s recordings translated so cleanly to radio.\n\nElliott stayed with Foreigner into the early 1990s, spanning the band’s shift from classic‑era dominance into a period of personnel changes and stylistic recalibration. Even as the lineup evolved, his drumming remained a stabilizing element—steady, punchy, and designed to serve the song.\n\nAfter leaving the band in the early 1990s, Elliott pursued work beyond touring as a rock drummer and became known as a sculptor and visual artist. The career pivot underscored a creative range that wasn’t limited to music, and it also helped explain the control and craft evident in his playing.\n\nForeigner’s classic‑era impact—built in part on Elliott’s rhythmic foundation—was recognized with the band’s induction into the Rock & Roll Hall of Fame in 2024. While Foreigner is often celebrated for its songwriting and vocals, Elliott’s contribution is inseparable from the band’s signature punch.\n\nElliott’s drumming legacy is defined by balance: hard‑rock power delivered with studio‑ready precision. That blend helped Foreigner’s biggest songs feel urgent and tight, whether blasting through an arena PA or sitting in the center of classic‑rock radio rotation.",
-            "Achievements": [
-              "Original drummer and founding member of Foreigner (1976–early 1990s).",
-              "Performed on Foreigner’s classic albums from the debut through the band’s early‑1990s era.",
-              "Inducted into the Rock & Roll Hall of Fame (2024) as a member of Foreigner."
+            "Genres": [
+              "alternative rock",
+              "post-grunge",
+              "indie rock"
             ],
-            "Sources": [
-              {
-                "Title": "Dennis Elliott",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Dennis_Elliott"
-              },
-              {
-                "Title": "Foreigner (band)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Foreigner_(band)"
-              },
-              {
-                "Title": "Which Foreigner Members Are Nominated for the Rock Hall?",
-                "Publisher": "Ultimate Classic Rock",
-                "Url": "https://ultimateclassicrock.com/foreigner-rock-hall-which-members/"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "Al Greenwood",
-          "YearsActive": "1976–1980",
-          "Roles": "Keyboardist; founding member",
-          "Instruments": "Keyboards",
-          "Albums": [
-            "Foreigner (1977)",
-            "Double Vision (1978)",
-            "Head Games (1979)"
-          ],
-          "Overview": "Foreigner’s original keyboardist, Greenwood helped define the band’s early sound with bright synth and piano textures before departing around 1980.",
-          "Bio": {
-            "BioID": "bio-al-greenwood",
-            "ArtistID": "al-greenwood",
-            "ArtistName": "Al Greenwood",
-            "BirthName": "Alan Greenwood",
             "Birth": {
-              "Date": "October 20, 1951",
-              "Place": "New York City, New York, U.S."
+              "Date": "1968-12-02",
+              "Place": "Richland, Washington, U.S."
             },
-            "Nationality": "American",
-            "Roles": [
-              "Keyboardist",
-              "Songwriter"
-            ],
-            "PrimaryInstruments": [
-              "Keyboards",
-              "Piano"
-            ],
+            "ActiveYears": "1990s–present",
             "AssociatedActs": [
-              "Foreigner",
-              "Spys"
+              "Foo Fighters",
+              "Sunny Day Real Estate",
+              "The Fire Theft",
+              "The Jealous Sound"
             ],
-            "Biography": "Alan “Al” Greenwood was born on October 20, 1951, in New York City and emerged as a keyboardist whose playing could bridge rock energy with pop‑focused clarity. His sense of texture—piano, organ, and early synthesizer color—fit perfectly into the late‑’70s shift toward polished, radio‑friendly hard rock.\n\nIn 1976, Greenwood became a founding member of Foreigner, joining guitarist Mick Jones, multi‑instrumentalist Ian McDonald, vocalist Lou Gramm, bassist Ed Gagliardi, and drummer Dennis Elliott. Greenwood’s keyboards provided an essential layer in a band built on hooks: he could thicken choruses, sharpen rhythmic pulses, and add melodic countermovement without cluttering the mix.\n\nOn Foreigner’s 1977 debut, Greenwood helped the band sound modern and expansive, complementing Jones’s guitars and Gramm’s vocals with crisp harmonic support. The approach continued on Double Vision (1978), where the band’s arrangements became bigger and more confident while staying tightly structured.\n\nGreenwood’s most visible strength was making complex arrangements feel simple to the listener. He could use keyboards to underline a chorus lift, set up a bridge transition, or add brightness to a riff—often in ways that were felt more than consciously noticed, which is exactly what radio rock demanded.\n\nBy the time of Head Games (1979), Foreigner’s sound was evolving, and internal changes began reshaping the lineup. Greenwood’s tenure with the band ended around 1980, closing out the founding era that produced Foreigner’s first wave of hits.\n\nAfter leaving Foreigner, Greenwood co‑founded the band Spys with former Foreigner bassist Ed Gagliardi, continuing to explore a more synth‑forward rock approach that aligned with early‑’80s production trends. The project carried forward aspects of Foreigner’s polished sensibility while allowing Greenwood to expand his stylistic footprint.\n\nAcross his Foreigner years, Greenwood contributed to the band’s tight balance of power and polish. The group was never just guitars and vocals; the keyboard layer was part of the architecture that helped the songs feel large, bright, and arena‑ready.\n\nForeigner’s later recognition—including Rock & Roll Hall of Fame induction in 2024—also reflects the importance of the original lineup’s chemistry. Greenwood’s role in that founding blend is often understated, but it’s embedded in the band’s earliest recordings.\n\nGreenwood’s legacy within Foreigner is rooted in the band’s first three albums—the era when the blueprint was drawn. His textures and chord choices helped define the sound that subsequent lineups would carry forward, even as instrumentation and production styles shifted.\n\nIn classic‑rock terms, Greenwood represents the keyboardist as structural engineer: building the harmonic framework that lets riffs hit harder and choruses soar higher. Foreigner’s early catalog is stronger, brighter, and more durable because his keyboards are in the foundation.",
+            "KeyAlbums": [
+              "The Colour and the Shape",
+              "There Is Nothing Left to Lose",
+              "Wasting Light",
+              "But Here We Are"
+            ],
+            "KeySongs": [
+              "Everlong",
+              "Learn to Fly",
+              "Best of You",
+              "The Pretender"
+            ],
             "Achievements": [
-              "Founding keyboardist of Foreigner; appeared on the band’s first three albums.",
-              "Co‑founded Spys with Ed Gagliardi after leaving Foreigner.",
-              "Inducted into the Rock & Roll Hall of Fame (2024) as a member of Foreigner."
-            ],
-            "Sources": [
-              {
-                "Title": "Foreigner (band)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Foreigner_(band)"
-              },
-              {
-                "Title": "Which Foreigner Members Are Nominated for the Rock Hall?",
-                "Publisher": "Ultimate Classic Rock",
-                "Url": "https://ultimateclassicrock.com/foreigner-rock-hall-which-members/"
-              },
-              {
-                "Title": "Rock & Roll Hall of Fame induction coverage (Foreigner members listed)",
-                "Publisher": "People",
-                "Url": "https://people.com/foreigner-lead-singer-kelly-hansen-announces-exit-band-taps-guitarist-luis-maldonado-to-take-his-place-11738935"
-              }
+              "Foundational bassist through Foo Fighters’ multi‑decade run",
+              "Helped translate the band’s studio material into a consistent touring machine"
             ],
             "ExternalLinks": {
-              "Foreigner official site": "https://www.foreigneronline.com/"
-            }
-          }
-        },
-        {
-          "Name": "Ed Gagliardi",
-          "YearsActive": "1976–1979",
-          "Roles": "Bassist; founding member",
-          "Instruments": "Bass guitar",
-          "Albums": [
-            "Foreigner (1977)",
-            "Double Vision (1978)"
-          ],
-          "Overview": "Foreigner’s original bassist, Gagliardi played on the band’s first two albums before moving on ahead of the 1980s lineup shifts.",
-          "Bio": {
-            "BioID": "bio-ed-gagliardi",
-            "ArtistID": "ed-gagliardi",
-            "ArtistName": "Ed Gagliardi",
-            "BirthName": "Edward John Gagliardi",
-            "Birth": {
-              "Date": "February 13, 1952",
-              "Place": "Brooklyn, New York, U.S."
+              "Wikipedia": "https://en.wikipedia.org/wiki/Nate_Mendel",
+              "AllMusic": "https://www.allmusic.com/artist/nate-mendel-mn0000315386"
             },
-            "Death": {
-              "Date": "May 11, 2014",
-              "Place": "Atlanta, Georgia, U.S.",
-              "Cause": "Cancer"
-            },
-            "Nationality": "American",
-            "Roles": [
-              "Bassist"
-            ],
-            "PrimaryInstruments": [
-              "Bass guitar"
-            ],
-            "AssociatedActs": [
-              "Foreigner",
-              "Spys"
-            ],
-            "Biography": "Edward John “Ed” Gagliardi was born on February 13, 1952, in Brooklyn, New York, and developed into a bassist with a firm, melodic approach suited to late‑’70s rock. His playing emphasized clarity and movement—supporting riffs while still giving songs a sense of forward momentum.\n\nIn 1976, Gagliardi became a founding member of Foreigner, joining guitarist Mick Jones, multi‑instrumentalist Ian McDonald, vocalist Lou Gramm, keyboardist Al Greenwood, and drummer Dennis Elliott. As the band’s original bassist, he was part of the chemistry that shaped Foreigner’s first wave of recordings and early touring identity.\n\nGagliardi played on Foreigner’s self‑titled 1977 debut, anchoring songs that quickly became radio standards. The album’s success demanded a rhythm section that could stay tight under heavy rotation and heavier stage volume; his bass lines helped keep the arrangements disciplined and punchy.\n\nHe returned for Double Vision (1978), a tougher, hook‑packed follow‑up that cemented Foreigner’s place among arena‑rock’s biggest acts. The record’s blend of guitar swagger and pop structure relied on a bass foundation that could lock with drums while leaving space for vocal hooks.\n\nAs the band approached the end of the 1970s, internal and creative shifts began changing the lineup. Gagliardi’s time with Foreigner ended after the first two albums, and the band moved into the 1980s with a reconfigured core that included bassist Rick Wills.\n\nAfter leaving Foreigner, Gagliardi remained active in music and later formed the band Spys with former Foreigner keyboardist Al Greenwood. The project explored a more synth‑leaning rock approach aligned with early‑’80s production aesthetics, extending elements of the polished style that Foreigner had helped popularize.\n\nGagliardi’s tenure is often summarized briefly because it predates Foreigner’s biggest 1980s singles, but his role is foundational. The band’s debut identity—hard rock with pop precision—was built on a rhythm section that could deliver both weight and control, and he was part of that original engine.\n\nHe died on May 11, 2014, in Atlanta, Georgia, after an extended battle with cancer. The loss prompted renewed attention to Foreigner’s original lineup and the players who shaped the band before its most famous mid‑’80s era.\n\nIn 2024, Gagliardi was posthumously selected for induction into the Rock & Roll Hall of Fame as a member of Foreigner, recognizing the lasting importance of the band’s founding configuration. The honor reflects how decisively the earliest records established the group’s blueprint.\n\nGagliardi’s legacy within Foreigner is the sound of the starting line: the bassist who helped launch a band that would dominate classic‑rock radio for decades. The first two albums remain a key part of that story, and his playing is in their foundation.",
-            "Achievements": [
-              "Original bassist and founding member of Foreigner; appeared on the band’s first two albums.",
-              "Co‑founded Spys with Al Greenwood after leaving Foreigner.",
-              "Posthumously inducted into the Rock & Roll Hall of Fame (2024) as a member of Foreigner."
-            ],
+            "Biography": "Nate Mendel (born December 2, 1968) is the steady low‑end architect of Foo Fighters, known for bass lines that lock in with the drums while quietly guiding chord movement and dynamics. His style is less about flash and more about momentum—keeping songs driving, breathing, and building toward choruses that feel inevitable.\n\nBefore Foo Fighters, Mendel built his reputation in the emo‑leaning rock band Sunny Day Real Estate, a group whose mix of intensity and melody helped define a corner of 1990s alternative. The experience sharpened his sense of arrangement and ensemble interplay, skills that translated directly into arena‑scale rock later on.\n\nWhen Grohl expanded Foo Fighters from a studio project into a touring band, Mendel brought a working‑band professionalism that helped stabilize an evolving lineup. He became part of the core that could translate studio material into live power, night after night, while the band searched for its long‑term identity.\n\nOn records, Mendel’s bass often functions as the hidden hinge between riffs and vocal melodies, reinforcing hooks without crowding them. He’s particularly effective in the band’s loud‑soft dynamic: pulling back to create space in verses, then widening the sound for the chorus impact.\n\nIn the late ’90s and early 2000s, as Foo Fighters shifted from alternative‑radio success to full‑scale headliner status, Mendel’s role expanded into the unglamorous essentials—tempo discipline, consistent tone, and tight coordination with whichever drummer the band was working with at the time.\n\nHis musical life has never been limited to one band. Between Foo Fighters cycles he has remained active in related projects and collaborations, which reinforces his identity as a scene‑rooted player rather than a pure “session” utility—someone with a musical point of view shaped by communities and bands.\n\nLive, Mendel’s contribution becomes especially clear: he’s the connective thread that keeps extended outros and sing‑along sections grounded. When the band stretches songs for crowd energy, the bass anchors the motion so that the performance feels expansive but never loose.\n\nWithin Foo Fighters’ internal chemistry, Mendel is often described as part of the band’s calm center—reliable, low‑ego, and focused on the group result. That temperament matters in a long‑running touring institution, where stability is as important as inspiration.\n\nAs the band moved into later eras, balancing grief, resilience, and renewed creative focus, Mendel’s playing continued to reflect the same values: commitment to the song, commitment to the groove, and commitment to the ensemble as the real unit of power.\n\nTaken together, his career shows how “support” can be a signature. Mendel’s bass work doesn’t shout for attention, but it consistently turns Foo Fighters songs into durable structures—built to survive radio cycles, stadium volume, and decades of replay.",
             "Sources": [
               {
-                "Title": "Ed Gagliardi",
+                "Title": "Nate Mendel",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Ed_Gagliardi"
+                "Url": "https://en.wikipedia.org/wiki/Nate_Mendel"
               },
               {
-                "Title": "Original Foreigner bassist Ed Gagliardi dies at 62",
-                "Publisher": "Ultimate Classic Rock",
-                "Url": "https://ultimateclassicrock.com/ed-gagliardi-dies/"
+                "Title": "Nate Mendel — artist profile (member of Foo Fighters; associated acts)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/nate-mendel-mn0000315386"
               },
               {
-                "Title": "Foreigner (band)",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Foreigner_(band)"
+                "Title": "Foo Fighters — artist bio and group members",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/foo-fighters-mn0000184043"
               }
             ]
           }
         },
         {
-          "Name": "Rick Wills",
-          "YearsActive": "1979–1992",
-          "Roles": "Bassist",
-          "Instruments": "Bass guitar",
-          "Albums": [
-            "Head Games (1979)",
-            "4 (1981)",
-            "Agent Provocateur (1984)",
-            "Inside Information (1987)",
-            "Unusual Heat (1991)"
+          "Name": "Pat Smear",
+          "Roles": [
+            "rhythm guitar",
+            "backing vocals"
           ],
-          "Overview": "Longtime Foreigner bassist from the classic 1980s era, Wills played on major albums including 4 and Agent Provocateur after joining for Head Games.",
+          "Years": "1995–1997; 2005–present",
+          "Overview": "Punk‑scene pioneer whose rhythm guitar adds width and punch to the band’s live and studio sound across multiple eras.",
           "Bio": {
-            "BioID": "bio-rick-wills",
-            "ArtistID": "rick-wills",
-            "ArtistName": "Rick Wills",
-            "BirthName": "Richard William Wills",
-            "Birth": {
-              "Date": "December 5, 1947",
-              "Place": "Cambridge, England"
-            },
-            "Nationality": "English",
-            "Roles": [
-              "Bassist"
-            ],
+            "BioID": "bio-foo-fighters-pat-smear",
+            "ArtistID": "foo-fighters",
+            "ArtistName": "Foo Fighters",
+            "MemberName": "Pat Smear",
+            "FullName": "Georg Albert Ruthenberg",
             "PrimaryInstruments": [
-              "Bass guitar"
+              "guitar",
+              "backing vocals"
             ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "punk rock",
+              "alternative rock",
+              "post-grunge"
+            ],
+            "Birth": {
+              "Date": "1959-08-05",
+              "Place": "Los Angeles, California, U.S."
+            },
+            "ActiveYears": "1970s–present",
             "AssociatedActs": [
-              "Foreigner",
-              "Bad Company",
-              "Small Faces",
-              "Roxy Music"
+              "Foo Fighters",
+              "The Germs",
+              "Nirvana",
+              "45 Grave"
             ],
-            "Biography": "Richard William “Rick” Wills was born on December 5, 1947, in Cambridge, England, and came up through the British rock circuit during the 1960s. Early on, he developed a bassist’s mindset built around time, tone, and feel—skills that made him valuable in both studio and touring environments.\n\nBefore joining Foreigner, Wills played with a range of notable acts and projects, building a résumé that included work with bands and musicians across classic British rock’s broader ecosystem. That experience sharpened his adaptability and professionalism—traits essential for a group operating at arena scale.\n\nWills is also known for his association with Bad Company in the band’s later lineup, further underlining his ability to step into established catalogs and deliver steady, song‑first performances. His playing style emphasizes solidity and groove rather than flashy front‑of‑mix statements.\n\nHe joined Foreigner around the Head Games period (1979), stepping into a band already established as a major radio and touring force. The role demanded both precision and stamina: Foreigner’s songs relied on tight structures and punchy low‑end support, and the live shows required consistent power night after night.\n\nWills remained a key part of Foreigner’s classic 1980s era, appearing on major albums including 4 (1981) and Agent Provocateur (1984). His bass provided an anchor for songs that ranged from riff‑driven rockers to expansive ballads, helping the band maintain a unified feel even as production trends evolved.\n\nOn the 4 era in particular, Foreigner’s sound blended hard‑rock aggression with a sleeker, more modern studio sheen. Wills’s job was to keep the low end both punchy and controlled—supporting grooves like “Urgent” while still leaving space for vocals and signature instrumental lines.\n\nThrough Inside Information (1987) and into the early 1990s, he continued contributing to Foreigner’s recording and touring identity as the band navigated lineup changes and shifting radio climates. His presence in the rhythm section helped preserve continuity during transitional years.\n\nWills’s broader career reflects a classic sideman’s value at the highest level: the ability to join major acts, learn large catalogs, and deliver performances that sound authoritative and effortless. That reliability is often what keeps big rock productions functioning smoothly.\n\nForeigner’s induction into the Rock & Roll Hall of Fame in 2024 recognized the band’s classic‑era lineup, including Wills, as part of the story behind a catalog of enduring hits. The honor underscored how critical the rhythm section’s stability was to the band’s longevity.\n\nWills’s Foreigner legacy is heard in the band’s most iconic 1980s recordings: bass lines that don’t demand attention but make everything else hit harder. In arena rock, that kind of foundation is the difference between songs that simply play and songs that land.",
+            "KeyAlbums": [
+              "The Colour and the Shape",
+              "Wasting Light",
+              "But Here We Are"
+            ],
+            "KeySongs": [
+              "Everlong",
+              "My Hero",
+              "The Pretender",
+              "Walk"
+            ],
             "Achievements": [
-              "Longtime Foreigner bassist during the band’s classic 1980s era.",
-              "Performed on major albums including Head Games, 4, and Agent Provocateur.",
-              "Inducted into the Rock & Roll Hall of Fame (2024) as a member of Foreigner."
+              "Co‑founder of the Germs (L.A. punk landmark)",
+              "Touring guitarist for Nirvana (1993–1994)",
+              "Long‑running Foo Fighters guitarist across multiple eras"
             ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Pat_Smear",
+              "AllMusic": "https://www.allmusic.com/artist/pat-smear-mn0000180216"
+            },
+            "Biography": "Pat Smear (born Georg Albert Ruthenberg on August 5, 1959, in Los Angeles) bridges punk’s first wave and modern arena rock. He first made his name as a guitarist and co‑founder of the Germs, one of the most influential bands from the original L.A. punk scene, where immediacy mattered more than polish and intensity was the point.\n\nThat punk foundation shaped his playing: simple, forceful rhythm parts designed to propel songs and energize a room. Even when Foo Fighters move at stadium scale, Smear’s instincts remain rooted in the physical feel of rock—downstrokes, drive, and the kind of chord work that makes a band sound bigger than the sum of its parts.\n\nIn the early 1990s he also became known as a touring guitarist for Nirvana, joining late in the band’s run to help thicken the live sound. That role put him in direct musical proximity to Dave Grohl during a time when rock history was being written in real time.\n\nWhen Grohl formed Foo Fighters, Smear joined as the initial second guitarist, helping turn a set of personal recordings into a working band that could fill clubs and, eventually, arenas. His presence gave the early lineup a clear rock‑band silhouette: two guitars moving in parallel, with Smear’s rhythm work reinforcing the main riff and chorus lift.\n\nSmear’s relationship with Foo Fighters has included phases of stepping away and returning, but his imprint on the band’s identity is persistent. When he’s in the lineup, the guitars feel wider—chords become more physical, and the live sound gains an extra layer of punch and glue.\n\nBeyond technique, he contributes a particular energy onstage: joyful, slightly anarchic, and visibly rooted in the pleasure of loud music. That vibe matters in a band built on communal release, where the audience wants not just songs but a sense of shared catharsis.\n\nSmear also embodies the band’s lineage. Foo Fighters can sound like modern alternative, classic rock, and punk at once; Smear’s background makes that mix feel honest rather than calculated, as if the band is simply drawing from the music they lived through.\n\nIn studio contexts, his parts often do the subtle work: doubling a riff for thickness, holding chords that make the chorus explode, or providing texture that keeps arrangements from feeling thin. It’s the kind of contribution that’s easy to miss until it’s gone.\n\nAs Foo Fighters evolved through different producers, eras, and emotional climates, Smear remained a reminder of the band’s simplest mission: plug in, play hard, and make the room move. That through‑line connects the project’s earliest days to its present‑tense identity.\n\nTaken as a whole, Smear’s career is a rare arc—from punk’s ground floor to rock’s biggest stages—without losing the essential spirit that got him there: urgency, humor, and the belief that a great rhythm guitar part can be a song’s heartbeat.",
             "Sources": [
               {
-                "Title": "Rick Wills",
-                "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Rick_Wills"
+                "Title": "Pat Smear — artist bio and birth information",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/pat-smear-mn0000180216"
               },
               {
-                "Title": "Foreigner (band)",
+                "Title": "Pat Smear",
                 "Publisher": "Wikipedia",
-                "Url": "https://en.wikipedia.org/wiki/Foreigner_(band)"
+                "Url": "https://en.wikipedia.org/wiki/Pat_Smear"
               },
               {
-                "Title": "Which Foreigner Members Are Nominated for the Rock Hall?",
-                "Publisher": "Ultimate Classic Rock",
-                "Url": "https://ultimateclassicrock.com/foreigner-rock-hall-which-members/"
+                "Title": "Foo Fighters — artist bio and group members",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/foo-fighters-mn0000184043"
+              },
+              {
+                "Title": "Foo Fighters | Band, Members, Albums, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Foo-Fighters"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Chris Shiflett",
+          "Roles": [
+            "lead guitar",
+            "backing vocals"
+          ],
+          "Years": "1999–present",
+          "Overview": "Lead guitarist since the late ’90s, adding melodic structure and layered parts that translate into the band’s arena‑scale sound.",
+          "Bio": {
+            "BioID": "bio-foo-fighters-chris-shiflett",
+            "ArtistID": "foo-fighters",
+            "ArtistName": "Foo Fighters",
+            "MemberName": "Chris Shiflett",
+            "FullName": "Christopher Aubrey Shiflett",
+            "PrimaryInstruments": [
+              "guitar",
+              "backing vocals"
+            ],
+            "Occupations": [
+              "musician",
+              "songwriter"
+            ],
+            "Genres": [
+              "alternative rock",
+              "punk rock",
+              "americana"
+            ],
+            "Birth": {
+              "Date": "1971-05-06",
+              "Place": "Santa Barbara, California, U.S."
+            },
+            "ActiveYears": "1980s–present",
+            "AssociatedActs": [
+              "Foo Fighters",
+              "No Use for a Name",
+              "Me First and the Gimme Gimmes",
+              "Jackson United"
+            ],
+            "KeyAlbums": [
+              "One by One",
+              "Echoes, Silence, Patience & Grace",
+              "Wasting Light",
+              "But Here We Are"
+            ],
+            "KeySongs": [
+              "The Pretender",
+              "Best of You",
+              "All My Life",
+              "Walk"
+            ],
+            "Achievements": [
+              "Joined Foo Fighters as lead guitarist in the band’s headliner era",
+              "Maintained a parallel solo career showcasing broader songwriting influences"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Chris_Shiflett",
+              "AllMusic": "https://www.allmusic.com/artist/chris-shiflett-mn0000099082"
+            },
+            "Biography": "Chris Shiflett (born May 6, 1971, in Santa Barbara, California) is Foo Fighters’ long‑time lead guitarist and one of the band’s key melodic voices inside a wall‑of‑sound rock format. His playing balances precision and bite: riffs that hit hard, leads that sing, and rhythm work that stays tight even at stadium volume.\n\nBefore joining Foo Fighters, Shiflett built credibility in punk and alternative circles, notably with the band No Use for a Name. That background trained him in fast, clean execution and in the kind of relentless touring discipline that translates directly to a big‑stage rock institution.\n\nHe entered Foo Fighters around the turn of the millennium, arriving as the band was consolidating its identity as a headline act. His addition helped formalize the guitar architecture—creating a clear division between parts, harmonies, and layers that let songs feel massive without turning to mush.\n\nShiflett’s lead role is less about showy solos and more about arrangement intelligence. He frequently shapes the “second hook” of a song: a counter‑melody, a chiming figure, or a textured line that makes the chorus lift higher and the verses feel more dimensional.\n\nBecause Foo Fighters rely on communal energy, the guitar parts must be both muscular and memorable. Shiflett excels at that balance, drawing on punk economy while still delivering classic‑rock clarity when the moment calls for it.\n\nOutside the band, he has pursued a parallel identity as a songwriter and solo artist, leaning into country and Americana textures that reveal different instincts than his arena‑rock job requires. That outside writing expands his palette and can subtly enrich how he approaches melody and storytelling inside Foo Fighters.\n\nLive, Shiflett is a stabilizer. In a band that often extends songs and feeds off crowd response, his timing and tone keep the performance focused, and his harmonies and guitar layering help translate studio detail into a three‑dimensional concert sound.\n\nOver the long haul, he has become part of the core image of Foo Fighters: a musician who can thrive in a high‑profile rock machine while still sounding like a working guitarist grounded in craft and rehearsal rather than spectacle.\n\nHis career also illustrates how big‑band rock can stay human. Even as Foo Fighters fill arenas, Shiflett’s playing keeps a club‑band sense of momentum—tight, forward, and rooted in the physical feel of strings and amplifiers.\n\nIn Foo Fighters’ story, Shiflett represents the band’s maturation: the point where the project’s early chaos gave way to a confident, layered guitar identity capable of carrying songs for decades.",
+            "Sources": [
+              {
+                "Title": "Chris Shiflett — artist bio and birth information",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/chris-shiflett-mn0000099082"
+              },
+              {
+                "Title": "Chris Shiflett",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Chris_Shiflett"
+              },
+              {
+                "Title": "Foo Fighters — artist bio and group members",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/foo-fighters-mn0000184043"
+              },
+              {
+                "Title": "Chris Shiflett Music (official site)",
+                "Publisher": "Chris Shiflett",
+                "Url": "https://chrisshiflettmusic.com/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Taylor Hawkins",
+          "Roles": [
+            "drums",
+            "backing vocals"
+          ],
+          "Years": "1997–2022",
+          "Overview": "Long‑time drummer and vocalist whose power, feel, and personality defined Foo Fighters’ most enduring touring era.",
+          "Bio": {
+            "BioID": "bio-foo-fighters-taylor-hawkins",
+            "ArtistID": "foo-fighters",
+            "ArtistName": "Foo Fighters",
+            "MemberName": "Taylor Hawkins",
+            "FullName": "Oliver Taylor Hawkins",
+            "PrimaryInstruments": [
+              "drums",
+              "backing vocals"
+            ],
+            "Occupations": [
+              "musician",
+              "singer"
+            ],
+            "Genres": [
+              "alternative rock",
+              "hard rock"
+            ],
+            "Birth": {
+              "Date": "1972-02-17",
+              "Place": "Fort Worth, Texas, U.S."
+            },
+            "ActiveYears": "1990s–2022",
+            "AssociatedActs": [
+              "Foo Fighters",
+              "Taylor Hawkins & the Coattail Riders",
+              "NHC"
+            ],
+            "KeyAlbums": [
+              "There Is Nothing Left to Lose",
+              "One by One",
+              "Wasting Light",
+              "Concrete and Gold"
+            ],
+            "KeySongs": [
+              "Learn to Fly",
+              "Times Like These",
+              "Best of You",
+              "The Pretender"
+            ],
+            "Achievements": [
+              "Foo Fighters drummer and vocalist (1997–2022)",
+              "Helped define the band’s live reputation and long‑run lineup chemistry"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Taylor_Hawkins",
+              "AllMusic": "https://www.allmusic.com/artist/taylor-hawkins-mn0000011807"
+            },
+            "Biography": "Taylor Hawkins (February 17, 1972 – March 25, 2022) became the heartbeat of Foo Fighters for more than two decades, combining power, swing, and classic‑rock flair in a modern rock setting. His drumming could be brutally loud when needed, but it also carried bounce and musicality—turning songs into performances rather than mere timekeeping exercises.\n\nBorn in Fort Worth, Texas and raised in Southern California, Hawkins grew up on the kind of rock that prized feel: big drums, big choruses, and band chemistry. That influence later showed in his playing, which often nodded to 1970s rock without slipping into imitation.\n\nBefore Foo Fighters, he built experience in touring and session contexts, including high‑profile work as a drummer for a major pop‑rock artist. That job sharpened his professionalism and stage presence, preparing him for the intensity of large venues and long runs.\n\nHe joined Foo Fighters in 1997, arriving during a formative period when the band was still defining its long‑term lineup and sound. Hawkins quickly became central—not only as the drummer but also as a harmony singer and onstage foil to Grohl, helping turn concerts into a sense of shared joy rather than a strict frontman‑plus‑backing‑band arrangement.\n\nMusically, Hawkins brought a distinct internal groove. Where Foo Fighters could lean punk‑straight, he often added subtle swing or lift that made choruses feel more human and less mechanical. That feel, combined with his explosive fills, became part of the band’s signature live impact.\n\nIn the studio, his contributions extended beyond drums. He sang, helped shape arrangements, and influenced the band’s taste—often pushing toward classic‑rock references that reinforced Foo Fighters’ bridge between alternative rock and traditional rock grandeur.\n\nHawkins also maintained side projects that highlighted his love of straight‑ahead rock and songwriting, reinforcing that he wasn’t simply “the drummer,” but a bandleader‑minded musician with his own voice. Those outlets fed back into Foo Fighters by keeping the joy of rock‑and‑roll front and center.\n\nHis onstage personality mattered as much as his playing: visibly thrilled to be there, quick to laugh, and capable of turning a stadium crowd into something that felt like a huge club. That quality helped Foo Fighters sustain the marathon‑set reputation that defined their touring legacy.\n\nHawkins’ death in 2022 marked a profound rupture for the band and their audience. The grief was public, but so was the tribute: concerts and recordings became a way to honor a friend who helped define the band’s identity for a generation of fans.\n\nWithin Foo Fighters’ story, Hawkins represents the band’s most enduring era of chemistry. His drumming and spirit are inseparable from the way many listeners hear the group—an engine of groove, volume, and genuine love for the music.",
+            "Sources": [
+              {
+                "Title": "Taylor Hawkins — Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/taylor-hawkins-mn0000011807"
+              },
+              {
+                "Title": "Taylor Hawkins",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Taylor_Hawkins"
+              },
+              {
+                "Title": "Foo Fighters — artist bio and group members",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-foo-fighters-mn0000184043"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Rami Jaffee",
+          "Roles": [
+            "keyboards",
+            "piano"
+          ],
+          "Years": "2005–present (touring/session); 2015–present (full member)",
+          "Overview": "Keyboardist who broadened the band’s arrangements with organ, piano, and texture, especially in live settings.",
+          "Bio": {
+            "BioID": "bio-foo-fighters-rami-jaffee",
+            "ArtistID": "foo-fighters",
+            "ArtistName": "Foo Fighters",
+            "MemberName": "Rami Jaffee",
+            "FullName": "Rami Jaffee",
+            "PrimaryInstruments": [
+              "keyboards",
+              "piano",
+              "accordion"
+            ],
+            "Occupations": [
+              "musician"
+            ],
+            "Genres": [
+              "rock",
+              "alternative rock"
+            ],
+            "Birth": {
+              "Date": "1969-03-11",
+              "Place": "Los Angeles, California, U.S."
+            },
+            "ActiveYears": "1989–present",
+            "AssociatedActs": [
+              "Foo Fighters",
+              "The Wallflowers",
+              "Sound City Players"
+            ],
+            "KeyAlbums": [
+              "Echoes, Silence, Patience & Grace",
+              "Wasting Light",
+              "Concrete and Gold",
+              "But Here We Are"
+            ],
+            "KeySongs": [
+              "Best of You",
+              "The Pretender",
+              "Walk",
+              "Rescued"
+            ],
+            "Achievements": [
+              "Expanded Foo Fighters’ live and studio palette as touring/session keyboardist before becoming a full member"
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Rami_Jaffee",
+              "AllMusic": "https://www.allmusic.com/artist/rami-jaffee-mn0000331107",
+              "Official Site": "https://www.ramijaffee.com/"
+            },
+            "Biography": "Rami Jaffee (born March 11, 1969, in Los Angeles) is the keyboardist who quietly expanded Foo Fighters’ sonic vocabulary without changing the band’s essential identity. In a guitar‑forward group, his role is often about dimension—pads, organ swells, piano accents, and texture that make arrangements feel wider and more cinematic.\n\nBefore his Foo Fighters era, Jaffee was best known as a long‑time member of the Wallflowers, working through the 1990s alternative landscape in a band built on songcraft and roots‑leaning rock. That background trained him to support vocals and lyrics with tasteful harmonic choices rather than flashy solos.\n\nHe began working with Foo Fighters in a touring and session capacity in the mid‑2000s, adding keys to the live show at a time when the band’s setlists were growing and arrangements were becoming more layered. The keyboard parts helped reproduce studio nuance onstage and gave older songs new shading.\n\nOver time, Jaffee became more than an auxiliary musician. His consistency and musical empathy made him a natural fit for a band that prizes feel and ensemble trust, and he gradually moved from “extra layer” to a recognized part of the group’s identity.\n\nHis keyboard approach in Foo Fighters tends to be functional in the best sense: he fills the frequency gaps that guitars and bass can’t occupy, supports chord changes, and helps choruses feel bigger without making the mix busier. On certain tracks, a simple organ line or piano figure becomes the subtle hook that listeners feel more than notice.\n\nIn studio settings, he contributes to arrangement decisions—where to leave space, where to thicken, and when to let the guitars carry everything. That sensitivity is crucial in a band whose power comes from dynamics: the ability to go from intimate to explosive in a few bars.\n\nJaffee’s broader résumé includes collaborations and session work beyond his main bands, reinforcing his identity as a flexible, song‑first musician. That flexibility translates well to Foo Fighters, whose catalog spans punk‑leaning blasts, mid‑tempo anthems, and late‑career reflections.\n\nLive, he often operates as the glue between sections. When a song’s energy shifts—quiet verse to huge chorus, breakdown to final lift—keys can smooth the transition and keep momentum continuous. Jaffee’s parts help those pivots feel intentional rather than abrupt.\n\nAs Foo Fighters entered later eras shaped by loss and renewal, the band leaned into emotional clarity and catharsis. Jaffee’s textures support that mood, adding warmth and sustain that can turn a rock arrangement into something closer to a communal hymn.\n\nIn Foo Fighters’ story, Jaffee represents evolution without rupture: a musician who expanded what the band could sound like while still serving the same fundamental goal—songs that feel massive, human, and built for a room full of voices.",
+            "Sources": [
+              {
+                "Title": "Rami Jaffee — Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/rami-jaffee-mn0000331107"
+              },
+              {
+                "Title": "Rami Jaffee",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Rami_Jaffee"
+              },
+              {
+                "Title": "Foo Fighters — artist bio and group members",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-foo-fighters-mn0000184043"
+              },
+              {
+                "Title": "Rami Jaffee (official site)",
+                "Publisher": "Rami Jaffee",
+                "Url": "https://www.ramijaffee.com/"
               }
             ]
           }
@@ -1793,44 +1853,40 @@
       ],
       "NonCoreMembers": [
         {
-          "Name": "Kelly Hansen",
-          "YearsActive": "2005–2025",
-          "Roles": "Lead vocalist",
-          "Instruments": "Vocals",
-          "Albums": [
-            "Can’t Slow Down (2009)"
+          "Name": "William Goldsmith",
+          "Roles": [
+            "drums"
           ],
-          "Overview": "Joined Foreigner in 2005 and fronted the band’s touring lineup for two decades, helping keep the catalog active on the road into the 21st century. He announced his departure in 2025, with guitarist Luis Maldonado named as his successor."
-        },
-        {
-          "Name": "Luis Maldonado",
-          "YearsActive": "2021–present",
-          "Roles": "Guitarist; lead vocalist (from 2025)",
-          "Instruments": "Guitar; vocals",
+          "Years": "1995–1997",
+          "Instruments": [
+            "drums"
+          ],
           "Albums": [],
-          "Overview": "Joined Foreigner’s touring lineup as a guitarist in the early 2020s and was named the band’s next frontman in 2025, taking over lead vocals while continuing to play guitar."
+          "Replacing": "",
+          "ReplacedBy": "Taylor Hawkins",
+          "Overview": "Early Foo Fighters drummer who toured behind the debut and participated in the band’s early second‑album recording period before departing in 1997."
         },
         {
-          "Name": "Jeff Pilson",
-          "YearsActive": "2004–present",
-          "Roles": "Bassist; musical director",
-          "Instruments": "Bass guitar",
-          "Albums": [
-            "Can’t Slow Down (2009)"
+          "Name": "Franz Stahl",
+          "Roles": [
+            "guitar"
           ],
-          "Overview": "Best known for Dokken, Pilson joined Foreigner in the mid‑2000s and became a key on‑stage anchor and arranger, contributing to the band’s later recordings and touring continuity."
-        },
-        {
-          "Name": "Tom Gimbel",
-          "YearsActive": "1995–2022",
-          "Roles": "Multi-instrumentalist",
-          "Instruments": "Saxophone; guitar; keyboards",
-          "Albums": [
-            "Can’t Slow Down (2009)"
+          "Years": "1997–1999",
+          "Instruments": [
+            "guitar"
           ],
-          "Overview": "A longtime member who handled sax, guitar, and keyboards, helping translate Foreigner’s multi‑textured studio arrangements—especially the sax‑featured classics—into a modern live show."
+          "Albums": [],
+          "Replacing": "",
+          "ReplacedBy": "Chris Shiflett",
+          "Overview": "Late‑’90s guitarist whose short tenure coincided with the band’s lineup transition into its 1999 era."
         }
       ]
+    },
+    {
+      "ArtistID": "foreigner",
+      "Name": "Foreigner",
+      "CoreMembers": [],
+      "NonCoreMembers": []
     },
     {
       "ArtistID": "the-four-seasons",
