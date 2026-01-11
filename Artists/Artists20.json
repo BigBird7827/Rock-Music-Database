@@ -926,25 +926,485 @@
       "Name": "Wishbone Ash",
       "Type": "",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Torquay",
+        "Region": "Devon",
+        "Country": "England"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1969–present"
+      ],
+      "Genres": [
+        "Hard Rock",
+        "Progressive Rock",
+        "Blues Rock",
+        "Folk Rock",
+        "Album Rock"
+      ],
+      "Overview": "Wishbone Ash are an English rock band formed in 1969 in Torquay, Devon. Their calling card is the use of harmonized “twin‑lead” guitars—two lead players writing and performing interlocking melodic lines rather than dividing neatly into lead and rhythm roles. That approach, developed in the classic early lineup of Andy Powell, Ted Turner, Martin Turner, and Steve Upton, helped define a strand of 1970s album rock that could be heavy, melodic, and expansive at the same time.\n\nThe band’s early 1970s run produced their most celebrated work, including Argus (1972), which became their signature studio album and a UK Top 5 release, later earning UK gold certification. Live Dates (1973) captured their reputation as a strong concert band, and later albums such as There’s the Rub (1974) showed the twin‑guitar concept could survive major lineup change when Laurie Wisefield replaced Ted Turner. Across decades of touring and changing personnel, Wishbone Ash’s influence has often been discussed in connection with later dual‑guitar acts in hard rock and metal.",
+      "CoreMembers": [
+        {
+          "MemberID": "wishbone-ash-andy-powell",
+          "Name": "Andy Powell",
+          "Roles": [
+            "Lead Guitar",
+            "Rhythm Guitar",
+            "Vocals",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "YearsActive": [
+            "1969–present"
+          ],
+          "Albums": [
+            {
+              "Title": "Wishbone Ash",
+              "Year": 1970
+            },
+            {
+              "Title": "Pilgrimage",
+              "Year": 1971
+            },
+            {
+              "Title": "Argus",
+              "Year": 1972
+            },
+            {
+              "Title": "Live Dates",
+              "Year": 1973
+            },
+            {
+              "Title": "There’s the Rub",
+              "Year": 1974
+            }
+          ],
+          "Bio": {
+            "BioID": "wishbone-ash-andy-powell-bio",
+            "FullName": "Andrew Powell",
+            "Birth": {
+              "Date": "1950-02-19",
+              "Place": "Stepney, London, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Vocalist",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "FullText": "Andy Powell (born 19 February 1950 in Stepney, East London) is the founding guitarist and longest‑running member of Wishbone Ash, the British rock band widely associated with harmonized “twin‑lead” guitars. From the group’s formation in 1969 through decades of touring and recording, Powell has been the constant presence who plays, sings, and helps keep the band’s sound recognizable even as lineups changed. His style is usually described as melodic and song‑first: strong riffs and memorable themes are supported by carefully voiced harmony lines rather than guitar parts that exist only to show speed or flash.\n\nWishbone Ash’s identity was established as soon as Powell joined bassist‑vocalist Martin Turner and drummer Steve Upton. Instead of selecting a single guitarist, the band kept two finalists—Powell and David “Ted” Turner—and built the music around the conversation between their guitars. Powell and Ted Turner developed interlocking parts where one line leads and the other answers, or where both lines move together in harmony, creating a “two‑voice” melody that became the group’s signature. The approach is already clear on the early albums Wishbone Ash (1970) and Pilgrimage (1971), where extended arrangements still aim for tuneful, repeatable motifs.\n\nArgus (1972) is the band’s best‑known studio album and the recording most closely tied to Powell’s reputation. The album reached the UK Top 5 and was later certified gold in the UK, and it set a template for how twin‑lead guitars could function as the main melodic engine of a rock band. Songs associated with the record’s legacy—such as “The King Will Come,” “Blowin’ Free,” “Warrior,” and “Throw Down the Sword”—depend on Powell’s precise phrasing and on harmony lines that lift choruses and connect sections. Just as important, Powell’s parts are arranged to work in real time on stage, so the harmony writing is practical as well as dramatic.\n\nPowell’s role became even more central after Ted Turner’s departure in 1974. He preserved the twin‑lead identity by working with Laurie Wisefield, and the band moved into a smoother, American‑recorded sound on There’s the Rub (1974), produced by Bill Szymczyk. Live Dates (1973) also helped define the band’s reputation as a powerful concert act and later achieved UK silver status. Through the late 1970s and beyond, as musical fashions shifted and personnel changed, Powell remained the anchor who maintained arrangements and kept the classic material in rotation while also presenting new songs.\n\nOver time, Powell’s influence has often been discussed in connection with the many later bands that made harmonized dual guitars a core part of their sound. What makes his work durable is that the harmony writing is purposeful: lines are voiced for clarity, parts are shaped to serve the song, and the “second guitar” is treated as an equal melodic voice rather than background filler. As the sole continuous founding member, Powell’s long career with Wishbone Ash is a story of sustained craft and stewardship—keeping a distinctive musical approach alive across changing decades, audiences, and lineups.",
+            "Sources": [
+              {
+                "Title": "Andy Powell (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Andy_Powell_(musician)"
+              },
+              {
+                "Title": "Wishbone Ash",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Wishbone_Ash"
+              },
+              {
+                "Title": "Wishbone Ash — Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/wishbone-ash-mn0000424842/biography"
+              }
+            ]
+          }
+        },
+        {
+          "MemberID": "wishbone-ash-martin-turner",
+          "Name": "Martin Turner",
+          "Roles": [
+            "Bass Guitar",
+            "Lead Vocals",
+            "Backing Vocals",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "YearsActive": [
+            "1969–1980",
+            "1987–1991"
+          ],
+          "Albums": [
+            {
+              "Title": "Wishbone Ash",
+              "Year": 1970
+            },
+            {
+              "Title": "Pilgrimage",
+              "Year": 1971
+            },
+            {
+              "Title": "Argus",
+              "Year": 1972
+            },
+            {
+              "Title": "Live Dates",
+              "Year": 1973
+            }
+          ],
+          "Bio": {
+            "BioID": "wishbone-ash-martin-turner-bio",
+            "FullName": "Martin Turner",
+            "Birth": {
+              "Date": "1947-10-12",
+              "Place": "Torquay, Devon, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Bassist",
+              "Vocalist",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Bass",
+              "Vocals"
+            ],
+            "FullText": "Martin Turner (born 12 October 1947 in Torquay, Devon) is a founding member of Wishbone Ash and one of the key architects of the band’s early sound as a bassist, vocalist, and songwriter. Turner co‑founded the group with drummer Steve Upton in the late 1960s, and his melodic bass lines and vocal contributions helped shape the band’s blend of hard rock, folk‑tinged songwriting, and progressive‑leaning arrangements. In the classic early lineup, Turner’s bass often acts as a second melodic counterpoint to the guitars.\n\nBefore Wishbone Ash, Turner played in local Devon groups and worked closely with Upton in bands that preceded the Ash name. When Wishbone Ash formed in 1969, Turner and Upton made the unusual decision to keep two guitarists—Andy Powell and Ted Turner—and the resulting twin‑lead approach became the band’s trademark. Within that framework, Turner’s role was to provide both harmonic foundation and movement. He often wrote or co‑wrote material and contributed lead and harmony vocals, giving the early albums a broader vocal palette.\n\nTurner’s most visible legacy is tied to the band’s early‑1970s peak, especially Argus (1972). The album reached the UK Top 5, was later certified gold in the UK, and is widely regarded as Wishbone Ash’s signature studio work. Songs closely associated with the record’s reputation—such as “The King Will Come,” “Blowin’ Free,” and “Warrior”—show how Turner’s bass and vocal lines support the twin guitars while also adding a distinct melodic identity. The group’s live reputation from this era was captured on the 1973 live album Live Dates.\n\nTurner left Wishbone Ash in 1980, but he later returned for periods during the band’s later history, including the late‑1980s reunion era. Over the years he has also been active under his own name, performing and recording material connected to the Wishbone Ash catalog as well as solo work. His ongoing performances and projects have emphasized the importance of the early repertoire and the specific chemistry of the founding lineup. Across his career, Turner’s significance is not only as a founding member but as a songwriter‑performer whose bass and vocals were integral to the band’s classic sound.",
+            "Sources": [
+              {
+                "Title": "Martin Turner",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Martin_Turner"
+              },
+              {
+                "Title": "Wishbone Ash",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Wishbone_Ash"
+              },
+              {
+                "Title": "Wishbone Ash — Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/wishbone-ash-mn0000424842/biography"
+              }
+            ]
+          }
+        },
+        {
+          "MemberID": "wishbone-ash-ted-turner",
+          "Name": "Ted Turner",
+          "Roles": [
+            "Lead Guitar",
+            "Rhythm Guitar",
+            "Vocals",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "YearsActive": [
+            "1969–1974",
+            "1987–1990"
+          ],
+          "Albums": [
+            {
+              "Title": "Wishbone Ash",
+              "Year": 1970
+            },
+            {
+              "Title": "Pilgrimage",
+              "Year": 1971
+            },
+            {
+              "Title": "Argus",
+              "Year": 1972
+            },
+            {
+              "Title": "Live Dates",
+              "Year": 1973
+            }
+          ],
+          "Bio": {
+            "BioID": "wishbone-ash-ted-turner-bio",
+            "FullName": "David Ted Turner",
+            "Birth": {
+              "Date": "1949-06-20",
+              "Place": "Portsmouth, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Vocalist",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "FullText": "David \"Ted\" Turner (born 20 June 1949 in Portsmouth, England) is a guitarist and vocalist best known as a founding member of Wishbone Ash. Alongside Andy Powell, Turner helped establish the band’s signature twin‑lead guitar approach, in which two guitarists share the melodic role through harmonized lines and interlocking parts. Turner’s lyrical phrasing and ability to blend with a second lead voice were central to the band’s early recordings and to the style that later became common in dual‑guitar hard rock.\n\nWishbone Ash formed in 1969 when bassist‑vocalist Martin Turner and drummer Steve Upton decided to keep two guitarists rather than choose between finalists. That unusual decision created a built‑in musical conversation between Turner and Powell. The early records Wishbone Ash (1970) and Pilgrimage (1971) show Turner’s taste for melodic, clearly articulated lines that can shift into heavier tones without losing clarity. In extended passages, his role was rarely simple rhythm support; he shares the melodic spotlight with the other guitar.\n\nTurner’s most celebrated studio work with the band came on Argus (1972), the album that became Wishbone Ash’s defining statement. Argus reached the UK Top 5, was later certified gold in the UK, and helped fix the band’s identity in the public imagination. The record’s best‑known tracks are built around the way the two guitars move together, and Turner’s contribution is inseparable from that chemistry: harmonies are voiced so both lines remain distinct, and arrangements give each guitar moments to lead.\n\nTurner left Wishbone Ash in 1974 and was replaced by Laurie Wisefield, a change that kept the twin‑lead concept alive while shifting the band’s tone and direction. Turner later rejoined the group during the late‑1980s reunion era and remained involved for a period into the 1990s. Across his career, he has remained closely associated with the band’s classic era and with the precise, melodic guitar work that helped define the Wishbone Ash sound.",
+            "Sources": [
+              {
+                "Title": "Ted Turner (guitarist)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Ted_Turner_(guitarist)"
+              },
+              {
+                "Title": "Wishbone Ash",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Wishbone_Ash"
+              }
+            ]
+          }
+        },
+        {
+          "MemberID": "wishbone-ash-steve-upton",
+          "Name": "Steve Upton",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "YearsActive": [
+            "1969–1990"
+          ],
+          "Albums": [
+            {
+              "Title": "Wishbone Ash",
+              "Year": 1970
+            },
+            {
+              "Title": "Pilgrimage",
+              "Year": 1971
+            },
+            {
+              "Title": "Argus",
+              "Year": 1972
+            },
+            {
+              "Title": "Live Dates",
+              "Year": 1973
+            }
+          ],
+          "Bio": {
+            "BioID": "wishbone-ash-steve-upton-bio",
+            "FullName": "Steve Upton",
+            "Birth": {
+              "Date": "1949-11-30",
+              "Place": "Torquay, Devon, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Drummer"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "FullText": "Steve Upton (born 30 November 1949 in Torquay, Devon) is the founding drummer of Wishbone Ash. He co‑founded the band in 1969 with bassist‑vocalist Martin Turner and played through the group’s classic early‑1970s period, when Wishbone Ash became known for harmonized twin‑lead guitars and long, carefully arranged songs. Upton’s drumming is designed to keep those long forms coherent: he holds a steady pulse, marks section changes clearly, and supports dynamic builds so that the guitars have room to weave harmonies without the time feel shifting underneath them.\n\nUpton appears on the band’s best‑known early releases, including Argus (1972), which reached the UK Top 5 and was later certified gold in the UK, and on the celebrated live album Live Dates (1973), which later received UK silver certification. Across those recordings, his contribution is less about flash and more about structure and stamina—qualities that allow a twin‑guitar band to sound tight in the studio and dependable on stage. As a founding member, Upton’s legacy is tied to the rhythmic foundation that supports the band’s most famous twin‑guitar work.",
+            "Sources": [
+              {
+                "Title": "Wishbone Ash",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Wishbone_Ash"
+              },
+              {
+                "Title": "Steve Upton",
+                "Publisher": "Wishbone Ash (official site)",
+                "Url": "https://wishboneash.co.uk/steve-upton/"
+              }
+            ]
+          }
+        },
+        {
+          "MemberID": "wishbone-ash-laurie-wisefield",
+          "Name": "Laurie Wisefield",
+          "Roles": [
+            "Lead Guitar",
+            "Rhythm Guitar",
+            "Vocals"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "YearsActive": [
+            "1974–1985",
+            "1987–1993"
+          ],
+          "Albums": [
+            {
+              "Title": "There’s the Rub",
+              "Year": 1974
+            },
+            {
+              "Title": "Locked In",
+              "Year": 1976
+            },
+            {
+              "Title": "New England",
+              "Year": 1976
+            },
+            {
+              "Title": "No Smoke Without Fire",
+              "Year": 1978
+            }
+          ],
+          "Bio": {
+            "BioID": "wishbone-ash-laurie-wisefield-bio",
+            "FullName": "Laurence Wisefield",
+            "Birth": {
+              "Date": "1952-08-27",
+              "Place": "London, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Vocalist"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "FullText": "Laurie Wisefield (born 27 August 1952 in London) is an English guitarist and vocalist best known for his years as a member of Wishbone Ash and, later, as part of Thin Lizzy’s late‑1970s lineup. Wisefield joined Wishbone Ash in 1974, replacing founding guitarist Ted Turner, and his arrival allowed the band to keep its defining twin‑lead guitar identity intact while shifting toward a smoother, more American‑leaning rock sound. As a melodic player with a strong sense of phrasing, Wisefield became central to the band’s mid‑1970s sound.\n\nWisefield’s first work with Wishbone Ash appeared in the mid‑1970s, including There’s the Rub (1974), produced by Bill Szymczyk. The album is often cited as a key record of the Wisefield era and includes material that became concert staples, such as “Jail Bait.” Within the band’s format, Wisefield’s role was to be a true second lead voice, matching Andy Powell in harmony lines while also taking featured leads and contributing vocals. His playing helped keep the band’s two‑guitar sound tight and singable across both studio and stage.\n\nAfter leaving Wishbone Ash in the mid‑1980s, Wisefield’s profile expanded through association with Thin Lizzy, where he performed in the group’s later lineup. Across his career, he has also appeared in other projects and recordings, and his reputation is built on melodic, disciplined lead guitar rather than showy technique for its own sake. In the Wishbone Ash story, he is the key figure who proved the twin‑lead identity could survive a major lineup change, and his tenure is remembered as one of the band’s notable eras.",
+            "Sources": [
+              {
+                "Title": "Laurie Wisefield",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Laurie_Wisefield"
+              },
+              {
+                "Title": "Wishbone Ash",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Wishbone_Ash"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "John Wetton",
+          "Roles": [
+            "Bass Guitar",
+            "Vocals"
+          ],
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "YearsActive": [
+            "1980–1981"
+          ],
+          "Albums": [
+            {
+              "Title": "Number the Brave",
+              "Year": 1981
+            }
+          ]
+        },
+        {
+          "Name": "Trevor Bolder",
+          "Roles": [
+            "Bass Guitar"
+          ],
+          "Instruments": [
+            "Bass"
+          ],
+          "YearsActive": [
+            "1998–2002"
+          ],
+          "Albums": [
+            {
+              "Title": "Bare Bones",
+              "Year": 1999
+            }
+          ]
+        }
+      ],
+      "NotableAlbums": [
+        {
+          "Title": "Wishbone Ash",
+          "Year": 1970,
+          "Type": "Studio",
+          "Notes": "Debut album introducing the band’s early blend of blues‑rock and melodic twin guitars."
+        },
+        {
+          "Title": "Pilgrimage",
+          "Year": 1971,
+          "Type": "Studio",
+          "Notes": "Expanded arrangements and acoustic textures alongside extended electric passages."
+        },
+        {
+          "Title": "Argus",
+          "Year": 1972,
+          "Type": "Studio",
+          "Notes": "Signature studio album; UK Top 5 and later UK gold certification."
+        },
+        {
+          "Title": "Live Dates",
+          "Year": 1973,
+          "Type": "Live",
+          "Notes": "Breakthrough live set capturing the classic era; later UK silver certification."
+        },
+        {
+          "Title": "There’s the Rub",
+          "Year": 1974,
+          "Type": "Studio",
+          "Notes": "Major post‑Ted Turner album; produced by Bill Szymczyk; later UK silver certification."
+        }
+      ],
+      "KeySongs": [
+        "The King Will Come",
+        "Blowin’ Free",
+        "Warrior",
+        "Throw Down the Sword",
+        "Phoenix",
+        "Jail Bait"
+      ],
+      "Achievements": [
+        "Argus reached the UK Albums Chart Top 5 and later received a UK gold certification (BPI).",
+        "Live Dates later received a UK silver certification (BPI).",
+        "There’s the Rub later received a UK silver certification (BPI).",
+        "Widely credited as a key influence on later harmonized dual‑guitar styles in hard rock and heavy metal."
+      ],
+      "Influences": [
+        "British Blues",
+        "Hard Rock",
+        "Progressive Rock",
+        "Folk Rock"
+      ],
+      "LegacyImpact": "Wishbone Ash’s twin‑lead guitar approach became a blueprint for later dual‑guitar writing, demonstrating that harmonized leads could drive song structure rather than serving as occasional decoration. Their classic early‑1970s albums remain reference points for melodic, guitar‑centered rock, and the band’s long touring history—anchored by founding guitarist Andy Powell—helped keep that style in circulation across generations.",
       "ExternalLinks": {
         "Official Site": "",
         "Wikipedia": "",
         "Discography": ""
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Sources": [
+        {
+          "Title": "Wishbone Ash",
+          "Publisher": "Wikipedia",
+          "Url": "https://en.wikipedia.org/wiki/Wishbone_Ash"
+        },
+        {
+          "Title": "Wishbone Ash — Biography",
+          "Publisher": "AllMusic",
+          "Url": "https://www.allmusic.com/artist/wishbone-ash-mn0000424842/biography"
+        },
+        {
+          "Title": "Wishbone Ash — History",
+          "Publisher": "Wishbone Ash (official site)",
+          "Url": "https://wishboneash.co.uk/history/"
+        },
+        {
+          "Title": "Wishbone Ash’s Argus certified Gold in the UK",
+          "Publisher": "uDiscoverMusic",
+          "Url": "https://www.udiscovermusic.com/stories/wishbone-ash-argus-gold-certification/"
+        }
+      ],
+      "IsComplete": true
     },
     {
       "ArtistID": "xtc",
