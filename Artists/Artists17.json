@@ -1081,8 +1081,320 @@
     {
       "ArtistID": "steely-dan",
       "Name": "Steely Dan",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": "Los Angeles, California, United States",
+      "YearsActive": [
+        "1971–1981",
+        "1993–present"
+      ],
+      "Genres": [
+        "Jazz rock",
+        "Pop rock",
+        "Jazz fusion",
+        "Soft rock"
+      ],
+      "Labels": [
+        "ABC",
+        "MCA",
+        "Giant",
+        "Reprise",
+        "Warner Bros."
+      ],
+      "Overview": "Steely Dan began as the songwriting partnership of Donald Fagen and Walter Becker, who met while students at Bard College and moved into professional writing and recording work before emerging as one of the most distinctive American rock acts of the 1970s. After landing in Los Angeles in the early 1970s, they built Steely Dan around a rare combination: pop hooks and radio-ready choruses paired with jazz harmony, R&B phrasing, and lyrics that read like sharp short stories—wry, literate portraits of outsiders, hustlers, and late-night moral hangovers. Early records used a conventional band lineup, but as their ambitions grew they increasingly treated the studio as an instrument, refining arrangements and tones with meticulous care and drawing on elite session players to realize parts that were as precise as they were relaxed.\n\nThat perfectionist approach produced a run of albums that helped define an era of FM rock while quietly expanding what “rock” could contain. From the hits that broke them nationally (“Do It Again,” “Reelin’ in the Years,” “Rikki Don’t Lose That Number”) to the sleek, jazz-leaning architecture of Aja and the cool, late‑’70s nocturne of Gaucho, Steely Dan made sophistication feel inevitable rather than academic. The group stepped away after the early 1980s, but the catalog kept growing in stature—partly because the records rewarded close listening, and partly because the band’s blend of groove, harmonic color, and lyrical irony remained hard to imitate.\n\nFagen and Becker reunited for touring in the 1990s and returned to the studio with Two Against Nature, a comeback that won the GRAMMY for Album of the Year and affirmed that their standards hadn’t softened. They were inducted into the Rock & Roll Hall of Fame in 2001, and their songwriting partnership later received Songwriters Hall of Fame recognition. After Becker’s death in 2017, Steely Dan continued as a Fagen‑led touring entity, keeping the repertoire alive while the classic albums remain a benchmark for musicians who care about craft: how to balance the bite of satire with the warmth of melody, and how to make complexity feel effortless.",
+      "NotableAlbums": [
+        {
+          "Title": "Can't Buy a Thrill",
+          "Year": "1972",
+          "Notes": "Debut album that broke Steely Dan nationally, featuring early hits and establishing the Fagen/Becker writing partnership in a band format."
+        },
+        {
+          "Title": "Countdown to Ecstasy",
+          "Year": "1973",
+          "Notes": "A sharper, more road-tested follow‑up that hinted at the duo’s growing preference for sophisticated harmony and tightly plotted arrangements."
+        },
+        {
+          "Title": "Pretzel Logic",
+          "Year": "1974",
+          "Notes": "A pivotal record that broadened the palette and produced one of their signature singles while the band’s studio identity solidified."
+        },
+        {
+          "Title": "Aja",
+          "Year": "1977",
+          "Notes": "A high-water mark of jazz‑inflected studio craft and songwriting, widely regarded as a benchmark for production and musicianship in 1970s rock."
+        },
+        {
+          "Title": "Gaucho",
+          "Year": "1980",
+          "Notes": "A sleek, late‑night statement with a cool, meticulous sound that foreshadowed the duo stepping away from constant recording and touring."
+        },
+        {
+          "Title": "Two Against Nature",
+          "Year": "2000",
+          "Notes": "A comeback studio album that reaffirmed the duo’s standards and won the GRAMMY for Album of the Year."
+        },
+        {
+          "Title": "Everything Must Go",
+          "Year": "2003",
+          "Notes": "The final studio album released with Becker, maintaining the familiar Steely Dan blend of groove, harmony, and dry storytelling."
+        }
+      ],
+      "SignatureSongs": [
+        "Do It Again",
+        "Reelin' in the Years",
+        "Rikki Don't Lose That Number",
+        "Kid Charlemagne",
+        "Peg",
+        "Deacon Blues",
+        "Black Cow",
+        "Hey Nineteen",
+        "Babylon Sisters",
+        "Cousin Dupree"
+      ],
+      "Achievements": [
+        {
+          "Year": "2001",
+          "Title": "Rock & Roll Hall of Fame Induction",
+          "Details": "Inducted as a Performer; the Hall highlighted the duo’s cerebral songwriting and jazz‑pop synthesis."
+        },
+        {
+          "Year": "2001",
+          "Title": "GRAMMY Award — Album of the Year",
+          "Details": "Two Against Nature won Album of the Year at the 43rd GRAMMY Awards."
+        },
+        {
+          "Year": "2024",
+          "Title": "Songwriters Hall of Fame Induction (Fagen/Becker)",
+          "Details": "The Fagen/Becker catalog received Songwriters Hall of Fame recognition for enduring impact on popular songwriting."
+        }
+      ],
+      "KeyFacts": [
+        "Founded by Donald Fagen and Walter Becker, who met at Bard College in the late 1960s.",
+        "Became increasingly studio-centered, known for meticulous arrangements and use of elite session musicians.",
+        "Key 1970s peak includes Aja (1977) and Gaucho (1980), often cited for production and musicianship standards.",
+        "Returned to touring in the 1990s and released Two Against Nature (2000), which won GRAMMY Album of the Year.",
+        "Inducted into the Rock & Roll Hall of Fame in 2001.",
+        "Walter Becker died in 2017; Steely Dan continues as a touring act led by Donald Fagen."
+      ],
+      "ExternalLinks": {
+        "Official Site — Steely Dan": "https://www.steelydan.com/",
+        "Rock & Roll Hall of Fame — Steely Dan": "https://rockhall.com/inductees/steely-dan/",
+        "Encyclopaedia Britannica — Steely Dan": "https://www.britannica.com/topic/Steely-Dan",
+        "AllMusic — Steely Dan": "https://www.allmusic.com/artist/steely-dan-mn0000011707",
+        "GRAMMY.com — Steely Dan wins Album of the Year (2001)": "https://www.grammy.com/videos/steely-dan-wins-album-of-the-year-2001-grammys",
+        "Songwriters Hall of Fame — 2024 Gala (Steely Dan)": "https://www.songhall.org/shof-gala/2024-induction-awards-gala"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Donald Fagen",
+          "YearsActive": "1971–present",
+          "Roles": [
+            "co-founder",
+            "lead vocals",
+            "keyboards",
+            "songwriter",
+            "producer"
+          ],
+          "Instruments": [
+            "Keyboards",
+            "Piano",
+            "Vocals"
+          ],
+          "Albums": [
+            "Can't Buy a Thrill",
+            "Countdown to Ecstasy",
+            "Pretzel Logic",
+            "Aja",
+            "Gaucho",
+            "Two Against Nature",
+            "Everything Must Go"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "January 10, 1948",
+              "Place": "Passaic, New Jersey, United States"
+            },
+            "Nationality": "American",
+            "Overview": "Co-founder, lead vocalist, and primary keyboardist of Steely Dan; known for jazz‑inflected harmony, meticulous studio craft, and sharply observed, ironic storytelling.",
+            "FullText": "Donald Fagen (born January 10, 1948, in Passaic, New Jersey) became one of rock’s most distinctive writers and stylists by treating popular music as a meeting place for American forms—jazz, rhythm and blues, soul, Tin Pan Alley sophistication, and the sharp edge of post‑’60s irony. Even before Steely Dan had a name, Fagen was the kind of musician who listened like a composer: he cared about voicings, internal movement, and how a rhythm section could imply swing or funk without announcing itself. That ear for detail—along with a voice that sounded both conversational and slightly world‑weary—would become inseparable from the Steely Dan identity.\n\nFagen’s crucial partnership began at Bard College, where he met Walter Becker in the late 1960s. Their bond wasn’t built on a shared desire to front a band in the traditional sense; it was built on writing. They were attracted to the same things—harmonic color borrowed from jazz, the storytelling potential of R&B and blues, and a sensibility that could be funny and bleak in the same line. As they moved into the professional world—working as musicians and songwriters and eventually relocating to Los Angeles—they developed a method that would shape Steely Dan’s sound: Fagen and Becker would write as a unit, then build recordings by auditioning parts until the groove and the harmony locked into a specific, almost cinematic atmosphere.\n\nAs Steely Dan’s lead vocalist and primary keyboardist, Fagen served as the band’s narrator. His phrasing helped make the songs feel like monologues spoken from inside their characters—sometimes amused, sometimes suspicious, often self‑incriminating. The early records contained obvious radio singles, but even on those tracks Fagen’s instincts were clear: the chords tilted toward jazz, the rhythm guitars snapped like R&B, and the lyrics refused the era’s usual sincerity. By the middle of the 1970s, Steely Dan had evolved away from the identity of a touring rock band and toward an art‑studio model. Fagen and Becker increasingly used the best session musicians available, not to show off, but to capture exactly the feel they imagined—tight but not stiff, elegant but not polite.\n\nThat approach culminated in late‑’70s masterpieces, where Fagen’s keyboard textures and harmonic sense were central. Aja distilled their ambitions into songs that felt luxurious without losing grit: drums and bass that sat deep in the pocket, guitar and keyboards arranged like interlocking pieces, and melodies that could be sung on the first listen. Gaucho pushed the sound further toward nocturnal cool, with a more brittle sheen and a lyrical mood that often felt like the after‑party—beautiful surfaces with anxiety and regret just underneath. Through it all, Fagen’s role was not simply “singer” or “keyboard player.” He functioned as a producer’s producer: someone who understood how harmony, sound design, and performance could be tuned so that the record itself felt inevitable.\n\nAfter Steely Dan’s early‑’80s pause, Fagen’s solo work confirmed that the aesthetic was not an accident of band chemistry alone. Records like The Nightfly carried many Steely Dan virtues—precision, groove, and lyrical vantage points that looked back on American life with both affection and skepticism—while giving Fagen more room to explore his own voice as a composer. The solo catalog also reinforced what fans heard in Steely Dan: a musician who could honor classic forms while refusing nostalgia. He wasn’t trying to recreate jazz or R&B; he was using their grammar to write modern pop songs with unusual harmonic turns and unusually specific imagery.\n\nThe reunion years underscored another side of Fagen’s musicianship: his ability to translate studio complexity into a living band. Beginning in the 1990s, Steely Dan’s tours became a kind of rolling workshop for the catalog, with arrangements that highlighted the writing’s elasticity. The studio comeback Two Against Nature (released in 2000) proved that Fagen and Becker could still make new work that met their own standards. The album’s GRAMMY recognition—Album of the Year among other awards—was a public validation of craft in a moment dominated by very different pop currents, but the deeper point was artistic: Steely Dan could return without turning into a tribute to itself.\n\nFollowing Becker’s death in 2017, Fagen continued to lead Steely Dan as a touring entity, emphasizing continuity rather than reinvention. The decision mattered because the songs are built on nuance: subtle rhythmic pushes, harmonic shades, and vocal inflection. Keeping the repertoire alive meant keeping the craft alive—treating “Do It Again” or “Deacon Blues” not as museum pieces but as working arrangements that can still breathe. Fagen’s legacy, then, is both compositional and cultural. He helped make the case that rock could be witty without being shallow, harmonically rich without becoming inaccessible, and sonically immaculate without losing the human feeling inside the groove.\n\nIn the long view, Donald Fagen’s work sits in a rare space: popular music that invites casual enjoyment but rewards obsessive listening. His songs are full of character, implication, and carefully chosen musical details—proof that a three‑to‑six‑minute track can carry as much atmosphere and narrative as a short story. Whether in Steely Dan or as a solo artist, Fagen has remained a model for musicians who want complexity to feel effortless and intelligence to feel entertaining.\n\nFagen has often described himself as largely self‑taught on piano and voice, and accounts of his early career note that he wrestled with severe stage fright in the band’s first touring years. That tension—between the desire to make immaculate music and the discomfort of being a traditional frontman—helps explain Steely Dan’s pivot away from the road in the mid‑1970s and toward an intensely controlled studio process. Even when Steely Dan returned to touring decades later, the performances tended to emphasize ensemble precision and arrangement over rock‑star display, more like a revue of sophisticated songwriting than a gesture of youth culture.\n\nLyrically, Fagen’s voice is defined by irony and specificity. He writes about American dreams as if viewing them through city lights at 2 a.m.: attractive from a distance, complicated up close. Characters chase status, sex, or escape routes, and the songs rarely hand out moral lessons; instead they let the listener sit inside the consequences. That sensibility carried into his solo work, especially when he wrote about the textures of postwar and early‑’60s life—radio, suburbia, late‑night television, cocktail‑hour aspiration—without turning the period into pure nostalgia. It’s part of why the Steely Dan catalog remains current for new listeners: the writing is about behavior and self‑deception, not about a particular fashion.\n\nIn 2024, the Fagen/Becker partnership received Songwriters Hall of Fame recognition, another institutional marker of what musicians had long understood: these were songs built to last. Fagen’s impact can be heard in generations of artists who borrow Steely Dan’s harmonic palette, their deadpan vocal delivery, or their taste for storytelling that’s both cinematic and unsparing. Yet imitation rarely captures the core of his work—the way the music and the words collaborate to create a world. In Fagen’s best writing, the groove is the setting, the chords are the lighting, and the lyric is the camera that never blinks.",
+            "Sources": [
+              {
+                "Title": "Donald Fagen",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Donald-Fagen"
+              },
+              {
+                "Title": "Steely Dan",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/steely-dan/"
+              },
+              {
+                "Title": "Steely Dan",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Steely-Dan"
+              },
+              {
+                "Title": "Donald Fagen",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Donald_Fagen"
+              },
+              {
+                "Title": "43rd GRAMMY Awards — Album of the Year: Two Against Nature",
+                "Publisher": "GRAMMY.com",
+                "Url": "https://www.grammy.com/videos/steely-dan-wins-album-of-the-year-2001-grammys"
+              },
+              {
+                "Title": "2024 Induction & Awards Gala (Donald Fagen of Steely Dan)",
+                "Publisher": "Songwriters Hall of Fame",
+                "Url": "https://www.songhall.org/shof-gala/2024-induction-awards-gala"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Walter Becker",
+          "YearsActive": "1971–2017",
+          "Roles": [
+            "co-founder",
+            "guitar",
+            "bass",
+            "songwriter",
+            "producer"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Bass guitar",
+            "Vocals",
+            "Keyboards"
+          ],
+          "Albums": [
+            "Can't Buy a Thrill",
+            "Countdown to Ecstasy",
+            "Pretzel Logic",
+            "Aja",
+            "Gaucho",
+            "Two Against Nature",
+            "Everything Must Go"
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "February 20, 1950",
+              "Place": "New York, New York, United States"
+            },
+            "Death": {
+              "Date": "September 3, 2017",
+              "Place": "New York City, New York, United States"
+            },
+            "Nationality": "American",
+            "Overview": "Co-founder and co-writer of Steely Dan; a guitarist, bassist, and producer whose ear for groove, tone, and arrangement helped define the group’s studio-era excellence.",
+            "FullText": "Walter Becker (February 20, 1950 – September 3, 2017) was the quieter half of Steely Dan’s public image and one of the most influential musicians in American rock’s studio era. Best known as a guitarist, bassist, songwriter, and producer, Becker helped build a body of work that treated the pop record as a precision object—something you could dance to, sing along with, and still study like a score. If Steely Dan’s songs are remembered for their harmonic sophistication and sly narratives, Becker’s contribution was essential: a musician with a sharp ear for tone, rhythm, and arrangement, and a writer whose humor often arrived with a sting.\n\nBecker grew up in New York City (often associated with Queens) and developed an early, serious relationship with music before meeting Donald Fagen at Bard College in the late 1960s. At Bard, the partnership formed around shared tastes that weren’t common in the rock mainstream: jazz harmony, R&B groove, and a fascination with how American characters talk, brag, and rationalize their bad decisions. What began as a collegiate connection became a professional engine. As the pair moved into the orbit of the music business and eventually relocated to Los Angeles, Becker and Fagen worked as songwriters and players, refining the concept that would become Steely Dan: a band rooted in rock but built to accommodate far more complex musical language.\n\nIn Steely Dan’s early years, Becker played guitar and bass and helped shape the band’s rhythmic identity. His parts were rarely flashy for their own sake; they were designed to support the song’s attitude. A Becker guitar line might be angular and biting on one track and glassy and restrained on another, always in dialogue with the harmonic environment that he and Fagen wrote. As the band evolved, Becker also became a central figure in their production ethos. Steely Dan’s reputation for perfectionism wasn’t just a rumor—it was a working method. Becker and Fagen would audition musicians and takes, adjusting details until the pocket, the articulation, and the sound itself matched the imaginary record in their heads. That pursuit helped define a particular kind of 1970s excellence: studio craft that felt luxurious but never lazy.\n\nAlbums such as Aja and Gaucho show Becker’s strengths in full. The records are full of elite performances, but the point is how the parts fit: guitars and keyboards interlock, bass and drums land with surgical clarity, and the whole arrangement supports lyrics that are often morally ambiguous and emotionally compressed. Becker’s writing sensibility contributed to Steely Dan’s unique voice—songs that can be funny, stylish, and unsettling at once. Their characters often sound like they’re narrating their own downfall with a grin, and the music’s polish makes the darkness more vivid.\n\nAfter the original Steely Dan run slowed in the early 1980s, Becker continued working in ways that highlighted his breadth. He produced and collaborated with other artists and eventually released solo work that carried the Steely Dan fingerprint—dry humor, groove‑conscious writing, and a taste for harmonic twists—while leaning into his own perspective. His solo albums, including 11 Tracks of Whack and Circus Money, show a writer who enjoyed the strange corners of storytelling and who understood that “smooth” music can still be emotionally and intellectually jagged.\n\nThe Steely Dan reunion era, beginning with touring in the 1990s and culminating in new studio releases, reaffirmed Becker’s role as both musician and curator of a sound. Two Against Nature (2000) was not merely a comeback; it was a statement that the duo’s standards and wit were intact. The album’s GRAMMY triumph, including Album of the Year, placed Becker’s meticulous craft in front of an audience that may have only known the band from classic‑rock radio, and it reminded the industry that “adult” songwriting and studio rigor could still compete at the highest level.\n\nBecker was also recognized institutionally for that songwriting partnership. Steely Dan was inducted into the Rock & Roll Hall of Fame, and the Fagen/Becker catalog later received Songwriters Hall of Fame recognition—a fitting acknowledgment for writers whose songs are both immediately catchy and unusually durable. Their influence can be traced through generations of artists who borrow the Dan palette: extended chords, sophisticated changes, and grooves that sit between rock and jazz without committing fully to either.\n\nBecker’s final years included significant health struggles. After his death in September 2017, public statements from his family indicated that he died while being treated for an extremely aggressive form of esophageal cancer—an illness that progressed rapidly. The news prompted widespread tributes that emphasized not just his musicianship but his personality: incisive, funny, and unsentimental in a way that made the work sharper. Fagen also spoke of his intention to keep the music alive, underscoring how intertwined their partnership had been.\n\nToday, Walter Becker’s legacy is less about celebrity than about a standard. He helped define what it means for a rock record to be engineered and performed with jazz‑level discipline while still delivering pop satisfaction. In Steely Dan, he and Fagen proved that sophistication could be commercial if it was married to melody and groove—and that irony could be humane if it was anchored in real musical feeling. Becker’s playing and writing are embedded in the catalog’s DNA: the cool surface, the hidden bite, and the sense that every detail exists for a reason. For musicians, his work remains a masterclass in restraint, tone, and the art of making complexity sound easy.\n\nOutside of Steely Dan, Becker’s producer credit is an important part of the story because it shows how transferable his instincts were. He brought the same attention to groove, harmony, and sonic space to projects by other artists—often favoring performances that felt lived‑in rather than showy, and arrangements that left room for lyric and vocal character. Friends and collaborators have described him as a musician who listened first and spoke later, but who could be decisive once he heard the solution. That combination—patience, precision, and a dry sense of humor—mirrors the Steely Dan records themselves: cool on the surface, intensely considered underneath.\n\nBecker’s influence also persists because his “studio” approach never treated musicians as interchangeable parts. Even when Steely Dan used rotating players, the goal was not anonymity; it was the right voice for a specific musical sentence. That producer’s mindset—casting parts the way a director casts roles—helped Steely Dan make records that feel like complete worlds, full of small details that reward repeat listening. It is why Becker is often discussed not only as a guitarist or songwriter, but as an architect of recorded sound.",
+            "Sources": [
+              {
+                "Title": "Walter Becker",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Walter-Becker"
+              },
+              {
+                "Title": "Steely Dan",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Steely-Dan"
+              },
+              {
+                "Title": "Steely Dan",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/steely-dan/"
+              },
+              {
+                "Title": "Walter Becker",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Walter_Becker"
+              },
+              {
+                "Title": "Walter Becker's Widow Details Steely Dan Co-Founder's Swift Illness, Death",
+                "Publisher": "Rolling Stone",
+                "Url": "https://www.rollingstone.com/music/music-news/walter-beckers-widow-details-steely-dan-co-founders-swift-illness-death-120254/"
+              },
+              {
+                "Title": "Steely Dan, R.E.M., Timbaland, Hillary Lindsey and Dean Pitchford get into Songwriters Hall of Fame",
+                "Publisher": "AP News",
+                "Url": "https://apnews.com/article/a1c7fbe1d470f45414c9fe87f78ad787"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Denny Dias",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1971–1974 (early lineup / sessions)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Can't Buy a Thrill",
+            "Countdown to Ecstasy",
+            "Pretzel Logic"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Early guitarist associated with the band’s formative era as Steely Dan transitioned from a touring group toward a studio-centered model."
+        },
+        {
+          "Name": "Jeff \"Skunk\" Baxter",
+          "Roles": [
+            "guitar"
+          ],
+          "Years": "1972–1974 (early lineup / sessions)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            "Can't Buy a Thrill",
+            "Countdown to Ecstasy",
+            "Pretzel Logic"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Key early guitarist on the first phase of Steely Dan before the duo moved away from a fixed band lineup."
+        },
+        {
+          "Name": "Jim Hodder",
+          "Roles": [
+            "drums",
+            "vocals"
+          ],
+          "Years": "1971–1974 (early lineup)",
+          "Instruments": [
+            "Drums",
+            "Vocals"
+          ],
+          "Albums": [
+            "Can't Buy a Thrill",
+            "Countdown to Ecstasy"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Drummer and vocalist during the early touring years when Steely Dan operated as a more conventional rock band."
+        },
+        {
+          "Name": "David Palmer",
+          "Roles": [
+            "vocals"
+          ],
+          "Years": "1972–1973 (early lead vocals on select tracks)",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Can't Buy a Thrill"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Sang lead on select songs on the debut album during a period when Donald Fagen was reluctant to front the band full-time."
+        }
+      ]
     },
     {
       "ArtistID": "steppenwolf",
