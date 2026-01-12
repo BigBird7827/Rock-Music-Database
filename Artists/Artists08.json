@@ -2042,27 +2042,454 @@
     {
       "ArtistID": "the-guess-who",
       "Name": "The Guess Who",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Winnipeg",
+        "Region": "Manitoba",
+        "Country": "Canada"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1965–1975",
+        "1979",
+        "1983–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Hard rock",
+        "Psychedelic rock",
+        "Blues rock",
+        "Garage rock",
+        "Pop rock",
+        "Album rock"
+      ],
+      "Labels": [
+        "Nimbus 9",
+        "RCA Victor"
+      ],
+      "Overview": "The Guess Who are a Winnipeg-formed Canadian rock band whose late‑1960s and early‑1970s run turned them into one of the first homegrown groups to break through in the United States at a time when Canadian rock was still fighting for international visibility. The group evolved out of the local Chad Allan & the Expressions scene and the famous “Guess Who?” marketing stunt around their 1965 hit cover of “Shakin’ All Over” helped cement the name they would carry into their best‑known era. By 1969, with Burton Cummings out front as lead vocalist and keyboardist and Randy Bachman as the band’s key guitarist/songwriter, they hit the U.S. Top 10 with “These Eyes,” then followed with a run of radio staples that balanced riff‑driven rock with melodic pop instincts.\n\nTheir signature peak arrived with “American Woman,” a hard‑edged single credited to the classic lineup of Cummings, Bachman, Jim Kale, and Garry Peterson. The song reached No. 1 on the Billboard Hot 100 and became a defining statement of the band’s sound and cultural moment, while the album *American Woman* became their biggest U.S. LP success. Bachman departed in 1970 and the band continued with significant lineup changes, scoring additional hits including “Share the Land” and the novelty‑leaning “Clap for the Wolfman.” The original hitmaking band ceased activity in the mid‑1970s, but The Guess Who name continued in later decades through reunions and touring lineups, sometimes shadowed by disputes over the name’s use.\n\nIn Canada, their legacy has been formally recognized: the band was inducted into the Canadian Music Hall of Fame (1987) and received a star on Canada’s Walk of Fame (2001). Their catalog remains a cornerstone of classic‑rock radio, and their best‑known recordings still serve as a concise snapshot of how a regional band from Winnipeg helped push Canadian rock into the North American mainstream.",
+      "NotableAlbums": [
+        "Wheatfield Soul (1969)",
+        "Canned Wheat (1969)",
+        "American Woman (1970)",
+        "Share the Land (1970)",
+        "So Long, Bannatyne (1971)",
+        "Rockin’ (1972)",
+        "Artificial Paradise (1973)"
+      ],
+      "SignatureSongs": [
+        "Shakin’ All Over",
+        "These Eyes",
+        "Laughing",
+        "No Time",
+        "Undun",
+        "American Woman",
+        "No Sugar Tonight / New Mother Nature",
+        "Hand Me Down World",
+        "Share the Land",
+        "Albert Flasher",
+        "Clap for the Wolfman",
+        "No Rain"
+      ],
+      "Achievements": [
+        "“American Woman” reached No. 1 on the U.S. Billboard Hot 100 in 1970.",
+        "Inducted into the Canadian Music Hall of Fame (1987).",
+        "Received a star on Canada’s Walk of Fame (2001).",
+        "Multiple U.S. and Canadian charting singles spanning the late 1960s through the mid‑1970s, including “These Eyes,” “No Time,” and “Share the Land.”"
+      ],
+      "KeyFacts": [
+        "Formed in Winnipeg, Manitoba; the band’s roots trace back to Chad Allan & the Expressions and earlier name variations used in the early 1960s.",
+        "Breakthrough U.S. hit: “These Eyes” (1969), followed by “No Time” and “American Woman.”",
+        "Classic lineup widely associated with their peak success: Burton Cummings, Randy Bachman, Jim Kale, Garry Peterson.",
+        "Bachman left in 1970; subsequent lineups continued to chart with singles like “Share the Land” and “Clap for the Wolfman.”",
+        "The Guess Who brand persisted through later reunions and touring lineups, including periods of legal dispute over the name."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.theguesswho.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Guess_Who",
+        "Discography": "https://www.allmusic.com/artist/the-guess-who-mn0000061480/discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Burton Cummings",
+          "YearsActive": "1965–1975; 1983–present",
+          "Roles": "Lead vocals; keyboards; songwriter",
+          "Instruments": "Vocals; keyboards; guitar",
+          "Albums": [
+            "Wheatfield Soul (1969)",
+            "Canned Wheat (1969)",
+            "American Woman (1970)",
+            "Share the Land (1970)",
+            "So Long, Bannatyne (1971)"
+          ],
+          "Overview": "Lead singer and keyboardist who fronted The Guess Who through their most internationally successful era and remained the band’s defining voice.",
+          "Bio": {
+            "BioID": "the-guess-who-burton-cummings",
+            "FullName": "Burton Cummings",
+            "Birth": {
+              "Date": "1947-12-31",
+              "Place": "Winnipeg, Manitoba, Canada"
+            },
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Singer; songwriter; keyboardist; lead vocalist of The Guess Who during their peak era",
+            "Instruments": "Vocals; keyboards; occasional guitar",
+            "FullText": "Burton Lorne Cummings emerged from Winnipeg’s tight-knit early‑1960s scene to become one of the most recognizable voices in Canadian rock. Born in Winnipeg on December 31, 1947, he grew up in the city and entered music early through local R&B‑leaning groups before stepping into the band that would become The Guess Who. In early 1966, he joined Chad Allan & the Expressions as a keyboardist and vocalist, replacing departing keyboardist Bob Ashley. Within months, as founder Chad Allan moved on, Cummings became the primary lead singer—still a teenager—at the exact moment the group was transitioning from a regional hit act into a band aiming for international reach.\n\nThe group’s name itself was tied to a record‑company publicity stunt: their 1965 cover of “Shakin’ All Over” was promoted anonymously with the teasing prompt “Guess Who?” and the tag stuck. Under Cummings’ co‑leadership with guitarist Randy Bachman, the band refined an approach that could punch hard like garage and blues rock while still delivering radio‑ready melodies. Cummings’ voice—clear, urgent, and capable of both grit and pop warmth—became the signature element that carried The Guess Who from Canadian success to U.S. chart presence.\n\nBetween 1969 and the mid‑1970s, Cummings fronted the band’s defining run. The U.S. Top 10 breakthrough “These Eyes” showcased his ability to sell a romantic lyric with a soul‑inflected intensity, and the follow‑ups “Laughing,” “Undun,” and “No Time” kept the band in heavy rotation. The apex was “American Woman,” a riff‑driven song credited to the core lineup (Cummings, Bachman, Jim Kale, Garry Peterson) that reached No. 1 on the U.S. Billboard Hot 100 in 1970. While Bachman’s guitar work was central, Cummings’ vocal—urgent, slightly snarling, and unmistakably North American—helped turn the track into a lasting classic‑rock pillar. The *American Woman* album also became the band’s most successful U.S. LP, giving Cummings the kind of international platform few Canadian singers had enjoyed at the time.\n\nAfter Bachman departed in 1970, Cummings stayed and guided The Guess Who through a new phase with shifting lineups. The band continued to chart with songs such as “Share the Land,” “Albert Flasher,” and later “Clap for the Wolfman,” demonstrating that the group could survive without its founding guitarist—even if the chemistry and direction evolved. As the 1970s progressed, Cummings became increasingly dissatisfied with the band’s trajectory and the pressures of constant touring, and he left in 1975, effectively ending the group’s classic era.\n\nCummings then built a substantial solo career, releasing albums that leaned more openly into pop and adult‑oriented rock while still drawing on the same disciplined songwriting and performance instincts that had fueled The Guess Who. His solo hits and steady touring reinforced that he was not simply the voice of a famous band, but a durable Canadian artist with his own catalog and identity. Over time he also participated in various reunion projects and collaborations, including work associated with the Bachman‑Cummings partnership, while maintaining a separate solo profile.\n\nHis recognition in Canada is extensive and unusually broad: he has been associated with major national honors and industry awards, and his impact is often framed as foundational—helping prove that a Canadian rock act could compete on the same charts as American and British contemporaries. The Guess Who’s induction into the Canadian Music Hall of Fame and their star on Canada’s Walk of Fame reflect that national stature, and Cummings himself has been honored for songwriting and performance achievements beyond the band. Taken together, his career traces a through‑line from local Winnipeg clubs to international chart history, with the voice of “These Eyes” and “American Woman” remaining the central thread.\n\nIn the context of The Guess Who, Cummings’ role is inseparable from the band’s peak: he was the frontman audiences recognized, the keyboardist who helped shape arrangements, and a key songwriter/co‑writer on the catalog that still defines the group. Even as later decades saw competing versions of the band name and complex disputes over legacy, Cummings’ tenure from the mid‑1960s through 1975 remains the period most listeners mean when they say “The Guess Who,” and his performances continue to define how those songs are heard.",
+            "HonoursAndMilestones": [
+              "Fronted The Guess Who’s breakthrough U.S. run, including “These Eyes,” “No Time,” and “American Woman.”",
+              "As a member of The Guess Who, inducted into the Canadian Music Hall of Fame (1987) and received a star on Canada’s Walk of Fame (2001)."
+            ],
+            "FunFacts": [
+              "Joined the band that became The Guess Who as a teenager and became lead vocalist shortly thereafter.",
+              "Often cited as a defining voice of Canadian classic rock, bridging pop melody and hard‑rock attitude."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Burton Cummings",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Burton_Cummings"
+              },
+              {
+                "Title": "Burton Cummings",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Burton-Cummings"
+              },
+              {
+                "Title": "Biography",
+                "Publisher": "BurtonCummings.com",
+                "Url": "https://www.burtoncummings.com/biography"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Canadian Music Hall of Fame",
+                "Url": "https://canadianmusichalloffame.ca/inductee/the-guess-who/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Randy Bachman",
+          "YearsActive": "1965–1970; select reunions",
+          "Roles": "Guitar; vocals; songwriter",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            "Wheatfield Soul (1969)",
+            "Canned Wheat (1969)",
+            "American Woman (1970)"
+          ],
+          "Overview": "Founding guitarist and key early songwriter whose riff‑driven approach helped propel the band to U.S. success before he left in 1970.",
+          "Bio": {
+            "BioID": "the-guess-who-randy-bachman",
+            "FullName": "Randy Bachman",
+            "Birth": {
+              "Date": "1943-09-27",
+              "Place": "Winnipeg, Manitoba, Canada"
+            },
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Guitarist; singer; songwriter; founding member of The Guess Who; founder of Bachman‑Turner Overdrive",
+            "Instruments": "Guitar; vocals",
+            "FullText": "Randy Bachman is a Winnipeg‑born guitarist and songwriter whose early career helped define both The Guess Who’s rise and the broader template for Canadian rock success in the United States. Born Randolph Charles Bachman on September 27, 1943, he grew up in Winnipeg and developed musical skills early—first through formal violin study and then through a deepening fascination with guitar. By the early 1960s he was active in the city’s band circuit, where British‑Invasion energy mixed with North American R&B and garage rock, and he quickly earned a reputation as a player with sharp timing, clean melodic instincts, and an ear for hooks.\n\nBachman became a foundational figure in the group that evolved into The Guess Who. In the pre‑Guess Who era, the band worked under several names, and their 1965 Canadian hit cover of “Shakin’ All Over” was propelled by a marketing tease—“Guess Who?”—that effectively branded the act. As the group’s sound matured, Bachman’s guitar and songwriting became central. When Burton Cummings joined in 1966 and soon assumed lead vocal duties, the Bachman‑Cummings partnership provided a durable engine: Bachman often supplied guitar‑driven frameworks and song concepts, while Cummings’ voice and keyboard arrangements helped broaden the band’s appeal.\n\nThe band’s U.S. breakthrough era (1969–1970) aligns closely with Bachman’s most visible Guess Who work. Songs like “These Eyes,” “No Time,” and “Undun” display a balance between pop melody and rock punch, while “American Woman” captured a heavier, riff‑centric stance that translated decisively to the U.S. market. “American Woman” reached No. 1 on the Billboard Hot 100, and its writing credit—shared by Bachman, Cummings, Jim Kale, and Garry Peterson—reflects how the classic lineup could translate live improvisation into a definitive studio single. Bachman’s guitar contribution to that track, built around a forceful descending riff, remains one of the most recognizable motifs in classic rock.\n\nIn July 1970, Bachman left The Guess Who. The split has been framed in multiple ways over the years—creative direction, touring pressures, and personal priorities—but the practical effect was clear: The Guess Who entered a new lineup era, while Bachman pivoted into projects that would become equally impactful. He formed Brave Belt, which evolved into Bachman‑Turner Overdrive (BTO), a band that delivered major 1970s hits and made Bachman one of the few Canadian musicians to anchor two internationally successful rock brands. BTO’s “Takin’ Care of Business” and “You Ain’t Seen Nothing Yet” extended his reputation as a maker of riffs built for arenas and radio.\n\nAcross subsequent decades, Bachman’s career expanded beyond band leadership into solo work, collaborations, and media. He remained a public figure in Canadian music, including a long association with radio as a personality and curator, and he periodically returned to The Guess Who orbit through reunion appearances. His name is also tied to the continuing cultural story of Winnipeg rock: a city that produced a wave of musicians who helped establish a distinct Canadian presence within North American rock. Bachman’s later touring and recording kept him visible not merely as a legacy act, but as an active guitarist with ongoing projects.\n\nBachman’s role in The Guess Who is historically concentrated but disproportionately influential. He helped shape the band’s songwriting and guitar identity at the moment they crossed from Canadian hitmakers to U.S. chart contenders, and his departure in 1970 marks a clear dividing line in the band’s sound. Even so, The Guess Who continued to chart after he left, underscoring that the group had depth—but the Bachman years remain the period most associated with the band’s most iconic singles.\n\nBeyond musical output, his career is often used as a case study in sustainable rock authorship: he repeatedly built songs around strong central ideas, then arranged them so the hook landed fast and clearly. That approach is audible in the Guess Who catalog as much as in BTO’s. For listeners, Bachman is the connective tissue between “These Eyes” and “Takin’ Care of Business”—two different flavors of rock success tied together by a guitarist who understood how to turn band energy into a three‑minute statement. In the context of classic rock, that skill remains his defining contribution.",
+            "HonoursAndMilestones": [
+              "Co-led The Guess Who’s rise to U.S. success and co-wrote major hits including “These Eyes,” “No Time,” and “American Woman.”",
+              "Formed Bachman‑Turner Overdrive after leaving The Guess Who, scoring additional international hits in the 1970s."
+            ],
+            "FunFacts": [
+              "Bachman’s career includes two globally recognized classic‑rock catalogs: The Guess Who and Bachman‑Turner Overdrive.",
+              "Frequently cited as one of the key guitarists and songwriters in the history of Canadian rock."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Randy Bachman",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Randy_Bachman"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Canada’s Walk of Fame",
+                "Url": "https://www.canadaswalkoffame.com/inductees/the-guess-who/"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Canadian Music Hall of Fame",
+                "Url": "https://canadianmusichalloffame.ca/inductee/the-guess-who/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jim Kale",
+          "YearsActive": "1962–1972; select reunions",
+          "Roles": "Bass; songwriter",
+          "Instruments": "Bass guitar",
+          "Albums": [
+            "Wheatfield Soul (1969)",
+            "Canned Wheat (1969)",
+            "American Woman (1970)",
+            "Live at the Paramount (1972)"
+          ],
+          "Overview": "Original bassist whose steady, song‑serving playing anchored the band’s classic lineup and helped define their late‑1960s/early‑1970s sound.",
+          "Bio": {
+            "BioID": "the-guess-who-jim-kale",
+            "FullName": "Jim Kale",
+            "Birth": {
+              "Date": "1943-08-11",
+              "Place": "Winnipeg, Manitoba, Canada"
+            },
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Bassist; original member of The Guess Who",
+            "Instruments": "Bass guitar",
+            "FullText": "Jim Kale is the original bassist most closely associated with The Guess Who’s formative years and their late‑1960s breakthrough, anchoring the rhythm section through the period when the band evolved from a Winnipeg club act into an international charting name. Born Michael James Kale on August 11, 1943 in Winnipeg, Manitoba, he entered the local scene early and joined the group that would become The Guess Who in the early 1960s, when it was still working through name changes and a rotating cast. As with many bands of the era, the transition from local popularity to a distinct recording identity happened gradually—built on singles, touring, and the slow emergence of a stable lineup.\n\nKale’s bass work is central to the band’s classic sound: supportive, direct, and designed to lock with Garry Peterson’s drumming while leaving space for Randy Bachman’s guitar riffs and Burton Cummings’ vocals and keyboards. As the group moved from the “Guess Who?” publicity era into major U.S. chart success, Kale remained a constant on stage and in the studio. He appeared on the core run of albums and singles that define the group’s legacy, including the stretch that produced “These Eyes,” “No Time,” and “American Woman.”\n\n“American Woman” is the clearest snapshot of the classic lineup’s collective impact. The song’s writing credit is shared across Cummings, Bachman, Kale, and Peterson, reflecting its development through band performance and arrangement. Kale’s role in that context is often underappreciated: the track’s heaviness depends on a bass foundation that reinforces the riff and keeps the groove driving forward as the song shifts between swaggering verses and explosive chorus sections. In classic rock, the bass line is not flashy—but it is essential to why the record hits as hard as it does.\n\nKale’s tenure with the band’s original hitmaking unit ended in the early 1970s; he is widely associated with the Guess Who up to 1972, after which the group’s personnel continued to shift. After leaving the main line of the band’s activity, he remained active in music and later became tied to the complex legacy of the Guess Who name in subsequent decades, including periods when the brand was used by touring lineups without the classic frontman and guitarist. Those later chapters are often discussed in the context of trademark and legacy disputes, but Kale’s historical importance is secure in the earlier years: he is one of the players who built the foundation for a Canadian band to score major U.S. hits in the late 1960s and early 1970s.\n\nIn formal recognition of that impact, Kale was inducted into the Canadian Music Hall of Fame as a member of The Guess Who in 1987. That honor places him alongside Cummings, Bachman, Peterson and the rest of the group’s classic-era story in Canada’s official music history. While public attention often focuses on lead vocals and guitar heroes, Kale’s long run as bassist during the band’s breakthrough era is part of what allowed the Guess Who to function as a coherent, road‑tested unit.\n\nFor listeners revisiting the catalog, Kale’s contribution is best heard in how the band’s records “sit” rhythmically. Whether on the pop‑leaning groove of “These Eyes,” the urgent push of “No Time,” or the heavier swagger of “American Woman,” the bass and drums keep the band grounded and make the hooks land with weight. In a group that balanced pop melody and rock attack, that kind of foundation was not optional—it was the spine. Kale’s career with The Guess Who is, in that sense, a reminder that band history is often written around the front line, but sustained by the rhythm section.",
+            "HonoursAndMilestones": [
+              "Member of The Guess Who’s classic lineup associated with their major U.S. hits in the late 1960s and early 1970s.",
+              "Inducted into the Canadian Music Hall of Fame as a member of The Guess Who (1987)."
+            ],
+            "FunFacts": [
+              "Received a shared songwriting credit on “American Woman,” reflecting the track’s band‑built origins.",
+              "Often cited as part of the definitive rhythm section with drummer Garry Peterson."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Jim Kale",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jim_Kale"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Canadian Music Hall of Fame",
+                "Url": "https://canadianmusichalloffame.ca/inductee/the-guess-who/"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Guess_Who"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Garry Peterson",
+          "YearsActive": "1962–1975; select reunions",
+          "Roles": "Drums; songwriter",
+          "Instruments": "Drums",
+          "Albums": [
+            "Wheatfield Soul (1969)",
+            "Canned Wheat (1969)",
+            "American Woman (1970)",
+            "Share the Land (1970)"
+          ],
+          "Overview": "Founding drummer and long‑running rhythmic anchor of the band, credited on “American Woman” and central to the group’s most durable recordings.",
+          "Bio": {
+            "BioID": "the-guess-who-garry-peterson",
+            "FullName": "Garry Peterson",
+            "Birth": {
+              "Date": "1945-05-26",
+              "Place": "Winnipeg, Manitoba, Canada"
+            },
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Drummer; founding member of The Guess Who",
+            "Instruments": "Drums",
+            "FullText": "Garry Peterson is the drummer most consistently tied to The Guess Who’s identity, and his playing helped the band translate Winnipeg club energy into records that could compete on North American radio. Born Garry Denis Peterson on May 26, 1945, in Winnipeg, he is often described as a child prodigy drummer, with early professional experience that gave him unusual command of timing and dynamics by the time he entered the rock‑band world. By the early 1960s he was active in the same local scene that produced Chad Allan & the Expressions and the musicians who would become The Guess Who.\n\nPeterson’s drumming sits at the intersection of pop efficiency and rock force. In The Guess Who’s breakthrough era, that balance was crucial: the band needed tight, radio‑friendly grooves for songs like “These Eyes,” but also the ability to hit hard when the material turned riff‑driven and heavier. Peterson’s playing did both. He could keep the backbeat steady and unshowy when the song demanded clarity, then add fills and accents that pushed choruses forward without muddying the hook. That musical discipline is a major reason the Guess Who catalog still feels “clean” and punchy decades later.\n\nThe band’s defining moment, “American Woman,” shows Peterson at his most impactful. The track’s writing credit includes the full classic lineup—Burton Cummings, Randy Bachman, Jim Kale, and Peterson—highlighting that its final form came from band interplay as much as individual authorship. On the record, Peterson’s drumming supports the main riff with a heavy, driving feel that gives the song its sense of momentum, while subtle changes in intensity help the arrangement build toward each chorus. It is a performance designed to make a riff sound larger than life, which is exactly what the song needed to become a No. 1 single.\n\nAcross the late 1960s and early 1970s, Peterson remained the rhythmic constant as the band’s front line evolved. He was present through the major singles and albums that made The Guess Who a staple, and he continued through later lineup changes after Randy Bachman left in 1970. When the band’s classic era ended in the mid‑1970s, Peterson’s association with the group did not vanish; he participated in reunions and remained linked to the name in subsequent decades, including touring periods that emphasized the Guess Who brand.\n\nBecause of that long association, Peterson’s legacy includes both the celebrated classic‑hit era and the complicated afterlife of a famous band name. Public discussion of the later decades sometimes focuses on legal or brand disputes, but Peterson’s musical importance is anchored in the earlier recordings: he is the drummer on the songs that define the group in classic rock memory. In formal recognition, The Guess Who’s original members were inducted into the Canadian Music Hall of Fame in 1987, and the band received a star on Canada’s Walk of Fame in 2001—honors that place Peterson’s work within Canada’s cultural record.\n\nListening back to the catalog, Peterson’s contributions are best appreciated in the details: the way “These Eyes” breathes with a controlled groove, the way “No Time” pushes forward with urgency, and the way “American Woman” hits with confidence and weight. Those qualities are not accidental. They reflect a drummer who understood that, for rock records to last, the groove has to be dependable enough for radio but alive enough to feel like a band playing in a room. That combination—steadiness plus personality—is the core of Peterson’s drumming and a major reason The Guess Who’s best‑known tracks still translate.",
+            "HonoursAndMilestones": [
+              "Member of The Guess Who’s classic lineup credited on “American Woman,” a No. 1 U.S. Billboard Hot 100 single (1970).",
+              "Inducted into the Canadian Music Hall of Fame as a member of The Guess Who (1987)."
+            ],
+            "FunFacts": [
+              "Frequently described as a child prodigy drummer, with professional performance experience from a very young age.",
+              "Maintained long association with The Guess Who name through multiple eras of touring and reunions."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Garry Peterson",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Garry_Peterson"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Canadian Music Hall of Fame",
+                "Url": "https://canadianmusichalloffame.ca/inductee/the-guess-who/"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Canada’s Walk of Fame",
+                "Url": "https://www.canadaswalkoffame.com/inductees/the-guess-who/"
+              },
+              {
+                "Title": "American Woman",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/American_Woman"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Chad Allan",
+          "YearsActive": "1958–1968 (band roots); 1965–1966 (Guess Who era)",
+          "Roles": "Vocals; guitar; founder/early leader",
+          "Instruments": "Vocals; guitar",
+          "Albums": [
+            "Shakin’ All Over (single, 1965)"
+          ],
+          "Overview": "Founding singer and guitarist from the band’s pre‑Guess Who incarnations; closely associated with the early “Shakin’ All Over” breakthrough and the name’s transition years.",
+          "Bio": {
+            "BioID": "the-guess-who-chad-allan",
+            "FullName": "Chad Allan",
+            "Birth": null,
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Singer; guitarist; founder/early leader in the band’s Winnipeg roots",
+            "Instruments": "Vocals; guitar",
+            "FullText": "Chad Allan was the early frontman whose Winnipeg group evolved through multiple names before the “Guess Who?” branding took hold. He is closely linked to the mid‑1960s breakthrough around “Shakin’ All Over,” after which the band’s lineup shifted and Burton Cummings became the primary lead singer.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Canada’s Walk of Fame",
+                "Url": "https://www.canadaswalkoffame.com/inductees/the-guess-who/"
+              },
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Guess_Who"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Kurt Winter",
+          "YearsActive": "1970–1974",
+          "Roles": "Guitar; vocals; songwriter",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            "Share the Land (1970)",
+            "So Long, Bannatyne (1971)",
+            "Rockin’ (1972)"
+          ],
+          "Overview": "Joined after Randy Bachman’s departure and helped steer the band’s early‑1970s lineup through continued U.S. charting singles and albums.",
+          "Bio": {
+            "BioID": "the-guess-who-kurt-winter",
+            "FullName": "Kurt Winter",
+            "Birth": null,
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Guitarist; singer; songwriter for The Guess Who in the early 1970s",
+            "Instruments": "Guitar; vocals",
+            "FullText": "Kurt Winter joined The Guess Who following Randy Bachman’s 1970 exit, contributing guitar and songwriting in the band’s early‑1970s configuration. His era includes the *Share the Land* period and the continuation of the group’s U.S. chart presence after the classic lineup shifted.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Guess_Who"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Greg Leskiw",
+          "YearsActive": "1970–1972",
+          "Roles": "Guitar; vocals",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            "Share the Land (1970)",
+            "So Long, Bannatyne (1971)"
+          ],
+          "Overview": "Early‑1970s guitarist and vocalist who joined alongside Kurt Winter as the band retooled after Bachman’s departure.",
+          "Bio": {
+            "BioID": "the-guess-who-greg-leskiw",
+            "FullName": "Greg Leskiw",
+            "Birth": null,
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Guitarist; vocalist for The Guess Who (early 1970s lineup)",
+            "Instruments": "Guitar; vocals",
+            "FullText": "Greg Leskiw was part of The Guess Who’s post‑Bachman transition lineup, adding guitar and vocals as the group continued to tour and record in the early 1970s.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Guess_Who"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Donnie McDougall",
+          "YearsActive": "1972–1974",
+          "Roles": "Guitar; vocals",
+          "Instruments": "Guitar; vocals",
+          "Albums": [
+            "Rockin’ (1972)",
+            "Artificial Paradise (1973)"
+          ],
+          "Overview": "Joined in the early 1970s as the lineup continued to change, contributing guitar and vocals during the band’s later RCA-era albums.",
+          "Bio": {
+            "BioID": "the-guess-who-donnie-mcdougall",
+            "FullName": "Donnie McDougall",
+            "Birth": null,
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Guitarist; vocalist for The Guess Who (early-to-mid 1970s lineup)",
+            "Instruments": "Guitar; vocals",
+            "FullText": "Donnie McDougall joined The Guess Who during their early‑1970s continuation period, contributing vocals and guitar on later releases as the band’s personnel rotated after the original hitmaking unit.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Guess_Who"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Domenic Troiano",
+          "YearsActive": "1974–1975",
+          "Roles": "Guitar; songwriter",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Road Food (1974)",
+            "Flavours (1975)"
+          ],
+          "Overview": "Later‑era guitarist/songwriter who joined as the band moved toward a more progressive direction in the mid‑1970s.",
+          "Bio": {
+            "BioID": "the-guess-who-domenic-troiano",
+            "FullName": "Domenic Troiano",
+            "Birth": null,
+            "Death": null,
+            "Nationality": "Canadian",
+            "Roles": "Guitarist; songwriter for The Guess Who (mid‑1970s lineup)",
+            "Instruments": "Guitar",
+            "FullText": "Domenic Troiano joined The Guess Who in the mid‑1970s, a period often described as pushing the band toward more progressive rock tendencies before the group’s 1975 breakup.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "The Guess Who",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Guess_Who"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "ArtistID": "guns-n-roses",
