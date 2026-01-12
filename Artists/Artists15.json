@@ -10,27 +10,267 @@
   {
     "ArtistID": "the-righteous-brothers",
     "Name": "The Righteous Brothers",
-    "Type": "",
-    "Origin": {
-      "City": "",
-      "Region": "",
-      "Country": ""
-    },
-    "YearsActive": [],
-    "Genres": [],
-    "Labels": [],
-    "Overview": "",
-    "NotableAlbums": [],
-    "SignatureSongs": [],
-    "Achievements": [],
-    "KeyFacts": [],
+    "Type": "Band",
+    "Origin": "Los Angeles, California, United States",
+    "YearsActive": [
+      "1963–1971",
+      "1974–1976",
+      "1981–2003",
+      "2016–present"
+    ],
+    "Genres": [
+      "Blue-eyed soul",
+      "Pop",
+      "Soul",
+      "R&B",
+      "Pop rock",
+      "Rock"
+    ],
+    "Labels": [
+      "Moonglow",
+      "Philles",
+      "Verve/MGM",
+      "Haven",
+      "Curb"
+    ],
+    "Overview": "The Righteous Brothers emerged from Southern California’s early-1960s club circuit as a two-voice instrument built for drama. Bill Medley (a deep bass-baritone) and Bobby Hatfield (a soaring tenor) first sang together in 1962 while working the Los Angeles-area scene, initially connected to the Paramours. When they broke out as a duo, the contrast between Medley’s grounded low register and Hatfield’s high, pleading intensity gave them a signature blend that sat between pop polish and gospel-leaning R&B. That vocal chemistry—low voice as the bedrock, high voice as the emotional release—became the core of their identity and the reason their biggest recordings still feel larger than their running time.\n\nTheir defining breakthrough came through producer Phil Spector, whose “Wall of Sound” approach turned the duo’s performance style into a cinematic pop record. “You’ve Lost That Lovin’ Feelin’” became their calling card, and the mid-1960s run that followed made them one of the era’s most recognizable vocal acts. Songs such as “Just Once in My Life,” “Ebb Tide,” and Hatfield’s towering lead on “Unchained Melody” helped define the group’s identity: quiet openings that build toward full-throated climaxes, arrangements that feel orchestral even in pop form, and a frank romantic intensity that made their ballads feel like mini-movies. After leaving Spector’s label, they proved the appeal wasn’t only the producer’s sonic stamp; “(You’re My) Soul and Inspiration” hit No. 1 and showed they could recreate the emotional architecture of the early hits on their own terms.\n\nThe Righteous Brothers’ career also reflects the classic arc of 1960s pop: splits, reunions, and unexpected second lives. They reappeared in the 1970s with “Rock and Roll Heaven,” and in 1990 “Unchained Melody” surged again after its placement in the film *Ghost*, introducing their 1965 recording to a new generation and turning Hatfield’s vocal into a renewed pop-culture touchstone. The original partnership lasted until Hatfield’s death in 2003. In later years, Medley revived the act for touring with new tenor partner Bucky Heard, preserving the live experience of the catalog while keeping the historical center of gravity on the classic Medley/Hatfield chemistry that defined “blue-eyed soul” for millions of listeners.",
+    "NotableAlbums": [
+      {
+        "Title": "You've Lost That Lovin' Feelin'",
+        "Year": "1965",
+        "Notes": "Early landmark LP tied to their Phil Spector era; showcases the duo’s orchestral-pop soul approach."
+      },
+      {
+        "Title": "Just Once in My Life",
+        "Year": "1965",
+        "Notes": "A key mid-’60s set featuring one of their defining ballads and the dramatic vocal interplay that became their hallmark."
+      },
+      {
+        "Title": "Soul and Inspiration",
+        "Year": "1966",
+        "Notes": "Post‑Spector era album highlighted by the No. 1 title track, demonstrating they could thrive beyond Philles."
+      },
+      {
+        "Title": "Rock and Roll Heaven",
+        "Year": "1974",
+        "Notes": "Comeback-era release anchored by the title single, reflecting their ability to re-enter the conversation in the 1970s."
+      },
+      {
+        "Title": "The Very Best of The Righteous Brothers",
+        "Year": "1990",
+        "Notes": "Compilation-era staple that helped frame their catalog during the renewed attention around “Unchained Melody.”"
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "You've Lost That Lovin' Feelin'",
+        "Year": "1964",
+        "Notes": "Signature Phil Spector production; a defining “blue‑eyed soul” record and enduring classic."
+      },
+      {
+        "Title": "Just Once in My Life",
+        "Year": "1965",
+        "Notes": "Major mid-’60s ballad that spotlights the duo’s dramatic call-and-response blend."
+      },
+      {
+        "Title": "Unchained Melody",
+        "Year": "1965",
+        "Notes": "Hatfield’s soaring lead became iconic; returned to major charts and culture in 1990 after *Ghost*."
+      },
+      {
+        "Title": "Ebb Tide",
+        "Year": "1965",
+        "Notes": "A sweeping pop standard transformed into a powerhouse vocal performance."
+      },
+      {
+        "Title": "(You're My) Soul and Inspiration",
+        "Year": "1966",
+        "Notes": "No. 1 hit after leaving Spector; proved the duo’s appeal extended beyond the Philles sound."
+      },
+      {
+        "Title": "Rock and Roll Heaven",
+        "Year": "1974",
+        "Notes": "Comeback-era hit that reintroduced them to ’70s radio audiences."
+      }
+    ],
+    "Achievements": [
+      {
+        "Year": "2003",
+        "Title": "Rock & Roll Hall of Fame inductees (Performer)",
+        "Details": "Inducted into the Rock & Roll Hall of Fame, recognizing their influence as a premier American vocal duo."
+      },
+      {
+        "Year": "1965–1966",
+        "Title": "Multiple Billboard Hot 100 No. 1 singles",
+        "Details": "Scored chart-topping singles including “You’ve Lost That Lovin’ Feelin’” and “(You’re My) Soul and Inspiration,” cementing their mainstream impact."
+      },
+      {
+        "Year": "1990",
+        "Title": "Major revival for “Unchained Melody”",
+        "Details": "The duo’s recording gained renewed prominence after its use in the film *Ghost*, driving a new wave of radio and consumer attention."
+      }
+    ],
+    "KeyFacts": [
+      "Formed as a duo in 1963 after Medley and Hatfield sang together in the Los Angeles-area scene (initially connected to the Paramours).",
+      "Signature hit: “You’ve Lost That Lovin’ Feelin’,” produced by Phil Spector using his “Wall of Sound” style.",
+      "Known for the contrast between Medley’s bass-baritone and Hatfield’s tenor; Hatfield sang lead on the 1965 recording of “Unchained Melody.”",
+      "Inducted into the Rock & Roll Hall of Fame (Performer category) in 2003.",
+      "Following Hatfield’s death (2003), Medley later returned to touring under the name with new partner Bucky Heard (from 2016)."
+    ],
     "ExternalLinks": {
-      "Official Site": "",
-      "Wikipedia": "",
-      "Discography": ""
+      "Official Site": "https://righteousbrothers.com/",
+      "AllMusic Artist Biography": "https://www.allmusic.com/artist/the-righteous-brothers-mn0000424296",
+      "Rock & Roll Hall of Fame Inductee Page": "https://rockhall.com/inductees/righteous-brothers/",
+      "Wikipedia Overview": "https://en.wikipedia.org/wiki/The_Righteous_Brothers"
     },
-    "CoreMembers": [],
-    "NonCoreMembers": []
+    "CoreMembers": [
+      {
+        "Name": "Bill Medley",
+        "YearsActive": "1960s–present",
+        "Roles": "Singer; producer",
+        "Instruments": "Vocals",
+        "Albums": [
+          {
+            "Title": "You've Lost That Lovin' Feelin'",
+            "Year": "1965"
+          },
+          {
+            "Title": "Soul and Inspiration",
+            "Year": "1966"
+          },
+          {
+            "Title": "Straight from the Heart",
+            "Year": "2025"
+          }
+        ],
+        "Overview": "Bass-baritone co-lead whose grounded delivery and dramatic phrasing anchored the duo’s biggest recordings; later achieved major solo visibility through “(I’ve Had) The Time of My Life” and revived the act for modern touring.",
+        "Bio": {
+          "FullName": "William Thomas Medley",
+          "Birth": {
+            "Date": "September 19, 1940",
+            "Place": "Santa Ana, California, United States"
+          },
+          "Death": null,
+          "Nationality": "American",
+          "Roles": "Singer; producer",
+          "Instruments": "Vocals",
+          "FullText": "Bill Medley (born William Thomas Medley on September 19, 1940) grew up in Santa Ana, California, and developed as a singer in the overlapping worlds of church music, local bands, and rhythm-and-blues radio. Raised in a household where music was always nearby, he sang in a church choir and absorbed the phrasing and emotional directness of R&B and gospel. Those influences mattered because Medley’s natural instrument—a resonant bass-baritone—wasn’t the typical bright pop lead of the early 1960s. His power came from warmth, depth, and the ability to turn a spoken-sounding line into something dramatic without losing its conversational truth.\n\nAs a teenager and young adult, Medley moved from informal singing into the professional Southern California circuit. He formed early groups, learned how to build harmony parts, and began writing and recording his own material. Even before the Righteous Brothers became a national name, Medley was already thinking like a producer: experimenting with multi-track recording, shaping arrangements around vocal peaks, and treating the studio as an instrument. That instinct—part performer, part architect—would become crucial once he entered the world of high-stakes pop singles.\n\nIn 1960 Medley helped form the Paramours, a group that worked clubs around Anaheim and Santa Ana and released early recordings. Through that scene he came into contact with Bobby Hatfield, whose tenor had a different kind of electricity: high, agile, and emotionally exposed. After a short period of overlapping band activity, Medley and Hatfield chose to perform as a duo in 1963. The contrast worked immediately. Medley’s low voice supplied gravity and authority; Hatfield’s tenor supplied lift and urgency. The result sounded like an argument and a reconciliation happening in the same song, and audiences responded to the tension.\n\nThe duo’s early recordings were associated with Moonglow Records, where Medley wrote and helped steer sessions. What made the act explode, however, was the meeting between their voices and producer Phil Spector’s ambitions. Spector’s “Wall of Sound” layered instruments into a dense, echoing mass designed to feel monumental on radio. Medley’s bass-baritone was ideal for anchoring that mass. On “You’ve Lost That Lovin’ Feelin’,” his opening lines establish the record’s emotional weight before the arrangement surges into a climactic exchange. The record’s success didn’t just create a hit; it established Medley as one of pop’s great low-voice leads.\n\nThe Spector era did more than deliver one signature single. It demonstrated the duo’s method: build tension through restraint, then pay it off with intensity. As the Righteous Brothers’ catalog expanded—“Just Once in My Life,” “Ebb Tide,” and the Hatfield-led “Unchained Melody”—Medley became known as the steadying force who could make even the most romantic lyric feel serious. He also took on production responsibility on a number of tracks, including recordings publicly credited to Spector, which reinforced his reputation as someone who understood both the performance and the machinery behind it.\n\nWhen the Righteous Brothers left Spector’s label and moved into the next phase of their career, Medley’s contribution proved to be more than a single producer’s signature. The duo scored major success with “(You’re My) Soul and Inspiration,” showing that their appeal was rooted in performance and vocal architecture as much as any particular studio formula. For Medley, it was confirmation that the act’s emotional impact came from craft: a careful sense of dynamics, the ability to land a chorus like a final scene, and the discipline to make big feelings sound earned rather than exaggerated.\n\nLike many artists who break through in one decade and then have to navigate shifting radio formats, Medley’s career includes interruption and reinvention. The duo split and reunited more than once, and Medley pursued solo work as well. A major turning point came in the late 1980s when his voice returned to the center of mainstream culture through film. In 1987 he recorded “(I’ve Had) The Time of My Life” as a duet with Jennifer Warnes for *Dirty Dancing*. The song became a defining pop anthem, tying his voice to a new generation and proving that his emotional delivery could translate beyond the Righteous Brothers’ classic-ballad context.\n\nIn 1990 the duo’s catalog experienced another major renewal when “Unchained Melody” was featured in the film *Ghost*. The placement introduced the Righteous Brothers’ 1965 recording to younger listeners and demonstrated that their slow-build ballad style could still command attention in a different media landscape. Although Hatfield’s tenor carries the most famous lines of that record, the resurgence reinforced the duo’s overall identity: emotionally direct singing delivered with theatrical scale and a sense of inevitability.\n\nMedley continued performing with Hatfield through the 1990s and early 2000s, and the original partnership lasted until Hatfield’s death in 2003. After years away from using the name, Medley announced in 2016 that he would revive the act for touring, partnering with singer Bucky Heard to cover the tenor parts. The decision was about preserving the live experience of the catalog rather than rewriting history. It also underlined a truth about Medley’s career: he has always treated songs as living things that can be re-presented to new audiences if the performance is honest and the arrangement still lands.\n\nLate-career interviews have shown Medley as unusually candid about the realities of longevity: the strain of touring, the way voices change, and the personal losses that can sit behind a public career. That candor aligns with what audiences hear in his best performances. Medley’s singing is not built on flash; it is built on control—knowing exactly when to hold back and when to open the tone so the emotion blooms. Whether he is delivering the hushed first lines of “Lovin’ Feelin’” or pushing a chorus to the edge of breaking, he conveys vulnerability without sounding fragile.\n\nTaken as a whole, Medley’s legacy is twofold. He is half of the definitive Righteous Brothers lineup—one of pop’s most influential vocal duos, often cited at the center of blue-eyed soul—and he is also an artist whose voice re-entered the mainstream in a different era through *Dirty Dancing*. In both contexts the throughline is unmistakable: a bass-baritone capable of turning a lyric into a confession, and a musician’s ear for how to build a record so that the payoff lands with maximum emotional force.",
+          "HonoursAndMilestones": [
+            "Co-lead vocalist of the Rock & Roll Hall of Fame–inducted Righteous Brothers (inducted 2003).",
+            "Recorded “(I’ve Had) The Time of My Life” with Jennifer Warnes for *Dirty Dancing* (1987).",
+            "Revived The Righteous Brothers for touring with new tenor partner Bucky Heard (from 2016)."
+          ],
+          "FunFacts": [
+            "Known for a distinctive bass-baritone range that gave the duo’s ballads their gravity.",
+            "Associated with producing several Righteous Brothers recordings, including key catalog tracks."
+          ],
+          "Quotes": [
+            "His low-register opening on “You’ve Lost That Lovin’ Feelin’” is one of pop’s most recognizable introductions."
+          ],
+          "Sources": [
+            {
+              "Title": "Bill Medley — Artist Biography",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/bill-medley-mn0000077536"
+            },
+            {
+              "Title": "The Righteous Brothers' Bill Medley: 'I've had some real downs'",
+              "Publisher": "The Guardian",
+              "Url": "https://www.theguardian.com/music/2025/feb/19/the-righteous-brothers-bill-medley-interview"
+            },
+            {
+              "Title": "The Time of My Life: A Righteous Brother's Memoir",
+              "Publisher": "Da Capo Press (Google Books)",
+              "Url": "https://books.google.com/books/about/The_Time_of_My_Life.html?id=8pX_AgAAQBAJ"
+            },
+            {
+              "Title": "Bill Medley (overview)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Bill_Medley"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Bobby Hatfield",
+        "YearsActive": "1960s–2003",
+        "Roles": "Singer",
+        "Instruments": "Vocals",
+        "Albums": [
+          {
+            "Title": "Just Once in My Life",
+            "Year": "1965"
+          },
+          {
+            "Title": "You've Lost That Lovin' Feelin'",
+            "Year": "1965"
+          },
+          {
+            "Title": "Rock and Roll Heaven",
+            "Year": "1974"
+          }
+        ],
+        "Overview": "Tenor co-lead celebrated for the soaring lead vocal on “Unchained Melody” and for the climactic upper lines that defined the duo’s big-ballad sound.",
+        "Bio": {
+          "FullName": "Robert Lee Hatfield",
+          "Birth": {
+            "Date": "August 10, 1940",
+            "Place": "Beaver Dam, Wisconsin, United States"
+          },
+          "Death": {
+            "Date": "November 5, 2003",
+            "Place": "Kalamazoo, Michigan, United States"
+          },
+          "Nationality": "American",
+          "Roles": "Singer",
+          "Instruments": "Vocals",
+          "FullText": "Robert Lee “Bobby” Hatfield (born August 10, 1940) became one of American pop’s most recognizable tenor voices as half of the Righteous Brothers. Born in Beaver Dam, Wisconsin, Hatfield moved with his family to Anaheim, California, as a child and came of age in the postwar Southern California environment that produced countless vocal groups and club bands. Long before his voice became synonymous with one song, he developed the athletic breath control and confidence of a performer who was comfortable carrying a melody above a crowded arrangement.\n\nHatfield’s early life included a strong connection to school activities; accounts of his high-school years describe him as an active student and athlete, and by the late 1950s he was already organizing music groups and performing. The details matter less than what they imply: Hatfield was not a singer who appeared fully formed only when the record hit. He had learned to lead, to handle an audience, and to commit emotionally to a performance—skills that would later make his ballad singing feel direct rather than theatrical.\n\nIn the early 1960s Hatfield entered the local music circuit that fed Los Angeles-area clubs and small stages. He performed in bands connected to Anaheim and Orange County, and through shared musicians he crossed paths with Bill Medley, who was building his own foundation as a singer, writer, and arranger. Their first professional overlap came in the same ecosystem and, by 1962–1963, they were effectively building the partnership that would become the Righteous Brothers. The key was contrast: Hatfield’s tenor did not simply sit “on top” of harmony—it pierced through, with a tone that could sound tender in a verse and urgent in a chorus.\n\nWith Moonglow Records, the duo began recording and performing as a two-man vocal act. Hatfield’s role quickly became clear in the studio: he was the singer who could take a melody to the ceiling without losing intelligibility. When producer Phil Spector brought the duo into his “Wall of Sound” world, Hatfield’s voice became one of the most effective weapons in the arrangement. Spector’s productions demanded singers who could remain clear over thick orchestration; Hatfield could do that while still sounding vulnerable, which is why the climaxes in the Righteous Brothers’ biggest records still feel like emotional release rather than pure volume.\n\nHatfield’s defining showcase is “Unchained Melody.” Although the song existed in many versions, the Righteous Brothers’ 1965 recording is defined by Hatfield’s lead vocal: a long, patient build that turns yearning into near-operatic intensity without losing pop clarity. The performance became a touchstone for generations of singers because it makes technical difficulty feel emotionally inevitable. It is also a rare pop vocal that can be recognized from a single phrase, because Hatfield’s timbre—bright but not thin, powerful but not harsh—carries a distinctive emotional fingerprint.\n\nDuring the duo’s peak run, Hatfield often carried the “solo” moments that audiences remember most—sections where the tenor line is the focal point and the arrangement seems built around his ability to hold a note and then lean into the next phrase. On recordings such as “Ebb Tide,” the drama works in part because Hatfield treats the lyric seriously, as if he is narrating a personal confession rather than performing a standard. That approach helped define what listeners later called “blue-eyed soul”: pop singers borrowing the intensity and phrasing of R&B without parody, and delivering it with conviction.\n\nAfter the duo left Spector’s label, the Righteous Brothers continued to score major hits, including “(You’re My) Soul and Inspiration.” The success of that phase matters for Hatfield’s biography because it shows his voice was not tied to one production trick. Whether in the dense Spector style or in cleaner later recordings, Hatfield’s tenor remained the emotional spark that could turn a well-written song into a moment people remembered. The duo’s subsequent years included breaks, reunions, and extensive touring, but the throughline was always the same: audiences came to hear that blend—Medley’s low gravity and Hatfield’s high lift—land in real time.\n\nIn 1990 Hatfield’s most famous vocal returned to the center of popular culture when “Unchained Melody” was featured prominently in the film *Ghost*. The placement gave the recording a second life and introduced it to listeners who had not grown up with the 1960s charts. For Hatfield’s legacy, the revival was crucial. It ensured that his signature performance would be remembered not as a period artifact, but as something newly experienced by a new generation. Few singers are identified so strongly with one recording while also having that recording rediscovered at a later cultural moment; Hatfield is one of the rare exceptions.\n\nHatfield continued performing with Medley into the 1990s and early 2000s, and the duo’s stature was formally recognized when the Righteous Brothers were inducted into the Rock & Roll Hall of Fame in 2003. That honor reflected not only their chart success, but also the way their ballad style influenced later pop and soul vocalists. Hatfield’s particular contribution was the proof that a pop tenor could be both technically commanding and emotionally naked—able to climb without sounding detached from the lyric.\n\nHatfield died on November 5, 2003, in Kalamazoo, Michigan, where the duo was scheduled to perform. His death effectively closed the chapter on the original Righteous Brothers partnership, which depended on the specific chemistry of those two voices. Yet Hatfield’s impact remains unusually durable because it is anchored to recordings that still feel emotionally direct. The best evidence is still the sound itself: a tenor that could float, cry, and surge, all in service of a lyric.\n\nHatfield’s artistry can be described in simple terms. He sang like the feeling mattered more than the technique, while quietly possessing the technique to make that illusion possible. The discipline is in the long lines, the careful breath control, and the way he times his climaxes so they land exactly where the song’s story needs them. In the history of American pop balladry, Hatfield’s work with the Righteous Brothers remains a benchmark for emotional singing done at full scale.",
+          "HonoursAndMilestones": [
+            "Co-lead vocalist of the Rock & Roll Hall of Fame–inducted Righteous Brothers (inducted 2003).",
+            "Sang lead on the Righteous Brothers’ 1965 recording of “Unchained Melody.”",
+            "His “Unchained Melody” vocal returned to major prominence after *Ghost* (1990)."
+          ],
+          "FunFacts": [
+            "Best known for a bright, emotive tenor capable of long climactic phrases with pop clarity.",
+            "Often cited as a defining voice of 1960s pop balladry."
+          ],
+          "Quotes": [
+            "Hatfield’s “Unchained Melody” performance remains the defining showcase of his vocal style."
+          ],
+          "Sources": [
+            {
+              "Title": "Bobby Hatfield — Artist Bio",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/bobby-hatfield-mn0000079356"
+            },
+            {
+              "Title": "Righteous Brother Bobby Hatfield Dies",
+              "Publisher": "BMI",
+              "Url": "https://www.bmi.com/news/entry/20031106_righteous_brother_bobby_hatfield_dies"
+            },
+            {
+              "Title": "The Righteous Brothers — Artist Biography",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/the-righteous-brothers-mn0000424296"
+            },
+            {
+              "Title": "Bobby Hatfield (overview)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Bobby_Hatfield"
+            }
+          ]
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Bucky Heard",
+        "YearsActive": "2016–present",
+        "Roles": "Singer (tenor partner with Bill Medley)",
+        "Instruments": "Vocals",
+        "Overview": "Joined Bill Medley in 2016 as the touring tenor voice under The Righteous Brothers name, helping keep the catalog in live rotation after the original duo era ended with Bobby Hatfield’s death."
+      }
+    ]
   },
   {
     "ArtistID": "robert-plant",
