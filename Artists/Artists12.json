@@ -1172,8 +1172,297 @@
     {
       "ArtistID": "neil-young",
       "Name": "Neil Young",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Solo",
+      "Origin": {
+        "City": "Winnipeg",
+        "Region": "Manitoba",
+        "Country": "Canada"
+      },
+      "YearsActive": [
+        "1963–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Folk rock",
+        "Country rock"
+      ],
+      "Labels": [
+        "Reprise",
+        "Warner Bros.",
+        "Atlantic",
+        "Geffen",
+        "Atco"
+      ],
+      "Overview": "Neil Young is a Canadian-born singer-songwriter, guitarist, and bandleader whose career has spanned more than six decades and multiple musical identities—intimate folk storyteller, abrasive electric rocker, country traditionalist, and restless experimenter. After early work in Winnipeg-area groups in the mid‑1960s, Young moved to Los Angeles and became a key writer and lead guitarist in Buffalo Springfield, helping define the era’s folk‑rock blend while establishing his signature contrast between fragile melodies and jagged guitar. From there he built a solo catalog that refuses to settle: spare acoustic records sit alongside raw, loud albums made with Crazy Horse, and polished studio work is followed by purposefully rough, live‑sounding releases.\n\nCommercial breakthrough arrived with Harvest (1972), a warm, country‑leaning album anchored by “Heart of Gold” and still widely regarded as his signature release. But Young often treated success as a prompt to change course, pivoting to darker and more volatile work in the mid‑1970s and then to reinvigorated, feedback‑heavy rock in the late 1970s. His writing is unusually elastic: he can sketch a character in a few plainspoken lines, or build a chorus that becomes a communal chant, all while keeping a distinctive vocal timbre and a guitarist’s sense of tension and release.\n\nYoung’s influence is frequently felt as much as heard. His combination of vulnerable lyricism and distorted tone helped shape later alternative and grunge-era aesthetics, while his long-running partnership with Crazy Horse set a template for loose, feel-based rock performance. He has also pursued high-profile advocacy and side projects, including extensive archival releases and a dedicated, high‑resolution Neil Young Archives platform. Inducted into the Rock and Roll Hall of Fame as a solo artist and again as a member of Buffalo Springfield, Young remains a singular figure: a songwriter with pop instincts who repeatedly chooses the less predictable path.",
+      "NotableAlbums": [
+        "Everybody Knows This Is Nowhere (1969)",
+        "After the Gold Rush (1970)",
+        "Harvest (1972)",
+        "On the Beach (1974)",
+        "Tonight's the Night (1975)",
+        "Rust Never Sleeps (1979)",
+        "Freedom (1989)",
+        "Harvest Moon (1992)"
+      ],
+      "SignatureSongs": [
+        "Heart of Gold",
+        "Old Man",
+        "The Needle and the Damage Done",
+        "Cinnamon Girl",
+        "Down by the River",
+        "After the Gold Rush",
+        "Rockin' in the Free World",
+        "Ohio (with Crosby, Stills, Nash & Young)"
+      ],
+      "Achievements": [
+        {
+          "Year": "1972",
+          "Title": "Harvest becomes a major commercial breakthrough",
+          "Details": "Harvest was the best-selling album in the United States in 1972, cementing Young’s mainstream stature while setting up his later pattern of stylistic pivots."
+        },
+        {
+          "Year": "1995",
+          "Title": "Inducted into the Rock and Roll Hall of Fame (solo)",
+          "Details": "Recognized for the depth and influence of his solo catalog, spanning acoustic songwriting and aggressive electric work."
+        },
+        {
+          "Year": "1997",
+          "Title": "Inducted into the Rock and Roll Hall of Fame with Buffalo Springfield",
+          "Details": "Honored again for his role in Buffalo Springfield, a foundational late-1960s folk-rock group."
+        },
+        {
+          "Year": "2015",
+          "Title": "Harvest inducted into the GRAMMY Hall of Fame",
+          "Details": "The Recording Academy’s GRAMMY Hall of Fame honored Harvest, reflecting its long-term cultural and artistic impact."
+        },
+        {
+          "Year": "2018",
+          "Title": "Neil Young Archives launches publicly",
+          "Details": "Young expanded his long-running archival efforts into an ambitious online archive/streaming platform aimed at deep catalog access and high-resolution audio."
+        },
+        {
+          "Year": "2021",
+          "Title": "Sells 50% stake in songwriting catalog to Hipgnosis",
+          "Details": "Sold a 50% interest in his catalog rights to Hipgnosis Songs Fund, part of a broader wave of high-profile music rights deals in the streaming era."
+        }
+      ],
+      "KeyFacts": [
+        "Canadian-born songwriter whose catalog moves between intimate acoustic folk and feedback-driven electric rock.",
+        "Broke through in the late 1960s with Buffalo Springfield before developing a major solo career and joining Crosby, Stills, Nash & Young.",
+        "Long-running partnership with Crazy Horse became a defining vehicle for loose, live-feel performances and heavy guitar tone.",
+        "Harvest (1972) is his signature commercial release, but he repeatedly followed success by changing direction rather than repeating formulas.",
+        "Built a deep archival ecosystem (Neil Young Archives) and publicly advocated for higher-fidelity listening formats."
+      ],
+      "ExternalLinks": {
+        "Neil Young Archives (Official)": "https://neilyoungarchives.com/",
+        "AllMusic": "https://www.allmusic.com/artist/neil-young-mn0000379125",
+        "Encyclopaedia Britannica": "https://www.britannica.com/biography/Neil-Young",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Neil_Young"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Neil Young",
+          "YearsActive": "1963–present",
+          "Roles": [
+            "Lead vocals",
+            "Songwriting",
+            "Guitars",
+            "Harmonica",
+            "Keyboards"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Guitar",
+            "Harmonica",
+            "Piano/Keyboards"
+          ],
+          "Albums": [
+            "Everybody Knows This Is Nowhere (1969)",
+            "After the Gold Rush (1970)",
+            "Harvest (1972)",
+            "Rust Never Sleeps (1979)",
+            "Freedom (1989)"
+          ],
+          "Overview": "Primary songwriter and voice behind a catalog that ranges from spare acoustic balladry to raw, amplified rock—often shifting styles album to album while maintaining a distinctive vocal tone and guitar language.",
+          "Bio": {
+            "BioID": "neil-young-bio",
+            "ArtistID": "neil-young",
+            "ArtistName": "Neil Young",
+            "MemberName": "Neil Young",
+            "FullName": "Neil Percival Young",
+            "Birth": {
+              "Date": "November 12, 1945",
+              "Place": "Toronto, Ontario, Canada"
+            },
+            "Death": {},
+            "Occupations": [
+              "Singer-songwriter",
+              "Musician",
+              "Guitarist",
+              "Band leader"
+            ],
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar",
+              "Harmonica",
+              "Keyboards"
+            ],
+            "Genres": [
+              "Rock",
+              "Folk rock",
+              "Country rock"
+            ],
+            "AssociatedActs": [
+              "Buffalo Springfield",
+              "Crosby, Stills, Nash & Young",
+              "Crazy Horse"
+            ],
+            "ActiveYears": [
+              "1963–present"
+            ],
+            "CareerHighlights": [
+              "Rose from Canadian club circuits to become a key writer and lead guitarist in Buffalo Springfield.",
+              "Built a solo catalog alternating between intimate acoustic records and heavy electric work with Crazy Horse.",
+              "Achieved peak early-’70s commercial success with Harvest, then repeatedly pivoted into riskier, rougher styles.",
+              "Helped shape the vocabulary of later alternative rock through distorted tone, repetition-driven arrangements, and emotionally direct songwriting.",
+              "Expanded a long-running archival program into the Neil Young Archives platform, emphasizing deep access and high-resolution audio."
+            ],
+            "HonoursAndMilestones": [
+              "Rock and Roll Hall of Fame induction as a solo artist (1995).",
+              "Rock and Roll Hall of Fame induction with Buffalo Springfield (1997).",
+              "Harvest inducted into the GRAMMY Hall of Fame (2015)."
+            ],
+            "KeyAlbums": [
+              "Everybody Knows This Is Nowhere (1969)",
+              "After the Gold Rush (1970)",
+              "Harvest (1972)",
+              "Tonight's the Night (1975)",
+              "Rust Never Sleeps (1979)",
+              "Freedom (1989)",
+              "Harvest Moon (1992)"
+            ],
+            "KeySongs": [
+              "Heart of Gold",
+              "Cinnamon Girl",
+              "Down by the River",
+              "The Needle and the Damage Done",
+              "Old Man",
+              "After the Gold Rush",
+              "Rockin' in the Free World",
+              "Ohio (with Crosby, Stills, Nash & Young)"
+            ],
+            "FullText": "Neil Percival Young was born on November 12, 1945, in Toronto, Ontario, and grew up in Canada with a childhood that included both upheaval and resilience. His family moved when he was young, and he later spoke affectionately about small-town life in Ontario; as a boy he also endured a bout of polio during the early 1950s. Music became a focus as he reached his teens, and by the early-to-mid 1960s he was playing in local groups in Manitoba and Ontario, learning how to balance strong melodies with the sharp, searching guitar voice that would become his calling card.\n\nYoung’s first sustained run of professional work came in the Winnipeg scene, where he sharpened his songwriting and stage instincts in bands such as the Squires and the Mynah Birds. Those years were less about a single breakout moment than about building the habits that defined his later career: constant writing, a willingness to follow a new sound, and a knack for surrounding himself with musicians who could thrive in a loose, feel-driven environment. In 1966 he moved to Los Angeles, and within months he was central to Buffalo Springfield—a band that helped crystallize folk rock’s merge of pop harmonies, electric guitars, and socially aware songwriting. While Buffalo Springfield is often remembered for the Stephen Stills‑penned hit “For What It’s Worth,” Young’s own contributions—like “Mr. Soul,” with its biting lead guitar—showed a different edge: anxious, noisy, and emotionally exposed.\n\nAfter Buffalo Springfield fractured, Young’s career expanded rather than narrowed. He relocated to Northern California and began releasing solo material that highlighted his distinctive voice—plainspoken, high and slightly reedy—paired with songs that felt personal without turning confessional for its own sake. His second solo album, Everybody Knows This Is Nowhere (1969), introduced Crazy Horse as a key partner, and the combination proved foundational. With Crazy Horse, Young could push songs into extended electric forms—“Down by the River” and “Cowgirl in the Sand” being early examples—where repetition, feedback, and dynamic shifts did as much storytelling as the lyrics. This approach would echo through later rock, especially among artists who valued feel and texture over studio perfection.\n\nIn parallel, Young became part of Crosby, Stills, Nash & Young, bringing a volatile spark to the group’s already-powerful harmony blend. In that setting he contributed both fragile acoustic writing (“Helpless”) and a prickly independence that kept the supergroup from becoming too smooth. The early 1970s marked a period when Young could move between solo work, high-profile collaborations, and hard-touring electric bands without diluting his identity; instead, the constant shifts reinforced a public image of an artist who refused to behave like a brand.\n\nHarvest (1972) turned that reputation into mass visibility. Recorded largely with Nashville players and shaped by a country‑rock palette, the album produced “Heart of Gold” and became the best‑selling album in the United States in 1972. Even as it cemented him as a mainstream star, Harvest also became a reference point Young would spend years resisting—sometimes explicitly—because it suggested a comfortable lane he did not want to stay in. Rather than repeat its warmth, he followed it with work that was frequently darker, sharper, and less concerned with polish. Albums from the mid‑1970s captured an artist responding to loss, exhaustion, and the pressures of fame, often choosing ragged immediacy over radio-friendly refinement.\n\nBy the late 1970s, Young’s electric music had regained a ferocious clarity. Rust Never Sleeps (1979) and related performances distilled his aesthetic of contrasts: quiet acoustic songs set against blistering, overdriven workouts, with a sense that the loudness carried emotional meaning rather than being mere volume. This period helped establish him as a bridge between classic rock and the coming alternative era—an artist whose guitar tone, blunt phrasing, and refusal to smooth over rough edges offered a template for later bands that would be described as grunge. Critics and musicians alike would later point to his work—especially the Crazy Horse recordings—as a key precedent for the way heavy rock could still feel personal and handmade.\n\nYoung’s career in the 1980s is often described as deliberately unpredictable. He released albums that explored styles far outside the expectations of either Harvest-era fans or hard-rock devotees, moving through country, rockabilly, and other approaches with a stubborn, almost contrarian freedom. While these stylistic detours sometimes puzzled audiences, they reinforced a deeper pattern: Young treated each record as a new problem to solve rather than a product line to maintain. When he returned to a more direct, topical rock stance late in the decade, Freedom (1989) resonated as both an artistic reset and a statement of principle, anchored by “Rockin’ in the Free World,” a song that became a durable part of his public identity.\n\nIn the 1990s and beyond, Young continued working at a pace that most of his peers could not match—issuing new studio albums, live documents, and collaborations while periodically reuniting with Crazy Horse for tours and recordings that emphasized brute feel, extended jams, and the unpredictable chemistry of a band playing in the moment. At the same time, he broadened his legacy work in a way consistent with his personality: he did not simply curate highlights, he built systems. His long-running archival program evolved into the Neil Young Archives, an ambitious platform that offers deep access to music, films, timelines, and ephemera, with an emphasis on high-resolution audio. The project reflects one of his most persistent non-musical themes: the belief that sound quality and context matter, and that modern distribution can disconnect listeners from the full experience of recorded music.\n\nRecognition has followed him across eras. Young was inducted into the Rock and Roll Hall of Fame as a solo artist, and he was later inducted again as a member of Buffalo Springfield—formal acknowledgment of a career that is both singular and historically central. Yet awards and institutions only partially explain his stature. Young’s enduring importance lies in the way his songwriting and guitar language hold opposites together: tenderness and abrasion, tradition and refusal, communal choruses and private doubts. Whether he is singing in a near-whisper over acoustic guitar or driving a band through an amplifier’s edge, he projects an unmistakable personality—curious, stubborn, emotionally direct—and a willingness to follow a song wherever it leads. That combination has made him not only a catalog artist with a vast body of work, but also a continuing reference point for musicians who value authenticity, risk, and the sound of a human being making decisions in real time.",
+            "FunFacts": [
+              "Often credited as an enduring influence on alternative and grunge-era rock aesthetics through his abrasive electric tone and stripped-down songwriting.",
+              "Built the Neil Young Archives as a deep, chronological archive of releases, ephemera, and high-resolution audio streaming."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Neil Young | Biography, Songs, Albums, & Facts",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Neil-Young"
+              },
+              {
+                "Title": "Neil Young",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Neil_Young"
+              },
+              {
+                "Title": "Neil Young Songs, Albums, Reviews, Bio & More",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/neil-young-mn0000379125"
+              },
+              {
+                "Title": "Inside Neil Young's 'Harvest' At 50 | For The Record",
+                "Publisher": "GRAMMY.com",
+                "Url": "https://www.grammy.com/videos/neil-young-harvest-album-anniversary-record"
+              },
+              {
+                "Title": "Neil Young Officially Opens Archival Site After Year-Long Beta",
+                "Publisher": "Variety",
+                "Url": "https://variety.com/2018/music/news/neil-young-archives-official-launch-1203094295/"
+              },
+              {
+                "Title": "Neil Young joins rights harvest with sale of half his songbook",
+                "Publisher": "Reuters",
+                "Url": "https://www.reuters.com/world/neil-young-joins-rights-harvest-with-sale-half-his-songbook-2021-01-06/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Danny Whitten",
+          "YearsActive": "1968–1971 (Crazy Horse with Young)",
+          "Roles": [
+            "Guitars",
+            "Vocals"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            "Everybody Knows This Is Nowhere (1969)",
+            "Live at Fillmore East (1971)"
+          ],
+          "Overview": "Early Crazy Horse guitarist/vocalist whose playing and harmony contributions helped define Young’s first great electric run, including the extended forms of the late-’60s Crazy Horse sound."
+        },
+        {
+          "Name": "Ralph Molina",
+          "YearsActive": "1968–present (Crazy Horse)",
+          "Roles": [
+            "Drums"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Everybody Knows This Is Nowhere (1969)",
+            "Zuma (1975)",
+            "Ragged Glory (1990)"
+          ],
+          "Overview": "Foundational Crazy Horse drummer whose loose, feel-forward approach underpins many of Young’s most celebrated electric performances and tours."
+        },
+        {
+          "Name": "Billy Talbot",
+          "YearsActive": "1968–present (Crazy Horse)",
+          "Roles": [
+            "Bass",
+            "Vocals"
+          ],
+          "Instruments": [
+            "Bass",
+            "Vocals"
+          ],
+          "Albums": [
+            "Everybody Knows This Is Nowhere (1969)",
+            "Zuma (1975)",
+            "Ragged Glory (1990)"
+          ],
+          "Overview": "Long-time Crazy Horse bassist and occasional vocalist; with Molina, he forms the band’s enduring rhythmic core across decades of Young collaborations."
+        },
+        {
+          "Name": "Frank \"Poncho\" Sampedro",
+          "YearsActive": "1975–2014 (Crazy Horse)",
+          "Roles": [
+            "Rhythm guitar",
+            "Keyboards"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Keyboards"
+          ],
+          "Albums": [
+            "Zuma (1975)",
+            "Rust Never Sleeps (1979)",
+            "Re·ac·tor (1981)"
+          ],
+          "Overview": "Key mid-to-late-period Crazy Horse member who helped shape the band’s arena-era guitar density, appearing across major tours and several defining studio albums."
+        }
+      ]
     },
     {
       "ArtistID": "the-neville-brothers",
