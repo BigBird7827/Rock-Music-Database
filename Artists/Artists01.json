@@ -7762,27 +7762,374 @@
     {
       "ArtistID": "angel",
       "Name": "Angel",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Washington, D.C.",
+        "Region": "District of Columbia",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1975–1981",
+        "1987",
+        "1998–present"
+      ],
+      "Genres": [
+        "Glam rock",
+        "Hard rock",
+        "AOR",
+        "Progressive rock"
+      ],
+      "Labels": [
+        "Casablanca Records",
+        "Cleopatra Records"
+      ],
+      "Overview": "Angel emerged from Washington, D.C.’s mid‑’70s rock circuit with a concept that was as deliberate as it was distinctive: arena‑scale hard rock staged in immaculate white. Formed in 1975 by guitarist Punky Meadows, bassist Mickie Jones, and keyboardist Gregg Giuffria, the band completed its classic lineup with vocalist Frank DiMino and drummer Barry Brandt and quickly drew notice for a sound that blended melodic hooks with progressive‑leaning arrangements. Their self‑titled 1975 debut on Casablanca—the label that also housed Kiss—opened with the theatrical epic “The Tower,” a track that became a calling card for many U.S. album‑rock stations and signaled Angel’s bigger‑than‑bar‑band ambitions. While their ornate presentation made them easy to market, the records themselves were built on tight playing: Giuffria’s keyboards often carried the harmonic weight, Meadows’ guitar balanced bite with glamour, and DiMino’s voice sat closer to classic rock and AOR than to the camp their look suggested.\n\nAcross the late 1970s the group steadily angled from proggy, multi‑section songs toward leaner, radio‑minded hard rock, without dropping the sense of drama that made them a live draw. Albums like *Helluva Band* (1976) kept the grandiosity, while *On Earth as It Is in Heaven* (1977) and *White Hot* (1978) pushed brighter choruses and more straightforward structures, yielding singles like “That Magic Touch” and the charting cover “Ain’t Gonna Eat Out My Heart Anymore.” Angel also became memorable for visual branding: an ambigram logo that reads “Angel” even when flipped upside‑down, and a stage persona positioned as the white‑clad counterpoint to Kiss’s black‑leather theatrics. Despite cult‑level enthusiasm and constant touring, mainstream success remained elusive, and the original run effectively ended in the early 1980s.\n\nOver the decades that followed, Angel’s reputation grew in hindsight—especially among fans of glam, melodic hard rock, and the pre‑hair‑metal pipeline—while members branched into other projects (Giuffria’s ’80s band Giuffria and later House of Lords, for example). Periodic reunions and reissues kept the catalog in circulation, and the band returned with new‑era releases and anniversary touring in the late 2010s and 2020s. That long arc—flashy image, serious musicianship, and a stubbornly loyal fanbase—has made Angel a classic “cult favorite” story: a group whose influence is easier to hear in later melodic hard rock than to measure by its original chart numbers.",
+      "NotableAlbums": [
+        {
+          "Title": "Angel",
+          "Year": "1975",
+          "Notes": "Casablanca‑era debut that introduced the band’s theatrical hard‑rock/prog blend; opens with the seven‑minute epic “The Tower” and established Angel’s dramatic, keyboard‑forward identity."
+        },
+        {
+          "Title": "Helluva Band",
+          "Year": "1976",
+          "Notes": "A stronger, more road‑tested follow‑up that leans into arena‑rock momentum while keeping the ornate arrangements that set Angel apart from many mid‑’70s hard‑rock peers."
+        },
+        {
+          "Title": "On Earth as It Is in Heaven",
+          "Year": "1977",
+          "Notes": "Often cited as a pivot point toward a more streamlined, radio‑ready approach; features “That Magic Touch” and closes the chapter on the original five‑man studio run with Mickie Jones."
+        },
+        {
+          "Title": "White Hot",
+          "Year": "1978",
+          "Notes": "Bright, hook‑heavy late‑’70s set that pushed Angel’s AOR side; includes the charting cover “Ain’t Gonna Eat Out My Heart Anymore” and seasonal staple “The Winter Song.”"
+        },
+        {
+          "Title": "Sinful",
+          "Year": "1979",
+          "Notes": "Polished, late‑Casablanca album that continues the shift toward concise choruses and glossy hard rock, capturing the band’s late‑’70s stage power in studio form."
+        },
+        {
+          "Title": "Live Without a Net",
+          "Year": "1980",
+          "Notes": "Live document from the original era that showcases Angel’s reputation as a high‑impact stage band, with extended arrangements and the full visual/performative concept implied by the records."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "The Tower",
+          "Year": "1975",
+          "Notes": "A seven‑minute opener from the debut that became the band’s signature track and a staple of U.S. album‑rock radio."
+        },
+        {
+          "Title": "Rock & Rollers",
+          "Year": "1975",
+          "Notes": "Concert‑built anthem from the debut, built for big stages and often highlighted as a crowd‑pleaser in Angel’s live sets."
+        },
+        {
+          "Title": "On and On",
+          "Year": "1975",
+          "Notes": "Melodic, dramatic deep‑cut favorite that illustrates Angel’s blend of hooky choruses and proggy structure."
+        },
+        {
+          "Title": "That Magic Touch",
+          "Year": "1977",
+          "Notes": "Single from *On Earth as It Is in Heaven* that gave Angel one of their best‑known U.S. chart appearances."
+        },
+        {
+          "Title": "Ain’t Gonna Eat Out My Heart Anymore",
+          "Year": "1978",
+          "Notes": "’60s cover revitalized as hard‑rock radio fare; reached the U.S. singles chart during the *White Hot* era."
+        },
+        {
+          "Title": "The Winter Song",
+          "Year": "1977–1978",
+          "Notes": "Seasonal single associated with Angel’s late‑’70s period and frequently cited among their recognizable tracks."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1975",
+          "Title": "Signed to Casablanca Records and released the debut *Angel*",
+          "Details": "After building buzz as a theatrical, white‑clad hard‑rock band, Angel landed on Casablanca and issued the self‑titled debut anchored by “The Tower.”"
+        },
+        {
+          "Year": "1977",
+          "Title": "“That Magic Touch” becomes a U.S. charting single",
+          "Details": "The single from *On Earth as It Is in Heaven* reached the U.S. singles chart, marking one of the band’s clearest mainstream footholds."
+        },
+        {
+          "Year": "1978",
+          "Title": "Chart success with “Ain’t Gonna Eat Out My Heart Anymore”",
+          "Details": "Angel’s hard‑rock take on the earlier hit entered the U.S. singles chart during the *White Hot* cycle."
+        },
+        {
+          "Year": "2018–2025",
+          "Title": "Reactivated touring era and 50th‑anniversary celebration",
+          "Details": "With key original members back onstage, Angel returned to regular touring and marked the band’s 50th anniversary with reissues and anniversary shows."
+        }
+      ],
+      "KeyFacts": [
+        "Angel formed in Washington, D.C. in 1975 and built its identity around an all‑white visual concept paired with melodic hard rock.",
+        "The band’s logo is an ambigram: it reads “Angel” the same way when turned upside‑down.",
+        "Their debut track “The Tower” became closely associated with U.S. album‑rock radio and is often cited as the group’s signature song.",
+        "Angel’s classic lineup featured Frank DiMino (vocals), Punky Meadows (guitar), Gregg Giuffria (keyboards), Mickie Jones (bass), and Barry Brandt (drums).",
+        "Though their record sales were modest, Angel developed a lasting cult following and later reactivated for touring and new releases."
+      ],
+      "CoreMembers": [
+        {
+          "Name": "Frank DiMino",
+          "Roles": [
+            "Lead vocals"
+          ],
+          "Years": "1975–1981; 1999–present",
+          "Overview": "Angel’s classic lead singer whose voice anchors both the band’s theatrical early material and their later, hook‑driven hard‑rock sound.",
+          "Bio": {
+            "FullName": "Frank DiMino",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Roles": "Singer; songwriter",
+            "Instruments": "Vocals",
+            "FullText": "Frank DiMino is the vocalist most associated with Angel’s classic era and the voice that anchors the band’s blend of theatrical rock and melodic hard rock. Emerging in the mid‑1970s as Angel’s frontman, DiMino brought a style that could handle both multi‑section dramatic material and tighter, chorus‑driven songs. In a band whose image sometimes grabbed attention first, his job was to make the songs feel like songs rather than costumes—and the classic Angel records rely on that balance: Giuffria’s keyboards and Meadows’ guitar provide drama, but DiMino’s vocal lines provide the emotional center.\n\nAngel formed in Washington, D.C. in 1975 and reached Casablanca Records at a moment when the label was building a distinctive rock roster. DiMino became the face and voice of the group during its rapid rise from clubs to a national touring act. On the debut album *Angel* (1975), the opening epic “The Tower” establishes the band’s theatrical scope, but it’s also a showcase for DiMino’s approach: clear phrasing, a sense of narrative, and a willingness to sing “big” without losing intelligibility. Through the late 1970s catalog, he often sits at the intersection of classic rock and AOR—less snarling than heavy metal vocals, but capable of urgency when the band leans harder.\n\nAs Angel’s records progressed, DiMino navigated the band’s shift toward a more radio‑aware sound. *On Earth as It Is in Heaven* (1977) and *White Hot* (1978) push brighter hooks and tighter structures, and songs such as “That Magic Touch” reflect that move. Even in that streamlined context, DiMino’s vocals maintain a theatrical edge: he tends to deliver choruses with a sense of lift, using clear consonants and sustained notes that read well on large PA systems. That skill matters for a band built around stage impact, and Angel’s reputation as a strong live act depends on it.\n\nWhen the original Angel era ended in the early 1980s, DiMino’s career followed a path common to many cult‑favorite singers: the band’s catalog remained beloved, but the mainstream industry moved on. Over time, however, Angel’s visibility grew again as fans and writers re‑evaluated the late‑’70s glam and melodic hard‑rock pipeline that led into the 1980s. DiMino became a crucial continuity point for Angel’s later life, returning for reunions and helping keep the band’s classic material alive for audiences who discovered it long after its original release.\n\nDiMino also pursued solo work that reframed his voice outside Angel’s production style. His 2015 solo album *Old Habits Die Hard* is frequently cited as a statement of his post‑Angel identity: classic hard‑rock songs designed around his voice rather than around a band concept. Reviews and interviews around the record emphasize that the material draws on the melodic hard‑rock tradition while allowing him to explore slightly different moods than the Angel catalog, from reflective pieces to straight‑ahead rockers. The solo work also underlines what longtime fans already knew: his voice can carry a record without the theatrical branding that sometimes dominated Angel’s story in the 1970s press.\n\nIn interviews discussing Angel’s history and future, DiMino has often framed the band as a serious musical project that was sometimes misunderstood. The white‑clad image and the ambigram logo made the band instantly marketable, but the records were not novelty; they were built by players who cared about arrangement, harmony, and performance. DiMino’s role in that dynamic is easy to underestimate until you hear the material live or revisit the albums carefully: he keeps the songs grounded, sells the emotional intent, and makes the dramatic flourishes feel earned rather than camp.\n\nIn the modern era, DiMino’s continued activity has been tied to Angel’s reactivation as well as his own projects. Anniversary touring and new‑era releases kept Angel in circulation, and DiMino’s presence onstage provides the most direct connection to the classic Casablanca period. At the same time, his solo output offers a way to hear the same voice in a different frame, closer to the broader tradition of melodic hard rock and AOR.\n\nFrank DiMino’s legacy, then, is not just that he fronted a visually memorable 1970s rock band. It’s that he provided the vocal credibility that let Angel’s concept work. Angel’s music sits in a space where drama, melody, and hard‑rock power have to coexist; DiMino’s singing is what makes that coexistence possible. Whether listeners come to Angel through the iconic “The Tower,” through later AOR‑leaning tracks, or through the band’s reunion‑era visibility, the through‑line is DiMino’s voice—clear, theatrical, and built for big stages without losing its human center.\n\nPart of what makes DiMino effective in Angel is the way his vocal approach fits the band’s instrumentation. Angel’s arrangements often feature prominent keyboards, and that can swallow a singer who relies on grit alone. DiMino instead uses a more controlled, ringing tone that can sit “on top” of dense harmony without sounding strained. He also tends to shape lines with a storyteller’s emphasis—small dynamic changes and clear articulation that help long songs feel like they have chapters. That skill is crucial on early material that leans toward extended forms, because the voice has to keep the listener oriented while the band moves through different sections.\n\nLive, DiMino’s role is even clearer. Angel’s stage concept was never just about outfits; it was about projecting a sense of event. A frontman in that context has to bridge theater and rock‑show energy, and DiMino does that by treating songs as a dialogue with the crowd rather than as a studio recreation. The same traits that make him intelligible on record—phrasing, enunciation, and an instinct for where the hook lives—translate well to concert performance. It is one of the reasons the band’s later reunions could connect with audiences who knew the catalog primarily from records.\n\nDiMino’s ongoing presence also matters culturally. Angel’s reputation today is partly built on hindsight: fans hear the band as a missing link between 1970s theatrical rock and the melodic hard rock that would fill arenas in the 1980s. For that claim to hold, the vocals have to sound like they belong in both eras. DiMino’s singing does. He can deliver dramatic lines with a classic‑rock sensibility, then switch to chorus‑driven punch without changing identities. That adaptability helps explain why his voice remains the band’s most recognizable signature even decades after the original albums.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Sources": [
+              {
+                "Title": "Angels, Sparks, Flashdance: Frank DiMino Returns With 'Old Habits Die Hard'",
+                "Publisher": "PopMatters",
+                "Url": "https://www.popmatters.com/angels-sparks-and-a-flashdance-frank-dimino-returns-with-old-habits-die-har-2495408598.html"
+              },
+              {
+                "Title": "FRANK DIMINO ON ANGEL’S FUTURE, “WHO KNOWS?”",
+                "Publisher": "Eddie Trunk",
+                "Url": "https://eddietrunk.com/frank-dimino-on-angels-future-who-knows/"
+              },
+              {
+                "Title": "Fabulous Flip Sides – Angel interview with Frank DiMino and Punky Meadows",
+                "Publisher": "Goldmine Magazine",
+                "Url": "https://www.goldminemag.com/columns/fabulous-flip-sides/fabulous-flip-sides-angel-interview-with-frank-dimino-and-punky-meadows/"
+              },
+              {
+                "Title": "Angel (American band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Angel_%28American_band%29"
+              },
+              {
+                "Title": "Dimino - Old Habits Die Hard (Review)",
+                "Publisher": "MelodicRock.com",
+                "Url": "https://www.melodicrock.com/articles/reviews/2015/07/13/dimino-old-habits-die-hard-review"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Punky Meadows",
+          "Roles": [
+            "Guitars",
+            "Backing vocals"
+          ],
+          "Years": "1975–1981; 1999–present",
+          "Overview": "Founding guitarist and visual centerpiece of Angel’s all‑white concept, known for melodic lead work and arena‑ready riffs.",
+          "Bio": {
+            "FullName": "Edwin Lionel Meadows Jr. (Punky Meadows)",
+            "Birth": {
+              "Date": "1950-02-06",
+              "Place": "Washington, D.C., United States"
+            },
+            "Nationality": "American",
+            "Roles": "Guitarist; songwriter",
+            "Instruments": "Guitar",
+            "FullText": "Punky Meadows (born Edwin Lionel Meadows Jr.) is the guitarist most closely identified with Angel’s sound and visual identity. Born in Washington, D.C. on February 6, 1950, Meadows became known in the mid‑1970s for pairing bright, melodic lead work with a glam presentation that was unusually polished for an American hard‑rock band of the era. In Angel, his guitar is the band’s engine—driving choruses, answering Gregg Giuffria’s keyboard figures, and giving the group the bite it needed to land ...\n\nBefore Angel, Meadows spent years in the Washington‑area rock circuit. Biographical accounts describe him moving through a series of local groups during the late 1960s and early 1970s, absorbing both British Invasion melody and the heavier tones that were becoming standard in American club rock. That long pre‑fame stretch mattered: it’s where he learned to build parts that survive constant touring—riffs that lock with drums, leads that sing over loud stages, and arrangements that leave space for vocals.\n\nA key stepping stone was BUX (also known earlier as Daddy Warbux), a hard‑rock/boogie outfit connected to the same regional ecosystem. Both Meadows and bassist Mickie Jones passed through BUX, and that shared history is often cited as the immediate prequel to Angel. For Meadows, BUX functioned as practical training in songwriting and studio discipline, and it also showed him the limits of a straightforward boogie‑rock template if a band wanted to stand out nationally.\n\nAngel formed in Washington, D.C. in 1975 when Meadows, Jones, and keyboardist Gregg Giuffria consolidated their ambitions into a new project built for theaters and arenas. The classic lineup quickly locked in: Frank DiMino on vocals, Meadows on guitars, Giuffria on keyboards, Jones on bass, and Barry Brandt on drums. Band histories connect Angel’s break to Casablanca Records, the label that also housed Kiss and was known for bold rock marketing in the period. From the start, Angel’s concept was ...\n\nOn record, Meadows’ signature is easiest to hear in how Angel balances melody with drama. The band’s 1975 debut opens with “The Tower,” a multi‑section epic that became Angel’s best‑known track and a long‑time staple of U.S. album‑rock radio. The song lets Meadows work as an arranger as much as a soloist: he establishes themes, builds tension, and then releases it with lead lines that are more lyrical than blues‑based. Across the early albums, his playing favors clean phrasing, singable motifs, and a se...\n\nMeadows was also central to Angel’s image. The band’s all‑white stage concept—white satin outfits, elaborate presentation, and a stylized, androgynous glamour—was framed as a deliberate counterpoint to darker hard‑rock aesthetics. Meadows became the most visible symbol of that approach, and the look turned him into a reference point in broader rock culture. Frank Zappa famously wrote a satirical piece titled “Punky’s Whips” that name‑checks Meadows. In later recollections, Meadows framed it as satire...\n\nMeadows’ playing identity is broader than glam, and he has said explicitly that his roots are in blues‑based guitar. In a long interview, he described growing up on English blues players and related stylists—Jeff Beck, Eric Clapton, Jimmy Page, Gary Moore, David Gilmour—and also named Jimi Hendrix as a central influence. That background helps explain why Angel’s flash never fully displaced musicianship: even when the presentation was theatrical, Meadows’ phrasing and bends came from a blues‑rock vocabulary, a...\n\nMusically, Meadows helped steer Angel through the late‑1970s shift from progressive‑leaning hard rock toward a tighter, more radio‑minded sound. Albums such as *On Earth as It Is in Heaven* (1977) and *White Hot* (1978) pushed brighter choruses and cleaner song forms, and his guitar adapted accordingly—more direct riffs, more concise leads, and a sharper focus on hook delivery. The key is that Angel never fully abandoned drama; even as the songs became shorter, Meadows’ phrasing kept a sense of lift and ...\n\nAfter Angel’s original run ended in the early 1980s, Meadows largely stepped away from the public rock spotlight. In interviews, he has described trying to keep the music going with Giuffria through various “versions” of the band and shopping deals, before returning east and building a life outside the music business. He has said he opened businesses, became involved in the stock market and property, and later retired and lived in North Carolina. That pivot is a common path for musicians whose peak years pre...\n\nIn the 2010s he returned to recording under his own name, releasing the solo album *Fallen Angel* (2016). The record placed his playing in a modern production context while still emphasizing the melodic approach that defined his Angel work—guitar lines built to be remembered rather than merely “hot‑lick” showcases. Meadows has also discussed his gear pragmatically, describing a hybrid guitar assembled from favored parts (including Carvin components) and noting studio use of a Yamaha DG100 amplifier, underscoring a...\n\nMeadows’ return overlapped with Angel’s modern‑era activity as well. As the band reactivated for touring and anniversary events, he became the continuity anchor for longtime listeners: the guitarist whose tone, look, and writing help the classic material feel authentic when performed decades later. That role matters in a group whose lineup has shifted over time; when Meadows is involved, audiences read it as a direct line back to the original concept and the classic Casablanca‑era catalog.\n\nTaken as a whole, Meadows’ career explains why Angel is remembered as more than an image. The band’s long‑term reputation rests on a simple idea: the spectacle worked because the musicianship was real. Meadows provided much of that foundation—melodic hard‑rock guitar that could support big arrangements, a clear stage persona that matched the music, and a catalog of parts that still translate to the stage decades later.\n",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Sources": [
+              {
+                "Title": "Punky Meadows",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Punky_Meadows"
+              },
+              {
+                "Title": "Punky Meadows interview",
+                "Publisher": "Vintage Guitar",
+                "Url": "https://www.vintageguitar.com/32263/punky-meadows/"
+              },
+              {
+                "Title": "Punky Meadows Artist Profile",
+                "Publisher": "Discogs",
+                "Url": "https://www.discogs.com/artist/778788-Punky-Meadows"
+              },
+              {
+                "Title": "Angel (American band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Angel_%28American_band%29"
+              },
+              {
+                "Title": "Fabulous Flip Sides – Angel interview with Frank DiMino and Punky Meadows",
+                "Publisher": "Goldmine Magazine",
+                "Url": "https://www.goldminemag.com/columns/fabulous-flip-sides/fabulous-flip-sides-angel-interview-with-frank-dimino-and-punky-meadows/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Gregg Giuffria",
+          "Roles": [
+            "Keyboards",
+            "Backing vocals"
+          ],
+          "Years": "1975–1981; 1999–present",
+          "Overview": "Founding keyboardist and primary arranger whose harmonic approach helped distinguish Angel from many late‑’70s hard‑rock peers.",
+          "Bio": {
+            "FullName": "Gregg Giuffria",
+            "Birth": {
+              "Date": "1951-07-28",
+              "Place": "Gulfport, Mississippi, United States"
+            },
+            "Nationality": "American",
+            "Roles": "Keyboardist; songwriter; bandleader",
+            "Instruments": "Keyboards",
+            "FullText": "Gregg Giuffria is the keyboardist, songwriter, and bandleader whose sense of harmony and arrangement helped define Angel’s most distinctive traits. Born July 28, 1951, and raised in the American South before relocating into the rock circuit that led to Angel, Giuffria brought a musical palette that could sound both theatrical and radio‑friendly. In Angel’s classic lineup, his keyboards often provide the “glue” between Punky Meadows’ guitar and Frank DiMino’s vocals, giving the band a sound that was richer...\n\nGiuffria’s most visible early chapter is Angel itself. Angel formed in Washington, D.C. in 1975 and quickly moved into the Casablanca Records world that also included Kiss. Within that context, Giuffria’s role was both musical and strategic: he helped craft arrangements that sounded bigger than a typical bar band, and he contributed to a writing approach that allowed Angel to combine long‑form drama with hooks. The debut album’s opening statement, “The Tower,” is a clear example of how Giuffria’s keyboard textu...\n\nAcross the late 1970s, Angel’s records show a gradual shift from progressive‑leaning structures toward a tighter, more radio‑aware form of melodic hard rock and AOR. Giuffria’s musicianship made that shift possible without collapsing the band’s identity. On albums like *On Earth as It Is in Heaven* (1977) and *White Hot* (1978), the songs become more concise and chorus‑centered, but the harmonic sense remains expansive; keyboards continue to shape the band’s color and drama. Singles such as “That Magic Touch...\n\nWhen the original Angel era ended in the early 1980s, Giuffria became one of the more prominent examples of a cult‑era musician who successfully translated into the MTV decade. He formed the band Giuffria, which signed to a major label and scored a notable mid‑1980s rock hit with “Call to the Heart.” The project positioned him not just as a keyboardist but as a front‑end songwriter and bandleader working in the polished, radio‑driven style that dominated the period. In that sense, Giuffria’s post‑Angel work...\n\nGiuffria’s next major chapter was House of Lords. The group became a recognizable name in late‑1980s and early‑1990s melodic hard rock, and Giuffria’s identity as a keyboard‑centric writer and arranger again sat near the core of the sound. House of Lords also connects to the broader Angel/Kiss/Casablanca constellation through the way these scenes overlapped in personnel, production, and business networks. While band lineups and eras changed, Giuffria’s musical signature remained consistent: a preference for...\n\nBiographical accounts also note that Giuffria later stepped away from full‑time touring and recording and became involved in business outside of music. That pivot is common among musicians whose careers span multiple industry eras; after the peak of the ’80s hard‑rock market, some artists chose stability over constant road work. Even so, his name continued to circulate in rock discussions because Angel, Giuffria, and House of Lords each maintained dedicated fanbases and remained part of the catalog explored by...\n\nIn Angel’s modern‑era reactivation, Giuffria’s contribution is especially important because it underscores what made the original band different. Many glam‑adjacent hard‑rock groups are guitar‑dominant; Angel, by contrast, often feels keyboard‑forward, with harmonic movement and arrangement detail that suggests prog and theatrical rock. Giuffria’s writing helped that happen, and the band’s best‑known material reflects it: the drama of the intros, the chord changes in the verses, and the way the choruses lift i...\n\nFor listeners discovering Angel decades after the fact, Giuffria also provides a useful map to the band’s influence. If Angel is sometimes described as a link between 1970s theatrical rock and the melodic hard rock that would dominate parts of the 1980s, Giuffria’s career illustrates that link directly: he helped shape a cult 1970s band with a grand concept, then built projects that aligned with the ’80s mainstream of polished, keyboard‑colored rock. That arc is a big part of why Angel’s catalog continues...\n\nUltimately, Gregg Giuffria’s legacy is not just that he played keyboards in a visually memorable band. It’s that he gave Angel a harmonic identity and helped turn arrangements into a feature rather than an afterthought. In the band’s classic work he operates as composer‑arranger as much as instrumentalist, and in his later projects he proved he could translate that skill into a different decade’s radio language. For fans of melodic hard rock, Giuffria is one of the genre’s key connective figures: a musician ...\n\n\nIn practical musical terms, Giuffria’s playing in Angel often functions like an orchestration tool. Rather than using keyboards only for solos, he frequently doubles or answers guitar parts, builds pads that widen the stereo picture, and introduces chord extensions that make otherwise straightforward hard‑rock progressions feel more cinematic. That approach is particularly evident when Angel uses longer intros or multi‑part song structures: the keyboards can set the scene before the full band hits, and they can also soften transitions so that a song can move between sections without sounding stitched together. For a band that sold itself on spectacle, those details mattered; they helped the music match the scale of the presentation.\n\nBecause of that, Giuffria remains one of the defining “tells” in Angel’s sound. Even in songs designed for radio, the harmonic movement and the keyboard voicings are part of what separates Angel from many late‑’70s hard‑rock peers who worked primarily from blues‑based guitar vocabulary. When fans describe Angel as both flashy and genuinely musical, Giuffria is a major reason they can make the second claim with confidence.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Sources": [
+              {
+                "Title": "Gregg Giuffria",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Gregg_Giuffria"
+              },
+              {
+                "Title": "Gregg Giuffria Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/gregg-giuffria-mn0000956030"
+              },
+              {
+                "Title": "Angel (American band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Angel_%28American_band%29"
+              },
+              {
+                "Title": "Giuffria Artist Overview",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/giuffria-mn0000112791"
+              },
+              {
+                "Title": "House of Lords Artist Overview",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/house-of-lords-mn0000268364"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mickie Jones",
+          "Roles": [
+            "Bass",
+            "Backing vocals"
+          ],
+          "Years": "1975–1977",
+          "Overview": "Founding bassist on Angel’s formative Casablanca‑era records; his bass lines anchor the band’s early dramatic hard‑rock sound.",
+          "Bio": {
+            "FullName": "Mickie Jones",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Roles": "Bassist",
+            "Instruments": "Bass guitar",
+            "FullText": "Mickie Jones was Angel’s original bassist and one of the band’s founding architects. While Angel is often remembered for its all‑white visual concept and its theatrical, keyboard‑colored hard‑rock sound, the group began as a working band in Washington, D.C.—and Jones was part of that foundation from the start. Alongside guitarist Punky Meadows and keyboardist Gregg Giuffria, Jones helped assemble the project in 1975, and his bass work anchors the early catalog that built Angel’s cult reputation.\n\nJones’s pre‑Angel chapter is most commonly connected to BUX (also known earlier as Daddy Warbux), a Washington‑area rock band that included Meadows and served as a direct bridge to Angel. BUX’s history reflects the late‑’60s and ’70s club‑to‑label pipeline: a group builds a regional following, reshapes itself to chase broader exposure, and eventually lands a major‑label release. For Jones, that experience meant learning the realities of touring, studio recording, and the business demands that come with trying to break nationally.\n\nIn Angel, Jones’s musical job was to make a rhythm section feel both powerful and elegant. Angel’s arrangements often feature prominent keyboards and dramatic song structures, and a bassist in that setting has to do more than follow guitar riffs. Jones’s lines generally emphasize foundation and movement: he locks with Barry Brandt’s drums to keep the songs driving, but he also outlines chord changes in ways that support Giuffria’s harmonic turns. On the self‑titled debut *Angel* (1975) and the follow‑ups that defined the classic era, his playing helps the band sound bigger than five musicians should.\n\nThe late‑’70s catalog also shows how Angel evolved while Jones was still in the lineup. As the band angled from longer, progressive‑leaning structures toward a more radio‑minded approach, the bass had to adapt—supporting tighter choruses, cleaner song forms, and a more straightforward hard‑rock pulse. Jones appears in band histories as a member through the early run that includes the debut, *Helluva Band* (1976), and *On Earth as It Is in Heaven* (1977). By the time Angel moved deeper into the *White Hot* era, lineup changes were part of the band’s reality, and later releases featured different personnel.\n\nEven after leaving the band, Jones remained tied to Angel in how fans and historians talk about the “classic lineup.” That original five‑man configuration—Frank DiMino, Punky Meadows, Gregg Giuffria, Mickie Jones, and Barry Brandt—is the version most often invoked when Angel is described as a cult favorite and as a precursor to later melodic hard rock. In that sense, Jones’s contribution is inseparable from the band’s identity: he is part of what made the records groove, and part of what made the group feel like a real ensemble rather than a visual concept.\n\nJones died in 2009 after a battle with cancer, an event widely reported within rock news outlets and remembered by the Angel community as the loss of a founding member. His story also illustrates a broader truth about many classic‑era rock musicians: not every crucial contributor becomes a household name, but the recordings preserve the work. For Angel listeners, the early albums remain the most direct way to hear Jones’s legacy—bass parts that keep theatrical rock grounded, and a foundation that lets the band’s melodies and drama land with real weight.\n\nWhat is documented about Jones publicly tends to focus on his band affiliations rather than on extensive personal biography, so it’s best to treat the surviving record as musician‑centered. Within Angel’s narrative, his years are the formative years: the leap from a regional Washington, D.C. band scene into the national touring and recording world of Casablanca Records. Those years also include Angel’s transition from longer, more dramatic arrangements to the tighter AOR‑leaning style that would define their ...\n\nHis death was reported as the result of liver cancer, and the news prompted tributes that emphasized his status as “original” or “founding” bassist—language that captures how strongly the band’s first era remains central to its reputation. In practical musical terms, Jones’s work is most audible in the way Angel’s early songs move. The band’s keyboard voicings can be elaborate, and the guitar lines often chase melody rather than pure riffing; Jones helps the track feel inevitable by reinforcing the chord movement and keeping the groove steady. That combination—steady low end plus enough motion to support theatrical songwriting—is a major part of why Angel’s early albums still feel distinctive in the crowded 1970s hard‑rock field.",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Sources": [
+              {
+                "Title": "Original ANGEL Bassist MICKIE JONES Loses Battle With Cancer",
+                "Publisher": "BLABBERMOUTH.NET",
+                "Url": "https://blabbermouth.net/news/original-angel-bassist-mickie-jones-loses-battle-with-cancer"
+              },
+              {
+                "Title": "Angel (American band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Angel_%28American_band%29"
+              },
+              {
+                "Title": "BUX (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/BUX_%28band%29"
+              },
+              {
+                "Title": "White Hot (album)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/White_Hot_%28album%29"
+              },
+              {
+                "Title": "On Earth as It Is in Heaven",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/On_Earth_as_It_Is_in_Heaven"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Barry Brandt",
+          "Roles": [
+            "Drums",
+            "Backing vocals"
+          ],
+          "Years": "1975–1981; 1999–2008",
+          "Overview": "Original Angel drummer whose steady, dynamic playing supported both the band’s long‑form theatrics and its later radio‑minded hard rock.",
+          "Bio": {
+            "FullName": "Barry Brandt",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Roles": "Drummer",
+            "Instruments": "Drums",
+            "FullText": "Barry Brandt was the drummer in Angel’s classic lineup and a key part of the band’s original sound. Angel’s identity was built on contrasts—hard rock power staged with immaculate white theatrics, guitar punch balanced by prominent keyboards—and Brandt’s drumming is what kept those contrasts coherent. In the 1975–1979 studio run that defines Angel for many fans, Brandt’s role was to provide momentum without flattening the drama: he had to drive the band like an arena act while still leaving room for the ...\n\nBrandt entered Angel in its formative period when the band coalesced in Washington, D.C. in 1975. The classic lineup—Frank DiMino (vocals): Punky Meadows (guitar): Gregg Giuffria (keyboards): Mickie Jones (bass): Barry Brandt (drums)—is widely cited as the group’s defining configuration. Within that lineup, Brandt’s drumming tends to emphasize a solid rock backbeat with enough dynamics to match the band’s theatrical arrangements. Angel’s debut opens with the multi‑section “The Tower,” and songs like that...\n\nOn the early albums, Brandt’s playing supports both longer and shorter forms. In the more expansive material, he keeps transitions clean so the band can move between sections without losing intensity. In the more radio‑minded late‑’70s songs, he tightens the pulse so choruses hit harder and arrangements feel streamlined. In either mode, he functions as the hinge between Angel’s showy harmonic world and the physical force that makes hard rock feel physical.\n\nPublicly available biography about Brandt outside Angel is more limited than for some of his bandmates, and most reliable documentation centers on his work as Angel’s drummer and performer rather than on extensive personal details. That said, his name appears consistently in the credit trails for Angel’s classic era, including the mid‑to‑late 1970s studio albums and the band’s live reputation. In a group remembered for image and branding, Brandt’s contribution is the reminder that the foundation still matters....\n\nBrandt’s story also intersects with Angel’s later visibility. As classic‑era hard rock and glam were re‑evaluated by new generations of fans, Angel’s catalog gained strength as a “cult favorite,” and that renewed interest fed reunion‑era activity. Sources connected to the band’s modern life regularly reference the classic lineup and the continuity of the original players when available, and Brandt remains part of that core identity even as lineups shift over time.\n\nFor listeners, Brandt’s legacy is easiest to hear in the way Angel records move. The band’s keyboard arrangements can be ornate and the guitar parts can be melodic rather than blues‑centric; Brandt’s drumming is what turns those choices into rock songs with weight and drive. Even when the spotlight falls on the theatrics, the recordings preserve the truth: Angel worked because the rhythm section worked. Barry Brandt is part of that reason.\n\nOn *Helluva Band* (1976) and *On Earth as It Is in Heaven* (1977), the band’s shift toward a more streamlined, touring‑hardened sound asks for drumming that can feel both crisp and dramatic. Brandt’s parts tend to do that with straightforward patterns reinforced by accents that underline the band’s arrangement changes. When Angel moved into the more hook‑heavy late‑’70s phase (*White Hot* and *Sinful*), the drums still had to support choruses that were designed to land quickly, and Brandt’s role as time...\n\nBecause Angel’s concept was so visual, it’s easy to overlook how much discipline is required to make the show work in real time. Drummers in theatrical rock bands often serve as the “click track” without the click—they stabilize tempo, manage transitions, and keep energy consistent while the rest of the band plays with dynamics and staging. Brandt’s work on Angel’s early recordings reflects that responsibility. Whether the song is a multi‑part epic or a compact radio track, his drumming makes the band feel ...",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Sources": [
+              {
+                "Title": "Helluva Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Helluva_Band"
+              },
+              {
+                "Title": "Angel (American band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Angel_%28American_band%29"
+              },
+              {
+                "Title": "Barry Brandt Artist Profile",
+                "Publisher": "Discogs",
+                "Url": "https://www.discogs.com/artist/839569-Barry-Brandt"
+              },
+              {
+                "Title": "FRANK DIMINO ON ANGEL’S FUTURE, “WHO KNOWS?”",
+                "Publisher": "Eddie Trunk",
+                "Url": "https://eddietrunk.com/frank-dimino-on-angels-future-who-knows/"
+              },
+              {
+                "Title": "Fabulous Flip Sides – Angel interview with Frank DiMino and Punky Meadows",
+                "Publisher": "Goldmine Magazine",
+                "Url": "https://www.goldminemag.com/columns/fabulous-flip-sides/fabulous-flip-sides-angel-interview-with-frank-dimino-and-punky-meadows/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
-      },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+        "Official Site": "https://www.angelbandofficial.com/",
+        "AllMusic": "https://www.allmusic.com/artist/angel-mn0000043348",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Angel_%28American_band%29",
+        "Discogs": "https://www.discogs.com/artist/276839-Angel-4"
+      }
     },
     {
       "ArtistID": "the-animals",
