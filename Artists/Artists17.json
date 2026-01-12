@@ -2163,7 +2163,308 @@
     },
     {
       "ArtistID": "stevie-nicks",
-      "Name": "Stevie Nicks"
+      "Name": "Stevie Nicks",
+      "Type": "Solo",
+      "Origin": {
+        "City": "Phoenix",
+        "Region": "Arizona",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1967–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Pop rock",
+        "Soft rock",
+        "Folk rock"
+      ],
+      "Labels": [
+        "Modern",
+        "Atlantic",
+        "Atco",
+        "Reprise",
+        "Warner Bros.",
+        "WEA"
+      ],
+      "Overview": "Stevie Nicks is an American singer‑songwriter whose raspy, unmistakable vocal timbre and poetic, myth‑tinted storytelling helped define classic‑rock radio in two intertwined careers: as a central creative force in Fleetwood Mac’s blockbuster era and as a chart‑dominating solo artist. Born Stephanie Lynn Nicks in Phoenix, Arizona, she developed her stage persona early—equal parts confessional songwriter and theatrical frontwoman—then began building a serious repertoire in the duo Buckingham Nicks with Lindsey Buckingham. When the pair joined Fleetwood Mac in 1975, Nicks’s writing and performances became essential to the band’s identity as it moved from a respected British‑American rock outfit into a pop‑rock phenomenon, with songs that paired intimate emotional detail with big, cinematic hooks.\n\nRather than waiting for Fleetwood Mac’s cycle of recording and touring, Nicks launched an ambitious solo path that let her sharpen a more direct pop‑rock attack while keeping the aura that made her a singular presence onstage. Her debut Bella Donna (1981) reached No. 1 in the United States and immediately established her as a solo headliner, powered by the signature anthem “Edge of Seventeen” and high‑profile collaborations that translated her voice to broader audiences—most notably “Stop Draggin’ My Heart Around” with Tom Petty and “Leather and Lace” with Don Henley. She followed with The Wild Heart (1983), anchored by the synth‑driven hit “Stand Back,” and continued through mid‑’80s rock‑radio staples such as “Talk to Me” and “I Can’t Wait,” balancing big choruses with diaristic lyrics about love, loss, and endurance.\n\nIn later decades, Nicks remained a durable touring draw and a cultural touchstone, returning with albums like Trouble in Shangri‑La (2001) and continuing to release and curate her catalog for new listeners. Her influence shows up as much in attitude and performance language as in songwriting: the shawls and silhouettes, the controlled drama, and the willingness to make vulnerability feel mythic. Inducted into the Rock & Roll Hall of Fame with Fleetwood Mac and later as a solo performer, she stands as one of the most visible and influential women in rock history.",
+      "NotableAlbums": [
+        {
+          "Title": "Bella Donna",
+          "Year": "1981",
+          "Notes": "Debut solo album that reached No. 1 on the U.S. Billboard 200 and established Nicks as a standalone headliner; featured the singles “Edge of Seventeen,” “Stop Draggin’ My Heart Around,” and “Leather and Lace.”"
+        },
+        {
+          "Title": "The Wild Heart",
+          "Year": "1983",
+          "Notes": "Second solo album that reached the U.S. top five and delivered the synth‑driven hit “Stand Back,” plus “If Anyone Falls” and “Nightbird.”"
+        },
+        {
+          "Title": "Rock a Little",
+          "Year": "1985",
+          "Notes": "Mid‑’80s pop‑rock set that kept Nicks in heavy rotation with singles such as “Talk to Me” and “I Can’t Wait,” showing her adaptability to contemporary production."
+        },
+        {
+          "Title": "The Other Side of the Mirror",
+          "Year": "1989",
+          "Notes": "Late‑’80s album that continued her arena‑scale sound and included the hit “Rooms on Fire,” one of her biggest later‑career singles."
+        },
+        {
+          "Title": "Street Angel",
+          "Year": "1994",
+          "Notes": "’90s studio album documenting a transitional era; later re‑evaluated by fans for its deeper cuts and vocal performances."
+        },
+        {
+          "Title": "Trouble in Shangri‑La",
+          "Year": "2001",
+          "Notes": "Comeback studio album that debuted at No. 5 on the Billboard 200 and became her highest‑charting solo album since the early 1980s; featured singles including “Every Day” and “Sorcerer.”"
+        },
+        {
+          "Title": "In Your Dreams",
+          "Year": "2011",
+          "Notes": "Late‑career studio statement that blended classic Nicks imagery with modern rock‑pop polish and prominent collaborators, reaffirming her as an active album artist."
+        },
+        {
+          "Title": "24 Karat Gold: Songs from the Vault",
+          "Year": "2014",
+          "Notes": "Collection of newly recorded versions of older, previously unreleased or lesser‑known compositions, underscoring the depth of her songwriting archive."
+        }
+      ],
+      "SignatureSongs": [
+        "Edge of Seventeen",
+        "Stand Back",
+        "Stop Draggin’ My Heart Around (with Tom Petty)",
+        "Leather and Lace (with Don Henley)",
+        "Talk to Me",
+        "I Can’t Wait",
+        "If Anyone Falls",
+        "Rooms on Fire",
+        "After the Glitter Fades",
+        "Every Day"
+      ],
+      "Achievements": [
+        {
+          "Title": "No. 1 solo breakthrough with Bella Donna",
+          "Year": "1981",
+          "Details": "Her debut solo album Bella Donna topped the U.S. Billboard 200 and generated multiple major hit singles, confirming she could succeed outside Fleetwood Mac."
+        },
+        {
+          "Title": "Major solo hit “Stand Back”",
+          "Year": "1983",
+          "Details": "The single “Stand Back” became a defining MTV‑era track and a long‑running concert staple, anchoring her top‑five album The Wild Heart."
+        },
+        {
+          "Title": "Top‑five comeback with Trouble in Shangri‑La",
+          "Year": "2001",
+          "Details": "Trouble in Shangri‑La debuted at No. 5 on the Billboard 200, marking her strongest solo chart performance since the early 1980s."
+        },
+        {
+          "Title": "Rock & Roll Hall of Fame — inducted twice",
+          "Year": "2019",
+          "Details": "Inducted as a solo performer after previously being inducted with Fleetwood Mac, making her the first woman inducted twice into the Hall."
+        },
+        {
+          "Title": "Enduring cross‑generation influence",
+          "Year": "1977–present",
+          "Details": "Her songwriting and performance language—iconic vocals, symbolic imagery, and theatrical stage presence—remain a touchstone for later artists across rock and pop."
+        }
+      ],
+      "KeyFacts": [
+        "Born May 26, 1948, in Phoenix, Arizona (Stephanie Lynn Nicks).",
+        "Joined Fleetwood Mac in 1975 alongside Lindsey Buckingham and became a core writer and vocalist during the band’s most commercially successful era.",
+        "Launched a parallel solo career while remaining associated with Fleetwood Mac, beginning with Bella Donna (1981).",
+        "Known for vivid lyrical imagery, dramatic phrasing, and an instantly recognizable, textured vocal timbre.",
+        "Inducted into the Rock & Roll Hall of Fame as a solo performer in 2019 (after Fleetwood Mac’s 1998 induction).",
+        "Signature solo hits include “Edge of Seventeen” and “Stand Back,” alongside duet classics with Tom Petty and Don Henley.",
+        "A perennial touring draw whose setlists blend solo anthems with Fleetwood Mac staples."
+      ],
+      "ExternalLinks": {
+        "Official Site — Stevie Nicks": "https://stevienicksofficial.com/",
+        "AllMusic — Stevie Nicks": "https://www.allmusic.com/artist/stevie-nicks-mn0000936190",
+        "Rock & Roll Hall of Fame — Stevie Nicks": "https://rockhall.com/inductees/stevie-nicks/",
+        "Britannica — Stevie Nicks": "https://www.britannica.com/biography/Stevie-Nicks",
+        "Wikipedia — Stevie Nicks": "https://en.wikipedia.org/wiki/Stevie_Nicks"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Stevie Nicks",
+          "Roles": [
+            "lead vocals",
+            "songwriter"
+          ],
+          "Years": "1967–present",
+          "YearsActive": "1967–present",
+          "Instruments": [
+            "vocals",
+            "tambourine"
+          ],
+          "Albums": [
+            "Bella Donna",
+            "The Wild Heart",
+            "Rock a Little",
+            "The Other Side of the Mirror",
+            "Street Angel",
+            "Trouble in Shangri‑La",
+            "In Your Dreams",
+            "24 Karat Gold: Songs from the Vault"
+          ],
+          "Overview": "Singer‑songwriter and performer celebrated for a distinctive vocal timbre, symbolic lyric imagery, and a theatrical stage presence that made her a defining figure of classic rock both within Fleetwood Mac and as a solo headliner.",
+          "Bio": {
+            "Birth": {
+              "Date": "1948-05-26",
+              "Place": "Phoenix, Arizona, United States"
+            },
+            "Nationality": "American",
+            "Roles": [
+              "singer-songwriter",
+              "vocalist",
+              "composer"
+            ],
+            "Instruments": [
+              "vocals",
+              "tambourine"
+            ],
+            "Overview": "A landmark female rock artist whose work spans Fleetwood Mac’s biggest era and a parallel solo career built on confessional storytelling, myth‑tinted imagery, and enduring radio staples.",
+            "FullText": "Stephanie Lynn Nicks (born May 26, 1948, in Phoenix, Arizona) became “Stevie” as a child and grew up in a family that moved frequently for work, which left her attaching herself to music as a portable constant. She sang from an early age, learned the value of performance before she had a fixed home base, and, by her teens, was already shaping a style that fused folk‑rock melody with the kind of theatrical phrasing that made a lyric feel like a scene. After time in the San Francisco Bay Area, she began working in local bands and, in the late 1960s, joined Fritz, a group that performed around Northern California. Fritz became the place where her writing and stagecraft sharpened: she learned how to hold an audience, how to build a set, and how to deliver songs with a sense of story rather than mere vocal display.\n\nA decisive partnership formed when she connected creatively and romantically with Lindsey Buckingham. As Buckingham Nicks, they pursued a tight, harmony‑driven sound that drew on West Coast rock and pop craftsmanship, recording the album *Buckingham Nicks* (released in 1973). The record did not become a commercial breakthrough, but it documented two traits that would define Nicks’s later work: her ability to write emotionally specific lines that still read as universal, and her instinct for imagery—characters, weather, places, and symbols—that let personal experience feel mythic. The duo’s work also highlighted Buckingham’s guitar approach and production instincts, a combination that would soon make both of them unusually valuable to a band in transition.\n\nIn 1975, Fleetwood Mac—already established but retooling its lineup—recruited Buckingham, and Nicks came with him. The timing proved historic. With Nicks in the band, Fleetwood Mac’s music gained an added axis: her songs brought a darker, more romantic atmosphere and a vocal color that contrasted with the band’s other singers. On the self‑titled *Fleetwood Mac* (1975), her presence helped the group reach a larger American audience, and on *Rumours* (1977) she became inseparable from the era’s emotional narrative. Tracks associated with her writing and vocals—such as “Dreams,” “Gold Dust Woman,” and the earlier “Rhiannon”—turned her into a cultural figure, not just a band member: the voice in the center of songs that sounded like private diaries set to stadium‑sized hooks. The band’s constant tension and reinvention continued through *Tusk* (1979) and *Mirage* (1982), and Nicks emerged from those years as an artist who could navigate both pop success and the messier realities of long‑term collaboration.\n\nInstead of letting Fleetwood Mac define the boundaries of her output, Nicks built a parallel solo career that allowed her to write and record on her own timetable. Her debut solo album, *Bella Donna* (released in 1981), went to No. 1 on the U.S. Billboard 200 and immediately proved she could command an audience outside the band. The record presented Nicks as a direct pop‑rock hitmaker without sanding off the mystique: “Edge of Seventeen” became her signature solo anthem, while “Stop Draggin’ My Heart Around” (with Tom Petty) and “Leather and Lace” (with Don Henley) showed how well her voice worked in collaboration—equal parts smoky authority and emotional openness. The album’s success also framed an important career pattern: Nicks could translate Fleetwood Mac’s dramatic intensity into solo songs that were cleaner, punchier, and more radio‑focused, while still feeling like pages from the same personal mythology.\n\nShe followed with *The Wild Heart* (1983), which reached the U.S. top five and extended her solo identity into the MTV era. “Stand Back,” built on urgent rhythm and shimmering synthesizers, became one of her defining hits and a staple of her live sets; the album also delivered fan favorites and radio staples such as “If Anyone Falls.” In the mid‑1980s she continued with *Rock a Little* (1985), landing major singles like “Talk to Me” and “I Can’t Wait,” and reinforcing her ability to move with contemporary production trends without losing the personality of her writing. Across this period, her solo work emphasized a distinctive balance: big hooks and pop structure on the surface, with lyrics that remained elliptical, intimate, and emotionally charged underneath.\n\nAfter years of relentless touring and recording, Nicks’s later solo decades were shaped by periodic returns rather than constant album cycles, but she remained a high‑visibility artist. She released *Trouble in Shangri‑La* in 2001, her first solo studio album in several years, and it debuted in the U.S. top five—a reminder that her audience remained substantial across generations. Later projects, including *In Your Dreams* (2011) and *24 Karat Gold: Songs from the Vault* (2014), highlighted the depth of her songwriting archive and her interest in revisiting older material with new perspective. Throughout, her touring presence—built around a catalog that spans Fleetwood Mac classics and solo staples—helped cement her reputation as a performer whose songs are designed to live onstage.\n\nNicks’s influence is hard to separate from the way she looks and moves as much as from what she writes. She turned a rock concert into a kind of theater—flowing black outfits, shawls, spinning silhouettes—while maintaining the credibility of a songwriter who can land an unguarded line. Her voice is technically unconventional in the best sense: low‑centered, textured, and instantly recognizable, capable of sounding fragile and commanding within the same phrase. That combination—image, voice, and language—made her a template for later artists who wanted to be both pop‑accessible and personally mythic.\n\nIn 2019, Nicks was inducted into the Rock & Roll Hall of Fame as a solo performer after having previously been inducted with Fleetwood Mac, an uncommon double honor that underscored the scale of her impact. Decades after her first hits, she remains a reference point in rock and pop culture: a songwriter associated with some of the genre’s most enduring recordings, and a solo artist whose best songs can stand beside them without leaning on Fleetwood Mac’s name. Her career, taken as a whole, reads as a long argument for the power of voice and viewpoint—how a distinct sensibility can survive changing eras, formats, and fashions.",
+            "Sources": [
+              {
+                "Title": "Stevie Nicks | Biography",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/biography/Stevie-Nicks"
+              },
+              {
+                "Title": "Stevie Nicks — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/stevie-nicks-mn0000936190"
+              },
+              {
+                "Title": "Stevie Nicks — Inductee",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/stevie-nicks/"
+              },
+              {
+                "Title": "Bella Donna (album)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Bella_Donna_(album)"
+              },
+              {
+                "Title": "Stevie Nicks",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Stevie_Nicks"
+              },
+              {
+                "Title": "Stevie Nicks | Official Website",
+                "Publisher": "Stevie Nicks Official",
+                "Url": "https://stevienicksofficial.com/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Lindsey Buckingham",
+          "Roles": [
+            "guitar",
+            "vocals",
+            "songwriting",
+            "production"
+          ],
+          "Years": "Late 1960s–present",
+          "YearsActive": "Late 1960s–present",
+          "Instruments": [
+            "guitar",
+            "vocals"
+          ],
+          "Albums": [
+            "Buckingham Nicks",
+            "Fleetwood Mac (1975)",
+            "Rumours",
+            "Tusk",
+            "Mirage"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "Nicks’s earliest long‑term collaborator (Buckingham Nicks) and a key creative foil in Fleetwood Mac; their intertwined personal and musical history helped shape many of her best‑known songs and the dramatic tension that fueled the band’s classic recordings."
+        },
+        {
+          "Name": "Tom Petty",
+          "Roles": [
+            "vocals",
+            "songwriting",
+            "guitar"
+          ],
+          "Years": "1976–2017",
+          "YearsActive": "1976–2017",
+          "Instruments": [
+            "guitar",
+            "vocals"
+          ],
+          "Albums": [
+            "Bella Donna"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "A pivotal early solo collaborator whose songwriting and band chemistry helped launch Nicks’s solo breakthrough; their duet “Stop Draggin’ My Heart Around” became one of her signature recordings and linked her voice to Heartbreakers‑style rock drive."
+        },
+        {
+          "Name": "Don Henley",
+          "Roles": [
+            "vocals",
+            "drums",
+            "songwriting"
+          ],
+          "Years": "1971–present",
+          "YearsActive": "1971–present",
+          "Instruments": [
+            "vocals",
+            "drums"
+          ],
+          "Albums": [
+            "Bella Donna"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "Co‑star on the Bella Donna duet “Leather and Lace,” a restrained, radio‑dominant ballad that highlighted Nicks’s ability to match another major frontman while keeping her own emotional imprint at the center of the performance."
+        },
+        {
+          "Name": "Jimmy Iovine",
+          "Roles": [
+            "producer"
+          ],
+          "Years": "1970s–present",
+          "YearsActive": "1970s–present",
+          "Instruments": [],
+          "Albums": [
+            "Bella Donna",
+            "The Wild Heart",
+            "Rock a Little"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "Producer associated with Nicks’s early solo sound, helping translate her writing into punchy, radio‑ready arrangements that supported her transition from Fleetwood Mac member to independent chart force."
+        },
+        {
+          "Name": "Mike Campbell",
+          "Roles": [
+            "guitar",
+            "songwriting",
+            "production"
+          ],
+          "Years": "1976–present",
+          "YearsActive": "1976–present",
+          "Instruments": [
+            "guitar"
+          ],
+          "Albums": [
+            "Bella Donna",
+            "Trouble in Shangri‑La"
+          ],
+          "Replacing": "N/A",
+          "ReplacedBy": "N/A",
+          "Overview": "A key musical ally through her Tom Petty connection and later work; his guitar sensibility and band‑centric approach complemented Nicks’s voice and helped ground her songs in classic rock textures."
+        }
+      ]
     },
     {
       "ArtistID": "stiff-little-fingers",
