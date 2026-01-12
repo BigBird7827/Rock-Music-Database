@@ -893,8 +893,504 @@
     {
       "ArtistID": "the-who",
       "Name": "The Who",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "London",
+        "Region": "England",
+        "Country": "England"
+      },
+      "YearsActive": [
+        "1964–1983",
+        "1985",
+        "1988–1989",
+        "1996–present"
+      ],
+      "Genres": [
+        "Rock",
+        "British Invasion",
+        "Mod",
+        "Hard Rock",
+        "Art Rock",
+        "Proto-punk"
+      ],
+      "Overview": "The Who emerged from West London’s early‑1960s club scene and quickly became one of the defining bands of the British Invasion. Founded around the core of singer Roger Daltrey, guitarist and principal songwriter Pete Townshend, bassist John Entwistle, and drummer Keith Moon, the group fused sharp, R&B‑rooted mod energy with pop hooks and a confrontational stage presence. Their early singles (“I Can’t Explain,” “My Generation”) captured adolescent defiance, while Townshend’s writing expanded into bigger narratives and musical architecture—often built around power‑chord riffs, dramatic dynamics, and Entwistle’s unusually melodic bass lines locked to Moon’s explosive, “lead‑drummer” approach. The band’s live show—famous for volume, instrument destruction, and sheer momentum—helped establish the modern idea of rock as a physical, theatrical event.\n\nBy the late 1960s and early 1970s, The Who pushed beyond hit‑single expectations into ambitious album statements. The rock opera “Tommy” (1969) brought international stardom and a new level of critical attention, effectively popularizing the rock‑opera concept for a mass audience. They followed with landmark recordings like “Who’s Next” (1971)—born from Townshend’s abandoned “Lifehouse” project—where synthesizer patterns (“Baba O’Riley”) and thunderous rhythm tracks (“Won’t Get Fooled Again”) helped define arena rock. “Quadrophenia” (1973) deepened their storytelling, using the mod era as a lens for identity, class pressure, and psychological fracture, while also cementing the band as album‑era titans.\n\nTragedy and change shaped later phases. Moon’s death in 1978 ended the classic lineup, and Entwistle’s death in 2002 closed another foundational chapter. Yet the band’s catalog and performance legacy continued through reunions, major tours, and selective new releases. Inducted into the Rock & Roll Hall of Fame in 1990, The Who remain a reference point for generations of artists: pioneers of the rock‑album “statement,” masters of the stadium‑scale riff, and one of the clearest examples of how songwriting vision, instrumental personality, and live intensity can combine into a lasting cultural force.",
+      "NotableAlbums": [
+        {
+          "Title": "My Generation",
+          "Year": "1965",
+          "Type": "Studio",
+          "Notes": "Debut LP; established their mod/R&B attack and the generational anthem title track."
+        },
+        {
+          "Title": "The Who Sell Out",
+          "Year": "1967",
+          "Type": "Studio",
+          "Notes": "Pop‑art concept with faux radio ads; a key step toward album‑length ideas."
+        },
+        {
+          "Title": "Tommy",
+          "Year": "1969",
+          "Type": "Studio (Rock Opera)",
+          "Notes": "Breakthrough double album; helped popularize the rock‑opera concept."
+        },
+        {
+          "Title": "Live at Leeds",
+          "Year": "1970",
+          "Type": "Live",
+          "Notes": "Often cited as a definitive live rock album, capturing the band’s peak power."
+        },
+        {
+          "Title": "Who’s Next",
+          "Year": "1971",
+          "Type": "Studio",
+          "Notes": "Arena‑rock landmark born from the abandoned “Lifehouse” concept; includes “Baba O’Riley” and “Won’t Get Fooled Again”."
+        },
+        {
+          "Title": "Quadrophenia",
+          "Year": "1973",
+          "Type": "Studio (Rock Opera)",
+          "Notes": "Ambitious double album set against the mod era; a signature Townshend narrative work."
+        },
+        {
+          "Title": "The Who by Numbers",
+          "Year": "1975",
+          "Type": "Studio",
+          "Notes": "More introspective writing and gritty band interplay; a strong mid‑’70s statement."
+        },
+        {
+          "Title": "Who Are You",
+          "Year": "1978",
+          "Type": "Studio",
+          "Notes": "Final album with Keith Moon; title track became a late‑era signature."
+        },
+        {
+          "Title": "Face Dances",
+          "Year": "1981",
+          "Type": "Studio",
+          "Notes": "First album after Moon, with Kenney Jones; features “You Better You Bet”."
+        },
+        {
+          "Title": "WHO",
+          "Year": "2019",
+          "Type": "Studio",
+          "Notes": "Later‑career album reflecting the band’s modern touring era."
+        }
+      ],
+      "KeySongs": [
+        "My Generation",
+        "I Can’t Explain",
+        "Substitute",
+        "The Kids Are Alright",
+        "I Can See for Miles",
+        "Pinball Wizard",
+        "Baba O’Riley",
+        "Behind Blue Eyes",
+        "Won’t Get Fooled Again",
+        "Love, Reign o’er Me",
+        "5:15",
+        "Who Are You",
+        "You Better You Bet"
+      ],
+      "Achievements": [
+        "Inducted into the Rock & Roll Hall of Fame (1990).",
+        "Helped popularize the rock‑opera format with “Tommy” (1969) and expanded it with “Quadrophenia” (1973).",
+        "Known for some of rock’s most influential live performances, helping define the stadium/arena rock model.",
+        "Associated with a Guinness‑recognized “loudest concert” reputation in the 1970s, reflecting their extreme stage volume."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.thewho.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Who",
+        "AllMusic": "https://www.allmusic.com/artist/the-who-mn0000577627",
+        "Discography": "https://www.allmusic.com/artist/the-who-mn0000577627/discography",
+        "Rock Hall": "https://rockhall.com/inductees/who/"
+      },
+      "CoreMembers": [
+        {
+          "MemberID": "the-who-roger-daltrey",
+          "Name": "Roger Daltrey",
+          "Role": "Lead vocals",
+          "YearsActive": [
+            "1964–present"
+          ],
+          "Albums": [
+            {
+              "Title": "My Generation",
+              "Year": "1965"
+            },
+            {
+              "Title": "Tommy",
+              "Year": "1969"
+            },
+            {
+              "Title": "Who’s Next",
+              "Year": "1971"
+            },
+            {
+              "Title": "Quadrophenia",
+              "Year": "1973"
+            },
+            {
+              "Title": "Who Are You",
+              "Year": "1978"
+            },
+            {
+              "Title": "WHO",
+              "Year": "2019"
+            }
+          ],
+          "Bio": {
+            "BioID": "bio-the-who-roger-daltrey",
+            "FullName": "Sir Roger Harry Daltrey",
+            "Birth": {
+              "Date": "1944-03-01",
+              "Place": "East Acton, London, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Singer",
+              "Musician",
+              "Actor"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Guitar",
+              "Harmonica"
+            ],
+            "FullText": "Roger Daltrey’s importance to The Who is twofold: he was there at the start, pulling together the earliest version of the group as a teenager in West London, and he became the band’s defining human “front”—a singer whose physical, commanding delivery could match Pete Townshend’s songwriting ambition and the band’s sheer volume. Born in 1944 and raised in the Acton area of London, Daltrey came up in the post‑war years, when skiffle and early rock ’n’ roll offered an escape from austerity. Like many British musicians of his generation, he learned by doing—playing, listening, and chasing gigs—before any industry infrastructure existed to “develop” a band.\n\nIn the early 1960s, Daltrey began forming groups that mixed R&B covers with the emerging London mod sensibility. The band that would become The Who passed through multiple names and lineups, but Daltrey’s willingness to organize rehearsals, secure equipment, and push toward a professional identity was essential. He brought in John Entwistle, and through school connections the group’s orbit soon included Pete Townshend. Those connections mattered: Daltrey, Townshend, and Entwistle all shared West London roots, but they had different musical temperaments. Daltrey’s earliest role included guitar as well as singing, and the band’s first years demanded constant adjustment—of personnel, of repertoire, and of what kind of act they wanted to be.\n\nWhen The Who’s own material began to dominate their set, Daltrey’s job became less about playing an instrument and more about embodying a persona. The band’s early singles were sharp and provocative, and Daltrey delivered them with a directness that made the lyric feel like a confrontation. “My Generation” doesn’t work without a singer who sounds like he’s staking a claim; Daltrey gave the song its bite. As Townshend’s writing expanded—into bigger themes, bigger dynamics, and eventually album‑length narratives—Daltrey’s voice became the bridge between concept and impact. He could make intellectual ideas feel physical.\n\nThat ability was tested and proven with “Tommy.” Townshend’s rock opera required the vocalist to move between characters, viewpoints, and emotional registers while maintaining a coherent through‑line. Daltrey brought a theatrical clarity that never felt “stagey” in the wrong way; he sang like a rock frontman, even when the material demanded narrative precision. Through the 1970s, The Who’s peak studio era asked for both power and nuance. “Who’s Next” is full of songs that surge from restraint into release, and Daltrey’s approach—controlled, then explosive—helped define the band’s sound at arena scale. “Quadrophenia” expanded the challenge again, asking him to navigate vulnerability and fury across a dense double album.\n\nOn stage, Daltrey became one of rock’s iconic frontmen. His microphone‑cable technique, his physical stance, and his ability to command a very loud band without being swallowed by it are part of why The Who’s live reputation endures. Even when the group’s presentation bordered on chaos—Moon’s improvisatory drumming, Townshend’s windmill strums and instrument destruction—Daltrey’s presence provided a focal point. He could sing over the turbulence and make the audience feel that the performance had a narrative direction, not just volume.\n\nDaltrey also built a substantial parallel career. In the 1970s he pursued solo recordings while remaining central to The Who, and he took acting roles that broadened his profile beyond music audiences. The film adaptation of “Tommy” helped place him in a larger pop‑culture context, and later screen work reinforced that he was more than “the singer in a band.” Still, his identity remained deeply tied to The Who’s catalog because that catalog was built around his voice as an instrument—one capable of tenderness, menace, and rallying‑cry intensity.\n\nThe band’s later decades brought both continuity and loss. Keith Moon’s death in 1978 ended the classic lineup, and John Entwistle’s death in 2002 removed another foundational voice. Through those changes, Daltrey remained one of the key guardians of the repertoire, helping shape the band’s touring legacy and the way its music was presented to new audiences. That role is often invisible compared with the spotlight of performance, but it’s part of how classic catalogs survive: someone has to insist on standards, on arrangements that serve the songs, and on performances that feel like The Who rather than a tribute act.\n\nIn the long view, Daltrey’s legacy is that he made a songwriter‑driven band feel immediate and bodily. Townshend wrote the architecture; Entwistle and Moon made the engine sound like nothing else; but Daltrey gave it a human face and a voice built to cut through any wall of amplification. That is why The Who’s biggest moments still feel alive: the singing isn’t ornamental. It’s the part that makes the music land like a challenge, a confession, or a rallying cry—sometimes all at once.\n\nA useful way to understand Daltrey’s artistry is to notice how he interprets Townshend’s lyrics. Townshend often writes in first person, but the “I” is frequently a character, a social role, or a mask. Daltrey sings those lines with a physical certainty that turns abstract ideas into lived experience. That quality is why The Who’s anthems can feel personal and collective at the same time: the performance sounds like one person speaking, but it carries the emotional weight of a crowd.\n\nIn the modern touring era, Daltrey’s voice and stamina became part of the story in their own right. The songs were written for a young band playing at maximum force, and performing them decades later required careful phrasing and stagecraft. Daltrey adapted without diluting the core identity of the material, maintaining the authority of the catalog while acknowledging the realities of time. That balance—respect for the past without turning it into museum theatre—is one reason The Who continued to connect with audiences long after the original era ended.",
+            "Sources": [
+              {
+                "Title": "Roger Daltrey",
+                "Publisher": "The Who (Official Site)",
+                "Url": "https://www.thewho.com/roger-daltrey/"
+              },
+              {
+                "Title": "Roger Daltrey",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Roger_Daltrey"
+              },
+              {
+                "Title": "The Who",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/who/"
+              }
+            ]
+          }
+        },
+        {
+          "MemberID": "the-who-pete-townshend",
+          "Name": "Pete Townshend",
+          "Role": "Guitar, songwriting, vocals",
+          "YearsActive": [
+            "1964–present"
+          ],
+          "Albums": [
+            {
+              "Title": "The Who Sell Out",
+              "Year": "1967"
+            },
+            {
+              "Title": "Tommy",
+              "Year": "1969"
+            },
+            {
+              "Title": "Who’s Next",
+              "Year": "1971"
+            },
+            {
+              "Title": "Quadrophenia",
+              "Year": "1973"
+            },
+            {
+              "Title": "Who Are You",
+              "Year": "1978"
+            },
+            {
+              "Title": "WHO",
+              "Year": "2019"
+            }
+          ],
+          "Bio": {
+            "BioID": "bio-the-who-pete-townshend",
+            "FullName": "Peter Dennis Blandford Townshend",
+            "Birth": {
+              "Date": "1945-05-19",
+              "Place": "Chiswick, London, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Songwriter",
+              "Composer",
+              "Singer"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals",
+              "Keyboards"
+            ],
+            "FullText": "Pete Townshend is the primary architect of The Who’s legacy: a guitarist whose rhythmic aggression helped define hard rock’s language, and a songwriter whose ambition pushed the band from sharp singles to large‑scale narratives that changed what rock music could attempt. Born in 1945 into a musical family in Chiswick, West London, Townshend grew up with performance and composition as ordinary facts of life. That background mattered. He wasn’t only chasing volume or attitude; he was thinking about structure, theme, and how a song could carry an argument.\n\nAs a teenager he became absorbed by American rock ’n’ roll and R&B, then by the modernist edge of London’s mod culture. When he joined the group that became The Who, he brought a distinctive guitar approach: hard, percussive chord attacks that functioned like a second drum kit. With Keith Moon playing in constant motion and John Entwistle pushing bass into the foreground, Townshend’s guitar had to be both anchor and spark. His “windmill” strum became a visual signature, but the musical point was rhythmic authority—the ability to make a band feel like it’s accelerating even when the tempo is steady.\n\nTownshend’s early writing established a template for rock songs about youth not as romance, but as pressure. The band’s breakthrough material put alienation and defiance on the radio in a way that felt new in mid‑1960s pop. Yet Townshend did not stay in the single‑format lane for long. He was drawn to the idea of recurring musical themes, characters, and long‑form arcs—concepts more commonly associated with classical and theatrical traditions than with rock clubs. This tension—between a brutal, simple guitar sound and a writer’s desire for expansive form—became the central engine of The Who.\n\nThat engine reached a first peak with “Tommy,” the rock opera that turned the band into a global institution. Townshend used leitmotifs, narrative sequencing, and emotional “chapters” to create a coherent story across a double album, demonstrating that rock could function like a staged work without losing its intensity. The success of “Tommy” also made Townshend’s authorship unusually visible for a rock band: listeners understood that The Who were not merely a collective of players, but a vehicle for a writer with a large conceptual agenda.\n\nHe tried to push that agenda further with “Lifehouse,” an even more ambitious project that combined music, story, and ideas about technology and identity. “Lifehouse” famously collapsed during development, but its best material became “Who’s Next,” one of rock’s definitive albums. On that record, Townshend’s writing and production instincts helped integrate synthesizer patterns into hard rock without softening the band’s attack. “Baba O’Riley” and “Won’t Get Fooled Again” marry repetitive electronic sequences with explosive band dynamics, creating a sound that would be foundational for arena rock and later styles that blend machines and guitars.\n\nTownshend returned to long‑form narrative at full scale with “Quadrophenia,” a dense double album set against the mod era and built around identity fracture and social belonging. It’s a writer’s album: the lyrics are specific, the musical themes return and mutate, and the emotional arc moves like a novel. Townshend’s guitar remains forceful throughout, but the album’s power comes from the way the music supports the character’s internal conflict. In that sense, “Quadrophenia” shows his range: he could write stadium anthems, but he could also build an immersive psychological story.\n\nOutside The Who, Townshend pursued solo releases, composition, and writing projects that underscore how broad his creative identity became. Those solo paths didn’t dilute The Who; they explain why the band’s catalog is unusually unified around a single authorial voice. Even when other members contributed songs, Townshend’s taste—his sense of what The Who should sound like and what it should be “about”—shaped the band’s overall arc. He was also closely involved in the band’s stage presentation, helping define the feedback‑driven guitar textures and the performance drama that made The Who a live phenomenon.\n\nA key element of Townshend’s story is how closely his art is tied to the realities of rock performance. The Who became famous for extreme stage volume, and Townshend later spoke openly about the toll—tinnitus and partial hearing loss linked to years of loud shows and specific incidents. That reality underscores the physical stakes behind the band’s reputation: the sound wasn’t just a pose; it was a working condition that shaped lives and careers.\n\nIn sum, Townshend’s lasting influence comes from the combination of visceral guitar language and long‑form imagination. Countless bands borrowed the volume and the riffs; fewer matched the idea that rock could carry narrative weight, social observation, and personal confession at stadium scale. That mix—muscular sound plus conceptual reach—is why Townshend remains one of rock’s most important writers, and why The Who’s best work still feels both immediate and intellectually alive.\n\nTownshend’s stage behavior—especially the destruction of instruments—was not only shock value. He tied it to ideas about “auto‑destructive art,” using performance as a demonstration that creation and destruction can be linked. In The Who’s context, that translated into a concert language of release: frustration, rebellion, comedy, and catharsis embodied physically. Those images traveled far beyond the band’s immediate audience and helped set expectations for what a rock show could look like, influencing later hard rock, punk, and alternative performers who treated the stage as a place for risk and catharsis.\n\nAs a songwriter, Townshend also proved unusually durable. Even when the band’s circumstances changed, his work continued to be the connective tissue, and his themes—identity, belonging, disillusionment with authority, the search for meaning inside mass culture—kept resonating because they were not tied to a single news cycle. That thematic durability is part of why The Who’s music is still widely used and referenced: it can function as a specific historical artifact of the 1960s and 1970s, and as a more general language for conflict between the individual and the systems around them.",
+            "Sources": [
+              {
+                "Title": "Pete Townshend",
+                "Publisher": "The Who (Official Site)",
+                "Url": "https://www.thewho.com/pete-townshend/"
+              },
+              {
+                "Title": "Pete Townshend",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pete_Townshend"
+              },
+              {
+                "Title": "Pete Townshend",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/pete-townshend-mn0000842351"
+              }
+            ]
+          }
+        },
+        {
+          "MemberID": "the-who-john-entwistle",
+          "Name": "John Entwistle",
+          "Role": "Bass, brass, vocals",
+          "YearsActive": [
+            "1964–2002"
+          ],
+          "Albums": [
+            {
+              "Title": "My Generation",
+              "Year": "1965"
+            },
+            {
+              "Title": "Tommy",
+              "Year": "1969"
+            },
+            {
+              "Title": "Live at Leeds",
+              "Year": "1970"
+            },
+            {
+              "Title": "Who’s Next",
+              "Year": "1971"
+            },
+            {
+              "Title": "Quadrophenia",
+              "Year": "1973"
+            },
+            {
+              "Title": "Who Are You",
+              "Year": "1978"
+            }
+          ],
+          "Bio": {
+            "BioID": "bio-the-who-john-entwistle",
+            "FullName": "John Alec Entwistle",
+            "Birth": {
+              "Date": "1944-10-09",
+              "Place": "Hammersmith, London, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Bassist",
+              "Musician",
+              "Songwriter",
+              "Composer"
+            ],
+            "Instruments": [
+              "Bass guitar",
+              "French horn",
+              "Trumpet",
+              "Vocals"
+            ],
+            "FullText": "John Entwistle was the quiet power at the center of The Who: an innovative bassist whose tone and phrasing helped redefine what the instrument could do in rock, and a musician whose arrangement sense gave the band both heft and clarity amid its famous chaos. Born in 1944 in West London and raised in the Chiswick area, Entwistle had a more formal musical grounding than many of his peers. He studied brass and orchestral instruments—particularly trumpet and French horn—before bass guitar became his primary voice. That early training shaped his style: he approached parts with an arranger’s ear, thinking in counter‑melodies and textures rather than simple root notes.\n\nEntwistle met Pete Townshend at school, and their early friendship became one of the roots of the band. When the group that became The Who formed in the early 1960s, Entwistle’s presence immediately raised the musical ceiling. His ability to read music, his understanding of harmony, and his willingness to experiment with tone gave the band a solidity that balanced its raw energy. In the mid‑1960s, rock bass was often mixed quietly and played conservatively; Entwistle helped push it forward in both senses. He played with a bright, aggressive sound and a fast, percussive right hand that made the bass line a lead element. Those traits earned him nicknames like “Thunderfingers” and “The Ox,” but they also describe a musical function: he provided power and stamina.\n\nThe Who’s live sound was famously loud and volatile, and the bass had to do more than “support”—it had to carve a lane through a storm of drums and guitar. Entwistle developed a tone that cut through, often using treble and attack in a way that later became standard for hard rock. On records, you can hear how he stabilizes the band while still playing melodically. A Who track often has three “lead” instruments at once: Townshend’s guitar riffs and feedback textures, Entwistle’s bass as a second melodic voice, and Moon’s drums as a constant narrative commentary. Entwistle is the reason that blend doesn’t collapse.\n\nHis contribution becomes especially clear in the band’s peak album era. “Tommy” required musical acting from the whole group, and Entwistle delivered with parts that shift between narrative support and virtuosic comment. He was also one of the band’s most effective textural players, using brass instincts—sustains, stabs, and countermelodies—to make arrangements feel wide. On “Who’s Next,” the bass doesn’t merely follow; it drives. The songs are built on repeated motifs and dramatic builds, and Entwistle’s precision locks the structure in place even when Moon is playing like a storm. “Quadrophenia” deepened that requirement: the arrangements are dense and cinematic, and Entwistle’s playing supplies both propulsion and definition.\n\nEntwistle was also a songwriter within The Who, contributing material that often had a darker, more sardonic edge. His songs and lyrical sensibility broadened the band’s palette beyond Townshend’s confessional and conceptual style. He could be macabre, witty, and observational, and he sometimes sang his own compositions, giving the group another vocal texture. That internal diversity is part of why The Who’s catalog feels rich: it contains a core authorial voice, but it also contains secondary perspectives that keep the band from becoming one‑dimensional.\n\nOn stage, Entwistle was often billed as “The Quiet One,” but that wasn’t a lack of intensity; it was a contrast to the band’s theatrical front line. While Townshend and Daltrey projected outward, Entwistle anchored inward, making the band’s sound coherent at the very point where it could have become pure noise. Many later bassists cite him as a model for combining speed, melodic imagination, and authoritative tone. His influence isn’t only technical. It’s structural: he demonstrated that in a loud band, the bass can be the instrument that holds the story together.\n\nOutside The Who, Entwistle released solo work and pursued visual art interests, but his main legacy remains the way he changed bass vocabulary in rock. In later decades, even as the band’s personnel changed, Entwistle’s lines remained the blueprint that touring players had to learn and honor. His death in 2002 marked the end of an era, but the recorded work endures as a masterclass in how to be both foundation and lead voice—how to give a band power without sacrificing musical detail. If The Who often sound like controlled chaos, Entwistle is a major reason the “control” part holds.\n\nEntwistle’s background as a brass player also shaped the way he approached rock arrangements. He thought in lines and counter‑lines, not just root notes, and that is one reason The Who could sound spacious even at maximum volume. In the studio, his parts often function like an arranger’s pen: a bass figure will mirror a vocal phrase, then answer it, then break away into a separate melodic statement. That method is especially evident on songs where The Who build long crescendos; Entwistle’s consistency lets the other instruments “go wild” without collapsing the groove.\n\nHe also contributed to The Who’s visual and cultural identity in quieter ways. The band’s public mythology often focuses on Townshend’s conceptual writing and Daltrey’s frontman role, but the group’s durability depended on a strong internal musicianship, and Entwistle supplied that. His reputation among peers is that of a player other musicians study: not only for speed, but for how clearly he articulates the harmony. Many of the bass‑forward production choices common in hard rock and metal trace back to the way Entwistle made listeners accept the bass as a principal voice.\n\nIn later touring eras, his parts became a kind of “required language” for the band. Any bassist stepping into The Who’s live show has to speak that language—those iconic lines, the tone, the authority—because the music is built around it. That is the ultimate measure of influence: the work becomes so foundational that it turns into the standard. Entwistle achieved that, and the recordings remain the clearest evidence: a catalog where the bass is simultaneously backbone, melody, and attitude.",
+            "Sources": [
+              {
+                "Title": "John Entwistle",
+                "Publisher": "The Who (Official Site)",
+                "Url": "https://www.thewho.com/john-entwistle/"
+              },
+              {
+                "Title": "John Entwistle",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/John_Entwistle"
+              },
+              {
+                "Title": "The Who",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/who/"
+              }
+            ]
+          }
+        },
+        {
+          "MemberID": "the-who-keith-moon",
+          "Name": "Keith Moon",
+          "Role": "Drums, percussion",
+          "YearsActive": [
+            "1964–1978"
+          ],
+          "Albums": [
+            {
+              "Title": "My Generation",
+              "Year": "1965"
+            },
+            {
+              "Title": "The Who Sell Out",
+              "Year": "1967"
+            },
+            {
+              "Title": "Tommy",
+              "Year": "1969"
+            },
+            {
+              "Title": "Live at Leeds",
+              "Year": "1970"
+            },
+            {
+              "Title": "Who’s Next",
+              "Year": "1971"
+            },
+            {
+              "Title": "Who Are You",
+              "Year": "1978"
+            }
+          ],
+          "Bio": {
+            "BioID": "bio-the-who-keith-moon",
+            "FullName": "Keith John Moon",
+            "Birth": {
+              "Date": "1946-08-23",
+              "Place": "Wembley, London, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Drummer",
+              "Musician"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion",
+              "Vocals"
+            ],
+            "FullText": "Keith Moon is one of rock’s most influential drummers because he treated the kit as a lead instrument. Where many players in the 1960s held the beat in the background, Moon exploded across it—filling every gap with rolls, crashes, and rhythmic surprises that made The Who sound like a band constantly on the verge of combustion. Born in 1946 and raised in Wembley, he was drawn early to the excitement of rock and R&B, then developed quickly as a player during the early‑1960s club circuit. When he joined The Who in 1964, the group had raw potential; Moon’s arrival helped turn it into a force.\n\nMoon’s genius wasn’t about “tightness” in the conventional sense; it was about momentum and drama. He often de‑emphasized standard time‑keeping habits, preferring to create a rolling orchestral texture that pushed songs forward. His cymbal work—ride and crash patterns, punctuations, and sudden detonations—became a signature, as did the way he made fills feel like forward motion rather than decorative interruptions. In a typical Who track, Townshend’s guitar provides percussive chords, Entwistle’s bass gives melodic authority, and Moon becomes the wild card that turns the whole thing into a surge. His drumming is not simply “behind” the band; it’s inside the song, arguing with it, amplifying it, sometimes daring it to keep up.\n\nThat approach transformed The Who’s early singles and live performances. On record, Moon’s playing adds tension and release, turning relatively simple harmonic progressions into emotional events. Live, the effect was even bigger. The Who became famous for volume, speed, and kinetic presentation, and Moon played as if the audience’s heartbeat depended on him. His fills often served as cues for dramatic shifts—accelerations, breakdowns, and explosive returns. This wasn’t merely loud drumming; it was theatrical drumming. The sound told a story of pressure and release, and that theatricality matched the band’s broader ambitions, particularly in the concept‑album era.\n\nMoon’s contribution to the classic albums is inseparable from how listeners experience them. “Tommy” needs a drummer who can move between narrative scenes without losing intensity; Moon does that by coloring each section differently, using kit placement and cymbal voice like an actor changes tone. On “Live at Leeds,” his playing captures the band at a peak of risk‑taking: tempos stretch, dynamics snap, and Moon’s instincts keep the performance dramatic rather than messy. On “Who’s Next,” the songs often build from repeated motifs into climactic bursts, and Moon’s fills are part of what makes the climaxes feel inevitable. Even when synthesizer patterns and studio construction became more important in The Who’s sound, Moon remained the human turbulence at the center.\n\nHis personality—brash, impulsive, and self‑destructive—became part of rock legend, but the enduring reason he matters is musical. Generations of drummers cite him as a model for freedom within a song: how to be expressive without losing the band, how to play with the energy of a soloist while still serving the track’s emotional point. Many later styles—from punk’s urgency to alternative rock’s big‑room dynamics—owe something to Moon’s idea that drums can be a narrative force, not just a metronome. He also influenced the physical scale of rock drumming: large kits, heavy cymbals, and a “full‑band” mindset where drums contribute melody, not only rhythm.\n\nMoon’s life ended in 1978, and his death closed the classic chapter of The Who. Yet the performances remain startlingly modern. What sounds like chaos at first reveals a deep instinct for drama: he understood that rock music, at its best, isn’t just rhythm—it’s propulsion. In that sense, Moon didn’t simply play time for The Who. He made time feel like it was accelerating, breaking, and reforming in real time, and that is why he remains a benchmark for what “energy” means on a drum kit.\n\nMoon’s musicianship also extended beyond the strict job description of “drummer.” He sang on some recordings, contributed to the band’s comedic and chaotic public image, and occasionally participated in outside sessions and collaborations. One often‑noted example is his appearance on Jeff Beck’s “Beck’s Bolero,” a track associated with a loose 1960s “supergroup” circle that included key British rock figures. Those kinds of credits underline that other musicians recognized Moon as more than a wild personality—he was a player whose feel and imagination could elevate a track.\n\nTechnically, Moon’s approach influenced the equipment and setup choices of later rock drummers. His large kits and emphatic use of cymbals helped normalize the “big” rock drum sound, and his energetic, fill‑driven vocabulary became a blueprint for drummers who wanted to sound expressive without becoming fussy. You can hear his influence in the way later bands treat the drums as a storytelling tool—building excitement, creating suspense, and releasing it—rather than as a purely time‑keeping mechanism.\n\nBecause his career ended so young, Moon’s legacy is concentrated: nearly everything listeners know him for is captured in The Who’s classic run from the mid‑1960s to the late 1970s. That concentration makes the impact even clearer. The playing doesn’t “age” into the background; it stays at the surface, still sounding daring. Moon remains a reminder that in a great rock band, virtuosity isn’t only precision. Sometimes it is the courage to play as if the music is happening for the first and last time.",
+            "Sources": [
+              {
+                "Title": "Keith Moon",
+                "Publisher": "The Who (Official Site)",
+                "Url": "https://www.thewho.com/keith-moon/"
+              },
+              {
+                "Title": "Keith Moon",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Keith_Moon"
+              },
+              {
+                "Title": "The Who",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-who-mn0000577627"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Kenney Jones",
+          "Role": "Drums",
+          "YearsActive": [
+            "1979–1983",
+            "1985"
+          ],
+          "Bio": "Kenney Jones is best known for his work with Small Faces and Faces and became The Who’s drummer after Keith Moon’s death. His steadier, groove‑centered style contrasted with Moon’s hyperactive approach, helping the band transition into its early‑1980s phase, including albums like “Face Dances” and “It’s Hard.” Jones’ tenure illustrates how central the drummer’s personality is to The Who’s sound: he brought professionalism and pocket, and his period with the group marks a distinct chapter in their long history.",
+          "Sources": [
+            {
+              "Title": "The Who",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://rockhall.com/inductees/who/"
+            },
+            {
+              "Title": "The Who",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/The_Who"
+            }
+          ]
+        },
+        {
+          "Name": "Zak Starkey",
+          "Role": "Drums",
+          "YearsActive": [
+            "1996–2023"
+          ],
+          "Bio": "Zak Starkey, a drummer with deep roots in British rock, became a key part of The Who’s modern touring lineup beginning in the 1990s. His playing blended technical control with the volume and attack required to honor the band’s repertoire, helping Roger Daltrey and Pete Townshend bring classic material to large audiences across decades. While The Who’s studio legacy was built by the classic quartet, Starkey’s long touring run made him one of the most recognizable musicians associated with the band’s later live era.",
+          "Sources": [
+            {
+              "Title": "Current Touring Band",
+              "Publisher": "The Who (Official Site)",
+              "Url": "https://www.thewho.com/current-touring-band/"
+            },
+            {
+              "Title": "The Who",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/The_Who"
+            }
+          ]
+        },
+        {
+          "Name": "Pino Palladino",
+          "Role": "Bass",
+          "YearsActive": [
+            "2002–present (touring)"
+          ],
+          "Bio": "After John Entwistle’s death, the touring Who relied on acclaimed session bassist Pino Palladino for live performances. Palladino’s role has been to provide the authority and precision required for a catalog where bass lines are often as prominent as the guitar. Known for versatile work across pop and rock, he has helped translate Entwistle’s demanding parts to modern stages while supporting the band’s continuing live presence.",
+          "Sources": [
+            {
+              "Title": "The Who",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/The_Who"
+            },
+            {
+              "Title": "The Who",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/the-who-mn0000577627"
+            }
+          ]
+        }
+      ],
+      "Influences": [
+        "American Rhythm & Blues",
+        "Mod Culture",
+        "British Invasion Pop",
+        "Garage Rock",
+        "Pop Art"
+      ],
+      "LegacyImpact": "The Who’s impact runs along two parallel tracks: innovation on record and reinvention of what a rock concert could feel like. Townshend’s ambition—turning personal themes and social observation into long‑form musical narratives—helped normalize the idea that a rock album could function like literature or theatre, not just a collection of songs. “Tommy” and “Quadrophenia” became templates for later concept albums and rock operas across progressive rock, punk‑adjacent art rock, and even modern musical theatre adaptations. At the same time, the band’s sound—big drums, aggressive guitar, foregrounded bass, and vocals built for maximum projection—anticipated the scale of 1970s arena rock.\n\nOn stage, The Who demonstrated that performance energy could be as influential as composition. Their reputation for extreme volume and kinetic, sometimes chaotic presentation became part of rock folklore, but it also influenced practical evolution: bigger PA systems, louder backlines, and a concert culture that treated the live show as an event. Importantly, their influence isn’t limited to loudness; it’s about tension and release, the way the band could turn a simple riff into a dramatic arc and make a crowd feel that arc in real time.\n\nCulturally, The Who sit at the intersection of mod style, British Invasion songwriting craft, and a harder, more visceral approach that fed into proto‑punk and punk attitude. Their music continues to be used as shorthand for youthful rebellion (“My Generation”), mass‑movement anthems (“Baba O’Riley”), and skepticism toward authority and systems (“Won’t Get Fooled Again”). Across decades, whether through reissues, tribute performances, film associations, or major tours, The Who remain one of rock’s clearest “through lines” connecting 1960s club culture to the modern stadium era.",
+      "Sources": [
+        {
+          "Title": "The Who",
+          "Publisher": "Rock & Roll Hall of Fame",
+          "Url": "https://rockhall.com/inductees/who/"
+        },
+        {
+          "Title": "The Who",
+          "Publisher": "AllMusic",
+          "Url": "https://www.allmusic.com/artist/the-who-mn0000577627"
+        },
+        {
+          "Title": "The Who",
+          "Publisher": "The Who (Official Site)",
+          "Url": "https://www.thewho.com/music/the-story-of-the-who/"
+        },
+        {
+          "Title": "Tommy",
+          "Publisher": "Encyclopaedia Britannica",
+          "Url": "https://www.britannica.com/topic/Tommy-by-the-Who"
+        },
+        {
+          "Title": "Pete Townshend",
+          "Publisher": "Wikipedia",
+          "Url": "https://en.wikipedia.org/wiki/Pete_Townshend"
+        }
+      ],
+      "IsComplete": true
     },
     {
       "ArtistID": "winger",
