@@ -2490,7 +2490,308 @@
     },
     {
       "ArtistID": "the-verve",
-      "Name": "The Verve"
+      "Name": "The Verve",
+      "Type": "Band",
+      "Origin": "Wigan, Greater Manchester, England",
+      "YearsActive": [
+        "1990–1999",
+        "2007–2009"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Britpop",
+        "Psychedelic rock",
+        "Shoegaze",
+        "Indie rock"
+      ],
+      "Overview": "The Verve were an English rock band formed in Wigan, Greater Manchester, in 1990 by vocalist/rhythm guitarist Richard Ashcroft, guitarist Nick McCabe, bassist Simon Jones, and drummer Peter Salisbury. Coming out of the North West scene at the start of the 1990s, they first drew attention for a swirling, psychedelic- and shoegaze-adjacent sound that emphasized texture, repetition, and dynamic build. Their debut album *A Storm in Heaven* (1993) showcased those atmospheric strengths, while the follow-up *A Northern Soul* (1995) pushed into darker, heavier territory and set the stage for the band’s later shift toward more direct, song-driven writing.\n\nThe Verve’s history is inseparable from recurring tensions among its members, but that volatility also framed their most enduring work. After a mid‑1990s fracture, the group reconvened and delivered their commercial and cultural landmark *Urban Hymns* (1997). The record leaned more heavily into songcraft—lush arrangements, orchestral colour, and anthemic hooks—while keeping a muscular rhythmic feel and a sense of space around Ashcroft’s melodies. It produced defining singles including “Bitter Sweet Symphony,” “The Drugs Don’t Work,” “Lucky Man,” and “Sonnet,” and it was widely celebrated at the 1998 BRIT Awards. “Bitter Sweet Symphony” also became a cautionary tale about sampling and publishing, with its credits and royalties tied up for years after a dispute over an orchestral sample.\n\nThe Verve split in 1999, with members moving into solo work and new projects, but reunited in 2007 and returned with *Forth* (2008), their first studio album in more than a decade. The reunion showcased the original line-up’s distinctive interplay—McCabe’s colouristic, effects-driven guitar architecture; Jones’s melodic, song-shaped bass lines; Salisbury’s groove-centric drumming—framing Ashcroft’s vocal presence and instinct for big choruses. Another breakup followed in 2009. Across their catalogue, The Verve’s legacy rests on that tension between experimentation and accessibility: early psych-rock sprawl, late‑90s stadium-scale songwriting, and a brief 2000s return that underlined why the band’s chemistry remains singular.\n",
+      "NotableAlbums": [
+        {
+          "Title": "A Storm in Heaven",
+          "Year": 1993,
+          "Notes": "Debut album; atmospheric psychedelic/space-rock textures and extended arrangements established the band’s early identity."
+        },
+        {
+          "Title": "A Northern Soul",
+          "Year": 1995,
+          "Notes": "Darker, heavier follow-up that sharpened the group’s intensity and cult reputation."
+        },
+        {
+          "Title": "Urban Hymns",
+          "Year": 1997,
+          "Notes": "Breakthrough album featuring the band’s biggest songs; a defining late‑1990s British rock statement."
+        },
+        {
+          "Title": "Forth",
+          "Year": 2008,
+          "Notes": "Reunion-era studio album that reunited the original line-up and expanded their sound into long-form, cinematic rock again."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Bitter Sweet Symphony",
+          "Year": 1997,
+          "Notes": "The band’s signature hit; widely recognized for its sweeping string hook and anthemic chorus."
+        },
+        {
+          "Title": "The Drugs Don’t Work",
+          "Year": 1997,
+          "Notes": "UK number-one single from *Urban Hymns*; a stark, emotional centerpiece of their peak period."
+        },
+        {
+          "Title": "Lucky Man",
+          "Year": 1997,
+          "Notes": "Another major *Urban Hymns* single; reflective, melodic, and radio-defining in the Britpop era’s aftermath."
+        },
+        {
+          "Title": "Love Is Noise",
+          "Year": 2008,
+          "Notes": "Lead single from *Forth*; marked the band’s return with a modernized, loop-driven groove."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1997,
+          "Title": "*Urban Hymns* becomes a landmark release",
+          "Details": "The album’s singles and scale made it one of the defining British rock records of the late 1990s."
+        },
+        {
+          "Year": 1998,
+          "Title": "Brit Awards recognition for *Urban Hymns* era",
+          "Details": "The band’s late‑1990s peak translated into major UK awards attention for the album and group."
+        },
+        {
+          "Year": 2008,
+          "Title": "Original line-up returns with *Forth*",
+          "Details": "A full studio reunion more than a decade after *Urban Hymns*, followed by major touring."
+        },
+        {
+          "Year": 2019,
+          "Title": "“Bitter Sweet Symphony” publishing dispute shifts",
+          "Details": "Public reports confirmed that Mick Jagger and Keith Richards assigned songwriting credit/royalties back to Richard Ashcroft, ending the long-running controversy."
+        }
+      ],
+      "ExternalLinks": {
+        "Wikipedia — The Verve": "https://en.wikipedia.org/wiki/The_Verve",
+        "Spotify — The Verve": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84",
+        "Discogs — The Verve": "https://www.discogs.com/artist/31064-The-Verve"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Richard Ashcroft",
+          "YearsActive": "1990–1999; 2007–2009",
+          "Roles": "Lead vocals; rhythm guitar; primary songwriter",
+          "Instruments": "Vocals; guitar",
+          "Albums": [
+            "A Storm in Heaven (1993)",
+            "A Northern Soul (1995)",
+            "Urban Hymns (1997)",
+            "Forth (2008)",
+            "Alone with Everybody (2000)",
+            "Human Conditions (2002)",
+            "Keys to the World (2006)"
+          ],
+          "Bio": {
+            "Birth": "11 September 1971 — Wigan, Lancashire, England",
+            "Nationality": "English",
+            "Roles": "Singer; songwriter; musician",
+            "Instruments": "Vocals; guitar",
+            "FullText": "Richard Ashcroft (born 11 September 1971, Wigan, Lancashire, England) is best known as the founding vocalist, primary lyricist, and frontman of The Verve, a band whose career arc is defined by both extraordinary musical chemistry and repeated internal fractures. Ashcroft met guitarist Nick McCabe, bassist Simon Jones, and drummer Peter Salisbury while studying at Winstanley Sixth Form College in the Wigan area. Their earliest identity—initially performing as “Verve”—was built on long, improvisation-led jam sessions and a fascination with atmosphere: looping grooves, drifting harmonies, and a stage dynamic where songs could expand into extended psychedelic passages. From the start, Ashcroft’s role was to provide a singular focal point: a direct, emotionally charged vocal style and a lyric sensibility that could sit inside the band’s haze without being swallowed by it.\n\nThe early releases on Hut Records (singles and EPs followed by the album *A Storm in Heaven* in 1993) positioned Ashcroft as an unusually commanding presence within a band that often felt like a collective trance. Even in that early period, he wrote in a way that suggested “song” rather than “soundscape”—memorable melodic shapes and a knack for turning restless feeling into simple, declarative lines. As the band moved toward *A Northern Soul* (1995), Ashcroft’s writing grew darker and more insistent, and the pressure of expectations—along with a famously combustible relationship between Ashcroft and McCabe—became part of the group’s story. Those tensions helped drive the band’s first major rupture, with activity stopping and starting in a way that repeatedly interrupted their momentum.\n\nWhen The Verve reconvened in the second half of the 1990s, Ashcroft became the connective tissue that pulled the project back toward clarity. The breakthrough album *Urban Hymns* (1997) is often read as the point where his songwriting became the band’s public face: expansive, anthem-like tracks built for wide rooms and big feelings. While the record retained the group’s signature sense of space and pulse, it moved decisively toward structured songs with huge choruses and orchestral colour. Ashcroft’s voice—urgent, grainy, and insistently human—sits at the centre of that sound, and his lyrics frame the album as a portrait of desire, disillusionment, and hard-won hope. Songs like “The Drugs Don’t Work,” “Lucky Man,” and “Sonnet” are essentially Ashcroft vehicles: melodies designed to carry emotional weight even when the arrangement swells around them.\n\nNo Ashcroft biography can avoid the long shadow of “Bitter Sweet Symphony.” The track became The Verve’s signature hit, but it was also mired in a high-profile rights dispute over the use of an orchestral recording related to the Rolling Stones’ “The Last Time.” The fallout—particularly the allocation of songwriting credit and royalties—turned the song into a public lesson in how sampling, publishing, and clearance can collide with art. Decades later, the dispute finally shifted: in 2019, Mick Jagger and Keith Richards agreed to return the songwriting credits and royalties to Ashcroft. Ashcroft framed the outcome as a personal and artistic relief, and the change reshaped how the song’s authorship is commonly discussed.\n\nAfter the band split in 1999, Ashcroft built a substantial solo career, beginning with *Alone with Everybody* (2000) and continuing through albums that maintained his strengths: direct melodic writing, a taste for sweeping arrangement, and a lyrical voice that mixes self-scrutiny with defiant uplift. The solo records also made clear what The Verve amplified in him: McCabe’s textural guitar imagination, Jones and Salisbury’s groove, and the push-pull tension that could make Ashcroft’s best work feel like it was happening at the edge of control. That interplay is a key reason The Verve’s reunions mattered. When the original core line-up reconvened in 2007 and released *Forth* (2008), Ashcroft once again placed himself in a band context where his vocals were both supported and challenged by the instrumental architecture around them.\n\nAshcroft’s public image—part romantic idealist, part combative bandleader—has always been tied to the idea of conviction. Even sympathetic accounts note that his certainty can create friction; even critical accounts acknowledge that it can also produce clarity. Across The Verve’s three major phases (early psychedelic exploration, *Urban Hymns*’ pop‑scale emotional sweep, and the later reunion period), his through-line is commitment to the “big” song: a melody that feels like it has to be sung, a chorus that aims for catharsis, and lyrics that treat private doubt as a shared experience. In that sense, Ashcroft remains one of the defining voices of late‑1990s British rock, and the central authorial figure behind The Verve’s most enduring work.\n",
+            "Overview": "Founding vocalist and primary songwriter of The Verve; later sustained a major solo career.",
+            "HonoursAndMilestones": [
+              "Fronted The Verve through three major phases: early psychedelic/space‑rock exploration, the *Urban Hymns* breakthrough, and the 2007–2009 reunion era.",
+              "Became the public face of “Bitter Sweet Symphony,” one of the era’s most recognizable British rock singles.",
+              "Built a solo catalogue beginning with *Alone with Everybody* (2000) that carried forward his melodic, anthem-focused writing."
+            ],
+            "FunFacts": [
+              "Frequently described as a “bandleader” figure whose artistic conviction was both a creative engine and a source of tension inside The Verve.",
+              "Married Kate Radley (of Spiritualized) in the 1990s and has two children (commonly reported in major biographies)."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Richard Ashcroft — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Richard_Ashcroft"
+              },
+              {
+                "Title": "The Verve — Band history and discography overview",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Verve"
+              },
+              {
+                "Title": "Richard Ashcroft Regains ‘Bitter Sweet Symphony’ Credits, Royalties",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/richard-ashcroft-regains-bitter-sweet-symphony-credits-royalties/"
+              },
+              {
+                "Title": "‘Bitter Sweet Symphony’ songwriting credit returned to Ashcroft",
+                "Publisher": "BBC News",
+                "Url": "https://www.bbc.com/news/entertainment-arts-48274000"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Nick McCabe",
+          "YearsActive": "1990–1999; 2007–2009",
+          "Roles": "Lead guitar; co-founder; occasional songwriting",
+          "Instruments": "Guitar",
+          "Albums": [
+            "A Storm in Heaven (1993)",
+            "A Northern Soul (1995)",
+            "Urban Hymns (1997)",
+            "Forth (2008)",
+            "New Shores (Black Submarine, 2013)"
+          ],
+          "Bio": {
+            "Birth": "14 July 1971 — St Helens, Merseyside, England",
+            "Nationality": "English",
+            "Roles": "Guitarist; musician",
+            "Instruments": "Guitar",
+            "FullText": "Nick McCabe (born 14 July 1971, St Helens, Merseyside, England) is the lead guitarist and co‑founder whose sound helped define The Verve across its most celebrated work. McCabe and Richard Ashcroft became close as teenagers and later studied at Winstanley Sixth Form College, where the early version of the band took shape with bassist Simon Jones and drummer Peter Salisbury. From the outset, McCabe’s role was less “lead guitarist” in the traditional, solo-forward sense than an architect of atmosphere...\n\nOn The Verve’s earliest recordings—singles and EPs leading into *A Storm in Heaven* (1993)—McCabe’s guitar often functions like weather. Lines blur into sustained chords; repeated motifs become hypnotic loops; distortion and delay are used to create depth rather than volume for its own sake. That approach helped place the band in a space between psychedelia and the UK’s early‑1990s “shoegaze” continuum, but with a rhythmic focus that made the music feel grounded rather than purely dreamy. As the band moved...\n\nMcCabe’s story inside The Verve is also a story about friction. Contemporary accounts and later retrospectives alike describe an intense, sometimes combustible relationship with Ashcroft—a creative partnership that could produce extraordinary results but could also derail the group. That push‑pull helps explain why the band’s trajectory includes abrupt breaks and returns: a split before the mid‑1990s reinvention, another collapse after the triumph of *Urban Hymns*, and then the long pause before the 2007 reuni...\n\nBy the time of *Urban Hymns* (1997), The Verve’s sound had shifted toward more song-driven structures, orchestration, and groove. McCabe’s contribution did not disappear, but it often worked in service of the arrangement rather than dominating it. On the record’s biggest moments, his guitar is frequently a colouring tool—glints of texture, counter-melodies, and swells that support Ashcroft’s vocal line. The public narrative sometimes frames this as a compromise, but it is also a lesson in discipline: the...\n\nAfter the 1999 breakup, McCabe’s path highlights his curiosity about sound beyond the rock‑band frame. Alongside Jones, he co‑founded Black Submarine (initially known as The Black Ships), a project that blended rock instrumentation with electronic and ambient sensibilities and featured collaborators such as Davide Rossi. The work underscored what The Verve had always hinted at: McCabe’s ear for space, his patience with repetition, and his interest in production as an extension of performance. His later y...\n\nWithin the band’s legend, McCabe is often described as the “sonic engine,” and that shorthand is not wrong—but it can understate the musical intelligence behind the noise. His best playing is not about flash; it is about the way a part can change the emotional temperature of a song. When The Verve is at full power, Ashcroft’s melodic conviction rides on top of a landscape McCabe helps paint: restless, luminous, and slightly unstable, as if the music might lift off at any moment. That quality—an ability to ...\n\n\nIn the mid‑1990s catalogue, McCabe’s playing is inseparable from the band’s identity on stage. Tracks like “Gravity Grave” and “Slide Away” became vehicles for extended builds, where a single riff could be stretched and reshaped through dynamics, feedback, and repeating phrases. Even as the band’s studio work became more compact, that live reputation mattered: it helped make The Verve a cult draw before the larger public recognized them, and it contributed to the sense that the group was always one moment away from either transcendence or collapse.\n\nMcCabe also occupies a distinctive place in Britpop-era guitar culture because his influences and methods did not line up neatly with the era’s most visible reference points. Where many contemporaries leaned into crisp, retro-leaning riffs, his most characteristic parts sound more like systems—textures that move, breathe, and accumulate. That sensibility is audible across the band’s phases: the haze and shimmer of the early records, the more controlled colour on *Urban Hymns*, and the return of wider sonic scope during the reunion period on *Forth*, which included singles such as “Love Is Noise.”\n\nAfter the band’s later split, McCabe’s continued collaborations and production interests reinforced the idea that his “instrument” is not only the guitar but also the studio itself. Whether working inside a band framework or in more experimental settings, he has tended to pursue the same goals: find the emotional core of a repeated figure, build a sound that can hold attention over time, and make atmosphere feel physical. That approach is one reason his work with The Verve remains influential for guitarists drawn to texture-driven rock and for producers interested in the blurred boundary between performance and sound design.\n",
+            "Overview": "The Verve’s lead guitarist and primary texture-builder; later co-founded Black Submarine.",
+            "HonoursAndMilestones": [
+              "Helped define The Verve’s early psychedelic/space-rock sound through effects-heavy guitar textures and live improvisation.",
+              "Returned for the band’s late‑1990s peak and later contributed to the 2007–2009 reunion and *Forth* sessions.",
+              "Co-founded Black Submarine with Simon Jones after the band’s first breakup."
+            ],
+            "FunFacts": [
+              "Often credited by fans and critics as the band’s key ‘sonic’ signature, with a style centered on texture and dynamics rather than traditional lead‑guitar flash."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Nick McCabe — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Nick_McCabe"
+              },
+              {
+                "Title": "The Verve — Band history and members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Verve"
+              },
+              {
+                "Title": "Black Submarine — Band overview and membership",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Black_Submarine"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Simon Jones",
+          "YearsActive": "1990–1999; 2007–2009",
+          "Roles": "Bass guitar; backing vocals",
+          "Instruments": "Bass",
+          "Albums": [
+            "A Storm in Heaven (1993)",
+            "A Northern Soul (1995)",
+            "Urban Hymns (1997)",
+            "Forth (2008)",
+            "True Skies (The Shining, 2002)",
+            "New Shores (Black Submarine, 2013)"
+          ],
+          "Bio": {
+            "Birth": "29 July 1972 — England",
+            "Nationality": "English",
+            "Roles": "Bassist; musician",
+            "Instruments": "Bass",
+            "FullText": "Simon Jones (born 29 July 1972, England) is the bassist and occasional backing vocalist whose melodic, grounded playing helped The Verve balance its most expansive tendencies. Jones grew up around the same North West network that produced the band’s other founders and became part of the original core line-up that formed in Wigan in 1990 with Richard Ashcroft, Nick McCabe, and Peter Salisbury. From the start, The Verve was not a band built on flashy individual roles; its power came from how each part interl...\n\nAcross the early period—singles and EPs leading into *A Storm in Heaven* (1993) and *A Northern Soul* (1995)—Jones’s bass work often functions as the anchor that lets the guitars drift. When McCabe’s parts dissolve into feedback and delay, the bass supplies a steady centre of gravity: simple motifs repeated with small variations, lines that move with the drums rather than competing with the vocal, and a feel that keeps the music propulsive even when the arrangement turns hazy. That kind of playing is easy to miss until it is removed; it is also one of the reasons the band’s long-form jams could feel tense rather than loose.\n\nJones’s role became even more vital as The Verve’s writing moved toward bigger, more song-driven structures. By the time of *Urban Hymns* (1997), the arrangements often combined orchestration, groove, and pop-scale choruses. In that context, the bassist’s job is frequently to “translate” between worlds—keeping a rhythmic pocket that can support both an intimate vocal line and a sweeping string arrangement, and shaping the low end so that the music can feel huge without becoming muddy. On the band’s signature singles, the bass is rarely the headline, but it is almost always part of the reason the tracks feel physical rather than purely atmospheric.\n\nWhen the band split in 1999, Jones continued working in settings that highlighted his taste for ensemble interplay. He formed The Shining with guitarist/keyboardist Simon Tong—who had joined The Verve during the 1996–1999 era—and later reunited with McCabe in Black Submarine (initially known as The Black Ships), a project that expanded beyond rock-band orthodoxy and featured collaborators such as Davide Rossi. Those post‑Verve projects underlined a through-line in Jones’s career: an interest in music that is built from layers and movement rather than from isolated, spotlighted parts.\n\nDuring The Verve’s 2007 reunion and the creation of *Forth* (2008), Jones’s playing again provided continuity between phases of the band that can otherwise feel like different groups sharing a name. The record’s return to wider sonic space and heavier groove suited his strengths, and it reinforced the idea that the band’s “core” sound is not only Ashcroft’s voice or McCabe’s guitar, but also the rhythm section’s ability to make expansive music feel controlled. In interviews about the reunion era, Jones has often stressed the desire to return to the original core members and to re-create the specific chemistry of that unit.\n\nJones’s musicianship is a reminder that The Verve’s dramatic history is not solely the story of frontman-versus-guitarist tension. The band survived long enough to produce its defining work because there was a stable engine underneath: bass and drums that could keep the music together when the surface threatened to tear. In The Verve’s best moments, Jones’s lines do what the band’s best songwriting does—hold two emotions at once: weight and lift, melancholy and drive, restraint and release.\n",
+            "Overview": "Founding bassist whose melodic lines and pocket anchored the band’s spacious guitar textures.",
+            "HonoursAndMilestones": [
+              "Co-founded The Verve and remained part of every major phase of the band’s career.",
+              "Formed The Shining with Simon Tong after the 1999 breakup and later co-founded Black Submarine with Nick McCabe."
+            ],
+            "FunFacts": [
+              "Provided occasional backing vocals in The Verve alongside bass duties."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Simon Jones — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Simon_Jones_(musician)"
+              },
+              {
+                "Title": "The Verve — Band history and members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Verve"
+              },
+              {
+                "Title": "Black Submarine — Band overview and membership",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Black_Submarine"
+              },
+              {
+                "Title": "The Shining — Album review referencing membership",
+                "Publisher": "PopMatters",
+                "Url": "https://www.popmatters.com/shining-true-2496074828.html"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Peter Salisbury",
+          "YearsActive": "1990–1999; 2007–2009",
+          "Roles": "Drums; co-founder",
+          "Instruments": "Drums",
+          "Albums": [
+            "A Storm in Heaven (1993)",
+            "A Northern Soul (1995)",
+            "Urban Hymns (1997)",
+            "Forth (2008)"
+          ],
+          "Bio": {
+            "Birth": "24 September 1971 — Chippenham, Wiltshire, England",
+            "Nationality": "English",
+            "Roles": "Drummer; musician",
+            "Instruments": "Drums",
+            "FullText": "Peter Salisbury (born 24 September 1971, Chippenham, Wiltshire, England) is the drummer and a founding member of The Verve. If The band’s mythology often centres on the combustible relationship between Richard Ashcroft and Nick McCabe, Salisbury’s contribution is the counterweight: a steady sense of groove that can support both the early, psychedelic sprawl and the later, song-driven grandeur. Alongside bassist Simon Jones, he forms the rhythmic base that allows McCabe’s guitar to smear and shimmer ...\n\nSalisbury came into The Verve’s story through the same North West social network that shaped the group’s origins. When the band began working in earnest at the start of the 1990s, their sound relied on stamina and dynamics: building from near‑silence to full, surging intensity over long sections. In that context, the drummer’s job is not just to keep time but to guide the arc of a performance—knowing when to push, when to lay back, and when to let repetition become hypnotic rather than monotonous...\n\nOn the early records (*A Storm in Heaven* in 1993 and *A Northern Soul* in 1995), Salisbury’s playing supports a style that often feels like live music captured mid‑motion. The kit sound and patterns tend toward feel rather than display: cymbal washes that blend into the guitars, snare work that emphasizes momentum, and fills that mark transitions without over-writing the song. That approach fits a band that, at its best, sounds like four musicians listening hard to one another. It also explains why The Ver...\n\nSalisbury’s role became even more important when The Verve shifted into the *Urban Hymns* era. The band’s biggest songs depend on pocket: the drums need to be confident enough to hold orchestration, loops, and dense arrangement, but restrained enough to leave room for Ashcroft’s vocal to land. Tracks from that period often hinge on the tension between drive and melancholy, and the drumming is a big part of that emotional balance—forward motion without triumphalism, energy without aggression. When the band’s...\n\nAfter the band’s first breakup in 1999, Salisbury continued as a working drummer with a reputation for reliability and feel. Documented live work includes filling in for Black Rebel Motorcycle Club during a 2002 UK/EU touring period and for The Charlatans during a 2010 UK tour while their drummer Jon Brookes was undergoing treatment. Those credits underline a key truth about Salisbury: his strengths translate across styles because they are rooted in fundamentals—time, dynamics, and serving the song....\n\nOne of the more telling details in Salisbury’s later Verve narrative is that he has been credited with helping set the 2007 reunion in motion. In accounts of the period, Ashcroft learned that Salisbury was in contact with McCabe about a potential project, used that as an opening to reach out, and the core members made peace enough to tour and record again. Whether or not any single story captures the full complexity, the point is consistent with Salisbury’s role: he is often the practical connector, the ...\n\nThe reunion-era album *Forth* (2008) also highlights Salisbury’s adaptability. The record ranges from tight, riff-driven rock to more spacious, cinematic passages, and his drumming shifts accordingly—locking to a hard backbeat when the song needs muscular momentum, then opening up the cymbals and subdivisions when the arrangement wants air. It is the kind of craft that rarely draws headlines but is essential to why the band can move between extremes without feeling like it has changed personnel from track to ...\n\nSalisbury’s influence on The Verve’s overall feel is especially clear in live recordings, where the band’s most famous quality—build and release—depends on the drummer’s ability to pace a long arc. Great drummers in this lineage are not defined by how many notes they play but by how they manage tension: the difference between an eight‑bar section that feels static and one that feels like it is slowly lifting. Salisbury’s touch—firm but not heavy, energetic but not busy—gave The Verve a rhythmic identity...\n\nViewed as a whole, Salisbury’s career reflects a kind of musician’s professionalism that sits slightly outside the Britpop narrative. The Verve may be remembered for its dramatic peaks and valleys, but the band’s music required a drummer who could make a groove feel inevitable. Salisbury’s best work does exactly that. It is the sound of someone who understands that a great rhythm part is not only a technical foundation but also an emotional one: the place where longing, lift, and momentum meet.\n",
+            "Overview": "Founding drummer whose groove and dynamics supported the band’s long-form builds and later anthem-driven songwriting.",
+            "HonoursAndMilestones": [
+              "Co-founded The Verve and played on all four studio albums by the core line-up.",
+              "Credited in multiple accounts as a catalyst for reconnecting band members ahead of the 2007 reunion.",
+              "Worked as a touring drummer outside The Verve, including documented stints with Black Rebel Motorcycle Club and The Charlatans."
+            ],
+            "FunFacts": [
+              "Known for a feel-first style that emphasizes pocket and long-arc dynamics over showy technique."
+            ],
+            "Quotes": [],
+            "Sources": [
+              {
+                "Title": "Peter Salisbury — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Peter_Salisbury"
+              },
+              {
+                "Title": "The Verve — Band history and members",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Verve"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Simon Tong",
+          "YearsActive": "1996–1999",
+          "Roles": "Guitar; keyboards",
+          "Instruments": "Guitar; keyboards",
+          "Overview": "Joined during the late‑1990s period and contributed to the *Urban Hymns* era touring line-up; later co-founded The Shining with Simon Jones."
+        }
+      ],
+      "Labels": [
+        "Hut",
+        "Virgin",
+        "Parlophone"
+      ],
+      "KeyFacts": [
+        "Formed in Wigan in 1990; original core line-up: Ashcroft, McCabe, Jones, Salisbury.",
+        "*Urban Hymns* (1997) is their defining release, anchored by “Bitter Sweet Symphony.”",
+        "Reunited in 2007 and released *Forth* in 2008 before splitting again in 2009."
+      ]
     },
     {
       "ArtistID": "the-verve-pipe",
