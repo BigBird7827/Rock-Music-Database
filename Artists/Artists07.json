@@ -1168,27 +1168,377 @@
     {
       "ArtistID": "foghat",
       "Name": "Foghat",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1971–1984",
+        "1993–present"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Blues rock",
+        "Boogie rock"
+      ],
+      "Labels": [
+        "Bearsville",
+        "Atlantic",
+        "Rhino"
+      ],
+      "Overview": "Foghat are an English hard-rock band formed in London in January 1971 by guitarist/singer “Lonesome” Dave Peverett, drummer Roger Earl, and bassist Tony Stevens after the trio left Savoy Brown, adding slide guitarist Rod “The Bottle” Price (formerly of Black Cat Bones). Built around Earl’s driving groove, Peverett’s road-tested vocals and rhythm guitar, and Price’s electric slide lines, Foghat developed a signature boogie-rock attack that translated especially well on American FM radio and in concert halls. After signing with Bearsville Records, the band relocated to the United States and built a reputation as a relentless touring act—tight, loud, and rooted in blues-based riffs.\n\nThrough the 1970s, Foghat’s albums fused traditional blues structures with arena-sized hooks and extended, improvisation-friendly arrangements. Releases such as Energized (1974) and Rock and Roll Outlaws (1974) established their commercial footing, while Fool for the City (1975) became their breakthrough—anchored by the hit single “Slow Ride.” The group’s reputation as a live draw was cemented with Foghat Live (1977), a concert document whose success reflected the band’s road-warrior identity: long sets, big grooves, and a sound built for volume and momentum. Even as members changed—Tony Stevens briefly stepping away mid-decade, and later lineup shifts in the early 1980s—the band’s core appeal remained the same: boogie rock with blues muscle and a distinctive slide-guitar voice.\n\nFoghat briefly disbanded in the mid-1980s and reunited in the early 1990s, returning to the road and recording again. The band endured the deaths of founding members Peverett (2000) and Price (2005), but continued performing with Earl as the long-running constant. In the decades since, Foghat have balanced new releases with steady touring, keeping their classic material in front of new audiences while honoring the blues-rock tradition that sparked the band’s original chemistry.",
+      "NotableAlbums": [
+        {
+          "Title": "Foghat",
+          "Year": "1972",
+          "Notes": "Debut album on Bearsville; includes a well-known cover of Willie Dixon’s “I Just Want to Make Love to You.”"
+        },
+        {
+          "Title": "Energized",
+          "Year": "1974",
+          "Notes": "Gold-era studio set that helped establish the band’s U.S. boogie-rock profile."
+        },
+        {
+          "Title": "Fool for the City",
+          "Year": "1975",
+          "Notes": "Breakthrough album featuring “Slow Ride” and the title track; among their most iconic releases."
+        },
+        {
+          "Title": "Foghat Live",
+          "Year": "1977",
+          "Notes": "Concert document that went double platinum in the U.S. and cemented their reputation as a live act."
+        },
+        {
+          "Title": "Stone Blue",
+          "Year": "1978",
+          "Notes": "Late-’70s studio highlight continuing their hard boogie/blues-rock run."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Slow Ride",
+          "Year": "1975",
+          "Notes": "Signature hit single from Fool for the City; a defining boogie-rock anthem."
+        },
+        {
+          "Title": "Fool for the City",
+          "Year": "1975",
+          "Notes": "Title track from Fool for the City; a staple of their classic-era catalog."
+        },
+        {
+          "Title": "I Just Want to Make Love to You",
+          "Year": "1972",
+          "Notes": "Breakthrough cover (Willie Dixon) from the debut album; a key early radio track."
+        },
+        {
+          "Title": "Drivin’ Wheel",
+          "Year": "1974",
+          "Notes": "Fan favorite from Energized; often associated with their road-warrior era."
+        },
+        {
+          "Title": "Third Time Lucky (First Time I Was a Fool)",
+          "Year": "1976",
+          "Notes": "Classic-era track frequently cited among their best-known songs."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1975",
+          "Description": "“Slow Ride” became Foghat’s best-known hit, reaching the U.S. Top 20 (Billboard Hot 100)."
+        },
+        {
+          "Year": "1977",
+          "Description": "Foghat Live was certified double platinum in the United States, reflecting the band’s major concert draw."
+        },
+        {
+          "Year": "1970s",
+          "Description": "Across their classic period, the band released multiple gold-certified albums and maintained a high touring profile in North America."
+        }
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Discography": "https://www.allmusic.com/artist/foghat-mn0000201297",
+        "Official Site": "https://foghat.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Foghat"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Dave Peverett",
+          "YearsActive": "1967–2000",
+          "Roles": "Singer; rhythm guitarist; songwriter",
+          "Instruments": "Vocals; guitar",
+          "Albums": [
+            "Foghat (1972)",
+            "Energized (1974)",
+            "Fool for the City (1975)",
+            "Foghat Live (1977)"
+          ],
+          "Overview": "David Jack \"Lonesome Dave\" Peverett (April 16, 1943 – February 7, 2000) was the founding voice and one of the principal writers of Foghat. Born in Dulwich, London, Peverett came up in the British rhythm-and-blues ecosystem of the 1960s, where a musician's resume was built in clubs, on package tours, and by learning how to keep a groove steady night after night. That emphasis on feel and forward motion shaped him into a frontman who valued momentum and audience connection, traits that became central to Foghat's appeal.",
+          "Bio": {
+            "BioID": "foghat-dave-peverett",
+            "ArtistID": "foghat",
+            "ArtistName": "Foghat",
+            "MemberName": "Dave Peverett",
+            "FullName": "David Jack Peverett",
+            "Birth": "Born: April 16, 1943 — Dulwich, London, England; Died: February 7, 2000 — Orlando, Florida, U.S.",
+            "PrimaryInstruments": "Vocals; guitar",
+            "Occupations": "Singer; rhythm guitarist; songwriter",
+            "Genres": "Hard rock; blues rock; boogie rock",
+            "ActiveYears": "1967–2000",
+            "AssociatedActs": "Savoy Brown; Foghat",
+            "KeyAlbums": "Foghat (1972); Energized (1974); Fool for the City (1975); Foghat Live (1977)",
+            "KeySongs": "I Just Want to Make Love to You; Slow Ride; Fool for the City; Drivin' Wheel",
+            "Achievements": "Co-founded Foghat in 1971; frontman of the classic-era lineup; central vocalist on the band's most enduring material.",
+            "ExternalLinks": {
+              "Foghat memorial page": "https://foghat.com/band/in-memory-of-dave-rod/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Dave_Peverett"
+            },
+            "FullText": "David Jack \"Lonesome Dave\" Peverett (April 16, 1943 – February 7, 2000) was the founding voice and one of the principal writers of Foghat. Born in Dulwich, London, Peverett came up in the British rhythm-and-blues ecosystem of the 1960s, where a musician's resume was built in clubs, on package tours, and by learning how to keep a groove steady night after night. That emphasis on feel and forward motion shaped him into a frontman who valued momentum and audience connection, traits that became central to Foghat's appeal.\n\nPeverett first reached wider attention with Savoy Brown, joining the blues-rock group as a guitarist and vocalist during the period when they were expanding their U.S. audience through heavy touring. In Savoy Brown he learned the practical art of translating blues vocabulary into loud, extended rock arrangements without losing the underlying swing and pulse. Personnel credits on Savoy Brown albums such as A Step Further (1969) and Raw Sienna (1970) list Peverett primarily on rhythm/acoustic guitar (and, on Raw Sienna, bottleneck guitar on one track), which fits the role he would later play in Foghat: a rhythm anchor that lets a lead guitarist shine without sacrificing drive.\n\nIn January 1971, Peverett left Savoy Brown with drummer Roger Earl and bassist Tony Stevens to form a new band, soon adding slide guitarist Rod Price. Signing with Bearsville Records, the group relocated to the United States and quickly established a reputation for constant touring. On the debut album Foghat (1972), Peverett's gritty vocals and rhythm guitar anchored a set that balanced blues tradition with hard-rock heft, including a prominent cover of Willie Dixon's \"I Just Want to Make Love to You.\" As the catalog grew through the mid-1970s, his vocal delivery became an identifying feature: direct, unforced blues phrasing that still worked at arena volume.\n\nFoghat's commercial peak brought both success and strain. The breakthrough album Fool for the City (1975) and its hit single \"Slow Ride\" made the group globally recognizable, and the double-platinum Foghat Live (1977) reflected what fans already knew: Foghat's core strength was the stage. Peverett's job was to make that live identity cohere. He paced sets, carried the audience relationship, and kept the songs grounded in groove while the band stretched arrangements for solos. The same touring intensity that built the band's reputation also contributed to lineup changes and later fragmentation.\n\nFoghat briefly disbanded in the mid-1980s after Peverett left and returned to England, but the Foghat name remained tied to the material he helped create. In the early 1990s he returned to the United States, formed \"Lonesome Dave's Foghat,\" and then participated in the 1993 reunion of the original lineup, which led to Return of the Boogie Men (1994) and renewed touring. His later years therefore include both the mythic classic period and the working-musician reality of sustaining a touring career over decades.\n\nPeverett died in Orlando, Florida on February 7, 2000 from complications of kidney cancer. His legacy is inseparable from Foghat's defining qualities: a blues-informed vocal style, a rhythm-guitar approach built for big grooves, and a practical musician's mentality that treated performance as a craft. For many listeners, \"Lonesome Dave\" remains the voice of Foghat, the artist who helped turn British blues-rock apprenticeship into one of the most durable boogie-rock catalogs of the 1970s.",
+            "Sources": [
+              {
+                "Title": "Dave Peverett",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Dave_Peverett"
+              },
+              {
+                "Title": "In Memory of Dave & Rod",
+                "Publisher": "Foghat (Official Site)",
+                "Url": "https://foghat.com/band/in-memory-of-dave-rod/"
+              },
+              {
+                "Title": "Foghat",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Foghat"
+              },
+              {
+                "Title": "Raw Sienna (personnel)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Raw_Sienna"
+              }
+            ],
+            "Biography": "David Jack \"Lonesome Dave\" Peverett (April 16, 1943 – February 7, 2000) was the founding voice and one of the principal writers of Foghat. Born in Dulwich, London, Peverett came up in the British rhythm-and-blues ecosystem of the 1960s, where a musician's resume was built in clubs, on package tours, and by learning how to keep a groove steady night after night. That emphasis on feel and forward motion shaped him into a frontman who valued momentum and audience connection, traits that became central to Foghat's appeal.\n\nPeverett first reached wider attention with Savoy Brown, joining the blues-rock group as a guitarist and vocalist during the period when they were expanding their U.S. audience through heavy touring. In Savoy Brown he learned the practical art of translating blues vocabulary into loud, extended rock arrangements without losing the underlying swing and pulse. Personnel credits on Savoy Brown albums such as A Step Further (1969) and Raw Sienna (1970) list Peverett primarily on rhythm/acoustic guitar (and, on Raw Sienna, bottleneck guitar on one track), which fits the role he would later play in Foghat: a rhythm anchor that lets a lead guitarist shine without sacrificing drive.\n\nIn January 1971, Peverett left Savoy Brown with drummer Roger Earl and bassist Tony Stevens to form a new band, soon adding slide guitarist Rod Price. Signing with Bearsville Records, the group relocated to the United States and quickly established a reputation for constant touring. On the debut album Foghat (1972), Peverett's gritty vocals and rhythm guitar anchored a set that balanced blues tradition with hard-rock heft, including a prominent cover of Willie Dixon's \"I Just Want to Make Love to You.\" As the catalog grew through the mid-1970s, his vocal delivery became an identifying feature: direct, unforced blues phrasing that still worked at arena volume.\n\nFoghat's commercial peak brought both success and strain. The breakthrough album Fool for the City (1975) and its hit single \"Slow Ride\" made the group globally recognizable, and the double-platinum Foghat Live (1977) reflected what fans already knew: Foghat's core strength was the stage. Peverett's job was to make that live identity cohere. He paced sets, carried the audience relationship, and kept the songs grounded in groove while the band stretched arrangements for solos. The same touring intensity that built the band's reputation also contributed to lineup changes and later fragmentation.\n\nFoghat briefly disbanded in the mid-1980s after Peverett left and returned to England, but the Foghat name remained tied to the material he helped create. In the early 1990s he returned to the United States, formed \"Lonesome Dave's Foghat,\" and then participated in the 1993 reunion of the original lineup, which led to Return of the Boogie Men (1994) and renewed touring. His later years therefore include both the mythic classic period and the working-musician reality of sustaining a touring career over decades.\n\nPeverett died in Orlando, Florida on February 7, 2000 from complications of kidney cancer. His legacy is inseparable from Foghat's defining qualities: a blues-informed vocal style, a rhythm-guitar approach built for big grooves, and a practical musician's mentality that treated performance as a craft. For many listeners, \"Lonesome Dave\" remains the voice of Foghat, the artist who helped turn British blues-rock apprenticeship into one of the most durable boogie-rock catalogs of the 1970s."
+          }
+        },
+        {
+          "Name": "Rod Price",
+          "YearsActive": "1968–2005",
+          "Roles": "Lead guitarist; slide guitarist; songwriter",
+          "Instruments": "Guitar; slide guitar",
+          "Albums": [
+            "Foghat (1972)",
+            "Energized (1974)",
+            "Fool for the City (1975)",
+            "Foghat Live (1977)",
+            "Stone Blue (1978)"
+          ],
+          "Overview": "Roderick Michael \"Rod\" Price (November 22, 1947 – March 22, 2005) helped define Foghat's most recognizable sonic signature: electric slide guitar that sounded both blues-rooted and arena-sized. Born in Chiswick, London, Price emerged during the late-1960s British blues boom, developing a style centered on tone, intonation, and phrasing, the elements that make bottleneck guitar feel like a human voice. His playing could be aggressive without becoming brittle, and melodic without losing rhythmic weight, a combination that made him ideal for Foghat's boogie-rock engine.",
+          "Bio": {
+            "BioID": "foghat-rod-price",
+            "ArtistID": "foghat",
+            "ArtistName": "Foghat",
+            "MemberName": "Rod Price",
+            "FullName": "Roderick Michael Price",
+            "Birth": "Born: November 22, 1947 — Chiswick, London, England; Died: March 22, 2005 — Wilton, New Hampshire, U.S.",
+            "PrimaryInstruments": "Guitar; slide guitar",
+            "Occupations": "Lead guitarist; slide guitarist; songwriter",
+            "Genres": "Hard rock; blues rock; boogie rock",
+            "ActiveYears": "1968–2005",
+            "AssociatedActs": "Black Cat Bones; Foghat",
+            "KeyAlbums": "Foghat (1972); Energized (1974); Fool for the City (1975); Foghat Live (1977); Stone Blue (1978)",
+            "KeySongs": "Slow Ride; Fool for the City; I Just Want to Make Love to You; Stone Blue",
+            "Achievements": "Defined Foghat's classic sound with electric slide guitar; founding member (1971) and key architect of the band's signature tone.",
+            "ExternalLinks": {
+              "Foghat tribute": "https://foghat.com/remembering-rod-price/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Rod_Price"
+            },
+            "FullText": "Roderick Michael \"Rod\" Price (November 22, 1947 – March 22, 2005) helped define Foghat's most recognizable sonic signature: electric slide guitar that sounded both blues-rooted and arena-sized. Born in Chiswick, London, Price emerged during the late-1960s British blues boom, developing a style centered on tone, intonation, and phrasing, the elements that make bottleneck guitar feel like a human voice. His playing could be aggressive without becoming brittle, and melodic without losing rhythmic weight, a combination that made him ideal for Foghat's boogie-rock engine.\n\nBefore joining Foghat, Price played with Black Cat Bones, a hard-edged U.K. blues band. That circuit rewarded players who could deliver strong, consistent performances under demanding conditions, and Price's ability to sustain energy and clarity through long sets would later become essential to Foghat's reputation. Black Cat Bones' album Barbed Wire Sandwich (1970) credits Price on lead guitar and documents the heavy-blues framework he carried into Foghat a year later.\n\nWhen Dave Peverett, Roger Earl, and Tony Stevens formed Foghat in early 1971, Price was recruited to handle lead guitar and to bring a distinct voice to the band. On Foghat's Bearsville-era records, Price's guitar tone and slide phrasing became a calling card. In the studio, his leads complemented riff-driven arrangements without overpowering them; in concert, the slide became a focal point for extended improvisation and dynamic build. Because Foghat built its reputation through touring in the United States, Price's ability to reproduce that attack nightly helped establish the band as a live phenomenon.\n\nPrice's slide playing is often described in terms of energy, but its discipline is just as important. In many arrangements the slide functions as a melodic \"answer\" to the vocal line, preserving the call-and-response logic of blues even when the band is playing at hard-rock volume. That balance helped Foghat stand apart from other boogie-rock acts that leaned more heavily on straight riffing. By the time Fool for the City (1975) delivered the hit \"Slow Ride,\" Price's slide tone had become part of the band's identity in the public ear.\n\nAfter nearly a decade of constant touring, Price left Foghat in 1980. Even after his departure, he remained the reference point whenever fans described the \"classic\" sound: Peverett's voice, Earl's groove, and Price's slide. The 1993 reunion confirmed how central his presence was to that chemistry, bringing the original lineup back to the road and reinforcing Price's status as a key architect of Foghat's signature feel.\n\nPrice died on March 22, 2005, with reports noting a fall resulting from a heart attack. Foghat's official materials continue to honor him as a defining member whose playing shaped their identity. In the band's story, Rod Price remains the guitarist whose slide made Foghat instantly recognizable: loud, blues-based, and full of personality.",
+            "Sources": [
+              {
+                "Title": "Rod Price",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Rod_Price"
+              },
+              {
+                "Title": "Remembering Rod 'The Bottle' Price",
+                "Publisher": "Foghat (Official Site)",
+                "Url": "https://foghat.com/remembering-rod-price/"
+              },
+              {
+                "Title": "Barbed Wire Sandwich",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Barbed_Wire_Sandwich"
+              },
+              {
+                "Title": "Foghat",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Foghat"
+              }
+            ],
+            "Biography": "Roderick Michael \"Rod\" Price (November 22, 1947 – March 22, 2005) helped define Foghat's most recognizable sonic signature: electric slide guitar that sounded both blues-rooted and arena-sized. Born in Chiswick, London, Price emerged during the late-1960s British blues boom, developing a style centered on tone, intonation, and phrasing, the elements that make bottleneck guitar feel like a human voice. His playing could be aggressive without becoming brittle, and melodic without losing rhythmic weight, a combination that made him ideal for Foghat's boogie-rock engine.\n\nBefore joining Foghat, Price played with Black Cat Bones, a hard-edged U.K. blues band. That circuit rewarded players who could deliver strong, consistent performances under demanding conditions, and Price's ability to sustain energy and clarity through long sets would later become essential to Foghat's reputation. Black Cat Bones' album Barbed Wire Sandwich (1970) credits Price on lead guitar and documents the heavy-blues framework he carried into Foghat a year later.\n\nWhen Dave Peverett, Roger Earl, and Tony Stevens formed Foghat in early 1971, Price was recruited to handle lead guitar and to bring a distinct voice to the band. On Foghat's Bearsville-era records, Price's guitar tone and slide phrasing became a calling card. In the studio, his leads complemented riff-driven arrangements without overpowering them; in concert, the slide became a focal point for extended improvisation and dynamic build. Because Foghat built its reputation through touring in the United States, Price's ability to reproduce that attack nightly helped establish the band as a live phenomenon.\n\nPrice's slide playing is often described in terms of energy, but its discipline is just as important. In many arrangements the slide functions as a melodic \"answer\" to the vocal line, preserving the call-and-response logic of blues even when the band is playing at hard-rock volume. That balance helped Foghat stand apart from other boogie-rock acts that leaned more heavily on straight riffing. By the time Fool for the City (1975) delivered the hit \"Slow Ride,\" Price's slide tone had become part of the band's identity in the public ear.\n\nAfter nearly a decade of constant touring, Price left Foghat in 1980. Even after his departure, he remained the reference point whenever fans described the \"classic\" sound: Peverett's voice, Earl's groove, and Price's slide. The 1993 reunion confirmed how central his presence was to that chemistry, bringing the original lineup back to the road and reinforcing Price's status as a key architect of Foghat's signature feel.\n\nPrice died on March 22, 2005, with reports noting a fall resulting from a heart attack. Foghat's official materials continue to honor him as a defining member whose playing shaped their identity. In the band's story, Rod Price remains the guitarist whose slide made Foghat instantly recognizable: loud, blues-based, and full of personality."
+          }
+        },
+        {
+          "Name": "Roger Earl",
+          "YearsActive": "1966–present",
+          "Roles": "Drummer; songwriter",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            "Energized (1974)",
+            "Fool for the City (1975)",
+            "Foghat Live (1977)",
+            "Stone Blue (1978)",
+            "Sonic Mojo (2023)"
+          ],
+          "Overview": "Roger Earl (born May 16, 1946) is the rhythmic backbone of Foghat and the only member to span every era of the band. Born in London, Earl built his craft in the working environment of British blues-rock, where reliability mattered as much as flair. In the late 1960s he joined Savoy Brown, and the band's schedule demanded durable timekeeping and the ability to power long sets. That apprenticeship, constant travel and constant playing, shaped Earl into the kind of drummer Foghat would need: strong pulse, big backbeat, and the patience to support extended arrangements.",
+          "Bio": {
+            "BioID": "foghat-roger-earl",
+            "ArtistID": "foghat",
+            "ArtistName": "Foghat",
+            "MemberName": "Roger Earl",
+            "FullName": "Roger Earl",
+            "Birth": "Born: May 16, 1946 — London, England",
+            "PrimaryInstruments": "Drums; percussion",
+            "Occupations": "Drummer; songwriter",
+            "Genres": "Hard rock; blues rock; boogie rock",
+            "ActiveYears": "1966–present",
+            "AssociatedActs": "Savoy Brown; Foghat",
+            "KeyAlbums": "Energized (1974); Fool for the City (1975); Foghat Live (1977); Stone Blue (1978); Sonic Mojo (2023)",
+            "KeySongs": "Slow Ride; Fool for the City; Drivin' Wheel",
+            "Achievements": "Co-founded Foghat in 1971; the only member to appear in every era and lineup; long-running keeper of the band's live groove.",
+            "ExternalLinks": {
+              "Official bio": "https://foghat.com/band/roger-earl/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Roger_Earl"
+            },
+            "FullText": "Roger Earl (born May 16, 1946) is the rhythmic backbone of Foghat and the only member to span every era of the band. Born in London, Earl built his craft in the working environment of British blues-rock, where reliability mattered as much as flair. In the late 1960s he joined Savoy Brown, and the band's schedule demanded durable timekeeping and the ability to power long sets. That apprenticeship, constant travel and constant playing, shaped Earl into the kind of drummer Foghat would need: strong pulse, big backbeat, and the patience to support extended arrangements.\n\nIn 1970 Earl left Savoy Brown alongside guitarist/vocalist Dave Peverett and bassist Tony Stevens. The trio wanted a harder, more riff-forward project, and with the addition of slide guitarist Rod Price they formed Foghat in January 1971. From the start, Earl's style emphasized propulsion. His drumming rarely calls attention to itself as \"show drumming\"; instead, it is designed to make the band feel bigger, giving the guitars a stable platform to stretch while keeping the music danceable.\n\nDuring Foghat's classic 1970s run, Earl's consistency allowed the band to scale up from blues clubs to arenas without losing its core feel. \"Slow Ride,\" the defining hit, works because the groove is locked; the track's heft comes as much from the pocket as from tone or lyrics. In concert, that approach gave Foghat flexibility: the band could extend a vamp, lean into a solo, or reshape a set to the room without losing momentum, a practical advantage for a touring group whose reputation was built on live performance.\n\nOn Savoy Brown's Raw Sienna (1970), Earl is credited on drums and percussion, an example of the era when British blues-rock bands recorded quickly and then lived on the road. That record and its adjacent touring cycle hardened Earl's sense of pacing, because audiences expected both intensity and dynamics across extended performances. Those same skills became crucial in Foghat, whose songs frequently expand in concert.\n\nFoghat's history includes a mid-1980s breakup and a 1993 reunion of the original lineup. After the deaths of founding members Peverett (2000) and Price (2005), Earl continued as the steward of the band's legacy while remaining active as a touring musician. As a leader he has navigated personnel changes and the expectations that come with a legacy act; as a player he has kept Foghat grounded in feel rather than nostalgia. That is why the band's modern history still reads as a working, touring enterprise rather than a periodic reunion project.\n\nEarl's legacy is structural: he is the reason Foghat's music can feel both powerful and unpretentious. For generations of listeners, that groove, steady, urgent, and rooted in blues feel, has been the through-line connecting Foghat's early U.K. origins to their decades of American touring.",
+            "Sources": [
+              {
+                "Title": "Roger Earl",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Roger_Earl"
+              },
+              {
+                "Title": "Roger Earl",
+                "Publisher": "Foghat (Official Site)",
+                "Url": "https://foghat.com/band/roger-earl/"
+              },
+              {
+                "Title": "Raw Sienna (personnel)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Raw_Sienna"
+              },
+              {
+                "Title": "Slow Ride: the story behind Foghat's 1975 hit",
+                "Publisher": "LouderSound",
+                "Url": "https://www.loudersound.com/bands-artists/interviews/slow-ride-foghat"
+              }
+            ],
+            "Biography": "Roger Earl (born May 16, 1946) is the rhythmic backbone of Foghat and the only member to span every era of the band. Born in London, Earl built his craft in the working environment of British blues-rock, where reliability mattered as much as flair. In the late 1960s he joined Savoy Brown, and the band's schedule demanded durable timekeeping and the ability to power long sets. That apprenticeship, constant travel and constant playing, shaped Earl into the kind of drummer Foghat would need: strong pulse, big backbeat, and the patience to support extended arrangements.\n\nIn 1970 Earl left Savoy Brown alongside guitarist/vocalist Dave Peverett and bassist Tony Stevens. The trio wanted a harder, more riff-forward project, and with the addition of slide guitarist Rod Price they formed Foghat in January 1971. From the start, Earl's style emphasized propulsion. His drumming rarely calls attention to itself as \"show drumming\"; instead, it is designed to make the band feel bigger, giving the guitars a stable platform to stretch while keeping the music danceable.\n\nDuring Foghat's classic 1970s run, Earl's consistency allowed the band to scale up from blues clubs to arenas without losing its core feel. \"Slow Ride,\" the defining hit, works because the groove is locked; the track's heft comes as much from the pocket as from tone or lyrics. In concert, that approach gave Foghat flexibility: the band could extend a vamp, lean into a solo, or reshape a set to the room without losing momentum, a practical advantage for a touring group whose reputation was built on live performance.\n\nOn Savoy Brown's Raw Sienna (1970), Earl is credited on drums and percussion, an example of the era when British blues-rock bands recorded quickly and then lived on the road. That record and its adjacent touring cycle hardened Earl's sense of pacing, because audiences expected both intensity and dynamics across extended performances. Those same skills became crucial in Foghat, whose songs frequently expand in concert.\n\nFoghat's history includes a mid-1980s breakup and a 1993 reunion of the original lineup. After the deaths of founding members Peverett (2000) and Price (2005), Earl continued as the steward of the band's legacy while remaining active as a touring musician. As a leader he has navigated personnel changes and the expectations that come with a legacy act; as a player he has kept Foghat grounded in feel rather than nostalgia. That is why the band's modern history still reads as a working, touring enterprise rather than a periodic reunion project.\n\nEarl's legacy is structural: he is the reason Foghat's music can feel both powerful and unpretentious. For generations of listeners, that groove, steady, urgent, and rooted in blues feel, has been the through-line connecting Foghat's early U.K. origins to their decades of American touring."
+          }
+        },
+        {
+          "Name": "Tony Stevens",
+          "YearsActive": "1968–present",
+          "Roles": "Bassist; songwriter",
+          "Instruments": "Bass guitar; vocals",
+          "Albums": [
+            "Foghat (1972)",
+            "Energized (1974)",
+            "Rock and Roll Outlaws (1974)",
+            "Return of the Boogie Men (1994)",
+            "Family Joules (2003)"
+          ],
+          "Overview": "Tony \"Tone\" Stevens (born September 12, 1949) is a founding member of Foghat whose bass playing helped define the band's early boogie-rock engine. Born in London, Stevens developed in a scene where craft was measured by consistency and feel. His style emphasizes pocket, tone, and rhythmic authority, qualities that served Foghat's riff-based songs and live endurance.",
+          "Bio": {
+            "BioID": "foghat-tony-stevens",
+            "ArtistID": "foghat",
+            "ArtistName": "Foghat",
+            "MemberName": "Tony Stevens",
+            "FullName": "Tony Stevens",
+            "Birth": "Born: September 12, 1949 — London, England",
+            "PrimaryInstruments": "Bass guitar; vocals",
+            "Occupations": "Bassist; songwriter",
+            "Genres": "Hard rock; blues rock; boogie rock",
+            "ActiveYears": "1968–present",
+            "AssociatedActs": "Savoy Brown; Foghat; Nobody's Business",
+            "KeyAlbums": "Foghat (1972); Energized (1974); Rock and Roll Outlaws (1974); Return of the Boogie Men (1994); Family Joules (2003)",
+            "KeySongs": "I Just Want to Make Love to You; Drivin' Wheel; Slow Ride",
+            "Achievements": "Founding bassist of Foghat; part of the original-lineup reunion in the 1990s; long-running contributor to blues-based rock projects.",
+            "ExternalLinks": {
+              "Official bio": "https://tonystevensslowride.com/tony-stevens",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Tony_Stevens"
+            },
+            "FullText": "Tony \"Tone\" Stevens (born September 12, 1949) is a founding member of Foghat whose bass playing helped define the band's early boogie-rock engine. Born in London, Stevens developed in a scene where craft was measured by consistency and feel. His style emphasizes pocket, tone, and rhythmic authority, qualities that served Foghat's riff-based songs and live endurance.\n\nStevens joined Savoy Brown in 1968, recording and touring during the period when British blues-rock groups were building substantial American audiences. In that band he played alongside drummer Roger Earl and guitarist/vocalist Dave Peverett, forming a rhythm-section rapport that would become the foundation of Foghat. On Savoy Brown's Raw Sienna (1970), Stevens is credited on bass, effectively documenting a pre-Foghat rhythm section in action.\n\nWhen that lineup left Savoy Brown in late 1970, Stevens helped launch Foghat with Earl and Peverett, adding Rod Price to complete the classic quartet. In Foghat's earliest Bearsville albums, Stevens' bass linked Earl's backbeat to the band's twin guitar identities: Peverett's rhythm and Price's slide leads. The lines are often deceptively simple, prioritizing root movement and rhythmic \"push\" that makes boogie rock feel like it is leaning forward. That simplicity is an intentional design choice in a band whose lead voice frequently comes from slide guitar.\n\nStevens first left Foghat in the mid-1970s, a period when the band's touring schedule was famously intense. Producer Nick Jameson handled bass for the recording of Fool for the City (1975) before Craig MacGregor became the long-running bassist for the late-1970s peak. Yet Stevens remained closely identified with the original band's sound, and in 1993 he rejoined Peverett, Earl, and Price for the original lineup reunion. That era produced Return of the Boogie Men (1994) and renewed touring, reconnecting the project to its founding chemistry.\n\nStevens continued to be associated with Foghat into the 2000s and has maintained an active musical life through projects that keep him connected to blues-based rock. Public and official materials emphasize his roots in Savoy Brown and his role as a founding bassist of Foghat, underscoring how central the original rhythm partnership was to the band's formation. He has also maintained a public identity tied to \"Slow Ride,\" reflecting how closely the group's signature material remains connected to the musicians who built it.\n\nFor Foghat fans, Tony Stevens represents the original bass voice of the band: grounded, groove-first, and built for the road. His contributions illustrate that Foghat's signature sound was never just about slide guitar; it was about a rhythm section capable of turning blues roots into hard-rock momentum, night after night.",
+            "Sources": [
+              {
+                "Title": "Tony Stevens",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Tony_Stevens"
+              },
+              {
+                "Title": "Tony Stevens — bass / backing vocals",
+                "Publisher": "TonyStevensSlowRide.com",
+                "Url": "https://tonystevensslowride.com/tony-stevens"
+              },
+              {
+                "Title": "Raw Sienna (personnel)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Raw_Sienna"
+              },
+              {
+                "Title": "Tony Stevens' rocky ride with Savoy Brown and Foghat",
+                "Publisher": "Guitar World",
+                "Url": "https://www.guitarworld.com/artists/bassists/tony-stevens-foghat-savoy-brown"
+              }
+            ],
+            "Biography": "Tony \"Tone\" Stevens (born September 12, 1949) is a founding member of Foghat whose bass playing helped define the band's early boogie-rock engine. Born in London, Stevens developed in a scene where craft was measured by consistency and feel. His style emphasizes pocket, tone, and rhythmic authority, qualities that served Foghat's riff-based songs and live endurance.\n\nStevens joined Savoy Brown in 1968, recording and touring during the period when British blues-rock groups were building substantial American audiences. In that band he played alongside drummer Roger Earl and guitarist/vocalist Dave Peverett, forming a rhythm-section rapport that would become the foundation of Foghat. On Savoy Brown's Raw Sienna (1970), Stevens is credited on bass, effectively documenting a pre-Foghat rhythm section in action.\n\nWhen that lineup left Savoy Brown in late 1970, Stevens helped launch Foghat with Earl and Peverett, adding Rod Price to complete the classic quartet. In Foghat's earliest Bearsville albums, Stevens' bass linked Earl's backbeat to the band's twin guitar identities: Peverett's rhythm and Price's slide leads. The lines are often deceptively simple, prioritizing root movement and rhythmic \"push\" that makes boogie rock feel like it is leaning forward. That simplicity is an intentional design choice in a band whose lead voice frequently comes from slide guitar.\n\nStevens first left Foghat in the mid-1970s, a period when the band's touring schedule was famously intense. Producer Nick Jameson handled bass for the recording of Fool for the City (1975) before Craig MacGregor became the long-running bassist for the late-1970s peak. Yet Stevens remained closely identified with the original band's sound, and in 1993 he rejoined Peverett, Earl, and Price for the original lineup reunion. That era produced Return of the Boogie Men (1994) and renewed touring, reconnecting the project to its founding chemistry.\n\nStevens continued to be associated with Foghat into the 2000s and has maintained an active musical life through projects that keep him connected to blues-based rock. Public and official materials emphasize his roots in Savoy Brown and his role as a founding bassist of Foghat, underscoring how central the original rhythm partnership was to the band's formation. He has also maintained a public identity tied to \"Slow Ride,\" reflecting how closely the group's signature material remains connected to the musicians who built it.\n\nFor Foghat fans, Tony Stevens represents the original bass voice of the band: grounded, groove-first, and built for the road. His contributions illustrate that Foghat's signature sound was never just about slide guitar; it was about a rhythm section capable of turning blues roots into hard-rock momentum, night after night."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Nick Jameson",
+          "Years": "1975–1976; 1982–1983",
+          "Roles": "Bassist; producer",
+          "Instruments": "Bass guitar; keyboards; backing vocals",
+          "Overview": "Producer and musician who filled in on bass during the Fool for the City era and later returned during early‑1980s lineup changes."
+        },
+        {
+          "Name": "Craig MacGregor",
+          "Years": "1976–1982; 1984; 1991; 1993; 2005–2015",
+          "Roles": "Bassist",
+          "Instruments": "Bass guitar",
+          "Overview": "Longtime bassist who joined in the mid‑1970s and became central to the band’s late‑’70s peak and later touring eras; returned in the 2000s after Tony Stevens’ departure."
+        },
+        {
+          "Name": "Bryan Bassett",
+          "Years": "1999–present",
+          "Roles": "Lead guitarist; slide guitarist",
+          "Instruments": "Guitar; slide guitar; backing vocals",
+          "Overview": "Modern-era lead guitarist who joined around the turn of the 2000s and has helped carry the band’s live catalog into the 21st century."
+        },
+        {
+          "Name": "Charlie Huhn",
+          "Years": "2000–2022",
+          "Roles": "Singer; guitarist",
+          "Instruments": "Vocals; guitar",
+          "Overview": "Fronted Foghat for over two decades after Dave Peverett’s death, recording and touring with Roger Earl during the 2000s and 2010s."
+        },
+        {
+          "Name": "Scott Holt",
+          "Years": "2022–present",
+          "Roles": "Singer; guitarist",
+          "Instruments": "Vocals; guitar",
+          "Overview": "Joined as lead singer and guitarist in the 2020s, continuing the band’s touring line while honoring the classic catalog."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in London in 1971 by ex–Savoy Brown members Dave Peverett, Roger Earl, and Tony Stevens, with Rod Price joining from Black Cat Bones.",
+        "Known for prominent electric slide guitar and a blues-based boogie-rock groove.",
+        "Relocated to the United States after signing with Bearsville Records and became famous for relentless touring.",
+        "Best known for the 1975 hit “Slow Ride” and the double-platinum live album Foghat Live (1977).",
+        "Drummer Roger Earl is the only member to appear across every era and lineup of the band."
+      ]
     },
     {
       "ArtistID": "foo-fighters",
