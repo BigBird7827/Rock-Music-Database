@@ -321,27 +321,438 @@
     {
       "ArtistID": "simple-minds",
       "Name": "Simple Minds",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Glasgow",
+        "Region": "Scotland",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1977–present"
+      ],
+      "Genres": [
+        "Post-punk",
+        "New wave",
+        "Art rock",
+        "Arena rock",
+        "Synth-pop"
+      ],
+      "Labels": [
+        "Arista",
+        "Zoom",
+        "Virgin",
+        "A&M",
+        "Chrysalis",
+        "Eagle",
+        "BMG"
+      ],
+      "Overview": "Simple Minds emerged from Glasgow’s late‑1970s punk and art‑school circuit and quickly outgrew the style that birthed them. Formed in 1977 by friends Jim Kerr (vocals) and Charlie Burchill (guitar), the group evolved from the short‑lived punk outfit Johnny & the Self‑Abusers into a more expansive project that mixed post‑punk tension with European electronic textures. Their earliest albums—*Life in a Day* (1979), *Real to Real Cacophony* (1979), and *Empires and Dance* (1980)—tracked a fast learning curve: lean, rhythmic songs driven by pulsing bass and stark keyboards, but increasingly open to dub space, synth timbres, and cinematic mood. A move to Virgin Records positioned them for a bigger leap, and *Sons and Fascination/Sister Feelings Call* (1981) hinted at the widescreen, anthemic approach that would define their peak years.\n\nThat leap arrived with *New Gold Dream (81/82/83/84)* (1982), a breakthrough that refined their sound into bright, forward‑moving rock built on sequenced patterns, ringing guitars, and choruses designed for arenas. From there, Simple Minds became one of the defining big‑stage bands of the 1980s: *Sparkle in the Rain* (1984) opened with “Waterfront,” a tidal‑swell single that captured their taste for drama, while “Don’t You (Forget About Me)”—recorded for *The Breakfast Club* soundtrack—pushed them into U.S. pop ubiquity in 1985. *Once Upon a Time* (1985) extended their commercial run with a polished, dance‑rock sheen, and the band’s live reputation grew as they expanded the lineup and stage production to match the size of the songs.\n\nIn 1989, *Street Fighting Years* brought a more reflective, politically aware tone, pairing panoramic arrangements with songs that responded to contemporary conflicts and social movements; the era’s signature, “Belfast Child,” became a major European hit. The 1990s saw changing lineups and a gradual commercial cooling, but Kerr and Burchill kept Simple Minds active through touring, new studio records, and periodic creative resets. In the late 2000s and 2010s they regained chart visibility and reasserted their identity as a modern live act, balancing deep‑cut early material with the ’80s staples that made them international mainstays. Across decades, the band’s through‑line has been scale: rhythm‑driven songwriting built for movement, melodies engineered for communal singing, and a willingness to reshape post‑punk roots into anthems that still read as unmistakably Simple Minds.",
+      "NotableAlbums": [
+        {
+          "Year": 1979,
+          "Title": "Life in a Day",
+          "Details": "Debut album that introduced the band’s early post‑punk/new wave blend and set the stage for a rapid stylistic evolution."
+        },
+        {
+          "Year": 1980,
+          "Title": "Empires and Dance",
+          "Details": "A stark, rhythmic pivot toward darker post‑punk and European electronic influence; often cited as a key early statement of their aesthetic."
+        },
+        {
+          "Year": 1981,
+          "Title": "Sons and Fascination / Sister Feelings Call",
+          "Details": "Virgin-era breakthrough that broadened the sonic palette—motorik pulse, synth atmosphere, and bigger choruses—pointing toward arena scale."
+        },
+        {
+          "Year": 1982,
+          "Title": "New Gold Dream (81/82/83/84)",
+          "Details": "Defining breakthrough: shimmering synth-rock, melodic uplift, and the template for the band’s anthemic 1980s sound."
+        },
+        {
+          "Year": 1984,
+          "Title": "Sparkle in the Rain",
+          "Details": "Stadium-ready, high-impact record anchored by “Waterfront,” capturing the band’s taste for drama and huge dynamics."
+        },
+        {
+          "Year": 1985,
+          "Title": "Once Upon a Time",
+          "Details": "Commercial peak-era album with a polished dance‑rock sheen and multiple hit singles, cementing their global profile."
+        },
+        {
+          "Year": 1989,
+          "Title": "Street Fighting Years",
+          "Details": "Expansive, reflective set with socially conscious themes; featured “Belfast Child,” a signature late‑80s single."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Year": 1981,
+          "Title": "Love Song",
+          "Details": "Turning-point single that signaled their move toward bigger hooks and a more confident pop‑rock identity."
+        },
+        {
+          "Year": 1982,
+          "Title": "Promised You a Miracle",
+          "Details": "Bright, propulsive hit from *New Gold Dream* that helped define the band’s anthemic synth‑rock period."
+        },
+        {
+          "Year": 1982,
+          "Title": "Glittering Prize",
+          "Details": "Chiming single that captured the sheen and forward motion of the early‑80s era."
+        },
+        {
+          "Year": 1983,
+          "Title": "Waterfront",
+          "Details": "Thunderous, dramatic anthem that became a concert centerpiece and one of their most enduring crowd songs."
+        },
+        {
+          "Year": 1985,
+          "Title": "Don’t You (Forget About Me)",
+          "Details": "Global signature hit from *The Breakfast Club* soundtrack and their breakthrough in the U.S."
+        },
+        {
+          "Year": 1985,
+          "Title": "Alive and Kicking",
+          "Details": "Major international single that balanced arena uplift with dance‑rock momentum."
+        },
+        {
+          "Year": 1989,
+          "Title": "Belfast Child",
+          "Details": "Epic, emotionally charged single associated with *Street Fighting Years* and a highlight of their late‑80s reinvention."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": 1984,
+          "Title": "First UK No. 1 album with *Sparkle in the Rain*",
+          "Details": "The album debuted at the top of the UK chart, confirming their rise from cult act to mainstream headliners."
+        },
+        {
+          "Year": 1985,
+          "Title": "“Don’t You (Forget About Me)” reaches No. 1 in the United States",
+          "Details": "The song became their breakthrough U.S. hit, topping the Billboard Hot 100 after appearing in *The Breakfast Club*."
+        },
+        {
+          "Year": 1985,
+          "Title": "*Once Upon a Time* becomes a UK No. 1 album",
+          "Details": "A commercial high point that expanded their global audience and generated multiple hit singles."
+        },
+        {
+          "Year": 1989,
+          "Title": "“Belfast Child” reaches No. 1 in the UK",
+          "Details": "A landmark single that led the band into a more reflective, politically aware late‑80s phase."
+        },
+        {
+          "Year": 2014,
+          "Title": "Q Inspiration Award",
+          "Details": "Recognized for their influence and contribution to music across decades."
+        },
+        {
+          "Year": 2016,
+          "Title": "Ivor Novello Award for Outstanding Song Collection",
+          "Details": "Honored by the British Academy of Songwriters, Composers and Authors (BASCA) for their songwriting catalogue."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Glasgow in 1977; the long‑running core is vocalist Jim Kerr and guitarist Charlie Burchill.",
+        "Began as part of the punk-era band Johnny & the Self‑Abusers before adopting the name Simple Minds.",
+        "Broke through internationally with *New Gold Dream (81/82/83/84)* (1982) and the U.S. No. 1 single “Don’t You (Forget About Me)” (1985).",
+        "Known for anthemic, rhythm-driven songs built for large venues and a reputation as a powerful live act.",
+        "Notable former members include keyboardist Mick MacNeil and bassist Derek Forbes, whose early-era contributions shaped the band’s sound."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.simpleminds.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Simple_Minds",
+        "Discography": "https://en.wikipedia.org/wiki/Simple_Minds_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Jim Kerr",
+          "Roles": [
+            "Lead vocals",
+            "Songwriter",
+            "Lyricist"
+          ],
+          "Years": "1977–present",
+          "Overview": "Founding singer and principal lyric voice; a frontman whose writing helped steer the band from post‑punk roots to arena‑scale anthems.",
+          "Bio": {
+            "BioID": "bio-jim-kerr",
+            "ArtistID": "simple-minds",
+            "ArtistName": "Simple Minds",
+            "MemberName": "Jim Kerr",
+            "FullName": "James Kerr",
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter",
+              "Lyricist"
+            ],
+            "Genres": [
+              "Post-punk",
+              "New wave",
+              "Art rock",
+              "Synth-pop",
+              "Arena rock"
+            ],
+            "Birth": {
+              "Date": "1959-07-09",
+              "Place": "Toryglen, Glasgow, Scotland"
+            },
+            "ActiveYears": [
+              "1977–present"
+            ],
+            "AssociatedActs": [
+              "Simple Minds"
+            ],
+            "KeyAlbums": [
+              "New Gold Dream (81/82/83/84)",
+              "Sparkle in the Rain",
+              "Once Upon a Time",
+              "Street Fighting Years"
+            ],
+            "KeySongs": [
+              "Promised You a Miracle",
+              "Waterfront",
+              "Don't You (Forget About Me)",
+              "Alive and Kicking",
+              "Belfast Child"
+            ],
+            "Achievements": [
+              "Co-founded Simple Minds and remained the band’s lead vocalist and primary lyricist across decades of lineup changes.",
+              "Fronted the band through their 1980s commercial peak, including the U.S. No. 1 single \"Don't You (Forget About Me)\" and multiple chart-topping albums."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Jim_Kerr",
+              "OfficialBandSite": "https://www.simpleminds.com/"
+            },
+            "Sources": [
+              {
+                "Title": "Jim Kerr",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jim_Kerr"
+              },
+              {
+                "Title": "Simple Minds",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Simple_Minds"
+              },
+              {
+                "Title": "Simple Minds (artist page)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/simple-minds-mn0000049374"
+              },
+              {
+                "Title": "Once Upon A Time Reaches No 1",
+                "Publisher": "SimpleMinds.com",
+                "Url": "https://www.simpleminds.com/1985/11/04/upon-time-reaches-no-1/"
+              },
+              {
+                "Title": "Simple Minds Almost Passed on 'Don't You (Forget About Me)'",
+                "Publisher": "People",
+                "Url": "https://people.com/simple-minds-thought-don-t-you-forget-about-me-was-a-mistake-exclusive-11747688"
+              }
+            ],
+            "Biography": "Jim Kerr is the founding singer and principal lyric voice of Simple Minds.",
+            "FullText": "Jim Kerr (born 9 July 1959) is the voice and primary lyric-writing force behind Simple Minds, a band that grew from Glasgow’s punk-era ferment into one of the defining arena acts of the 1980s. Raised in the city’s south side (Toryglen), Kerr came of age as British youth culture shifted from glam and prog toward the do‑it‑yourself urgency of punk. His early musical education happened locally: friends’ record collections, football‑ground chants, and the intense club culture of late‑70s Glasgow all fed a sense that music could be both communal and confrontational. One of the most important constants in his story is Charlie Burchill, a school friend Kerr had known since childhood. That long relationship—part friendship, part creative partnership—became the anchor that carried Simple Minds through multiple lineup changes and decades of stylistic reinvention.\n\nKerr’s first serious steps into performance and songwriting coincided with the explosion of punk. In early 1977 he and Burchill were recruited into Johnny & the Self‑Abusers, a short‑lived but pivotal Glasgow punk group. The band’s lifespan was brief—its one single and small run of gigs were enough to teach the core members how to write fast, perform loudly, and work as a unit—but its real value was what happened when it ended. After the Self‑Abusers split, Kerr and Burchill regrouped with their closest collaborators and began building a new project that would not be limited by punk’s strict rules. They chose the name Simple Minds (lifted from a David Bowie lyric), and from the start Kerr treated the band less as a genre exercise and more as a platform for atmosphere, melody, and scale. Where punk emphasized blunt statements, Kerr wanted images, motion, and emotional lift—lyrics that could be elliptical but still feel direct when sung by thousands.\n\nAcross the band’s first run of albums—*Life in a Day*, *Real to Real Cacophony*, and *Empires and Dance*—Kerr developed his on‑stage role and his writing voice. Those records document a quick evolution from nervous new‑wave pop toward darker, more rhythmic post‑punk with European electronic influence. Kerr’s lyrics from this period often work like fragments from a travel diary: place names, political signals, and personal half‑confessions, arranged to suggest a wider story rather than spelling it out. His vocal approach also began to shift. Early performances carried a clipped, urgent delivery that suited the band’s tight, angular grooves; as the music broadened, he leaned into longer melodic lines and a more open-throated, anthem-ready style.\n\nThe move to Virgin Records and the release of *Sons and Fascination/Sister Feelings Call* marked a decisive step toward the widescreen sound most listeners now associate with Simple Minds. For Kerr, this was not simply a production upgrade; it was a change in ambition. His songs began to aim for big emotional arcs: verses that build pressure and choruses that release it, with phrases designed to be both personal and collective. The breakthrough of *New Gold Dream (81/82/83/84)* in 1982 made that approach commercially viable. Singles like “Promised You a Miracle,” “Glittering Prize,” and “Someone Somewhere in Summertime” framed Kerr as a frontman capable of leading bright, forward-moving pop without abandoning post‑punk intensity. By this point, his writing had settled into a signature balance—romantic imagery and social observation, delivered with a sense of momentum that matched the band’s rhythmic drive.\n\nThe mid‑80s period elevated Kerr into international pop culture. *Sparkle in the Rain* and the single “Waterfront” established the band as stadium-ready, but it was “Don’t You (Forget About Me)” that made Simple Minds unavoidable—especially in the United States. The track’s association with *The Breakfast Club* introduced Kerr’s voice to a massive audience beyond the band’s earlier art‑rock base. Notably, the song was not written by the band, and its success created a tension that Kerr had to navigate: how to capitalize on the momentum without letting a soundtrack single define their identity. *Once Upon a Time* (1985) was Kerr’s answer—an album that leaned into polish and big choruses while still carrying the band’s rhythmic DNA. On songs like “Alive and Kicking,” his voice is both commanding and warm, turning personal resolve into crowd-sized affirmation.\n\nKerr’s songwriting also absorbed the broader political currents of the late 1980s. *Street Fighting Years* (1989) carries a more reflective tone and a stronger sense of place and conflict, pairing panoramic arrangements with lyrics shaped by contemporary events and social movements. \"Belfast Child,\" one of the era’s signature songs, is a case study in Kerr’s mature writing: empathetic, dramatic, and willing to slow the tempo to let emotion and atmosphere do the work. During this period, Kerr increasingly presented Simple Minds as a band with a conscience as well as a catalogue, aligning their public profile with benefit concerts and socially themed material.\n\nThe 1990s brought commercial challenges and continued personnel changes, but Kerr’s role as the band’s identity remained consistent. His leadership was less about virtuoso musicianship than about coherence: keeping the songwriting voice recognizable even as production fashions shifted. That meant adapting without surrendering the group’s essential qualities—rhythm-first arrangements, cinematic dynamics, and choruses built for communal singing. In the 2000s and 2010s, Kerr and Burchill maintained an active touring schedule and periodically returned to the charts with new studio work, emphasizing Simple Minds’ continuing relevance as a live band rather than a nostalgia act.\n\nOutside the band, Kerr’s life has been publicly visible in ways that intersect with rock culture and celebrity. He married Chrissie Hynde of The Pretenders in 1984 (the couple divorced in 1990) and later married actor Patsy Kensit in 1992 (divorced in 1996). Over time he also built a second home base in Italy, living in Taormina, Sicily, where he is associated with the Hotel Villa Angela. Those details, however, are footnotes to the larger story: Kerr as a frontman whose gift is the ability to translate mood into melody and lyrics into a shared physical experience in a room. Whether delivering the early urgency of the post‑punk years or the uplift of the stadium era, Kerr’s lasting contribution is the way he turned abstract images and open-ended lines into choruses that feel personal to millions of listeners."
+          }
+        },
+        {
+          "Name": "Charlie Burchill",
+          "Roles": [
+            "Guitar",
+            "Songwriter"
+          ],
+          "Years": "1977–present",
+          "Overview": "Founding guitarist whose chiming, textural approach helped define the band’s early‑80s synth‑rock breakthrough and arena-era sound.",
+          "Bio": {
+            "BioID": "bio-charlie-burchill",
+            "ArtistID": "simple-minds",
+            "ArtistName": "Simple Minds",
+            "MemberName": "Charlie Burchill",
+            "FullName": "Charles Burchill",
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Guitarist",
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Post-punk",
+              "New wave",
+              "Art rock",
+              "Synth-pop",
+              "Arena rock"
+            ],
+            "Birth": {
+              "Date": "1959-11-27",
+              "Place": "Glasgow, Scotland"
+            },
+            "ActiveYears": [
+              "1977–present"
+            ],
+            "AssociatedActs": [
+              "Simple Minds",
+              "Johnny & the Self-Abusers"
+            ],
+            "KeyAlbums": [
+              "New Gold Dream (81/82/83/84)",
+              "Sparkle in the Rain",
+              "Once Upon a Time",
+              "Street Fighting Years"
+            ],
+            "KeySongs": [
+              "Glittering Prize",
+              "Someone Somewhere in Summertime",
+              "Waterfront",
+              "Alive and Kicking"
+            ],
+            "Achievements": [
+              "Co-founded Simple Minds and served as the band’s defining instrumental voice across multiple stylistic eras.",
+              "Helped shape the band’s trademark anthemic sound through rhythmic, textural guitar parts designed to interlock with keyboards and bass."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Charlie_Burchill",
+              "AllMusic": "https://www.allmusic.com/artist/charlie-burchill-mn0001664656"
+            },
+            "Sources": [
+              {
+                "Title": "Charlie Burchill",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/charlie-burchill-mn0001664656"
+              },
+              {
+                "Title": "Simple Minds",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Simple_Minds"
+              },
+              {
+                "Title": "Simple Minds (artist page)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/simple-minds-mn0000049374"
+              },
+              {
+                "Title": "Simple Minds review - First Direct Arena, Leeds",
+                "Publisher": "The Guardian",
+                "Url": "https://www.theguardian.com/music/2024/mar/18/simple-minds-review-first-direct-arena-leeds"
+              }
+            ],
+            "Biography": "Charlie Burchill is the founding guitarist of Simple Minds.",
+            "FullText": "Charlie Burchill (born 27 November 1959) is the founding guitarist and a central musical architect of Simple Minds, known for shaping the band’s transition from post‑punk austerity to the widescreen, anthemic sound that defined much of 1980s rock. Born and raised in Glasgow, Burchill’s musicianship developed in the same environments that produced the city’s most influential late‑70s and early‑80s acts: youth clubs, local rehearsal rooms, and a nightlife where punk’s immediacy collided with European art‑rock experimentation. His most important creative partnership formed early—he met Jim Kerr as a child, and by the time they were teenagers the two were already absorbing the same mix of glam, punk, and exploratory rock. That long-running friendship became the stable core of Simple Minds, with Burchill serving as the band’s defining instrumental voice across decades and lineup changes.\n\nBurchill’s first public step into the Glasgow scene came with Johnny & the Self‑Abusers in 1977. The group’s brief run offered an apprenticeship in punk’s discipline: tight arrangements, high-volume performance, and the idea that conviction could matter more than polish. When the Self‑Abusers dissolved, Burchill and Kerr chose not to chase punk purity but to expand outward—toward atmosphere, electronics, and a more cinematic sense of songwriting. Under the new name Simple Minds, Burchill’s guitar became a key ingredient in that expansion. In the earliest recordings, his playing often emphasized texture over flash: clipped rhythmic patterns, sharp accents, and lines that wove around the bass and keyboards rather than sitting above them. That approach helped the band create motion without clutter, and it made space for the evolving synth palette that would soon become central to their identity.\n\nAcross the first albums, Burchill’s style tracked the band’s rapid evolution. *Life in a Day* still carried the nervous energy of new wave, but *Real to Real Cacophony* and *Empires and Dance* pushed deeper into post‑punk minimalism, European electronics, and dub-informed space. On these records Burchill’s guitar could be brittle and percussive—part of the rhythm section as much as a melodic lead. He also cultivated a taste for tone as storytelling: chorus and delay for shimmer, darker voicings when the songs turned inward, and a willingness to let repetition build tension. That sense of architecture—how small motifs become big moments—would later translate naturally to arena-sized dynamics.\n\nThe Virgin era and *Sons and Fascination/Sister Feelings Call* marked a turning point in the band’s scale and in Burchill’s role. As the songs opened up, his guitar had to do two things at once: provide forward drive and deliver the emotional lift listeners associate with Simple Minds’ choruses. By *New Gold Dream (81/82/83/84)*, Burchill had refined a signature vocabulary of chiming, ringing parts that blended with keyboards rather than competing with them. Instead of blues-rock solos, he focused on interlocking lines, sustaining notes that hang like light, and rhythmic figures that keep the songs moving even as they swell toward the chorus. That approach is one reason the band’s most celebrated early‑80s material feels both danceable and monumental.\n\nIn the mid‑80s, as Simple Minds became a stadium act, Burchill’s playing adapted to bigger stages without losing its textural intelligence. \"Waterfront\" is a useful example: the song’s power is less about virtuosic lead work than about the way the guitar contributes to the surge—accenting the groove, opening the harmonic space, and helping the chorus land with physical force. The global success of \"Don’t You (Forget About Me)\" introduced the band to a huge U.S. audience, and while the song’s signature is often remembered for its vocal hook, Burchill’s role in balancing rock muscle with pop clarity became increasingly important as the band navigated mainstream expectations. On *Once Upon a Time* and the surrounding tours, his parts had to be bold enough for arenas but clean enough for radio—a balancing act that became a hallmark of the band’s sound.\n\nBurchill also had to adapt to personnel changes that altered the band’s internal chemistry. Key early collaborators like keyboardist Mick MacNeil and bassist Derek Forbes played major roles in shaping the early catalogue, and their departures meant the Kerr–Burchill partnership carried even more responsibility for continuity. Through the more reflective, socially conscious tone of *Street Fighting Years* and the shifting commercial landscape of the 1990s, Burchill’s guitar remained a unifying thread: identifiable tone, patient arrangement, and an instinct for how to build songs that feel like journeys. Rather than chasing trends through constant reinvention of technique, he refined a set of musical values—clarity, space, and emotional focus—that could survive changes in fashion.\n\nIn later decades, as Simple Minds emphasized touring and periodic studio releases, Burchill’s role expanded into the stewardship of a live legacy. His playing became the bridge between eras: capable of reproducing the bright, sequenced precision of the early 80s material, the muscular rock of the stadium years, and the more atmospheric, reflective moments of the late 80s and beyond. That range is often understated because it is not showy, but it is essential—Simple Minds’ catalogue depends on feel, pulse, and shimmer, and Burchill’s guitar provides all three. Equally important is the relationship at the heart of the band: decades after meeting as children, Burchill and Kerr continue to operate as the decision-making center of Simple Minds, shaping setlists, overseeing new work, and keeping the group’s identity coherent.\n\nTaken as a whole, Burchill’s contribution is the sound of a band learning how to scale emotion. From the tight, angular early recordings to the arena choruses that followed, his guitar work demonstrates that \"big\" does not have to mean busy. His best parts are built from concise ideas—simple lines, carefully chosen tones, and rhythmic patterns that lock into the groove—and then arranged so they accumulate power over time. In that sense, Burchill embodies what Simple Minds have always done well: translate post‑punk intensity into music that can fill a stadium while still feeling focused, physical, and human."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Mick MacNeil",
+          "Roles": [
+            "Keyboards",
+            "Synthesizers"
+          ],
+          "Years": "1977–1990",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Life in a Day",
+            "Real to Real Cacophony",
+            "Empires and Dance",
+            "Sons and Fascination/Sister Feelings Call",
+            "New Gold Dream (81/82/83/84)",
+            "Sparkle in the Rain",
+            "Once Upon a Time"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "",
+          "Overview": "Longtime keyboardist whose synth textures and melodic choices were central to the band’s early development and 1980s breakthrough."
+        },
+        {
+          "Name": "Derek Forbes",
+          "Roles": [
+            "Bass guitar"
+          ],
+          "Years": "1978–1985, 1995–1998",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "Life in a Day",
+            "Real to Real Cacophony",
+            "Empires and Dance",
+            "Sons and Fascination/Sister Feelings Call",
+            "New Gold Dream (81/82/83/84)",
+            "Sparkle in the Rain"
+          ],
+          "Replacing": "Tony Donald",
+          "ReplacedBy": "John Giblin (mid‑1980s bass period)",
+          "Overview": "Foundational bassist whose driving, melodic lines helped define the early sound; later returned during the mid‑1990s."
+        },
+        {
+          "Name": "Brian McGee",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1977–1982",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Life in a Day",
+            "Real to Real Cacophony",
+            "Empires and Dance",
+            "Sons and Fascination/Sister Feelings Call"
+          ],
+          "Replacing": "",
+          "ReplacedBy": "Mel Gaynor",
+          "Overview": "Early drummer during the band’s formative post‑punk years before their commercial breakthrough."
+        },
+        {
+          "Name": "Mel Gaynor",
+          "Roles": [
+            "Drums",
+            "Backing vocals"
+          ],
+          "Years": "1982–1991, 1997–1998, 2002–2017",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "New Gold Dream (81/82/83/84)",
+            "Sparkle in the Rain",
+            "Once Upon a Time",
+            "Street Fighting Years",
+            "Real Life",
+            "Black & White 050505",
+            "Graffiti Soul",
+            "Big Music",
+            "Acoustic",
+            "Walk Between Worlds"
+          ],
+          "Replacing": "Mike Ogletree (touring transition)",
+          "ReplacedBy": "",
+          "Overview": "Longtime drummer associated with the band’s biggest era, joining during the *New Gold Dream* period and remaining a key live presence for decades."
+        },
+        {
+          "Name": "John Giblin",
+          "Roles": [
+            "Bass guitar"
+          ],
+          "Years": "1985–1988",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "Once Upon a Time (touring era)",
+            "Street Fighting Years (sessions period)"
+          ],
+          "Replacing": "Derek Forbes (post‑1985 period)",
+          "ReplacedBy": "",
+          "Overview": "Bassist during the mid‑80s touring and recording period following Derek Forbes’ departure."
+        }
+      ]
     },
     {
       "ArtistID": "simply-red",
