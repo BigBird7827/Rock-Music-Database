@@ -2951,27 +2951,491 @@
     {
       "ArtistID": "climax-blues-band",
       "Name": "Climax Blues Band",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Stafford",
+        "Region": "Staffordshire",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1968–1984",
+        "1986–present"
+      ],
+      "Genres": [
+        "Blues rock",
+        "Soft rock",
+        "Rock",
+        "R&B",
+        "Soul"
+      ],
+      "Labels": [
+        "Harvest/EMI",
+        "Sire",
+        "Warner Bros.",
+        "Virgin",
+        "Major League Productions"
+      ],
+      "Overview": "Climax Blues Band are a British blues‑rock group formed in Stafford, England, in 1968, first working under the names **The Climax Chicago Blues Band** and **Climax Chicago** before settling on their long‑running name. Built around founder Colin Cooper’s vocals and reed work (saxophones and harmonica) and the band’s emphasis on tight ensemble playing, the early years drew deeply from Chicago and British blues, but the group gradually broadened its palette—pulling in jazz‑rock, soul, and pop textures—without losing the rhythmic drive and club‑band discipline that came from constant touring.\n\nThat evolution is especially clear in the 1970s run that produced the live showcase **FM/Live** and the studio streak that culminated in **Gold Plated** (1976). Produced with Mike Vernon and credited to the band as co‑producers, Gold Plated paired blues‑rock chops with radio‑ready hooks and became their best‑known commercial breakthrough, driven by the single “Couldn’t Get It Right” (a UK Top 10 and U.S. Top 5 hit). In the early 1980s, they scored another major American pop success with the power ballad “I Love You,” which reached the U.S. Hot 100 Top 20 (peaking at No. 12) and introduced the band to a new audience that often knew them more for polished songwriting than their earlier blues credentials.\n\nAfter a mid‑1980s pause, Cooper revived the group in 1986 and steered it back toward blues foundations through later live and studio releases, including sets that leaned into classic material (notably a Willie Dixon‑focused studio album) and, much later, new original work such as **Hands of Time** (2019). The band’s history is also marked by the loss of key figures—Cooper (2008) and founding guitarist Pete Haycock (2013)—but the name has continued on the road with rotating lineups. Across its decades, Climax Blues Band’s calling card has been the same: an unusually “musicianly” rock band that can sit comfortably between blues grit and smooth, melodic pop when the songs call for it.",
+      "NotableAlbums": [
+        {
+          "Title": "FM/Live",
+          "Year": "1973",
+          "Notes": "Breakthrough-era live document (UK single LP / U.S. double) that captured the band’s road-honed blend of blues and jazz-rock."
+        },
+        {
+          "Title": "Stamp Album",
+          "Year": "1975",
+          "Notes": "Mid-’70s studio set that helped set up the band’s commercial peak; often cited as part of the run leading into Gold Plated."
+        },
+        {
+          "Title": "Gold Plated",
+          "Year": "1976",
+          "Notes": "Commercial high point featuring the hit “Couldn’t Get It Right”; charted in both the UK and U.S. and is widely viewed as their signature studio album."
+        },
+        {
+          "Title": "Shine On",
+          "Year": "1978",
+          "Notes": "Follow-up studio album from the classic late-’70s lineup, continuing the band’s smoother, song-forward direction."
+        },
+        {
+          "Title": "Real to Reel",
+          "Year": "1979",
+          "Notes": "Late-’70s album that kept the group active on rock and adult-oriented radio as their sound leaned more melodic."
+        },
+        {
+          "Title": "Hands of Time",
+          "Year": "2019",
+          "Notes": "Late-career studio album of original material released in the modern touring era."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Couldn't Get It Right",
+          "Year": "1976",
+          "Notes": "Signature hit single (UK Top 10; U.S. Top 5) associated with the Gold Plated era and the band’s biggest crossover moment."
+        },
+        {
+          "Title": "I Love You",
+          "Year": "1980",
+          "Notes": "Major U.S. pop hit ballad that peaked at No. 12 on the Billboard Hot 100 in 1981, expanding the band’s audience beyond blues-rock."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1968",
+          "Title": "Formation in Stafford, England",
+          "Details": "Founded in Stafford as The Climax Chicago Blues Band, with Colin Cooper at the center as leader/vocalist and reed player."
+        },
+        {
+          "Year": "1973–1974",
+          "Title": "FM/Live captures the band’s live reputation",
+          "Details": "The FM/Live release documented the group’s performance strength and helped build their profile outside the UK club circuit."
+        },
+        {
+          "Year": "1976–1977",
+          "Title": "Breakthrough with “Couldn't Get It Right” and Gold Plated",
+          "Details": "Gold Plated became the band’s best-known commercial album and its lead single crossed into major UK and U.S. charts, peaking at No. 3 on the Billboard Hot 100."
+        },
+        {
+          "Year": "1981",
+          "Title": "U.S. hit “I Love You”",
+          "Details": "“I Love You” reached No. 12 on the Billboard Hot 100 and became one of the band’s most enduring U.S. radio staples."
+        },
+        {
+          "Year": "1986–present",
+          "Title": "Band revived and continues touring",
+          "Details": "After a mid-’80s break, the name returned under Cooper’s leadership and has continued as a touring act with later lineups, including new studio material in 2019."
+        }
+      ],
+      "KeyFacts": [
+        "The group’s earliest names included The Climax Chicago Blues Band and Climax Chicago before adopting Climax Blues Band.",
+        "Their best-known hit “Couldn't Get It Right” became a rare transatlantic success for a UK blues-rock act in the late 1970s.",
+        "Colin Cooper (founder/leader) died in 2008, and founding guitarist Pete Haycock died in 2013, but the band name continues with later lineups."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://climaxbluesband.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Climax_Blues_Band",
+        "Discography": "https://www.discogs.com/artist/152966-Climax-Blues-Band"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Colin Cooper",
+          "YearsActive": "1968–2008",
+          "Roles": "Founder; lead vocals; bandleader",
+          "Instruments": "Saxophones; harmonica; guitar",
+          "Albums": [
+            {
+              "Title": "FM/Live",
+              "Year": "1973"
+            },
+            {
+              "Title": "Sense of Direction",
+              "Year": "1974"
+            },
+            {
+              "Title": "Stamp Album",
+              "Year": "1975"
+            },
+            {
+              "Title": "Gold Plated",
+              "Year": "1976"
+            },
+            {
+              "Title": "Shine On",
+              "Year": "1978"
+            },
+            {
+              "Title": "Real to Reel",
+              "Year": "1979"
+            },
+            {
+              "Title": "Flying the Flag",
+              "Year": "1980"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1939-10-07",
+              "Place": "Stafford, England"
+            },
+            "Nationality": "British",
+            "Roles": "Singer; saxophonist; harmonica player; band founder and leader",
+            "Instruments": "Saxophones; harmonica; guitar",
+            "Biography": "Colin Cooper (born 7 October 1939 in Stafford, England; died 3 July 2008) was the founder and long‑time leader of Climax Blues Band, and the figure most responsible for the band’s identity across multiple decades. Before the group became a touring, recording name, Cooper was already a working musician in local jazz and R&B settings—playing clarinet and reeds as comfortably as he handled harmonica and guitar. That multi‑instrumental background mattered: from the start, Climax was not a “frontman plus backing band” project. It was built like a unit, with Cooper steering the overall direction while encouraging the kind of musical conversation—between rhythm section, guitar, and horns—that made the band feel closer to a club‑seasoned R&B outfit than a typical blues‑rock lineup.\n\nCooper’s role in the earliest Stafford years was both practical and musical. He helped assemble the original personnel, turning friendships and local connections into a working band, and he was the member with the clearest vision of how to translate American blues traditions into something that could travel the UK circuit. Early versions of the group used the name **The Climax Chicago Blues Band**, signaling their allegiance to Chicago‑style blues while also distinguishing themselves from other British blues boom acts. As the lineup shifted and the band’s ambitions grew, the name shortened—first to Climax Chicago and then to Climax Blues Band—mirroring a broader shift from strict blues replication toward a more hybrid sound.\n\nMusically, Cooper was the band’s tonal signature. His saxophone lines could be sharp and declarative, punching through a groove like a horn section; or they could be smoky and melodic, bringing a jazz‑club color to rock arrangements. On harmonica, he could pivot from gritty blues phrasing to more rhythmic, hook‑oriented figures that fit the band’s increasingly song‑driven direction in the mid‑to‑late 1970s. Vocally, Cooper was rarely a pure “belt it out” rock singer; his strength was character and phrasing—an ability to make a lyric feel lived‑in, whether the band was leaning into roadhouse blues or smoothing the edges for radio.\n\nThe commercial peak of the classic era still reflects Cooper’s ensemble-first instincts. **Gold Plated** (1976) is often remembered for the crossover hit “Couldn’t Get It Right,” but the record’s effectiveness comes from the way the band balances groove, arrangement detail, and instrumental personality. Cooper’s reeds and vocal presence anchor the material without crowding it, leaving room for Pete Haycock’s guitar textures and the harmony‑heavy approach that helped the group cross into pop and adult‑oriented formats. The single’s success (a UK Top 10 and U.S. Top 5 hit) positioned Climax as an unusual kind of chart act: not a newly manufactured pop group, but a long‑working road band that suddenly found the right song, the right sound, and the right moment.\n\nAfter the early‑1980s hits and subsequent turbulence, Cooper proved unusually determined to keep the Climax name alive. When the group paused in the mid‑1980s, he revived it in 1986, treating the band as both a living performance entity and a vehicle for returning to blues roots. In the later era, Cooper steered Climax toward material that emphasized classic blues songcraft and band interplay—sometimes explicitly, as in projects centered on Willie Dixon compositions—while still keeping the door open to the melodic sensibility that had made them successful on U.S. radio.\n\nCooper’s death from cancer in 2008 closed the chapter on the band’s founding identity, but it also clarified his legacy: he was the connective tissue between Climax’s phases—early blues purism, mid‑’70s crossover, early‑’80s pop success, and late‑career blues revival. For listeners, his voice and reeds are inseparable from the band’s sound; for the musicians around him, his leadership was the reason Climax could survive long enough to reinvent itself. Even as later lineups carried the name forward, the core idea Cooper established—tight ensemble playing, jazz‑and‑blues fluency, and an ear for grooves that could travel beyond the blues audience—remains the defining Climax Blues Band blueprint.\n\nIn interviews and in the band’s own recalled history, Cooper’s leadership looks less like celebrity-frontman behavior and more like the work of a band captain: finding rooms to play, keeping the personnel moving, and translating rehearsal ideas into stage-ready arrangements. The origin story often notes that Cooper and Derek Holt held day jobs at the same Stafford grinding‑wheel factory when the band began, and that the group was “discovered” locally and signed to record early albums while still juggling work. Those early recordings—cut quickly in London studios—help explain why Climax always sounded like a *working* band: even on record, the playing has a live-band economy.\n\nAs Climax shifted from Parlophone releases to Harvest/EMI and then into the 1970s U.S. market through Sire (later absorbed by Warner Bros.), Cooper helped guide the sound toward a balance of musicianship and accessibility. Their U.S. touring push in the early 1970s, and the live recording at New York’s Academy of Music that became **FM/Live**, placed Cooper in the role of a bandleader who could sell improvisation to rock audiences without drifting into indulgence. When the group pursued hit singles more directly around **Flying the Flag**, Cooper still worked as the band’s sonic anchor—his reeds and vocal phrasing providing continuity as producers, studios, and even songwriting strategies shifted.\n\nIn the later era—after the 1986 revival—Cooper’s priorities became clearer: keep the Climax name connected to blues fundamentals and to the idea of a touring band that can still *play*. Projects like the Willie Dixon-focused **Big Blues** era underscored that intent, and the band’s continuing association with blues standards and jazz‑tinged arrangements reflected Cooper’s own background. That throughline is his legacy: a founder who treated the band not as a one-off success story but as a long-lived musical workshop.",
+            "Sources": [
+              {
+                "Title": "Climax Blues Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Climax_Blues_Band"
+              },
+              {
+                "Title": "Colin Cooper (obituary)",
+                "Publisher": "The Guardian",
+                "Url": "https://www.theguardian.com/music/2008/aug/07/popandrock.jazz"
+              },
+              {
+                "Title": "Colin Cooper Discography / Profile",
+                "Publisher": "Discogs",
+                "Url": "https://www.discogs.com/artist/968125-Colin-Cooper"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Pete Haycock",
+          "YearsActive": "1968–1984",
+          "Roles": "Lead guitar; vocals; songwriter; co-founder",
+          "Instruments": "Guitar; bass; vocals",
+          "Albums": [
+            {
+              "Title": "FM/Live",
+              "Year": "1973"
+            },
+            {
+              "Title": "Sense of Direction",
+              "Year": "1974"
+            },
+            {
+              "Title": "Stamp Album",
+              "Year": "1975"
+            },
+            {
+              "Title": "Gold Plated",
+              "Year": "1976"
+            },
+            {
+              "Title": "Shine On",
+              "Year": "1978"
+            },
+            {
+              "Title": "Real to Reel",
+              "Year": "1979"
+            },
+            {
+              "Title": "Flying the Flag",
+              "Year": "1980"
+            },
+            {
+              "Title": "Lucky for Some",
+              "Year": "1981"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "1951-03-04",
+              "Place": "Stafford, England"
+            },
+            "Nationality": "British",
+            "Roles": "Guitarist; vocalist; songwriter; composer",
+            "Instruments": "Guitar; bass; vocals",
+            "Biography": "Pete Haycock (Peter John Haycock, born 4 March 1951 in Stafford, England; died 30 October 2013 in Frankfurt, Germany) was the founding lead guitarist of Climax Blues Band and one of the most distinctive players to emerge from the British blues‑rock circuit. Haycock’s story is inseparable from Climax’s rise: he joined the project at its earliest stage, helped shape its identity through the 1970s and early 1980s, and became a rare kind of guitarist—equally credible in tough blues settings and in the smoother, harmony‑driven crossover sound that eventually produced the band’s biggest hits.\n\nRaised in Stafford, Haycock grew up in the post‑Shadows era when British teenagers were learning electric guitar as both a musical language and a social identity. By his early teens he was already gigging locally, and by the time he connected with Colin Cooper he had the combination that matters most in a working band: a strong time feel, an ability to learn material quickly, and a personality that could balance showmanship with discipline. When Climax began as The Climax Chicago Blues Band, Haycock wasn’t simply “the young guitarist.” He was a co‑architect—bringing riffs, arranging instincts, and a melodic sensibility that let the band stretch beyond 12‑bar templates without sounding like they were abandoning the blues.\n\nHaycock’s playing with Climax is best understood as a toolkit rather than a single trademark. He could deliver biting, sustained blues leads with classic vibrato, but he was also comfortable with chordal textures and rhythm parts that acted like a second keyboard—an approach that helped the band’s arrangements stay full even when the groove was relatively sparse. In the band’s classic run (Sense of Direction, Stamp Album, Gold Plated, Shine On, and beyond), his guitar is often less about “solo hero” moments and more about the way he colors a track: double‑stops that suggest horn lines, slide phrases that broaden the stereo picture, and tasteful fills that keep the band’s vocal harmonies moving.\n\nThat sense of arrangement made Haycock crucial to Climax’s crossover period. “Couldn’t Get It Right,” the band’s signature hit, is remembered for its groove and hooks, but it’s also a guitar record: the parts sit inside the pocket rather than racing above it, supporting the band’s vocal stack and Colin Cooper’s lead presence. In live performance, Haycock could still turn on the fire—Climax’s reputation as a touring band is well documented—but his greatest strength was knowing when *not* to overplay. That restraint is a big reason the band could sound credible to blues listeners and, at the same time, fit comfortably on adult radio and pop playlists.\n\nHaycock was also a capable singer and songwriter within the group’s shared‑vocal approach. In an era when many blues‑rock bands relied on a single frontman, Climax often spread lead vocals and harmony duties across members, and Haycock’s voice became part of the band’s identity—especially in the 1970s studio work where multiple vocal colors helped the material land as “songs,” not just performances. As the band toured heavily through Europe and the United States, his reliability—night after night, in different rooms and different sound systems—helped transform Climax from a regional act into an international working band.\n\nAfter his core years with Climax, Haycock expanded into work beyond traditional band settings. Notably, he collaborated on film score projects connected with composer Hans Zimmer, and he became recognized not only as a guitarist but also as a composer and musical collaborator. That bridge—between rock guitar craft and cinematic composition—fits his Climax persona: he always played like someone thinking in layers and scenes, not only in licks.\n\nHaycock’s death in 2013, following Colin Cooper’s death five years earlier, cemented the feeling that the classic Climax identity belonged to a particular era and chemistry. Yet his influence remains easy to hear in the band’s best work: the fusion of blues credibility, melodic restraint, and arrangement savvy. For guitar‑centric listeners, he’s also a reminder that “lead guitarist” doesn’t have to mean constant spotlight. In Climax Blues Band, Haycock’s greatest achievement was creating a guitar voice that served the song and the groove—while still being unmistakably his.\n\nWikipedia’s account of Haycock’s early years adds the kind of vivid detail that fits the Climax narrative: he was inspired by Hank Marvin’s guitar work, played his first electric guitar gig at age 12 in a miners’ club, and came up through school and college dances before joining local blues outfits. By 1967 he had met Colin Cooper and joined Cooper’s soul band **The Gospel Truth**, and in 1968 the two helped form what became Climax. That pathway—from soul and R&B gigging into a blues‑rock unit—helps explain why Haycock’s Climax playing often feels more rhythmic and groove‑aware than the typical “blues boom” lead guitarist.\n\nHaycock’s later career also adds dimension to his reputation. In the early 1990s he collaborated with composer Hans Zimmer on film scores including **K2** (1991) and **Toys** (1992), and his slide guitar work is credited as contributing to the 1991 film **Thelma & Louise** theme track “Thunderbird.” Those credits reinforce what Climax listeners already hear: a guitarist who thinks in textures and scenes, not just solos. After years off the stage, he returned with projects like **Pete Haycock’s True Blues**, continuing to record and perform in Europe.\n\nEven the iconic image choice on the Gold Plated cover—Haycock’s gold‑plated Veleno guitar—captures his dual identity: a serious band musician with a visual flair that never overwhelmed the music. His death in 2013 (a heart attack in Frankfurt, where he had built a recording studio) was widely felt among Climax fans because it marked the definitive end of the band’s founding guitar voice. The records remain the best evidence: Haycock’s style was not about overwhelming a track, but about giving it shape—one reason Climax Blues Band’s best songs still feel carefully built, not simply jammed.",
+            "Sources": [
+              {
+                "Title": "Pete Haycock",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pete_Haycock"
+              },
+              {
+                "Title": "Climax Blues Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Climax_Blues_Band"
+              },
+              {
+                "Title": "Gold Plated",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Gold_Plated"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Derek Holt",
+          "YearsActive": "1968–1983",
+          "Roles": "Bass; vocals; founding member",
+          "Instruments": "Bass guitar; guitar; vocals",
+          "Albums": [
+            {
+              "Title": "FM/Live",
+              "Year": "1973"
+            },
+            {
+              "Title": "Sense of Direction",
+              "Year": "1974"
+            },
+            {
+              "Title": "Stamp Album",
+              "Year": "1975"
+            },
+            {
+              "Title": "Gold Plated",
+              "Year": "1976"
+            },
+            {
+              "Title": "Shine On",
+              "Year": "1978"
+            },
+            {
+              "Title": "Real to Reel",
+              "Year": "1979"
+            },
+            {
+              "Title": "Flying the Flag",
+              "Year": "1980"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "",
+              "Place": "England"
+            },
+            "Nationality": "British",
+            "Roles": "Bassist; guitarist; singer; founding member",
+            "Instruments": "Bass guitar; guitar; vocals",
+            "Biography": "Derek Holt (born 1949) is a founding member of Climax Blues Band and one of the key architects of the group’s classic 1970s sound. In the band’s earliest Stafford lineup, Holt worked as a guitarist and vocalist—part of a peer-group ensemble rather than a rigidly hierarchical project. That origin matters because Climax, even when it later scored major pop hits, never fully behaved like a “fronted” band. Its identity came from shared musical labor: writing, arranging, and trading roles as the material demanded. Holt’s contributions—particularly his eventual shift toward bass and his steady vocal presence—were central to that team-based model.\n\nDuring the early years when the band performed under its longer names (The Climax Chicago Blues Band, then Climax Chicago), Holt helped define the live character: a blues-first group that could stretch into jazz-inflected passages without losing the backbeat. As Climax evolved through personnel changes and the demands of heavier touring, Holt became part of the stable core that many listeners associate with the band’s peak period. By the mid-1970s, the band’s most recognized lineup—anchored by Colin Cooper (vocals/reeds), Pete Haycock (guitar), Holt (bass/vocals), Richard Jones (keyboards), and John Cuffley (drums)—had a distinctive internal balance: Cooper’s reeds and phrasing on top, Haycock’s guitar textures around the edges, and Holt’s bass providing both groove and harmonic weight.\n\nHolt’s playing is best described as “functional with personality.” In blues-rock, bass can become a purely supportive role, but Holt’s lines often carry momentum in a way that keeps the band’s more polished songs from drifting into easy-listening blandness. That matters on records like Gold Plated, where the band’s arrangements are designed to cross into wider radio formats. “Couldn’t Get It Right,” for example, succeeds because it is danceable and tightly arranged; the bass is not merely a low-frequency pad, but a rhythmic engine that locks with the drums and leaves space for vocals and saxophone hooks.\n\nVocally, Holt also contributed to the band’s distinctive harmony blend. Climax often stacked voices rather than relying on a single signature timbre, and Holt’s presence helped the group sound like an ensemble in the R&B sense—multiple singers, multiple colors, one unified track. That approach is a throughline from early club work to later chart success.\n\nIn the early 1980s, as musical tastes shifted and band dynamics changed, Holt’s tenure with Climax came to an end (he is generally associated with the 1968–1983 period). Even so, his fingerprints remain on what many consider the defining Climax era: the years when a blues-rooted band from Stafford could sit on U.S. pop charts without sounding like it had entirely surrendered its instrumental identity. For listeners tracing the band’s history, Holt represents the bridge between “working blues band” origins and the sophisticated, groove-forward records that carried the group to its biggest audiences.\n\nHolt’s importance also shows up in the band’s songwriting history. The Climax Blues Band history account quotes Holt describing how he wrote the structure of “I Love You” largely on his own—building the chords and key changes, sketching a rough track on a small home setup, and even laying down harmonies in the demo—before the song eventually became the group’s early‑1980s U.S. breakthrough. In the studio era for **Flying the Flag**, producer John Ryan brought the song into full production, with Nicky Hopkins playing grand piano as Holt and Hopkins tracked side by side while John Cuffley handled drums. Holt then added bass and vocals, with Haycock contributing the signature guitar solo and slide touches—while Cooper was not part of the track as recorded. That story encapsulates Holt’s role: not only a band member, but a writer/architect capable of delivering a complete, commercial song while still rooted in the group’s musicians’ sensibilities.\n\nSeen in that light, Holt’s Climax tenure is more than “the bassist during the hit years.” He helped build the band’s internal creative engine—writing and arranging in a way that let a blues‑rock group operate like a pop‑capable studio band without losing the feel that made them credible on stage.",
+            "Sources": [
+              {
+                "Title": "Climax Blues Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Climax_Blues_Band"
+              },
+              {
+                "Title": "I Love You (Climax Blues Band song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/I_Love_You_(Climax_Blues_Band_song)"
+              },
+              {
+                "Title": "Gold Plated",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Gold_Plated"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Richard Jones",
+          "YearsActive": "1968–1972; 1975–1983",
+          "Roles": "Keyboards; guitar; vocals; founding-era member",
+          "Instruments": "Keyboards; guitar; vocals",
+          "Albums": [
+            {
+              "Title": "Stamp Album",
+              "Year": "1975"
+            },
+            {
+              "Title": "Gold Plated",
+              "Year": "1976"
+            },
+            {
+              "Title": "Shine On",
+              "Year": "1978"
+            },
+            {
+              "Title": "Real to Reel",
+              "Year": "1979"
+            },
+            {
+              "Title": "Flying the Flag",
+              "Year": "1980"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "",
+              "Place": "England"
+            },
+            "Nationality": "British",
+            "Roles": "Keyboardist; guitarist; founding-era member",
+            "Instruments": "Keyboards; guitar",
+            "Biography": "Richard Jones (born 1949) is a founding-era member whose keyboard work helped shape Climax Blues Band’s ability to move between blues, jazz-rock, and song-forward pop without losing musical credibility. In early accounts of the band’s Stafford origins, Jones appears as part of the original lineup alongside Colin Cooper, Pete Haycock, Derek Holt, George Newsome, and Arthur Wood. That placement is telling: from the start, Climax’s sound wasn’t built only on guitar and voice. Keyboards were part of the harmonic identity, enabling the band to borrow from jazz and R&B vocabularies that many blues-rock acts didn’t attempt.\n\nJones’ role became especially important as the group matured from local blues purists into a touring band with broader ambitions. The mid-1970s period—when Climax were refining a smoother, groove-focused sound—benefited from keyboards that could do multiple jobs: fill out arrangements, answer saxophone lines, and provide the harmonic glue that let vocal harmonies sit comfortably on top. On records leading into the band’s commercial peak, the keys often function like a second rhythm guitar—supporting the groove rather than dominating it—which helps explain why Climax could sound “tight” and “band-like” even when the production leaned toward radio polish.\n\nOfficial band retrospectives note Jones’ involvement at the start and his return to the fold around the Stamp Album era, a period that helped set the stage for Gold Plated and the breakthrough single “Couldn’t Get It Right.” That timing places him at the center of the band’s most successful writing-and-recording stretch, when Climax were balancing a blues pedigree with hooks that could travel internationally. While the band’s public narrative often highlights the front-line personalities—Cooper’s reeds and Haycock’s guitar—Jones’ contribution is more structural: the chords, voicings, and subtle rhythmic patterns that turn a jam-capable group into a song-focused recording band.\n\nJones’ musicianship also reflects the band’s Stafford roots: practical, adaptable, and oriented toward getting the job done on stage night after night. In the Climax ecosystem, that meant being able to shift from supportive pads to melodic figures, and from straight blues comping to more modern, R&B-aware textures. It’s a style that rarely calls attention to itself—and that is precisely why it works. The band’s crossover records succeed when they feel effortless, when the groove and harmony sound inevitable; Jones’ keyboard foundation is a major reason that sense of inevitability is there.\n\nFor listeners exploring the deeper catalog, Jones’ presence is a helpful guide to Climax’s most “arranged” era: when the band’s instrumental sophistication was being channeled into concise, radio-friendly songs. His work is part of why Climax Blues Band can still be heard as a musicians’ band—even at the moments when the charts suggested they were simply a soft-rock hit machine.\n\nThe band’s published history notes that Jones left in 1969, a change that prompted Derek Holt to move to bass. Jones later returned in early 1975 and played on **Stamp Album**, handling keyboards and guitar and sometimes switching duties with Holt on bass. That return coincides with the run-up to the Gold Plated era—when arrangements became tighter and harmony-based songwriting became more central—making Jones’ role especially valuable as a flexible multi-instrumentalist.\n\nBecause Climax were a touring band that often played to large U.S. audiences in the 1970s, Jones’ job also involved practical musicianship: replicating studio textures live, keeping parts consistent across long tours, and making the keyboard chair feel like an integrated part of the rhythm section rather than a “guest” layer. For listeners who love the band’s most arranged material, Jones is one of the key reasons the songs retain a bandlike pulse.",
+            "Sources": [
+              {
+                "Title": "Climax Blues Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Climax_Blues_Band"
+              },
+              {
+                "Title": "Retrospectives (band history notes)",
+                "Publisher": "Climax Blues Band",
+                "Url": "https://climaxbluesband.com/retrospectives/"
+              },
+              {
+                "Title": "Early days: Velvet Chords; Climax Chicago Blues Band",
+                "Publisher": "Chipperfield Jones",
+                "Url": "https://www.chipperfieldjones.co.uk/bio.asp?bioId=1"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John Cuffley",
+          "YearsActive": "1971–1983",
+          "Roles": "Drums; percussion",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            {
+              "Title": "FM/Live",
+              "Year": "1973"
+            },
+            {
+              "Title": "Sense of Direction",
+              "Year": "1974"
+            },
+            {
+              "Title": "Stamp Album",
+              "Year": "1975"
+            },
+            {
+              "Title": "Gold Plated",
+              "Year": "1976"
+            },
+            {
+              "Title": "Shine On",
+              "Year": "1978"
+            },
+            {
+              "Title": "Real to Reel",
+              "Year": "1979"
+            },
+            {
+              "Title": "Flying the Flag",
+              "Year": "1980"
+            },
+            {
+              "Title": "Lucky for Some",
+              "Year": "1981"
+            }
+          ],
+          "Bio": {
+            "Birth": {
+              "Date": "",
+              "Place": "England"
+            },
+            "Nationality": "British",
+            "Roles": "Drummer; percussionist",
+            "Instruments": "Drums; percussion",
+            "Biography": "John Cuffley is best known as the drummer who anchored Climax Blues Band through much of the group’s most recognized 1970s and early‑1980s era. In a band whose identity depended on groove as much as on blues vocabulary, the drummer’s job was not simply to keep time—it was to make the music *feel* like a working live unit, even when studio arrangements aimed for crossover clarity. Cuffley’s playing is frequently described in terms of steadiness and taste, and that steadiness is one of the reasons Climax could move from extended blues performances to tighter, hook-driven material without sounding like they were abandoning their roots.\n\nBy the time Climax hit its stride as a touring act, the band’s internal balance was clear: Colin Cooper’s reeds and phrasing in the spotlight, Pete Haycock’s guitar textures shaping the edges, and a rhythm section designed to keep everything grounded. Cuffley’s drumming provided that grounding. He played with a drummer’s sense of dynamics—knowing when a song needed a push and when it needed space—so that the band could retain its live energy while leaving room for vocal harmonies and saxophone hooks.\n\nThat approach becomes especially important in the mid‑’70s crossover era. “Couldn’t Get It Right,” the band’s defining hit, works because it’s tightly locked and danceable: the drum part is disciplined, supporting the groove rather than competing with it. In blues-rock terms, it is almost a lesson in restraint—proof that a band can sound “hot” without playing busy. The same band logic applies across Gold Plated and the surrounding albums: the drums are the grid that allows guitars, keyboards, and horns to move freely.\n\nCuffley’s role was not limited to the kit. In documented credits and band retrospectives, his name appears not only as drummer but also in association with the broader Climax team effort—an indication of the collective mentality that defined the group’s best years. Even when individual members came and went, Climax’s sound depended on this kind of reliable center.\n\nFor fans tracing why Climax Blues Band could survive long enough to reinvent itself, Cuffley’s era is essential. He represents the period when the band’s live chops, studio discipline, and groove sensibility aligned. In the context of British blues-rock history, he’s also an example of a drummer whose impact is best measured not in flamboyant fills but in how consistently a band sounds like itself—night after night, track after track.\n\nIn Climax’s documented lineup history, Cuffley replaced original drummer George Newsome in the summer of 1972, when Newsome stepped away as he started a family. That timing places Cuffley at the start of the band’s most stable decade—the configuration that powered U.S. touring, the FM/Live recording, and the mid‑1970s studio run that led to Gold Plated. In other words, he arrived right as Climax were transforming from a regional blues outfit into a long-haul international touring band.\n\nCuffley’s presence is also woven into the studio story behind the band’s biggest early‑1980s U.S. hit: Holt’s account of “I Love You” describes the basic track being cut with Holt on Fender Rhodes, Nicky Hopkins on grand piano, and Cuffley on drums. That kind of session discipline—playing for the song, locking a groove that allows harmony and melody to dominate—is exactly what Cuffley brought to the band’s sound.",
+            "Sources": [
+              {
+                "Title": "Climax Blues Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Climax_Blues_Band"
+              },
+              {
+                "Title": "I Love You (Climax Blues Band song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/I_Love_You_(Climax_Blues_Band_song)"
+              },
+              {
+                "Title": "John Cuffley Discography / Profile",
+                "Publisher": "Discogs",
+                "Url": "https://www.discogs.com/artist/968124-John-Cuffley"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "George Newsome",
+          "YearsActive": "1968–1971",
+          "Roles": "Drums; founding member",
+          "Instruments": "Drums",
+          "Albums": [
+            {
+              "Title": "Plays On",
+              "Year": "1969"
+            }
+          ],
+          "Overview": "Original drummer in the Stafford founding lineup during the band’s earliest period as The Climax Chicago Blues Band, before later personnel changes reshaped the touring unit."
+        },
+        {
+          "Name": "Arthur Wood",
+          "YearsActive": "1968–1970",
+          "Roles": "Keyboards; founding member",
+          "Instruments": "Keyboards",
+          "Albums": [
+            {
+              "Title": "Plays On",
+              "Year": "1969"
+            }
+          ],
+          "Overview": "Keyboardist in the early lineup; part of the band’s formative blues-club era before the group’s later, more commercially focused 1970s configuration."
+        },
+        {
+          "Name": "Peter Filleul",
+          "YearsActive": "1983–1985",
+          "Roles": "Keyboards",
+          "Instruments": "Keyboards",
+          "Albums": [
+            {
+              "Title": "Sample and Hold",
+              "Year": "1983"
+            }
+          ],
+          "Overview": "Joined as the band’s lineup shifted in the early 1980s, contributing keyboards during the later pre-hiatus period."
+        },
+        {
+          "Name": "Roger Inniss",
+          "YearsActive": "1987–1990",
+          "Roles": "Bass",
+          "Instruments": "Bass guitar",
+          "Albums": [],
+          "Overview": "Bassist in the post-1986 revival lineup as the band continued touring and recording after restarting under Colin Cooper."
+        },
+        {
+          "Name": "Lester Hunt",
+          "YearsActive": "1986–2022",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "Albums": [
+            {
+              "Title": "Hands of Time",
+              "Year": "2019"
+            }
+          ],
+          "Overview": "Long-serving guitarist of the modern touring era, associated with the band’s late-career continuity and the Hands of Time studio album."
+        }
+      ]
     },
     {
       "ArtistID": "coldplay",
