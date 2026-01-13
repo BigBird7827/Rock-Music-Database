@@ -90,27 +90,674 @@
     {
       "ArtistID": "mr-mister",
       "Name": "Mr. Mister",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Phoenix",
+        "Region": "Arizona",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1982–1990",
+        "2023",
+        "2025"
+      ],
+      "Genres": [
+        "Pop rock",
+        "Rock",
+        "AOR",
+        "New wave",
+        "Soft rock"
+      ],
+      "Labels": [
+        "RCA",
+        "Little Dume Recordings"
+      ],
+      "Overview": "Mr. Mister were Phoenix‑born, Los Angeles–based session‑seasoned pop‑rockers who hit the center of mid‑’80s radio and MTV with two No. 1 singles and a sleek, keyboard‑forward sound that straddled adult contemporary, album rock, and new wave polish. Built around longtime friends Richard Page (lead vocals, bass) and Steve George (keyboards, saxophone, backing vocals), the group grew out of their earlier band Pages, a musically sophisticated pop‑fusion project that earned respect among musicians but struggled for commercial traction. By 1982, Page and George committed to a tighter, more pop‑oriented four‑piece, adding drummer Pat Mastelotto and guitarist Steve Farris—players with deep studio chops and a shared taste for meticulous arrangements, big hooks, and glossy production.\n\nRCA released the debut I Wear the Face in 1984, but the breakthrough came with 1985’s Welcome to the Real World. With lyrics largely supplied by Page’s cousin John Lang, the album delivered three U.S. Top 10 singles: the soaring ballad “Broken Wings,” the anthemic “Kyrie,” and the taut, romantic “Is It Love.” “Broken Wings” and “Kyrie” both reached No. 1 on the Billboard Hot 100, and Welcome to the Real World rose to No. 1 on the Billboard 200 in March 1986—turning Mr. Mister into a marquee MTV/radio act with a sound that felt contemporary alongside power ballads, synth‑rock, and polished AOR.\n\nThe follow‑up Go On… (1987) leaned into weightier themes and a moodier sweep, but it did not match the prior album’s commercial momentum. Farris departed in 1988, and the remaining members completed a fourth album, Pull, in 1990; RCA ultimately shelved it, and the band dissolved soon after. Pull later emerged officially decades afterward via Page’s independent label Little Dume Recordings, offering a late‑era snapshot of the group’s writing and production in transition. Even with an original run that ended in 1990, Mr. Mister’s signature songs remained embedded in ’80s pop culture, and the classic lineup has reunited for special one‑off performances in the 2020s, underscoring the enduring appeal of their craft‑driven, melody‑first approach.",
+      "NotableAlbums": [
+        {
+          "Title": "I Wear the Face",
+          "Year": "1984",
+          "Notes": "Debut studio album on RCA that introduced Mr. Mister’s studio‑polished pop/rock approach; later reappraised as the bridge between Pages’ pop‑fusion roots and the band’s more streamlined hit era."
+        },
+        {
+          "Title": "Welcome to the Real World",
+          "Year": "1985",
+          "Notes": "Commercial breakthrough that produced U.S. No. 1 singles “Broken Wings” and “Kyrie” (plus Top 10 “Is It Love”) and reached No. 1 on the Billboard 200 in 1986."
+        },
+        {
+          "Title": "Go On...",
+          "Year": "1987",
+          "Notes": "More serious, expansive follow‑up that kept the band’s melodic craft but sold less; features “Something Real (Inside Me/Inside You)” and “Healing Waters.”"
+        },
+        {
+          "Title": "Pull",
+          "Year": "2010 (recorded 1990)",
+          "Notes": "Long‑shelved fourth album completed in 1990 but not released at the time; issued officially decades later via Richard Page’s Little Dume Recordings, capturing the band’s late‑era writing and production."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Broken Wings",
+          "Year": "1985",
+          "Notes": "Breakthrough ballad that reached No. 1 on the U.S. Billboard Hot 100 and became the band’s defining MTV‑era hit."
+        },
+        {
+          "Title": "Kyrie",
+          "Year": "1985/1986",
+          "Notes": "Anthemic single featuring the phrase “Kyrie eleison”; reached No. 1 on the U.S. Billboard Hot 100 in March 1986."
+        },
+        {
+          "Title": "Is It Love",
+          "Year": "1986",
+          "Notes": "Third major single from Welcome to the Real World; U.S. Top 10 hit that showcased the band’s tighter pop‑rock side."
+        },
+        {
+          "Title": "Something Real (Inside Me/Inside You)",
+          "Year": "1987",
+          "Notes": "Key single from Go On... that kept the band on radio during the late ’80s shift toward harder and more alternative sounds."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1985–1986",
+          "Title": "Two U.S. No. 1 singles",
+          "Details": "“Broken Wings” and “Kyrie” both reached No. 1 on the Billboard Hot 100 during the peak of the Welcome to the Real World cycle."
+        },
+        {
+          "Year": "March 1986",
+          "Title": "No. 1 album on Billboard 200",
+          "Details": "Welcome to the Real World reached No. 1 in the United States, turning the band into a marquee MTV/radio act."
+        },
+        {
+          "Year": "1986",
+          "Title": "Grammy recognition",
+          "Details": "Received Grammy nominations during the band’s mainstream breakthrough period."
+        },
+        {
+          "Year": "2010",
+          "Title": "Release of Pull",
+          "Details": "The long‑unreleased fourth album Pull, completed in 1990, was officially issued decades later through Little Dume Recordings, expanding the band’s catalog beyond their original RCA era."
+        },
+        {
+          "Year": "2023 & 2025",
+          "Title": "One‑off core‑lineup reunions",
+          "Details": "All four classic members reunited for special performances, reaffirming the band’s continuing legacy with fans of ’80s pop‑rock."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1982 in Phoenix, Arizona, and later based in Los Angeles.",
+        "Core lineup: Richard Page (vocals/bass), Steve George (keyboards/sax/vocals), Pat Mastelotto (drums), Steve Farris (guitar).",
+        "Breakthrough album Welcome to the Real World (1985) produced three U.S. Top 10 singles, including two No. 1 hits.",
+        "Follow‑up Go On... (1987) was less commercially successful; guitarist Steve Farris left in 1988.",
+        "Fourth album Pull was completed in 1990 but shelved until its official release in 2010 via Little Dume Recordings."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.facebook.com/MrMrOfficial/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Mr._Mister",
+        "Discography": "https://www.allmusic.com/artist/mr-mister-mn0000619460/discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Richard Page",
+          "Roles": [
+            "Lead vocals",
+            "Bass"
+          ],
+          "Years": "1982–1990; 2023; 2025",
+          "Instruments": [
+            "Vocals",
+            "Bass guitar"
+          ],
+          "Overview": "Co‑founder, lead vocalist, and bassist; co‑writer of the band’s defining hits.",
+          "Bio": {
+            "BioID": "mr-mister-richard-page",
+            "FullName": "Richard James Page",
+            "Birth": {
+              "Date": "May 16, 1953",
+              "Place": "Keokuk, Iowa, United States (raised in Phoenix, Arizona)"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Occupations": [
+              "Singer",
+              "Bassist",
+              "Songwriter",
+              "Producer"
+            ],
+            "PrimaryInstruments": [
+              "Vocals",
+              "Bass guitar",
+              "Guitar",
+              "Keyboards"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock",
+              "AOR",
+              "Soft rock"
+            ],
+            "AssociatedActs": [
+              "Mr. Mister",
+              "Pages"
+            ],
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "CareerHighlights": [
+              "Co‑founded Pages, then co‑founded Mr. Mister in 1982 and served as its lead vocalist and bassist.",
+              "Fronted the band’s breakthrough era that produced U.S. No. 1 singles “Broken Wings” and “Kyrie” and the No. 1 album Welcome to the Real World.",
+              "Helped complete Pull (recorded 1989–1990), later released officially in 2010 via Little Dume Recordings.",
+              "Returned with the classic lineup for one‑off reunion performances in 2023 and 2025."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "I Wear the Face",
+                "Year": "1984",
+                "Notes": "Debut studio album with Page as lead singer and bassist."
+              },
+              {
+                "Title": "Welcome to the Real World",
+                "Year": "1985",
+                "Notes": "Breakthrough album; Page co‑wrote and sang the band’s defining hits."
+              },
+              {
+                "Title": "Go On…",
+                "Year": "1987",
+                "Notes": "More reflective follow‑up that kept the band’s melodic craft."
+              },
+              {
+                "Title": "Pull",
+                "Year": "1990/2010",
+                "Notes": "Final studio album recorded in 1990 and officially released in 2010."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Broken Wings",
+                "Year": "1985",
+                "Notes": "U.S. No. 1 single featuring Page’s signature vocal performance."
+              },
+              {
+                "Title": "Kyrie",
+                "Year": "1985/1986",
+                "Notes": "U.S. No. 1 single built on Page/George songwriting with lyrics by John Lang."
+              },
+              {
+                "Title": "Is It Love",
+                "Year": "1986",
+                "Notes": "U.S. Top 10 single from Welcome to the Real World."
+              },
+              {
+                "Title": "Healing Waters",
+                "Year": "1987",
+                "Notes": "Single from Go On… that earned the band later award recognition."
+              }
+            ],
+            "Sources": [
+              {
+                "Title": "Richard Page",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Richard_Page"
+              },
+              {
+                "Title": "Richard Page — Official Site",
+                "Publisher": "RichardPageMusic.com",
+                "Url": "https://richardpagemusic.com"
+              },
+              {
+                "Title": "Mr. Mister",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mr._Mister"
+              },
+              {
+                "Title": "Mr. Mister",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/mr-mister-mn0000619460"
+              }
+            ],
+            "FullText": "Richard James Page (born May 16, 1953) grew up with music at the center of daily life. Although he was born in Keokuk, Iowa, he was raised in Phoenix, Arizona, where choral singing and church music were part of his family’s routine. By his teens he was performing in school productions and absorbing the melodic discipline of harmony singing, a foundation that later helped him front an arena‑scale pop band while also working confidently as a studio vocalist.\n\nAfter high school in Phoenix, Page moved to the Los Angeles/Hollywood scene and began building the two skills that would define his career: dependable musicianship and songcraft. He sang and played bass, wrote and arranged, and learned how to deliver takes that fit a producer’s brief. Those years also forged his closest creative partnership: childhood friend Steve George, a keyboardist/saxophonist with similarly broad influences and an ear for polished pop structures.\n\nIn the late 1970s Page and George formed Pages (active 1978–1981), an L.A. pop‑fusion group whose musicianship reflected the West Coast studio ecosystem. Pages did not become a mass‑market success, but it sharpened Page’s approach to writing: tight chord changes, clean melodic arcs, and a sense of rhythmic “pocket” that could support both ballads and uptempo material. When Pages ended, Page and George stayed in demand as writers and session players, but they also looked for a band format that could connect more directly with mainstream radio.\n\nThat goal became Mr. Mister. By 1982 Page and George assembled drummer Pat Mastelotto and guitarist Steve Farris and committed to a permanent four‑piece. In early planning Page was envisioned mainly as a lead singer, but his ability on bass completed the group’s architecture, letting the songs lock into an elastic, precise groove underneath the keyboards. The RCA debut I Wear the Face (1984) introduced their studio‑clean sound, but it mainly set the table for what followed.\n\nWelcome to the Real World (1985) turned Mr. Mister into an MTV and Top 40 fixture. Page and George co‑wrote the music, and Page’s cousin John Lang supplied most of the lyrics, giving the band an identifiable voice and thematic continuity. The album produced three U.S. Top 10 singles—“Broken Wings,” “Kyrie,” and “Is It Love”—and “Broken Wings” and “Kyrie” both reached No. 1 on the Billboard Hot 100. In March 1986, Welcome to the Real World reached No. 1 on the Billboard 200. Page’s vocal performance was central: he could deliver a dramatic, wide‑screen chorus without losing the conversational tone needed for verse storytelling.\n\nWhen the band followed with Go On… (1987), Page helped steer the writing toward heavier themes and a more reflective mood. The record did not match the sales of the breakthrough album, and the late‑’80s market was shifting quickly toward harder rock and emerging alternative styles. Guitarist Steve Farris left in 1988, and Page—now an established hit singer—kept the group moving forward with the remaining members. They completed a fourth album, Pull, in 1990, but RCA chose not to release it, and the band dissolved soon after.\n\nThe success also brought industry recognition. “Broken Wings” earned a Grammy nomination for Best Pop Performance by a Duo or Group with Vocal, and the group later received a nomination for “Healing Waters” in a gospel performance category—an example of Page’s interest in spiritual themes and choir‑honed vocal intensity surfacing inside pop songwriting. On stage, Page handled the challenge of singing technically demanding melodies night after night while keeping the bass lines supportive rather than flashy, anchoring the band’s tight feel as the arrangements expanded around him.\n\nAlthough Pull was recorded in 1989–1990 and shelved at the time, Page eventually brought it out officially decades later through his label Little Dume Recordings. The release gave fans a clearer picture of where his writing was headed at the moment the group dissolved: still hook‑minded, but increasingly interested in texture, restraint, and songs that felt less like radio singles and more like fully built album statements.\n\nEven after Mr. Mister’s original run ended, Page’s career continued in the lane he had always occupied: a professional singer and writer who could operate inside a band, a studio, or a solo context. He remained active as a collaborator and performer, and he later issued solo work under his own name that highlighted the same strengths that made the Mr. Mister records endure—melody, clarity, and an instinct for arranging emotional peaks.\n\nIn the 2020s, Page returned to the Mr. Mister story in a visible way as the classic lineup reunited for special one‑off performances (including shows in 2023 and 2025). Those appearances reframed the band’s catalog as more than nostalgia: they highlighted the rare combination at the group’s core—session‑level musicianship paired with genuine pop songwriting. Page remains the center of that legacy as both the recognizable voice of “Broken Wings” and “Kyrie” and a co‑writer who helped translate craft into mainstream impact.",
+            "ArtistID": "",
+            "ArtistName": "",
+            "MemberName": "",
+            "HonoursAndMilestones": "",
+            "FunFacts": "",
+            "Quotes": ""
+          },
+          "YearsActive": [
+            "1982–1990; 2023; 2025"
+          ],
+          "Albums": [
+            "I Wear the Face (1984)",
+            "Welcome to the Real World (1985)",
+            "Go On… (1987)",
+            "Pull (recorded 1990; released 2010)"
+          ]
+        },
+        {
+          "Name": "Steve George",
+          "Roles": [
+            "Keyboards",
+            "Saxophone",
+            "Backing vocals"
+          ],
+          "Years": "1982–1990; 2023; 2025",
+          "Instruments": [
+            "Keyboards",
+            "Saxophone",
+            "Vocals"
+          ],
+          "Overview": "Co‑founder, keyboardist/saxophonist, and co‑writer; architect of the band’s synth‑driven sound.",
+          "Bio": {
+            "BioID": "mr-mister-steve-george",
+            "FullName": "Steve George",
+            "Birth": {
+              "Date": "May 20, 1955",
+              "Place": "Bloomington, Illinois, United States (raised in Phoenix, Arizona)"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Occupations": [
+              "Keyboardist",
+              "Saxophonist",
+              "Songwriter",
+              "Producer"
+            ],
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Saxophone",
+              "Vocals"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock",
+              "AOR",
+              "New wave"
+            ],
+            "AssociatedActs": [
+              "Mr. Mister",
+              "Pages"
+            ],
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "CareerHighlights": [
+              "Co‑founded Pages and later co‑founded Mr. Mister with Richard Page in 1982.",
+              "Served as the band’s primary keyboardist and saxophonist and co‑wrote its best‑known songs with Page.",
+              "Helped shape the sound of Welcome to the Real World, including “Broken Wings,” “Kyrie,” and “Is It Love.”",
+              "Returned with the classic lineup for one‑off reunion performances in 2023 and 2025."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "I Wear the Face",
+                "Year": "1984",
+                "Notes": "Established the group’s keyboard‑forward production style."
+              },
+              {
+                "Title": "Welcome to the Real World",
+                "Year": "1985",
+                "Notes": "Breakthrough; George’s synth layers and arrangements became a sonic signature."
+              },
+              {
+                "Title": "Go On…",
+                "Year": "1987",
+                "Notes": "Expanded textures and more serious themes."
+              },
+              {
+                "Title": "Pull",
+                "Year": "1990/2010",
+                "Notes": "Late‑era album completed in 1990 and released officially in 2010."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Broken Wings",
+                "Year": "1985",
+                "Notes": "Co‑written with Richard Page; keyboard layers drive the song’s dynamics."
+              },
+              {
+                "Title": "Kyrie",
+                "Year": "1985/1986",
+                "Notes": "Co‑written with Page; anthem‑like keyboard arrangement."
+              },
+              {
+                "Title": "Is It Love",
+                "Year": "1986",
+                "Notes": "Co‑written with Page; crisp pop‑rock structure."
+              },
+              {
+                "Title": "Something Real (Inside Me/Inside You)",
+                "Year": "1987",
+                "Notes": "Key single from Go On… highlighting George’s arrangement sense."
+              }
+            ],
+            "Sources": [
+              {
+                "Title": "Steve George (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steve_George_(musician)"
+              },
+              {
+                "Title": "Inside MusiCast interview: Steve George",
+                "Publisher": "Inside MusiCast",
+                "Url": "https://www.insidemusicast.com/index.php?option=com_content&view=article&id=309:steve-george-interview&catid=46:interviews"
+              },
+              {
+                "Title": "Mr. Mister",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mr._Mister"
+              },
+              {
+                "Title": "Mr. Mister",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/mr-mister-mn0000619460"
+              }
+            ],
+            "FullText": "Steven George (born May 20, 1955) is best known as the keyboardist, saxophonist, and co‑architect of Mr. Mister’s signature blend of bright synthesizers, muscular rhythms, and radio‑ready hooks. Born in Bloomington, Illinois and raised in Phoenix, Arizona, he became friends with Richard Page early and developed the kind of musical rapport that is hard to manufacture later: shared references, complementary instincts, and an intuitive sense of how to leave space for each other’s strengths.\n\nGeorge’s musicianship was unusually broad for a pop‑band context. He could build a track’s harmonic foundation from the keyboard chair, add saxophone color when a song needed a human breath amid the electronics, and sing backing parts that thickened Page’s melodies without competing with them. That versatility made him valuable in the Los Angeles studio world and shaped the band’s approach to arrangement—dense enough to feel expensive, but clean enough to translate on radio and MTV.\n\nIn the late 1970s, George and Page formed Pages, a sophisticated West Coast pop group that blended jazz‑leaning chords with tight, hook‑centered songwriting. Pages did not become a mainstream staple, but it served as a proving ground for George’s arranging ideas: keyboard textures that move like guitar layers, rhythmic stabs that function like horn lines, and bridges that turn on harmonic motion rather than sheer volume. When Pages ended in 1981, George and Page leaned further into writing and session work, sharpening a studio‑ready professionalism that later became one of Mr. Mister’s defining strengths.\n\nThat search led directly to Mr. Mister. By 1982, George and Page brought in drummer Pat Mastelotto and guitarist Steve Farris and committed to a permanent four‑piece. George’s keyboards became the group’s sonic signature, defining the sleek modern edge on songs where Page’s bass and vocals supplied the anchor. On the debut I Wear the Face (1984), his parts established the balance that would become the band’s calling card: bright but not brittle synth tones, supportive pads under the vocal, and rhythmic figures that locked tightly with Mastelotto’s groove.\n\nGeorge’s most enduring work arrived with Welcome to the Real World (1985). Co‑writing the music with Page and collaborating with lyricist John Lang, George helped shape “Broken Wings,” “Kyrie,” and “Is It Love”—songs that combine ballad‑scale emotional arcs with a tight, contemporary sheen. His sense of dynamics was central: the keyboard layers often behave like a film score, opening the harmonic field under the lead vocal, then tightening into percussive patterns that make the hooks feel inevitable.\n\nWhen Mr. Mister followed with Go On… (1987), George continued to push toward more reflective themes and broader textures, using keyboards not merely as synth parts but as the structural spine of each arrangement. The late‑’80s market shift and the band’s internal changes made it harder to sustain the same commercial profile, and the group dissolved after completing Pull in 1990 (released officially decades later). Even so, George’s contributions remain audible across the catalog: a consistent commitment to clean, layered arranging that keeps the songs emotionally large without crowding the melodies.\n\nAfter the original run ended, George continued working as a musician in the wider pop/rock ecosystem, drawing on the same strengths that made Mr. Mister’s records distinctive: quick translation of ideas into finished parts, attention to tone and texture, and a knack for making sophisticated harmony feel accessible. His legacy is less about spotlight soloing than about architecture—helping build songs that still feel big decades later without losing their melodic center.\n\nThe classic lineup’s one‑off reunions in the 2020s highlighted just how central George was to the band’s identity. On stage, his keyboard colors (and occasional saxophone accents) make the difference between a song everyone remembers and the exact sound everyone remembers. In that sense, George’s role in Mr. Mister is a case study in pop craftsmanship: the arranger as co‑author, turning strong melodies into records that can dominate both radio and memory.",
+            "ArtistID": "",
+            "ArtistName": "",
+            "MemberName": "",
+            "HonoursAndMilestones": "",
+            "FunFacts": "",
+            "Quotes": ""
+          },
+          "YearsActive": [
+            "1982–1990; 2023; 2025"
+          ],
+          "Albums": [
+            "I Wear the Face (1984)",
+            "Welcome to the Real World (1985)",
+            "Go On… (1987)",
+            "Pull (recorded 1990; released 2010)"
+          ]
+        },
+        {
+          "Name": "Steve Farris",
+          "Roles": [
+            "Guitars"
+          ],
+          "Years": "1982–1988; 2023; 2025",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Overview": "Lead guitarist; supplied the bite and rock authority within the band’s polished pop framework.",
+          "Bio": {
+            "BioID": "mr-mister-steve-farris",
+            "FullName": "Steve Farris",
+            "Birth": {
+              "Date": "May 1, 1957",
+              "Place": "Fremont, Nebraska, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Occupations": [
+              "Guitarist",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock",
+              "AOR",
+              "Hard rock"
+            ],
+            "AssociatedActs": [
+              "Mr. Mister",
+              "Whitesnake"
+            ],
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "CareerHighlights": [
+              "Joined Mr. Mister at its formation in 1982 as lead guitarist.",
+              "Played on the band’s No. 1 singles “Broken Wings” and “Kyrie” and the No. 1 album Welcome to the Real World.",
+              "Credited with guitar work on Kiss’s Creatures of the Night era (including the title track).",
+              "Left Mr. Mister in 1988; later associated with Whitesnake and other professional guitar work.",
+              "Returned with the classic Mr. Mister lineup for one‑off reunion performances in 2023 and 2025."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "I Wear the Face",
+                "Year": "1984",
+                "Notes": "Guitar textures and rhythmic parts inside the band’s synth‑driven blend."
+              },
+              {
+                "Title": "Welcome to the Real World",
+                "Year": "1985",
+                "Notes": "Defined the band’s pop‑rock authority with tasteful lead and rhythm work."
+              },
+              {
+                "Title": "Go On…",
+                "Year": "1987",
+                "Notes": "Continued the band’s melodic approach before Farris’ departure."
+              },
+              {
+                "Title": "Creatures of the Night (Kiss)",
+                "Year": "1982",
+                "Notes": "Session credit on the title track’s guitar solo/lead work."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Broken Wings",
+                "Year": "1985",
+                "Notes": "Guitar parts add bite and lift beneath the keyboard sheen."
+              },
+              {
+                "Title": "Kyrie",
+                "Year": "1985/1986",
+                "Notes": "Guitar color and dynamics support the anthemic chorus."
+              },
+              {
+                "Title": "Is It Love",
+                "Year": "1986",
+                "Notes": "Taut pop‑rock guitar figures drive the groove."
+              },
+              {
+                "Title": "Creatures of the Night (Kiss)",
+                "Year": "1982",
+                "Notes": "Credited guitar solo and lead fills on the title track."
+              }
+            ],
+            "Sources": [
+              {
+                "Title": "Steve Farris",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Farris"
+              },
+              {
+                "Title": "Steve Farris — Official Site",
+                "Publisher": "SteveFarris.com",
+                "Url": "https://www.stevefarris.com/"
+              },
+              {
+                "Title": "15 of Kiss's best guitar songs that don't feature Ace Frehley (mentions Steve Farris on 'Creatures of the Night')",
+                "Publisher": "Guitar World",
+                "Url": "https://www.guitarworld.com/features/15-best-kiss-tracks-without-ace-frehley"
+              },
+              {
+                "Title": "Mr. Mister",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mr._Mister"
+              }
+            ],
+            "FullText": "Steve Farris (born May 1, 1957) brought the sharpest edge to Mr. Mister’s otherwise keyboard‑driven sheen. Raised in Fremont, Nebraska, he developed as a guitarist with a wide vocabulary—able to play precise pop figures, jazz‑tinged chord voicings, and heavier rock leads without switching personalities. That range is a big reason Mr. Mister’s biggest singles feel muscular rather than soft: even when the arrangements lean into synth gloss, the guitar parts often supply bite and lift.\n\nBefore Mr. Mister’s chart era, Farris was already moving through the Los Angeles music economy where talent and reliability mattered as much as image. He did session and touring work and built a reputation for delivering parts quickly and creatively. One of his most widely cited early credits is on Kiss’s 1982 album Creatures of the Night, where he played the solo and lead fills on the title track—work later documented in personnel listings and discussed in interviews about that recording era.\n\nDuring the band’s touring peak, Farris experienced the odd mix of pop stardom and working‑musician routine: quick travel, tight soundchecks, and the need to reproduce carefully layered studio parts in large venues. A later Associated Press hometown profile reflects on that arc and on the unlikely path from Fremont, Nebraska to the stages of a No. 1 pop‑rock act, underscoring that the career was built on craft long before the hits arrived. In Mr. Mister, that craft showed up as clean timing, precise tone control, and parts designed to serve the song.\n\nWhen Page and George assembled Mr. Mister in 1982, they wanted players who could handle studio demands and still feel like a band. Farris fit that brief. On I Wear the Face (1984), his guitar work sits inside the blend rather than dominating it—tight rhythmic patterns, clean arpeggios, and carefully voiced chords that frame the vocal. When the band recorded Welcome to the Real World (1985), he expanded that role, balancing melodic lead lines with supportive textural parts so that guitars and keyboards read as one shared surface.\n\nFarris’ playing is a quiet key to why “Broken Wings” and “Kyrie” read as dramatic rather than simply sentimental. The guitar is often the hinge: it arrives with just enough harmonic color to widen the chorus, then retreats to let Page’s vocal carry the emotional weight. In the bigger, anthem‑leaning passages, Farris adds the kind of rock authority that makes the band credible on album‑rock playlists as well as Top 40. That balancing act—heavy enough to matter, tasteful enough to stay inside the arrangement—is central to the band’s sound.\n\nAs the band’s commercial peak passed and the market shifted, Mr. Mister’s internal dynamics changed. Farris left in 1988, before the group completed Pull (recorded 1989–1990 and released officially in 2010). His departure marked the end of the classic four‑piece as a working unit, but it also freed him to return to the broader world of professional guitar work where he had always been at home.\n\nBeyond Mr. Mister, Farris continued to surface as a guitarist in high‑level rock contexts; AllMusic lists him among members associated with Whitesnake, and long‑form interviews emphasize how his range kept him in demand even when his primary band’s chart moment had passed. In retrospect, his Mr. Mister period shows how a pop hitmaker can still be built on serious instrumental chops: his parts are economical, his tone choices are deliberate, and he consistently serves the song—whether the moment demands a tender lift under a ballad chorus or a hard‑rock flash of authority.\n\nThe classic lineup’s one‑off reunions in 2023 and 2025 gave fans a rare chance to hear that interplay again: Farris’ guitar answering George’s keyboards while Page’s voice and bass set the center. It’s a reminder that Mr. Mister’s success wasn’t just production gloss. It was four studio‑ready musicians making parts that lock together, and Farris’ role—half colorist, half rock engine—was essential to the chemistry.",
+            "ArtistID": "",
+            "ArtistName": "",
+            "MemberName": "",
+            "HonoursAndMilestones": "",
+            "FunFacts": "",
+            "Quotes": ""
+          },
+          "YearsActive": [
+            "1982–1988; 2023; 2025"
+          ],
+          "Albums": [
+            "I Wear the Face (1984)",
+            "Welcome to the Real World (1985)",
+            "Go On… (1987)",
+            "Pull (recorded 1990; released 2010)"
+          ]
+        },
+        {
+          "Name": "Pat Mastelotto",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1982–1990; 2023; 2025",
+          "Instruments": [
+            "Drums"
+          ],
+          "Overview": "Drummer; tight, controlled groove and studio precision underpinning the band’s hits.",
+          "Bio": {
+            "BioID": "mr-mister-pat-mastelotto",
+            "FullName": "Pat Mastelotto",
+            "Birth": {
+              "Date": "June 6, 1955",
+              "Place": "Chico, California, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Occupations": [
+              "Drummer",
+              "Percussionist"
+            ],
+            "PrimaryInstruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "Genres": [
+              "Pop rock",
+              "Rock",
+              "Progressive rock"
+            ],
+            "AssociatedActs": [
+              "Mr. Mister",
+              "King Crimson"
+            ],
+            "ActiveYears": [
+              "1970s–present"
+            ],
+            "CareerHighlights": [
+              "Co‑founded Mr. Mister in 1982 as its drummer and played through the band’s original run.",
+              "Performed on the band’s No. 1 singles and No. 1 album Welcome to the Real World.",
+              "Recorded Go On… and the late‑era Pull sessions (recorded 1989–1990).",
+              "Joined King Crimson in the mid‑1990s and became part of its modern lineup.",
+              "Returned with the classic Mr. Mister lineup for one‑off reunion performances in 2023 and 2025."
+            ],
+            "KeyAlbums": [
+              {
+                "Title": "Welcome to the Real World",
+                "Year": "1985",
+                "Notes": "Rhythmic foundation for the band’s biggest hits."
+              },
+              {
+                "Title": "Go On…",
+                "Year": "1987",
+                "Notes": "More reflective material with tight, controlled grooves."
+              },
+              {
+                "Title": "Pull",
+                "Year": "1990/2010",
+                "Notes": "Late‑era sessions; album released officially decades later."
+              },
+              {
+                "Title": "Thrak (King Crimson)",
+                "Year": "1995",
+                "Notes": "Part of the modern King Crimson era with Mastelotto on drums."
+              }
+            ],
+            "KeySongs": [
+              {
+                "Title": "Broken Wings",
+                "Year": "1985",
+                "Notes": "Controlled, punchy groove that supports the ballad’s dynamics."
+              },
+              {
+                "Title": "Kyrie",
+                "Year": "1985/1986",
+                "Notes": "Anthemic feel built on tight time and dramatic lift."
+              },
+              {
+                "Title": "Is It Love",
+                "Year": "1986",
+                "Notes": "Crisp pop groove with precision drumming."
+              },
+              {
+                "Title": "Various King Crimson works",
+                "Year": "1990s–present",
+                "Notes": "Hybrid acoustic/electronic approach and odd‑meter precision."
+              }
+            ],
+            "Sources": [
+              {
+                "Title": "Pat Mastelotto",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pat_Mastelotto"
+              },
+              {
+                "Title": "Pat Mastelotto — Official Site",
+                "Publisher": "PatMastelotto.com",
+                "Url": "https://www.patmastelotto.com/"
+              },
+              {
+                "Title": "Mr. Mister",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mr._Mister"
+              },
+              {
+                "Title": "Mr. Mister",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/mr-mister-mn0000619460"
+              }
+            ],
+            "FullText": "Pat Mastelotto (born June 6, 1955) is the rhythmic anchor of Mr. Mister’s catalog and one of the more distinctive post‑’80s career arcs to emerge from an MTV‑era pop band. Born in Chico, California, he developed as a drummer with both rock power and studio precision, traits that let him move comfortably from radio‑polished pop to intricate progressive music later in life.\n\nBy the early 1980s, Mastelotto was working in the Los Angeles session environment, where drummers are expected to bring not only time but arrangement sense—knowing when to simplify, when to push a chorus, and how to make programmed textures feel human. That background made him an ideal fit for the band Richard Page and Steve George were assembling: a group that wanted to sound modern and layered on record while still playing like a tight unit.\n\nIn Mr. Mister, Mastelotto’s drumming is often the glue between George’s keyboards and Steve Farris’ guitar. On I Wear the Face (1984) he established a feel that is crisp and controlled rather than flashy, allowing the band’s harmonies and synth lines to read clearly. On Welcome to the Real World (1985), that approach became a major part of the band’s identity: the grooves are punchy enough for pop radio but grounded enough to carry dramatic ballads and anthem‑like choruses without sounding soft.\n\nDuring the Welcome to the Real World peak, Mastelotto helped translate the band’s studio‑layered sound into a performance reality. Mr. Mister’s hits depend on tight dynamic shifts—quiet verses into wide choruses, and syncopated figures that have to sit exactly with programmed textures. Mastelotto’s role was to make that precision feel natural. The result is one of the band’s underappreciated strengths: even the biggest ballads still have a rhythmic backbone that keeps them moving.\n\nWhen the band shifted into the late ’80s, Mastelotto stayed with Page and George through Go On… (1987) and through the final studio sessions for Pull (recorded 1989–1990, released officially in 2010). As commercial momentum slowed and the internal lineup changed, his consistency helped hold the music together. After the band dissolved, that same combination—strong time, careful touch, and adaptability—made him a natural fit for more demanding musical environments.\n\nMastelotto’s best‑known later work is with King Crimson, where he joined the progressive rock institution in the mid‑1990s and became part of its modern era. In Crimson, he expanded his palette into hybrid acoustic/electronic setups, odd‑meter precision, and polyrhythmic interplay that is far from Top 40 pop yet still built on the same foundational skill: making complex ideas feel grounded. He has also been associated with other progressive projects and collaborations that emphasize texture, sound design, and rhythmic invention.\n\nSeen in full, Mastelotto’s career connects two worlds that are often treated as opposites. In Mr. Mister he helped build records that could dominate radio; later, he applied that discipline to music that values complexity and experimentation. The thread is professionalism and musical curiosity—qualities audible in Mr. Mister’s catalog if you listen past the hooks to the careful way the groove supports the song.\n\nThe classic lineup’s one‑off reunions in the 2020s highlighted that continuity. When the band plays together again, Mastelotto’s drumming still sits at the center, locking the parts into place and reminding listeners that Mr. Mister’s polish was never just studio gloss—it was a band with serious timing and control.",
+            "ArtistID": "",
+            "ArtistName": "",
+            "MemberName": "",
+            "HonoursAndMilestones": "",
+            "FunFacts": "",
+            "Quotes": ""
+          },
+          "YearsActive": [
+            "1982–1990; 2023; 2025"
+          ],
+          "Albums": [
+            "I Wear the Face (1984)",
+            "Welcome to the Real World (1985)",
+            "Go On… (1987)",
+            "Pull (recorded 1990; released 2010)"
+          ]
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Howard \"Buzz\" Feiten",
+          "Roles": [
+            "Guitar (session/guest)"
+          ],
+          "Years": "1989–1990 (Pull sessions)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Overview": "Session guitarist credited with additional guitar work connected to the Pull recordings.",
+          "YearsActive": [
+            "1989–1990"
+          ],
+          "Albums": [
+            "Pull (recorded 1990; released 2010)"
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "nazareth",
