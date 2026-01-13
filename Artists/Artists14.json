@@ -836,27 +836,380 @@
     {
       "ArtistID": "procol-harum",
       "Name": "Procol Harum",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Southend-on-Sea",
+        "Region": "Essex",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1967–1977",
+        "1991–2022"
+      ],
+      "Genres": [
+        "Progressive rock",
+        "Art rock",
+        "Psychedelic rock",
+        "Baroque rock"
+      ],
+      "Labels": [
+        "Deram",
+        "Regal Zonophone",
+        "Fly",
+        "A&M",
+        "Chrysalis",
+        "Reprise"
+      ],
+      "Overview": "Procol Harum emerged from the Southend-on-Sea rhythm-and-blues circuit in 1967 and quickly became one of the era’s most distinctive British groups: a rock band built around piano, Hammond organ, and a singer with an uncommonly grave, soul-informed delivery. Their breakthrough debut single, “A Whiter Shade of Pale,” fused Keith Reid’s surreal, party-scene imagery with Gary Brooker’s stately melody and Matthew Fisher’s Bach-leaning organ line, turning the record into a defining sound of the Summer of Love and setting a high bar for what pop songwriting could absorb from classical harmony and church-like textures. Yet the band’s identity never stayed locked to that one moment. Across the late 1960s and early 1970s, Procol Harum expanded into an elastic blend of psychedelia, art rock, and progressive ambition that could also swing with R&B grit—often within the same album.\n\nThe early records traced that widening palette. The debut LP captured the group’s post-R&B roots and melodic craft; Shine on Brightly deepened the atmosphere, balancing compact songs with the multi-part “In Held ’Twas in I,” a suite that hinted at prog without losing the band’s song-first instincts. A Salty Dog added orchestral color and maritime storytelling, while Home and Broken Barricades leaned into sharper guitar and rhythm interplay during Robin Trower’s tenure, spotlighting the group’s ability to sound both stately and tough. Procol Harum were also a formidable live act: their 1971 concerts with the Edmonton Symphony Orchestra (released as a live album) helped cement the idea that their material could thrive in orchestral settings without losing rock urgency.\n\nAfter disbanding in the late 1970s, the band re-formed in the early 1990s and later issued The Well’s on Fire and Novum, with Brooker remaining the anchoring voice and keyboard presence. Even as lineups changed, the throughline stayed consistent: Reid’s literate, dreamlike lyricism; Brooker’s melodic sense and emotional phrasing; and arrangements that treated keyboards and dynamics as the engine of drama. Procol Harum’s legacy is less about a single classic and more about a body of work that bridged blues clubs, symphony halls, and the emerging language of progressive rock—quietly influential on generations of artists who chased that same mix of songcraft and grandeur.",
+      "NotableAlbums": [
+        {
+          "Title": "Procol Harum",
+          "Year": 1967,
+          "Notes": "Debut album anchored by the era-defining single “A Whiter Shade of Pale,” introducing the band’s piano-and-organ-led identity."
+        },
+        {
+          "Title": "Shine on Brightly",
+          "Year": 1968,
+          "Notes": "Deepened the group’s art-rock atmosphere and included the multi-part suite “In Held ’Twas in I.”"
+        },
+        {
+          "Title": "A Salty Dog",
+          "Year": 1969,
+          "Notes": "Expanded orchestral color and narrative songwriting; often cited among the band’s most beloved albums."
+        },
+        {
+          "Title": "Home",
+          "Year": 1970,
+          "Notes": "Leaned into a tougher band sound; featured “Whisky Train,” highlighting Robin Trower’s blues-forward guitar voice."
+        },
+        {
+          "Title": "Broken Barricades",
+          "Year": 1971,
+          "Notes": "A transitional record with prominent guitar work and reflective songwriting as the band’s sound shifted in the early 1970s."
+        },
+        {
+          "Title": "Procol Harum Live: In Concert with the Edmonton Symphony Orchestra",
+          "Year": 1972,
+          "Notes": "Live release showcasing the band’s ability to integrate orchestral forces with rock dynamics."
+        },
+        {
+          "Title": "Grand Hotel",
+          "Year": 1973,
+          "Notes": "A lavish, theatrical album that emphasized arrangements, piano, and dramatic staging within the band’s art-rock framework."
+        },
+        {
+          "Title": "Novum",
+          "Year": 2017,
+          "Notes": "Late-career studio album that demonstrated the band’s continued commitment to melodic drama and layered arrangements."
+        }
+      ],
+      "SignatureSongs": [
+        "A Whiter Shade of Pale",
+        "Homburg",
+        "A Salty Dog",
+        "Conquistador",
+        "Whisky Train",
+        "Pandora's Box",
+        "Grand Hotel",
+        "Shine on Brightly",
+        "Quite Rightly So",
+        "Broken Barricades"
+      ],
+      "Achievements": [
+        "“A Whiter Shade of Pale” became a major international hit in 1967 and remains one of the defining singles of its era.",
+        "The band’s catalog is noted for blending organ-driven rock with orchestral ambitions and literate lyric writing.",
+        "Released a landmark live recording with the Edmonton Symphony Orchestra, cementing their reputation as a powerful live act.",
+        "The group’s signature single was recognized by the Rock & Roll Hall of Fame’s “Singles” initiative (Hall of Fame Singles listings)."
+      ],
+      "KeyFacts": [
+        "Formed in 1967 in Southend-on-Sea, Essex, England; known for blending rock songwriting with organ-led, classically inflected textures.",
+        "Breakthrough single “A Whiter Shade of Pale” (1967) became an international hit and remains the group’s signature recording.",
+        "Core creative partnership: Gary Brooker (music/vocals/piano) and Keith Reid (lyrics), with key early contributions from Matthew Fisher (organ/arrangements).",
+        "Evolved from psychedelic and art rock toward more expansive progressive forms, while retaining R&B roots from the Southend scene.",
+        "Noted for major lineup phases, including Robin Trower’s guitar-driven era (late 1960s–early 1970s) and later reunion-era albums."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site (Archive)": "https://www.procolharum.com/",
+        "AllMusic Artist Bio": "https://www.allmusic.com/artist/procol-harum-mn0000304401",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Procol_Harum",
+        "Discogs": "https://www.discogs.com/artist/244520-Procol-Harum"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Gary Brooker",
+          "Roles": [
+            "Lead singer",
+            "Pianist",
+            "Composer",
+            "Bandleader"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Piano",
+            "Keyboards"
+          ],
+          "YearsActive": [
+            "1960s–2022"
+          ],
+          "Albums": [
+            "Procol Harum",
+            "Shine on Brightly",
+            "A Salty Dog",
+            "Home",
+            "Broken Barricades",
+            "Grand Hotel",
+            "Novum"
+          ],
+          "Bio": {
+            "Summary": "Co-founder, lead vocalist, and principal musical architect of Procol Harum, known for his soulful voice and piano-led songwriting.",
+            "FullText": "Gary Brooker was the voice and piano at the center of Procol Harum’s entire story, a musician whose background in Southend R&B gave him both rhythmic instincts and a deep respect for melody. Before Procol Harum existed, Brooker had already lived through the British beat-group grind with The Paramounts, the hard-working club band from Southend-on-Sea that scored a UK hit with a cover of “Poison Ivy” in the early 1960s. That apprenticeship mattered: it taught him how to front a band, how to arrange for maximum impact with limited resources, and how to make a song feel like a performance rather than a studio artifact. When The Paramounts dissolved, Brooker carried forward the same practical musicianship—piano, a singer’s sense of phrasing, and an R&B-trained feel—into a new project that would unexpectedly become one of the era’s defining cultural signals.\n\nIn 1967, Brooker and lyricist Keith Reid co-founded Procol Harum. Their partnership was unusual even then: Reid was a non-performing member who specialized in lyrics, while Brooker supplied melodies, chord movement, and a commanding vocal presence. Their debut single “A Whiter Shade of Pale” crystallized that partnership immediately. Brooker’s melody is both simple and stately, built to carry the weight of Reid’s vivid, dreamlike imagery; the record’s character is completed by Matthew Fisher’s organ line, which drew on the gravity and motion of Baroque-era harmony without turning the song into a novelty. The single’s success made Procol Harum famous overnight, but Brooker did not treat it as a creative finish line. He kept writing toward an identity that could hold both the band’s blues-club origins and the more expansive emotional range suggested by the hit.\n\nOn the early albums, Brooker’s piano anchors the arrangements and provides the narrative pacing. When the band leans into atmosphere—on the darker corners of Shine on Brightly, for example—his playing keeps the songs grounded, allowing the organ and guitars to color around a steady harmonic spine. When the material turns outward and dramatic, as it does on “A Salty Dog,” Brooker’s vocal delivery becomes the hook: he sang with a controlled intensity that could sound wounded, dignified, or wry, often within a single verse. That vocal character helped Procol Harum stand apart from other progressive-adjacent groups. Where some contemporaries pursued virtuosity as the point, Brooker pursued feeling and structure—he used drama as a songwriting tool, not as ornament.\n\nAs Procol Harum’s lineup shifted, Brooker became the constant. He navigated the Robin Trower era—when the band’s sound sharpened and the guitar took on a bigger role—without abandoning the keyboard-led identity that made the group unique. He also helped steer the band into their orchestral live work, most notably the performances with the Edmonton Symphony Orchestra in 1971 that later formed a celebrated live album release. Those concerts were more than a gimmick; they reflected Brooker’s instinct that Procol Harum songs could withstand and even benefit from additional harmonic weight. His piano parts, already orchestral in their sense of spacing and dynamics, became the bridge between rock rhythm and symphonic color.\n\nAfter the band’s original run ended in the late 1970s, Brooker remained active as a musician and collaborator. He released solo work, but his profile also grew through collaborations with major figures: he appeared on projects connected to George Harrison, toured with Ringo Starr’s All-Starr Band in the 1990s, and was associated with high-level rock-and-pop ecosystems where reliable musicianship and tasteful arrangements mattered. These collaborations reinforced what fans already heard in Procol Harum: Brooker was not only a frontman but also a player other musicians trusted. When Procol Harum re-formed in the early 1990s, he again served as the anchor—vocally, musically, and conceptually—helping the band make new records without pretending time had stopped.\n\nIn the 2000s and 2010s, Brooker kept Procol Harum’s identity intact even as original members became less present. Albums like The Well’s on Fire and Novum showed him leaning into mature songwriting—still melodically rich, still built around piano and voice, but shaped by the experience of decades on the road. Even the controversies associated with Procol Harum’s signature song—such as the long-running legal dispute over Matthew Fisher’s authorship claim—did not diminish Brooker’s role as the song’s singer and primary musical architect; if anything, those debates underscored how singular the track’s blend of components really was. Brooker’s public recognition included an MBE for charitable services, an honor that aligned with accounts of his generosity and long-standing involvement in benefit work.\n\nBrooker’s death in 2022 effectively closed Procol Harum’s story as a continuing band, but his legacy is audible in the way later artists approached keyboard-centered rock with emotional gravity. His best work is defined by balance: the discipline of a working R&B player, the melodic intelligence of a pop craftsman, and the theatrical instinct to make a chorus feel like a turning point in a narrative. In Procol Harum, Brooker proved that grandeur does not require bombast; it can come from a voice that believes every word and a piano part that knows exactly when to leave space for the song’s shadows.\n\nOne reason Brooker’s writing endured beyond the single that made the band famous is the way he treated arrangement as composition. Across the late-60s Fisher era he leaned into modal harmony, long-form development, and organ-and-piano voicings that nodded to classical and jazz without turning the songs into pastiche. When the group moved into the early-70s lineups and began touring relentlessly, he also wrote tighter, more groove-driven material and made space for other voices in the band; Robin Trower’s \"Whisky Train\" and the guitar-driven textures around *Home* and *Broken Barricades* are part of the same story of a leader willing to shift the palette when the personnel shifted.\n\nOutside Procol Harum, Brooker maintained a parallel career as a collaborator and sideman that reinforced his reputation among musicians. He played on George Harrison’s *All Things Must Pass* sessions and later worked with artists including Eric Clapton and Ringo Starr (touring as part of the All-Starr Band in the 1990s). Those credits mattered to fans, but they also mattered to Brooker because they kept him working in different settings—arena rock, studio pop, charity concerts, and symphonic one-offs—while Procol’s own live identity evolved. In the reunion decades, he became the anchor who could take a repertoire spanning psychedelia, prog, and orchestral rock and present it with the same centered vocal authority.\n\nIn the band’s final phase, Brooker was candid about being the last original performer still on stage under the Procol name, and he treated that responsibility seriously: set lists were built to honor multiple eras, not just the hit. His death in 2022 effectively closed the book on Procol Harum as a touring entity, but the broader shape of his career—R&B apprenticeship, world-famous single, deep catalogue, and decades of work as a trusted musical partner—explains why he is remembered as more than the voice on one classic record.",
+            "Sources": [
+              {
+                "Title": "Procol Harum — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/procol-harum-mn0000304401"
+              },
+              {
+                "Title": "Gary Brooker Dies at 76",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/news/procol-harum-gary-brooker-dies-at-76/"
+              },
+              {
+                "Title": "Gary Brooker — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Gary_Brooker"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Keith Reid",
+          "Roles": [
+            "Lyricist",
+            "Songwriter",
+            "Co-founder"
+          ],
+          "Instruments": [
+            "N/A"
+          ],
+          "YearsActive": [
+            "1960s–2023"
+          ],
+          "Albums": [
+            "Procol Harum",
+            "Shine on Brightly",
+            "A Salty Dog",
+            "Home",
+            "Broken Barricades",
+            "Grand Hotel",
+            "Procol's Ninth",
+            "Something Magic"
+          ],
+          "Bio": {
+            "Summary": "Procol Harum’s core lyricist and co-founder, celebrated for surreal, literary imagery that defined the band’s songwriting voice.",
+            "FullText": "Keith Reid was Procol Harum’s essential storyteller: a lyricist who did not perform on stage or play on the records, yet helped define the band’s identity as decisively as any instrumental voice. In the mid-1960s, as British rock splintered from beat-group formats into psychedelia and more experimental writing, Reid brought to Procol Harum a particular kind of imagery—literary, oblique, and emotionally charged without being literal. His words made room for listeners to project meaning, and that openness became one of the band’s signatures: Procol Harum songs often feel like fragments of a larger narrative, full of characters, places, and symbols that resist tidy explanation.\n\nReid co-founded Procol Harum with Gary Brooker in 1967, and their partnership was built on division of strengths. Brooker’s melodies and harmonic choices could move from blues to hymnal grandeur; Reid’s lyrics supplied the dream logic and sharp phrases that turned those melodies into worlds. The origin story of “A Whiter Shade of Pale” captures Reid’s method. He has been widely credited with supplying the title phrase—an arresting line he reportedly picked up from overheard conversation—and from that seed he constructed a lyric that feels like a memory replayed through fog: a party scene, a spinning sense of disorientation, and images that land like half-remembered literature. The result was not simply psychedelic decoration. Reid’s language gave the song emotional ambiguity: it can read as romance, regret, intoxication, or a collage of all three.\n\nAcross Procol Harum’s classic period, Reid wrote lyrics for nearly all of the group’s original songs, collaborating with Brooker as the band moved from hit-single notoriety into a deeper album craft. On Shine on Brightly, his writing supports an atmosphere that is simultaneously gothic and intimate, and the multi-part suite “In Held ’Twas in I” shows his ability to sustain a sequence of scenes and tones without collapsing into plot. On A Salty Dog, the band’s nautical imagery becomes a frame for loneliness, endurance, and moral drift; Reid’s best lines in this era are often plainspoken but angled, suggesting more than they state. Even when the band leaned harder into rock attack during the Robin Trower years, Reid’s lyrics remained a distinguishing feature, keeping Procol Harum from turning into just another heavy touring unit.\n\nReid’s role is also notable for how modern it now seems. Many rock bands rely on a singer-songwriter persona, but Procol Harum’s core concept included a non-performing lyricist as a creative equal. That arrangement allowed Reid to focus on language as craft—editing, shaping, and revising without the pressure of stage identity. It also meant the band could maintain lyrical continuity through lineup changes: guitarists, bassists, and drummers came and went, but the Brooker–Reid writing axis kept the catalog coherent. AllMusic and other reference sources consistently frame Reid as one of the defining lyric voices of his period, tied to Procol Harum but also representative of the wider shift toward rock as an album-centered, literary form.\n\nAfter Procol Harum’s original breakup in 1977, Reid continued working as a songwriter. One of his most widely recognized post-Procol credits is his co-writing of “You’re the Voice,” the anthem-like hit made famous by John Farnham. That connection is telling: despite Reid’s reputation for surreal imagery, he could also work in direct, rallying language when the song called for it. In later years, he remained associated with the Procol Harum legacy through reissues, liner notes, interviews, and the band’s reunion era, even when the exact boundaries of membership shifted. Reference biographies note that his lyric contributions were not absolute in every era—particularly with the 2017 album Novum, where other writing voices entered—but the overwhelming arc of the catalog still carries his fingerprints.\n\nReid died in 2023, and tributes emphasized what fans long understood: that Procol Harum’s songs are inseparable from his language. He wrote lyrics that do not merely decorate melodies; they create mood, implication, and a sense of time. His best work sits in the overlap between poetry and pop craft—lines memorable enough to sing, strange enough to revisit, and emotionally honest enough to outlast the cultural moment that first produced them. If Procol Harum helped prove that rock could be grand without losing intimacy, Reid’s writing was one of the key reasons that grandeur felt haunted rather than hollow.\n\nReid’s importance can be missed if you only measure \"band member\" by who appears on stage. Procol Harum’s sound was always dramatic, but it was Reid’s wordcraft that gave the drama its peculiar, adult bite: images that feel like overheard fragments, moral observations tucked inside barroom scenes, and a habit of letting the listener supply the literal plot. That approach also meant the lyrics aged well. They were tied to late-60s psychedelia in tone, yet they were not locked to period slang; they read like short stories that happen to be set to rock music.\n\nHis working relationship with Brooker was a true co-authorship model. Reid typically delivered lyric sheets that were already rhythmically shaped, and Brooker wrote melodies and harmonic movement that made the language sing without sanding off its strangeness. The most famous example is \"A Whiter Shade of Pale,\" where the lyric’s elliptical narrative meets a stately chord progression and organ line; but the same dynamic runs through later material as well, including the nautical fatalism of \"A Salty Dog\" and the theatrical settings of the early-70s catalogue.\n\nAfter the original 1977 breakup, Reid continued writing and stayed musically active outside the spotlight, which is one reason his later-life reputation grew among songwriters rather than casual listeners. He is also widely remembered for co-writing John Farnham’s \"You’re the Voice,\" a very different kind of song that nevertheless shows his gift for memorable, singable phrasing. When he died in 2023, tributes often highlighted that he was essentially Procol Harum’s in-house lyricist across decades—a rare role in rock, and one that shaped the band’s identity as much as any instrument.",
+            "Sources": [
+              {
+                "Title": "Keith Reid — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/keith-reid-mn0000080853"
+              },
+              {
+                "Title": "Keith Reid — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Keith_Reid"
+              },
+              {
+                "Title": "Keith Reid memorial page",
+                "Publisher": "ProcolHarum.com",
+                "Url": "https://www.procolharum.com/procolkr.htm"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Matthew Fisher",
+          "Roles": [
+            "Organist",
+            "Arranger",
+            "Songwriter",
+            "Producer"
+          ],
+          "Instruments": [
+            "Hammond organ",
+            "Keyboards"
+          ],
+          "YearsActive": [
+            "1960s–present"
+          ],
+          "Albums": [
+            "Procol Harum",
+            "Shine on Brightly",
+            "A Salty Dog"
+          ],
+          "Bio": {
+            "Summary": "Founding Procol Harum organist whose iconic playing helped define “A Whiter Shade of Pale,” later active as a producer and songwriter.",
+            "FullText": "Matthew Fisher’s place in Procol Harum is both foundational and unusually well documented: he was the group’s early Hammond-organ architect, an arranger with classical instincts, and later the center of a landmark legal battle that clarified his authorship role in “A Whiter Shade of Pale.” Born in 1946, Fisher arrived with a musician’s ear for harmonic motion and texture. In the band’s earliest period, that sensibility shaped the way Procol Harum sounded to the world. The group’s signature identity—piano and voice in the foreground, organ lines that felt liturgical rather than decorative, and chords that hinted at Bach without becoming pastiche—was not an accident. Fisher’s playing gave the music its cathedral glow.\n\nOn “A Whiter Shade of Pale,” Fisher’s organ part became one of rock’s most recognizable lines. It does not simply echo the vocal melody; it frames it, introduces it, and then returns between verses like a narrator. The part’s Baroque flavor helped the song stand apart from typical 1967 pop, and it also suggested a future where rock could borrow from classical vocabulary without surrendering groove or immediacy. Fisher’s contributions extended beyond that single. In the band’s early albums, his organ and arrangement sense helped shape the atmosphere of songs that were more shadowy and internally dramatic than the hit itself. Shine on Brightly, especially, benefits from the way his keyboards can be both melodic lead and harmonic architecture, opening space for Gary Brooker’s piano while still giving the music a distinctive, sustained color.\n\nFisher’s role was not limited to performance. Reference biographies describe him as an arranger and producer figure within Procol Harum’s early work, and his later career underlines that broader studio competence. After leaving the band around the end of the 1960s, he pursued solo projects and production. One of his most visible producer credits is his work with Robin Trower in the 1970s, including the acclaimed album Bridge of Sighs and follow-up releases in that era—records where Trower’s blues-psych guitar voice needed a producer who understood both rock power and tonal nuance. Fisher’s organizing instincts—how to place instruments, how to shape dynamics, how to give a track a narrative arc—fit that job.\n\nFisher’s name returned to mainstream attention decades later because of the “A Whiter Shade of Pale” authorship dispute. In the 2000s, he pursued recognition for his musical contribution to the composition, arguing that the organ line was not merely an arrangement flourish but part of the song’s essential musical identity. Courts ultimately affirmed his co-authorship claim, with judgments and appeals unfolding over several years. The case became one of the most discussed modern examples of how rock songs are credited and how instrumental contributions can be inseparable from composition itself. For listeners, the legal outcome mirrored what the record already suggested: that the organ line is not optional; it is the song’s DNA.\n\nAnother aspect of Fisher’s biography underscores how wide the distance can be between iconic cultural work and everyday life. Later in life he pursued computer programming, earning qualifications and working in the field—an unexpected second career that nonetheless fits the personality implied by his music: meticulous, structural, and systems-minded. Even with that shift, his musical reputation remained tied to the singular intersection he helped create in 1967, where a pop single carried the gravity of a hymn and the momentum of a club band.\n\nIn the full arc of Procol Harum’s history, Fisher represents the band’s early sonic blueprint. Gary Brooker and Keith Reid formed the lasting writing core, but Fisher’s organ language supplied the immediate signature that made the band unmistakable in the first seconds of a record. His later production work proved that the same mind that could invent a famous motif could also shape albums from behind the console. And the authorship case, while contentious, ultimately reinforced his legacy: he did not simply play on a classic—he helped write the musical sentence that made it timeless.\n\nFisher’s musical identity was split between feel and formal training. In Procol Harum he brought the Hammond organ into the center of the arrangement, treating it as both rhythm instrument and lead voice; on early recordings he could underline a vocal line with church-like sustain, then pivot into counter-melody with the confidence of someone who had internalized classical voice-leading. As the band worked through its first albums, Fisher also contributed to the group’s arranging sophistication—how introductions were set up, when dynamics opened, and how long sections could develop without simply repeating the chorus.\n\nHis departure from the band after the third album did not end his relationship to the Procol universe. He built a solo career, worked as an arranger/producer, and later produced and played on key releases by Robin Trower, helping translate Trower’s Hendrix-influenced guitar style into records that were radio-ready without losing grit. Fisher’s later-life shift into computer programming is often mentioned because it is unusual in rock biography, but it also fits his temperament: he was meticulous about structure, whether in music, arrangements, or the details of authorship.\n\nThat attention to authorship became public when he sought recognition for his contribution to \"A Whiter Shade of Pale.\" Courts ultimately affirmed his role as a co-writer, a decision that reshaped how many listeners understood the song’s signature organ part. Fisher continued to be associated with the Procol story through reunions and archival releases, and his playing remains one of the clearest examples of how a single instrumental idea can define a band’s identity.\n\nFisher’s story also underlines how narrow the gap can be between “tone” and “composition.” Rock bands often build identities out of signature sounds—an organ registration, a particular chord voicing, a rhythmic accent—and Procol Harum’s earliest records are a textbook example. In the studio he was not simply a player but an arranger who helped decide what the listener should hear first, what should answer the vocal line, and how the band could suggest a larger palette without losing the directness of a single.",
+            "Sources": [
+              {
+                "Title": "Matthew Fisher — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/matthew-fisher-mn0000862925"
+              },
+              {
+                "Title": "Matthew Fisher (musician) — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Matthew_Fisher_(musician)"
+              },
+              {
+                "Title": "Organist wins Procol Harum battle",
+                "Publisher": "BBC News",
+                "Url": "https://news.bbc.co.uk/2/hi/entertainment/6197655.stm"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Robin Trower",
+          "Roles": [
+            "Guitarist",
+            "Songwriter"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "YearsActive": [
+            "1960s–present"
+          ],
+          "Albums": [
+            "Shine on Brightly",
+            "A Salty Dog",
+            "Home",
+            "Broken Barricades"
+          ],
+          "Bio": {
+            "Summary": "Guitarist who powered Procol Harum’s late-1960s/early-1970s rock edge before launching a major blues-rock solo career.",
+            "FullText": "Robin Trower brought the blues edge to Procol Harum’s most guitar-forward phase, and his years with the band helped prove that their music could be as tough as it was stately. Born in 1945, Trower came up in the same Southend-on-Sea scene that produced Gary Brooker. Before Procol Harum, he played with The Paramounts, a working R&B unit whose discipline—tight sets, dance-floor urgency, and constant touring—shaped the musicians who would later build more ambitious rock forms. That grounding is audible in Trower’s Procol Harum work: even when the songs stretch toward progressive structure, his phrasing remains rooted in the blues, with bends and vibrato that prioritize voice-like emotion over flash.\n\nTrower joined Procol Harum in 1967 after the breakthrough of “A Whiter Shade of Pale.” He did not play on the original hit single, but he quickly became a central ingredient of the band’s live identity and subsequent albums. In the late 1960s, as the group’s material moved beyond the signature single, Trower’s guitar helped balance the keyboards’ grandeur with grit and attack. On stage, the band could now pivot between organ-led drama and a harder rock drive, and Trower’s playing gave that pivot credibility. His tenure covers the band’s first five studio albums—from Shine on Brightly through Broken Barricades—an era where Procol Harum’s sound broadened while remaining anchored by Brooker’s voice and piano.\n\nTrower also contributed as a writer. Songs like “Whisky Train,” associated with the Home era, put his blues sensibility closer to the front, and the band’s arrangements in this period often emphasize rhythm section push and guitar tone more than earlier, more purely organ-centered textures. That did not mean abandoning the band’s identity; instead, it showcased their flexibility. Procol Harum could be baroque and hymn-like, but they could also lean into a tougher band sound that held its own alongside contemporary hard rock. Trower’s guitar was the key to that alternate Procol Harum silhouette.\n\nBy the early 1970s, Trower’s ambitions grew beyond what Procol Harum could accommodate. As he later explained in interviews and biographies, he had more ideas than the band’s framework had room for, and he wanted to pursue a more guitar-centered project. He left in 1971 and soon formed the power trio format that became the Robin Trower Band. His solo success in the mid-1970s, including the celebrated Bridge of Sighs album, cemented his reputation as one of the era’s premier blues-rock guitarists, often compared—sometimes unfairly but frequently—with Jimi Hendrix because of his tone, phrasing, and Stratocaster-centric approach. Importantly for the Procol Harum story, Matthew Fisher produced key early Trower solo work, creating a throughline from the band’s keyboard architect to its most guitar-forward alumnus.\n\nTrower’s relationship with Procol Harum did not end as a clean break. He returned for the band’s 1991 reunion album The Prodigal Stranger, a reminder that the musicianship and chemistry of the classic era remained meaningful even after decades of separate careers. Yet his primary identity remained that of a bandleader and guitarist with a long-running solo discography. Through the decades, he continued to record and tour, maintaining a reputation for tone and feel that guitarists still cite as a standard.\n\nIn Procol Harum’s legacy, Trower represents the band’s capacity for muscle. The group is often remembered for organ, poetry, and orchestral reach, but the Trower years highlight another truth: beneath the grandeur was a real rock band with R&B instincts, capable of turning on a hard groove and letting the guitar speak. His time with Procol Harum helped broaden the band’s palette, and the band’s songcraft, in turn, gave his guitar a dramatic context that made the blues phrasing feel cinematic.\n\nWithin Procol Harum, Trower’s role was to add bite and motion to music that could otherwise drift into stately grandeur. His tone—warm, vocal, and often drenched in sustain—gave the band a blues-rock spine, especially as the catalogue moved beyond the early organ-driven period. He also wrote and co-wrote material that pointed toward his later solo direction; \"Whisky Train\" in particular telegraphs the riff-based attack and rhythmic insistence that would soon define his own records.\n\nTrower’s decision to leave in 1971 is best understood as an artistic math problem: his ideas were multiplying faster than a single band could absorb them. After short transitional projects he formed the Robin Trower Band and found a new identity as a guitar-forward leader, with *Bridge of Sighs* becoming the signature statement of that era. The success of those mid-70s albums also cast his earlier Procol work in a new light; listeners went back and heard how his phrasing and dynamics had been quietly shaping the band’s sound all along.\n\nWhen Trower returned for the 1991 reunion album, it was less a reversal than a nod to his roots in the Southend scene and the musical partnership that launched him. Across his long solo career, the Procol years remain the foundation: a formative context where he learned how to balance songcraft with improvisational feel, and how to make a guitar line function as part of a larger arrangement.\n\nThe contrast between Trower’s guitar vocabulary and the band’s keyboard-centric identity is part of what makes the early albums compelling. Procol Harum could sound courtly and formal one moment and then pivot into raw blues phrasing the next; Trower is a major reason those pivots work. When he later became a front-line solo artist, that same ability to balance melody with intensity—while keeping the blues at the center—made his post-Procol recordings resonate with listeners who wanted virtuosity that still felt song-driven.",
+            "Sources": [
+              {
+                "Title": "Robin Trower — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/robin-trower-mn0000831381"
+              },
+              {
+                "Title": "Robin Trower — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Robin_Trower"
+              },
+              {
+                "Title": "The Paramounts — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/paramounts-mn0000482080"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "B.J. Wilson",
+          "Roles": [
+            "Drummer"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "YearsActive": [
+            "1960s–1990"
+          ],
+          "Albums": [
+            "Shine on Brightly",
+            "A Salty Dog",
+            "Home",
+            "Broken Barricades",
+            "Grand Hotel"
+          ],
+          "Bio": {
+            "Summary": "Procol Harum’s most celebrated drummer, known for powerful, inventive playing that gave the band’s dramatic songwriting its momentum.",
+            "FullText": "B.J. Wilson—born Barrie James Wilson—was Procol Harum’s defining drummer, the player who gave the band’s organ-and-piano drama a muscular, inventive engine. In rock history, Procol Harum are often described in terms of songwriting and texture: Gary Brooker’s voice, Keith Reid’s imagery, and the Hammond organ glow that framed their biggest hits. Wilson’s contribution is what made that glow move. His drumming was powerful without being blunt, capable of orchestral build and sudden snap, and it became one of the most praised elements of the band’s classic albums and live performances.\n\nWilson came out of the same British R&B ecosystem that produced several Procol Harum members. AllMusic biographies trace his development through the North London and Southend scenes and note his work with The Paramounts before joining Procol Harum. That background mattered because it meant he was comfortable playing for dancers and club crowds—locking into a groove, pushing a band forward, and supporting a singer—while also being curious enough to adapt when Procol Harum’s music demanded more dynamic architecture. When he joined the band after the initial single success, he helped solidify a lineup that could translate the studio mystique of “A Whiter Shade of Pale” into a credible, forceful live act.\n\nOn record, Wilson’s drumming often functions like a second arranger. In the band’s darker, more atmospheric pieces, he controls tension through restraint—letting cymbal texture and tom patterns suggest movement rather than announcing it. When the songs turn dramatic, he builds with an almost symphonic sense of pacing, swelling into climaxes that feel earned rather than imposed. This approach was especially important for a group that frequently used long-form dynamics. Procol Harum could shift from quiet verses to sweeping choruses, or from song form into suite-like structure, and Wilson’s ability to keep those shifts coherent is one reason the music still feels alive rather than mannered.\n\nWilson’s reputation was also forged on stage. Procol Harum’s concert identity relied on the band’s ability to stretch songs without losing shape, and Wilson was central to that control. His playing supported the group’s explorations with orchestral accompaniment as well, including the Edmonton Symphony Orchestra performances, where a rock drummer has to be both forceful and sensitive to larger ensemble timing. Wilson’s drumming could cut through a full arrangement while still leaving space—an attribute that made him especially valuable in a band where keyboards could easily dominate the sonic picture.\n\nAfter Procol Harum’s peak years, Wilson continued to be recognized by fans and musicians as an exceptional drummer, though his personal and health struggles curtailed later activity. He died in 1990, and his absence is felt in any discussion of the band’s classic-era sound. If Procol Harum’s music often evokes nautical travel, grand rooms, and surreal scenes, Wilson provided the weather: the rolling momentum, the sudden storms, and the steady pulse that made the voyage believable. His legacy within Procol Harum is a reminder that even the most literary and harmonically ambitious rock depends on rhythm, and that a great drummer can make grandeur feel physical.\n\nWilson’s reputation among drummers rests on two qualities that rarely coexist: power and orchestration. He could hit hard enough to drive a rock band, but he also treated the kit like a set of moving textures, shifting from tom patterns to cymbal washes to snare accents in ways that made long songs feel like they were constantly turning a corner. That skill mattered in Procol Harum because the band often wrote in large paragraphs rather than tight verses; Wilson could keep momentum without forcing everything into a strict backbeat.\n\nIn the early years, his drumming helped the group move from a hit-single identity into an album band. On records like *A Salty Dog* and *Home* he supported arrangements that mixed piano balladry, blues-rock, and theatrical crescendos, and on stage he was a key reason the songs landed with weight. Fans who followed the live recordings often singled him out because the performances show how much he could reshape a familiar track through dynamics alone.\n\nAfter Procol’s original run, Wilson continued to be respected as a musician’s musician, though his life was marked by serious health struggles that cut his story short. He died in 1990, and later Procol Harum members and historians routinely credited him as one of the band’s essential architects—an engine that made their grandest ideas feel physical.\n\nEven when Procol Harum leaned into orchestral textures, Wilson’s approach remained rooted in rock feel rather than “symphonic” polish. He could push a chorus forward with a slightly urgent backbeat, then open up into broader cymbal work to give the music air. That combination—precision plus lift—is why fans and bandmates often singled him out as a defining ingredient of the classic lineup.\n\nIn the wider story of British rock drumming, Wilson sits in an interesting lane: not a minimalist timekeeper and not an exhibitionist for its own sake. He tended to think like an arranger, shaping sections with dynamic swells, cymbal textures, and emphatic fills that signaled transitions without pulling focus from Brooker’s vocal phrasing. That sense of “orchestration” paid off in Procol Harum’s most theatrical material, where the band’s drama depends on tension and release rather than speed.\n\nHis reputation among fans rests partly on consistency. Across lineup changes and stylistic shifts, Wilson remained a stabilizing presence, the one player who could make a delicate ballad feel grounded and a big, multi-part track feel inevitable. For a group that often married rock rhythm to classical and jazz colors, that kind of drumming was essential: it let Procol Harum sound like a single unit, even when the music reached for symphonic scale.",
+            "Sources": [
+              {
+                "Title": "B.J. Wilson — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/bj-wilson-mn0000762892"
+              },
+              {
+                "Title": "Procol Harum — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/procol-harum-mn0000304401"
+              },
+              {
+                "Title": "B.J. Wilson — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/BJ_Wilson"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Chris Copping",
+          "Roles": "Bassist, organist",
+          "Instruments": "Bass, keyboards",
+          "YearsActive": "1970–1977",
+          "Albums": [
+            "Home",
+            "Broken Barricades",
+            "Grand Hotel",
+            "Exotic Birds and Fruit",
+            "Procol's Ninth",
+            "Something Magic"
+          ],
+          "Bio": {
+            "Summary": "Multi-instrumentalist who became a key late-classic-era member, covering bass and keyboards as the band’s arrangements grew more elaborate.",
+            "FullText": "Chris Copping joined during the early 1970s and helped stabilize Procol Harum’s lineup through their mid- to late-’70s run, often handling bass and/or keyboard duties as the band expanded its stage arrangements. His musicianship supported the group’s more theatrical albums and tours, bridging rhythm-section needs with the keyboard-heavy textures central to their sound.",
+            "Sources": [
+              {
+                "Title": "Procol Harum — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/procol-harum-mn0000304401"
+              },
+              {
+                "Title": "Chris Copping — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Chris_Copping"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mick Grabham",
+          "Roles": "Guitarist",
+          "Instruments": "Guitar",
+          "YearsActive": "1972–1977",
+          "Albums": [
+            "Grand Hotel",
+            "Exotic Birds and Fruit",
+            "Procol's Ninth",
+            "Something Magic"
+          ],
+          "Bio": {
+            "Summary": "Guitarist who joined in the 1970s and contributed to Procol Harum’s later classic-era albums and touring lineup.",
+            "FullText": "Mick Grabham joined Procol Harum in the early 1970s and played through the band’s most ornate, arrangement-heavy period, adding guitar color to albums such as Grand Hotel and later releases. His role helped the group balance their keyboard-centric core with a flexible live guitar voice as their stage sound evolved.",
+            "Sources": [
+              {
+                "Title": "Procol Harum — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/procol-harum-mn0000304401"
+              },
+              {
+                "Title": "Mick Grabham — Biography",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mick_Grabham"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "ArtistID": "the-psychedelic-furs",
