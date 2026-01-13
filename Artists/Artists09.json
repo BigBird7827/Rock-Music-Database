@@ -2208,28 +2208,204 @@
   {
     "ArtistID": "james-taylor",
     "Name": "James Taylor",
+    "Type": "Solo",
+    "Origin": {
+      "City": "Boston",
+      "Region": "Massachusetts",
+      "Country": "United States"
+    },
+    "YearsActive": [
+      "1966–present"
+    ],
+    "Genres": [
+      "Folk rock",
+      "Soft rock",
+      "Folk",
+      "Singer-songwriter",
+      "Pop/Rock"
+    ],
+    "Overview": "James Taylor is one of the defining American singer-songwriters of the late 1960s and 1970s, known for a warm baritone, precise finger-style guitar, and songs that make intimate, conversational storytelling feel universal. Born in Boston and raised largely in Chapel Hill, North Carolina, Taylor emerged from the folk-rock orbit of Greenwich Village and London at the moment pop and rock were expanding toward more personal, confessional writing. He became the first non-British act signed to the Beatles' Apple Records, releasing his self-titled debut in late 1968, produced by Peter Asher. The album didn't immediately break through—Taylor was in and out of treatment and unable to promote it—but it established key elements of his style: melodic, hymn-like chord progressions, a gentle rhythmic pulse, and a lyrical focus on longing, home, and recovery.\n\nTaylor's career shifted decisively after he signed with Warner Bros. and released Sweet Baby James in 1970. The album, anchored by \"Fire and Rain,\" made his writing and voice a mainstream touchstone and helped crystallize the era's singer-songwriter movement. In the years that followed, he built a durable catalog that balanced original compositions with reinterpretations, moving easily between folk, soft rock, and pop craftsmanship. His recording of Carole King's \"You've Got a Friend\" became a signature performance and earned him his first GRAMMY, while albums through the 1970s—alongside constant touring—cemented his reputation as a reliable live draw with a quietly charismatic stage presence.\n\nAcross the decades, Taylor sustained a long, evolving career that outlasted the genre cycles around him. He remained a fixture on adult-oriented radio, returned with major late-career highlights such as Hourglass (which won a GRAMMY for Best Pop Album) and the 2015 release Before This World, which became his first No. 1 album on the Billboard 200 more than four decades after his breakthrough. Widely honored for his songwriting and cultural impact, Taylor was inducted into the Rock & Roll Hall of Fame in 2000 and received major national recognition including the Presidential Medal of Freedom (2015) and Kennedy Center Honors (2016).",
+    "NotableAlbums": [
+      {
+        "Title": "James Taylor",
+        "Year": 1968,
+        "Notes": "Debut studio album released on Apple Records and produced by Peter Asher; early statement of his acoustic folk-rock style."
+      },
+      {
+        "Title": "Sweet Baby James",
+        "Year": 1970,
+        "Notes": "Breakthrough album for Warner Bros.; propelled by the hit single \"Fire and Rain\"."
+      },
+      {
+        "Title": "Mud Slide Slim and the Blue Horizon",
+        "Year": 1971,
+        "Notes": "Early-1970s high point that consolidated his mainstream success and touring profile."
+      },
+      {
+        "Title": "JT",
+        "Year": 1977,
+        "Notes": "Major late-1970s studio set produced by Peter Asher; earned a GRAMMY nomination for Album of the Year."
+      },
+      {
+        "Title": "Hourglass",
+        "Year": 1997,
+        "Notes": "Late-career landmark that won a GRAMMY for Best Pop Album and renewed critical attention."
+      },
+      {
+        "Title": "October Road",
+        "Year": 2002,
+        "Notes": "Return to new studio material after the 1990s; a strong adult-pop entry supported by touring."
+      },
+      {
+        "Title": "Before This World",
+        "Year": 2015,
+        "Notes": "First No. 1 album on the Billboard 200, arriving more than 45 years after his breakthrough era."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Fire and Rain",
+        "Year": 1970,
+        "Notes": "Breakthrough single from Sweet Baby James; among his most enduring songs."
+      },
+      {
+        "Title": "Carolina in My Mind",
+        "Year": 1969,
+        "Notes": "Signature meditation on home and distance; closely associated with Taylor's early career."
+      },
+      {
+        "Title": "You've Got a Friend",
+        "Year": 1971,
+        "Notes": "His recording of Carole King's song won the GRAMMY for Best Pop Vocal Performance, Male."
+      },
+      {
+        "Title": "How Sweet It Is (To Be Loved by You)",
+        "Year": 1975,
+        "Notes": "Hit cover that brought his warm delivery to a classic soul song."
+      },
+      {
+        "Title": "Sweet Baby James",
+        "Year": 1970,
+        "Notes": "Title song that became a defining lullaby-like piece in his catalog."
+      },
+      {
+        "Title": "Shower the People",
+        "Year": 1976,
+        "Notes": "Fan favorite that showcases his blend of moral warmth and pop craftsmanship."
+      },
+      {
+        "Title": "Handy Man",
+        "Year": 1977,
+        "Notes": "Up-tempo hit that broadened his radio presence in the late 1970s."
+      },
+      {
+        "Title": "Mexico",
+        "Year": 1975,
+        "Notes": "Travelogue-style song that became a staple of his classic-era concerts."
+      }
+    ],
+    "Achievements": [
+      {
+        "Title": "Rock & Roll Hall of Fame — Inducted (Performer)",
+        "Year": 2000,
+        "Notes": "Inducted as a performer; inducted by Paul McCartney."
+      },
+      {
+        "Title": "GRAMMY Award — Best Pop Vocal Performance, Male (\"You've Got a Friend\")",
+        "Year": 1972,
+        "Notes": "Won for his recording of Carole King's song at the 14th Annual GRAMMY Awards."
+      },
+      {
+        "Title": "GRAMMY Award — Best Pop Album (Hourglass)",
+        "Year": 1998,
+        "Notes": "Won for the album Hourglass, a major late-career milestone."
+      },
+      {
+        "Title": "Billboard 200 — First No. 1 album (Before This World)",
+        "Year": 2015,
+        "Notes": "Before This World became his first album to reach No. 1 on the Billboard 200."
+      },
+      {
+        "Title": "Presidential Medal of Freedom",
+        "Year": 2015,
+        "Notes": "Received the United States' highest civilian honor."
+      },
+      {
+        "Title": "Kennedy Center Honors",
+        "Year": 2016,
+        "Notes": "Named a Kennedy Center honoree for lifetime artistic contribution."
+      }
+    ],
+    "ExternalLinks": {
+      "Official Site — James Taylor": "https://www.jamestaylor.com/",
+      "AllMusic — James Taylor": "https://www.allmusic.com/artist/james-taylor-mn0000204386",
+      "Rock & Roll Hall of Fame — James Taylor": "https://rockhall.com/inductees/james-taylor/",
+      "Encyclopaedia Britannica — James Taylor": "https://www.britannica.com/biography/James-Taylor",
+      "GRAMMY.com — James Taylor": "https://www.grammy.com/artists/james-taylor/17476",
+      "Wikipedia — James Taylor": "https://en.wikipedia.org/wiki/James_Taylor"
+    },
     "CoreMembers": [
       {
         "Name": "James Taylor",
         "YearsActive": "1966–present",
-        "Roles": "Singer-songwriter; guitarist",
-        "Instruments": "Vocals; acoustic and electric guitar; harmonica",
-        "Albums": "James Taylor (1968); Sweet Baby James (1970); Mud Slide Slim and the Blue Horizon (1971); One Man Dog (1972); Gorilla (1975); In the Pocket (1976); JT (1977); That’s Why I’m Here (1985); New Moon Shine (1991); Hourglass (1997); October Road (2002); Before This World (2015); American Standard (2020)",
+        "Roles": "Singer-songwriter; guitarist; vocalist",
+        "Instruments": "Vocals; guitar; harmonica",
+        "Albums": [
+          "James Taylor (1968)",
+          "Sweet Baby James (1970)",
+          "Mud Slide Slim and the Blue Horizon (1971)",
+          "JT (1977)",
+          "Hourglass (1997)",
+          "October Road (2002)",
+          "Before This World (2015)"
+        ],
         "Bio": {
-          "Birth": {
-            "Date": "1948-03-12",
-            "Place": "Boston, Massachusetts, United States"
-          },
-          "Death": null,
+          "Birth": "March 12, 1948 — Boston, Massachusetts, U.S.",
+          "Death": "",
           "Nationality": "American",
-          "Roles": "Singer-songwriter; guitarist",
+          "Roles": "Singer-songwriter; guitarist; vocalist",
           "Instruments": "Vocals; guitar; harmonica",
-          "FullText": "James Vernon Taylor (born March 12, 1948, in Boston, Massachusetts) became one of the defining voices of the modern singer‑songwriter era by pairing a warm, steady tenor with intricate, thumb‑driven acoustic guitar work and songwriting that feels conversational yet precisely shaped. Raised largely in Chapel Hill, North Carolina, in a musically oriented family, he absorbed folk, gospel, and pop standards at home while learning how a simple chord progression can carry a story. That blend of technique and empathy became his signature: songs that feel personal without sounding performative, and guitar parts that are quietly athletic while never distracting from the lyric.\n\nTaylor spent much of his childhood in Chapel Hill, where his father held a senior role at the University of North Carolina’s medical school. He played music with his siblings and friends, and by adolescence he was writing songs and developing the right‑hand patterns that would later be copied by countless guitarists. Those years were also marked by personal difficulty—periods of instability, treatment, and early dependence that would shadow his first professional steps. Even then, his music showed two traits that never left: an arranger’s ear for what not to play, and a songwriter’s instinct for turning private feelings into scenes listeners could recognize.\n\nIn late 1967 Taylor moved to London, placing himself near the British studio system at a moment when the Beatles’ orbit was expanding into new ventures. Producer and A&R executive Peter Asher heard Taylor’s demos and signed him to Apple Records, making Taylor the first non‑British artist on the label. His self‑titled 1968 debut introduced his fluid guitar style and melancholy melodic sense, and it put him inside a remarkable creative environment that reinforced his belief in studio craft. The opportunity was real, but so were the personal struggles that made stability difficult at the start of his career.\n\nAfter returning to the United States, Taylor’s breakthrough arrived with Warner Bros. and the album Sweet Baby James (1970). The record crystallized his approach: folk‑rooted guitar patterns, understated arrangements, and lyrics that feel like a late‑night conversation rather than a performance. “Fire and Rain” became his defining early hit, marrying vivid lines to an unforced delivery that many listeners heard as a new kind of rock authenticity—emotionally direct but never melodramatic. Alongside songs like “Country Road” and “Sweet Baby James,” it established a persona fans came to trust: reflective, self‑aware, and committed to craft over spectacle.\n\nTaylor’s 1971 album Mud Slide Slim and the Blue Horizon expanded his audience and proved his interpretive gifts. His recording of Carole King’s “You’ve Got a Friend” reached No. 1 and earned him a Grammy for Best Male Pop Vocal Performance, showing that his voice could make another songwriter’s composition feel definitive. The record also reinforced how well Taylor worked inside a band setting: even when the arrangements are relaxed, the playing is interlocked and purposeful, with acoustic guitars, rhythm section, and backing voices supporting a lead that never forces the spotlight.\n\nThrough the 1970s, Taylor sustained an album‑oriented career that didn’t depend on chasing trends. Records such as One Man Dog (1972), Walking Man (1974), Gorilla (1975), In the Pocket (1976), and JT (1977) show him refining craft and widening his palette while keeping the same core virtues—clarity, groove, and melodic patience. He scored durable hits across this period, including his buoyant take on “How Sweet It Is (To Be Loved by You)” and radio staples like “Your Smiling Face,” balancing lighter pop instincts with a deeper catalog of narrative songs that reward repeat listens.\n\nHis public life often intersected with his music, especially during his marriage to singer‑songwriter Carly Simon and the years when his addiction and recovery were widely discussed. What set Taylor apart is that he rarely wrote in headline‑ready detail; instead, he translated pressure—fame, domestic friction, self‑doubt, the work of getting sober—into songs that feel like emotional weather. Even when the lyrics are ambiguous, the perspective is specific: a narrator who listens carefully, chooses words with care, and admits vulnerability without turning it into a pose.\n\nIn the 1980s and 1990s, Taylor evolved from scene‑defining star to enduring standard‑bearer, with albums like That’s Why I’m Here (1985) and New Moon Shine (1991) supporting a touring career built on consistency and intimacy. Live, his strengths became even clearer: a voice that communicates through phrasing more than volume, and guitar parts that demonstrate sophisticated technique while serving the song. Across decades of concerts, audiences came to value the same thing—music that invites participation without demanding it, built from melodies people can carry home and lyrics that often feel like quiet counsel.\n\nRecognition accumulated as his influence on popular songwriting became impossible to ignore. He was inducted into the Rock & Roll Hall of Fame in 2000 (introduced by Paul McCartney), a milestone that framed his work as foundational to rock history even though his music often lives at the border of folk, pop, and soft rock. His awards profile also reflects a long, steady relationship with the craft: multiple Grammy wins across different eras, including later‑career recognition that underscores how his interpretive voice remained strong long after his initial breakthrough.\n\nLate‑career projects showed Taylor still curious rather than complacent. In 2015 he released Before This World, which became his first No. 1 album on the Billboard 200—an unusually delayed chart peak that underscored the long arc of his audience and the durability of his songwriting voice. In 2020 he issued American Standard, interpreting classic songs from the American canon with restrained arrangements and an older singer’s sense of phrasing; the album won a Grammy for Best Traditional Pop Vocal Album. These releases highlighted continuity rather than reinvention: the same emphasis on tone, time, and emotional honesty, applied to new material and older standards alike.\n\nAcross more than five decades, James Taylor’s legacy rests on a rare combination of technical finesse and emotional directness. He helped define the singer‑songwriter movement of the 1970s, but he also outlasted it by treating songwriting as a craft and performance as a form of connection. Whether he is singing about home, loss, longing, or simple gratitude, his best work offers companionship—music that doesn’t demand attention so much as earn it, line by line, with warmth, precision, and a quietly unshakeable sense of humanity.",
+          "FullText": "James Vernon Taylor (born March 12, 1948) became one of the central voices of modern American songwriting by turning understated craft into emotional impact. Born in Boston, Massachusetts, and raised largely in Chapel Hill, North Carolina, he grew up in a family where music and education were taken seriously. That blend—discipline paired with sensitivity—shows up throughout his work: the songs sound effortless, but they are built on careful harmony, rhythmic restraint, and a guitarist's sense of melody.\n\nTaylor's early path wasn't a straight line toward the spotlight. As a teenager and young adult he was drawn to the folk and rock scenes that rewarded strong songs and a distinctive voice, but he also struggled with mental health and substance issues that would become part of his public story and, more importantly, part of his songwriting vocabulary. The tension between comfort and unease—between home as a place you miss and home as a place you can't quite return to—runs through his best-known work and helped listeners hear their own lives in his.\n\nIn the mid-to-late 1960s, Taylor began building a reputation as a songwriter and performer, moving through the same cultural currents that produced the era's most enduring folk-rock music. Seeking a fresh start and a bigger opportunity, he went to London and connected with Peter Asher, then working as A&R for the Beatles' new Apple Records. That connection proved pivotal: Taylor became the first non-British artist signed to Apple, and Asher produced Taylor's self-titled debut album. Recorded in London in 1968, the album introduced his intimate vocal delivery and a guitar style that could be both percussive and lullaby-soft. The record's commercial impact was limited at first, in part because Taylor was unable to promote it while dealing with treatment and recovery, but the songs and sound were already pointing toward the artist he would become.\n\nAfter leaving Apple, Taylor signed with Warner Bros. Records and made the record that transformed him from a promising writer into a defining figure: Sweet Baby James (1970). Produced by Asher and rooted in Taylor's warm acoustic tone, the album found a wide audience and placed him at the center of a new mainstream appetite for personal songwriting. \"Fire and Rain\" became the breakthrough single, and listeners responded to its directness—grief, regret, and the determination to keep going—delivered without theatrics. The album also showed Taylor's gift for making place feel like character; songs like \"Carolina in My Mind\" and the title track suggested a lifelong dialogue with memory, distance, and belonging.\n\nThrough the early 1970s Taylor built momentum with albums that expanded his palette while keeping the core of his approach: strong songs, clear storytelling, and a voice that invited trust. He was part of a broader California-centered scene, overlapping with artists and songwriters who shared musicians and studios, yet his work remained distinct. He could be quietly confessional without sounding self-absorbed, and he could be musically sophisticated without sounding showy. His phrasing—almost spoken at times—made the lyrics feel like a private conversation, even in arenas.\n\nA key turning point in Taylor's public profile came with his recording of Carole King's \"You've Got a Friend.\" Released in 1971, the performance paired his calm vocal tone with supportive arrangement and became one of his most beloved recordings. The song earned Taylor the GRAMMY Award for Best Pop Vocal Performance, Male, and it reinforced a crucial part of his artistic identity: even when he was singing someone else's words, he could inhabit them so fully they felt autobiographical. That interpretive skill also powered later signature recordings, including his hit version of Marvin Gaye's \"How Sweet It Is (To Be Loved by You),\" which brought his soft-rock sensibility to classic soul material.\n\nTaylor's career in the 1970s and beyond was defined as much by longevity as by peak moments. He continued to record steadily, tour relentlessly, and refine a live show built on musicianship and rapport rather than spectacle. Over time he became an archetype: the gentle, inward-looking singer-songwriter whose songs remain durable because they are specific, well-built, and emotionally honest. While trends shifted toward harder rock, disco, punk, and later pop reinventions, Taylor's audience followed him because the core promise of his music never changed—clarity, warmth, and craft.\n\nIn the 1990s and 2000s, Taylor experienced renewed critical and commercial attention with albums that proved his songwriting hadn't calcified into nostalgia. Hourglass (1997) was a major late-career highlight, earning him a GRAMMY for Best Pop Album and demonstrating that his voice and guitar remained expressive and contemporary. He continued to tour and record into the new century, balancing new releases with an ever-expanding catalog that had become woven into American popular culture.\n\nA dramatic milestone arrived in 2015 with Before This World, which became Taylor's first No. 1 album on the Billboard 200—more than 45 years after he first appeared on the chart. The achievement underscored both his staying power and the multi-generational reach of his music. By then, Taylor had long been recognized not only for hits, but for shaping the wider idea of what a mainstream singer-songwriter could be: intimate without being small, polished without losing sincerity.\n\nHonors followed the arc of that influence. He was inducted into the Rock & Roll Hall of Fame in 2000, acknowledging his role in expanding rock's emotional and stylistic range. In 2015, he received the Presidential Medal of Freedom, with remarks emphasizing how his songs have captured longing, love, loss, and renewal across generations. He was also celebrated as a Kennedy Center honoree in 2016. Taken together, those recognitions frame Taylor's career as more than a run of successful records: he helped define a language of American songwriting that still shapes how artists write, sing, and connect.",
+          "HonoursAndMilestones": [
+            {
+              "Title": "Rock & Roll Hall of Fame induction (Performer)",
+              "Year": 2000,
+              "Summary": "Inducted as a performer; inducted by Paul McCartney."
+            },
+            {
+              "Title": "Presidential Medal of Freedom",
+              "Year": 2015,
+              "Summary": "Received the United States' highest civilian honor."
+            },
+            {
+              "Title": "Kennedy Center Honors",
+              "Year": 2016,
+              "Summary": "Named a Kennedy Center honoree for lifetime artistic contribution."
+            },
+            {
+              "Title": "GRAMMY Award — Best Pop Vocal Performance, Male (\"You've Got a Friend\")",
+              "Year": 1972,
+              "Summary": "Won for his recording of Carole King's song."
+            },
+            {
+              "Title": "GRAMMY Award — Best Pop Album (Hourglass)",
+              "Year": 1998,
+              "Summary": "Won for Hourglass, a major late-career album."
+            }
+          ],
+          "FunFacts": [
+            "Taylor's debut studio album was released by Apple Records and produced by Peter Asher, connecting him to the Beatles' late-1960s London studio orbit.",
+            "Before This World became his first No. 1 album on the Billboard 200, more than four decades after his breakthrough."
+          ],
+          "Quotes": [
+            "\"You've got a friend.\"",
+            "\"I've seen fire and I've seen rain.\""
+          ],
           "Sources": [
             {
-              "Title": "James Taylor Songs, Albums, Reviews, Bio & More",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/james-taylor-mn0000204386"
+              "Title": "James Taylor",
+              "Publisher": "Rock & Roll Hall of Fame",
+              "Url": "https://rockhall.com/inductees/james-taylor/"
             },
             {
               "Title": "James Taylor | Biography, Songs, & Facts",
@@ -2238,23 +2414,28 @@
             },
             {
               "Title": "James Taylor",
-              "Publisher": "Rock & Roll Hall of Fame",
-              "Url": "https://rockhall.com/inductees/james-taylor/"
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/james-taylor-mn0000204386"
             },
             {
-              "Title": "Biography",
-              "Publisher": "JamesTaylor.com",
-              "Url": "https://www.jamestaylor.com/biography/"
+              "Title": "James Taylor | Artist",
+              "Publisher": "GRAMMY.com",
+              "Url": "https://www.grammy.com/artists/james-taylor/17476"
             },
             {
-              "Title": "Taylor, James",
-              "Publisher": "NCpedia",
-              "Url": "https://www.ncpedia.org/biography/taylor-james"
+              "Title": "Remarks by the President at Medal of Freedom Ceremony",
+              "Publisher": "Obama White House Archives",
+              "Url": "https://obamawhitehouse.archives.gov/the-press-office/2015/11/24/remarks-president-medal-freedom-ceremony"
             },
             {
               "Title": "James Taylor",
-              "Publisher": "Biography.com",
-              "Url": "https://www.biography.com/musicians/james-taylor"
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/James_Taylor"
+            },
+            {
+              "Title": "James Taylor Earns His First No. 1 Album on Billboard 200 With 'Before This World'",
+              "Publisher": "Billboard",
+              "Url": "https://www.billboard.com/pro/james-taylor-first-no-1-album-billboard-200/"
             }
           ]
         }
