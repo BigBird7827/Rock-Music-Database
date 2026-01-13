@@ -1885,8 +1885,426 @@
     {
       "ArtistID": "foreigner",
       "Name": "Foreigner",
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "Type": "Band",
+      "Origin": {
+        "City": "New York City",
+        "Region": "New York",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1976–present"
+      ],
+      "Genres": [
+        "Rock",
+        "Hard rock",
+        "Arena rock",
+        "Album rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Atlantic"
+      ],
+      "Overview": "Foreigner emerged in 1976 as a purpose-built arena‑rock band, assembled in New York City by English guitarist and songwriter Mick Jones after years of session work and touring in Britain and the U.S. From the beginning, the group’s identity was built around Jones’s crisp, hook‑driven songwriting and a transatlantic blend of players—British musicians (including multi‑instrumentalist Ian McDonald and drummer Dennis Elliott) paired with American vocalist Lou Gramm and other U.S. members. With manager Bud Prager helping to steer early industry connections, Foreigner signed to Atlantic and moved quickly from club rehearsals to radio. Their self‑titled debut album (released in March 1977) established the template: big choruses, tight riffs, glossy keyboards, and a pop instinct that kept the hard‑rock edge accessible. Early hits such as “Feels Like the First Time,” “Cold as Ice,” and “Long, Long Way from Home” made the band a staple of late‑’70s FM and set up an unusually consistent run of charting singles.\n\nAcross the next decade, Foreigner refined their sound without abandoning its core. Double Vision (1978) and Head Games (1979) leaned into speed and swagger, while 4 (1981)—recorded as the band streamlined to four members—paired meticulous studio craft with arena‑sized songwriting and became their commercial peak, spending a total of 10 weeks at No. 1 on the Billboard 200. Songs from that era (“Urgent,” “Waiting for a Girl Like You,” “Juke Box Hero”) became permanent fixtures on classic‑rock radio, illustrating the band’s signature balance: tough guitar tones and driving rhythms, but arranged with a pop producer’s sense of dynamics, vocal harmony, and memorable keyboard hooks.\n\nThe mid‑’80s brought another defining moment with Agent Provocateur (1984) and the worldwide No. 1 single “I Want to Know What Love Is,” a power ballad that broadened Foreigner’s audience beyond rock and into adult‑contemporary pop culture. Lineup changes followed—Gramm’s departures and returns, shifts in the rhythm section, and later eras fronted by singer Kelly Hansen—yet Jones remained the creative center and custodian of the catalog. Decades after their first run of hits, Foreigner’s songs have proven unusually durable in arenas, films, and radio rotation, culminating in their induction into the Rock & Roll Hall of Fame in 2024 (honoring the classic‑era members who defined the band’s most influential recordings).",
+      "NotableAlbums": [
+        "Foreigner (1977)",
+        "Double Vision (1978)",
+        "Head Games (1979)",
+        "4 (1981)",
+        "Agent Provocateur (1984)",
+        "Inside Information (1987)"
+      ],
+      "SignatureSongs": [
+        "Feels Like the First Time",
+        "Cold as Ice",
+        "Hot Blooded",
+        "Double Vision",
+        "Urgent",
+        "Waiting for a Girl Like You",
+        "Juke Box Hero",
+        "I Want to Know What Love Is"
+      ],
+      "Achievements": [
+        "Inducted into the Rock & Roll Hall of Fame (2024).",
+        "Album 4 reached No. 1 on the Billboard 200 and held the top spot for a total of 10 weeks.",
+        "“I Want to Know What Love Is” reached No. 1 on the U.S. Billboard Hot 100 and the U.K. singles chart.",
+        "Built a long-running catalog of arena-rock and radio staples across the late 1970s and 1980s, with multiple multi‑platinum releases."
+      ],
+      "KeyFacts": [
+        "Formed in New York City in 1976 by guitarist/songwriter Mick Jones, blending British and American members.",
+        "Signed to Atlantic Records and released the debut album Foreigner in March 1977, launching early hits including “Feels Like the First Time” and “Cold as Ice.”",
+        "4 (1981) marked the band’s commercial apex and a streamlined four‑member lineup.",
+        "Agent Provocateur (1984) produced “I Want to Know What Love Is,” Foreigner’s biggest global single.",
+        "Rock & Roll Hall of Fame induction in 2024 recognized the classic‑era lineup (Jones, Gramm, McDonald, Elliott, Greenwood, Gagliardi, Wills)."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.foreigneronline.com/",
+        "AllMusic": "https://www.allmusic.com/artist/foreigner-mn0000987621",
+        "Rock & Roll Hall of Fame": "https://rockhall.com/inductees/foreigner/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Foreigner_(band)"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Mick Jones",
+          "Roles": [
+            "guitarist",
+            "songwriter",
+            "producer",
+            "founder"
+          ],
+          "Years": "1976–present",
+          "Overview": "Founder and primary songwriter who defined Foreigner’s hook‑driven arena‑rock sound and served as the band’s long‑term creative director.",
+          "Bio": {
+            "BioID": "foreigner-mick-jones",
+            "ArtistID": "foreigner",
+            "ArtistName": "Foreigner",
+            "MemberName": "Mick Jones",
+            "FullName": "Michael Leslie Jones",
+            "Birth": {
+              "Date": "1944-12-27",
+              "City": "Portsmouth",
+              "Region": "Hampshire",
+              "Country": "England"
+            },
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter",
+              "Record producer"
+            ],
+            "Genres": [
+              "Rock",
+              "Hard rock",
+              "Arena rock",
+              "Album rock"
+            ],
+            "ActiveYears": "1960s–present",
+            "AssociatedActs": [
+              "Foreigner",
+              "Spooky Tooth",
+              "Leslie West Band"
+            ],
+            "KeyAlbums": [
+              "Foreigner (1977)",
+              "Double Vision (1978)",
+              "4 (1981)",
+              "Agent Provocateur (1984)"
+            ],
+            "KeySongs": [
+              "Cold as Ice",
+              "Juke Box Hero",
+              "I Want to Know What Love Is"
+            ],
+            "Achievements": [
+              "Founded and led Foreigner, serving as its primary songwriter and producer.",
+              "Winner of an Ivor Novello songwriter award (1998).",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Foreigner (2024)."
+            ],
+            "ExternalLinks": {
+              "Official Bio (Foreigner)": "https://www.foreigneronline.com/mick-jones",
+              "AllMusic": "https://www.allmusic.com/artist/mick-jones-mn0000407058",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Mick_Jones_(Foreigner_guitarist)"
+            },
+            "FullText": "Mick Jones (born December 27, 1944) is the English guitarist, songwriter, and producer who founded Foreigner and shaped its entire musical identity. Long before the band became a fixture of American radio, Jones built a practical musician’s résumé: he played in early British groups, worked as a hired gun, and learned how to make songs land with an audience night after night. That grounding matters because Foreigner was not conceived as a loose collective or a scene-driven band; it was engineered around Jones’s sense of structure—tight verses, explosive choruses, and riffs that lock into the groove like a machine—while leaving room for melody and emotional lift.\n\nBy the mid‑1970s Jones was working in the U.S. and writing constantly. When a prior touring situation dissolved in 1976, he stayed in New York and doubled down on the idea of forming his own group. Manager Bud Prager encouraged him to keep writing and to rehearse a band locally, and Jones began assembling players who could execute his songs with power and polish. That search produced the core partnership that would define Foreigner: Jones’s songs fronted by an American singer with a huge, gritty range—Lou Gramm—supported by musicians capable of both hard‑rock attack and pop discipline. Jones’s role was more than guitarist: he was arranger, studio strategist, and the person who could hear how a hook should be framed so it would survive on both FM rock and Top 40.\n\nThe band’s self‑titled debut (released in March 1977) was an early demonstration of Jones’s approach. Songs like “Feels Like the First Time” and “Cold as Ice” marry tough guitars to piano/keyboard hooks and compact pop songwriting. That balance became Foreigner’s signature: the band could hit hard, but the songs were designed to be sung—by the crowd, in the car, on the radio—without sacrificing rhythmic drive. As Foreigner grew, Jones increasingly acted as the architect of their sound in the studio, guiding performances and production choices toward clarity and impact.\n\nThe run from Double Vision (1978) through 4 (1981) shows Jones’s strengths at full scale. Foreigner refined a style that was arena‑ready yet radio‑precise, with tightly edited arrangements and a strong sense of dynamics. On 4—co‑produced with Robert John “Mutt” Lange—Jones helped steer an obsessive level of detail that paid off commercially and artistically: the album spent 10 weeks at No. 1 on the Billboard 200 and yielded songs that remain defining tracks of early‑’80s rock. “Urgent” and “Waiting for a Girl Like You” display his ability to fuse rock muscle with a pop producer’s ear for texture, and “Juke Box Hero” captures his gift for narrative songwriting that feels cinematic without getting melodramatic.\n\nJones’s writing also helped Foreigner pivot into their mid‑’80s peak without abandoning their core identity. Agent Provocateur (1984) produced “I Want to Know What Love Is,” a power ballad that expanded Foreigner’s audience around the world. The song’s emotional directness is a Jones hallmark: even when the arrangements grow larger, the composition remains sturdy—built on a progression and vocal line that can carry the weight of big production. That combination of craft and accessibility is why Foreigner’s catalog has endured across decades of format changes, from classic‑rock radio to streaming playlists.\n\nThrough lineup changes and shifting eras, Jones remained the constant—often the only continuous original member—maintaining the band’s standards and protecting its musical DNA. He has been credited as the primary creative force behind Foreigner’s biggest hits and as a producer/leader who understood the difference between heaviness and impact. In later years, the live band continued with new touring members while Jones’s role became more selective, but his imprint remained in the set lists and arrangements that audiences came to hear.\n\nForeigner’s Rock & Roll Hall of Fame induction in 2024 recognized the classic‑era lineup that brought Jones’s songs to mass audiences, but it also underscored a broader point: his work is a case study in how rock can be both muscular and meticulously written. Whether through the punch of a riff, the lift of a chorus, or the discipline of an arrangement, Mick Jones built Foreigner as a song‑first band—and that design is exactly what made it last.",
+            "Sources": [
+              {
+                "Title": "Mick Jones — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/mick-jones-mn0000407058"
+              },
+              {
+                "Title": "Mick Jones — Official Foreigner Bio",
+                "Publisher": "Foreigner",
+                "Url": "https://www.foreigneronline.com/mick-jones"
+              },
+              {
+                "Title": "Foreigner — Rock & Roll Hall of Fame Inductee Page",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/foreigner/"
+              },
+              {
+                "Title": "After years of finding the Rock & Roll Hall of Fame cold as ice, Foreigner now knows what love is",
+                "Publisher": "Associated Press",
+                "Url": "https://apnews.com/article/f94bf35191fd280b505bde1d4c1d05d4"
+              }
+            ],
+            "Biography": "Mick Jones (born December 27, 1944) is the English guitarist, songwriter, and producer who founded Foreigner and shaped its entire musical identity. Long before the band became a fixture of American radio, Jones built a practical musician’s résumé: he played in early British groups, worked as a hired gun, and learned how to make songs land with an audience night after night. That grounding matters because Foreigner was not conceived as a loose collective or a scene-driven band; it was engineered around Jones’s sense of structure—tight verses, explosive choruses, and riffs that lock into the groove like a machine—while leaving room for melody and emotional lift.\n\nBy the mid‑1970s Jones was working in the U.S. and writing constantly. When a prior touring situation dissolved in 1976, he stayed in New York and doubled down on the idea of forming his own group. Manager Bud Prager encouraged him to keep writing and to rehearse a band locally, and Jones began assembling players who could execute his songs with power and polish. That search produced the core partnership that would define Foreigner: Jones’s songs fronted by an American singer with a huge, gritty range—Lou Gramm—supported by musicians capable of both hard‑rock attack and pop discipline. Jones’s role was more than guitarist: he was arranger, studio strategist, and the person who could hear how a hook should be framed so it would survive on both FM rock and Top 40.\n\nThe band’s self‑titled debut (released in March 1977) was an early demonstration of Jones’s approach. Songs like “Feels Like the First Time” and “Cold as Ice” marry tough guitars to piano/keyboard hooks and compact pop songwriting. That balance became Foreigner’s signature: the band could hit hard, but the songs were designed to be sung—by the crowd, in the car, on the radio—without sacrificing rhythmic drive. As Foreigner grew, Jones increasingly acted as the architect of their sound in the studio, guiding performances and production choices toward clarity and impact.\n\nThe run from Double Vision (1978) through 4 (1981) shows Jones’s strengths at full scale. Foreigner refined a style that was arena‑ready yet radio‑precise, with tightly edited arrangements and a strong sense of dynamics. On 4—co‑produced with Robert John “Mutt” Lange—Jones helped steer an obsessive level of detail that paid off commercially and artistically: the album spent 10 weeks at No. 1 on the Billboard 200 and yielded songs that remain defining tracks of early‑’80s rock. “Urgent” and “Waiting for a Girl Like You” display his ability to fuse rock muscle with a pop producer’s ear for texture, and “Juke Box Hero” captures his gift for narrative songwriting that feels cinematic without getting melodramatic.\n\nJones’s writing also helped Foreigner pivot into their mid‑’80s peak without abandoning their core identity. Agent Provocateur (1984) produced “I Want to Know What Love Is,” a power ballad that expanded Foreigner’s audience around the world. The song’s emotional directness is a Jones hallmark: even when the arrangements grow larger, the composition remains sturdy—built on a progression and vocal line that can carry the weight of big production. That combination of craft and accessibility is why Foreigner’s catalog has endured across decades of format changes, from classic‑rock radio to streaming playlists.\n\nThrough lineup changes and shifting eras, Jones remained the constant—often the only continuous original member—maintaining the band’s standards and protecting its musical DNA. He has been credited as the primary creative force behind Foreigner’s biggest hits and as a producer/leader who understood the difference between heaviness and impact. In later years, the live band continued with new touring members while Jones’s role became more selective, but his imprint remained in the set lists and arrangements that audiences came to hear.\n\nForeigner’s Rock & Roll Hall of Fame induction in 2024 recognized the classic‑era lineup that brought Jones’s songs to mass audiences, but it also underscored a broader point: his work is a case study in how rock can be both muscular and meticulously written. Whether through the punch of a riff, the lift of a chorus, or the discipline of an arrangement, Mick Jones built Foreigner as a song‑first band—and that design is exactly what made it last."
+          }
+        },
+        {
+          "Name": "Lou Gramm",
+          "Roles": [
+            "lead vocalist",
+            "co-founder",
+            "songwriter"
+          ],
+          "Years": "1976–1990; 1992–2003 (classic era)",
+          "Overview": "Classic‑era lead singer whose powerful, gritty tenor made Foreigner’s radio hits instantly recognizable and helped broaden the band’s reach from rock to pop.",
+          "Bio": {
+            "BioID": "foreigner-lou-gramm",
+            "ArtistID": "foreigner",
+            "ArtistName": "Foreigner",
+            "MemberName": "Lou Gramm",
+            "FullName": "Louis Andrew Grammatico",
+            "Birth": {
+              "Date": "1950-05-02",
+              "City": "Rochester",
+              "Region": "New York",
+              "Country": "United States"
+            },
+            "PrimaryInstruments": [
+              "Vocals"
+            ],
+            "Occupations": [
+              "Singer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Hard rock",
+              "Arena rock"
+            ],
+            "ActiveYears": "1970s–present",
+            "AssociatedActs": [
+              "Foreigner",
+              "Black Sheep"
+            ],
+            "KeyAlbums": [
+              "Foreigner (1977)",
+              "Double Vision (1978)",
+              "4 (1981)",
+              "Agent Provocateur (1984)"
+            ],
+            "KeySongs": [
+              "Feels Like the First Time",
+              "Hot Blooded",
+              "Urgent",
+              "Waiting for a Girl Like You"
+            ],
+            "Achievements": [
+              "Co‑founder and iconic voice of Foreigner’s classic era.",
+              "Maintained a successful solo career alongside band work, including the hit single “Midnight Blue.”",
+              "Inducted into the Rock & Roll Hall of Fame as a member of Foreigner (2024)."
+            ],
+            "ExternalLinks": {
+              "AllMusic": "https://www.allmusic.com/artist/lou-gramm-mn0000808304",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Lou_Gramm",
+              "Rock & Roll Hall of Fame (Foreigner)": "https://rockhall.com/inductees/foreigner/"
+            },
+            "FullText": "Lou Gramm (born May 2, 1950) is the American singer whose voice helped turn Foreigner’s songwriting into a run of defining late‑’70s and ’80s radio records. Raised in Rochester, New York, Gramm developed a powerful, raspy tenor rooted in rock and soul, with a phrasing style that could sound tough, urgent, or vulnerable depending on the song. Before Foreigner, he led the hard‑rock band Black Sheep, gaining professional experience and a reputation as a frontman who could deliver both high notes and grit—exactly the combination Foreigner needed.\n\nWhen guitarist Mick Jones began assembling a new band in New York in 1976, Gramm became the crucial final ingredient. Jones’s songs had riffs and hooks, but Gramm supplied personality: the conversational bite in “Cold as Ice,” the swagger in “Hot Blooded,” the breathless excitement of “Feels Like the First Time.” His voice also gave Foreigner flexibility. In an era when rock bands often had to choose between hard edge and pop accessibility, Gramm could do both. He could belt with arena‑rock force, but he could also lean into softer dynamics and make a ballad sound emotionally direct rather than theatrical.\n\nOn the debut album Foreigner (1977), Gramm’s vocals made radio singles feel inevitable, and the band’s quick success cemented his role as one of the era’s most recognizable rock singers. As Foreigner moved through Double Vision (1978) and Head Games (1979), Gramm remained the band’s sonic signature: a voice that cut through dense guitars and bright keyboards without losing warmth. That balance mattered because Foreigner’s arrangements were increasingly polished; Gramm’s tone kept the records feeling physical and human.\n\nThe band’s commercial apex came with 4 (1981), recorded as Foreigner reduced to a four‑member lineup. Gramm’s performances on that album capture his full range: the urgent drive of “Urgent,” the storytelling lift of “Juke Box Hero,” and the sustained emotional control required for “Waiting for a Girl Like You,” a ballad that famously spent an extended stretch at No. 2 on the Billboard Hot 100. Those tracks show why Gramm was more than a hired vocalist; he helped define how Foreigner’s songs should feel, not just how they should sound.\n\nForeigner’s mid‑’80s period highlighted another side of Gramm’s strengths: the ability to deliver big, polished pop‑rock without losing credibility. Agent Provocateur (1984) produced “I Want to Know What Love Is,” Foreigner’s biggest worldwide single. Although Mick Jones wrote the song, Gramm’s performance—clear, open, and emotionally straightforward—helped it resonate beyond rock audiences, pushing it to No. 1 on the U.S. Hot 100 and the U.K. singles chart. It’s a reminder that vocal interpretation can be the difference between a well‑written song and a cultural touchstone.\n\nGramm also built a notable solo profile while remaining associated with Foreigner. In the 1980s he released solo work that included the hit single “Midnight Blue,” proving he could carry a record on his own name while retaining the hard‑rock identity fans expected. His career, however, was also shaped by the realities of long‑term touring and band politics; he had periods away from Foreigner and later returned, reflecting both personal tension and the durable bond of a shared catalog.\n\nOver time, Gramm’s legacy has become inseparable from Foreigner’s: when audiences think of the band’s classic songs, they hear his vocal tone immediately. That imprint was formalized when Foreigner’s classic‑era members were inducted into the Rock & Roll Hall of Fame in 2024. Whether delivering the clipped attitude of the early singles, the melodic drive of the early‑’80s hits, or the open‑hearted sincerity of their biggest ballad, Lou Gramm provided the voice that made Foreigner’s songwriting feel lived‑in and real—and that is why those songs still connect decades later.",
+            "Sources": [
+              {
+                "Title": "Lou Gramm — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/lou-gramm-mn0000808304"
+              },
+              {
+                "Title": "Black Sheep — Biography (Lou Gramm before Foreigner)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/black-sheep-mn0001022892"
+              },
+              {
+                "Title": "Foreigner — Rock & Roll Hall of Fame Inductee Page",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/foreigner/"
+              },
+              {
+                "Title": "Lou Gramm of Foreigner Has Let Go of Issues with Band and Is Rejoining Them on Tour",
+                "Publisher": "People",
+                "Url": "https://people.com/lou-gramm-of-foreigner-has-let-go-of-issues-with-band-and-is-rejoining-them-on-tour-11712633"
+              }
+            ],
+            "Biography": "Lou Gramm (born May 2, 1950) is the American singer whose voice helped turn Foreigner’s songwriting into a run of defining late‑’70s and ’80s radio records. Raised in Rochester, New York, Gramm developed a powerful, raspy tenor rooted in rock and soul, with a phrasing style that could sound tough, urgent, or vulnerable depending on the song. Before Foreigner, he led the hard‑rock band Black Sheep, gaining professional experience and a reputation as a frontman who could deliver both high notes and grit—exactly the combination Foreigner needed.\n\nWhen guitarist Mick Jones began assembling a new band in New York in 1976, Gramm became the crucial final ingredient. Jones’s songs had riffs and hooks, but Gramm supplied personality: the conversational bite in “Cold as Ice,” the swagger in “Hot Blooded,” the breathless excitement of “Feels Like the First Time.” His voice also gave Foreigner flexibility. In an era when rock bands often had to choose between hard edge and pop accessibility, Gramm could do both. He could belt with arena‑rock force, but he could also lean into softer dynamics and make a ballad sound emotionally direct rather than theatrical.\n\nOn the debut album Foreigner (1977), Gramm’s vocals made radio singles feel inevitable, and the band’s quick success cemented his role as one of the era’s most recognizable rock singers. As Foreigner moved through Double Vision (1978) and Head Games (1979), Gramm remained the band’s sonic signature: a voice that cut through dense guitars and bright keyboards without losing warmth. That balance mattered because Foreigner’s arrangements were increasingly polished; Gramm’s tone kept the records feeling physical and human.\n\nThe band’s commercial apex came with 4 (1981), recorded as Foreigner reduced to a four‑member lineup. Gramm’s performances on that album capture his full range: the urgent drive of “Urgent,” the storytelling lift of “Juke Box Hero,” and the sustained emotional control required for “Waiting for a Girl Like You,” a ballad that famously spent an extended stretch at No. 2 on the Billboard Hot 100. Those tracks show why Gramm was more than a hired vocalist; he helped define how Foreigner’s songs should feel, not just how they should sound.\n\nForeigner’s mid‑’80s period highlighted another side of Gramm’s strengths: the ability to deliver big, polished pop‑rock without losing credibility. Agent Provocateur (1984) produced “I Want to Know What Love Is,” Foreigner’s biggest worldwide single. Although Mick Jones wrote the song, Gramm’s performance—clear, open, and emotionally straightforward—helped it resonate beyond rock audiences, pushing it to No. 1 on the U.S. Hot 100 and the U.K. singles chart. It’s a reminder that vocal interpretation can be the difference between a well‑written song and a cultural touchstone.\n\nGramm also built a notable solo profile while remaining associated with Foreigner. In the 1980s he released solo work that included the hit single “Midnight Blue,” proving he could carry a record on his own name while retaining the hard‑rock identity fans expected. His career, however, was also shaped by the realities of long‑term touring and band politics; he had periods away from Foreigner and later returned, reflecting both personal tension and the durable bond of a shared catalog.\n\nOver time, Gramm’s legacy has become inseparable from Foreigner’s: when audiences think of the band’s classic songs, they hear his vocal tone immediately. That imprint was formalized when Foreigner’s classic‑era members were inducted into the Rock & Roll Hall of Fame in 2024. Whether delivering the clipped attitude of the early singles, the melodic drive of the early‑’80s hits, or the open‑hearted sincerity of their biggest ballad, Lou Gramm provided the voice that made Foreigner’s songwriting feel lived‑in and real—and that is why those songs still connect decades later."
+          }
+        },
+        {
+          "Name": "Ian McDonald",
+          "Roles": [
+            "keyboards",
+            "woodwinds",
+            "songwriter",
+            "co-founder"
+          ],
+          "Years": "1976–1980 (classic era)",
+          "Overview": "Co‑founder and multi‑instrumentalist whose keyboards and woodwinds added texture and arranging depth to Foreigner’s earliest recordings.",
+          "Bio": {
+            "BioID": "foreigner-ian-mcdonald",
+            "ArtistID": "foreigner",
+            "ArtistName": "Foreigner",
+            "MemberName": "Ian McDonald",
+            "FullName": "Ian Richard McDonald",
+            "Birth": {
+              "Date": "1946-06-25",
+              "City": "London",
+              "Region": "England",
+              "Country": "United Kingdom"
+            },
+            "Death": {
+              "Date": "2022-02-09",
+              "City": "New York City",
+              "Region": "New York",
+              "Country": "United States"
+            },
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Saxophone",
+              "Flute"
+            ],
+            "Occupations": [
+              "Musician",
+              "Composer",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Rock",
+              "Progressive rock",
+              "Hard rock"
+            ],
+            "ActiveYears": "1960s–2022",
+            "AssociatedActs": [
+              "Foreigner",
+              "King Crimson"
+            ],
+            "KeyAlbums": [
+              "Foreigner (1977)",
+              "Double Vision (1978)",
+              "Head Games (1979)"
+            ],
+            "KeySongs": [
+              "Feels Like the First Time",
+              "Cold as Ice",
+              "Double Vision"
+            ],
+            "Achievements": [
+              "Co‑founded King Crimson and Foreigner, contributing to two major chapters of rock history.",
+              "Inducted posthumously into the Rock & Roll Hall of Fame as a member of Foreigner (2024)."
+            ],
+            "ExternalLinks": {
+              "AllMusic": "https://www.allmusic.com/artist/ian-mcdonald-mn0000769171",
+              "Rolling Stone obituary": "https://www.rollingstone.com/music/music-news/ian-mcdonald-king-crimson-dead-obit-1298588/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ian_McDonald_(musician)"
+            },
+            "FullText": "Ian McDonald (June 25, 1946 – February 9, 2022) was an English multi‑instrumentalist and songwriter whose career bridged progressive rock’s experimental edge and arena rock’s mass appeal. He is best known as a co‑founder of two influential bands in different eras: King Crimson (late 1960s) and Foreigner (mid‑1970s). McDonald’s musicianship was unusually broad—woodwinds, keyboards, guitar, and arranging—and that breadth helped him contribute not only parts, but textures and structural ideas that shaped records from the inside.\n\nMcDonald’s early reputation was built through King Crimson, where his playing and arranging were central to the band’s landmark debut In the Court of the Crimson King (1969). His approach combined classical awareness (harmony, voicing, dynamics) with rock energy, making him a natural architect of atmospheric layers and melodic counterlines. That sensibility later became valuable in a very different setting: the tightly engineered rock songs Mick Jones was writing in New York during the mid‑1970s.\n\nIn the mid‑1970s McDonald relocated to New York City, and in 1976 he joined Jones in forming Foreigner. While Foreigner is often remembered primarily for its singer‑guitarist pairing (Lou Gramm up front, Jones as songwriter and leader), McDonald’s contribution was crucial in the band’s formative recordings. His keyboards and woodwinds gave early tracks a distinctive sheen, and his arranging instincts helped Foreigner sound bigger than a simple guitar band. On the debut album Foreigner (1977) and its follow‑ups, he helped shape the band’s blend of hard‑rock punch and melodic, radio‑friendly production.\n\nMcDonald remained part of Foreigner through the band’s first three albums, a period that established many of their enduring staples and turned them into a major touring act. In those years he functioned as a musical “colorist,” adding saxophone lines, keyboard parts, and harmonic detail that supported Gramm’s vocals and strengthened Jones’s hooks. His presence also underscored Foreigner’s unusual DNA: it was a classic‑rock band with pop discipline, but it was also informed by musicians who had come through experimental and progressive contexts.\n\nAfter leaving Foreigner, McDonald continued working across scenes—performing, recording, and collaborating with other artists, including projects connected to King Crimson’s extended musical family. He remained respected as the rare player who could move between roles: a band founder, a touring musician, an arranger, and a session‑level contributor. Even when his name was not in the spotlight, his musical fingerprints were present in the layered soundscapes and instrumental voicings that distinguished the records he touched.\n\nMcDonald died in 2022 at the age of 75, leaving behind a career that linked two major chapters of rock history. When Foreigner was inducted into the Rock & Roll Hall of Fame in 2024, McDonald was recognized posthumously as part of the classic‑era lineup honored for the band’s defining run. That recognition fits his legacy: Ian McDonald was the kind of musician whose influence is felt in the shape of the music itself—how it breathes, how it’s colored, and how it holds together—whether in the progressive grandeur of King Crimson or the radio‑built precision of Foreigner.",
+            "Sources": [
+              {
+                "Title": "Ian McDonald — Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/ian-mcdonald-mn0000769171"
+              },
+              {
+                "Title": "Ian McDonald, King Crimson and Foreigner Co-Founder, Dead at 75",
+                "Publisher": "Rolling Stone",
+                "Url": "https://www.rollingstone.com/music/music-news/ian-mcdonald-king-crimson-dead-obit-1298588/"
+              },
+              {
+                "Title": "Foreigner — Rock & Roll Hall of Fame Inductee Page",
+                "Publisher": "Rock & Roll Hall of Fame",
+                "Url": "https://rockhall.com/inductees/foreigner/"
+              },
+              {
+                "Title": "Ian McDonald (1946–2022) — Death announcement and tribute",
+                "Publisher": "DGM Live",
+                "Url": "https://www.dgmlive.com/news/ian-mcdonald-1946-2022"
+              }
+            ],
+            "Biography": "Ian McDonald (June 25, 1946 – February 9, 2022) was an English multi‑instrumentalist and songwriter whose career bridged progressive rock’s experimental edge and arena rock’s mass appeal. He is best known as a co‑founder of two influential bands in different eras: King Crimson (late 1960s) and Foreigner (mid‑1970s). McDonald’s musicianship was unusually broad—woodwinds, keyboards, guitar, and arranging—and that breadth helped him contribute not only parts, but textures and structural ideas that shaped records from the inside.\n\nMcDonald’s early reputation was built through King Crimson, where his playing and arranging were central to the band’s landmark debut In the Court of the Crimson King (1969). His approach combined classical awareness (harmony, voicing, dynamics) with rock energy, making him a natural architect of atmospheric layers and melodic counterlines. That sensibility later became valuable in a very different setting: the tightly engineered rock songs Mick Jones was writing in New York during the mid‑1970s.\n\nIn the mid‑1970s McDonald relocated to New York City, and in 1976 he joined Jones in forming Foreigner. While Foreigner is often remembered primarily for its singer‑guitarist pairing (Lou Gramm up front, Jones as songwriter and leader), McDonald’s contribution was crucial in the band’s formative recordings. His keyboards and woodwinds gave early tracks a distinctive sheen, and his arranging instincts helped Foreigner sound bigger than a simple guitar band. On the debut album Foreigner (1977) and its follow‑ups, he helped shape the band’s blend of hard‑rock punch and melodic, radio‑friendly production.\n\nMcDonald remained part of Foreigner through the band’s first three albums, a period that established many of their enduring staples and turned them into a major touring act. In those years he functioned as a musical “colorist,” adding saxophone lines, keyboard parts, and harmonic detail that supported Gramm’s vocals and strengthened Jones’s hooks. His presence also underscored Foreigner’s unusual DNA: it was a classic‑rock band with pop discipline, but it was also informed by musicians who had come through experimental and progressive contexts.\n\nAfter leaving Foreigner, McDonald continued working across scenes—performing, recording, and collaborating with other artists, including projects connected to King Crimson’s extended musical family. He remained respected as the rare player who could move between roles: a band founder, a touring musician, an arranger, and a session‑level contributor. Even when his name was not in the spotlight, his musical fingerprints were present in the layered soundscapes and instrumental voicings that distinguished the records he touched.\n\nMcDonald died in 2022 at the age of 75, leaving behind a career that linked two major chapters of rock history. When Foreigner was inducted into the Rock & Roll Hall of Fame in 2024, McDonald was recognized posthumously as part of the classic‑era lineup honored for the band’s defining run. That recognition fits his legacy: Ian McDonald was the kind of musician whose influence is felt in the shape of the music itself—how it breathes, how it’s colored, and how it holds together—whether in the progressive grandeur of King Crimson or the radio‑built precision of Foreigner."
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Al Greenwood",
+          "Roles": [
+            "keyboards"
+          ],
+          "Years": "1976–1980",
+          "Instruments": [
+            "Keyboards"
+          ],
+          "Albums": [
+            "Foreigner (1977)",
+            "Double Vision (1978)",
+            "Head Games (1979)"
+          ],
+          "Replacing": "Original lineup (keyboardist)",
+          "ReplacedBy": "Later touring/studio keyboard personnel",
+          "Overview": "Original keyboardist in the classic era, contributing to the band’s first three albums and early stage sound."
+        },
+        {
+          "Name": "Dennis Elliott",
+          "Roles": [
+            "drums"
+          ],
+          "Years": "1976–1993",
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            "Foreigner (1977)",
+            "Double Vision (1978)",
+            "Head Games (1979)",
+            "4 (1981)",
+            "Agent Provocateur (1984)",
+            "Inside Information (1987)"
+          ],
+          "Replacing": "Original lineup (drummer)",
+          "ReplacedBy": "Various later drummers",
+          "Overview": "Classic‑era drummer whose steady, driving feel anchored the band through their peak run from the late 1970s into the late 1980s."
+        },
+        {
+          "Name": "Ed Gagliardi",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1976–1979",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "Foreigner (1977)",
+            "Double Vision (1978)",
+            "Head Games (1979)"
+          ],
+          "Replacing": "Original lineup (bassist)",
+          "ReplacedBy": "Rick Wills",
+          "Overview": "Original bassist during the formative years and first albums; later replaced as the band consolidated its classic‑era lineup."
+        },
+        {
+          "Name": "Rick Wills",
+          "Roles": [
+            "bass"
+          ],
+          "Years": "1979–1992",
+          "Instruments": [
+            "Bass"
+          ],
+          "Albums": [
+            "4 (1981)",
+            "Agent Provocateur (1984)",
+            "Inside Information (1987)"
+          ],
+          "Replacing": "Ed Gagliardi",
+          "ReplacedBy": "Later bassists/touring lineups",
+          "Overview": "Joined in 1979 and became part of the streamlined early‑’80s lineup responsible for Foreigner’s biggest‑selling album and signature singles."
+        },
+        {
+          "Name": "Kelly Hansen",
+          "Roles": [
+            "lead vocals"
+          ],
+          "Years": "2005–present (touring era)",
+          "Instruments": [
+            "Vocals"
+          ],
+          "Albums": [
+            "Can’t Slow Down (2009)"
+          ],
+          "Replacing": "Lou Gramm (classic‑era lead singer)",
+          "ReplacedBy": "",
+          "Overview": "Joined in the 2000s and helped keep Foreigner’s catalog active on major tours, fronting live performances for a new generation of audiences."
+        }
+      ]
     },
     {
       "ArtistID": "the-four-seasons",
