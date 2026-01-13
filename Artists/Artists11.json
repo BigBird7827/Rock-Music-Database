@@ -1115,27 +1115,507 @@
     {
       "ArtistID": "manfred-manns-earth-band",
       "Name": "Manfred Mann’s Earth Band",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "London",
+        "Region": "England",
+        "Country": "United Kingdom"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1971–1987",
+        "1991–present"
+      ],
+      "Genres": [
+        "Progressive rock",
+        "Hard rock",
+        "Art rock"
+      ],
+      "Labels": [
+        "Polydor",
+        "Bronze",
+        "Warner Bros.",
+        "Arista",
+        "Virgin"
+      ],
+      "Overview": "Manfred Mann's Earth Band is an English progressive rock group formed in London in 1971 by South African-born keyboardist and bandleader Manfred Mann (Manfred Sepse Lubowitz). After the 1960s hitmaking run of Manfred Mann and the jazz-rock experiment Manfred Mann Chapter Three, Mann rebuilt around a heavier, more cinematic live sound: a pounding rhythm section, guitar-driven rock, and a front-and-center layer of organ and Moog synthesizer textures. From the start, the band treated arrangement as a compositional tool, reworking songs rather than simply covering them, and blending blues-rock grit with progressive structures. Early lineups centered on Mann alongside guitarist and vocalist Mick Rogers, and the group quickly developed a reputation as a powerful concert act capable of stretching studio material into long, dynamic performances.\n\nThe early-to-mid 1970s albums established the Earth Band's signature blend of muscular prog-rock and hook-forward songwriting. Records such as Solar Fire (1973) and The Good Earth (1974) paired Mann's swirling keyboards with long-form builds while keeping a tight groove at the core. The band also embraced classical and thematic adaptation, most famously turning the 'Jupiter' theme from Gustav Holst's The Planets into the single 'Joybringer' (1973). Their global breakthrough arrived with The Roaring Silence (1976) and the single 'Blinded by the Light,' a radical remake of Bruce Springsteen's song that reached No. 1 on the U.S. Billboard Hot 100 in February 1977. Alongside other Springsteen covers like 'Spirit in the Night' and 'For You,' the hit showcased the group's defining strength: taking strong material and reshaping it through Mann's keyboard-led arrangements and the band's hard-edged rock drive.\n\nLineups changed repeatedly over the decades, but Mann remained the constant, steering each iteration toward the same priorities: groove, melody, and adventurous arrangement. Late-1970s and early-1980s releases such as Watch (1978), Angel Station (1979), and Chance (1980) kept the group active on record and on the road, while the Earth Band developed a particularly strong live and chart presence in parts of Europe. After a late-1980s hiatus, Manfred Mann's Earth Band was revived in 1991 and has continued as a touring band into the 21st century. Across eras, the Earth Band's identity has stayed consistent: a progressive rock vocabulary grounded in a working rock band, and a bandleader's ear for transforming songs into something unmistakably their own.",
+      "NotableAlbums": [
+        {
+          "Title": "Solar Fire",
+          "Year": 1973,
+          "Details": "Breakthrough-era studio album blending heavy rock grooves with extended progressive arrangements."
+        },
+        {
+          "Title": "The Good Earth",
+          "Year": 1974,
+          "Details": "Conceptual, synth-and-organ-driven record that solidified the band’s keyboard-led progressive rock identity."
+        },
+        {
+          "Title": "The Roaring Silence",
+          "Year": 1976,
+          "Details": "International breakthrough album featuring the U.S. No. 1 hit single 'Blinded by the Light'."
+        },
+        {
+          "Title": "Watch",
+          "Year": 1978,
+          "Details": "Late-1970s fan favorite combining hard rock attack with atmospheric keyboards and reimagined material."
+        },
+        {
+          "Title": "Angel Station",
+          "Year": 1979,
+          "Details": "Concert-focused, rhythmic album that captured the band’s tight live energy in studio form."
+        },
+        {
+          "Title": "Chance",
+          "Year": 1980,
+          "Details": "Early-1980s release continuing the band’s blend of melodic hooks and progressive textures."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Blinded by the Light",
+          "Year": 1976,
+          "Details": "Bruce Springsteen cover reworked into a synth-driven rock epic; reached No. 1 on the U.S. Billboard Hot 100 in 1977."
+        },
+        {
+          "Title": "Joybringer",
+          "Year": 1973,
+          "Details": "Rock adaptation of the 'Jupiter' theme from Holst’s The Planets; a defining early hit in the band’s catalog."
+        },
+        {
+          "Title": "Spirit in the Night",
+          "Year": 1977,
+          "Details": "Springsteen cover that became a major live staple and helped define the Earth Band’s arrangement-first approach."
+        },
+        {
+          "Title": "For You",
+          "Year": 1977,
+          "Details": "Springsteen cover turned into a dramatic, keyboard-led rock single and enduring concert highlight."
+        },
+        {
+          "Title": "Davy's on the Road Again",
+          "Year": 1978,
+          "Details": "High-energy live-driven track that became one of the band’s best-known songs, especially in Europe."
+        },
+        {
+          "Title": "Runner",
+          "Year": 1984,
+          "Details": "Mid-1980s single showcasing the band’s arena-rock edge within their progressive framework."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "U.S. No. 1 single: 'Blinded by the Light'",
+          "Year": 1977,
+          "Summary": "Their reworked cover reached No. 1 on the U.S. Billboard Hot 100, becoming the band’s biggest chart hit."
+        },
+        {
+          "Title": "Long-running touring career",
+          "Year": 1991,
+          "Summary": "After reviving in 1991, the band has maintained decades of touring, keeping a large catalog in active live rotation."
+        },
+        {
+          "Title": "Enduring rock-classical crossover: 'Joybringer'",
+          "Year": 1973,
+          "Summary": "A successful rock adaptation of Holst’s 'Jupiter' theme that became one of the band’s signature early hits."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in London in 1971 by keyboardist and bandleader Manfred Mann.",
+        "Known for arrangement-driven progressive rock that blends hard rock groove with prominent keyboards and synths.",
+        "Achieved a U.S. No. 1 with 'Blinded by the Light' (released 1976; topped the Billboard Hot 100 in 1977).",
+        "Frequently reimagined outside material, including multiple Bruce Springsteen songs, as a defining part of their identity.",
+        "Experienced frequent lineup changes, with Manfred Mann as the constant core member.",
+        "Hiatus late 1980s; revived in 1991 and continued as a touring band into the 21st century.",
+        "Notable studio albums span the 1970s and early 1980s, with strong emphasis on live performance."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.manfredmann.co.uk/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band",
+        "AllMusic": "https://www.allmusic.com/artist/manfred-manns-earth-band-mn0000581834",
+        "Discography": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band_discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Manfred Mann",
+          "Roles": "Bandleader, keyboards, arranger",
+          "Instruments": "Keyboards, organ, synthesizers",
+          "YearsActive": "1971–present",
+          "Albums": [
+            {
+              "Title": "Solar Fire",
+              "Year": 1973
+            },
+            {
+              "Title": "The Good Earth",
+              "Year": 1974
+            },
+            {
+              "Title": "The Roaring Silence",
+              "Year": 1976
+            },
+            {
+              "Title": "Watch",
+              "Year": 1978
+            },
+            {
+              "Title": "Angel Station",
+              "Year": 1979
+            },
+            {
+              "Title": "Chance",
+              "Year": 1980
+            }
+          ],
+          "Bio": {
+            "ArtistID": "manfred-manns-earth-band",
+            "BioID": "manfred-manns-earth-band-manfred-mann",
+            "FullName": "Manfred Sepse Lubowitz",
+            "Birth": {
+              "Date": "October 21, 1940",
+              "Place": "Johannesburg, South Africa"
+            },
+            "Nationality": "South African",
+            "Roles": [
+              "Keyboardist",
+              "Bandleader",
+              "Arranger",
+              "Composer"
+            ],
+            "Instruments": [
+              "Piano",
+              "Organ",
+              "Synthesizers"
+            ],
+            "FullText": "Manfred Mann (born Manfred Sepse Lubowitz on October 21, 1940, in Johannesburg, South Africa) is a keyboardist, composer, arranger, and bandleader whose career has stretched from the British beat boom through jazz-rock experimentation and into decades of progressive rock touring. Although his name became synonymous with pop chart success in the 1960s, his most durable signature has been as an arranger: taking strong raw material—his own or someone else’s—and reshaping it with distinctive harmony, texture, and dramatic pacing.\n\nIn South Africa, Mann developed early as a pianist with a strong interest in jazz. He relocated to the United Kingdom in 1961, joining a London music scene where American R&B and modern jazz were feeding a new kind of beat-group energy. Before his bands became fixtures on radio, he worked across the ecosystem that surrounded the clubs: writing about music, playing with working groups, and honing a keyboard style that could shift from blues to pop to extended instrumental passages without losing momentum.\n\nMann’s first major public success came as a founding member of the 1960s group Manfred Mann. The band built a reputation for tight musicianship and a repertoire rooted in rhythm-and-blues, then became a hitmaking act in the U.K. and U.S. Their catalog mixed original songs with smartly chosen covers, and even at the height of chart fame Mann was pushing for arrangements that sounded larger than a standard beat-group recording—organ figures that functioned like orchestration, and rhythmic details that gave pop singles extra swing and bite.\n\nAs the decade turned, Mann grew restless with the limitations of a straightforward pop format and moved toward more open-ended forms. That curiosity produced Manfred Mann Chapter Three, a jazz-rock project that incorporated brass and more expansive writing. While it did not match the pop band’s commercial peak, it clarified the direction Mann would pursue long-term: building ensembles that could play with the dynamics of a rock band while thinking like arrangers and improvisers.\n\nIn 1971 he launched Manfred Mann’s Earth Band, the project most closely associated with his later career. The Earth Band was designed as a heavy touring unit with a deep rhythmic pocket and the sonic range to be both hard-edged and atmospheric. Mann’s keyboards—Hammond organ, synthesizers, and later a wider palette of electronic textures—became the band’s calling card, but the concept relied on the whole group: guitars that could grind and soar, drums that drove the music with physical force, and bass lines that stayed melodic even when the arrangements became intricate.\n\nMann’s approach with the Earth Band emphasized transformation over faithful reproduction. He became especially known for reimagining outside material, including multiple songs by Bruce Springsteen. The best-known example is “Blinded by the Light,” which the Earth Band turned into a dramatic, synthesizer-rich rock single that reached No. 1 on the U.S. Billboard Hot 100 in 1977. Similar methods shaped their versions of “Spirit in the Night” and “For You”: the core songwriting remains intact, but Mann’s chord choices, rhythmic emphasis, and textural layering shift the emotional weight and the way the story lands.\n\nAcross the Earth Band’s long timeline—through lineup changes, a late-1980s hiatus, and a revival in the early 1990s—Mann has remained the central decision-maker. Fans often describe the group as a “live band” first, and that reputation tracks to Mann’s priorities: arrangements that breathe, dramatic builds that work in a concert hall, and a focus on band interplay rather than studio trickery. Even when the set list leans on familiar titles, the performances are built to feel worked-in and physical, with room for extended keyboard passages and dynamic shifts.\n\nOutside the Earth Band, Mann’s influence is also felt in how he bridged pop and progressive sensibilities for a broad audience. He brought jazz-informed harmony and arranging discipline into rock contexts without making the music feel academic. Across decades, his work shows a consistent ethic: a song is a starting point, and the job of a bandleader is to find the most compelling version of that song for the musicians in front of him and the audience in the room.\n\nMann is also widely credited with a producer’s ear, whether in the studio or in how he structures a set. The Earth Band’s recordings often hinge on keyboard tone—Leslie-swirled organ, cutting synth leads, and layered textures that function like strings or brass—yet the mixes leave space for the rhythm section to hit hard. When the band adapts non-original material, Mann typically pushes the harmony and rhythm in subtle ways: shifting emphasis to the backbeat, extending instrumental bridges, and using keyboard counter-melodies to create a second “hook” that can stand alongside the vocal line. It is a method that rewards repeat listening, because the details of the arrangement are doing as much storytelling as the lyric.\n\nOver time, Mann has also become a curator of the band’s history. Live albums, compilations, and reissues reflect his interest in performance as the truest document of what the Earth Band is. The personnel has evolved—from early lineups with guitarist-vocalist Mick Rogers, through the late-1970s and 1980s configurations, to the modern touring band—but Mann’s role has stayed the same: shaping an ensemble that can deliver punchy rock energy and spacious progressive passages in the same song. That continuity is why, decades after the band’s formation, audiences still recognize the sound within a few bars: the keyboards are unmistakable, but the deeper fingerprint is the arrangement itself.",
+            "Sources": [
+              {
+                "Title": "Manfred Mann",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Manfred_Mann"
+              },
+              {
+                "Title": "Manfred Mann biography",
+                "Publisher": "Manfred Mann",
+                "Url": "https://www.manfredmann.co.uk/manfred-mann/biography/"
+              },
+              {
+                "Title": "Manfred Mann's Earth Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mick Rogers",
+          "Roles": "Guitar, vocals",
+          "Instruments": "Guitar, vocals",
+          "YearsActive": "1971–1975, 1983–present",
+          "Albums": [
+            {
+              "Title": "Solar Fire",
+              "Year": 1973
+            },
+            {
+              "Title": "The Good Earth",
+              "Year": 1974
+            },
+            {
+              "Title": "Nightingales & Bombers",
+              "Year": 1975
+            },
+            {
+              "Title": "The Roaring Silence",
+              "Year": 1976
+            },
+            {
+              "Title": "Budapest Live",
+              "Year": 1984
+            },
+            {
+              "Title": "Lone Arranger",
+              "Year": 2014
+            }
+          ],
+          "Bio": {
+            "ArtistID": "manfred-manns-earth-band",
+            "BioID": "manfred-manns-earth-band-mick-rogers",
+            "FullName": "Michael Oldroyd",
+            "Birth": {
+              "Date": "September 20, 1946",
+              "Place": "Dovercourt, Essex, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Singer",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "FullText": "Mick Rogers (born Michael Oldroyd on September 20, 1946, in Dovercourt, Essex, England) is an English rock guitarist, singer, and songwriter best known as a founding member of Manfred Mann's Earth Band. He played with the group from its formation in 1971 until 1975 and later returned for the mid-1980s and has remained a core stage presence since, making him one of the band's longest-serving musicians outside of its leader.\n\nRogers grew up around music; biographical accounts note that his father played drums and that he was exposed to jazz and early rock and roll through family listening. By his teens he was playing in local groups, developing a style that combined blues-rooted phrasing with the clean articulation required for pop gigs. Before the Earth Band era he worked in a number of bands and touring contexts, including The Vision (which backed Adam Faith) and several Australian-linked projects, experience that strengthened his timing and stagecraft and prepared him for the Earth Band's demanding live arrangements.\n\nWhen Manfred Mann formed the Earth Band in the early 1970s, Rogers became a natural fit for the concept. The group needed a guitarist who could deliver hard-edged riffs, handle melodic lines that interlocked with Mann's keyboard parts, and also sing when the arrangement called for it. On the early albums—Manfred Mann's Earth Band (1972), Glorified Magnified (1972), Messin' (1973), Solar Fire (1973), The Good Earth (1974), Nightingales & Bombers (1975), and The Roaring Silence (1976)—Rogers helped define the band’s guitar-led edge, balancing heavy rhythm playing with melodic leads and vocal duties.\n\nRogers’ contributions were not only technical but also tonal. His guitar work provided a rock backbone beneath the band's progressive arrangements, and his vocals added an earthy edge to material that might otherwise have leaned fully into keyboard atmospherics. Because the Earth Band often reworked songs rather than reproducing them, the guitar parts had to serve multiple functions: establishing riff identity, supporting extended builds, and creating space for Mann’s Moog leads and organ swells.\n\nAfter leaving the band in the mid-1970s, Rogers remained active as a musician and songwriter, and his later return reinforced how closely his playing was associated with the Earth Band’s identity. When he rejoined during the 1980s, he shifted mainly into a backing and occasional lead vocal role while continuing as the principal guitarist. From the live era captured on Budapest Live (1984) and through subsequent touring, he became a key stabilizing presence in a lineup that otherwise changed frequently.\n\nAlongside his Earth Band work, Rogers has released music under his own name and in other projects, including solo albums such as Back to Earth (2002) and Sharabang (2013). That parallel work underscores what Earth Band audiences hear in concert: Rogers is not only a reliable guitarist in a long-running touring band, but a musician with a durable voice and a personal songwriting perspective.\n\nIn the context of Manfred Mann's Earth Band, Rogers’ importance is partly historical and partly practical. He helped establish the early character of the band’s sound and remains central to how the catalog is performed on stage. His blend of steady rhythm work, melodic lead lines, and seasoned vocals has made him one of the key figures through which the Earth Band’s arrangements stay muscular, coherent, and recognizably rock-based, even when the material stretches into progressive forms.",
+            "Sources": [
+              {
+                "Title": "Mick Rogers (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mick_Rogers_(musician)"
+              },
+              {
+                "Title": "Mick Rogers official site",
+                "Publisher": "Mick Rogers",
+                "Url": "https://www.mickrogers.com/"
+              },
+              {
+                "Title": "Manfred Mann's Earth Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Steve Kinch",
+          "Roles": "Bass guitar",
+          "Instruments": "Bass guitar",
+          "YearsActive": "1985–1986, 1991–present",
+          "Albums": [
+            {
+              "Title": "Criminal Tango",
+              "Year": 1986
+            },
+            {
+              "Title": "Soft Vengeance",
+              "Year": 1996
+            },
+            {
+              "Title": "2006",
+              "Year": 2006
+            },
+            {
+              "Title": "Lone Arranger",
+              "Year": 2014
+            }
+          ],
+          "Bio": {
+            "ArtistID": "manfred-manns-earth-band",
+            "BioID": "manfred-manns-earth-band-steve-kinch",
+            "FullName": "Steve Kinch",
+            "Birth": {
+              "Date": "May 17, 1955",
+              "Place": "Hastings, East Sussex, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Bassist"
+            ],
+            "Instruments": [
+              "Bass guitar"
+            ],
+            "FullText": "Steve Kinch (born May 17, 1955, in Hastings, East Sussex, England) is a British bass guitarist best known for his long association with Manfred Mann's Earth Band. In a group where personnel has shifted frequently, Kinch has served as a key rhythmic anchor across multiple eras, joining the band during the 1980s period and later becoming part of the revived, long-running touring lineup.\n\nBiographical profiles describe Kinch as developing his musical interests early and moving from guitar toward bass as a teenager, a shift that oriented him toward groove, timing, and the supportive role of a rhythm-section player. Before his best-known work he played in working bands and projects that emphasized tight ensemble playing, experience that proved valuable in a group whose arrangements often hinge on subtle shifts of dynamics and meter rather than simple verse-chorus repetition.\n\nKinch entered Manfred Mann's Earth Band during the mid-1980s, a period when the band was recording and touring with vocalist Chris Thompson and working through several lineup changes. He is noted as joining around the time of the Criminal Tango sessions (1986), and accounts of the album's production indicate that some bass parts were already recorded by the time he arrived, with duties shared on the record. Even so, his role on stage quickly became central: the Earth Band's live sound depends on a heavy, propulsive bottom end that can support Mann's keyboard layers and the guitar parts without losing definition.\n\nAcross later decades, Kinch's contribution has been primarily about feel and consistency. The Earth Band’s catalog ranges from riff-driven rock to progressive builds, and it often involves rearranged cover material where small rhythmic choices change the entire character of a song. A bassist in this context has to be both steady and flexible—locking with the drummer, leaving space for synth counter-melodies, and pushing the groove forward when arrangements open into extended instrumental passages. Kinch’s long tenure suggests a musician trusted to execute that role night after night.\n\nAs the Earth Band continued into its modern touring era after the 1991 revival, Kinch remained part of the band’s ongoing story, helping connect newer performances to the rhythmic power that fans associate with the classic live recordings. In a band led by a keyboardist-arranger, his bass work is a quiet but essential part of what makes the ensemble feel like a rock band first: grounded, driving, and capable of sustaining long musical arcs without losing momentum.",
+            "Sources": [
+              {
+                "Title": "Steve Kinch",
+                "Publisher": "Wikipedia (German)",
+                "Url": "https://de.wikipedia.org/wiki/Steve_Kinch"
+              },
+              {
+                "Title": "Manfred Mann's Earth Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+              },
+              {
+                "Title": "Official site",
+                "Publisher": "Manfred Mann’s Earth Band",
+                "Url": "https://www.manfredmann.co.uk/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "John Lingwood",
+          "Roles": "Drums",
+          "Instruments": "Drums, percussion",
+          "YearsActive": "1979–1987, 2016–present",
+          "Albums": [
+            {
+              "Title": "Angel Station",
+              "Year": 1979
+            },
+            {
+              "Title": "Chance",
+              "Year": 1980
+            },
+            {
+              "Title": "Somewhere in Afrika",
+              "Year": 1983
+            },
+            {
+              "Title": "Budapest Live",
+              "Year": 1984
+            }
+          ],
+          "Bio": {
+            "ArtistID": "manfred-manns-earth-band",
+            "BioID": "manfred-manns-earth-band-john-lingwood",
+            "FullName": "John Lingwood",
+            "Birth": {
+              "Date": "February 18, 1951",
+              "Place": "Wembley, London, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Drummer"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "FullText": "John Lingwood (born February 18, 1951, in Wembley, London, England) is an English drummer known for his work in rock and progressive music, most prominently with Manfred Mann's Earth Band. Joining the group during its late-1970s evolution, he became part of the lineup that carried the band through a productive run of touring and recording into the 1980s, and he later returned for the modern touring era.\n\nLingwood came up through the U.K. rock circuit at a time when drummers were expected to combine power with a sense of arrangement. His early professional work included associations with bands and projects that leaned toward progressive and hard-rock forms, settings in which a drummer must hold steady time while shaping dynamics across longer song structures. That background made him a natural fit for the Earth Band, whose repertoire frequently moves from tightly grooved sections into extended instrumental passages.\n\nHe joined Manfred Mann's Earth Band in 1979, stepping into a role that demanded both stamina and precision. The band's sound depends on a heavy, driving rhythmic foundation that can support dense keyboard textures and guitar layers without becoming muddy. In performance, the drummer also has to manage dramatic builds—keeping energy in reserve for climactic passages and then pushing intensity when the arrangement calls for it. Lingwood’s playing during this era helped the Earth Band maintain its reputation as a formidable live act, able to deliver punch and clarity even when the arrangements became complex.\n\nLingwood’s first period with the Earth Band continued through the 1980s, when the group toured widely and navigated multiple personnel shifts. This era included albums and concert performances that many fans associate with the band’s strong stage identity. While Manfred Mann remained the central arranger and bandleader, the rhythmic authority of the drummer and bassist was what allowed the band to translate studio ideas into concert impact, and Lingwood’s tenure is often discussed in that context of reliability and drive.\n\nAfter years away, Lingwood returned to the Earth Band lineup in the 2010s, reconnecting the modern touring band with a key part of its classic history. His career illustrates a recurring theme in the Earth Band story: musicians move in and out, but the band’s demands remain consistent—groove, control of dynamics, and the ability to serve arrangements that are carefully structured yet flexible in performance.",
+            "Sources": [
+              {
+                "Title": "Manfred Mann's Earth Band (members section)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+              },
+              {
+                "Title": "John Lingwood",
+                "Publisher": "Paiste",
+                "Url": "https://www.paiste.com/en/musicians/john-lingwood"
+              },
+              {
+                "Title": "Official site",
+                "Publisher": "Manfred Mann’s Earth Band",
+                "Url": "https://www.manfredmann.co.uk/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Robert Hart",
+          "Roles": "Lead vocals",
+          "Instruments": "Vocals",
+          "YearsActive": "2011–present",
+          "Albums": [
+            {
+              "Title": "Lone Arranger",
+              "Year": 2014
+            }
+          ],
+          "Bio": {
+            "ArtistID": "manfred-manns-earth-band",
+            "BioID": "manfred-manns-earth-band-robert-hart",
+            "FullName": "Robert Hart",
+            "Birth": {
+              "Date": "November 1, 1958",
+              "Place": "Bournemouth, Dorset, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Singer"
+            ],
+            "Instruments": [
+              "Vocals"
+            ],
+            "FullText": "Robert Hart is an English rock vocalist known for fronting major touring and recording projects from the 1980s onward, including a mid-1990s stint as the lead singer of Bad Company, and for later joining Manfred Mann's Earth Band as its primary vocalist. In a catalog where the band’s arrangements often depend on distinctive vocal character—whether in originals or in reimagined covers—Hart’s role has been to deliver a strong, rock-centered lead voice that can sit comfortably against dense keyboards and a heavy rhythm section.\n\nHart built his reputation as a working singer in the British rock scene, developing a style that combined classic-rock grit with the control required for melodic hooks. His career includes a range of collaborations and band affiliations, reflecting a vocalist’s version of a session-and-tour life: stepping into established brands, learning repertoires quickly, and bringing enough personality to make a familiar catalog feel alive. That combination of flexibility and command positioned him well for high-profile roles when they arose.\n\nOne of Hart’s best-known credits is his period as Bad Company’s lead vocalist in the 1990s. With the band’s classic-era singers no longer at the microphone, Hart took on the challenge of honoring a well-known catalog while also recording new material. He sang on the studio album Company of Strangers (1995) and the follow-up Stories Told & Untold (1996), and he toured in support of that era’s lineup. The job required not only vocal power but also a practical understanding of stagecraft: how to pace a set, how to project in large venues, and how to keep an audience engaged through both hits and deeper cuts.\n\nHart later connected with Manfred Mann’s Earth Band and became the band’s lead vocalist in the 2010s. In the Earth Band context, the singer must navigate arrangements that are often keyboard-led and structurally fluid. Many songs build gradually into long instrumental passages, and the vocal lines need to ride above shifting textures without flattening the dynamics. Hart’s voice brings a direct rock timbre to the material, which complements the band’s emphasis on groove and rhythmic drive.\n\nAs part of the modern touring lineup, Hart has helped present the Earth Band’s multi-decade repertoire to new audiences. His career arc—from the U.K. club and touring world, to a major legacy act like Bad Company, to a long-running progressive rock institution—illustrates a singer’s craft at a professional level: reliability, adaptability, and the ability to make a large body of material feel immediate in performance.",
+            "Sources": [
+              {
+                "Title": "Robert Hart (English singer)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Robert_Hart_(English_singer)"
+              },
+              {
+                "Title": "Bad Company – Company of Strangers",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Company_of_Strangers"
+              },
+              {
+                "Title": "Manfred Mann's Earth Band",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Chris Thompson",
+          "Roles": "Lead vocals",
+          "YearsActive": "1975–1978, 1983–1986",
+          "Bio": "English vocalist who fronted the band through the 'Blinded by the Light' breakthrough era and the mid-1980s period, bringing a powerful rock delivery to both originals and cover transformations.",
+          "Sources": [
+            {
+              "Title": "Chris Thompson (singer)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Chris_Thompson_(singer)"
+            },
+            {
+              "Title": "Manfred Mann's Earth Band",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+            }
+          ]
+        },
+        {
+          "Name": "Chris Slade",
+          "Roles": "Drums",
+          "YearsActive": "1978–1979",
+          "Bio": "Welsh drummer who played with the Earth Band in the late 1970s before a long, high-profile career including AC/DC and other major rock acts.",
+          "Sources": [
+            {
+              "Title": "Chris Slade",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Chris_Slade"
+            },
+            {
+              "Title": "Manfred Mann's Earth Band",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+            }
+          ]
+        },
+        {
+          "Name": "Colin Pattenden",
+          "Roles": "Bass guitar",
+          "YearsActive": "1971–1975",
+          "Bio": "Early Earth Band bassist who helped establish the group’s heavy groove foundation across the first run of albums through 'Nightingales & Bombers'.",
+          "Sources": [
+            {
+              "Title": "Manfred Mann's Earth Band",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+            }
+          ]
+        },
+        {
+          "Name": "Dave Flett",
+          "Roles": "Guitar",
+          "YearsActive": "1976–1983",
+          "Bio": "Scottish guitarist who joined for the late-1970s era, contributing to albums like 'Watch' and helping shape the band’s touring sound in that period.",
+          "Sources": [
+            {
+              "Title": "Manfred Mann's Earth Band",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+            }
+          ]
+        },
+        {
+          "Name": "Pat King",
+          "Roles": "Bass guitar",
+          "YearsActive": "1975–1977",
+          "Bio": "Bassist during the mid-1970s transition into the 'Roaring Silence' breakthrough, supporting the band’s shift toward a harder, more arena-ready sound.",
+          "Sources": [
+            {
+              "Title": "Manfred Mann's Earth Band",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Manfred_Mann%27s_Earth_Band"
+            }
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "the-manhattans",
