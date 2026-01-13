@@ -9,27 +9,622 @@
     {
       "ArtistID": "the-motels",
       "Name": "The Motels",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Berkeley",
+        "Region": "California",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1975–1977",
+        "1978–1987",
+        "1998–present"
+      ],
+      "Genres": [
+        "New wave",
+        "Alternative rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Capitol",
+        "EMI"
+      ],
+      "Overview": "The Motels are a Berkeley‑rooted American new wave band best known for the early‑MTV era run of dramatic, radio‑ready singles led by singer and principal songwriter Martha Davis. After an initial mid‑1970s incarnation, Davis and guitarist Jeff Jourard rebuilt the group in March 1978 and forged the lineup that would define the band’s classic Capitol Records period: Jeff’s brother Marty Jourard on keyboards and saxophone, Michael Goodroe on bass, and English drummer Brian Glascock. Working the Los Angeles club circuit, they signed to Capitol and released their debut album in 1979, introducing a sound that mixed nervous, angular guitars and synth/sax color with Davis’ film‑noir romanticism—songs that felt intimate and wounded, but engineered for big choruses and late‑night radio.\n\nThe Motels’ breakout came with All Four One (1982). The single “Only the Lonely,” written by Davis, climbed to No. 9 on the Billboard Hot 100, and its stark, cinematic video helped lock the band to the MTV generation. A year later Little Robbers (1983) delivered a second U.S. Top 10 pop hit with “Suddenly Last Summer” (also No. 9), pairing Davis’ conversational heartbreak with shimmering, widescreen production. Those albums, plus their earlier signature track “Total Control” (a Davis/Jourard collaboration first issued in 1979), established The Motels’ calling card: emotionally direct narratives, a sleek rock‑new‑wave frame, and a stage presence built around Davis’ acting‑level phrasing and the band’s tight, tour‑hardened attack.\n\nAfter the 1980s peak and subsequent lineup shifts, Davis dissolved the original run and later revived the act for touring, often billed as “Martha Davis & The Motels,” keeping the catalog in rotation on ’80s‑era package tours and festival bills. Across incarnations, the group’s legacy has remained remarkably consistent: a set of songs that captured adult vulnerability in pop form, bridging punk‑shadowed new wave urgency with the melodic clarity of mainstream rock, and leaving a durable imprint through their two enduring Top 10 singles and the unmistakable mood of their videos and records.",
+      "NotableAlbums": [
+        {
+          "Title": "The Motels",
+          "Year": "1979",
+          "Notes": "Debut on Capitol that introduced the band’s noir‑leaning new‑wave approach and early staples like “Total Control.”"
+        },
+        {
+          "Title": "Careful",
+          "Year": "1980",
+          "Notes": "Second album that refined the blend of guitar tension, keyboards, and Davis’ storytelling as the band chased a wider U.S. breakthrough."
+        },
+        {
+          "Title": "All Four One",
+          "Year": "1982",
+          "Notes": "Commercial breakthrough anchored by the U.S. Top 10 hit “Only the Lonely,” a defining early‑MTV single for the band."
+        },
+        {
+          "Title": "Little Robbers",
+          "Year": "1983",
+          "Notes": "RIAA Gold‑certified album featuring “Suddenly Last Summer,” the band’s second U.S. Top 10 pop hit."
+        },
+        {
+          "Title": "Shock",
+          "Year": "1985",
+          "Notes": "Mid‑’80s follow‑up that continued the sleek pop‑rock/new‑wave template during the band’s later Capitol era."
+        },
+        {
+          "Title": "This",
+          "Year": "1987",
+          "Notes": "Late‑Capitol period studio album released as the original run wound down and Davis shifted toward solo work."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Only the Lonely",
+          "Year": "1982",
+          "Notes": "Davis‑penned breakthrough single that reached No. 9 on the Billboard Hot 100 and became the band’s signature MTV‑era ballad."
+        },
+        {
+          "Title": "Suddenly Last Summer",
+          "Year": "1983",
+          "Notes": "Second U.S. Top 10 pop hit (No. 9) and a centerpiece of the band’s cinematic video era."
+        },
+        {
+          "Title": "Total Control",
+          "Year": "1979",
+          "Notes": "Early calling‑card song co‑written by Davis and Jeff Jourard; later became a staple that charted strongly outside the U.S."
+        },
+        {
+          "Title": "Take the L",
+          "Year": "1982",
+          "Notes": "Follow‑up single from All Four One that kept the band on pop radio during their peak period."
+        },
+        {
+          "Title": "Shame",
+          "Year": "1985",
+          "Notes": "A late‑Capitol era highlight that extended the band’s moody pop‑rock identity into the mid‑’80s."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1982",
+          "Title": "First U.S. Top 10 pop hit",
+          "Details": "“Only the Lonely” reached No. 9 on the Billboard Hot 100 and helped cement the band’s MTV‑era profile."
+        },
+        {
+          "Year": "1983",
+          "Title": "Second U.S. Top 10 pop hit",
+          "Details": "“Suddenly Last Summer” also reached No. 9 on the Billboard Hot 100, giving the band two enduring Top 10 singles."
+        },
+        {
+          "Year": "1983",
+          "Title": "RIAA Gold album",
+          "Details": "Little Robbers was certified Gold by the RIAA and became one of the group’s best‑known full‑length releases."
+        },
+        {
+          "Year": "1979–present",
+          "Title": "Durable touring legacy",
+          "Details": "The catalog has stayed in rotation via revivals led by Martha Davis, including festival and multi‑act ’80s package tours."
+        }
+      ],
+      "KeyFacts": [
+        "Origin: Berkeley, California; major breakthrough during the Capitol Records era (1979–1987).",
+        "Best known for “Only the Lonely” and “Suddenly Last Summer” (both No. 9 on the U.S. Billboard Hot 100).",
+        "Classic lineup included Martha Davis, Jeff Jourard, Marty Jourard, Michael Goodroe, and Brian Glascock."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.themotels.com",
+        "Discography": "https://en.wikipedia.org/wiki/The_Motels_discography",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Motels"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Martha Davis",
+          "Roles": [
+            "Lead vocals",
+            "Guitar",
+            "Primary songwriter"
+          ],
+          "Years": "1975–1977, 1978–1987, 1998–present",
+          "Instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "Overview": "Founding frontwoman, principal songwriter, and enduring public face of The Motels.",
+          "Bio": {
+            "BioID": "the-motels-martha-davis",
+            "FullName": "Martha Davis",
+            "Birth": "",
+            "Death": "",
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Genres": [
+              "New wave",
+              "Alternative rock",
+              "Pop rock"
+            ],
+            "AssociatedActs": [
+              "The Motels"
+            ],
+            "ActiveYears": [
+              "1975–1977",
+              "1978–1987",
+              "1998–present"
+            ],
+            "CareerHighlights": [
+              "Wrote and recorded “Only the Lonely,” a U.S. Top 10 hit (No. 9) and the band’s commercial breakthrough.",
+              "Led the band through the classic Capitol era and later touring revivals."
+            ],
+            "KeyAlbums": [
+              "All Four One (1982)",
+              "Little Robbers (1983)",
+              "The Motels (1979)"
+            ],
+            "KeySongs": [
+              "Only the Lonely",
+              "Suddenly Last Summer",
+              "Total Control"
+            ],
+            "Sources": [
+              {
+                "Title": "Wikipedia — Martha Davis (musician)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Martha_Davis_(musician)"
+              },
+              {
+                "Title": "Wikipedia — The Motels",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Motels"
+              },
+              {
+                "Title": "St. Pete Catalyst — The Catalyst interview: Marty Jourard, the Motels",
+                "Publisher": "St. Pete Catalyst",
+                "Url": "https://stpetecatalyst.com/the-catalyst-interview-marty-jourard-the-motels/"
+              },
+              {
+                "Title": "Wikipedia — Only the Lonely (The Motels song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Only_the_Lonely_(The_Motels_song)"
+              }
+            ],
+            "FullText": "Martha Davis is the voice, visual center, and emotional author of The Motels’ most recognizable work. Born in Berkeley, California, she began writing songs young and carried a storyteller’s instinct into every phase of her career—delivering lyrics as if they were scenes, not slogans. That sensibility became the band’s signature in the early‑MTV years: close‑up heartbreak, performed with a cool exterior and an undercurrent of panic. Davis first led a mid‑1970s version of The Motels, but the band’s lasting identity formed when she and guitarist Jeff Jourard rebuilt the group in March 1978, assembling the lineup that would anchor the classic Capitol Records era.\n\nAs The Motels broke through the Los Angeles club circuit, Davis emerged as the group’s principal songwriter and the person who could translate the band’s nervous new‑wave frame into songs with mainstream pull. Her writing often starts with a clear human situation—longing, jealousy, exhaustion, the fear that love is already slipping away—and then sharpens it into a hook that lands like a confession. That approach peaked on All Four One (1982), where her song “Only the Lonely” became the band’s breakthrough: a stark, wounded pop ballad that climbed to No. 9 on the Billboard Hot 100 and found a second life as a moody, cinematic music video. She followed a year later with Little Robbers (1983) and its flagship single “Suddenly Last Summer,” another U.S. No. 9 hit, again pairing plainspoken pain with widescreen production and a video‑era narrative focus.\n\nEven when the band’s singles were not climbing the U.S. charts, Davis’ writing and delivery defined the Motels’ brand—melodrama that felt adult rather than theatrical. She also collaborated closely with her bandmates: the early Motels staple “Total Control,” first issued in 1979, is credited to Davis and Jeff Jourard, and it showcases how her raw lyric impulse could lock into the band’s minimalist, tension‑filled chord language. Across the Capitol run (from the 1979 debut through later‑era albums like Shock), Davis’ voice stayed the constant through lineup changes, production shifts, and the widening gap between critical recognition and the label’s commercial expectations.\n\nAfter the band’s 1980s peak, Davis moved into solo work while still returning to The Motels identity when the time felt right. Her solo releases and soundtrack contributions broadened her public profile, but she repeatedly circled back to the Motels catalog because it remained the clearest vehicle for her style: songs built for late‑night listening, where every line sounds like it was written the morning after. In the 2010s the act re‑emerged on larger stages and package tours, often billed as “Martha Davis & The Motels,” with Davis still emphasizing performance details—phrasing, pacing, and character—that make the old hits feel less like nostalgia and more like durable short stories.\n\nWhat makes Davis’ Motels era stand out is not only the chart history but the consistency of her point of view. She turned new‑wave textures into an emotional language that listeners immediately recognized, and she did it without softening the edges: the songs often admit anger, self‑doubt, and contradiction, and then resolve that mess into a chorus you can sing. That combination—unvarnished feeling matched to pop structure—is why The Motels’ defining tracks have lasted, and why Davis remains inseparable from the band’s identity, whether she is fronting a full classic lineup, a later touring band, or standing alone behind the songs she wrote.",
+            "ArtistID": "the-motels",
+            "ArtistName": "The Motels",
+            "MemberName": "Martha Davis",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": []
+          },
+          "YearsActive": [
+            "1975–1977",
+            "1978–1987",
+            "1998–present"
+          ],
+          "Albums": [
+            "The Motels",
+            "Careful",
+            "All Four One",
+            "Little Robbers",
+            "Shock",
+            "This"
+          ]
+        },
+        {
+          "Name": "Jeff Jourard",
+          "Roles": [
+            "Lead guitar",
+            "Co-writer (select songs)"
+          ],
+          "Years": "1978–1980 (classic lineup; later associations)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Overview": "Lead guitarist of the classic Motels rebuild; co-writer on early staples and a key architect of the band’s tense, hook-forward guitar style.",
+          "Bio": {
+            "BioID": "the-motels-jeff-jourard",
+            "FullName": "Jeff Jourard",
+            "Birth": "",
+            "Death": "",
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Guitar"
+            ],
+            "Genres": [
+              "New wave",
+              "Alternative rock",
+              "Pop rock"
+            ],
+            "AssociatedActs": [
+              "The Motels"
+            ],
+            "ActiveYears": [
+              "1975–1977",
+              "1978–1987",
+              "1998–present"
+            ],
+            "CareerHighlights": [
+              "Co-wrote “Total Control,” a defining early Motels track.",
+              "Credited as additional guitarist on the 1976 debut Tom Petty and the Heartbreakers album."
+            ],
+            "KeyAlbums": [
+              "The Motels (1979)",
+              "All Four One (1982)"
+            ],
+            "KeySongs": [
+              "Total Control"
+            ],
+            "Sources": [
+              {
+                "Title": "Wikipedia — The Motels",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Motels"
+              },
+              {
+                "Title": "Wikipedia — Tom Petty and the Heartbreakers (album) personnel",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Tom_Petty_and_the_Heartbreakers_(album)"
+              },
+              {
+                "Title": "Psychedelic Baby Mag — Jeff Jourard interview (From Heartbreakers to Motels)",
+                "Publisher": "Psychedelic Baby Mag",
+                "Url": "https://www.psychedelicbabymag.com/2023/11/jeff-jourard-interview.html"
+              },
+              {
+                "Title": "Wikipedia — Total Control (song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Total_Control_(song)"
+              }
+            ],
+            "FullText": "Jeff Jourard’s role in The Motels is both structural and stylistic: he helped rebuild the band into its classic 1978–1980s form, and his guitar language gave Martha Davis’ songwriting the taut frame it needed to become pop. Jourard’s background is unusually intertwined with American rock history. Before The Motels’ national breakthrough, he was associated with an early version of Tom Petty and the Heartbreakers and is credited as an additional guitarist on the 1976 debut album Tom Petty and the Heartbreakers. That experience—working around lean, hook‑forward rock—shows up in his Motels work, where the parts rarely sprawl. Instead, they create tension and space: clipped chords, sharp figures, and rhythmic insistence that push the songs forward without crowding Davis’ vocal.\n\nIn March 1978, Jourard and Davis made the decision that effectively defined The Motels’ story: they re‑formed the band after an earlier incarnation and began a new round of auditions to build a lineup with the stamina and precision to compete in late‑’70s Los Angeles. The version that emerged—adding Jeff’s brother Marty on keyboards and saxophone, with Michael Goodroe and Brian Glascock on rhythm section—became the unit that signed to Capitol and recorded the 1979 debut. Jourard’s lead guitar sat at the point where punk‑shadowed urgency met radio polish. The band could sound anxious and sharp, but the hooks still landed.\n\nJourard is also central to the Motels’ songwriting story. “Total Control,” one of the band’s earliest and most durable songs, is credited to Davis and Jourard, and it captures their complementary strengths: Davis bringing the emotional narrative and vocal cadence; Jourard shaping the harmonic and structural setting so the lyric can hit with maximum force. In later reflections on the song’s origins, Davis described coming in with a more aggressive, punk‑leaning lyric impulse and then re‑setting it over Jourard’s minimalist progression—an example of how his musical economy could turn raw feeling into a sleek, stage‑ready piece.\n\nAlthough lineup shifts arrived quickly—as they often did in that era—Jourard remained a defining figure of the classic Motels period and has been cited as a continuing presence tied to the band’s identity. The Motels’ early albums and touring years depended on a guitarist who could be both precise and expressive, and Jourard’s playing delivered that balance: he could punctuate the verses with tension and then open up the chorus with a melodic lift, always serving the song’s emotional arc.\n\nOutside the Motels spotlight, Jourard has kept a working musician’s career—moving through bands and projects while remaining associated with the Heartbreakers and Motels legacies that listeners immediately recognize. Interviews from the 2020s still frame him as a player who bridges scenes: from Florida‑connected roots rock to Hollywood new wave to later projects like Hollywood Stars. Across all of it, the through‑line is craft: the ability to build parts that fit, to write in a way that supports the vocal story, and to keep a band’s sound coherent even as the surrounding industry shifts.\n\nWithin The Motels, that coherence is his signature contribution. The group’s best‑known songs require a guitarist who can make restraint feel dramatic—who can imply danger and desire with a few notes. Jourard’s work does exactly that, and it helps explain why The Motels’ major singles feel cinematic: the guitar is often the camera movement under the vocal, guiding the listener through each scene without drawing attention away from the performance at the center.",
+            "ArtistID": "the-motels",
+            "ArtistName": "The Motels",
+            "MemberName": "Jeff Jourard",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": []
+          },
+          "YearsActive": [
+            "1975–1977",
+            "1978–1987",
+            "1998–present"
+          ],
+          "Albums": [
+            "The Motels",
+            "Careful",
+            "All Four One",
+            "Little Robbers",
+            "Shock",
+            "This"
+          ]
+        },
+        {
+          "Name": "Marty Jourard",
+          "Roles": [
+            "Keyboards",
+            "Saxophone",
+            "Songwriting (select songs)"
+          ],
+          "Years": "1978–1987 (classic era; later touring appearances)",
+          "Instruments": [
+            "Keyboards",
+            "Saxophone"
+          ],
+          "Overview": "Keyboardist/saxophonist and songwriter who shaped the band’s atmosphere and contributed to key early-’80s hits.",
+          "Bio": {
+            "BioID": "the-motels-marty-jourard",
+            "FullName": "Marty Jourard",
+            "Birth": "",
+            "Death": "",
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Keyboards",
+              "Saxophone"
+            ],
+            "Genres": [
+              "New wave",
+              "Alternative rock",
+              "Pop rock"
+            ],
+            "AssociatedActs": [
+              "The Motels"
+            ],
+            "ActiveYears": [
+              "1975–1977",
+              "1978–1987",
+              "1998–present"
+            ],
+            "CareerHighlights": [
+              "Co-wrote “Take the L,” a Hot 100 hit from All Four One.",
+              "Helped define the band’s classic sound with keyboards and sax textures."
+            ],
+            "KeyAlbums": [
+              "The Motels (1979)",
+              "All Four One (1982)",
+              "Little Robbers (1983)"
+            ],
+            "KeySongs": [
+              "Take the L",
+              "Suddenly Last Summer"
+            ],
+            "Sources": [
+              {
+                "Title": "Wikipedia — The Motels",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Motels"
+              },
+              {
+                "Title": "St. Pete Catalyst — The Catalyst interview: Marty Jourard, the Motels",
+                "Publisher": "St. Pete Catalyst",
+                "Url": "https://stpetecatalyst.com/the-catalyst-interview-marty-jourard-the-motels/"
+              },
+              {
+                "Title": "Wikipedia — Take the L (song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Take_the_L_(song)"
+              },
+              {
+                "Title": "Stephen K. Peeples — Marty Jourard recap of Capitol era and reunions",
+                "Publisher": "StephenKpeeples.com",
+                "Url": "https://stephenkpeeples.com/news-and-reviews/the-motels-marty-jourard-recaps-capitol-era-band-reunions/"
+              }
+            ],
+            "FullText": "Marty Jourard brought color, arrangement sense, and a slightly outsider melodic intelligence to The Motels’ classic era. Best known as the band’s keyboards and saxophone player—and as a songwriter on key tracks—Jourard helped define the Motels’ ability to sound both urgent and sophisticated. His parts often act as the band’s atmosphere: synth or keyboard lines that widen the frame around Martha Davis’ vocal, and sax figures that give the music a human, breath‑driven edge amid late‑’70s and early‑’80s studio sheen.\n\nJourard entered the Motels story at the pivotal rebuild. When Davis and Jeff Jourard re‑formed the band in March 1978, Marty became part of the new lineup that auditioned its way into a working, touring unit and ultimately into a Capitol Records deal. That second incarnation—Martha on vocals and guitar, Jeff on lead guitar, Marty on keyboards/sax, Goodroe on bass, Glascock on drums—recorded the 1979 debut and set the template for the band’s club‑honed precision. On record, Marty’s contributions are not ornamental; they are structural, often supplying the counter‑melody that turns a verse into a scene and a chorus into a payoff.\n\nAs the band moved into its commercial peak, Jourard’s dual role as player and writer became more visible. He is credited as a writer on the 1982 single “Take the L” (with Davis and producer John “Carter”), a radio hit that followed the breakthrough of “Only the Lonely.” That writing credit fits his broader strength: shaping mood into melody without diluting the emotional tension that made the Motels distinct. In interviews looking back on the period, Jourard has described the band’s Capitol years as a fast‑moving sequence of recording, touring, and adapting—learning how to translate a Los Angeles club identity into a national, MTV‑ready presentation.\n\nJourard’s perspective is especially valuable because he has remained connected to the band’s history long after the initial run. By the 2010s and 2020s, he was again appearing onstage with later touring versions of The Motels, helping tie the catalog’s original arrangements to newer lineups. His recent interviews and recap projects focus on the Capitol era’s details—how the band worked, how songs evolved, and how the group navigated industry expectations while trying to preserve the dramatic intimacy at the core of Davis’ writing. That ongoing engagement reflects how central he was to the band’s identity: not just as a sideman, but as a musical narrator of what The Motels were trying to do.\n\nMusically, Jourard’s signature is the blend of clarity and oddness. The saxophone can read as classic rock or even R&B on paper, but in the Motels context it becomes part of a modern, new‑wave palette—short lines, cool tone, and deliberate placement. His keyboard work likewise tends toward mood and motion rather than flashy display, supporting the band’s cinematic feel. That restraint mattered because the Motels’ songs succeed on emotional credibility: too much ornament would turn confession into theater. Jourard’s parts heighten the tension while leaving Davis space to deliver the story.\n\nTaken together, Jourard’s contributions explain why The Motels’ biggest songs still feel like living scenes rather than period pieces. His arrangements help locate the listener inside the song—underlining the turning points, echoing the vocal with just enough harmony, and using texture as storytelling. In a band famous for two Top 10 heartbreak singles, that kind of musical empathy is not a bonus; it is the infrastructure that made those songs land.",
+            "ArtistID": "the-motels",
+            "ArtistName": "The Motels",
+            "MemberName": "Marty Jourard",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": []
+          },
+          "YearsActive": [
+            "1975–1977",
+            "1978–1987",
+            "1998–present"
+          ],
+          "Albums": [
+            "The Motels",
+            "Careful",
+            "All Four One",
+            "Little Robbers",
+            "Shock",
+            "This"
+          ]
+        },
+        {
+          "Name": "Michael Goodroe",
+          "Roles": [
+            "Bass"
+          ],
+          "Years": "1978–1987 (classic era)",
+          "Instruments": [
+            "Bass"
+          ],
+          "Overview": "Bassist of the classic lineup whose disciplined, song-first playing anchored the band’s Capitol-era records and tours.",
+          "Bio": {
+            "BioID": "the-motels-michael-goodroe",
+            "FullName": "Michael Goodroe",
+            "Birth": "",
+            "Death": "",
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Bass"
+            ],
+            "Genres": [
+              "New wave",
+              "Alternative rock",
+              "Pop rock"
+            ],
+            "AssociatedActs": [
+              "The Motels"
+            ],
+            "ActiveYears": [
+              "1975–1977",
+              "1978–1987",
+              "1998–present"
+            ],
+            "CareerHighlights": [
+              "Member of the classic 1978 rebuild lineup that signed to Capitol and recorded the 1979 debut.",
+              "Played bass on the band’s two U.S. Top 10 singles era."
+            ],
+            "KeyAlbums": [
+              "The Motels (1979)",
+              "All Four One (1982)",
+              "Little Robbers (1983)"
+            ],
+            "KeySongs": [
+              "Only the Lonely",
+              "Suddenly Last Summer"
+            ],
+            "Sources": [
+              {
+                "Title": "Wikipedia — The Motels",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Motels"
+              },
+              {
+                "Title": "The Motels Information Site — Michael Goodroe bio",
+                "Publisher": "The Motels Information Site",
+                "Url": "https://www.the-motels.info/bios/M-Goodroe-bio.html"
+              },
+              {
+                "Title": "Wikipedia — Motels (album) personnel",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Motels_(album)"
+              }
+            ],
+            "FullText": "Michael Goodroe anchored the classic Motels lineup with a bassist’s combination of steadiness and musical discretion. Joining the band as part of the 1978 rebuild, he became one of the core players on the Capitol Records run that produced the group’s best‑known work—from the 1979 debut through the early‑’80s breakthrough albums. In a band where the emotional center is Martha Davis’ vocal and the surface texture shifts between guitar tension and keyboards/sax color, the bass has to do two jobs at once: lock the groove for radio‑ready pop and quietly intensify the drama. Goodroe’s playing does that, giving the Motels their forward motion without calling attention away from the narrative.\n\nGoodroe is a key figure in the “second incarnation” lineup described in the band’s history: Davis and Jeff Jourard re‑formed The Motels in March 1978, and after extensive auditions the group settled on a working unit that included Marty Jourard on keyboards/sax, Goodroe on bass, and Brian Glascock on drums. That lineup shared rehearsal space with other rising Los Angeles acts, worked the clubs, and signed with Capitol in 1979. On the first album and the subsequent tours, Goodroe provided the rhythmic backbone that allowed the band to sound tight and modern—crucial for a group that had to compete in a scene where precision was increasingly the point.\n\nDuring the peak era, Goodroe’s bass is part of what makes the Motels’ hits feel simultaneously polished and anxious. The band’s biggest singles—“Only the Lonely” and “Suddenly Last Summer”—depend on a foundation that can carry slow‑burn intensity without sagging. Goodroe’s approach is typically supportive: clean, deliberate note choices that let the chords breathe while keeping the pulse insistent. That kind of playing is often most noticeable when it disappears; when it is right, the song’s emotional arc feels inevitable.\n\nAfter the original Motels run ended, Goodroe’s story illustrates the way many working musicians’ lives shift once the spotlight moves on. According to the band’s historical and biographical documentation, he returned to Albuquerque, New Mexico after the breakup period and pursued studies at the University of New Mexico. Whether onstage or off, the through‑line is practicality: the ability to build a career around music and then adapt when the industry changes. For Motels listeners, the recorded legacy remains the clearest evidence—bass parts that serve the song, reinforce the band’s dramatic pacing, and keep the classic albums sounding cohesive across changes in guitar and production style.\n\nGoodroe’s importance is also historical. The Motels’ breakthrough is sometimes described primarily through Davis’ writing and the band’s iconic videos, but those elements could not have worked without a rhythm section capable of making the songs feel inevitable. Goodroe and Glascock, in particular, provided that engine at a moment when new wave was moving from club experiment to mainstream format. Goodroe’s bass helped translate the band’s Los Angeles rehearsal‑room intensity into records that could sit between rock radio and pop charts—exactly where The Motels found their audience.\n\nIn the end, Goodroe’s Motels tenure is a portrait of the classic supportive band member: a player whose choices are musical, not ego‑driven, and whose best work is inseparable from the songs it supports. For a catalog built on adult vulnerability framed as pop, that kind of disciplined musicianship is not background—it is the platform that lets the vocal story hit with full force.",
+            "ArtistID": "the-motels",
+            "ArtistName": "The Motels",
+            "MemberName": "Michael Goodroe",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": []
+          },
+          "YearsActive": [
+            "1975–1977",
+            "1978–1987",
+            "1998–present"
+          ],
+          "Albums": [
+            "The Motels",
+            "Careful",
+            "All Four One",
+            "Little Robbers",
+            "Shock",
+            "This"
+          ]
+        },
+        {
+          "Name": "Brian Glascock",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1978–1987 (classic era)",
+          "Instruments": [
+            "Drums"
+          ],
+          "Overview": "English rock drummer whose veteran feel and precision powered the classic Motels lineup through the Capitol-era recordings and touring years.",
+          "Bio": {
+            "BioID": "the-motels-brian-glascock",
+            "FullName": "Brian Glascock",
+            "Birth": "",
+            "Death": "",
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "PrimaryInstruments": [
+              "Drums"
+            ],
+            "Genres": [
+              "New wave",
+              "Alternative rock",
+              "Pop rock"
+            ],
+            "AssociatedActs": [
+              "The Motels"
+            ],
+            "ActiveYears": [
+              "1975–1977",
+              "1978–1987",
+              "1998–present"
+            ],
+            "CareerHighlights": [
+              "Veteran rock drummer (The Gods, Toe Fat, Carmen, Captain Beyond) before joining the Motels.",
+              "Part of the classic lineup behind the band’s best-known hits."
+            ],
+            "KeyAlbums": [
+              "The Motels (1979)",
+              "Little Robbers (1983)"
+            ],
+            "KeySongs": [
+              "Total Control",
+              "Only the Lonely"
+            ],
+            "Sources": [
+              {
+                "Title": "Wikipedia — Brian Glascock",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Brian_Glascock"
+              },
+              {
+                "Title": "Wikipedia — The Motels",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Motels"
+              },
+              {
+                "Title": "Discogs — Brian Glascock artist profile",
+                "Publisher": "Discogs",
+                "Url": "https://www.discogs.com/artist/408750-Brian-Glascock"
+              },
+              {
+                "Title": "Wikipedia — Motels (album) personnel",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Motels_(album)"
+              }
+            ],
+            "FullText": "Brian Glascock brought a veteran rock drummer’s discipline to The Motels at the exact moment the band needed a reliable engine. Born in London, Glascock had already built a substantial résumé in British and transatlantic rock—playing with groups such as The Gods, Toe Fat, Carmen, Captain Beyond and others—before he became best known in the U.S. for his work behind The Motels. That background matters: new wave audiences often focus on synths, guitar angles, and image, but the Motels’ rise depended on a rhythm section that could make the songs feel inevitable onstage and on record. Glascock supplied that control.\n\nHe joined as part of the group’s 1978 rebuild. After Martha Davis and Jeff Jourard re‑formed The Motels in March 1978, they auditioned extensively and assembled the lineup that would define the classic Capitol era: Marty Jourard on keyboards and saxophone, Michael Goodroe on bass, and Glascock on drums. Short on resources, the band rehearsed wherever it could and worked the Los Angeles club circuit until Capitol released the 1979 debut album. On that record and the subsequent tours, Glascock’s playing is notable for its combination of restraint and drive—tight hi‑hat work, confident backbeats, and fills that underline transitions without turning the songs into drum showcases.\n\nThe Motels’ big singles require that kind of drummer. “Only the Lonely” and “Suddenly Last Summer” are emotionally intense pieces that can easily slump if the groove softens; Glascock keeps them moving, giving the band enough momentum for the choruses to open up while protecting the verses’ tension. Across the catalog, his rock background helps the Motels sound like a band rather than a studio project. Even when keyboards and production polish push the music toward pop, the drums keep a live‑room feel that anchors Davis’ vocal performance.\n\nGlascock’s broader career also speaks to the way Motels musicianship connected to a wider professional network. His credits and biography note work with major artists and extensive session experience, reflecting a drummer who could step into different styles while maintaining a personal feel. After the Motels era, he continued to perform and record, and public biographies note his later life in the United States, where he played with regional bands and projects—an example of how a musician can move from international touring into a working local scene without losing the identity built over decades.\n\nIn Motels history, Glascock is often named in the classic lineup because he represents continuity during the band’s most important transformation: from a re‑formed Los Angeles club act into a Capitol Records band with MTV‑era hits. That transformation required precision—songs had to sound the same night after night, and the rhythm section had to stay locked while arrangements evolved around it. Glascock’s drumming provided that stability, giving The Motels a platform sturdy enough for their cinematic songs to take flight.\n\nFor listeners, the takeaway is simple: the Motels’ records are dramatic, but the drama is disciplined. Glascock’s work is a major reason why—because the groove is always under control, even when the lyric is not.",
+            "ArtistID": "the-motels",
+            "ArtistName": "The Motels",
+            "MemberName": "Brian Glascock",
+            "HonoursAndMilestones": [],
+            "FunFacts": [],
+            "Quotes": []
+          },
+          "YearsActive": [
+            "1975–1977",
+            "1978–1987",
+            "1998–present"
+          ],
+          "Albums": [
+            "The Motels",
+            "Careful",
+            "All Four One",
+            "Little Robbers",
+            "Shock",
+            "This"
+          ]
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Scott Thurston",
+          "Roles": [
+            "Guitar",
+            "Keyboards",
+            "Songwriting (select periods)"
+          ],
+          "Years": "1982–1983 (Capitol era)",
+          "Instruments": [
+            "Guitar",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Overview": "Multi‑instrumentalist who joined the band in 1982 and played on the 1983 album Little Robbers before later becoming widely known for work with Tom Petty and the Heartbreakers.",
+          "YearsActive": [
+            "1982–1983"
+          ],
+          "Albums": [
+            "Little Robbers (1983)"
+          ]
+        },
+        {
+          "Name": "Tim McGovern",
+          "Roles": [
+            "Guitar"
+          ],
+          "Years": "1980 (Careful era)",
+          "Instruments": [
+            "Guitar"
+          ],
+          "Overview": "Guitarist who replaced Jeff Jourard during the Careful recording/ touring period as the band’s lineup shifted early in the Capitol years.",
+          "YearsActive": [
+            "1980"
+          ],
+          "Albums": [
+            "Careful (1980)"
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "mott-the-hoople",
