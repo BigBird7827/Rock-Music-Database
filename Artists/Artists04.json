@@ -3081,27 +3081,579 @@
     {
       "ArtistID": "the-church",
       "Name": "The Church",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Sydney",
+        "Region": "New South Wales",
+        "Country": "Australia"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1980–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "New wave",
+        "Neo-psychedelia",
+        "Post-punk",
+        "Dream pop"
+      ],
+      "Labels": [
+        "EMI",
+        "Capitol",
+        "Carrere",
+        "Warner Bros.",
+        "Mushroom",
+        "Arista",
+        "Festival",
+        "Cooking Vinyl",
+        "Thirsty Ear",
+        "Liberation",
+        "Unorthodox",
+        "Second Motion"
+      ],
+      "Overview": "The Church are an Australian rock band formed in Sydney in 1980, built around the songwriting partnership of bassist/lead vocalist Steve Kilbey and guitarist Peter Koppes. Coming out of the post‑punk/new wave era, they quickly stood apart by leaning into space, shimmer, and mood: guitars that chime and spiral rather than riff; rhythm sections that leave air in the groove; and lyrics that suggest dream logic more than linear storytelling. Early albums such as *Of Skins and Heart* (1981), *The Blurred Crusade* (1982), and *Heyday* (1985) established a distinctive sound that blended jangling guitar pop with neo‑psychedelic texture, and the band became known for atmosphere, melody, and dense arrangements.\n\nTheir international breakthrough arrived with *Starfish* (released February 1988). Recorded in Los Angeles and released by Mushroom in Australia and Arista internationally, the album paired The Church’s interlocking guitar work with a slightly bigger, radio‑ready presentation. It also produced their defining single, “Under the Milky Way,” written by Kilbey with Karin Jansson and released in February 1988. The track became a rare U.S. crossover for an Australian alternative band of the era: it peaked at No. 24 on the Billboard Hot 100 and reached No. 2 on Billboard’s Album Rock Tracks/Mainstream Rock chart, and its hazy, nocturnal mood has remained the group’s most recognizable calling card.\n\nLongevity is a core part of the story. The Church were inducted into the ARIA Hall of Fame in 2010, a public marker of their influence within Australian rock, and they have continued releasing new music well into the 2020s. Lineup changes have shifted the band’s internal balance over time—guitarist Marty Willson‑Piper departed in 2013 and Peter Koppes’ exit was announced in early 2020—but the core aesthetic has remained remarkably consistent: a dense weave of guitars, Kilbey’s distinctive vocal presence, and songs that prioritize mood and imagery. The band’s official biography highlights the concept‑driven *The Hypnogogue* (2023) as a late‑career renaissance moment, underlining how The Church continue to expand their sound without simply repeating earlier formulas.",
+      "NotableAlbums": [
+        {
+          "Title": "Of Skins and Heart",
+          "Year": "1981",
+          "Notes": "Debut studio album; established the band’s jangly, atmospheric post‑punk/new wave approach and produced early Australian singles such as “The Unguarded Moment.”"
+        },
+        {
+          "Title": "Heyday",
+          "Year": "1985",
+          "Notes": "Expanded the band’s sonic palette toward more ambitious, psychedelic textures; often cited as a key mid‑’80s statement."
+        },
+        {
+          "Title": "Starfish",
+          "Year": "1988",
+          "Notes": "International breakthrough; includes “Under the Milky Way,” the band’s best‑known single and U.S. crossover hit."
+        },
+        {
+          "Title": "Priest=Aura",
+          "Year": "1992",
+          "Notes": "A darker, more expansive album frequently highlighted by critics and fans as a high point of their early ’90s period."
+        },
+        {
+          "Title": "Sometime Anywhere",
+          "Year": "1994",
+          "Notes": "Began a new phase of experimentation and texture‑driven songwriting that set up the band’s long modern run."
+        },
+        {
+          "Title": "The Hypnogogue",
+          "Year": "2023",
+          "Notes": "Late‑career concept album described by the band as a renaissance moment; widely noted as their 26th studio album."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Under the Milky Way",
+          "Year": "1988",
+          "Notes": "Signature crossover single; U.S. Billboard Hot 100 peak No. 24 and a major rock‑radio staple."
+        },
+        {
+          "Title": "Reptile",
+          "Year": "1988",
+          "Notes": "Driving *Starfish* single built on interlocking guitars and a tense groove."
+        },
+        {
+          "Title": "The Unguarded Moment",
+          "Year": "1981",
+          "Notes": "Early Australian hit single that helped establish the band’s sound."
+        },
+        {
+          "Title": "Tantalized",
+          "Year": "1986",
+          "Notes": "Fan‑favorite mid‑’80s single that became a setlist staple."
+        },
+        {
+          "Title": "Metropolis",
+          "Year": "1990",
+          "Notes": "Atmospheric single that signaled the band’s shift toward broader, darker textures."
+        },
+        {
+          "Title": "Almost with You",
+          "Year": "1982",
+          "Notes": "Melodic early single associated with the band’s jangly pop phase."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1988",
+          "Title": "U.S. crossover breakthrough",
+          "Details": "“Under the Milky Way” reached No. 24 on the Billboard Hot 100 and became a defining rock‑radio track, helping make *Starfish* the band’s best‑known international release."
+        },
+        {
+          "Year": "2010",
+          "Title": "ARIA Hall of Fame induction",
+          "Details": "The Church were inducted into the Australian Recording Industry Association (ARIA) Hall of Fame, recognizing their long‑term impact on Australian rock."
+        },
+        {
+          "Year": "1980s–2020s",
+          "Title": "Sustained catalog and touring career",
+          "Details": "Maintained an unusually long creative run, releasing new studio albums across multiple decades and continuing as an active touring band into the 2020s."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Sydney, Australia in 1980.",
+        "Best‑known for the 1988 single “Under the Milky Way” and the album *Starfish*.",
+        "Inducted into the ARIA Hall of Fame in 2010.",
+        "Known for interlocking, chiming guitars and atmospheric, psychedelic‑tinged arrangements.",
+        "Core creative axis: Steve Kilbey (vocals/bass) with long‑time drummer/producer Tim Powles in the modern era."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site — The Church": "https://www.thechurchband.com/",
+        "AllMusic — The Church": "https://www.allmusic.com/artist/the-church-mn0000073337/biography",
+        "Wikipedia — The Church (band)": "https://en.wikipedia.org/wiki/The_Church_(band)",
+        "Billboard — The Church": "https://www.billboard.com/music/the-church"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Steve Kilbey",
+          "YearsActive": "1980–present",
+          "Roles": [
+            "Co-founder",
+            "Lead vocals",
+            "Primary songwriter",
+            "Bass guitar"
+          ],
+          "Instruments": [
+            "Vocals",
+            "Bass guitar",
+            "Guitar",
+            "Keyboards"
+          ],
+          "Albums": [
+            {
+              "Title": "Starfish",
+              "Year": "1988"
+            },
+            {
+              "Title": "Priest=Aura",
+              "Year": "1992"
+            },
+            {
+              "Title": "The Hypnogogue",
+              "Year": "2023"
+            }
+          ],
+          "Overview": "Co‑founded The Church and remains its central voice, writing much of the catalog and fronting every era of the band.",
+          "Bio": {
+            "FullName": "Steven John Kilbey",
+            "Birth": {
+              "Date": "1954-09-13",
+              "Place": "Welwyn Garden City, Hertfordshire, England"
+            },
+            "Nationality": "English-born Australian",
+            "Roles": [
+              "Singer-songwriter",
+              "Bassist",
+              "Multi-instrumentalist"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Bass guitar",
+              "Guitar",
+              "Keyboards"
+            ],
+            "FullText": "Steve Kilbey (born 13 September 1954 in Welwyn Garden City, Hertfordshire, England) is the co‑founder, lead vocalist, and bass guitarist of The Church, and the central lyrical voice behind the band’s catalog. After moving to Australia as a child, he came of age in Canberra’s music scene, developing a style that fused memorable melody with lyrics that feel like snapshots—images, moods, and half‑heard conversations. From the band’s start in 1980, Kilbey’s role has been twofold: anchoring the music with bass lines that often glide rather than thump, and shaping the band’s identity through writing and vocal presence.\n\nKilbey co‑founded The Church with guitarist Peter Koppes in 1980 and steered the group through its early Australian success into an international breakthrough. He co‑wrote “Under the Milky Way” with Karin Jansson, the single that introduced The Church to a much wider audience in 1988. What made Kilbey’s writing distinctive was not only the hook but the atmosphere around it: his melodies tend to be simple and direct, while the words remain suggestive and open‑ended, inviting listeners to project their own stories into the songs. That tension—between clarity of tune and ambiguity of meaning—runs through the band’s classic work and later explorations alike.\n\nAs personnel shifted over decades, Kilbey remained the constant. In the classic quartet era, his voice sat inside a lattice of guitars from Koppes and Marty Willson‑Piper and the crisp drive of drummer Richard Ploog. Later, as drummer/producer Tim Powles became a long‑term collaborator, the band’s arrangements often leaned further into texture, ambience, and studio detail. Kilbey’s steady presence helped keep the project coherent across phases that moved from early post‑punk edge to late‑’80s crossover, and then into the more expansive psychedelic and art‑rock directions that defined much of their ’90s and ’00s work.\n\nKilbey’s creative life has also extended well beyond The Church. In parallel with the band, he has maintained a substantial solo and collaborative discography, using those projects to explore different palettes than the band’s default guitar architecture—ranging from electronic and experimental ideas to more acoustic, song‑centered writing. Public profiles summarize that, as of 2020, he had released numerous solo albums and built a reputation as a prolific writer and collaborator. That breadth helps explain the longevity of The Church itself: Kilbey’s curiosity keeps feeding new material back into the band, whether in classic songs that have become touchstones or in later records that find fresh angles on the group’s signature atmosphere.\n\nIn The Church’s modern era, Kilbey has increasingly acted as both frontman and curator of the band’s continuity. The official band biography describes a contemporary lineup anchored by Kilbey and Powles and highlights the band’s ability to stay creatively vigorous into its fifth decade, including late‑career projects like the 2023 concept album *The Hypnogogue*. Across the full arc, Kilbey’s contribution is the connective tissue: a voice and writing style that make The Church instantly recognizable, even as the music around him evolves.",
+            "HonoursAndMilestones": [
+              "Co‑founded The Church in 1980 and has remained its only constant member across all eras.",
+              "Co‑wrote “Under the Milky Way,” the band’s signature international hit.",
+              "Maintained an extensive solo and collaborative discography alongside The Church."
+            ],
+            "FunFacts": [
+              "Co‑wrote “Under the Milky Way” with Karin Jansson.",
+              "Public profiles note a long-running parallel solo career in addition to his work with The Church."
+            ],
+            "Sources": [
+              {
+                "Title": "Steve Kilbey",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Steve_Kilbey"
+              },
+              {
+                "Title": "The Church — Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-church-mn0000073337/biography"
+              },
+              {
+                "Title": "The Band",
+                "Publisher": "The Church (Official Website)",
+                "Url": "https://www.thechurchband.com/the-band/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Peter Koppes",
+          "YearsActive": "1980–1992; 1997–2020",
+          "Roles": [
+            "Co-founder",
+            "Guitar",
+            "Songwriting",
+            "Arrangements"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Keyboards"
+          ],
+          "Albums": [
+            {
+              "Title": "Of Skins and Heart",
+              "Year": "1981"
+            },
+            {
+              "Title": "Starfish",
+              "Year": "1988"
+            },
+            {
+              "Title": "Priest=Aura",
+              "Year": "1992"
+            }
+          ],
+          "Overview": "Founding guitarist whose chiming, texture-driven parts helped define the band’s interlocking-guitar identity.",
+          "Bio": {
+            "FullName": "Peter James Koppes",
+            "Birth": {
+              "Date": "1955-11-21",
+              "Place": "Canberra, Australian Capital Territory, Australia"
+            },
+            "Nationality": "Australian",
+            "Roles": [
+              "Guitarist",
+              "Songwriter",
+              "Multi-instrumentalist"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Keyboards"
+            ],
+            "FullText": "Peter Koppes (born 21 November 1955 in Canberra, Australia) is a founding guitarist of The Church and one of the key architects of the band’s sound. If Steve Kilbey’s writing gives The Church its voice and narrative tone, Koppes’ playing supplies much of the color: ringing arpeggios, bright chord voicings, and a willingness to bring non‑standard textures into rock arrangements. His approach helped the band feel both immediate and slightly otherworldly—rooted in pop melody but shaded by—\n\nKoppes co‑founded The Church with Kilbey in 1980. Across the band’s early and middle decades, he was central to the interplay between guitars that became The Church’s hallmark, especially during the classic lineup with Marty Willson‑Piper on second guitar. Rather than working in a “lead versus rhythm” split, Koppes often played parts that interlocked with the other guitarist, creating patterns that move in and out of focus. That approach is essential to the band’s best‑known period, including the *Starf—\n\nOutside the band, Koppes has maintained a parallel career as a multi‑instrumentalist and solo artist. Public profiles and his official biography describe him as a player who also works on instruments beyond guitar, and he has released recordings under his own name and with related projects. Those outlets underline a trait fans hear in The Church: Koppes is less interested in “showing off” than in finding the specific texture a song needs. In practical terms, that means using alternate tunings, layered —\n\nKoppes’ long history with The Church also includes periods of absence and return, reflecting how the band’s internal chemistry has shifted over time. In the late 1990s he briefly departed before rejoining, and in early 2020 his exit was publicly announced, ending an almost continuous stretch with the group that began at its formation. Even with those changes, his guitar fingerprint is embedded across the band’s defining works: the early albums that established their sound, the mid‑’80s records that hon—\n\nIn The Church’s story, Koppes represents a particular kind of guitarist: one who treats the instrument as an atmospheric tool as much as a riff machine. His parts rarely call attention to themselves in isolation, but they are often the elements that make the songs glow. That sensibility—melodic, textural, and slightly surreal—helped define The Church’s identity and influenced generations of guitar bands drawn to shimmer, chorus‑washed arpeggios, and the emotional pull of spacious arrangements.",
+            "HonoursAndMilestones": [
+              "Co‑founded The Church in 1980 and shaped its signature guitar textures.",
+              "Played on the band’s defining 1980s and early‑1990s albums, including *Starfish* and *Priest=Aura*.",
+              "Released solo work and maintained a parallel career outside the band."
+            ],
+            "FunFacts": [
+              "Known for chiming arpeggios and texture-driven guitar parts rather than traditional lead‑guitar spotlighting.",
+              "His official biography highlights a long career as a multi‑instrumentalist and recording artist."
+            ],
+            "Sources": [
+              {
+                "Title": "Peter Koppes",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Peter_Koppes"
+              },
+              {
+                "Title": "Biography",
+                "Publisher": "PeterKoppes.com",
+                "Url": "https://www.peterkoppes.com/biography/"
+              },
+              {
+                "Title": "The Church (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Church_(band)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Marty Willson‑Piper",
+          "YearsActive": "1980–2013",
+          "Roles": [
+            "Guitar",
+            "Vocals",
+            "Songwriting"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Albums": [
+            {
+              "Title": "Heyday",
+              "Year": "1985"
+            },
+            {
+              "Title": "Starfish",
+              "Year": "1988"
+            },
+            {
+              "Title": "Gold Afternoon Fix",
+              "Year": "1990"
+            }
+          ],
+          "Overview": "Long‑time second guitarist in the classic lineup, crucial to the band’s two‑guitar weave and mid‑’80s expansion.",
+          "Bio": {
+            "FullName": "Martin Howard Willson‑Piper",
+            "Birth": {
+              "Date": "1958-05-07",
+              "Place": "Stockport, Cheshire, England"
+            },
+            "Nationality": "English",
+            "Roles": [
+              "Guitarist",
+              "Singer-songwriter"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Vocals"
+            ],
+            "FullText": "Marty Willson‑Piper (born 7 May 1958 in Stockport, Cheshire, England) became The Church’s second guitarist in 1980, joining just as the band was coalescing into its long‑running form. His arrival completed the classic two‑guitar front line that would define The Church’s sound for decades: rather than a single “lead guitarist,” the band relied on conversation between guitars—one part chiming, another answering, both weaving a web around Steve Kilbey’s vocals. Willson‑Piper’s playing —\n\nAcross the 1980s, Willson‑Piper’s contributions helped the band move from early post‑punk edges into a more expansive, psychedelic pop vocabulary. His guitar tones—often bright, chorus‑tinted, and rhythmically intricate—are integral to the band’s best‑known records, including the era surrounding *Heyday* (1985/86) and the international breakthrough of *Starfish* (1988). When listeners describe The Church as “cinematic,” they are often responding to the space created by those interlocking guitars: Will—\n\nWillson‑Piper was also notable for treating “band member” as only one part of his musical identity. Over the years he pursued side projects and collaborations, and sources like AllMusic profile him as an artist in his own right beyond The Church. He also spent periods working with other bands, including stints with the U.K. group All About Eve, while continuing to record and tour with The Church for much of his tenure. That outside activity is part of what made him valuable inside The Church: he brought—\n\nAfter more than three decades with the band, Willson‑Piper’s relationship with The Church changed. In 2013, it was publicly announced that he had been replaced in the lineup by Australian guitarist Ian Haug, and Willson‑Piper shifted his focus toward his own music and collaborations. Even so, his imprint remains deeply embedded in The Church’s identity: the two‑guitar architecture that fans associate with the band’s classic period is inseparable from his presence.\n\nIn the broader story of alternative rock, Willson‑Piper represents a particular kind of guitarist—one whose virtuosity shows up in texture, timing, and arrangement choices rather than obvious soloing. His work with The Church demonstrates how a guitar can function like a film score instrument, building atmosphere and emotional tension through repeating figures and subtle variations. For many listeners, that sensibility is a key reason The Church’s music has endured: it rewards deep listening, and it keeps unveiling new detail over time.",
+            "HonoursAndMilestones": [
+              "Joined The Church in 1980 and remained a core member for 33 years.",
+              "Helped define the band’s interlocking two‑guitar architecture across key releases.",
+              "Worked with other acts, including All About Eve."
+            ],
+            "FunFacts": [
+              "Associated with a wide range of collaborations outside The Church.",
+              "Replaced in the touring lineup in 2013."
+            ],
+            "Sources": [
+              {
+                "Title": "Marty Willson-Piper",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Marty_Willson-Piper"
+              },
+              {
+                "Title": "Marty Willson-Piper (Artist Profile)",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/marty-willson-piper-mn0000524430/biography"
+              },
+              {
+                "Title": "The Church (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Church_(band)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Richard Ploog",
+          "YearsActive": "1981–1990",
+          "Roles": [
+            "Drums",
+            "Percussion"
+          ],
+          "Instruments": [
+            "Drums",
+            "Percussion"
+          ],
+          "Albums": [
+            {
+              "Title": "Heyday",
+              "Year": "1985"
+            },
+            {
+              "Title": "Starfish",
+              "Year": "1988"
+            }
+          ],
+          "Overview": "Classic‑era drummer whose crisp, propulsive feel powered the band’s 1980s rise and breakthrough.",
+          "Bio": {
+            "FullName": "Richard John Ploog",
+            "Birth": {
+              "Date": "1962-10-29",
+              "Place": "Adelaide, South Australia, Australia"
+            },
+            "Nationality": "Australian",
+            "Roles": [
+              "Drummer"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion"
+            ],
+            "FullText": "Richard Ploog (born 29 October 1962 in Adelaide, South Australia) was The Church’s drummer during a crucial period of their rise, playing with the band from 1981 to 1990. He joined as the group’s early lineup settled into the configuration that many fans consider classic: Steve Kilbey on bass and vocals, Peter Koppes and Marty Willson‑Piper on guitars, and Ploog on drums. That quartet refined The Church’s signature balance of propulsion and atmosphere—rhythm that drives without crowd—\n\nPloog’s drumming on the band’s 1980s records is often described in terms of feel rather than flash. He tended to play with a crisp, forward motion that kept the songs moving while still leaving room for the guitars to shimmer and for Kilbey’s vocal phrasing to float. In practice, that meant steady patterns with subtle variations: hi‑hat work that changes the song’s “light level,” tom figures that widen the stereo picture, and fills that push a chorus forward without turning the performance into a drum—\nHis work is particularly associated with the band’s breakthrough era surrounding *Starfish* (1988) and the international success of “Under the Milky Way,” where the groove has to be both hypnotic and radio‑friendly. Ploog’s playing helped the band sound tight without losing the dreamy, slightly surreal character that made them distinctive. When The Church later explored more open‑ended, psychedelic arrangements in the 1990s and beyond, listeners could hear how the earlier Ploog era had established a baseline of disciplined timekeeping that still felt musical.\n\nPloog’s story also illustrates how life inside a long‑running band can be intense. By the end of the decade, the pressures of touring and personal struggles contributed to his departure from The Church around 1990. After leaving, he continued working as a musician and collaborator, including connections to other Australian acts and projects with fellow Church members. Even for listeners who primarily associate The Church with its guitars, Ploog’s contribution is central: his drumming is the engine that let those guitar patterns sparkle without collapsing into drift.\n\nIn retrospect, Ploog’s years with The Church can be heard as the rhythmic foundation of the band’s first major arc: the move from cult Australian success to international recognition. For many fans, that period remains definitive, and Ploog’s playing is one of the reasons those recordings age so well. He combines restraint with momentum, making the band’s atmospheres feel physical rather than purely ambient.",
+            "HonoursAndMilestones": [
+              "Served as The Church’s drummer through their rise and late‑’80s breakthrough (1981–1990).",
+              "Played on multiple defining albums, including *Heyday* and *Starfish*."
+            ],
+            "FunFacts": [
+              "Often associated with the band’s crisp, propulsive 1980s feel."
+            ],
+            "Sources": [
+              {
+                "Title": "Richard Ploog",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Richard_Ploog"
+              },
+              {
+                "Title": "The Church (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Church_(band)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Tim Powles",
+          "YearsActive": "1994–present",
+          "Roles": [
+            "Drums",
+            "Producer",
+            "Engineer"
+          ],
+          "Instruments": [
+            "Drums",
+            "Percussion",
+            "Keyboards",
+            "Programming"
+          ],
+          "Albums": [
+            {
+              "Title": "Sometime Anywhere",
+              "Year": "1994"
+            },
+            {
+              "Title": "Further/Deeper",
+              "Year": "2014"
+            },
+            {
+              "Title": "The Hypnogogue",
+              "Year": "2023"
+            }
+          ],
+          "Overview": "Modern‑era drummer and key production voice who helped sustain the band’s output from the 1990s into the 2020s.",
+          "Bio": {
+            "FullName": "Timothy Guy Gerard Powles",
+            "Birth": {
+              "Date": "1959-12-21",
+              "Place": "Wellington, New Zealand"
+            },
+            "Nationality": "New Zealand",
+            "Roles": [
+              "Drummer",
+              "Producer",
+              "Engineer"
+            ],
+            "Instruments": [
+              "Drums",
+              "Percussion",
+              "Keyboards",
+              "Programming"
+            ],
+            "FullText": "Tim Powles (born 21 December 1959 in Wellington, New Zealand) is the longtime drummer and a key creative force in The Church’s later and modern eras, with a role that extends beyond performance into production and studio craft. Before joining The Church as a full‑time member, Powles built experience across Australasian rock scenes as a drummer and engineer, and those skills made him an ideal fit for a band whose identity relies on nuance, texture, and careful arrangement. He first connected —\n\nPowles became especially important in the 1990s and beyond as The Church navigated lineup shifts and a changing industry. As the band’s music leaned further into spacious psychedelia and studio experimentation, a drummer who could think like a producer mattered as much as a drummer who could keep time. Powles’ playing tends to be musical and color‑oriented: cymbal choices that paint the top end, kick‑drum patterns that support the song’s drift rather than locking it into rigid rock tropes, and fills that —\n\nIn addition to drumming, Powles has been credited with engineering and producing work tied to The Church and to side projects involving band members. That production role aligns with the way the band’s later albums often feel like immersive environments rather than straightforward “band‑in‑a‑room” documents. Fans of The Church’s contemporary period frequently point to this era as one where the group sustained its identity while continuing to explore: the songs remain built from guitar shimmer and Kilbey’s voice,—\n\nThe Church’s official biography emphasizes the durability of the band into its fifth decade and frames *The Hypnogogue* (2023) as a late‑career renaissance; Powles is part of that continuity, anchoring the rhythm section while also helping shape the sonic frame around the songs. In a band where the guitars can blur into each other and lyrics can function like images, the drummer’s job is partly architectural: decide where the listener stands and how the song breathes. Powles’ contribution is that architecture.\n\nViewed across The Church’s long history, Powles represents the bridge between classic-era momentum and modern-era immersion. He helped the band transition from the world of late‑’80s radio visibility into a long, productive stretch of albums and tours defined by craft and atmosphere. For listeners, his era underscores a key truth about The Church: their most distinctive quality is not one instrument or one record, but the way the band continually rebuilds its sound around a coherent aesthetic.",
+            "HonoursAndMilestones": [
+              "Long‑time modern-era member combining drumming with production and studio craft.",
+              "Inducted into the ARIA Hall of Fame with The Church in 2010."
+            ],
+            "FunFacts": [
+              "Known to some fans by the nickname “timEbandit.”"
+            ],
+            "Sources": [
+              {
+                "Title": "Tim Powles",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Tim_Powles"
+              },
+              {
+                "Title": "The Band",
+                "Publisher": "The Church (Official Website)",
+                "Url": "https://www.thechurchband.com/the-band/"
+              },
+              {
+                "Title": "The Church (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Church_(band)"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Nick Ward",
+          "YearsActive": "1980–1981",
+          "Roles": [
+            "Drums"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            {
+              "Title": "Of Skins and Heart",
+              "Year": "1981"
+            }
+          ],
+          "Overview": "Original drummer who played on the debut-era recordings before the lineup stabilized."
+        },
+        {
+          "Name": "Jay Dee Daugherty",
+          "YearsActive": "1990–1993",
+          "Roles": [
+            "Drums"
+          ],
+          "Instruments": [
+            "Drums"
+          ],
+          "Albums": [
+            {
+              "Title": "Gold Afternoon Fix",
+              "Year": "1990"
+            },
+            {
+              "Title": "Priest=Aura",
+              "Year": "1992"
+            }
+          ],
+          "Overview": "Former Patti Smith Group drummer who joined after the 1980s lineup and played on early‑1990s releases."
+        },
+        {
+          "Name": "Ian Haug",
+          "YearsActive": "2013–present",
+          "Roles": [
+            "Guitar"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            {
+              "Title": "The Hypnogogue",
+              "Year": "2023"
+            }
+          ],
+          "Overview": "Joined after 2013, bringing a modern alternative rock guitar voice while preserving the band’s multi‑guitar architecture."
+        },
+        {
+          "Name": "Jeffrey Cain",
+          "YearsActive": "2014–present",
+          "Roles": [
+            "Guitar",
+            "Keyboards"
+          ],
+          "Instruments": [
+            "Guitar",
+            "Keyboards"
+          ],
+          "Albums": [
+            {
+              "Title": "The Hypnogogue",
+              "Year": "2023"
+            }
+          ],
+          "Overview": "Modern-era multi‑instrumentalist collaborator who became part of the touring and recording lineup."
+        },
+        {
+          "Name": "Ashley Naylor",
+          "YearsActive": "2020–present",
+          "Roles": [
+            "Guitar"
+          ],
+          "Instruments": [
+            "Guitar"
+          ],
+          "Albums": [
+            {
+              "Title": "The Hypnogogue",
+              "Year": "2023"
+            }
+          ],
+          "Overview": "Joined the modern lineup after 2020, helping maintain the band’s layered guitar sound live and in newer recordings."
+        }
+      ]
     },
     {
       "ArtistID": "cinderella",
