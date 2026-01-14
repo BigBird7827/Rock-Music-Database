@@ -2165,27 +2165,468 @@
     {
       "ArtistID": "pearl-jam",
       "Name": "Pearl Jam",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Seattle",
+        "Region": "Washington",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1990–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Grunge",
+        "Hard rock"
+      ],
+      "Labels": [
+        "Epic",
+        "Monkeywrench",
+        "Republic"
+      ],
+      "Overview": "Pearl Jam are a Seattle, Washington rock band formed in 1990 by bassist Jeff Ament and guitarist Stone Gossard after the breakup of Mother Love Bone following the death of singer Andrew Wood. With guitarist Mike McCready added and vocalist Eddie Vedder recruited from San Diego via a demo exchange, the group quickly developed a style that fused the density of late‑’70s and ’80s hard rock with punk urgency and folk‑leaning songwriting. Emerging alongside Nirvana, Soundgarden and Alice in Chains, they became one of the key bands associated with the early‑’90s grunge wave while maintaining a broader identity rooted in classic rock, melodic hooks and arena‑scale dynamics.\n\nTheir debut album Ten (1991) established the template—anthemic guitar layers, Ament’s muscular bass lines, and Vedder’s baritone voice delivering lyrics that mixed personal vulnerability with social observation. Follow‑ups Vs. (1993) and Vitalogy (1994) arrived amid intense mainstream attention; the band responded by limiting conventional promotion, leaning into riskier material, and later expanding their palette on No Code (1996) and Yield (1998). Across the 2000s and 2010s, Pearl Jam sustained a dual reputation: a studio band with a deep catalog and an elite live act that treated concerts as one‑off events, supported by an extensive official bootleg program that documented tours and rewarded long‑time fans.\n\nPearl Jam’s story is also shaped by principled choices. In the mid‑1990s they publicly challenged Ticketmaster over service fees and venue control, and they have repeatedly tied their profile to activism and benefit work. The lineup has remained anchored by Vedder, Gossard, McCready and Ament; longtime drummer Matt Cameron (who joined in 1998) announced his departure in 2025. Inducted into the Rock & Roll Hall of Fame in 2017, Pearl Jam have outlasted the era that first defined them by continually balancing immediacy and craft—writing songs that work in a club, a stadium, or a three‑hour set where the band and audience shape the night together.",
+      "NotableAlbums": [
+        {
+          "Title": "Ten",
+          "Year": "1991",
+          "Notes": "Debut album that broke the band worldwide and established their anthemic early sound."
+        },
+        {
+          "Title": "Vs.",
+          "Year": "1993",
+          "Notes": "Commercial peak-era release that set a then-record U.S. first-week sales mark and pushed a rawer live feel."
+        },
+        {
+          "Title": "Vitalogy",
+          "Year": "1994",
+          "Notes": "A darker, more eclectic album that signaled the band’s willingness to resist straightforward blockbuster expectations."
+        },
+        {
+          "Title": "Yield",
+          "Year": "1998",
+          "Notes": "A mature, expansive late-’90s statement that balanced melody and grit and became a live staple era."
+        },
+        {
+          "Title": "Binaural",
+          "Year": "2000",
+          "Notes": "Turn-of-the-century record with layered production and an emphasis on atmosphere and dynamics."
+        },
+        {
+          "Title": "Gigaton",
+          "Year": "2020",
+          "Notes": "Late-career album shaped by contemporary anxieties and band-wide writing, released after a long studio gap."
+        },
+        {
+          "Title": "Dark Matter",
+          "Year": "2024",
+          "Notes": "Twelfth studio album released on Monkeywrench/Republic, produced by Andrew Watt."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Alive",
+          "Year": "1991",
+          "Notes": "Early anthem whose live evolution became a defining concert moment."
+        },
+        {
+          "Title": "Even Flow",
+          "Year": "1991",
+          "Notes": "One of the band’s breakthrough singles and a staple of their hardest-hitting sets."
+        },
+        {
+          "Title": "Jeremy",
+          "Year": "1991",
+          "Notes": "A major early hit that cemented the band’s presence in early-’90s mainstream rock."
+        },
+        {
+          "Title": "Daughter",
+          "Year": "1993",
+          "Notes": "A signature mid-tempo song that highlights the band’s melodic side and Vedder’s storytelling."
+        },
+        {
+          "Title": "Better Man",
+          "Year": "1994",
+          "Notes": "A widely known ballad from the Vitalogy era, frequently reinterpreted live."
+        },
+        {
+          "Title": "Yellow Ledbetter",
+          "Year": "1992",
+          "Notes": "Beloved B-side turned perennial set-closer, noted for McCready’s expressive lead work."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2017",
+          "Title": "Rock & Roll Hall of Fame Induction",
+          "Details": "Inducted as part of the 2017 class, recognizing the band’s impact and longevity."
+        },
+        {
+          "Year": "1993",
+          "Title": "Record-setting first-week U.S. sales for Vs.",
+          "Details": "Vs. debuted with roughly 950,000 U.S. copies sold in its first week, a record at the time."
+        },
+        {
+          "Year": "1994–1995",
+          "Title": "Public challenge to Ticketmaster fees and venue control",
+          "Details": "The band confronted ticketing practices in the mid-1990s, becoming a high-profile example of artist-vs-industry conflict."
+        },
+        {
+          "Year": "1990s–present",
+          "Title": "Concert bootleg program and live reputation",
+          "Details": "Built one of rock’s most documented touring catalogs through official live releases and fan-focused archival practices."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Seattle in 1990 from the aftermath of Mother Love Bone.",
+        "Originally performed under the name “Mookie Blaylock” before adopting Pearl Jam.",
+        "Debut album Ten (1991) established their early sound and signature songs.",
+        "Vs. (1993) set a then-record for first-week U.S. album sales.",
+        "Known for long, unique setlists and a deep official bootleg/live release culture.",
+        "Inducted into the Rock & Roll Hall of Fame in 2017.",
+        "Longtime drummer Matt Cameron (1998–2025) departed in 2025; the band has not publicly finalized a permanent replacement as of early 2026."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://pearljam.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Pearl_Jam",
+        "Discography": "https://pearljam.com/music/studio"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Eddie Vedder",
+          "YearsActive": "1990–present",
+          "Roles": "Lead vocals; guitar",
+          "Instruments": "Vocals; guitar; ukulele",
+          "Albums": [
+            "Ten (1991)",
+            "Vs. (1993)",
+            "Vitalogy (1994)",
+            "No Code (1996)",
+            "Yield (1998)",
+            "Binaural (2000)",
+            "Riot Act (2002)",
+            "Pearl Jam (2006)",
+            "Backspacer (2009)",
+            "Lightning Bolt (2013)",
+            "Gigaton (2020)",
+            "Dark Matter (2024)"
+          ],
+          "Bio": {
+            "FullName": "Edward Louis Severson III (Eddie Vedder)",
+            "Birth": {
+              "Date": "1964-12-23",
+              "Place": "Evanston, Illinois, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Overview": "Singer, lyricist, and primary frontman whose baritone voice and emotionally direct delivery defined Pearl Jam’s identity from their earliest recordings through decades of touring and activism.",
+            "FullText": "Eddie Vedder (born Edward Louis Severson III; December 23, 1964) became the unmistakable voice of Pearl Jam at the moment alternative rock went global. Raised largely in the San Diego area after being born in Evanston, Illinois, Vedder grew up with a deep attachment to classic rock, punk and the emerging American underground. Before fame, he worked day jobs, surfed, and played in local groups—most notably Bad Radio—honing a stage presence that combined intensity with self‑containment. That pre‑Pearl Jam period matters because it shaped his songwriting: he learned to tell stories in plain language, then complicate them with ambiguity and emotional subtext, a habit that would become central to Pearl Jam’s appeal.\n\nIn 1990, Seattle musicians Stone Gossard and Jeff Ament were reeling from the end of Mother Love Bone following the death of Andrew Wood. With Mike McCready on board, they recorded instrumental demos and circulated them widely. One tape made its way to Vedder through mutual connections; he responded by writing and recording vocal ideas over the instrumentals—material that evolved into cornerstone early songs. When he traveled to Seattle to audition, the chemistry was immediate. Vedder’s baritone timbre and phrasing—part roar, part croon—gave the band a focal point that felt different from their peers: less sneer, more empathy, but still confrontational when the moment demanded it.\n\nPearl Jam’s debut Ten placed Vedder in the uncomfortable position of sudden prominence. Songs like “Alive,” “Even Flow,” and “Jeremy” made him a defining frontman of the early ’90s, yet he was visibly uneasy with the machinery of celebrity. That tension shaped the band’s next phase and, in turn, Vedder’s public persona. Instead of chasing an easy path, Pearl Jam scaled back traditional media exposure, complicated their sound and messaging, and leaned into the idea that a rock band could be both massively popular and stubbornly self‑directed. Vedder became a conduit for that approach: he gave the songs their emotional charge while also helping steer the group away from purely commercial instincts.\n\nAs the catalog expanded, Vedder’s role broadened. He remained the primary lyricist and a key melody writer, increasingly contributing guitar parts and bringing in material that reflected folk, classic rock balladry, and sometimes punk bluntness. In live performance, he developed a style that treats the stage as a conversation: stories, humor, and direct engagement mix with moments of near‑ritual intensity. Pearl Jam’s long, improvisational sets—often unique in sequencing—became a setting where Vedder’s leadership is less about control and more about reading the room and pushing the band toward a particular emotional arc over the course of a night.\n\nOutside the band, Vedder has maintained a parallel identity as a solo artist and collaborator, particularly in projects connected to film and benefit work. His solo recordings emphasize intimacy and narrative detail, while guest appearances highlight his respect for older songwriting traditions and his willingness to step outside the arena‑rock context. Throughout his career, he has been closely associated with social and political activism—supporting voting drives, environmental causes, and benefit concerts—often using Pearl Jam’s platform without turning the music into slogans. The pattern is consistent: personal conviction presented through art and community rather than branding.\n\nVedder’s endurance is partly technical—he has preserved a demanding vocal style across decades of touring—but it is also conceptual. He has allowed his writing to age with him, moving from the urgency of early‑’90s trauma narratives to broader reflections on responsibility, family, and mortality, while keeping the immediacy that made the early records resonate. In a band defined by strong individual voices, Vedder remains the emotional center: the performer whose delivery can turn a mid‑tempo song into a communal surge, and the writer whose words often leave space for listeners to map their own lives onto the music.",
+            "HonoursAndMilestones": [
+              "Joined Pearl Jam in 1990 after responding to an instrumental demo with vocal ideas.",
+              "Inducted into the Rock & Roll Hall of Fame with Pearl Jam (2017)."
+            ],
+            "FunFacts": [
+              "Known for treating live setlists as one-off “stories,” often reshaping songs from night to night.",
+              "Has maintained an active solo and collaboration profile alongside Pearl Jam."
+            ],
+            "Sources": [
+              {
+                "Title": "Eddie Vedder Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/eddie-vedder-mn0000175025"
+              },
+              {
+                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Pearl-Jam"
+              },
+              {
+                "Title": "Pearl Jam (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pearl_Jam"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Stone Gossard",
+          "YearsActive": "1990–present",
+          "Roles": "Guitar; songwriting",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Ten (1991)",
+            "Vs. (1993)",
+            "Vitalogy (1994)",
+            "No Code (1996)",
+            "Yield (1998)",
+            "Binaural (2000)",
+            "Riot Act (2002)",
+            "Pearl Jam (2006)",
+            "Backspacer (2009)",
+            "Lightning Bolt (2013)",
+            "Gigaton (2020)",
+            "Dark Matter (2024)"
+          ],
+          "Bio": {
+            "FullName": "Stone Carpenter Gossard",
+            "Birth": {
+              "Date": "1966-07-20",
+              "Place": "Seattle, Washington, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Overview": "Co-founding guitarist whose riff-driven writing and arrangement instincts shaped Pearl Jam’s sound and long-term band identity.",
+            "FullText": "Stone Gossard (born July 20, 1966) is one of Pearl Jam’s foundational architects—less a spotlight‑seeking guitar hero than a builder of riffs, textures and band chemistry. A Seattle native, he came up in the same scene that produced the late‑’80s wave of Northwest bands, developing a playing style that blends punk economy with classic‑rock weight. Before Pearl Jam, Gossard co‑founded Green River, a group often cited as a bridge between hardcore energy and the sludgier, riff‑driven sound that later became associated with grunge. That early experience established his strengths: writing parts that feel inevitable, arranging guitars to lock with bass and drums, and understanding how a song’s architecture can carry emotion as strongly as lyrics.\n\nAfter Green River, Gossard and Jeff Ament formed Mother Love Bone, whose combination of glam swagger and hard‑rock ambition pointed toward a larger future. The project ended abruptly with Andrew Wood’s death in 1990, but the aftermath became the origin story of Pearl Jam. Gossard returned to writing and demoing material almost immediately, determined to move forward while honoring the community they had built. The earliest Pearl Jam demos showcase his instinct for dynamics: riffs that can be stripped down to a palm‑muted pulse or opened up into ringing chords, creating the sense of uplift that would define much of the band’s first decade.\n\nWithin Pearl Jam, Gossard is often the quiet driver of the songwriting engine. He has supplied key riffs and progressions across the catalog, and he helps shape the band’s identity by balancing aggression with melody. His guitar work is rarely about virtuoso display; instead it’s about tone, timing and arrangement—how two guitars can interlock, how a chord voicing can make room for Vedder’s voice, how a change in rhythm can reframe a lyric. In the early years, that approach gave Ten and Vs. their muscular backbone, while later records benefited from his willingness to embrace looser structures and more experimental sequencing.\n\nGossard’s contributions also include an ongoing commitment to the broader Seattle ecosystem. He has participated in numerous side projects—both as a player and as a facilitator—and has been associated with building infrastructure: studios, labels, and local networks that support musicians outside the major‑label spotlight. That behind‑the‑scenes orientation is consistent with Pearl Jam’s larger ethos: treat the band not as a product but as a long‑term community, with decisions made for sustainability and artistic autonomy.\n\nAs Pearl Jam’s career stretched into decades, Gossard’s role became even more crucial. A band that tours heavily and writes intermittently needs internal stability, and Gossard has been part of the connective tissue that keeps the unit coherent through changes in drummer, industry shifts, and evolving audience expectations. He is also a link between eras: his roots in punk‑inflected Seattle rock connect the early scene to Pearl Jam’s later status as a legacy act that still writes new songs. Whether delivering a simple two‑note figure or a shimmering chord progression, Gossard’s playing emphasizes the same principle—serve the song, and let the cumulative force of the band do the talking.",
+            "HonoursAndMilestones": [
+              "Co-founded Green River and Mother Love Bone before forming Pearl Jam.",
+              "Inducted into the Rock & Roll Hall of Fame with Pearl Jam (2017)."
+            ],
+            "FunFacts": [
+              "Often described as the band’s structural songwriter, building chord beds and riffs that define the feel of tracks.",
+              "Active in side projects and broader Seattle music infrastructure."
+            ],
+            "Sources": [
+              {
+                "Title": "Stone Gossard Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/stone-gossard-mn0000622886"
+              },
+              {
+                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Pearl-Jam"
+              },
+              {
+                "Title": "Pearl Jam (band overview)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Pearl_Jam"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike McCready",
+          "YearsActive": "1990–present",
+          "Roles": "Lead guitar",
+          "Instruments": "Guitar",
+          "Albums": [
+            "Ten (1991)",
+            "Vs. (1993)",
+            "Vitalogy (1994)",
+            "No Code (1996)",
+            "Yield (1998)",
+            "Binaural (2000)",
+            "Riot Act (2002)",
+            "Pearl Jam (2006)",
+            "Backspacer (2009)",
+            "Lightning Bolt (2013)",
+            "Gigaton (2020)",
+            "Dark Matter (2024)"
+          ],
+          "Bio": {
+            "FullName": "Michael David McCready",
+            "Birth": {
+              "Date": "1966-04-05",
+              "Place": "Pensacola, Florida, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Overview": "Lead guitarist whose blues-and-psychedelia-inflected solos and live improvisation are central to Pearl Jam’s concert identity.",
+            "FullText": "Mike McCready (born April 5, 1966) is Pearl Jam’s most overtly lead‑oriented guitarist, known for expressive solos that draw on blues, classic rock and psychedelic phrasing. Born in Pensacola, Florida and raised in the Pacific Northwest, McCready grew up absorbing the guitar‑hero tradition—players who treat the solo as an emotional statement rather than a technical exercise. That sensibility became a defining part of Pearl Jam’s sound: even when the band resisted standard rock‑star tropes, McCready’s tone and phrasing provided a bridge to older audiences and to the lineage of arena rock that Pearl Jam both inherited and challenged.\n\nMcCready’s arrival in the band was pivotal. When Stone Gossard and Jeff Ament began assembling a new group after Mother Love Bone, they wanted a guitarist who could add color and urgency. McCready brought a combination of melodic instinct and aggressive attack, and his chemistry with Gossard created Pearl Jam’s signature two‑guitar interplay: Gossard often provides the structural riff or chord bed, while McCready adds counter‑melodies, harmonized lines and soaring lead passages. On Ten, his playing on tracks like “Alive” helped define the band’s early identity—anthemic, emotionally direct, and capable of turning personal narratives into stadium‑scale catharsis.\n\nBeyond the early hits, McCready’s career inside Pearl Jam reflects a musician who thrives in change. As the band moved away from the tightly constructed sound of Ten and Vs., he adapted by focusing on texture, rhythmic detail, and restraint. His solos often became shorter but more pointed, serving as accents within songs that could be more jagged or experimental. In live performance, however, he remained a central improvisational voice. Pearl Jam’s concerts are famous for their unpredictability; McCready’s ability to stretch songs, respond to the moment, and keep the band’s intensity high is a major reason fans treat shows as singular events worth collecting.\n\nMcCready’s musical life also extends outward through collaborations and side projects. He has participated in supergroup and benefit contexts that underscore his roots in the Seattle community, and he has regularly appeared alongside musicians he admires. These projects reveal the same traits heard in Pearl Jam: a respect for tradition, a willingness to be vulnerable in tone, and an interest in the emotional power of a simple melodic phrase. He is also recognized for openness about personal struggles, using public visibility to discuss recovery and mental health in ways that have resonated with fans who see Pearl Jam as a band that treats listeners as adults rather than consumers.\n\nOver decades, McCready’s guitar work has remained a through‑line even as the band’s production styles changed—from the rawer, looser feel of mid‑’90s records to later albums that emphasized clarity and punch. He can deliver shimmering arpeggios, abrasive noise, or a classic‑rock solo that feels like a speech. That versatility keeps Pearl Jam’s catalog from becoming monochrome. In a band where the voice and lyrics carry obvious weight, McCready’s leads often function as a second narrator—wordless but unmistakably expressive, turning the band’s internal tension into melodic release.",
+            "HonoursAndMilestones": [
+              "Joined the founding lineup in 1990 and helped define the band’s early guitar interplay.",
+              "Inducted into the Rock & Roll Hall of Fame with Pearl Jam (2017)."
+            ],
+            "FunFacts": [
+              "Frequently cited for expressive solos that evolve significantly in live performance.",
+              "Active collaborator in Seattle-connected projects and benefit contexts."
+            ],
+            "Sources": [
+              {
+                "Title": "Mike McCready Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/mike-mccready-mn0000491447"
+              },
+              {
+                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Pearl-Jam"
+              },
+              {
+                "Title": "Mike McCready",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Mike_McCready"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jeff Ament",
+          "YearsActive": "1990–present",
+          "Roles": "Bass; backing vocals; co-founder",
+          "Instruments": "Bass guitar; double bass",
+          "Albums": [
+            "Ten (1991)",
+            "Vs. (1993)",
+            "Vitalogy (1994)",
+            "No Code (1996)",
+            "Yield (1998)",
+            "Binaural (2000)",
+            "Riot Act (2002)",
+            "Pearl Jam (2006)",
+            "Backspacer (2009)",
+            "Lightning Bolt (2013)",
+            "Gigaton (2020)",
+            "Dark Matter (2024)"
+          ],
+          "Bio": {
+            "FullName": "Jeffrey Allen Ament",
+            "Birth": {
+              "Date": "1963-03-10",
+              "Place": "Havre, Montana, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Overview": "Co-founding bassist whose melodic low-end lines and band-building ethos helped define Pearl Jam’s sound and values.",
+            "FullText": "Jeff Ament (born March 10, 1963) is Pearl Jam’s bassist and one of its co‑founders, a musician whose playing style is both physically forceful and melodically attentive. Born in Havre, Montana and raised in the small town of Big Sandy, Ament’s early life shaped a work ethic and groundedness that have carried through decades of touring. He moved toward punk and hard rock as a teenager, and by the time he relocated to Seattle in the 1980s he was part of a scene built on DIY values, intense live performance, and a sense of community that often mattered more than industry approval.\n\nAment’s pre‑Pearl Jam résumé is a compressed history of Seattle rock before it became a global headline. He played in Green River and then, with Stone Gossard, in Mother Love Bone. Those bands helped define the region’s sound: heavy riffs, punk velocity, and a willingness to blend metal and pop instincts without apology. When Mother Love Bone ended with Andrew Wood’s death, Ament and Gossard faced a choice—disband entirely or rebuild. Their decision to start over became the foundation of Pearl Jam, and Ament’s role from the beginning was not only musical but conceptual: helping set the band’s aesthetic, image decisions, and the idea that the group should operate on its own terms.\n\nAs a bassist, Ament is central to Pearl Jam’s physical impact. His lines often function as a second melodic engine, weaving between Gossard’s riffs and McCready’s leads while anchoring the groove. On early material, he combines a punchy, almost percussive attack with lyrical movement that keeps the songs from feeling static. His playing reflects wide influences—from punk’s forward momentum to classic rock’s melodic bass tradition—and it’s paired with a sensitivity to dynamics that supports Vedder’s vocal storytelling. In the band’s quieter songs, Ament often supplies subtle countermelodies; in heavier tracks, he drives the riff with a locked‑in low‑end force.\n\nAment has also been one of Pearl Jam’s most active members outside the core band format. He has released solo work, formed and participated in side projects, and collaborated across genres—activities that reveal a broader artistic identity involving design and visual culture as well as music. That multidisciplinary streak aligns with Pearl Jam’s emphasis on artwork, poster culture, and the archival approach to live recordings. In many ways, Ament embodies the band’s long‑term mindset: build a catalog, build relationships with fans, and treat the work as a craft that continues beyond radio cycles.\n\nPublicly, Ament is also associated with Pearl Jam’s willingness to confront industry issues. During the band’s clash with Ticketmaster in the mid‑1990s, he was among the members who spoke out about service fees and venue control, reflecting a commitment to keeping concerts accessible. That episode fits his broader reputation as someone who cares about the ecosystem around music—venues, communities, and the practical realities that determine who can participate as a fan or as an artist. After decades, Ament remains a steady center of gravity: a bassist whose tone is instantly recognizable in the band’s mix, and a co‑founder whose values helped shape Pearl Jam’s identity as much as any single hit song.",
+            "HonoursAndMilestones": [
+              "Co-founded Pearl Jam after playing in Green River and Mother Love Bone.",
+              "Inducted into the Rock & Roll Hall of Fame with Pearl Jam (2017)."
+            ],
+            "FunFacts": [
+              "Known for a punchy, percussive bass tone that remains prominent even in dense guitar mixes.",
+              "Active in side projects, solo releases, and visual/design aspects of the band’s culture."
+            ],
+            "Sources": [
+              {
+                "Title": "Jeff Ament Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/jeff-ament-mn0000239393"
+              },
+              {
+                "Title": "Pearl Jam | Members, Songs, Drummer, Lead Singer",
+                "Publisher": "Encyclopaedia Britannica",
+                "Url": "https://www.britannica.com/topic/Pearl-Jam"
+              },
+              {
+                "Title": "Jeff Ament",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jeff_Ament"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Matt Cameron",
+          "YearsActive": "1998–2025",
+          "Roles": "Drums; percussion",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            "Binaural (2000)",
+            "Riot Act (2002)",
+            "Pearl Jam (2006)",
+            "Backspacer (2009)",
+            "Lightning Bolt (2013)",
+            "Gigaton (2020)",
+            "Dark Matter (2024)"
+          ],
+          "Bio": {
+            "FullName": "Matthew David Cameron",
+            "Birth": {
+              "Date": "1962-11-28",
+              "Place": "San Diego, California, United States"
+            },
+            "Death": {
+              "Date": "",
+              "Place": ""
+            },
+            "Overview": "Longtime drummer (1998–2025) whose power, precision, and live stamina anchored Pearl Jam’s rhythm section for nearly three decades.",
+            "FullText": "Matt Cameron (born November 28, 1962) is widely regarded as one of the defining drummers of the Seattle era, with a résumé that connects multiple cornerstone bands. Born in San Diego, California, Cameron moved into the Pacific Northwest scene in time to become a key rhythmic voice as Seattle’s underground sound evolved from punk and metal hybrids into what the mainstream later called grunge. His playing is recognizable for its combination of power and precision: heavy hands that still maintain swing, complex fills that never lose the beat, and an ability to shift between aggressive rock and more nuanced, dynamic parts.\n\nBefore joining Pearl Jam, Cameron built his reputation through Skin Yard and, most notably, Soundgarden. In Soundgarden he developed a style that could handle odd meters and dramatic tempo changes while keeping the music grounded. That experience mattered when he entered Pearl Jam’s orbit. By the late 1990s, Pearl Jam had already cycled through several drummers, each bringing a different feel to the band’s live and studio approach. Cameron joined in 1998, and his arrival helped stabilize the rhythm section for a long stretch of the band’s history. His first full studio contributions with Pearl Jam arrived around the era of Binaural (2000), and his presence became a consistent element of the band’s sound through subsequent albums and extensive touring.\n\nCameron’s impact on Pearl Jam is clearest on stage. Pearl Jam’s shows are long, varied in tempo and mood, and built around spontaneous decisions—conditions that demand stamina and musical intelligence from a drummer. Cameron brought both. He could drive the band with a hard‑rock backbone on fast material, but he also had the touch to support quieter songs without overplaying. His sense of groove allowed the band’s two‑guitar textures to breathe, and his confidence with transitions made it easier for Pearl Jam to shift between eras of their catalog within a single set.\n\nOutside the core band context, Cameron continued to be an in‑demand collaborator, and his work across projects reinforced his role as a connective figure within Seattle rock history. The fact that he has been associated with multiple Rock & Roll Hall of Fame‑level acts is not accidental; it reflects a musician whose taste, technique and reliability made him central to the sound of a generation. In July 2025, Cameron announced that he was leaving Pearl Jam after roughly 27 years with the band, and Pearl Jam issued a statement praising his contributions and importance to their live and recorded legacy.\n\nCameron’s tenure with Pearl Jam stands as a long, influential chapter: the period when the band matured from early‑’90s phenomenon into a touring institution with a deep catalog and a fan culture built around the uniqueness of each concert. Even after his departure, his drumming remains embedded in the band’s identity for a quarter‑century of recordings and performances. For listeners, he represents the rare drummer who can be both a technical musician’s musician and a visceral rock engine—someone who elevates a song without distracting from it, and whose feel is as much a signature as any guitar tone.",
+            "HonoursAndMilestones": [
+              "Joined Pearl Jam in 1998 after major work with Soundgarden and other Seattle projects.",
+              "Departed Pearl Jam in July 2025 after roughly 27 years with the band."
+            ],
+            "FunFacts": [
+              "Also widely recognized for his influential drumming with Soundgarden.",
+              "Known for handling marathon-length Pearl Jam sets with consistent power and feel."
+            ],
+            "Sources": [
+              {
+                "Title": "Matt Cameron Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/matt-cameron-mn0000389487"
+              },
+              {
+                "Title": "Matt Cameron departs Pearl Jam after 27 years",
+                "Publisher": "Associated Press",
+                "Url": "https://apnews.com/article/efe554d2649a759e8ee8a69e8ee16076"
+              },
+              {
+                "Title": "Matt Cameron Splits With Pearl Jam After 27 Years",
+                "Publisher": "Loudwire",
+                "Url": "https://loudwire.com/matt-cameron-split-pearl-jam-statement/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Dave Krusen",
+          "YearsActive": "1990–1991",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "Ten (1991)"
+          ],
+          "Overview": "Original drummer who played on the Ten sessions and early live shows before departing in 1991."
+        },
+        {
+          "Name": "Matt Chamberlain",
+          "YearsActive": "1991",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [],
+          "Overview": "Brief early drummer who played a handful of 1991 shows and appeared in early video-era performances before leaving."
+        },
+        {
+          "Name": "Dave Abbruzzese",
+          "YearsActive": "1991–1994",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "Vs. (1993)",
+            "Vitalogy (1994)"
+          ],
+          "Overview": "High-energy drummer during the band’s commercial peak-era tours and early-’90s studio run."
+        },
+        {
+          "Name": "Jack Irons",
+          "YearsActive": "1994–1998",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "No Code (1996)",
+            "Yield (1998)"
+          ],
+          "Overview": "Drummer who helped steer the band into a looser, more exploratory mid-’90s phase and toured extensively."
+        },
+        {
+          "Name": "Josh Klinghoffer",
+          "YearsActive": "2021–present",
+          "Roles": "Touring musician",
+          "Instruments": "Guitar; keys; backing vocals",
+          "Albums": [],
+          "Overview": "Touring and session contributor in the 2020s, adding additional guitar/keys textures and backing vocals on the road."
+        }
+      ]
     },
     {
       "ArtistID": "pet-shop-boys",
