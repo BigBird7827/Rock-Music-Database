@@ -3658,27 +3658,394 @@
     {
       "ArtistID": "cinderella",
       "Name": "Cinderella",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Clifton Heights",
+        "Region": "Pennsylvania",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1983–2014"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Glam metal",
+        "Blues rock"
+      ],
+      "Labels": [
+        "Mercury",
+        "Deadline",
+        "Cleopatra"
+      ],
+      "Overview": "Cinderella were an American hard rock band formed in the Philadelphia suburbs in 1983 by singer, guitarist, and principal songwriter Tom Keifer and bassist Eric Brittingham. Breaking out of the region’s club circuit during the mid‑1980s hair‑metal boom, the group combined arena-ready hooks with a bluesy, roots‑leaning swagger that set them slightly apart from many of their MTV-era peers. After early lineup changes, guitarist Jeff LaBar joined in 1985, and the band’s classic period is associated with the quartet of Keifer, Brittingham, LaBar, and drummer Fred Coury. Signed to Mercury/PolyGram, Cinderella quickly became a major touring draw and a steady presence on music television, with videos that helped translate their Philadelphia bar-band grit into national recognition.\n\nTheir debut album, *Night Songs* (1986), delivered a tightly produced set of hard-rock anthems—driven by Keifer’s rasp and the band’s twin-guitar punch—and produced several of their signature singles, including “Shake Me,” “Nobody’s Fool,” and “Somebody Save Me.” Commercial momentum carried into *Long Cold Winter* (1988), a record that leaned harder into blues rock and classic-rock influences while still yielding radio staples such as “Gypsy Road” and “Don’t Know What You Got (Till It’s Gone).” A third studio album, *Heartbreak Station* (1990), continued the shift toward rootsier tones and generated the hit “Shelter Me,” but the early‑1990s market turn—and Keifer’s serious vocal-cord health problems—slowed the band’s studio output. Cinderella’s fourth and final studio album, *Still Climbing* (1994), arrived after long delays and landed in a very different rock landscape.\n\nAlthough they did not release another studio album after the mid‑1990s, Cinderella periodically returned as a touring act, playing festivals and package tours that highlighted their late‑’80s peak. Over time their reputation has rested on two complementary strengths: big-chorus hard rock suited to arenas, and a convincing blues-rock foundation that became more pronounced as the band matured. That combination—plus a run of multi‑platinum releases and durable radio staples—has kept Cinderella’s catalog in steady rotation long after the hairstyle-and-spandex moment that first put them on the map.",
+      "NotableAlbums": [
+        {
+          "Title": "Night Songs",
+          "Year": "1986",
+          "Notes": "Breakthrough debut; multi‑platinum; includes “Shake Me,” “Nobody’s Fool,” and “Somebody Save Me.”"
+        },
+        {
+          "Title": "Long Cold Winter",
+          "Year": "1988",
+          "Notes": "Blues-rock–leaning sophomore album; includes “Gypsy Road” and “Don’t Know What You Got (Till It’s Gone).”"
+        },
+        {
+          "Title": "Heartbreak Station",
+          "Year": "1990",
+          "Notes": "Rootsier third album; includes “Shelter Me”; continued arena-touring era."
+        },
+        {
+          "Title": "Still Climbing",
+          "Year": "1994",
+          "Notes": "Fourth and final studio album; released after long delay tied to Keifer’s vocal issues."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Nobody’s Fool",
+          "Year": "1986",
+          "Notes": "One of the band’s defining MTV-era singles from *Night Songs*."
+        },
+        {
+          "Title": "Shake Me",
+          "Year": "1986",
+          "Notes": "High-energy hard-rock staple and concert favorite."
+        },
+        {
+          "Title": "Somebody Save Me",
+          "Year": "1987",
+          "Notes": "Radio/MTV hit that helped cement the band’s late‑’80s profile."
+        },
+        {
+          "Title": "Don’t Know What You Got (Till It’s Gone)",
+          "Year": "1988",
+          "Notes": "Power-ballad hit from *Long Cold Winter*; among their biggest charting singles."
+        },
+        {
+          "Title": "Gypsy Road",
+          "Year": "1988",
+          "Notes": "Driving bluesy rocker that became a core live track."
+        },
+        {
+          "Title": "Shelter Me",
+          "Year": "1990",
+          "Notes": "Lead single from *Heartbreak Station*; showcased their roots-rock direction."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "1986–1987",
+          "Title": "MTV-era breakout",
+          "Details": "*Night Songs* established Cinderella as a major hard-rock act with multiple hit videos and heavy rotation."
+        },
+        {
+          "Year": "1988–1989",
+          "Title": "Peak commercial run",
+          "Details": "*Long Cold Winter* extended their success with multiple radio hits and a prominent touring profile."
+        },
+        {
+          "Year": "1990",
+          "Title": "Continued mainstream presence",
+          "Details": "*Heartbreak Station* produced the hit “Shelter Me” and kept the band on arena stages as rock trends shifted."
+        },
+        {
+          "Year": "1994",
+          "Title": "Final studio album",
+          "Details": "*Still Climbing* released after delays tied to Keifer’s vocal-cord problems, closing the band’s studio era."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in the Philadelphia suburbs in 1983 by Tom Keifer and Eric Brittingham.",
+        "Classic lineup: Keifer (vocals/guitar), Brittingham (bass), Jeff LaBar (guitar), Fred Coury (drums).",
+        "Best-known albums: Night Songs (1986) and Long Cold Winter (1988).",
+        "Final studio album: Still Climbing (1994); the band remained inactive after final tours ending in 2014.",
+        "Jeff LaBar died in 2021."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site (archived/legacy)": "https://www.cinderella.net/",
+        "AllMusic": "https://www.allmusic.com/artist/cinderellas-mn0000125561",
+        "Billboard Artist Page": "https://www.billboard.com/artist/cinderella/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Cinderella_(band)"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "Tom Keifer",
+          "YearsActive": "1983–2014",
+          "Roles": "Lead vocals; guitar; primary songwriter",
+          "Instruments": "Vocals; guitar",
+          "Albums": [
+            {
+              "Title": "Night Songs",
+              "Year": "1986"
+            },
+            {
+              "Title": "Long Cold Winter",
+              "Year": "1988"
+            },
+            {
+              "Title": "Heartbreak Station",
+              "Year": "1990"
+            },
+            {
+              "Title": "Still Climbing",
+              "Year": "1994"
+            }
+          ],
+          "Bio": {
+            "FullName": "Carl Thomas Keifer",
+            "Birth": {
+              "Date": "January 26, 1961",
+              "Place": "Springfield, Pennsylvania, United States"
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Singer; songwriter; guitarist; multi-instrumentalist",
+            "Instruments": "Vocals; guitar; keyboards (studio); other instruments (studio)",
+            "FullText": "Carl Thomas “Tom” Keifer is best known as the lead singer, primary songwriter, and one of the guitarists for Cinderella, but his reputation has always rested on being more than a frontman. Raised in the Philadelphia area and born in Springfield, Pennsylvania, Keifer came up in a regional club circuit that rewarded stamina and musicianship. By the time Cinderella began turning heads, he was already recognized as a musician who could write, arrange, and perform with the instincts of a classic‑rock craftsman rather than a trend chaser.\n\nKeifer co‑founded Cinderella in 1983 with bassist Eric Brittingham. In the earliest years the band worked the local bar and theater circuit, refining songs night after night and learning what made crowds react. That experience shaped Keifer’s writing style: straightforward chord progressions, riffs that carry blues DNA, and choruses designed for call‑and‑response. Even when the production later became more polished, the foundation remained the same—songs built to survive beyond studio tricks.\n\nOnce the band signed with Mercury/PolyGram, Cinderella’s leap to national visibility accelerated quickly, and Keifer became the focal point. On the debut album *Night Songs* (1986), his voice and writing set the template for the band’s public identity. The record paired hard‑rock muscle with melodic choruses, yielding staples such as “Shake Me,” “Nobody’s Fool,” and “Somebody Save Me.” Keifer’s vocals—raspy, high, and emotionally urgent—were distinctive even among his contemporaries, and his guitar work emphasized groove and feel over flashy virtuosity.\n\nAs Cinderella’s audience expanded, Keifer steered the band toward a sound that leaned harder into blues rock. *Long Cold Winter* (1988) kept the big hooks that radio demanded, but its rhythms and textures drew more openly from classic‑rock influences. The album produced one of the group’s defining songs, “Don’t Know What You Got (Till It’s Gone),” a power ballad that worked because it was built on songwriting and delivery rather than studio gloss. Tracks like “Gypsy Road” reinforced Keifer’s preference for riff‑and‑groove rock that could sit comfortably beside earlier decades of hard rock.\n\nWith *Heartbreak Station* (1990), that rootsier direction became even clearer. Keifer’s writing favored swaggering mid‑tempo grooves and blues‑based colors, while still delivering the kind of chorus lift that made Cinderella an arena band. “Shelter Me” remained a major single, and the album’s tone signaled that Keifer was less interested in chasing the increasingly crowded glam‑metal lane than in anchoring the band to classic rock fundamentals.\n\nIn the early 1990s, Keifer’s career was dramatically affected by serious vocal‑cord problems that were widely reported as paralysis or paresis. For a singer whose identity depended on both grit and range, the issue threatened everything. Recovery required ongoing treatment and careful rebuilding of technique, and it contributed to the long delays surrounding Cinderella’s fourth studio album. The experience also reshaped how Keifer approached performance—how to preserve a signature sound while protecting his instrument.\n\nCinderella’s final studio album, *Still Climbing* (1994), arrived after those delays and into a rock landscape that had shifted away from the style the band helped popularize. Keifer remained committed to writing and recording on the band’s terms, emphasizing hard‑rock grit and blues‑rock feel rather than attempting to mimic newer trends. In hindsight, the album reads as a perseverance record as much as a catalog entry: the sound of a songwriter trying to finish what he started despite setbacks that would have ended many careers.\n\nAfter the mid‑1990s, Cinderella did not release another studio album, but Keifer stayed closely connected to the band’s legacy through touring and festival appearances. His stage role remained notably hands‑on. He continued to play guitar prominently, shape dynamics within songs, and deliver vocals that prioritized emotional bite over pristine perfection. As the band’s reputation became less about image and more about songs, Keifer’s strengths as a writer and performer became the clearest explanation for why the catalog endured.\n\nKeifer also developed a substantial solo chapter. His debut solo album, *The Way Life Goes* (2013), reflected what his best Cinderella work always suggested: a songwriter comfortable blending hard rock with blues and roots‑leaning textures. He has spoken about how the album’s long gestation was tied to the combination of industry shifts and his extended vocal recovery. The project positioned him as an active, contemporary artist rather than a nostalgia act, emphasizing songcraft and musicianship.\n\nAcross every phase—Cinderella’s MTV peak, the blues‑rock pivot, the vocal‑health fight, and the later solo work—Keifer’s through‑line has been an insistence on classic structures and honest feel. That consistency is a major reason Cinderella is often remembered as a band whose music “aged” well. The songs are built on riffs, grooves, and melodies designed to last, and Keifer’s voice—scarred, expressive, and unmistakable—remains the defining thread that ties the whole story together.\n\nKeifer’s musicianship has also been central to the way Cinderella’s records are remembered. Beyond lead vocals and guitar, he is noted for adding keyboards and a range of supporting instruments in the studio, helping the band move between straight hard‑rock punch and more textured blues‑rock arrangements. That flexibility mattered as Cinderella progressed from the tighter, punchier attack of *Night Songs* toward the more spacious, groove‑heavy feel of *Long Cold Winter* and *Heartbreak Station*. The shifts were not cosmetic; they reflected Keifer’s interest in classic rock and blues traditions and his willingness to let the band’s sound mature even at the height of commercial success.\n\nIn the years after *The Way Life Goes*, Keifer continued to perform and record as a solo artist, further emphasizing the roots elements that had always been part of his writing. His solo work has tended to foreground guitar tone, groove, and vocal storytelling, presenting him as a musician whose identity was never confined to the hair‑metal moment. The broader arc—club‑scene apprenticeship, multi‑platinum success, a battle to regain his voice, and a later career built on perseverance—has made Keifer a widely cited example of how a hard‑rock songwriter can outlast the fashion cycle that first delivered fame.",
+            "HonoursAndMilestones": [
+              "Co-founded Cinderella (1983) and wrote/co-wrote much of the band’s best-known catalog.",
+              "Fronted multi‑platinum era with *Night Songs* (1986) and *Long Cold Winter* (1988).",
+              "Released solo album *The Way Life Goes* (2013)."
+            ],
+            "FunFacts": [
+              "Keifer is widely cited as Cinderella’s primary songwriter and sonic “architect,” especially as the band leaned into blues‑rock influences.",
+              "He has spoken publicly about a long recovery from serious vocal‑cord problems in the early 1990s."
+            ],
+            "Sources": [
+              {
+                "Title": "Tom Keifer (artist page)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Tom_Keifer"
+              },
+              {
+                "Title": "Cinderella Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/cinderella-mn0000125561/biography"
+              },
+              {
+                "Title": "Tom Keifer on Eddie Trunk Podcast (interview)",
+                "Publisher": "Apple Podcasts",
+                "Url": "https://podcasts.apple.com/us/podcast/eddie-trunk-podcast/id687373862?i=1000474131480"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Eric Brittingham",
+          "YearsActive": "1983–2014",
+          "Roles": "Bass; backing vocals",
+          "Instruments": "Bass; backing vocals",
+          "Albums": [
+            {
+              "Title": "Night Songs",
+              "Year": "1986"
+            },
+            {
+              "Title": "Long Cold Winter",
+              "Year": "1988"
+            },
+            {
+              "Title": "Heartbreak Station",
+              "Year": "1990"
+            },
+            {
+              "Title": "Still Climbing",
+              "Year": "1994"
+            }
+          ],
+          "Bio": {
+            "FullName": "Eric Brittingham",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Bassist; backing vocalist",
+            "Instruments": "Bass; backing vocals",
+            "FullText": "Eric Brittingham is best known as the co‑founder and long‑time bassist of Cinderella, a role that placed him at the center of the band’s writing, groove, and stage identity from the beginning. As Cinderella’s sound evolved from punchy, hook‑heavy hard rock to a more blues‑rock‑inflected approach, Brittingham’s playing provided a steady anchor: supportive enough to let riffs and vocals lead, but assertive enough to keep the music driving. In a genre that often emphasized image, his contribution was largely musical—locking the band’s rhythm section and helping the songs feel heavier and more physical than a purely glossy production might suggest.\n\nBrittingham formed Cinderella with singer and guitarist Tom Keifer in 1983 in the Philadelphia suburbs. Like many groups that broke out in the mid‑to‑late 1980s, their foundation was built in clubs: long sets, nightly adjustments, and a constant push to make original material land as effectively as cover songs. In that environment, a bassist’s job is partly invisible—supporting the drummer, reinforcing the riff, and shaping the feel of a song’s transitions. Brittingham’s early years with Cinderella were defined by that kind of practical musicianship, and it helped the band develop the tightness that later made their studio records translate well on stage.\n\nWhen Cinderella signed to Mercury/PolyGram and released *Night Songs* (1986), Brittingham’s role became part of a larger national machine: radio singles, MTV videos, and heavy touring. The band’s breakout tracks—such as “Shake Me,” “Nobody’s Fool,” and “Somebody Save Me”—depend on a solid rhythmic foundation that keeps choruses moving forward without losing punch. Brittingham’s bass parts are typically built to reinforce the guitar rhythm and emphasize the song’s swing, making the band’s sound feel rooted in classic hard rock rather than purely synthetic ‘80s sheen.\n\nAs the band moved into *Long Cold Winter* (1988) and *Heartbreak Station* (1990), the shift toward blues‑rock textures gave Brittingham even more responsibility for groove. Those records leaned into swaggering mid‑tempo rhythms and a more “live band” sensibility, and the bass sits at the heart of that approach. In songs like “Gypsy Road” and “Don’t Know What You Got (Till It’s Gone),” the emotional arc relies on dynamics and feel as much as on the vocal line; that kind of writing works only when the rhythm section can breathe with the arrangement, and Brittingham’s steady pocket is a key part of why the music feels convincing.\n\nBrittingham has also been candid in interviews about the realities of fame, touring, and the cultural climate surrounding hard rock at the time. During the late 1980s and early 1990s, the band became entangled in the broader public conversations that often targeted heavy music, and Brittingham spoke from the perspective of a working musician suddenly thrust into the spotlight. That perspective—practical, band‑focused, and grounded in the day‑to‑day realities of being on the road—helps explain how Cinderella maintained a reputation for sounding like a genuine band even when they were operating inside a highly stylized era.\n\nThe early 1990s were a difficult period for Cinderella, not only because of shifting music trends but also because of significant health issues for Tom Keifer that delayed studio work. The long road to *Still Climbing* (1994) illustrated how complicated it can be for a band built on momentum to keep moving when external and internal factors collide. Brittingham’s role in that period was less about headlines and more about endurance—staying connected to the band’s musical identity while schedules, industry priorities, and the rock marketplace changed around them.\n\nAfter Cinderella’s studio era ended, Brittingham remained associated with the band through later touring years and occasional reunions. Even without new albums, Cinderella’s catalog continued to draw audiences, and Brittingham’s bass remained part of the “classic lineup” sound fans expected. In the live setting, his contribution is especially clear: the bass helps translate studio arrangements into something physical and immediate, keeping riffs heavy and choruses propulsive while leaving room for Keifer’s vocal phrasing and the guitar interplay.\n\nOutside Cinderella, Brittingham has been connected to other projects and collaborations that reflect the same practical, gig‑ready musicianship that defined his early years. He has been linked to side work with other rock artists and to band projects involving fellow Cinderella members, including the side group Naked Beggars associated with Jeff LaBar. Those efforts underline a simple through‑line: Brittingham is fundamentally a working bassist whose strengths show up in ensemble contexts—supporting song structures, reinforcing groove, and helping bands sound like bands.\n\nBrittingham’s legacy is also tied to how Cinderella is remembered compared with many of their peers. While the band is often grouped with glam metal, their strongest material sits comfortably beside classic hard rock because the arrangements and performances rely on feel and craft rather than purely on image. Brittingham’s steady foundation is part of that durability. In the Cinderella story, he represents the grounding element—the player who helped keep the songs anchored to a groove robust enough to survive changing fashions, and who remained tied to the band’s identity through both the boom years and the long afterlife of touring and catalog appreciation.",
+            "HonoursAndMilestones": [
+              "Co-founded Cinderella with Tom Keifer (1983).",
+              "Member of Cinderella’s classic lineup through the band’s peak albums.",
+              "Performed on the band’s major-label studio albums from *Night Songs* through *Still Climbing*."
+            ],
+            "FunFacts": [
+              "Brittingham’s bass lines emphasize groove and swing, especially as Cinderella’s sound moved toward blues rock.",
+              "He has been linked to side work including the project Naked Beggars with Jeff LaBar."
+            ],
+            "Sources": [
+              {
+                "Title": "Cinderella (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Cinderella_(band)"
+              },
+              {
+                "Title": "Eric Brittingham interview",
+                "Publisher": "ClassicBands.com",
+                "Url": "https://www.classicbands.com/EricBrittinghamInterview.html"
+              },
+              {
+                "Title": "Naked Beggars",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Naked_Beggars"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jeff LaBar",
+          "YearsActive": "1985–2014",
+          "Roles": "Lead guitar",
+          "Instruments": "Guitar",
+          "Albums": [
+            {
+              "Title": "Night Songs",
+              "Year": "1986"
+            },
+            {
+              "Title": "Long Cold Winter",
+              "Year": "1988"
+            },
+            {
+              "Title": "Heartbreak Station",
+              "Year": "1990"
+            },
+            {
+              "Title": "Still Climbing",
+              "Year": "1994"
+            }
+          ],
+          "Bio": {
+            "FullName": "Jeffrey Philip LaBar",
+            "Birth": {
+              "Date": "March 18, 1963",
+              "Place": "Darby, Pennsylvania, United States"
+            },
+            "Death": {
+              "Date": "July 14, 2021",
+              "Place": ""
+            },
+            "Nationality": "American",
+            "Roles": "Lead guitarist; songwriter",
+            "Instruments": "Guitar; backing vocals (occasional)",
+            "FullText": "Jeff LaBar became Cinderella’s best‑known lead guitarist during the band’s rise to multi‑platinum status in the late 1980s, and his playing helped define the group’s combination of arena‑rock punch and blues‑rock feel. Born in Darby, Pennsylvania, LaBar grew up close to the same regional circuit that produced Cinderella’s early momentum. By the time he joined the band in 1985, Cinderella already had the raw material and work ethic of a touring club act; LaBar’s arrival completed the classic lineup and added a flashy but musical lead‑guitar voice that fit both their heavy riffs and their more roots‑leaning moments.\n\nLaBar replaced original guitarist Michael Schermick, stepping into a role that demanded both technical ability and stage presence. In Cinderella’s sound, the guitars needed to do two jobs at once: provide the hard‑rock weight that made the choruses hit in arenas, and keep enough blues phrasing and swing to avoid sounding mechanical. LaBar’s leads tended to be melodic and song‑serving, built around memorable motifs rather than endless shredding. That approach made his solos feel like extensions of the vocal hooks—a key reason Cinderella’s singles translated so well on radio and television.\n\nOn the breakthrough debut *Night Songs* (1986), LaBar helped deliver a tight, aggressive guitar identity. Tracks like “Shake Me” and “Nobody’s Fool” rely on crisp rhythm work and leads that accent the chorus lift without overwhelming it. As the band toured heavily behind the album, LaBar’s playing also became part of Cinderella’s live reputation: a group that could deliver the studio material with power and clarity on stage, while still leaving room for improvisational blues‑rock flavor in extended sections.\n\nLaBar’s contributions became even more pronounced as Cinderella leaned harder into classic rock and blues influences on *Long Cold Winter* (1988). The record’s tones and grooves invited more expressive lead guitar, and LaBar’s phrasing fit naturally within that direction. Songs like “Gypsy Road” and “Don’t Know What You Got (Till It’s Gone)” work because the band balances toughness with emotional dynamics; LaBar’s guitar lines help carry those dynamics, moving from restrained verse textures to bigger, more soaring statements in key moments.\n\nWith *Heartbreak Station* (1990), Cinderella’s rootsier approach continued, and LaBar remained central to the band’s ability to blend swagger with polish. While the early‑’90s rock environment was changing fast, Cinderella still sounded like a band with real classic‑rock bones, and LaBar’s playing was part of that credibility. His style kept the group connected to the tradition of blues‑based hard rock—bends, vibrato, and melodic construction—rather than only to the era’s image.\n\nThe road to *Still Climbing* (1994) was defined by delays and difficulty, including the long recovery of Tom Keifer from serious vocal‑cord problems. In that turbulent period, LaBar was not only a guitarist but also a working musician dealing with the practical realities of an industry shifting under his feet. By the time the album was released, Cinderella’s peak commercial moment had passed, but LaBar’s playing still reflected the band’s core strengths: groove‑based riffs, expressive leads, and arrangements built to translate live.\n\nOutside the main Cinderella catalog, LaBar pursued additional work that illustrated his identity as a career guitarist rather than a single‑band figure. He released solo music, and he was also associated with other projects, including the side band Naked Beggars with Cinderella bandmate Eric Brittingham. Those efforts were rooted in the same musical values that defined his best Cinderella work: hard rock shaped by classic influences and a commitment to songwriting rather than pure technical display.\n\nLaBar’s personal story, as reported in multiple sources, also reflected the uneven reality many musicians face once the initial surge of fame recedes. During periods when Cinderella was inactive, he worked outside of music to support himself, including running a pizza shop with family and taking on construction work. That contrast—multi‑platinum success followed by ordinary work—has often been cited as a reminder of how unpredictable long‑term stability can be in the music business.\n\nIn the late 2000s and 2010s, Cinderella’s reputation benefited from a wave of renewed interest in the era’s hard rock, and LaBar returned to the stage as part of touring runs and festival appearances. For fans, his presence was a key part of what made those shows feel authentic: the classic lineup sound, the twin‑guitar power, and the familiar melodic lead voice that defined so many solos. Even as nostalgia circuits grew, LaBar’s playing remained grounded in feel and melody, aligning with the band’s blues‑rock credibility.\n\nLaBar died on July 14, 2021, at the age of 58, and his death was widely covered in the music press. In the larger Cinderella story, he represents the lead‑guitar voice that helped the band move from local club success to arena stages, and his best work endures in songs that still circulate on classic‑rock radio and playlists. Whether heard in the sharp attack of *Night Songs*, the blues‑leaning confidence of *Long Cold Winter*, or the rootsier direction of *Heartbreak Station*, LaBar’s playing remains a defining ingredient in Cinderella’s long‑term appeal.\n\nIn interviews and profiles, LaBar was often described as a guitarist who prioritized phrasing and song architecture over pure speed. His solos typically begin with a clear melodic idea, develop through bends and vibrato that echo blues traditions, and then rise to a peak that supports the chorus energy rather than distracting from it. That approach fit Cinderella’s identity particularly well because the band’s songs rely on strong vocal hooks; LaBar’s best lead work acts like a second “voice,” answering the vocal line and then handing the spotlight back to the chorus.\n\nCoverage of LaBar’s life also noted family and personal realities that coexisted with his musical career, including public statements from his son Sebastian, who pursued music as well. The through‑line in those stories is that LaBar’s identity was rooted in being a working guitarist: someone for whom the instrument was not an era‑specific accessory but a lifelong craft. Taken together—his classic-era recordings, side projects, and later touring years—his body of work captures a player who helped translate Cinderella’s Philadelphia bar-band grit into arena-scale hard rock while keeping the music grounded in blues-based feel.",
+            "HonoursAndMilestones": [
+              "Joined Cinderella in 1985 and became the band’s best-known lead guitarist.",
+              "Played on Cinderella’s best-known albums including *Night Songs* and *Long Cold Winter*.",
+              "Co-founded/participated in side projects including Naked Beggars."
+            ],
+            "FunFacts": [
+              "LaBar’s melodic, blues-based lead style helped Cinderella’s catalog ‘age’ well compared with many era peers.",
+              "He continued to tour intermittently with Cinderella through the 2010s."
+            ],
+            "Sources": [
+              {
+                "Title": "Jeff LaBar",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jeff_LaBar"
+              },
+              {
+                "Title": "Jeff LaBar Dead at 58",
+                "Publisher": "Variety",
+                "Url": "https://variety.com/2021/music/news/jeff-labar-dead-cinderella-guitarist-1235019494/"
+              },
+              {
+                "Title": "Jeff LaBar Dead at 58",
+                "Publisher": "EddieTrunk.com",
+                "Url": "https://eddietrunk.com/jeff-labar-cinderella-dead/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Fred Coury",
+          "YearsActive": "1985–2014",
+          "Roles": "Drums",
+          "Instruments": "Drums; percussion",
+          "Albums": [
+            {
+              "Title": "Long Cold Winter",
+              "Year": "1988"
+            },
+            {
+              "Title": "Heartbreak Station",
+              "Year": "1990"
+            }
+          ],
+          "Bio": {
+            "FullName": "Fred Coury",
+            "Birth": {
+              "Date": "",
+              "Place": ""
+            },
+            "Death": null,
+            "Nationality": "American",
+            "Roles": "Drummer; producer; composer",
+            "Instruments": "Drums; percussion",
+            "FullText": "Fred Coury is best known as the drummer associated with Cinderella’s classic lineup, the player who helped turn the band’s riffs and choruses into a physical, arena‑ready engine during the late 1980s. Born in New York and raised in a musical environment, Coury developed a style that blends hard‑rock impact with a sense of feel and swing—an important quality for a band whose songwriting drew heavily from blues and classic rock. In Cinderella, the drums had to do more than keep time; they had to drive choruses, support changes in dynamics, and leave space for lead vocals and guitar lines to carry the emotional center of each song.\n\nCoury joined Cinderella as the band was approaching its breakthrough period, and he became part of what many fans regard as the definitive lineup: Tom Keifer (lead vocals/guitar), Eric Brittingham (bass), Jeff LaBar (guitar), and Coury (drums). That quartet’s strength depended on chemistry. Cinderella’s songs often move between tense verses and big chorus releases, and the rhythm section has to make those transitions feel natural. Coury’s playing favored a solid backbeat, clear accents, and fills that push the music forward without cluttering the arrangement.\n\nOn *Night Songs* (1986), Cinderella’s attack is tight, punchy, and built for radio and MTV. Coury’s job was to keep riffs moving with confidence while giving choruses the lift that made songs feel larger than the clubs they came from. The band’s early singles rely on momentum—guitar crunch that stays locked to the groove and choruses that explode at the right moment. Coury’s straightforward power helped the band translate that momentum to the stage, where Cinderella developed a reputation as a working band that could deliver the records with real energy.\n\nAs Cinderella’s sound evolved, Coury’s feel became even more central. *Long Cold Winter* (1988) leaned harder into blues‑rock swagger and classic‑rock influences. That approach works only if the rhythm section can sit in the pocket rather than rush. Songs like “Gypsy Road” depend on a driving pulse that still has swing, and the album’s ballads rely on restraint and dynamic control. Coury’s drumming provided both, helping the band sound less like a fashion moment and more like a rock group rooted in groove.\n\n*Cinderella’s* third album, *Heartbreak Station* (1990), continued the roots‑rock direction. For Coury, that meant balancing impact with space. Many tracks favor mid‑tempo confidence over speed, and the drums need to feel heavy without becoming stiff. Coury’s playing supported that goal by emphasizing groove—locking tightly with the bass, setting up chorus peaks with measured fills, and letting Keifer’s voice and LaBar’s leads take the spotlight when the song required it.\n\nCoury’s association with Cinderella includes periods away from the band as well as returns, reflecting the realities that long‑running rock groups often face. Studio and touring lineups shifted as the 1990s progressed and the band’s activity became more sporadic. Even so, Coury’s era remains a reference point for how Cinderella “feels” for many listeners: a rhythm section that can hit hard while still sounding like it comes from blues and classic rock rather than purely from metal technique.\n\nOutside Cinderella, Coury has been connected to other projects that underline his broader identity as a working musician. He has been involved in bands beyond Cinderella and has also taken on roles that move past pure performance, including production and composition work. That kind of versatility is common among players who came up in the big‑tour era of the 1980s, when musicians often learned quickly that long-term careers require adapting to different musical contexts as tastes and the industry change.\n\nCoury’s drumming is also a key reason Cinderella’s catalog continues to translate well decades later. Many records from the era lean so heavily on production aesthetics that they feel locked to a moment in time, but Cinderella’s best material remains grounded in songwriting and groove. Coury’s approach—solid, feel‑first, and oriented toward the song rather than toward display—helps tracks remain listenable and physical. When modern listeners return to the band’s hits, the drums still feel like a band playing together, not like a collection of studio tricks.\n\nIn live settings, Coury’s strengths are especially evident. Cinderella’s songs rely on audience participation—choruses that invite sing‑alongs and grooves that encourage movement—and a drummer’s ability to control tempo and energy is crucial. Coury’s style keeps the band’s heavier songs from dragging while also giving the ballads enough space to build emotional weight. That balance is part of what made Cinderella a strong touring act, and it is part of why their reunion and festival performances continued to draw audiences.\n\nCoury’s legacy is therefore intertwined with Cinderella’s reputation as a band that outlasted the stereotypes attached to the glam‑metal label. While the group is often filed under that category, their music leaned into blues and classic rock in ways that have remained accessible to a broader rock audience. Coury’s contribution to that accessibility is substantial: he provides the physical engine of the songs while leaving room for riffs, vocals, and lead guitar to tell the story. In the Cinderella narrative, he stands as the drummer who helped turn hooky writing into an enduring, groove‑driven catalog.\n\nCoury has sometimes been described as a “song drummer,” the kind of player who makes parts memorable by placing fills and accents in service of hooks. In Cinderella that often meant building excitement into the last bar before a chorus, tightening the groove when a riff needs extra weight, and opening up the cymbal work when a song needs lift. Those are small choices, but they are the difference between a track that feels simply loud and one that feels like it is moving. The band’s combination of riffing and sing‑along choruses depends on that movement.\n\nHe has also kept an identity beyond Cinderella through other bands and industry work, which has helped keep his playing connected to a wider rock vocabulary. Whether he is in a straight hard‑rock setting or working in production and composition contexts, the same attributes tend to stand out: dependable time, a strong sense of pocket, and an emphasis on dynamics. For listeners revisiting Cinderella, those qualities are part of why the songs still feel grounded. Coury’s drums do the unglamorous work that makes hooky writing land, and that contribution is central to the band’s long‑term staying power.",
+            "HonoursAndMilestones": [
+              "Part of Cinderella’s best-known classic lineup during the band’s peak era.",
+              "Associated with the band’s major tours supporting *Night Songs*, *Long Cold Winter*, and *Heartbreak Station*.",
+              "Has credits as a producer and composer outside his work as a touring drummer."
+            ],
+            "FunFacts": [
+              "Coury’s feel-first approach helps Cinderella’s blues-rock direction translate live.",
+              "He has produced and worked with other rock projects beyond Cinderella."
+            ],
+            "Sources": [
+              {
+                "Title": "Cinderella (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Cinderella_(band)"
+              },
+              {
+                "Title": "Cinderella Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/cinderella-mn0000125561/biography"
+              },
+              {
+                "Title": "Vixen tour announcement (notes Coury as producer)",
+                "Publisher": "Blabbermouth",
+                "Url": "https://blabbermouth.net/news/vixen-announces-summer-fall-2022-tour-dates"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Michael Schermick",
+          "YearsActive": "1983–1985",
+          "Roles": "Guitar",
+          "Instruments": "Guitar",
+          "Albums": [],
+          "Bio": null
+        },
+        {
+          "Name": "Jim Drnec",
+          "YearsActive": "1983–1985",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [],
+          "Bio": null
+        },
+        {
+          "Name": "Jody Cortez",
+          "YearsActive": "1983",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [],
+          "Bio": null
+        },
+        {
+          "Name": "Keri Kelli",
+          "YearsActive": "2014",
+          "Roles": "Guitar (touring)",
+          "Instruments": "Guitar",
+          "Albums": [],
+          "Bio": null
+        }
+      ]
     },
     {
       "ArtistID": "the-clash",
