@@ -4331,7 +4331,427 @@
     },
     {
       "ArtistID": "everclear",
-      "Name": "Everclear"
+      "Name": "Everclear",
+      "Type": "Band",
+      "Origin": {
+        "City": "Portland",
+        "Region": "Oregon",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1992–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Post-grunge",
+        "Power pop",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Tim/Kerr",
+        "Capitol",
+        "EMI",
+        "429 Records",
+        "Cleopatra"
+      ],
+      "Overview": "Everclear is an American rock band formed in the early 1990s in Portland, Oregon, led by singer, guitarist, and principal songwriter Art Alexakis. Emerging from the city’s independent scene, the group first built momentum with releases on Tim/Kerr Records, including the basement‑recorded debut World of Noise (1993). That DIY start mattered: Everclear’s earliest music paired loud, economical guitar arrangements with lyrics that felt unfiltered and autobiographical, establishing Alexakis’ signature blend of hard‑edged rock and pop‑structured songwriting.\n\nThe band’s national breakthrough arrived with the Capitol Records era, especially Sparkle and Fade (1995). Singles such as “Santa Monica” and “Heroin Girl” helped Everclear stand out in the mid‑’90s alternative boom by marrying sticky hooks to blunt, confessional narratives. Everclear’s songs often read like short stories about broken homes, addiction, and the uneasy work of adulthood, but they land as radio staples because the choruses are built to be shouted back by a crowd. That balance of intimacy and anthem became the group’s calling card, and it carried them to their commercial peak with So Much for the Afterglow (1997), which generated multiple hit singles and remains their defining album for many listeners.\n\nIn 2000, Everclear pursued an unusually ambitious idea for a mainstream rock band: Songs from an American Movie, released as two complementary albums—Vol. One: Learning How to Smile (melodic pop‑rock) and Vol. Two: Good Time for a Bad Attitude (harder‑edged guitar rock). “Wonderful,” from Vol. One, became one of the band’s biggest crossover songs and their most visible pop‑chart moment. After the classic trio era, lineup changes increased, but Alexakis continued to tour and record under the Everclear name, keeping the catalog active through shifting industry eras and a robust live schedule. Across decades, Everclear’s legacy rests on a simple but durable formula: emotionally direct storytelling set inside big, traditional rock songwriting that still connects with audiences well beyond the ’90s moment that first made them famous.",
+      "NotableAlbums": [
+        {
+          "Title": "World of Noise",
+          "Year": "1993",
+          "Notes": "Basement-recorded debut that established Everclear’s DIY intensity and confessional lyrical voice."
+        },
+        {
+          "Title": "Sparkle and Fade",
+          "Year": "1995",
+          "Notes": "Major-label breakthrough featuring “Santa Monica” and “Heroin Girl”; a defining mid-’90s alternative-rock release."
+        },
+        {
+          "Title": "So Much for the Afterglow",
+          "Year": "1997",
+          "Notes": "Commercial peak with multiple hit singles including “I Will Buy You a New Life” and “Father of Mine.”"
+        },
+        {
+          "Title": "Songs from an American Movie Vol. One: Learning How to Smile",
+          "Year": "2000",
+          "Notes": "Melodic, pop-leaning half of the two-volume project; includes the crossover hit “Wonderful.”"
+        },
+        {
+          "Title": "Songs from an American Movie Vol. Two: Good Time for a Bad Attitude",
+          "Year": "2000",
+          "Notes": "Harder-edged companion release that pushed the band toward heavier guitars and a darker tone."
+        },
+        {
+          "Title": "Slow Motion Daydream",
+          "Year": "2003",
+          "Notes": "Transitional record released amid lineup changes, marking the end of the classic-era run."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Santa Monica",
+          "Year": "1995",
+          "Notes": "Breakout single that helped define Everclear’s mainstream arrival; one of the band’s most enduring radio staples."
+        },
+        {
+          "Title": "Heroin Girl",
+          "Year": "1995",
+          "Notes": "A raw, urgent track from the breakthrough era, reflecting the band’s confessional edge."
+        },
+        {
+          "Title": "I Will Buy You a New Life",
+          "Year": "1997",
+          "Notes": "Big-hook single built around a satirical look at money and security; a centerpiece of the band’s peak period."
+        },
+        {
+          "Title": "Father of Mine",
+          "Year": "1997",
+          "Notes": "Autobiographical narrative song about abandonment and aftermath; among the band’s most widely recognized hits."
+        },
+        {
+          "Title": "Everything to Everyone",
+          "Year": "1997",
+          "Notes": "Power-pop single that showcases Everclear’s balance of melodic lift and lyrical bitterness."
+        },
+        {
+          "Title": "Wonderful",
+          "Year": "2000",
+          "Notes": "Pop-crossover hit about family fallout and resilience; a key song of the Songs from an American Movie era."
+        }
+      ],
+      "Achievements": [
+        "Broke nationally with the mid-’90s alternative-rock wave and became a long-running radio presence through multiple platinum-era singles.",
+        "Earned a GRAMMY nomination at the 41st Annual GRAMMY Awards (Best Rock Instrumental Performance) for the track “El Distorto De Melodica.”",
+        "Sustained touring and recording activity into the 2000s and beyond, with Art Alexakis keeping the Everclear catalog active for new audiences."
+      ],
+      "KeyFacts": [
+        "Formed in Portland, Oregon, in 1992 by singer/guitarist/songwriter Art Alexakis.",
+        "Early releases were issued on Tim/Kerr Records before the Capitol Records breakthrough.",
+        "Classic-era lineup widely associated with the band’s peak: Art Alexakis (vocals/guitar), Craig Montoya (bass), Greg Eklund (drums).",
+        "Released the two-part Songs from an American Movie project in 2000, spanning melodic pop-rock and heavier guitar material."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://www.everclearmusic.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Everclear_(band)",
+        "GRAMMY Awards (41st Annual)": "https://grammy.com/awards/41st-annual-grammy-awards",
+        "AllMusic": "https://www.allmusic.com/artist/everclear-mn0000190414",
+        "Spotify": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Art Alexakis",
+          "Roles": [
+            "Lead vocals",
+            "Guitar"
+          ],
+          "Years": "1992–present",
+          "Overview": "Founder, lead songwriter, and frontman whose confessional pop-rock writing defines Everclear across every lineup.",
+          "Bio": {
+            "BioID": "bio-everclear-art-alexakis",
+            "ArtistID": "everclear",
+            "ArtistName": "Everclear",
+            "MemberName": "Art Alexakis",
+            "FullName": "Arthur Paul Alexakis",
+            "PrimaryInstruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "Occupations": [
+              "Musician",
+              "Singer",
+              "Songwriter",
+              "Producer"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Power pop",
+              "Pop rock"
+            ],
+            "Birth": "April 12, 1962 — West Los Angeles, California, U.S.",
+            "ActiveYears": "1980s–present",
+            "AssociatedActs": [
+              "Everclear",
+              "Colorfinger"
+            ],
+            "KeyAlbums": [
+              "World of Noise (1993)",
+              "Sparkle and Fade (1995)",
+              "So Much for the Afterglow (1997)",
+              "Songs from an American Movie Vol. One (2000)"
+            ],
+            "KeySongs": [
+              "Santa Monica",
+              "Father of Mine",
+              "I Will Buy You a New Life",
+              "Wonderful"
+            ],
+            "Achievements": [
+              "Founded Everclear in Portland, Oregon, and led the band through multiple lineup eras while remaining its primary songwriter.",
+              "Co-credited on “El Distorto De Melodica,” Everclear’s GRAMMY-nominated track at the 41st Annual GRAMMY Awards.",
+              "Maintained a decades-long touring career and publicly disclosed a multiple sclerosis diagnosis in 2019, with benefit donations linked to shows."
+            ],
+            "ExternalLinks": {
+              "Oregon Encyclopedia Profile": "https://www.oregonencyclopedia.org/articles/alexakis_art_1962_/",
+              "Everclear Official Site": "https://www.everclearmusic.com/",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Everclear_(band)"
+            },
+            "FullText": "Arthur Paul “Art” Alexakis (born April 12, 1962) is the singer, guitarist, and principal songwriter who founded Everclear and has remained the band’s defining voice across every era of its career. Although Everclear is often grouped with ’90s alternative rock, Alexakis’ instincts have always been closer to classic pop‑rock craft: clear song forms, emphatic choruses, and lyrics that treat personal history as raw material rather than branding.\n\nRaised in Los Angeles, Alexakis came of age during a period when punk, power pop, and hard rock overlapped across Southern California. That mix shaped his writing method—melody first, then intensity—so even his hardest songs tend to land on singable hooks. In later interviews and public statements he has described building his adult life around recovery and sobriety, and the tension between vulnerability and resolve became a recurring emotional engine in his work.\n\nBefore Everclear, Alexakis moved through several projects, most notably Colorfinger, which released material in the late 1980s and early 1990s. When that chapter ended, he relocated to Portland, Oregon in the early 1990s, seeking both a creative reset and a place where he could rebuild momentum. In Portland he placed local ads looking for collaborators, quickly connecting with bassist Craig Montoya; drummer Scott Cuthbert completed the earliest lineup. Alexakis chose the name “Everclear” as a metaphor—high‑proof clarity that can burn—an image that fits the band’s blend of blunt storytelling and big hooks.\n\nThat first Portland period was intensely DIY. Everclear released early material on the local independent label Tim/Kerr, including the Nervous & Weird EP (1993) and the debut album World of Noise (1993). World of Noise was recorded in a friend’s basement on a famously tiny budget, with Alexakis also credited as producer. The record’s loud, ragged sound was less a stylistic pose than a document of limitations and determination; it introduced Alexakis’ key themes—family damage, addiction, economic anxiety, and the desire to escape a past that keeps reasserting itself.\n\nEverclear’s national breakthrough came with Sparkle and Fade (1995), the band’s major‑label debut for Capitol Records. The album translated basement‑tape intensity into a radio‑ready form without losing bite, and songs like “Santa Monica,” “Heroin Girl,” and “Heartspark Dollarsign” made the group a recognizable part of mid‑’90s rock programming. Alexakis’ role in that success was precise: he wrote confessional narratives that sounded conversational, then resolved them into choruses built for communal shouting. The writing is direct, but the structures are disciplined, which is why the songs move so quickly from personal scenes to anthemic refrains.\n\nSo Much for the Afterglow (1997) expanded that template and became Everclear’s commercial peak, earning multi‑platinum sales and anchoring the band’s public identity. The record leaned further into power‑pop clarity while keeping the emotional stakes high. Singles like “I Will Buy You a New Life” and “Father of Mine” captured Alexakis’ ability to turn childhood memory and adult frustration into pop songs that still feel specific. “Father of Mine” is autobiographical in its premise—his father leaving when he was young—but the writing succeeds because it stays grounded in concrete detail and refuses to romanticize pain. That combination of specificity and accessibility became a signature of Alexakis’ best work.\n\nThe Afterglow era also produced one of the most unusual footnotes in Everclear’s story: the band’s only Grammy nomination to date, for the instrumental track “El Distorto de Melodica,” which appeared on the album as a short, tongue‑in‑cheek interlude. The nomination is revealing because it points to something sometimes missed in the band’s public narrative: Alexakis and the classic lineup weren’t only writing diary‑like rock songs; they were also a working band with a sense of arrangement, sequencing, and humor about their place in a major‑label world.\n\nIn 2000, Alexakis pursued an ambitious concept for a mainstream rock act: the double‑album project Songs from an American Movie, released as Vol. One: Learning How to Smile (2000) and Vol. Two: Good Time for a Bad Attitude (2000). The split format highlighted his range as a writer, pairing big, bittersweet pop‑rock with louder, more abrasive guitar material. “Wonderful,” released from Vol. One, became one of Everclear’s biggest crossover songs and the band’s most visible pop‑chart moment, showing that Alexakis could write a vulnerable, domestic narrative that still felt like a rock single.\n\nLineup changes became more frequent after the classic trio period, but Alexakis kept Everclear active by reframing it as both a band and a songwriting platform. He continued touring, recording, and reintroducing the catalog to audiences who associated the group with a specific ’90s moment. Even as the industry changed—radio fragmentation, streaming economics, and nostalgia touring—Alexakis leaned into Everclear’s core identity: emotionally direct songs built to be played loud, with choruses designed to turn private scenes into public sing‑alongs.\n\nIn 2019, Alexakis publicly disclosed that he had been diagnosed with relapsing‑remitting multiple sclerosis, explaining that symptoms fans had noticed were health‑related rather than a relapse into substance use. The band’s official biography later described the diagnosis as coming after treatment related to a minor car accident and noted that Alexakis began donating a portion of ticket proceeds to organizations including the National MS Society and Sweet Relief Musicians Fund. The announcement reframed Everclear’s late‑career narrative as one of endurance and adaptation, with Alexakis continuing to perform while adjusting to a changed physical reality.\n\nAlexakis’ significance is ultimately rooted in method. He writes like a classic pop songwriter—clear melodic arcs, choruses that resolve, verses that set up the hook—yet he fills those shapes with lived experience: broken homes, addiction, economic fear, and the daily work of not repeating inherited failures. That combination of big hooks and hard truth is why Everclear’s songs have remained in rotation for decades and why Alexakis is still viewed as one of the more distinctive narrative voices to emerge from the ’90s alternative boom.",
+            "Sources": [
+              {
+                "Title": "Art Alexakis (1962-)",
+                "Publisher": "Oregon Encyclopedia",
+                "Url": "https://www.oregonencyclopedia.org/articles/alexakis_art_1962_/"
+              },
+              {
+                "Title": "Everclear (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Everclear_(band)"
+              },
+              {
+                "Title": "Everclear’s Art Alexakis On His Battle With Multiple Sclerosis, His Continued Sobriety & How He's Moving Forward",
+                "Publisher": "The Recording Academy (GRAMMY.com)",
+                "Url": "https://grammy.com/news/everclears-art-alexakis-his-battle-multiple-sclerosis-his-continued-sobriety-how-hes"
+              },
+              {
+                "Title": "Everclear goes on tour for 30th anniversary, supports Sweet Relief",
+                "Publisher": "Sweet Relief Musicians Fund",
+                "Url": "https://www.sweetrelief.org/news/april-04th-2022"
+              },
+              {
+                "Title": "41st Annual GRAMMY Awards – Nominees & Winners",
+                "Publisher": "The Recording Academy (GRAMMY.com)",
+                "Url": "https://grammy.com/awards/41st-annual-grammy-awards"
+              },
+              {
+                "Title": "Everclear – Artist Page",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/everclear-mn0000190414"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Greg Eklund",
+          "Roles": [
+            "Drums",
+            "Vocals",
+            "Multi-instrumentalist"
+          ],
+          "Years": "1994–2003",
+          "Overview": "Classic-era drummer whose steady, song-first grooves anchored Everclear’s breakthrough and late-’90s peak.",
+          "Bio": {
+            "BioID": "bio-everclear-greg-eklund",
+            "ArtistID": "everclear",
+            "ArtistName": "Everclear",
+            "MemberName": "Greg Eklund",
+            "FullName": "Greg Eklund",
+            "PrimaryInstruments": [
+              "Drums",
+              "Guitar",
+              "Vocals",
+              "Keyboards"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Power pop",
+              "Rock"
+            ],
+            "Birth": "April 18, 1970 — Jacksonville, Florida, U.S.",
+            "ActiveYears": "1990s–present",
+            "AssociatedActs": [
+              "Everclear",
+              "Jolly Mon",
+              "The Oohlas",
+              "Storm Large and Le Bonheur"
+            ],
+            "KeyAlbums": [
+              "Sparkle and Fade (1995)",
+              "So Much for the Afterglow (1997)",
+              "Songs from an American Movie Vol. One (2000)"
+            ],
+            "KeySongs": [
+              "Santa Monica",
+              "I Will Buy You a New Life",
+              "Father of Mine",
+              "The Honeymoon Song"
+            ],
+            "Achievements": [
+              "Served as Everclear’s drummer during the band’s most commercially visible era (1994–2003).",
+              "Wrote and sang “The Honeymoon Song” on Songs from an American Movie Vol. One: Learning How to Smile (2000).",
+              "Continued as a touring and recording drummer with later projects including The Oohlas and Storm Large and Le Bonheur."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Greg_Eklund",
+              "Official Site": "https://gregeklund.org/"
+            },
+            "FullText": "Greg Eklund (born April 18, 1970) is an American drummer and musician best known for his role as Everclear’s drummer during the band’s most widely recognized period. Joining the group in 1994 and remaining through 2003, Eklund provided the steady pulse that carried Everclear from its early Portland growth spurt into a run of platinum‑era albums and ubiquitous radio singles.\n\nEklund was born in Jacksonville, Florida, and later attended Lake Braddock Secondary School in Burke, Virginia, graduating in 1988. Before Everclear, he played in a series of local bands, developing the habits that matter most in a touring rock context: consistent timekeeping, stamina, and an instinct for dynamics that supports a singer rather than competing with one. He was also involved with the band Jolly Mon before joining Everclear, giving him experience with recording and the practical demands of professional gigging.\n\nWhen Eklund replaced Everclear’s original drummer, Scott Cuthbert, in 1994, the timing was pivotal. Everclear’s earliest recordings captured a raw, DIY intensity, but the next phase would require a drummer who could keep the band’s momentum disciplined enough for major‑label production and heavy touring. Eklund’s approach fit that need: he tended to play in service of the song, emphasizing clear backbeats and transitions so Art Alexakis’ lyrical storytelling could sit front and center.\n\nOn Sparkle and Fade (1995), Everclear’s major‑label breakout, Eklund’s drumming is a model of groove-as-structure. Songs like “Santa Monica” depend on a feel that doesn’t flinch as the guitars surge and the vocal climbs; the groove creates a runway for the chorus to lift without rushing. That steadiness is a large part of why the band’s songs felt both emotionally volatile and radio‑tight—intense but not chaotic.\n\nSo Much for the Afterglow (1997) pushed Everclear toward a cleaner, more pop‑oriented clarity, and Eklund’s role became even more about control and feel. Many of the album’s biggest moments live in a mid‑tempo pocket where the difference between “plodding” and “anthemic” is the drummer’s ability to maintain energy without speeding up. Eklund’s playing kept the band driving forward while leaving space for the vocal phrasing to sound conversational, which is crucial for Everclear’s lyric‑first identity.\n\nEklund’s contributions weren’t limited to drums. He received co‑writing credit on major Everclear songs alongside Alexakis and bassist Craig Montoya, reflecting how the classic trio functioned as a real working band. He also contributed as a vocalist and writer: he wrote and sang “The Honeymoon Song” on Songs from an American Movie Vol. One: Learning How to Smile (2000). That track is a useful lens on the group’s internal dynamics, showing that even in a band commonly identified with its frontman, the rhythm‑section players could step forward creatively.\n\nThe Songs from an American Movie period demanded versatility because it was released as two complementary albums in 2000—one leaning toward melodic pop‑rock and the other toward a heavier edge. Eklund had to serve both palettes while keeping the band’s identity coherent. On the melodic material, he supports spacious choruses with patient grooves; on the harder material, he adds urgency and punch while keeping everything tight enough to remain hook‑driven.\n\nEklund departed Everclear in 2003, marking the end of the classic lineup era for many listeners. After leaving, he continued making music in other projects, including work with The Oohlas (2004–2008) and later as the drummer for Storm Large and Le Bonheur (from 2009 onward). Those credits point to a musician comfortable in different settings, able to move from a mainstream alternative band to more eclectic touring contexts without losing his identity as a song‑first drummer.\n\nFrom a historical perspective, Eklund’s legacy in Everclear is structural. Everclear’s catalog often deals in heavy subject matter—family trauma, addiction, regret, and the fear of repeating inherited failures—yet the songs endure because they move. Eklund helped turn confessional lyrics into communal choruses by giving the band a pulse that felt both disciplined and emotionally charged. The result is that Everclear’s best songs don’t only read like diary entries; they feel like rock records built for crowds, and Eklund’s drumming is a major reason that alchemy works.\n\nEklund is also credited as a multi‑instrumentalist—drums first, but also guitar, vocals, and keyboards—and that broader musicianship helped in rehearsal and on the road. In a band built around clear verse/chorus architecture, a drummer’s choices about spacing and dynamics can determine whether the chorus feels like a release. Eklund’s most characteristic move in Everclear is restraint: he often keeps the verse tight and controlled so the chorus can expand naturally, a technique that shows up across the band’s mid‑’90s and late‑’90s singles.\n\nBecause Everclear’s lyrics are frequently autobiographical, the groove has to carry emotional weight without becoming melodramatic. On songs like “Father of Mine,” the drums hold a steady frame while the vocal delivers uncomfortable truths, allowing the lyric to land as a story rather than as a theatrical performance. On more sarcastic or bitter material, the same steadiness keeps the band from tipping into chaos. This is part of why Everclear’s records from this era sound cohesive even when the subject matter swings between rage, regret, and bittersweet nostalgia.\n\nAfter leaving Everclear, Eklund’s work with The Oohlas and Storm Large and Le Bonheur demonstrates continuity in his strengths: supporting strong front-people, adapting to setlists that mix rock energy with pop and theatrical dynamics, and maintaining dependable time in long touring runs. According to public biographies, he has also released his own music, including the 2021 album Muffled Tears, showing that his identity extends beyond being a sideman and into songwriting and production. Even so, for most listeners his name remains connected to Everclear’s biggest run because his drumming is literally embedded in the feel of the songs that defined the band to a broad audience.\n\nTaken together, Eklund’s Everclear years are a reminder that mainstream rock success isn’t only about a songwriter and a voice. It’s also about the musicians who make the songs move at the right tempo, with the right emotional contour, night after night. Eklund’s combination of steadiness and sensitivity helped Everclear’s confessional pop‑rock hit as hard as it did, and it is a major reason the classic lineup’s recordings still feel like complete, living performances rather than studio constructions.",
+            "Sources": [
+              {
+                "Title": "Greg Eklund",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Greg_Eklund"
+              },
+              {
+                "Title": "Everclear (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Everclear_(band)"
+              },
+              {
+                "Title": "41st Annual GRAMMY Awards – Nominees & Winners",
+                "Publisher": "The Recording Academy (GRAMMY.com)",
+                "Url": "https://grammy.com/awards/41st-annual-grammy-awards"
+              },
+              {
+                "Title": "Songs from an American Movie Vol. One: Learning How to Smile",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Songs_from_an_American_Movie_Vol._One:_Learning_How_to_Smile"
+              },
+              {
+                "Title": "Greg Eklund – Official Site",
+                "Publisher": "gregeklund.org",
+                "Url": "https://gregeklund.org/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Craig Montoya",
+          "Roles": [
+            "Bass",
+            "Backing vocals"
+          ],
+          "Years": "1992–2003",
+          "Overview": "Co-founding bassist who helped shape Everclear’s early DIY recordings and anchored the band’s classic trio lineup.",
+          "Bio": {
+            "BioID": "bio-everclear-craig-montoya",
+            "ArtistID": "everclear",
+            "ArtistName": "Everclear",
+            "MemberName": "Craig Montoya",
+            "FullName": "Craig Aloysius Montoya",
+            "PrimaryInstruments": [
+              "Bass",
+              "Vocals"
+            ],
+            "Occupations": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Genres": [
+              "Alternative rock",
+              "Power pop",
+              "Rock"
+            ],
+            "Birth": "September 14, 1970 — Spokane, Washington, U.S.",
+            "ActiveYears": "1992–present",
+            "AssociatedActs": [
+              "Everclear",
+              "Castella",
+              "Tri-Polar"
+            ],
+            "KeyAlbums": [
+              "World of Noise (1993)",
+              "Sparkle and Fade (1995)",
+              "So Much for the Afterglow (1997)"
+            ],
+            "KeySongs": [
+              "Santa Monica",
+              "Heroin Girl",
+              "Father of Mine",
+              "Everything to Everyone"
+            ],
+            "Achievements": [
+              "Co-founded Everclear with Art Alexakis and appeared on the band’s defining 1990s releases.",
+              "Co-credited on the band’s GRAMMY-nominated track “El Distorto De Melodica” (41st Annual GRAMMY Awards).",
+              "Continued performing and recording after departing the band, remaining active as a working musician."
+            ],
+            "ExternalLinks": {
+              "Wikipedia": "https://en.wikipedia.org/wiki/Craig_Montoya",
+              "Everclear (band)": "https://en.wikipedia.org/wiki/Everclear_(band)"
+            },
+            "FullText": "Craig Aloysius Montoya (born September 14, 1970) is an American bassist and songwriter best known as a founding member of Everclear and as part of the band’s classic lineup during its rise to mainstream alternative‑rock prominence. Montoya served as Everclear’s bassist from the early 1990s through 2003, helping define a sound that balanced raw intensity with pop structure: guitar‑driven songs anchored by bass lines that keep the emotional narrative moving forward.\n\nBorn in Spokane, Washington, Montoya gravitated toward music early and eventually focused on bass, an instrument that rewards both musicality and responsibility. His later work with Everclear reflects that mindset. Rather than treating the bass as a constant solo voice, he used it to clarify chord movement, lock tightly with the kick drum, and create a sturdy foundation for Art Alexakis’ vocal storytelling. In a three‑piece band, that role is essential: the bass has to fill space without cluttering the mix.\n\nMontoya’s defining career break came after he relocated to Portland, Oregon and responded to a local ad placed by Alexakis, who was assembling a new band after earlier projects dissolved. Montoya joined quickly, and drummer Scott Cuthbert completed the initial trio. That early lineup released the Nervous & Weird EP and then the debut album World of Noise (1993), a record famously recorded in a friend’s basement on a minimal budget with Alexakis credited as producer. The story of that record matters because it establishes Everclear’s early identity: a working band making loud, emotionally urgent songs with whatever tools were available.\n\nOn World of Noise and the associated early recordings, Montoya’s bass is functional in the best way. It reinforces chord changes clearly, stays locked to the drums, and keeps the songs driving even when the guitar tone turns abrasive. That kind of playing is sometimes overlooked because it doesn’t call attention to itself, but it’s exactly what allowed Everclear’s early material to feel cohesive rather than like a collection of noisy demos. In other words, Montoya helped make the band sound like a band.\n\nWhen Everclear moved toward wider exposure, the challenge was to keep the emotional core intact while making the records translate beyond the local circuit. Sparkle and Fade (1995), the group’s major‑label breakthrough, solved that problem by tightening arrangements and emphasizing choruses without losing grit. Montoya’s bass work supports contrast: tense, compressed verses and choruses that open up into sing‑along space. That architecture became a signature of Everclear’s style, and Montoya’s steadiness helped it land as both cathartic and radio‑ready.\n\nSo Much for the Afterglow (1997) brought Everclear to its commercial peak and pushed the band toward a more pop‑oriented clarity. In that context, Montoya’s job became even more about feel and precision. Many of the album’s best‑known songs sit in a mid‑tempo pocket where the bass line has to be both simple and compelling—steady enough for radio but energetic enough to keep the narrative tension alive. Montoya’s playing supports Alexakis’ vocal cadence, allowing the lyrics to sound like someone talking while the music keeps escalating toward the chorus.\n\nMontoya shared songwriting credit on several of the group’s key tracks with Alexakis and drummer Greg Eklund, reflecting the collaborative nature of the classic trio. This is an important historical point because Everclear is often described as a frontman-led project, yet the classic lineup functioned as a working unit that shaped grooves and arrangements together. Montoya’s contribution to that chemistry is the “band” part of the equation: he helped turn demos into records that felt complete and helped make Everclear’s songs sound unified across the jump from indie beginnings to major‑label success.\n\nThe late‑90s peak also produced one of the band’s notable milestones: Everclear’s only Grammy nomination to date for “El Distorto de Melodica,” an instrumental track that appears on So Much for the Afterglow. While short and playful, the track’s presence in the album’s sequence highlights that the band wasn’t only writing narrative rock singles; it also had a feel for pacing and for inserting odd, left‑turn moments inside a mainstream context. Montoya was part of that sensibility as a founding member and core collaborator.\n\nAfter more than a decade with Everclear, Montoya departed in 2003, marking the end of the lineup most closely associated with the band’s best‑known run of hits. He continued to perform and record in other projects, with credits that include Castella and Tri‑Polar, and he has remained active as a working musician rather than a celebrity presence. In retrospect, his significance is clear: he was there at the founding, he helped carry Everclear from Portland DIY recordings to platinum‑era mainstream rock, and his bass playing—steady, supportive, and song‑centered—was a key ingredient in the band’s most enduring work.\n\nMontoya’s credited instruments include bass, guitar, keyboards, vocals, and mandolin, and he has also contributed backing vocals. In a trio format, those extra skills matter: small harmony parts or texture choices can make a chorus feel larger without adding extra players. Live, Montoya’s role was to keep the low end solid while matching the band’s dynamic shifts—tightening up for tense verses and then opening into the chorus so the song feels like it breathes. That kind of discipline is a big reason the classic lineup’s recordings and performances feel cohesive and sturdy even when the lyrics are emotionally unsettled.\n\nHis departure in 2003 was a turning point for Everclear. The band had already moved through earlier personnel changes, but losing both Montoya and Eklund marked the end of the lineup most listeners associate with the group’s run of hits. Subsequent lineups added new bassists and guitarists, and Everclear continued under Alexakis’ leadership, but Montoya’s time in the band remains the reference point for the sound captured on the records that defined Everclear’s late‑1990s and early‑2000s mainstream profile.\n\nIn the years after Everclear, Montoya continued working as a musician rather than stepping away from music entirely. Public profiles list projects such as Castella and Tri‑Polar among his associated acts. He has also been described as performing with smaller acts and tribute bands, a common path for working rock musicians after a mainstream peak. For Everclear fans, though, his lasting imprint is still on the catalog that carried the band from Portland’s DIY beginnings into platinum‑era radio, where his bass work helped keep the songs grounded and driving.\n\nUltimately, Montoya’s significance is that he helped turn Everclear’s emotional songwriting into records that sounded sturdy, loud, and complete. The band’s best‑known material depends on tension and release: tight, bitter verses that open into choruses that feel like survival. Montoya’s bass lines are the hidden architecture that makes that release feel earned. He is therefore a key piece of Everclear’s history—not just a name on a lineup list, but a foundational contributor to the classic era that still defines how many listeners first encountered the band.",
+            "Sources": [
+              {
+                "Title": "Craig Montoya",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Craig_Montoya"
+              },
+              {
+                "Title": "Everclear (band)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Everclear_(band)"
+              },
+              {
+                "Title": "World of Noise",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/World_of_Noise"
+              },
+              {
+                "Title": "Sparkle and Fade",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Sparkle_and_Fade"
+              },
+              {
+                "Title": "So Much for the Afterglow",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/So_Much_for_the_Afterglow"
+              },
+              {
+                "Title": "41st Annual GRAMMY Awards – Nominees & Winners",
+                "Publisher": "The Recording Academy (GRAMMY.com)",
+                "Url": "https://grammy.com/awards/41st-annual-grammy-awards"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Scott Cuthbert",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1992–1994",
+          "Overview": "Original drummer during the earliest Portland years and the first wave of independent releases before being replaced ahead of the major-label breakthrough."
+        },
+        {
+          "Name": "Davey French",
+          "Roles": [
+            "Guitar",
+            "Backing vocals"
+          ],
+          "Years": "2003–present",
+          "Overview": "Long-running guitarist in the post-classic lineup era, helping keep the band touring and expanding the live lineup beyond the original trio format."
+        },
+        {
+          "Name": "Freddy Herrera",
+          "Roles": [
+            "Bass",
+            "Backing vocals"
+          ],
+          "Years": "2005–present",
+          "Overview": "Joined after the classic era, providing bass and vocals as Everclear continued recording and touring under Alexakis’ leadership."
+        },
+        {
+          "Name": "Brett Snyder",
+          "Roles": [
+            "Guitar"
+          ],
+          "Years": "2004–2005",
+          "Overview": "Guitarist in the mid-2000s lineup period during a phase of frequent personnel changes."
+        },
+        {
+          "Name": "Brian Nolan",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "2000–2003",
+          "Overview": "Drummer associated with the later classic-era transition period and touring around the early-2000s releases."
+        }
+      ]
     }
   ]
 }
