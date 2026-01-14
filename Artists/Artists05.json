@@ -3011,27 +3011,965 @@
   {
     "ArtistID": "crowded-house",
     "Name": "Crowded House",
-    "Type": "",
+    "Type": "Band",
     "Origin": {
-      "City": "",
-      "Region": "",
-      "Country": ""
+      "City": "Melbourne",
+      "Region": "Victoria",
+      "Country": "Australia"
     },
-    "YearsActive": [],
-    "Genres": [],
-    "Labels": [],
-    "Overview": "",
-    "NotableAlbums": [],
-    "SignatureSongs": [],
-    "Achievements": [],
-    "KeyFacts": [],
+    "YearsActive": [
+      "1985–1996",
+      "2006–2011",
+      "2016",
+      "2019–present"
+    ],
+    "Genres": [
+      "Pop rock",
+      "Jangle pop",
+      "Alternative rock"
+    ],
+    "Labels": [
+      "Capitol",
+      "Parlophone",
+      "EMI Australia",
+      "ATO",
+      "BMG"
+    ],
+    "Overview": " Crowded House are an Australian–New Zealand pop‑rock band formed in Melbourne in 1985 by singer‑songwriter Neil Finn, drummer Paul Hester, and bassist Nick Seymour. Emerging from the breakup of Split Enz, Finn started the project as The Mullanes before the trio relocated to the United States and signed with Capitol. Their sound married classic pop craft to a slightly off‑kilter sense of feeling and phrasing—chiming guitars, supple basslines, and stacked vocals that framed Finn’s melodies and lyrics without sanding down the tension underneath. The self‑titled debut (1986) broke internationally on the strength of “Don’t Dream It’s Over,” and it set the band’s template: hook‑heavy singles that still left room for melancholy, ambiguity, and subtle musicianship.\n\nRather than chase a single formula, Crowded House’s late‑’80s and early‑’90s run maps a steady evolution. Temple of Low Men (1988) darkened the tone and widened the dynamics; Woodface (1991) broadened the palette with richer harmonies and collaboration with Neil’s brother Tim Finn, yielding defining songs such as “Weather With You,” “Fall at Your Feet,” and “Four Seasons in One Day.” Together Alone (1993) leaned further into atmosphere and groove, and by the mid‑’90s the band had become as much a touring institution as a singles act—restlessly rearranging older material, foregrounding ensemble interplay, and building a catalogue whose deep cuts carried as much emotional weight as the hits.\n\nThe story didn’t end with the original run. After Hester’s death in 2005, Finn and Seymour reunited Crowded House with new collaborators, releasing Time on Earth (2007) and Intriguer (2010) and re‑establishing the band as a contemporary touring and recording force. In 2016 the original members were inducted into the ARIA Rock & Roll Hall of Fame, underscoring the group’s long‑term cultural footprint. The modern era has embraced a family‑and‑friends model—expanding the lineup and texture while keeping the core identity intact: melodic discipline, careful arrangement, and songs that can sound comforting and unsettling in the same breath. Albums such as Dreamers Are Waiting (2021) and Gravity Stairs (2024) show a band comfortable aging in public, still chasing new shapes for familiar strengths.",
+    "NotableAlbums": [
+      {
+        "Title": "Crowded House",
+        "Year": "1986",
+        "Notes": "Debut album that introduced the band’s melodic pop‑rock identity and contained their global breakthrough singles."
+      },
+      {
+        "Title": "Temple of Low Men",
+        "Year": "1988",
+        "Notes": "Darker, more dynamic second album that sharpened the band’s tension‑and‑release songwriting approach."
+      },
+      {
+        "Title": "Woodface",
+        "Year": "1991",
+        "Notes": "Harmony‑rich peak‑era album, featuring collaboration with Tim Finn and a run of signature singles."
+      },
+      {
+        "Title": "Together Alone",
+        "Year": "1993",
+        "Notes": "Atmospheric, groove‑leaning record that expanded the band’s textural and rhythmic range."
+      },
+      {
+        "Title": "Recurring Dream: The Very Best of Crowded House",
+        "Year": "1996",
+        "Notes": "Career‑spanning compilation that helped cement the band’s international catalogue and includes new tracks cut with Paul Hester."
+      },
+      {
+        "Title": "Time on Earth",
+        "Year": "2007",
+        "Notes": "Reunion-era studio comeback that re‑introduced the band as an active, forward‑looking project."
+      },
+      {
+        "Title": "Intriguer",
+        "Year": "2010",
+        "Notes": "Late‑2000s/early‑2010s highlight with a more spacious, understated sound and strong album‑side writing."
+      },
+      {
+        "Title": "Dreamers Are Waiting",
+        "Year": "2021",
+        "Notes": "Modern‑era studio album with an expanded lineup and a reflective, mature perspective."
+      },
+      {
+        "Title": "Gravity Stairs",
+        "Year": "2024",
+        "Notes": "Recent studio chapter continuing the band’s modern lineup and songwriting focus on texture and restraint."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Title": "Don’t Dream It’s Over",
+        "Year": "1986",
+        "Notes": "International breakthrough; a defining example of the band’s bittersweet melodic pop."
+      },
+      {
+        "Title": "Something So Strong",
+        "Year": "1986",
+        "Notes": "High‑energy hit single that highlights the band’s rhythmic lift and vocal blend."
+      },
+      {
+        "Title": "Mean to Me",
+        "Year": "1986",
+        "Notes": "Early fan favorite that showcases Finn’s knack for hooks inside restless chord changes."
+      },
+      {
+        "Title": "Better Be Home Soon",
+        "Year": "1988",
+        "Notes": "Signature ballad with a gentle groove and a lyric of distance and return."
+      },
+      {
+        "Title": "Fall at Your Feet",
+        "Year": "1991",
+        "Notes": "Intimate, harmonically rich song often cited among the band’s finest early‑’90s writing."
+      },
+      {
+        "Title": "Weather With You",
+        "Year": "1991",
+        "Notes": "Enduring pop‑rock staple built on bright chord movement and wry, open‑ended lyric."
+      },
+      {
+        "Title": "Four Seasons in One Day",
+        "Year": "1991",
+        "Notes": "Melancholic mid‑tempo classic noted for its melodic turnarounds and layered harmony."
+      },
+      {
+        "Title": "Distant Sun",
+        "Year": "1993",
+        "Notes": "Warm, expansive single reflecting the broader, atmospheric tone of the Together Alone era."
+      }
+    ],
+    "Achievements": [
+      {
+        "Year": "1986–1987",
+        "Title": "International breakthrough and enduring catalogue",
+        "Details": "The band’s debut-era singles established Crowded House as a global pop‑rock act and helped launch a long‑running catalogue with multi‑platinum reach."
+      },
+      {
+        "Year": "1996",
+        "Title": "Farewell to the World concert (Sydney Opera House forecourt)",
+        "Details": "The group’s farewell performance became one of the largest‑attended live concerts in Australian history and remains a defining cultural moment."
+      },
+      {
+        "Year": "2007 & 2010",
+        "Title": "Reunion-era #1 albums in Australia",
+        "Details": "The re‑formed band returned with major chart success, including albums that reached #1 on the ARIA Albums Chart."
+      },
+      {
+        "Year": "2016",
+        "Title": "ARIA Rock & Roll Hall of Fame induction",
+        "Details": "Crowded House’s original members were inducted, recognizing the band’s long‑term impact on Australasian popular music."
+      },
+      {
+        "Year": "2021–2024",
+        "Title": "Modern-era studio continuation",
+        "Details": "The band continued releasing new studio work in the 2020s, extending the Crowded House story well beyond the original run."
+      }
+    ],
+    "KeyFacts": [
+      "Formed in Melbourne in 1985 by Neil Finn, Paul Hester, and Nick Seymour; first worked under the name The Mullanes.",
+      "Breakthrough came with the 1986 debut album and the global hit “Don’t Dream It’s Over.”",
+      "A creative peak arrived with Woodface (1991), featuring collaboration with Tim Finn and multiple signature singles.",
+      "The band’s 1996 farewell performance at the Sydney Opera House forecourt drew an estimated crowd in the six figures.",
+      "Crowded House re‑formed in the 2000s and continued releasing new albums into the 2020s."
+    ],
     "ExternalLinks": {
-      "Official Site": "",
-      "Wikipedia": "",
-      "Discography": ""
+      "Official Site": "https://www.crowdedhouse.com/",
+      "AllMusic Artist Bio": "https://www.allmusic.com/artist/crowded-house-mn0000882858/biography",
+      "Wikipedia": "https://en.wikipedia.org/wiki/Crowded_House",
+      "Discography": "https://en.wikipedia.org/wiki/Crowded_House_discography"
     },
-    "CoreMembers": [],
-    "NonCoreMembers": []
+    "CoreMembers": [
+      {
+        "Name": "Neil Finn",
+        "Roles": [
+          "Lead vocals",
+          "Guitar",
+          "Keyboards",
+          "Primary songwriter"
+        ],
+        "Years": "1985–1996; 2006–2011; 2016; 2019–present",
+        "YearsActive": "1985–present (Crowded House eras)",
+        "Instruments": [
+          "Vocals",
+          "Guitar",
+          "Keyboards"
+        ],
+        "Albums": [
+          {
+            "Title": "Crowded House",
+            "Year": "1986"
+          },
+          {
+            "Title": "Temple of Low Men",
+            "Year": "1988"
+          },
+          {
+            "Title": "Woodface",
+            "Year": "1991"
+          },
+          {
+            "Title": "Together Alone",
+            "Year": "1993"
+          },
+          {
+            "Title": "Time on Earth",
+            "Year": "2007"
+          },
+          {
+            "Title": "Intriguer",
+            "Year": "2010"
+          },
+          {
+            "Title": "Dreamers Are Waiting",
+            "Year": "2021"
+          },
+          {
+            "Title": "Gravity Stairs",
+            "Year": "2024"
+          }
+        ],
+        "Overview": "Founder, lead vocalist, and principal songwriter whose melodic craft and lyrical ambiguity define Crowded House’s sound across both the classic era and the band’s modern return.",
+        "Bio": {
+          "BioID": "crowded-house-neil-finn",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Neil Finn",
+          "FullName": "Neil Mullane Finn",
+          "Birth": "May 27, 1958 — Te Awamutu, Waikato, New Zealand",
+          "Death": "",
+          "ActiveYears": [
+            "1970s–present"
+          ],
+          "Occupations": [
+            "Singer-songwriter",
+            "Musician",
+            "Producer"
+          ],
+          "PrimaryInstruments": [
+            "Vocals",
+            "Guitar",
+            "Keyboards"
+          ],
+          "Genres": [
+            "Pop rock",
+            "Jangle pop",
+            "Alternative rock",
+            "New wave"
+          ],
+          "AssociatedActs": [
+            "Crowded House",
+            "Split Enz",
+            "Finn Brothers",
+            "Fleetwood Mac"
+          ],
+          "KeyAlbums": [
+            "Crowded House (1986)",
+            "Woodface (1991)",
+            "Together Alone (1993)",
+            "Time on Earth (2007)",
+            "Intriguer (2010)"
+          ],
+          "KeySongs": [
+            "Don’t Dream It’s Over",
+            "Weather With You",
+            "Fall at Your Feet",
+            "Four Seasons in One Day"
+          ],
+          "Achievements": [
+            "Core songwriter and frontman of Crowded House’s classic and modern eras",
+            "International acclaim as a melodic pop craftsman",
+            "Touring member of Fleetwood Mac (2018–2022)"
+          ],
+          "ExternalLinks": {
+            "Official Site": "https://neilfinn.com/",
+            "AllMusic": "https://www.allmusic.com/artist/neil-finn-mn0000333901",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Neil_Finn"
+          },
+          "FullText": "Neil Mullane Finn (born 27 May 1958 in Te Awamutu, Waikato, New Zealand) is a singer‑songwriter, vocalist, guitarist and keyboard player whose work has made him one of the defining melodic writers of late‑20th‑century pop‑rock. Raised in a musical household, Finn came to prominence in the late 1970s when he joined Split Enz, first as a guitarist and songwriter and soon as a central voice in the band’s shift toward concise new‑wave pop. His writing helped produce the band’s biggest international breakthrough, and the experience also taught him how to make inventive arrangements feel effortless: hooks that arrive early, harmonies that carry emotional subtext, and rhythms that stay light on their feet even when the subject matter turns heavy.\n\nAfter Split Enz ended in 1984, Finn and drummer Paul Hester began shaping a new group. That project—first called The Mullanes—quickly crystallized around Finn’s songs and a chemistry between three distinct musical personalities: Finn’s melodic density, Hester’s buoyant, characterful drumming, and Nick Seymour’s melodic bass lines and harmony vocals. The band became Crowded House, relocated to the United States, and released a self‑titled debut in 1986 that broke worldwide, led by “Don’t Dream It’s Over.” The record introduced a combination that would define Finn’s best work: classic pop structure with a private, almost literary ambiguity in the lyrics. Crowded House’s early success was never only about a single; Finn’s songwriting allowed the group to sound intimate at arena scale, and the band’s live approach kept songs flexible enough to evolve from tour to tour.\n\nAcross the original Crowded House run (1985–1996), Finn pushed the band’s sound forward album by album. Temple of Low Men (1988) tightened the frame and deepened the mood, while Woodface (1991) expanded the vocal and harmonic world through collaboration with his brother Tim Finn, adding warmth, humor, and fraternal interplay to Finn’s already precise craft. Together Alone (1993) leaned into atmosphere and groove, and by the time the group issued its 1996 farewell concerts, Finn had established a catalogue of songs that could function as radio staples and as deeper character studies—pieces that reward close listening without losing immediacy.\n\nIn the aftermath of Crowded House’s split, Finn refused to be pinned to a single format. He worked as a solo artist, co‑led the Finn Brothers project with Tim, and became a sought‑after collaborator across Australasia and beyond. His songwriting voice—melodic, harmonically rich, and emotionally exact—translated to many contexts: charity and collective projects, guest appearances, and production and arrangement roles that drew on his studio experience with producers such as Mitchell Froom. Even when the work became more experimental, Finn’s instinct for structure remained a constant; songs rarely drift without a destination, and even his quieter pieces tend to pivot on a memorable melodic turn.\n\nFinn’s relationship with Crowded House also proved durable. Following Paul Hester’s death in 2005, Finn and Seymour re‑formed Crowded House with drummer Matt Sherrod and returned with Time on Earth (2007) and Intriguer (2010), both of which reaffirmed Finn’s ability to write for the band as a living organism rather than a nostalgia act. Later, Crowded House entered a new phase that embraced a wider family‑and‑friends lineup, including Finn’s sons Liam and Elroy and longtime producer‑musician Mitchell Froom. That configuration produced new recordings and touring in the 2020s, with albums such as Dreamers Are Waiting (2021) and Gravity Stairs (2024) showing Finn still interested in shifting textures, dynamics and perspective while keeping the melodic center strong.\n\nA vivid public coda to Finn’s reputation as an adaptable band musician came when he joined Fleetwood Mac’s touring lineup in 2018 (remaining with the group until 2022). Stepping into a storied catalogue, Finn approached the role as a respectful interpreter and a confident singer‑guitarist, bringing his own musical identity without trying to overwrite the band’s history. The move also highlighted a through‑line in his career: the ability to serve a song first, whether it is his own or someone else’s, and to make harmony and arrangement feel like storytelling.\n\nAt the core of Finn’s legacy is a rare combination of craft and openness. He writes choruses that feel inevitable but not predictable, and his lyrics often hold two truths at once—comfort and unease, confidence and doubt—without tipping into melodrama. Across Split Enz, Crowded House, the Finn Brothers, solo projects and collaborations, Finn has maintained a standard of melodic invention that is immediately recognizable yet consistently renewing. For listeners, his best work offers the reassurance of a great pop song and the lingering aftertaste of something unresolved, like a conversation that keeps unfolding long after the music ends.\n\nBeyond the headline bands, Finn’s career includes projects that reflect his community instincts. He has helped convene large‑scale collaborative performances and recordings, bringing together friends and admirers from different scenes and generations, and he has periodically formed side groups that let him explore different grooves and studio approaches without the expectations that follow the Crowded House name. These ventures reinforce a consistent pattern: Finn treats songwriting as a craft best sharpened in company, and he is comfortable shifting between leadership and support roles depending on what a project needs.\n\nFinn has also been recognized formally for his contributions to music, including national honors, while remaining unusually grounded about authorship and success. In interviews he often frames his best‑known songs not as monuments but as working pieces—compositions that can be rearranged, re‑interpreted, and shared with other voices. That attitude is part of what keeps his catalogue alive: the songs invite covers, duets, and new contexts because their emotional architecture is sturdy and their language is open enough to hold different experiences.\n\nTaken together, Finn’s body of work shows an artist who never fully settles. He keeps returning to the same core tools—melody, harmony, rhythm, and a singer’s instinct for phrasing—yet he adjusts the frame: tighter or looser arrangements, brighter or darker tonalities, and changing ensembles that bring out new sides of the writing. Whether fronting Crowded House in a stadium, singing harmony in a collaborative project, or stepping into another band’s history with care, Finn’s north star remains the same: make the song feel inevitable, and make it feel human.",
+          "Overview": "Neil Finn is the primary songwriter and frontman of Crowded House, known for melodic sophistication, close-harmony arrangements, and lyrics that balance comfort with unease.",
+          "Biography": "Neil Finn rose to prominence with Split Enz before forming Crowded House in 1985. Across multiple eras—classic albums in the late 1980s and early 1990s, and reunion-era work from the 2000s onward—he has remained the band’s defining voice as a writer and singer. His broader career includes solo releases, the Finn Brothers project, and high-profile collaborations, reflecting a songwriter whose craft translates across ensembles.",
+          "Sources": [
+            {
+              "Title": "Neil Finn – Official Site / Bio",
+              "Publisher": "NeilFinn.com",
+              "Url": "https://neilfinn.com/"
+            },
+            {
+              "Title": "Neil Finn – AllMusic Biography",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/neil-finn-mn0000333901/biography"
+            },
+            {
+              "Title": "Neil Finn – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Neil_Finn"
+            },
+            {
+              "Title": "Fleetwood Mac 2018 Tour Press Release (welcoming Neil Finn)",
+              "Publisher": "MickFleetwoodOfficial.com",
+              "Url": "https://www.mickfleetwoodofficial.com/2018/fleetwood-mac-2018-tour-press-release/"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Nick Seymour",
+        "Roles": [
+          "Bass",
+          "Backing vocals",
+          "Songwriting",
+          "Visual identity/artwork"
+        ],
+        "Years": "1985–1996; 2006–2011; 2016; 2019–present",
+        "YearsActive": "1985–present (Crowded House eras)",
+        "Instruments": [
+          "Bass guitar",
+          "Vocals"
+        ],
+        "Albums": [
+          {
+            "Title": "Crowded House",
+            "Year": "1986"
+          },
+          {
+            "Title": "Temple of Low Men",
+            "Year": "1988"
+          },
+          {
+            "Title": "Woodface",
+            "Year": "1991"
+          },
+          {
+            "Title": "Together Alone",
+            "Year": "1993"
+          },
+          {
+            "Title": "Time on Earth",
+            "Year": "2007"
+          },
+          {
+            "Title": "Intriguer",
+            "Year": "2010"
+          },
+          {
+            "Title": "Dreamers Are Waiting",
+            "Year": "2021"
+          },
+          {
+            "Title": "Gravity Stairs",
+            "Year": "2024"
+          }
+        ],
+        "Overview": "Founding bassist whose melodic lines, harmony vocals, and visual‑arts perspective helped define Crowded House’s musical and aesthetic identity.",
+        "Bio": {
+          "BioID": "crowded-house-nick-seymour",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Nick Seymour",
+          "FullName": "Nicholas More Seymour",
+          "Birth": "December 9, 1958 — Benalla, Victoria, Australia",
+          "Death": "",
+          "ActiveYears": [
+            "1970s–present"
+          ],
+          "Occupations": [
+            "Musician",
+            "Bassist",
+            "Producer",
+            "Visual artist"
+          ],
+          "PrimaryInstruments": [
+            "Bass guitar",
+            "Vocals"
+          ],
+          "Genres": [
+            "Pop rock",
+            "Jangle pop",
+            "Alternative rock"
+          ],
+          "AssociatedActs": [
+            "Crowded House",
+            "The Mullanes",
+            "Plays with Marionettes",
+            "The Horla"
+          ],
+          "KeyAlbums": [
+            "Crowded House (1986)",
+            "Woodface (1991)",
+            "Together Alone (1993)",
+            "Time on Earth (2007)",
+            "Intriguer (2010)"
+          ],
+          "KeySongs": [
+            "Don’t Dream It’s Over",
+            "Weather With You",
+            "Four Seasons in One Day"
+          ],
+          "Achievements": [
+            "Founding bassist of Crowded House",
+            "Noted for album artwork/visual contributions and visual‑arts practice"
+          ],
+          "ExternalLinks": {
+            "National Portrait Gallery": "https://www.portrait.gov.au/people/nick-seymour-1958",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Nick_Seymour"
+          },
+          "FullText": "Nicholas More Seymour (born 9 December 1958 in Benalla, Victoria, Australia) is a bassist, songwriter, producer and visual artist best known as a founding member of Crowded House. Long before international touring, Seymour grew up in a family where music was treated as a shared language; he sang and played with siblings, and that early blend of performance and domestic life shaped a career that would later balance high‑profile band work with a parallel commitment to art, design, and craft. After moving to Melbourne as a teenager, he spent years immersed in the city’s creative culture—studying visual arts, working on sets and projects, and playing in local bands that mixed post‑punk experimentation with pop instincts.\n\nSeymour’s path into Crowded House began in 1985, when he heard that former members of Split Enz were assembling a new group and volunteered for the bass position. The timing proved decisive. As The Mullanes transformed into Crowded House and moved quickly into the recording world, Seymour became more than a time‑keeper: his bass lines often act as secondary melodies, climbing through chord changes with a singer’s sense of contour, and his backing vocals added thickness and warmth to the band’s harmonies. In the studio, his parts frequently supplied the rhythmic lift that made Neil Finn’s songs feel simultaneously relaxed and urgent, and his taste for arrangement details helped the group’s records land with a distinctive polish rather than generic gloss.\n\nFrom the self‑titled debut (1986) through Temple of Low Men (1988), Woodface (1991) and Together Alone (1993), Seymour’s role expanded alongside the band’s ambitions. Crowded House became a classic “song band,” but the chemistry depended on how the trio made space for one another inside a tight pop format. Seymour helped that happen by treating the bass as an instrument of conversation—supporting the vocal, answering guitar motifs, and creating forward motion during transitions. He also contributed songwriting and, crucially, a strong visual sensibility. Seymour is widely credited within the band’s story for bringing an artist’s eye to album‑era identity: cover art, staging ideas, and an attention to color and texture that made Crowded House feel like a complete world rather than a set of singles.\n\nThat visual work was not an accessory. Seymour’s design and artwork earned major professional recognition in its own right, including awards for album‑cover art in the Crowded House era. This dual identity—musician and visual artist—became a defining trait. Even during periods when the band’s internal pressure ran high, Seymour kept building a life in which music and art fed each other: the discipline of arranging a bass part informed the discipline of composition on a canvas, and the confidence to make bold visual choices mirrored the band’s willingness to shift sound from record to record.\n\nIn the late 1990s and early 2000s, Seymour’s career broadened geographically and professionally. He spent significant time in Ireland, producing and supporting artists there and building studio infrastructure, while also pursuing projects that connected back to his roots. These years underline a side of Seymour that is easy to overlook from a greatest‑hits perspective: he is a builder. He helps make scenes function—by producing, mentoring, organizing, and investing in the practical details that allow other people’s work to happen.\n\nWhen Crowded House re‑formed in the 2000s after Paul Hester’s death, Seymour became the essential bridge between past and present. Alongside Finn, he helped shape the band’s new identity: respectful to the original trio’s chemistry but open to a different rhythmic engine and a broader instrumental palette. On Time on Earth (2007) and Intriguer (2010), his playing retained the melodic clarity of the early years while adapting to new drummers and new production approaches. Live, he remained a stabilizing presence—anchoring songs that audiences knew by heart while leaving room for rearrangements and deeper cuts.\n\nThe band’s later chapter also highlighted Seymour’s capacity to keep evolving. As Crowded House moved into the 2020s with an expanded, family‑centered lineup, Seymour stayed central—not as a nostalgic emblem, but as a musician still interested in detail. His bass work continues to prioritize musical storytelling: choosing when to stay out of the way, when to push a chorus over the edge, and when to let a small rhythmic change alter the emotional temperature of a verse.\n\nAcross decades, Seymour’s legacy is inseparable from Crowded House’s enduring appeal, but it is also distinct. He represents the rare band member who makes the “frame” as much as the “picture”: a musician whose lines are memorable and whose sound is integral, and an artist who helps define how a band looks and feels in the world. That combination—melodic musicianship, visual imagination, and behind‑the‑scenes building—helps explain why Crowded House’s work continues to resonate with listeners who value craft, personality, and songs that wear their sophistication lightly.\n\nSeveral concrete details illustrate the range of Seymour’s work. Before Crowded House, he played in Melbourne groups including Plays with Marionettes, Bang, and The Horla, and he is the younger brother of Mark Seymour of Hunters & Collectors—another reminder that he grew up inside a culture where music and performance were normal, not exotic. Within Crowded House he was repeatedly recognized for cover‑art contributions, and he has continued to score and produce outside the band, underscoring that his musicianship has always had an arranger‑producer’s mindset.\n\nUltimately, Seymour’s importance is best heard in the way Crowded House songs “sit.” The bass rarely behaves like a simple root‑note anchor; instead it sings, nudges, and occasionally cracks a smile. It is the voice of someone who understands pop from the inside—how a chorus needs lift, how a bridge needs tension, how a turnaround needs momentum—and who also understands how presentation and design can amplify the emotional world a song already contains.",
+          "Overview": "Nick Seymour is the founding bassist of Crowded House, known for melodic bass lines, harmony vocals, and a parallel career as a recognized visual artist.",
+          "Biography": "Nick Seymour joined Neil Finn and Paul Hester in 1985 to form Crowded House (initially The Mullanes). His bass playing and backing vocals became core to the band’s sound, and his visual sensibility helped shape the group’s album‑era identity. He remained central through the band’s classic run and its later re‑formations, while also pursuing a career in visual art and production work.",
+          "Sources": [
+            {
+              "Title": "Nick Seymour – National Portrait Gallery (Australia) profile",
+              "Publisher": "National Portrait Gallery (Australia)",
+              "Url": "https://www.portrait.gov.au/people/nick-seymour-1958"
+            },
+            {
+              "Title": "Nick Seymour – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Nick_Seymour"
+            },
+            {
+              "Title": "Crowded House – AllMusic Biography",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/crowded-house-mn0000882858/biography"
+            },
+            {
+              "Title": "Crowded House – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Crowded_House"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Paul Hester",
+        "Roles": [
+          "Drums",
+          "Backing vocals"
+        ],
+        "Years": "1985–1994; 1996 (farewell); occasional appearances",
+        "YearsActive": "1985–1994 (core touring era)",
+        "Instruments": [
+          "Drums",
+          "Vocals"
+        ],
+        "Albums": [
+          {
+            "Title": "Crowded House",
+            "Year": "1986"
+          },
+          {
+            "Title": "Temple of Low Men",
+            "Year": "1988"
+          },
+          {
+            "Title": "Woodface",
+            "Year": "1991"
+          },
+          {
+            "Title": "Together Alone",
+            "Year": "1993"
+          }
+        ],
+        "Overview": "Original-era drummer whose buoyant, characterful playing and backing vocals were central to Crowded House’s chemistry and live identity.",
+        "Bio": {
+          "BioID": "crowded-house-paul-hester",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Paul Hester",
+          "FullName": "Paul Newell Hester",
+          "Birth": "January 8, 1959 — Melbourne, Victoria, Australia",
+          "Death": "March 26, 2005 — Melbourne, Victoria, Australia",
+          "ActiveYears": [
+            "1970s–2005"
+          ],
+          "Occupations": [
+            "Musician",
+            "Drummer",
+            "Television presenter"
+          ],
+          "PrimaryInstruments": [
+            "Drums",
+            "Vocals"
+          ],
+          "Genres": [
+            "Pop rock",
+            "New wave",
+            "Alternative rock"
+          ],
+          "AssociatedActs": [
+            "Crowded House",
+            "Split Enz",
+            "The Mullanes"
+          ],
+          "KeyAlbums": [
+            "Crowded House (1986)",
+            "Temple of Low Men (1988)",
+            "Woodface (1991)",
+            "Together Alone (1993)"
+          ],
+          "KeySongs": [
+            "Don’t Dream It’s Over",
+            "Something So Strong",
+            "Better Be Home Soon"
+          ],
+          "Achievements": [
+            "Co‑founder and classic‑era drummer of Crowded House",
+            "Member of Split Enz’s final era",
+            "Posthumously inducted with Crowded House into the ARIA Rock & Roll Hall of Fame (2016)"
+          ],
+          "ExternalLinks": {
+            "National Portrait Gallery": "https://www.portrait.gov.au/people/paul-hester-1959",
+            "AllMusic": "https://www.allmusic.com/artist/paul-hester-mn0000076144",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Paul_Hester"
+          },
+          "FullText": "Paul Newell Hester (8 January 1959 – 26 March 2005) was an Australian drummer, musician and television personality whose playing and presence were central to the identity of Split Enz’s final chapter and to the original era of Crowded House. Born and raised in Melbourne, Hester grew up around rhythm: his mother was a jazz drummer and encouraged him to play, and he developed an approach that combined pop precision with a loose, conversational swing. Even when his parts were tightly arranged, they tended to feel human—slightly behind the beat when a song needed warmth, sharply accenting transitions when a chorus needed lift.\n\nHester spent his formative years in local bands and the wider Melbourne music community before being recruited into Split Enz in 1983. The band was regrouping and reshaping itself, and Hester’s entry brought a new kind of momentum. He played on the group’s late‑period recordings and toured with them through their final stretch, contributing not only drums but also personality: a quick wit, a willingness to clown, and a musical attentiveness that made him a stabilizing force in a band known for theatricality and change. When Split Enz disbanded in 1984, Hester and Neil Finn began planning a new project that would place songs—rather than spectacle—at the center.\n\nThat project became Crowded House. Alongside Finn and bassist Nick Seymour, Hester co‑founded a band whose greatest strength was how three distinct sensibilities interlocked. Finn brought melodic density and lyrical ambiguity; Seymour brought melodic bass lines, harmony vocals and a designer’s eye; Hester supplied the buoyant rhythmic engine and a second, characterful voice. On Crowded House’s 1986 debut, his drumming is both economical and expressive: crisp backbeats that keep “Don’t Dream It’s Over” floating, quick fills that signal emotional turns, and an instinct for leaving air around the vocal. His occasional lead and co‑lead vocals added another layer to the band’s identity, helping Crowded House feel like an ensemble rather than a solo artist with backing.\n\nAs the band grew, Hester’s role grew with it. On Temple of Low Men (1988) he helped navigate darker dynamics and sharper contrasts; on Woodface (1991) and Together Alone (1993) he supported songs that ranged from intimate acoustic writing to textured, groove‑driven arrangements. Live, Hester’s playing was a key part of why Crowded House could stretch and reshape songs without losing their core. He had an entertainer’s instincts, but they were always in service of the groove: he could pull the tempo forward to electrify a chorus or relax it to let a crowd sing.\n\nBy the mid‑1990s, the demands of touring and the pace of the band’s international life began to weigh heavily. Hester spoke openly at times about struggling with life on the road, and he sought professional help. In 1994 he left Crowded House during a U.S. tour, choosing to be closer to home and family. Even so, he remained connected to the band’s story and returned for key moments, including the group’s farewell performance on the forecourt of the Sydney Opera House in November 1996—an event remembered as one of the largest live audiences in Australian music history.\n\nAfter stepping back from the most intense touring schedule, Hester broadened his public life. He worked in other bands and collaborative projects and became increasingly visible as a television and radio personality, bringing the same humor and warmth that audiences had seen on stage. His ABC series “Hessie’s Shed” captured that spirit: informal, music‑friendly, and built around conversation rather than celebrity. These years highlight an important truth about Hester: he was not only a drummer, but a communicator, someone who could connect artists and audiences through storytelling, curiosity, and generosity.\n\nHester died in 2005 at the age of 46. Friends and bandmates have spoken about his struggles with depression, and the news prompted a wave of tributes across the Australasian music community. When Crowded House reunited in the 2000s, the band dedicated their 2007 album Time on Earth to him, and their performances often carried an undercurrent of remembrance—not as a gesture of nostalgia, but as an acknowledgment that the band’s original chemistry was inseparable from Hester’s sound and personality.\n\nIn 2016, Hester was posthumously honored when Crowded House’s original members were inducted into the ARIA Rock & Roll Hall of Fame, reinforcing how lasting his contribution was to the region’s musical history. Today, Hester’s legacy can be heard in the way Crowded House songs still move: the sense of lift in the choruses, the restraint in the verses, the little rhythmic jokes that make the music feel alive. He remains an emblem of a certain kind of musician—technically capable, emotionally tuned, and deeply aware that a great part is one that makes everyone else sound better.\n\nMusically, Hester’s contributions were not limited to keeping time. He wrote and co‑wrote material during his Split Enz period (including the song “This Is Massive”), sang on records, and often acted as an arranger from the drum stool—choosing sounds and patterns that gave a track a narrative arc. His drumming favored clarity over flash, but he could be deceptively inventive: syncopated kick patterns that made a chorus roll, hi‑hat phrasing that suggested swing without turning a pop song into pastiche, and fills that felt like spoken punctuation rather than virtuoso display. It is the kind of playing that producers love because it records well, and the kind that bandmates love because it leaves room.\n\nHester also maintained a life of projects around the headline band, from local collaborations to later groups and guest work, reflecting both curiosity and a desire for community. In the years after his death, public commemorations—including civic tributes and ongoing references in live shows—have kept his name present beyond liner notes. For many listeners, the enduring charm of Crowded House is inseparable from Hester’s mix of precision and play: the drummer who could make a hook feel lighter, and the bandmate who could make a room feel kinder.",
+          "Overview": "Paul Hester was the original drummer of Crowded House, prized for buoyant, song‑serving parts, backing vocals, and a warm public persona that extended into television work.",
+          "Biography": "Paul Hester played with Split Enz in the band’s final period before co‑founding Crowded House in 1985 with Neil Finn and Nick Seymour. His drumming and personality were central to the group’s classic albums and live reputation. After stepping back from full‑time touring, he became active in other projects and television, remaining a beloved figure in Australasian music culture until his death in 2005.",
+          "Sources": [
+            {
+              "Title": "Paul Hester – National Portrait Gallery (Australia) profile",
+              "Publisher": "National Portrait Gallery (Australia)",
+              "Url": "https://www.portrait.gov.au/people/paul-hester-1959"
+            },
+            {
+              "Title": "Paul Hester – AllMusic Biography",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/paul-hester-mn0000076144/biography"
+            },
+            {
+              "Title": "Paul Hester – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Paul_Hester"
+            },
+            {
+              "Title": "Crowded House – Wikipedia (band history and members)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Crowded_House"
+            }
+          ]
+        }
+      }
+    ],
+    "NonCoreMembers": [
+      {
+        "Name": "Tim Finn",
+        "Roles": [
+          "Vocals",
+          "Songwriting (collaboration)"
+        ],
+        "Years": "1990–1991 (Woodface era collaboration)",
+        "YearsActive": "1990–1991",
+        "Instruments": [
+          "Vocals",
+          "Keyboards"
+        ],
+        "Albums": [
+          {
+            "Title": "Woodface",
+            "Year": "1991"
+          }
+        ],
+        "Overview": "Neil Finn’s brother and key collaborator on Woodface, contributing songwriting and harmonies that broadened the band’s early‑’90s palette.",
+        "Bio": {
+          "BioID": "crowded-house-tim-finn",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Tim Finn",
+          "FullName": "Brian Timothy Finn",
+          "Birth": "June 25, 1952 — Te Awamutu, Waikato, New Zealand",
+          "Death": "",
+          "ActiveYears": [
+            "1970s–present"
+          ],
+          "Occupations": [
+            "Singer-songwriter",
+            "Musician"
+          ],
+          "PrimaryInstruments": [
+            "Vocals",
+            "Keyboards",
+            "Guitar"
+          ],
+          "Genres": [
+            "Pop rock",
+            "New wave"
+          ],
+          "AssociatedActs": [
+            "Split Enz",
+            "Crowded House",
+            "Finn Brothers"
+          ],
+          "KeyAlbums": [
+            "Woodface (1991)"
+          ],
+          "KeySongs": [
+            "Weather With You",
+            "Four Seasons in One Day"
+          ],
+          "Achievements": [
+            "Co-writer/creative collaborator during the Woodface era"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Tim_Finn"
+          },
+          "FullText": "Tim Finn is a New Zealand singer‑songwriter best known for co‑founding Split Enz and for his long-running solo and collaborative work. In the Crowded House story, he is most closely associated with the Woodface era, when he collaborated with his brother Neil Finn on songs and joined the band’s creative orbit during a period of expanded harmonies and a more communal writing feel. His presence helped widen the band’s vocal palette and brought a distinct songwriting voice to tracks that sit alongside Crowded House classics, contributing to an album often regarded as a peak of the catalogue. While not a permanent member across all eras, Tim’s involvement remains a key chapter in how Crowded House’s early‑1990s sound took shape and how the Finn family’s musical conversation became part of the band’s identity.",
+          "Overview": "Tim Finn is a New Zealand singer‑songwriter whose collaboration with Neil Finn became a defining ingredient of Crowded House’s Woodface era.",
+          "Biography": "Tim Finn is a New Zealand singer‑songwriter best known for co‑founding Split Enz and for his long-running solo and collaborative work. In the Crowded House story, he is most closely associated with the Woodface era, when he collaborated with his brother Neil Finn on songs and joined the band’s creative orbit during a period of expanded harmonies and a more communal writing feel. His presence helped widen the band’s vocal palette and brought a distinct songwriting voice to tracks that sit alongside Crowded House classics, contributing to an album often regarded as a peak of the catalogue. While not a permanent member across all eras, Tim’s involvement remains a key chapter in how Crowded House’s early‑1990s sound took shape and how the Finn family’s musical conversation became part of the band’s identity.",
+          "Sources": [
+            {
+              "Title": "Tim Finn – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Tim_Finn"
+            },
+            {
+              "Title": "Crowded House – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Crowded_House"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Mark Hart",
+        "Roles": [
+          "Guitar",
+          "Keyboards",
+          "Backing vocals"
+        ],
+        "Years": "1992–1996; 2006–2011",
+        "YearsActive": "1992–1996; 2006–2011",
+        "Instruments": [
+          "Guitar",
+          "Keyboards",
+          "Vocals"
+        ],
+        "Albums": [],
+        "Overview": "Key touring and reunion-era collaborator who added guitar/keyboard layers and helped translate studio arrangements to the stage.",
+        "Bio": {
+          "BioID": "crowded-house-mark-hart",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Mark Hart",
+          "FullName": "Mark Hart",
+          "Birth": "Unknown — United States",
+          "Death": "",
+          "ActiveYears": [
+            "1980s–present"
+          ],
+          "Occupations": [
+            "Musician",
+            "Multi-instrumentalist"
+          ],
+          "PrimaryInstruments": [
+            "Guitar",
+            "Keyboards",
+            "Vocals"
+          ],
+          "Genres": [
+            "Pop rock",
+            "Rock"
+          ],
+          "AssociatedActs": [
+            "Crowded House",
+            "Supertramp"
+          ],
+          "KeyAlbums": [
+            "Recurring Dream (1996)",
+            "Time on Earth (2007)",
+            "Intriguer (2010)"
+          ],
+          "KeySongs": [],
+          "Achievements": [
+            "Longtime touring and reunion-era collaborator for Crowded House"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Mark_Hart_(musician)"
+          },
+          "FullText": "Mark Hart is an American multi‑instrumentalist known for guitar and keyboard work, and he became an important touring and recording collaborator in Crowded House’s later classic era and reunion period. Joining the band’s live lineup in the early 1990s, Hart helped translate the increasingly layered studio arrangements to the stage, adding keyboard textures, secondary guitar lines, and harmony support. He later returned as part of the 2006–2011 re‑formation, contributing to the expanded ensemble sound and providing a reliable, song‑serving presence that allowed Crowded House to revisit older material while presenting new songs with full color. Hart’s role is a reminder that the band’s identity has often depended on carefully chosen collaborators who can strengthen the core trio’s writing without diluting it.",
+          "Overview": "Multi‑instrumentalist who expanded Crowded House’s live and reunion-era texture on guitars and keyboards.",
+          "Biography": "Mark Hart is an American multi‑instrumentalist known for guitar and keyboard work, and he became an important touring and recording collaborator in Crowded House’s later classic era and reunion period. Joining the band’s live lineup in the early 1990s, Hart helped translate the increasingly layered studio arrangements to the stage, adding keyboard textures, secondary guitar lines, and harmony support. He later returned as part of the 2006–2011 re‑formation, contributing to the expanded ensemble sound and providing a reliable, song‑serving presence that allowed Crowded House to revisit older material while presenting new songs with full color. Hart’s role is a reminder that the band’s identity has often depended on carefully chosen collaborators who can strengthen the core trio’s writing without diluting it.",
+          "Sources": [
+            {
+              "Title": "Mark Hart (musician) – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Mark_Hart_(musician)"
+            },
+            {
+              "Title": "Crowded House – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Crowded_House"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Matt Sherrod",
+        "Roles": [
+          "Drums"
+        ],
+        "Years": "2006–2011 (reunion era)",
+        "YearsActive": "2006–2011",
+        "Instruments": [
+          "Drums"
+        ],
+        "Albums": [],
+        "Overview": "Reunion-era drummer whose steady, modern rock approach supported Crowded House’s 2000s albums and touring without imitating the original-era feel.",
+        "Bio": {
+          "BioID": "crowded-house-matt-sherrod",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Matt Sherrod",
+          "FullName": "Matthew Sherrod",
+          "Birth": "Unknown — United States",
+          "Death": "",
+          "ActiveYears": [
+            "1990s–present"
+          ],
+          "Occupations": [
+            "Musician",
+            "Drummer"
+          ],
+          "PrimaryInstruments": [
+            "Drums"
+          ],
+          "Genres": [
+            "Rock",
+            "Pop rock"
+          ],
+          "AssociatedActs": [
+            "Crowded House",
+            "Beck"
+          ],
+          "KeyAlbums": [
+            "Time on Earth (2007)",
+            "Intriguer (2010)"
+          ],
+          "KeySongs": [],
+          "Achievements": [
+            "Reunion-era touring and recording drummer for Crowded House"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Matt_Sherrod"
+          },
+          "FullText": "Matt Sherrod is an American drummer who joined Crowded House during the band’s 2000s return and became the primary drummer for the reunion-era records and touring. Stepping into a band with a beloved original drummer, Sherrod approached the role by supporting the songs rather than imitating Paul Hester’s style, providing a steady, modern rock foundation that suited Neil Finn’s later writing. Across Time on Earth and subsequent tours, his playing helped Crowded House sound like a current band rather than a museum piece—tight, dynamic, and capable of shifting between delicate verses and big choruses without losing momentum.",
+          "Overview": "Reunion-era drummer who provided a modern, song-serving foundation for Crowded House’s 2000s return.",
+          "Biography": "Matt Sherrod is an American drummer who joined Crowded House during the band’s 2000s return and became the primary drummer for the reunion-era records and touring. Stepping into a band with a beloved original drummer, Sherrod approached the role by supporting the songs rather than imitating Paul Hester’s style, providing a steady, modern rock foundation that suited Neil Finn’s later writing. Across Time on Earth and subsequent tours, his playing helped Crowded House sound like a current band rather than a museum piece—tight, dynamic, and capable of shifting between delicate verses and big choruses without losing momentum.",
+          "Sources": [
+            {
+              "Title": "Matt Sherrod – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Matt_Sherrod"
+            },
+            {
+              "Title": "Crowded House – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Crowded_House"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Mitchell Froom",
+        "Roles": [
+          "Producer",
+          "Keyboards"
+        ],
+        "Years": "1990s (producer); 2019–present (performing member)",
+        "YearsActive": "2019–present (performing member)",
+        "Instruments": [
+          "Keyboards"
+        ],
+        "Albums": [],
+        "Overview": "Producer closely associated with the band’s classic recordings who later joined the modern lineup as a keyboardist, bridging eras sonically and stylistically.",
+        "Bio": {
+          "BioID": "crowded-house-mitchell-froom",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Mitchell Froom",
+          "FullName": "Mitchell Froom",
+          "Birth": "Unknown — United States",
+          "Death": "",
+          "ActiveYears": [
+            "1980s–present"
+          ],
+          "Occupations": [
+            "Record producer",
+            "Musician"
+          ],
+          "PrimaryInstruments": [
+            "Keyboards"
+          ],
+          "Genres": [
+            "Rock",
+            "Pop rock"
+          ],
+          "AssociatedActs": [
+            "Crowded House",
+            "Suzanne Vega",
+            "Los Lobos"
+          ],
+          "KeyAlbums": [
+            "Crowded House (1986)",
+            "Temple of Low Men (1988)",
+            "Together Alone (1993)",
+            "Gravity Stairs (2024)"
+          ],
+          "KeySongs": [],
+          "Achievements": [
+            "Influential producer on Crowded House’s classic recordings; later performing member in modern era"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Mitchell_Froom"
+          },
+          "FullText": "Mitchell Froom is an American producer and musician whose work with Crowded House stretches back to their classic period, shaping the band’s recorded sound with a taste for clarity, eccentric detail, and emotional dynamic. Beyond producing key albums, Froom has also performed with the band in later years, adding keyboards and studio-minded texture in the modern lineup. His presence links eras: the distinctive sonic fingerprints of the early catalogue and the band’s later willingness to treat studio choices—tone, space, and arrangement—as part of the songwriting.",
+          "Overview": "Producer and keyboardist who helped define Crowded House’s studio sound and later joined the modern lineup as a performing member.",
+          "Biography": "Mitchell Froom is an American producer and musician whose work with Crowded House stretches back to their classic period, shaping the band’s recorded sound with a taste for clarity, eccentric detail, and emotional dynamic. Beyond producing key albums, Froom has also performed with the band in later years, adding keyboards and studio-minded texture in the modern lineup. His presence links eras: the distinctive sonic fingerprints of the early catalogue and the band’s later willingness to treat studio choices—tone, space, and arrangement—as part of the songwriting.",
+          "Sources": [
+            {
+              "Title": "Mitchell Froom – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Mitchell_Froom"
+            },
+            {
+              "Title": "Crowded House – Official Site (modern lineup context)",
+              "Publisher": "CrowdedHouse.com",
+              "Url": "https://www.crowdedhouse.com/"
+            },
+            {
+              "Title": "Crowded House – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Crowded_House"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Liam Finn",
+        "Roles": [
+          "Guitar",
+          "Vocals"
+        ],
+        "Years": "2019–present",
+        "YearsActive": "2019–present",
+        "Instruments": [
+          "Guitar",
+          "Vocals"
+        ],
+        "Albums": [],
+        "Overview": "Modern-era member who brings guitar and vocal support as Crowded House broadened into a family‑and‑friends lineup.",
+        "Bio": {
+          "BioID": "crowded-house-liam-finn",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Liam Finn",
+          "FullName": "Liam Mullane Finn",
+          "Birth": "September 24, 1983 — Melbourne, Victoria, Australia",
+          "Death": "",
+          "ActiveYears": [
+            "2000s–present"
+          ],
+          "Occupations": [
+            "Singer-songwriter",
+            "Musician"
+          ],
+          "PrimaryInstruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "Genres": [
+            "Indie rock",
+            "Pop rock"
+          ],
+          "AssociatedActs": [
+            "Crowded House",
+            "Betchadupa"
+          ],
+          "KeyAlbums": [
+            "Dreamers Are Waiting (2021)",
+            "Gravity Stairs (2024)"
+          ],
+          "KeySongs": [],
+          "Achievements": [
+            "Modern-era performing member of Crowded House"
+          ],
+          "ExternalLinks": {
+            "Wikipedia": "https://en.wikipedia.org/wiki/Liam_Finn"
+          },
+          "FullText": "Liam Finn is a New Zealand musician and songwriter who has pursued an acclaimed solo career and became part of Crowded House’s modern-era lineup. As Neil Finn’s son, his involvement reflects the band’s family‑and‑friends phase in the 2020s, adding guitar, vocals, and contemporary indie‑leaning instincts to the live sound. Rather than functioning as a novelty, Liam’s presence helps the band widen its textures while staying grounded in strong songwriting and ensemble arrangement.",
+          "Overview": "Modern-era member adding guitar and vocals as Crowded House expanded its lineup in the 2020s.",
+          "Biography": "Liam Finn is a New Zealand musician and songwriter who has pursued an acclaimed solo career and became part of Crowded House’s modern-era lineup. As Neil Finn’s son, his involvement reflects the band’s family‑and‑friends phase in the 2020s, adding guitar, vocals, and contemporary indie‑leaning instincts to the live sound. Rather than functioning as a novelty, Liam’s presence helps the band widen its textures while staying grounded in strong songwriting and ensemble arrangement.",
+          "Sources": [
+            {
+              "Title": "Liam Finn – Wikipedia",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Liam_Finn"
+            },
+            {
+              "Title": "Crowded House – Official Site",
+              "Publisher": "CrowdedHouse.com",
+              "Url": "https://www.crowdedhouse.com/"
+            }
+          ]
+        }
+      },
+      {
+        "Name": "Elroy Finn",
+        "Roles": [
+          "Drums"
+        ],
+        "Years": "2019–present",
+        "YearsActive": "2019–present",
+        "Instruments": [
+          "Drums"
+        ],
+        "Albums": [],
+        "Overview": "Modern-era drummer who supports the band’s 2020s touring and recording while keeping arrangements flexible for classic and new material.",
+        "Bio": {
+          "BioID": "crowded-house-elroy-finn",
+          "ArtistID": "crowded-house",
+          "ArtistName": "Crowded House",
+          "MemberName": "Elroy Finn",
+          "FullName": "Elroy Finn",
+          "Birth": "Unknown — New Zealand",
+          "Death": "",
+          "ActiveYears": [
+            "2010s–present"
+          ],
+          "Occupations": [
+            "Musician",
+            "Drummer"
+          ],
+          "PrimaryInstruments": [
+            "Drums"
+          ],
+          "Genres": [
+            "Rock",
+            "Pop rock"
+          ],
+          "AssociatedActs": [
+            "Crowded House"
+          ],
+          "KeyAlbums": [
+            "Dreamers Are Waiting (2021)",
+            "Gravity Stairs (2024)"
+          ],
+          "KeySongs": [],
+          "Achievements": [
+            "Modern-era touring drummer for Crowded House"
+          ],
+          "ExternalLinks": {
+            "Official Site": "https://www.crowdedhouse.com/"
+          },
+          "FullText": "Elroy Finn is a New Zealand musician and drummer who joined Crowded House as part of the band’s modern-era lineup. His drumming underpins the group’s 2020s live approach, supporting both classic material and new songs with a contemporary feel. As the band embraced a wider family-and-friends format, Elroy helped Crowded House sound current while retaining the melodic and harmonic character that defines their catalogue.",
+          "Overview": "Modern-era drummer supporting Crowded House’s 2020s touring and recordings.",
+          "Biography": "Elroy Finn is a New Zealand musician and drummer who joined Crowded House as part of the band’s modern-era lineup. His drumming underpins the group’s 2020s live approach, supporting both classic material and new songs with a contemporary feel. As the band embraced a wider family-and-friends format, Elroy helped Crowded House sound current while retaining the melodic and harmonic character that defines their catalogue.",
+          "Sources": [
+            {
+              "Title": "Crowded House – Official Site (band news and lineup context)",
+              "Publisher": "CrowdedHouse.com",
+              "Url": "https://www.crowdedhouse.com/"
+            },
+            {
+              "Title": "Crowded House – Wikipedia (members listing)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Crowded_House"
+            },
+            {
+              "Title": "Liam Finn – Wikipedia (family/music context)",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Liam_Finn"
+            }
+          ]
+        }
+      }
+    ]
   },
   {
     "ArtistID": "the-cult",
