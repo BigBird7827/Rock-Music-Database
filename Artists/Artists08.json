@@ -822,27 +822,237 @@
     {
       "ArtistID": "goo-goo-dolls",
       "Name": "Goo Goo Dolls",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Buffalo",
+        "Region": "New York",
+        "Country": "United States"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
-      "KeyFacts": [],
+      "YearsActive": [
+        "1986–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Pop rock",
+        "Power pop",
+        "Post-grunge"
+      ],
+      "Labels": [
+        "Warner",
+        "Metal Blade",
+        "Celluloid"
+      ],
+      "Overview": "Goo Goo Dolls are a Buffalo, New York rock band whose long arc runs from scrappy mid‑’80s local‑scene punk to a ’90s and 2000s catalog of radio-dominant alternative and pop‑rock songs. Formed in 1986 by bassist/vocalist Robby Takac and guitarist/vocalist John Rzeznik, the group first built momentum through constant gigging and early releases that leaned fast and rough‑edged, reflecting their roots as a hard‑working club band. As Takac and Rzeznik matured into durable co-writers, their sound broadened from punk speed into power‑pop melodies and mid‑tempo rock, with emotional directness gradually becoming as important as volume.\n\nThe mainstream turning point arrived in the mid‑1990s, when “Name” introduced a more vulnerable, cinematic side and pushed the band into a wider pop and modern‑rock audience. The leap from “popular” to “ubiquitous” came with 1998’s Dizzy Up the Girl, a polished yet emotionally direct album that paired major‑key lift with intimate storytelling. The era’s signature track, “Iris,” tied to the City of Angels soundtrack, became a long-running airplay phenomenon—spending a then‑record 18 weeks at No. 1 on Billboard’s Hot 100 Airplay chart and later earning a U.S. RIAA Diamond single certification. That success established the Goo Goo Dolls’ defining template: arena-scale hooks built around personal, plainspoken lyrics and arrangements that could hit hard without losing tenderness.\n\nAfter the late‑’90s peak, the band continued to evolve while keeping that balance of intensity and warmth. Albums such as Gutterflower leaned into darker textures and adult‑leaning rock, while their live show stayed anchored by the push‑pull between Takac’s bass-and-vocal drive and Rzeznik’s melodic lead sensibility. Through shifting industry eras—from MTV and radio dominance to streaming and catalog discovery—the Goo Goo Dolls have remained an active touring act with a deep bench of songs that still circulate widely, from “Name” and “Slide” to later-era staples like “Here Is Gone” and “Better Days.”",
+      "NotableAlbums": [
+        "Superstar Car Wash (1993)",
+        "A Boy Named Goo (1995)",
+        "Dizzy Up the Girl (1998)",
+        "Gutterflower (2002)",
+        "Let Love In (2006)",
+        "Something for the Rest of Us (2010)",
+        "Boxes (2016)",
+        "Chaos in Bloom (2022)"
+      ],
+      "SignatureSongs": [
+        "Name",
+        "Iris",
+        "Slide",
+        "Black Balloon",
+        "Broadway",
+        "Here Is Gone",
+        "Better Days",
+        "Sympathy",
+        "Stay with You"
+      ],
+      "Achievements": [
+        {
+          "Title": "Breakthrough single establishes mainstream profile",
+          "Year": "1995",
+          "Summary": "\"Name\" became the band’s first major crossover hit and helped push the album A Boy Named Goo into multi‑platinum success, setting the template for their late‑’90s mainstream era."
+        },
+        {
+          "Title": "Then‑record run at No. 1 on Billboard airplay",
+          "Year": "1998–1999",
+          "Summary": "\"Iris\" became a defining modern-rock ballad and spent a then‑record 18 weeks at No. 1 on Billboard’s Hot 100 Airplay chart."
+        },
+        {
+          "Title": "Three GRAMMY nominations for \"Iris\"",
+          "Year": "1999",
+          "Summary": "At the 41st GRAMMY Awards, \"Iris\" received three nominations, including Song of the Year and Record of the Year."
+        },
+        {
+          "Title": "RIAA Diamond certification for \"Iris\"",
+          "Year": "2024",
+          "Summary": "Decades after release, \"Iris\" earned a U.S. RIAA Diamond certification, reflecting enduring sales and streaming."
+        },
+        {
+          "Title": "Long‑running touring and catalog durability",
+          "Year": "2000s–2020s",
+          "Summary": "Sustained touring and continued releases kept the band’s catalog active across multiple listening eras, with songs from the 1990s–2000s remaining staples on radio, playlists, and live setlists."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in 1986 in Buffalo, New York by Robby Takac and John Rzeznik.",
+        "Originally performed under the name Sex Maggots before adopting the name Goo Goo Dolls.",
+        "Early releases leaned toward loud, fast punk rock and built a following through relentless touring.",
+        "Mid‑1990s breakthrough came with the single \"Name\" and the album A Boy Named Goo.",
+        "\"Iris\" (from the City of Angels soundtrack) spent 18 weeks at No. 1 on Billboard’s Hot 100 Airplay chart.",
+        "\"Iris\" later earned an RIAA Diamond single certification in the United States (2024).",
+        "Commercial peak era centered on Dizzy Up the Girl, which produced multiple major singles including \"Iris\" and \"Slide.\"",
+        "Long-running core lineup is Takac and Rzeznik, with rhythm-section changes over the years.",
+        "Continued touring and releasing new material through the 2000s–2020s as the industry shifted toward streaming."
+      ],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Site": "https://www.googoodolls.com/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Goo_Goo_Dolls",
+        "Discography": "https://www.allmusic.com/artist/goo-goo-dolls-mn0000949630/discography"
       },
-      "CoreMembers": [],
-      "NonCoreMembers": []
+      "CoreMembers": [
+        {
+          "Name": "John Rzeznik",
+          "YearsActive": "1986–present",
+          "Roles": "Co‑founder; lead vocals; lead guitar; primary songwriter; producer",
+          "Instruments": "Vocals; guitar",
+          "Albums": [
+            "Superstar Car Wash (1993)",
+            "A Boy Named Goo (1995)",
+            "Dizzy Up the Girl (1998)",
+            "Gutterflower (2002)",
+            "Let Love In (2006)"
+          ],
+          "Overview": "Co‑founder, lead guitarist, and primary songwriter, John Rzeznik is the melodic engine of the Goo Goo Dolls’ mainstream era. His writing pushed the band from early punk roots toward hook-driven alternative and pop‑rock, producing signature songs including \"Name,\" \"Iris,\" and \"Slide.\" Rzeznik’s guitar style favors rhythmic drive and shimmering arpeggios that serve the vocal melody, and his voice delivers emotional directness without theatrical affect. Beyond the band, he has written and performed songs for film projects such as Disney’s Treasure Planet.",
+          "Bio": {
+            "FullText": "John Rzeznik (born December 5, 1965, in Buffalo, New York) is the Goo Goo Dolls’ principal guitarist, lead vocalist, and most prolific songwriter—the member whose melodic instincts and lyric voice helped carry the band from local‑scene punk into the emotional, hook‑driven alternative rock that defined much of their mainstream era. While the group’s earliest releases leaned rough and fast, Rzeznik’s writing gradually shifted the band’s center of gravity toward power‑pop craft: tight chord progressions, memorable melodic turns, and choruses built to linger long after the final hit. That evolution didn’t happen as a sudden reinvention so much as an accumulation of choices made on the road, in rehearsals, and in studios—small adjustments in tempo, harmony, and arrangement that added up to a new identity.\n\nRzeznik co‑founded the band that became the Goo Goo Dolls with bassist Robby Takac in the mid‑1980s, and the duo’s partnership has been the group’s constant through decades of lineup changes around them. In the band’s early period, the material and performance style drew heavily from punk’s urgency and economy. Over successive albums, Rzeznik increasingly became the band’s primary singer and stylistic compass, leaning into songs that made space for vulnerability and narrative detail. That shift was crucial to the group’s mid‑1990s breakthrough, when the single \"Name\" introduced a quieter, more reflective Goo Goo Dolls to a national audience and signaled that the band could translate its intensity into a more radio‑friendly emotional register.\n\nThe late‑1990s peak that followed is inseparable from Rzeznik’s songwriting and vocal delivery. On Dizzy Up the Girl, he helped refine the group’s mix of ringing guitars and intimate confession into a scale that felt ready for arenas without losing its human tone. The album’s defining song, \"Iris,\" became one of the era’s most enduring rock ballads—an airplay phenomenon that set a then‑record by spending 18 weeks at No. 1 on Billboard’s Hot 100 Airplay chart and later crossed into the modern streaming era with renewed momentum. Decades after its release, \"Iris\" was certified Diamond in the United States, reflecting more than ten million equivalent units through sales and streaming. At the 41st GRAMMY Awards, \"Iris\" earned three nominations, including Record of the Year and Song of the Year, highlighting Rzeznik’s profile as a songwriter who could marry pop immediacy with raw feeling.\n\nRzeznik’s best work with the Goo Goo Dolls tends to balance plainspoken lines with a sense of cinematic atmosphere—songs that feel personal but also large enough to project a listener’s own story onto them. \"Slide\" pairs a deceptively bright hook with complicated emotional stakes; \"Black Balloon\" builds tension through dynamics and arrangement as much as through lyric; \"Here Is Gone\" trades youthful volatility for adult unease; and \"Better Days\" channels hard‑won optimism without pretending the darkness isn’t there. Across these eras, his guitar approach remained a key part of the band’s signature: rhythmic strumming that drives a track forward, arpeggiated patterns that create shimmer and lift, and lead lines that serve the melody rather than competing with it.\n\nBeyond the band’s core catalog, Rzeznik has periodically stepped into adjacent roles—writing for film projects, collaborating with other artists, and taking on occasional media appearances that highlighted his profile outside the touring cycle. His best-known soundtrack work includes songs connected to the Disney film Treasure Planet, which emphasized his ability to write character-driven lyrics within a cinematic framework. Even when working beyond the band, the qualities listeners associate with the Goo Goo Dolls—clear melodic architecture, emotional directness, and choruses built for repeat listening—remain the through line in his writing.\n\nWithin the band’s internal story, Rzeznik’s long partnership with Takac has also shaped the Goo Goo Dolls’ durability. The band’s public image often centers on Rzeznik as frontman, but the group’s identity has always been more collaborative than that framing suggests. Takac’s vocal contrasts, bass-driven energy, and early leadership in the band’s formative years provided a counterweight that made the later era feel earned rather than imposed. The two have described their longevity as a product of mutual respect and an ability to reset after conflict—an important dynamic for a band that has lived through major industry shifts, from the CD boom to the streaming era.\n\nRzeznik’s career also illustrates the long afterlife of a signature song. For many artists, a defining hit can become a burden; for Rzeznik, \"Iris\" has functioned more like a living part of the band’s catalog, continuing to find new listeners through film and television placement, playlist circulation, and the rediscovery cycles that streaming makes possible. The Diamond certification in 2024 didn’t just mark a historical milestone; it underscored that the emotional core of the song—longing, self‑doubt, and the desire to be fully seen—remains legible across generations.\n\nToday, Rzeznik remains a working songwriter and touring musician, continuing to anchor the Goo Goo Dolls’ live sets and new recordings. The band’s later releases have explored modern production textures and contemporary rock pacing, but Rzeznik’s essential strengths remain the same: a knack for melodic contour, an instinct for the right line at the right moment, and a voice that can sound exposed even when projected through a stadium PA. Taken together, his body of work maps a rare kind of mainstream career—one built not on constant reinvention, but on deepening craft and a sustained ability to write songs that listeners treat as their own.",
+            "Overview": "",
+            "Biography": "",
+            "Sources": [
+              {
+                "Title": "Goo Goo Dolls’ John Rzeznik remembers 1999 GRAMMY T‑shirt",
+                "Publisher": "GRAMMY.com",
+                "Url": "https://www.grammy.com/news/a-magnetic-conversation-with-goo-goo-dolls-john-rzeznik"
+              },
+              {
+                "Title": "John Rzeznik",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/John_Rzeznik"
+              },
+              {
+                "Title": "Goo Goo Dolls",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/goo-goo-dolls-mn0000949630"
+              },
+              {
+                "Title": "John Rzeznik",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/john-rzeznik-mn0000100070"
+              },
+              {
+                "Title": "Iris (song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Iris_(song)"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Robby Takac",
+          "YearsActive": "1986–present",
+          "Roles": "Co‑founder; bass; vocals; songwriter; producer",
+          "Instruments": "Bass; vocals",
+          "Albums": [
+            "Hold Me Up (1990)",
+            "Superstar Car Wash (1993)",
+            "A Boy Named Goo (1995)",
+            "Dizzy Up the Girl (1998)",
+            "Gutterflower (2002)"
+          ],
+          "Overview": "Co‑founder, bassist, and vocalist, Robby Takac was the Goo Goo Dolls’ early frontman before the band settled into a two‑voice identity with John Rzeznik. His bass-driven energy and contrasting vocal tone remain central to the live show and to the group’s roots in Buffalo’s punk and club scenes. Outside the band, he has built Buffalo-based creative infrastructure through recording studio work and local projects, including the Music is Art Festival and the Good Charamel Records label.",
+          "Bio": {
+            "FullText": "Robby Takac (born September 30, 1964, in Buffalo, New York) is the Goo Goo Dolls’ co‑founder, bassist, and a defining counter‑voice to the band’s best-known frontman narrative. From the beginning, Takac was more than “the guy on bass”: he was the early-era lead vocalist and a primary writer during the band’s formative years, the member who helped translate Buffalo’s loud, fast club energy into records, and later an essential partner in the band’s long-running two‑singer identity alongside guitarist John Rzeznik. His career with the Goo Goo Dolls is also closely tied to his continued work in Buffalo as a producer and arts advocate, connecting the band’s global success back to the local scene that first shaped it.\n\nTakac grew up in Western New York and, by his own account, gravitated toward music through the social magnetism of rock culture—finding a “place to fall” among kids who were obsessed with bands and live shows. He studied communications at Medaille College, with a focus on radio broadcasting, and worked and interned with local radio while developing as a musician. Before the Goo Goo Dolls, he played in several area bands; a key link was the Beaumonts, where he met Rzeznik. When that group broke up in 1985, Takac and Rzeznik recruited drummer George Tutuska and formed a new band, initially calling it the Sex Maggots before being persuaded to adopt the more marketable name Goo Goo Dolls in 1986.\n\nThe earliest incarnation of the Goo Goo Dolls played loud, fast, intentionally crude punk rock in Buffalo venues, building sets that mixed covers with a growing supply of originals. In those years, Takac was the frontman, handling most lead vocals and writing much of the material, while the band learned the practical craft of performance: how to hold a room, how to survive a long night of loud volume, and how to play with the kind of repetition that slowly turns energy into precision. That relentless work ethic carried over into touring—one small club at a time—while the band navigated the awkward early steps of recording. Their debut album was cut quickly and cheaply—recorded in three days on a shoestring budget—and its momentum helped open the next doors in a chain of label moves that would eventually place the band in the mainstream.\n\nAs the group’s musicianship grew and their songwriting expanded, Takac’s role shifted from primary frontman to a more balanced partnership. The transition wasn’t simply about spotlight; it reflected the band’s evolving sound, as Rzeznik began writing more of the songs that would connect on modern rock radio and in the broader pop market. A pivotal internal change came in the mid‑1990s: Takac and Rzeznik dismissed Tutuska and hired Mike Malinin as the drummer. Around the same time, the single \"Name\" became the band’s first major commercial breakthrough, and A Boy Named Goo went platinum—an inflection point that redefined what the Goo Goo Dolls could be.\n\nFor Takac, the band’s late‑1990s explosion also meant learning how to sustain a dual‑vocal identity through a period when radio and MTV could elevate a single song into a cultural landmark. \"Iris,\" written and sung by Rzeznik, became the era’s defining Goo Goo Dolls song, spending 18 weeks at No. 1 on Billboard airplay charts, earning multiple GRAMMY nominations, and later achieving Diamond certification in the United States. Yet Takac’s presence remained essential to the band’s sound in that period: a bass style that locked the grooves into place, backing vocals that thickened the choruses, and a second lead voice that could pull the band back toward its earlier urgency when a setlist or an album needed grit. That push‑pull between the two singers—Rzeznik’s melodic, confessional lead and Takac’s more direct, punk‑tempered edge—became one of the band’s most durable signatures.\n\nTakac’s biography is also unusual for how directly it ties commercial success to hometown infrastructure. In 2000, he and Rzeznik opened the recording studio Chameleon West in downtown Buffalo; in later years Takac assumed sole control of the space, which evolved into GCR Audio and served both the Goo Goo Dolls and a broader range of artists. The studio’s role in the band’s own work—most notably on the 2010 album Something for the Rest of Us—shows how Takac kept Buffalo in the band’s creative orbit even as their touring and industry center of gravity often pulled them elsewhere. That local commitment broadened into other projects. In 2003, Takac founded the Music is Art Festival, an annual event that combines bands and DJs with art installations and community programming; it developed into a year‑round effort aimed at connecting children with music through education programs, scholarships, and instrument donations. That same year, he launched Good Charamel Records, initially focused on Western New York acts and later expanding to include Japanese rock artists, reflecting both his curatorial instincts and his interest in building bridges between scenes.\n\nAll of that community work sits alongside the day-to-day reality of being in a long‑running touring band. Takac’s stage identity is rooted in the physicality of punk and club rock: he plays bass like a front-line instrument, driving songs from the center of the rhythm section while adding vocals that can switch from harmony support to lead‑line punctuation. In the Goo Goo Dolls’ catalog, his contributions are most audible in the band’s early recordings—where he carried much of the lead vocal weight—and in the later live show, where the band’s biggest Rzeznik-sung hits are balanced by songs that lean harder or move faster.\n\nTaken together, Takac’s story helps explain why the Goo Goo Dolls have lasted. It’s not only that the band wrote enormous songs; it’s that the core partnership remained flexible enough to let roles evolve without breaking the project. Takac moved from frontman to co‑frontman, from local bassist to global touring musician, and from rock star to community builder—without severing the Buffalo thread that runs through the band’s origins. Decades into the group’s career, his work continues to reflect that dual purpose: keep the Goo Goo Dolls moving forward as a touring and recording act, and keep the doors open behind them for the scene that helped launch them.",
+            "Overview": "",
+            "Biography": "",
+            "Sources": [
+              {
+                "Title": "Robby Takac profile",
+                "Publisher": "Burchfield Penney Art Center",
+                "Url": "https://burchfieldpenney.org/art-and-artists/people/profile:robby-takac/"
+              },
+              {
+                "Title": "Robby Takac",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Robby_Takac"
+              },
+              {
+                "Title": "Goo Goo Dolls",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Goo_Goo_Dolls"
+              },
+              {
+                "Title": "Goo Goo Dolls",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/goo-goo-dolls-mn0000949630"
+              },
+              {
+                "Title": "Iris (song)",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Iris_(song)"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "George Tutuska",
+          "YearsActive": "1986–1994",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "Goo Goo Dolls (1987)",
+            "Jed (1989)",
+            "Hold Me Up (1990)",
+            "Superstar Car Wash (1993)"
+          ],
+          "Overview": "Original drummer during the band’s Buffalo punk-club years and early national touring period.",
+          "Bio": {
+            "FullText": "George Tutuska was the Goo Goo Dolls’ original drummer, playing with the band through the formative club-and-van years and on the early run of albums that carried them from Buffalo’s punk circuit into national touring. As the group moved from intentionally crude early material toward more structured songwriting and broader commercial ambition, internal pressures increased around roles, direction, and business terms. In 1994, Takac and Rzeznik dismissed Tutuska, a personnel change that set the stage for the mid‑1990s lineup and sound shifts that followed. His tenure remains part of the band’s origin story: the era when the Goo Goo Dolls learned their work ethic, sharpened their live chemistry, and built the platform that later hits would launch from.",
+            "Overview": "",
+            "Biography": "",
+            "Sources": [
+              {
+                "Title": "Goo Goo Dolls",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Goo_Goo_Dolls"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Mike Malinin",
+          "YearsActive": "1995–2013",
+          "Roles": "Drums",
+          "Instruments": "Drums",
+          "Albums": [
+            "A Boy Named Goo (1995)",
+            "Dizzy Up the Girl (1998)",
+            "Gutterflower (2002)",
+            "Let Love In (2006)"
+          ],
+          "Overview": "Drummer during the band’s peak mainstream era, joining in 1995 and remaining through 2013.",
+          "Bio": {
+            "FullText": "Mike Malinin joined the Goo Goo Dolls as drummer in early 1995 after the departure of George Tutuska, arriving just before the band’s commercial breakthrough period. His playing anchored the lineup through the band’s biggest era of radio success, including the Dizzy Up the Girl cycle, and remained a steady presence across multiple albums and years of touring. Malinin’s tenure coincided with the group’s shift into a more polished, dynamics-driven rock approach where drums needed to support both intimate ballads and arena-scale choruses. He left the band in 2013, closing a long chapter in which the Goo Goo Dolls’ core duo worked with a consistent rhythm-section foundation.",
+            "Overview": "",
+            "Biography": "",
+            "Sources": [
+              {
+                "Title": "Goo Goo Dolls",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Goo_Goo_Dolls"
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "ArtistID": "gordon-lightfoot",
