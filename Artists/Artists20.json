@@ -2,7 +2,263 @@
   "Artists": [
     {
       "ArtistID": "the-wallflowers",
-      "Name": "The Wallflowers"
+      "Name": "The Wallflowers",
+      "Type": "Band",
+      "Origin": {
+        "City": "Los Angeles",
+        "Region": "California",
+        "Country": "United States"
+      },
+      "YearsActive": [
+        "1989–present"
+      ],
+      "Genres": [
+        "Alternative rock",
+        "Roots rock",
+        "Heartland rock",
+        "Americana rock"
+      ],
+      "Labels": [
+        "Virgin",
+        "Interscope",
+        "Columbia",
+        "New West"
+      ],
+      "Overview": "The Wallflowers are a Los Angeles–based rock project built around singer-songwriter Jakob Dylan, known for pairing classic American songcraft with 1990s alternative-rock momentum. Formed in the late 1980s and shaped on the city’s club circuit, the band signed with Virgin and issued a self-titled debut in 1992. The record introduced Dylan’s writing style—scene-driven, character-aware, and built on steady grooves—while the band’s sound leaned on the push-and-pull between ringing guitars and Hammond organ. The debut earned critical respect but only modest sales, and the Wallflowers spent the early 1990s in the long, practical work of touring and rebuilding their lineup into something that could compete on a larger stage.\n\nThat refinement crystallized with 1996’s Bringing Down the Horse, produced by T Bone Burnett. The album took the group’s bar-band foundation and focused it: tighter arrangements, a warmer but cleaner studio frame, and choruses designed to lift without turning the songs into slogans. Singles like “6th Avenue Heartache,” “One Headlight,” and “The Difference” crossed from alternative and rock formats into adult-alternative airplay, making the Wallflowers a rare act that could sit between modern rock radio and older singer-songwriter tradition. “One Headlight,” written by Dylan, became the signature, winning two Grammy Awards in 1998 and cementing the band as a defining late‑’90s radio presence.\n\nIn the decades since, The Wallflowers have functioned less like a fixed lineup and more like a working framework for Dylan’s writing. Key collaborators—guitarists, drummers, and especially keyboardists who helped shape the band’s organ-and-guitar blend—have rotated in and out, but the core aesthetic has remained: sturdy grooves, melodic choruses, and lyrics that suggest whole lives with a few well-placed details. Records like Breach (2000) pushed into darker textures, while later releases such as Exit Wounds (2021) reaffirmed the band’s commitment to classic rock craft: a live-band feel, direct guitar writing, and songs built to hold up whether heard on a car stereo, a late-night radio program, or a festival stage.",
+      "NotableAlbums": [
+        {
+          "Title": "The Wallflowers",
+          "Year": 1992,
+          "Notes": "Self-titled debut on Virgin; critically noticed but commercially modest, establishing the band’s live-sounding feel."
+        },
+        {
+          "Title": "Bringing Down the Horse",
+          "Year": 1996,
+          "Notes": "Breakthrough album produced by T Bone Burnett; peaked at No. 4 on the Billboard 200 and became a quadruple‑platinum signature release in the U.S."
+        },
+        {
+          "Title": "Breach",
+          "Year": 2000,
+          "Notes": "A moodier, more exploratory follow-up that kept the band’s melodic core while broadening textures."
+        },
+        {
+          "Title": "Rebel, Sweetheart",
+          "Year": 2005,
+          "Notes": "Lean, guitar-forward set that re-centered the band after several lineup changes."
+        },
+        {
+          "Title": "Exit Wounds",
+          "Year": 2021,
+          "Notes": "First studio album in nine years; a return to classic, band-driven rock songwriting."
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "6th Avenue Heartache",
+          "Year": 1996,
+          "Notes": "Breakout single; organ-driven roots-pop with a widescreen chorus."
+        },
+        {
+          "Title": "One Headlight",
+          "Year": 1997,
+          "Notes": "Defining hit single written by Jakob Dylan; won Best Rock Song and Best Rock Performance by a Duo or Group with Vocal at the 1998 Grammys."
+        },
+        {
+          "Title": "The Difference",
+          "Year": 1997,
+          "Notes": "Radio staple that showcased the band’s hook-first writing and tight ensemble feel."
+        },
+        {
+          "Title": "Three Marlenas",
+          "Year": 1997,
+          "Notes": "Fan-favorite track that highlights the band’s narrative lyric style and mid-tempo drive."
+        },
+        {
+          "Title": "Sleepwalker",
+          "Year": 2000,
+          "Notes": "Lead single from Breach; darker tone and riff-based groove without losing melodic clarity."
+        }
+      ],
+      "Achievements": [
+        {
+          "Title": "Two Grammy wins for “One Headlight”",
+          "Year": 1998,
+          "Summary": "The song won Best Rock Song and Best Rock Performance by a Duo or Group with Vocal at the 40th Annual Grammy Awards."
+        },
+        {
+          "Title": "Bringing Down the Horse became a multi‑platinum blockbuster",
+          "Year": 1996,
+          "Summary": "The breakthrough album reached No. 4 on the Billboard 200 and was certified quadruple platinum in the United States."
+        },
+        {
+          "Title": "Signature late‑1990s crossover on rock and AAA radio",
+          "Year": 1997,
+          "Summary": "Major singles crossed modern rock, mainstream rock, and adult-alternative formats, helping define roots-leaning alternative rock in the era."
+        }
+      ],
+      "KeyFacts": [
+        "Formed in Los Angeles and remains centered on Jakob Dylan as the primary songwriter and bandleader.",
+        "Breakthrough came with Bringing Down the Horse (1996), produced by T Bone Burnett.",
+        "“One Headlight” won two Grammys in 1998 and remains the band’s defining single.",
+        "The Wallflowers’ personnel has shifted frequently, functioning as a project framework built around Dylan’s writing.",
+        "Returned with Exit Wounds (2021) after a long gap between studio albums."
+      ],
+      "ExternalLinks": {
+        "Official Site": "https://wallflowersmusic.com/",
+        "AllMusic Artist Page": "https://www.allmusic.com/artist/the-wallflowers-mn0000585896",
+        "Wikipedia": "https://en.wikipedia.org/wiki/The_Wallflowers",
+        "Spotify Artist Page": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+      },
+      "CoreMembers": [
+        {
+          "Name": "Jakob Dylan",
+          "Roles": "Lead vocals; rhythm guitar; primary songwriter; bandleader",
+          "Instruments": "Vocals; guitar",
+          "YearsActive": "1989–present",
+          "Albums": [
+            {
+              "Title": "The Wallflowers",
+              "Year": 1992
+            },
+            {
+              "Title": "Bringing Down the Horse",
+              "Year": 1996
+            },
+            {
+              "Title": "Breach",
+              "Year": 2000
+            },
+            {
+              "Title": "Rebel, Sweetheart",
+              "Year": 2005
+            },
+            {
+              "Title": "Exit Wounds",
+              "Year": 2021
+            }
+          ],
+          "Bio": {
+            "ArtistID": "jakob-dylan",
+            "BioID": "jakob-dylan-bio",
+            "FullName": "Jakob Luke Dylan",
+            "Birth": "December 9, 1969 (New York City, New York, U.S.)",
+            "Nationality": "American",
+            "Roles": "Singer-songwriter; musician; bandleader",
+            "Instruments": "Vocals; guitar",
+            "FullText": "Jakob Dylan (born Jakob Luke Dylan) is the singer, guitarist, and principal songwriter behind The Wallflowers, and the one constant across every era of the group’s evolution. Although public narratives have often led with his family name, Dylan’s career is best understood as a long-running commitment to craft: writing songs that work as stories, building band arrangements that breathe, and sustaining a “working rock band” identity through changing radio eras and industry cycles.\n\nDylan spent his formative years largely in Los Angeles, absorbing a mix of classic American rock, rhythm-and-blues, and the singer-songwriter tradition while coming of age during the late‑1980s rise of college rock. He began writing and performing in local bands before forming a group with guitarist Tobi Miller around 1989. Early on, the project went through name changes and lineup experiments, but the underlying goal stayed consistent: a band that could deliver Dylan’s songs with live feel and dynamic tension rather than studio trickery. The group built its reputation the old way—club gigs, constant rehearsing, and enough nights onstage to learn what parts actually made a song move.\n\nThat apprenticeship culminated in the self-titled Wallflowers debut, released in 1992. The record leaned toward a live-in-the-room approach and long-form band performances, and even where the material stretched beyond radio length, it emphasized feel over polish. Commercially, it did not break through, but it introduced Dylan as a writer with a distinctive eye: he favored concrete scenes and emotional aftermath, often implying backstory rather than spelling it out. The early touring years that followed—opening slots and club runs across the U.S.—were crucial for Dylan’s development as a frontman. He learned how to pace a set, how to let a chorus land without forcing it, and how to keep a band tight while still leaving room for the small imperfections that make rock music human.\n\nThe turning point came with Bringing Down the Horse (1996), when Dylan and the band found a sharper frame for their strengths and teamed with producer T Bone Burnett. Burnett’s sensibility—classic without being nostalgic—fit Dylan’s writing, and the production highlighted interplay: guitars that chime and scrape, organ and piano that add motion underneath the vocal, and rhythm parts that swing just enough to make the choruses feel earned. Dylan’s melodies became more immediate without losing their narrative quality. He was writing hooks, but he was still writing about people: characters on the move, relationships in mid-collapse, late-night streets, and the hard-to-name feeling that something important has already happened off-camera.\n\nThe album’s singles clarified Dylan’s voice for a mass audience. “6th Avenue Heartache” built a widescreen mood with organ-and-guitar urgency, while “The Difference” showed how Dylan could turn conversational phrasing into a chorus that felt inevitable. Then “One Headlight” became the defining statement—an engine‑steady song that combines forward momentum with nocturnal reflection. Dylan wrote it, and the track’s success pushed the band across multiple rock radio formats at a time when those formats were often segmented. The song ultimately won two Grammy Awards in 1998, an unusually high-profile stamp for an act that had begun as a club-band project in Los Angeles. The irony of the moment—Dylan becoming an arena-level figure while maintaining a notably unglamorous, workmanlike approach—became part of his public image: the reluctant star who would rather talk about songs and musicianship than hype.\n\nSustaining momentum after a breakout record is notoriously difficult, and Dylan chose evolution rather than repetition. Breach (2000) moved toward darker tones and more elliptical textures while keeping strong melodic centers. Across later Wallflowers releases, Dylan continued to treat the band as a living ensemble rather than a locked lineup. Musicians changed, but the songs remained built around the same principles—clear chord movement, strong grooves, and lyrics that sketch characters at the edge of decision. In practice, that meant Dylan increasingly functioned as a curator as well as a songwriter: choosing the right players for a tour or a session, shaping arrangements to highlight keyboard colors or guitar counterlines, and protecting the band’s fundamental “song-first” identity even as the industry around them shifted from album cycles to playlist culture.\n\nDylan also expanded his public identity beyond the band without abandoning it. He released solo work that emphasized songwriting and understated ensemble playing, again aligning naturally with Burnett’s taste for performances that feel human and unforced. Those records reinforced a consistent throughline in Dylan’s artistry: he is at his best when the production leaves room for the lyric to land, and when the band can move subtly under the vocal—small rhythmic pushes, keyboard swells, and guitar answers that make the chorus feel like a destination rather than a trick. He has also taken on occasional curatorial and documentary roles, reflecting an interest in musical history and the stories behind records, not just the spotlight of performance.\n\nAs a singer, Dylan has never relied on theatrical range. His voice carries a conversational grain—slightly weary, slightly wry—that fits his lyrical focus on aftermath and observation. He tends to under-sing rather than over-sing, letting phrasing do the expressive work. As a guitarist and bandleader, he favors parts that support the pocket: rhythm lines that propel and leave space for other colors, rather than flashy lead breaks. That restraint is a big reason The Wallflowers’ biggest songs have aged well; they are built on feel, not on a production fad, and they can be played by a band in a room without losing their power.\n\nBy the time Exit Wounds arrived in 2021, Dylan had already lived several versions of the Wallflowers story: early struggle, a massive mid‑’90s breakthrough, the pressure of follow-ups, long gaps between albums, and the gradual redefinition of the group as a touring and recording unit centered on his writing. Exit Wounds reaffirmed the essentials—direct guitar rock, strong choruses, and a band feel that never sounds like it’s chasing trends. It also underlined Dylan’s most consistent trait: a belief that rock music’s longevity comes from songs sturdy enough to travel across decades. Whether in the peak years when “One Headlight” seemed inescapable or in later periods when success was measured more by longevity than charts, Jakob Dylan has kept The Wallflowers’ identity coherent: thoughtful American rock songs, written with a novelist’s eye and played with a working band’s discipline.",
+            "Sources": [
+              {
+                "Title": "The Wallflowers Artist Biography",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/the-wallflowers-mn0000585896"
+              },
+              {
+                "Title": "The Wallflowers",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/The_Wallflowers"
+              },
+              {
+                "Title": "Bringing Down the Horse",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Bringing_Down_the_Horse"
+              },
+              {
+                "Title": "One Headlight",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/One_Headlight"
+              },
+              {
+                "Title": "Bringing Down the Horse Turns 20",
+                "Publisher": "Stereogum",
+                "Url": "https://stereogum.com/1878221/bringing-down-the-horse-turns-20/reviews/the-anniversary"
+              },
+              {
+                "Title": "Bringing Down the Horse (Review)",
+                "Publisher": "Pitchfork",
+                "Url": "https://pitchfork.com/reviews/albums/the-wallflowers-bringing-down-the-horse/"
+              }
+            ]
+          }
+        }
+      ],
+      "NonCoreMembers": [
+        {
+          "Name": "Tobi Miller",
+          "Roles": "Co-founder; early guitarist who helped shape the band’s initial club-era sound before exiting around the breakthrough period.",
+          "Instruments": "Guitar",
+          "YearsActive": "1989–1996 (various)",
+          "Albums": [
+            {
+              "Title": "The Wallflowers",
+              "Year": 1992
+            },
+            {
+              "Title": "Bringing Down the Horse",
+              "Year": 1996
+            }
+          ]
+        },
+        {
+          "Name": "Rami Jaffee",
+          "Roles": "Keyboardist whose Hammond organ and piano became central to the band’s mid‑1990s signature textures and touring sound.",
+          "Instruments": "Keyboards",
+          "YearsActive": "1990s–early 2000s (various)",
+          "Albums": [
+            {
+              "Title": "Bringing Down the Horse",
+              "Year": 1996
+            },
+            {
+              "Title": "Breach",
+              "Year": 2000
+            }
+          ]
+        },
+        {
+          "Name": "Michael Ward",
+          "Roles": "Breakthrough-era guitarist noted for layered parts that complemented the organ-heavy arrangements and widened the band’s guitar vocabulary.",
+          "Instruments": "Guitar",
+          "YearsActive": "1995–2001",
+          "Albums": [
+            {
+              "Title": "Bringing Down the Horse",
+              "Year": 1996
+            },
+            {
+              "Title": "Breach",
+              "Year": 2000
+            }
+          ]
+        },
+        {
+          "Name": "Mario Calire",
+          "Roles": "Drummer associated with the band’s most visible late‑1990s touring years, anchoring the pocket behind the hit singles.",
+          "Instruments": "Drums",
+          "YearsActive": "mid‑1990s–early 2000s (various)",
+          "Albums": [
+            {
+              "Title": "Bringing Down the Horse",
+              "Year": 1996
+            },
+            {
+              "Title": "Breach",
+              "Year": 2000
+            }
+          ]
+        },
+        {
+          "Name": "Barrie Maguire",
+          "Roles": "Early bassist in the debut-era lineup that carried the group from L.A. clubs into its first label releases.",
+          "Instruments": "Bass",
+          "YearsActive": "early 1990s",
+          "Albums": [
+            {
+              "Title": "The Wallflowers",
+              "Year": 1992
+            }
+          ]
+        }
+      ]
     },
     {
       "ArtistID": "wang-chung",
