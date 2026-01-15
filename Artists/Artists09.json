@@ -2674,7 +2674,155 @@
   },
   {
     "ArtistID": "jason-mraz",
-    "Name": "Jason Mraz"
+    "Name": "Jason Mraz",
+    "Type": "Solo",
+    "Origin": {
+      "City": "Mechanicsville",
+      "Region": "Virginia",
+      "Country": "United States"
+    },
+    "YearsActive": [
+      "1999–present"
+    ],
+    "Genres": [
+      "Pop",
+      "Pop Rock",
+      "Adult Alternative",
+      "Singer-Songwriter"
+    ],
+    "Labels": [
+      "Elektra",
+      "Atlantic",
+      "Interrabang/BMG"
+    ],
+    "Overview": "Jason Mraz is an American singer-songwriter who broke nationally in the early 2000s by blending acoustic pop, funk-leaning grooves, and rapid-fire lyrical phrasing into songs built to work both in coffeehouses and on pop radio. Born in Mechanicsville, Virginia, he relocated to San Diego at the end of the 1990s and built a following through constant live work in the city’s club-and-café circuit, where his improvisational approach and conversational stage presence were as important as the songs. That grassroots momentum fed into his first major-label album, Waiting for My Rocket to Come (2002), which introduced his clean tenor, percussive guitar style, and playful, talk-sung phrasing on tracks like “The Remedy (I Won’t Worry).” The record established him as part of a new wave of pop-friendly singer-songwriters, but his sensibility was distinct: he could deliver tight hooks without abandoning the loose, jam-oriented feel of his live roots.\n\nOver the next decade, Mraz’s sound widened rather than hardened. He kept the breezy acoustic base but leaned into pop sheen and rhythmic elasticity, shifting between intimate singer-songwriter settings and full-band arrangements. Atlantic-era releases such as Mr. A–Z (2005) and We Sing. We Dance. We Steal Things. (2008) elevated him from cult favorite to global pop fixture. The latter album’s “I’m Yours” became a defining late-2000s hit, and the album’s songwriting—equal parts romantic, witty, and self-aware—showed how he could turn an easygoing surface into carefully engineered pop. Around the same period he embraced high-profile collaborations, most notably “Lucky,” his duet with Colbie Caillat, which reinforced his gift for warm, conversational harmony writing.\n\nWhile he’s often associated with a relaxed, sunlit vibe, his catalog has consistently balanced lightness with craft. Internal rhymes and tongue-twister lines sit beside plainspoken romantic writing, and he has moved comfortably between solo performance, collaborative duets, and socially minded material. Industry recognition followed, including GRAMMY wins tied to the We Sing… era (“Make It Mine” and “Lucky”). In later years he continued releasing new music and touring, leaning into a songwriter’s long game: refining the live show, keeping the acoustic core intact, and letting each era add new colors—from funk and reggae touches to modern pop production—without losing the voice-first identity that made his early work connect.",
+    "NotableAlbums": [
+      {
+        "Year": "2002",
+        "Title": "Waiting for My Rocket to Come",
+        "Details": "Major-label debut on Elektra featuring “The Remedy (I Won’t Worry)” and establishing his acoustic-pop, groove-driven style."
+      },
+      {
+        "Year": "2005",
+        "Title": "Mr. A–Z",
+        "Details": "Second studio album that expanded his sound into pop-rock and set up the mainstream breakthrough that followed."
+      },
+      {
+        "Year": "2008",
+        "Title": "We Sing. We Dance. We Steal Things.",
+        "Details": "Breakthrough era anchored by “I’m Yours” and the GRAMMY-winning “Make It Mine,” turning him into a global pop fixture."
+      },
+      {
+        "Year": "2012",
+        "Title": "Love Is a Four Letter Word",
+        "Details": "A later-career pop album that kept the melodic, upbeat core while updating production for the 2010s."
+      },
+      {
+        "Year": "2020",
+        "Title": "Look for the Good",
+        "Details": "A socially minded set that leaned into optimistic, message-forward songwriting while retaining his rhythmic acoustic foundation."
+      }
+    ],
+    "SignatureSongs": [
+      {
+        "Year": "2002",
+        "Title": "The Remedy (I Won’t Worry)",
+        "Details": "Early signature hit from his debut that introduced his upbeat acoustic-pop voice to mainstream radio."
+      },
+      {
+        "Year": "2008",
+        "Title": "I’m Yours",
+        "Details": "Defining late-2000s crossover single that became one of his most enduring songs."
+      },
+      {
+        "Year": "2008",
+        "Title": "Make It Mine",
+        "Details": "Up-tempo single from We Sing… associated with his first GRAMMY win."
+      },
+      {
+        "Year": "2009",
+        "Title": "Lucky (with Colbie Caillat)",
+        "Details": "Duet that highlighted his collaborative side and later earned a GRAMMY for pop duo/group performance."
+      },
+      {
+        "Year": "2014",
+        "Title": "I Won’t Give Up",
+        "Details": "A reflective ballad that became a major later-era staple in his catalog."
+      }
+    ],
+    "Achievements": [
+      {
+        "Year": "2010",
+        "Title": "GRAMMY Award — Best Male Pop Vocal Performance",
+        "Details": "Won for “Make It Mine.”"
+      },
+      {
+        "Year": "2014",
+        "Title": "GRAMMY Award — Best Pop Duo/Group Performance",
+        "Details": "Won for “Lucky” (with Colbie Caillat)."
+      }
+    ],
+    "KeyFacts": [
+      "Born June 23, 1977, in Mechanicsville, Virginia.",
+      "Built an early career through constant live performance in San Diego’s club/café circuit.",
+      "Signed to Elektra Records and released his major-label debut in 2002.",
+      "Known for a breezy acoustic-pop sound with funk-leaning grooves and rapid-fire lyrical phrasing."
+    ],
+    "ExternalLinks": {
+      "Official Site — jasonmraz.com": "https://jasonmraz.com/",
+      "AllMusic — Jason Mraz": "https://www.allmusic.com/artist/jason-mraz-mn0000221059",
+      "Songwriters Hall of Fame — Jason Mraz": "https://www.songhall.org/profiles/jason-mraz",
+      "GRAMMY.com — Jason Mraz": "https://grammy.com/artists/jason-mraz/15569",
+      "Wikipedia — Jason Mraz": "https://en.wikipedia.org/wiki/Jason_Mraz"
+    },
+    "CoreMembers": [
+      {
+        "Name": "Jason Mraz",
+        "YearsActive": "1999–present",
+        "Roles": [
+          "Singer",
+          "Songwriter",
+          "Musician"
+        ],
+        "Instruments": [
+          "Vocals",
+          "Guitar"
+        ],
+        "Albums": [
+          "Waiting for My Rocket to Come",
+          "Mr. A–Z",
+          "We Sing. We Dance. We Steal Things.",
+          "Love Is a Four Letter Word",
+          "Look for the Good"
+        ],
+        "Bio": {
+          "FullText": "Jason Thomas Mraz (born June 23, 1977) emerged as one of the defining pop singer-songwriters of the 2000s by pairing an unforced, bright tenor with rhythmic guitar work and a lyric style that could pivot from tongue-twisting wordplay to direct, romantic simplicity. Raised in Mechanicsville, Virginia, he gravitated toward performance early and eventually moved west, landing in San Diego at the end of the 1990s. San Diego’s café-and-club network gave him the kind of room that suits a developing songwriter: long sets, repeat audiences, and the chance to reshape songs nightly. Those years mattered because Mraz’s identity wasn’t only in the recordings; it was in delivery—half sung, half spoken, with the cadence of a comedian, the control of a pop vocalist, and the looseness of a jam-band frontman. A signature part of his approach was turning the acoustic guitar into a percussion instrument, using brisk strumming and muted hits to create a groove sturdy enough to carry rap-like phrasing.\n\nThat local reputation expanded through independent releases and constant touring, and the momentum eventually carried him to a major-label debut. Waiting for My Rocket to Come (2002) captured the balance that would define his early career: pop structures with room for rhythmic detours, melodies that felt relaxed but were built with precision, and lyrics that mixed earnestness with playful misdirection. “The Remedy (I Won’t Worry)” served as an accessible introduction—upbeat, hook-forward, and rooted in the kind of optimism he could sell without sounding forced. The album’s success also pointed to one of his core strengths: he could translate the intimacy of a solo performer into recordings that sounded radio-ready while still leaving the impression of a guy playing to the room.\n\nInstead of locking into a single lane, Mraz treated each project as a chance to adjust the proportions—more band, less band; more pop sheen, more organic texture—without discarding the acoustic center. Mr. A–Z (2005) pushed further into polished pop-rock, and by that point his live performances were built around a full-band feel that could swing from quiet, tender ballads to funk-leaning grooves. That flexibility set the stage for We Sing. We Dance. We Steal Things. (2008), the record that turned him into a global pop fixture. The album’s breakout single “I’m Yours” functioned like a distillation of his public persona: bright, unguarded, and melodically simple in a way that makes a song feel like it has always existed. Yet the simplicity was deceptive. Behind the relaxed surface was tight craft—phrases placed to land cleanly, internal rhymes that make lines bounce, and a melodic contour designed for mass sing-alongs without losing personality.\n\nThe We Sing… era also highlighted his ability to collaborate without diluting his voice. “Lucky,” his duet with Colbie Caillat, leaned into warmth and soft-spoken intimacy, proving he could write for two voices as naturally as he wrote for one. At the same time, songs like “Make It Mine” showcased his gift for making rhythm feel effortless—melodies that ride the groove rather than sit on top of it. Recognition followed: both tracks were connected to his early career GRAMMY wins, signaling that his breezy aesthetic had been taken seriously as craft.\n\nOutside the studio, Mraz’s career has been defined by endurance and a commitment to the live show. He is the kind of artist who can strip down a hit to a single guitar and still make it feel complete, then rebuild the same song with a band and let the rhythm section change its personality. That performance-first identity helps explain why he has remained a touring mainstay beyond the radio peak of any one era. His catalog also reflects a long-form songwriter’s mindset: he has continued releasing albums and experimenting with production touches—adding funk, reggae, and contemporary pop textures—while returning again and again to the same core strengths: melody, groove, and an unforced vocal delivery that makes even tightly structured pop feel conversational.\n\nIf there is a through-line in Mraz’s work, it’s the idea that optimism can be engineered without becoming artificial. The best of his songs are not naïve; they’re deliberate—built to invite participation, to sound good in a room, and to hold up under repetition. From the San Diego grind that sharpened his stagecraft to the mainstream breakthrough that made him a pop staple, he has maintained an identity that is both specific and adaptable: a singer-songwriter who can flirt with multiple styles, but who remains recognizable the moment the rhythm of his phrasing hits the beat.\n\nHis later discography shows a similar pattern of reinvention within familiar boundaries. After the breakout years, he continued to release studio albums that shifted emphasis from album to album—sometimes leaning into contemporary pop arrangements, sometimes returning to a more stripped, band-in-a-room feel—while keeping the same lyrical trademarks: quick internal rhymes, unexpected turns of phrase, and an instinct for choruses that feel like friendly invitations rather than declarations. Even as radio cycles changed, he remained a visible, working artist through steady touring, collaborations, and special projects. One public example of that versatility arrived when he stepped outside the normal pop pipeline to make a Broadway appearance in Waitress, taking on the role of Dr. Pomatter in a limited run—another reminder that his appeal has always been tied to performance as much as studio craft.\n\nOver time, Mraz has also become associated with the wider community of songwriting and music advocacy, appearing in industry-facing programs and events connected to the Recording Academy. Those kinds of appearances fit his long-standing image: a pop artist with a busker’s instincts, someone who can operate at arena scale but still aims for the emotional directness of a room with no stage barrier. In that sense, the defining feature of his career may be continuity rather than novelty. The sound can change at the margins—more groove here, more sheen there—but the center remains stable: a distinctive rhythmic voice, a melodic gift for singable hooks, and a live-first philosophy that keeps the songs durable long after any one single has finished its chart run.",
+          "Sources": [
+            {
+              "Title": "Jason Mraz — Artist Bio",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/jason-mraz-mn0000221059"
+            },
+            {
+              "Title": "Jason Mraz — Profile",
+              "Publisher": "Songwriters Hall of Fame",
+              "Url": "https://www.songhall.org/profiles/jason-mraz"
+            },
+            {
+              "Title": "Jason Mraz | Artist",
+              "Publisher": "GRAMMY.com",
+              "Url": "https://grammy.com/artists/jason-mraz/15569"
+            },
+            {
+              "Title": "Jason Mraz",
+              "Publisher": "Wikipedia",
+              "Url": "https://en.wikipedia.org/wiki/Jason_Mraz"
+            }
+          ]
+        }
+      }
+    ],
+    "NonCoreMembers": []
   },
   {
     "ArtistID": "jeff-beck",
@@ -2866,311 +3014,229 @@
       "1985–2000"
     ],
     "Genres": [
-      "Blues-rock",
-      "Blues",
-      "Rock"
+      "Blues Rock",
+      "Rock",
+      "Modern Electric Blues"
     ],
     "Labels": [
       "Arista",
-      "Eagle Records"
+      "Eagle"
     ],
-    "Overview": "The Jeff Healey Band were a Toronto‑based blues‑rock power trio built around the singular guitar approach and raspy, soulful vocals of Jeff Healey, with bassist Joe Rockman and drummer Tom Stephen supplying the tight, song‑first foundation that made the group sound bigger than three people. Formed in the mid‑1980s on Toronto’s club circuit, the band became known for live sets that could shift from traditional blues feel to radio‑ready rock hooks without losing momentum. Healey’s lap‑style technique gave the trio an instantly identifiable voice, while Rockman and Stephen kept the rhythm section locked and propulsive.\n\nSigned to Arista Records in 1988, the trio broke internationally with the debut album “See the Light,” which delivered the signature hit “Angel Eyes” and introduced Healey’s playing to a wide audience. Their profile was boosted again by a prominent appearance in the 1989 film “Road House,” where Healey and the band performed as the bar’s house act. The scenes reinforced the band’s identity as a real touring unit—tight, loud, and built for the stage—rather than a studio‑assembled project.\n\nThe follow‑up “Hell to Pay” (1990) broadened the band’s reach and brought in high‑profile guest collaborators, while singles such as Mark Knopfler’s “I Think I Love You Too Much” kept them on rock radio. Through the 1990s the Jeff Healey Band continued with albums like “Feel This” (1992) and “Cover to Cover” (1995), preserving the trio character even as production trends shifted. The final studio album under the band name, “Get Me Some” (2000), captured a later‑period snapshot of their chemistry and their core promise: blues‑rooted rock with real interplay and a lead guitar voice that never sounded like anyone else It remains one of the best‑known modern examples of a blues‑rock trio crossing into pop‑radio visibility without abandoning musicianship.",
+    "Overview": "The Jeff Healey Band were a Toronto-based blues-rock trio built around the startlingly original guitar style of Jeff Healey, who played with the instrument flat on his lap, using a pick and aggressive finger work to produce a tone and attack that felt both traditional and instantly modern. Formed in the mid-1980s with bassist Joe Rockman and drummer Tom Stephen, the group became known for high-energy club shows that married bar-band directness to virtuoso lead playing. Their major-label breakthrough arrived with See the Light (1988) on Arista, a debut that translated their live power to radio and introduced their signature blend of blues vocabulary, hard-rock drive, and melodic hooks. Songs like “Angel Eyes” helped the band cross over beyond blues audiences, and the album’s success turned the trio into an international touring act.\n\nRather than settling into a single formula, the band treated each release as a different angle on the same core identity. Hell to Pay (1990) pushed toward larger-scale rock production without losing the blues foundation, while Feel This (1992) leaned into a harder, early-’90s rock sound. In 1995 they pivoted in the opposite direction with Cover to Cover, an album of covers that foregrounded their roots and showcased Healey’s ability to make well-worn material feel fresh through phrasing, dynamics, and tone. After a long gap, Get Me Some (2000) served as a late-career statement: a leaner set that underscored the band’s chemistry and the directness of their trio format.\n\nAt their best, the Jeff Healey Band were proof that a power trio could still feel big without extra layers. Rockman’s bass work anchored the groove while giving Healey room to stretch, and Stephen’s drumming kept the feel locked even when the guitar lines became explosive. The band’s legacy rests on that combination of accessibility and virtuosity: songs structured for radio, played with the intensity of a live blues set, and driven by a guitarist whose approach was so visually and sonically distinctive that it became inseparable from the music.",
     "NotableAlbums": [
       {
-        "Year": 1988,
+        "Year": "1988",
         "Title": "See the Light",
-        "Details": "Debut album that introduced Healey’s distinctive lap‑style guitar to a mainstream rock audience; featured “Angel Eyes,” “See the Light,” and the Grammy‑nominated instrumental “Hideaway.”"
+        "Details": "Arista debut that broke the trio internationally and featured the hit “Angel Eyes.”"
       },
       {
-        "Year": 1990,
+        "Year": "1990",
         "Title": "Hell to Pay",
-        "Details": "Second album that broadened the band’s reach and featured high‑profile guest collaborators; included the Mark Knopfler‑written hit “I Think I Love You Too Much.”"
+        "Details": "Follow-up that pushed toward bigger rock production; includes “I Think I Love You Too Much” and a notable guest-filled “While My Guitar Gently Weeps.”"
       },
       {
-        "Year": 1992,
+        "Year": "1992",
         "Title": "Feel This",
-        "Details": "Third studio album that leaned into a tougher early‑’90s rock sheen while keeping the trio’s blues‑based identity and road-tested interplay."
+        "Details": "Early-’90s hard-rock-leaning studio album that retained the trio’s blues foundation."
       },
       {
-        "Year": 1995,
+        "Year": "1995",
         "Title": "Cover to Cover",
-        "Details": "A mid‑’90s set built around strong songcraft and reinterpretations, reflecting the band’s roots in covers and their knack for making standards feel contemporary."
+        "Details": "Covers album that foregrounded the band’s roots and Healey’s ability to reinvent familiar material."
       },
       {
-        "Year": 2000,
+        "Year": "2000",
         "Title": "Get Me Some",
-        "Details": "Final studio album under the Jeff Healey Band name, often cited by the Healey estate as an underrated late‑career statement capturing their live power in the studio."
+        "Details": "Late-era studio album emphasizing a leaner, performance-forward trio sound."
       }
     ],
     "SignatureSongs": [
       {
-        "Year": 1989,
+        "Year": "1988",
         "Title": "Angel Eyes",
-        "Details": "Breakthrough single from “See the Light” that became the band’s biggest hit; peaked at No. 5 on the U.S. Billboard Hot 100."
+        "Details": "Breakthrough crossover single from See the Light."
       },
       {
-        "Year": 1989,
+        "Year": "1990",
         "Title": "I Think I Love You Too Much",
-        "Details": "Mark Knopfler‑written hit single from “Hell to Pay,” one of the band’s best‑known guitar‑driven radio tracks."
+        "Details": "Hard-driving blues-rock single from Hell to Pay, co-written by Mark Knopfler."
       },
       {
-        "Year": 1988,
-        "Title": "See the Light",
-        "Details": "Title track from the debut album, showcasing Healey’s melodic lap‑style leads in a tight pop‑blues rock format."
-      },
-      {
-        "Year": 1988,
-        "Title": "Hideaway",
-        "Details": "Instrumental from “See the Light” nominated for a Grammy Award for Best Rock Instrumental Performance."
-      },
-      {
-        "Year": 1990,
+        "Year": "1990",
         "Title": "How Long Can a Man Be Strong",
-        "Details": "Notable early‑’90s single that charted in Canada and became a staple of the band’s era‑defining run."
+        "Details": "Notable track from Hell to Pay that became a fan and live staple."
+      },
+      {
+        "Year": "1992",
+        "Title": "Cruel Little Number",
+        "Details": "Opening track from Feel This with band member credits prominently featuring the core trio."
+      },
+      {
+        "Year": "1995",
+        "Title": "While My Guitar Gently Weeps",
+        "Details": "High-profile cover from Hell to Pay featuring major guest musicians."
       }
     ],
     "Achievements": [
       {
-        "Year": 1990,
-        "Title": "Juno Award — Canadian Entertainer of the Year",
-        "Details": "Won at the 1990 Juno Awards during the band’s peak mainstream breakthrough period."
+        "Year": "1989",
+        "Title": "International breakthrough and multi-platinum era",
+        "Details": "See the Light became a major commercial success and established the band as an international touring act."
       },
       {
-        "Year": 1989,
-        "Title": "Grammy nomination — Best Rock Instrumental Performance",
-        "Details": "“Hideaway” from the debut album “See the Light” received a Grammy nomination."
-      },
-      {
-        "Year": 1989,
-        "Title": "See the Light — major international breakthrough",
-        "Details": "Debut album achieved significant chart success and multi‑territory sales, establishing the band internationally."
+        "Year": "1990",
+        "Title": "Juno Award recognition (band era)",
+        "Details": "The band’s early-’90s period is associated with major Canadian industry recognition, including Juno honors noted in standard band histories."
       }
     ],
     "KeyFacts": [
-      "Formed in 1985 in Toronto, Ontario, Canada (power‑trio: Jeff Healey, Joe Rockman, Tom Stephen).",
-      "Breakthrough album: “See the Light” (1988), featuring the international hit “Angel Eyes.”",
-      "“Angel Eyes” peaked at No. 5 on the U.S. Billboard Hot 100.",
-      "Healey and the band appeared on screen in the 1989 film “Road House” as the bar’s house act.",
-      "Second album “Hell to Pay” (1990) featured high‑profile guest collaborators including George Harrison, Jeff Lynne, and Mark Knopfler.",
-      "“Hideaway” from the debut album received a Grammy nomination for Best Rock Instrumental Performance.",
-      "AllMusic lists the band as formed 1985 and disbanded 2000."
+      "Formed in Toronto in 1985 as a trio: Jeff Healey (guitar/vocals), Joe Rockman (bass), Tom Stephen (drums).",
+      "Known for Healey’s lap-held guitar technique and a power-trio blues-rock sound.",
+      "Major-label breakthrough with See the Light (1988) on Arista.",
+      "Appeared as the house band in the 1989 film Road House."
     ],
     "ExternalLinks": {
-      "Official Site": "https://jeffhealey.com/",
+      "Official Site — jeffhealey.com": "https://jeffhealey.com/",
       "AllMusic — The Jeff Healey Band": "https://www.allmusic.com/artist/the-jeff-healey-band-mn0000075308",
-      "AllMusic — See the Light": "https://www.allmusic.com/album/see-the-light-mw0000201410",
-      "Wikipedia — Jeff Healey": "https://en.wikipedia.org/wiki/Jeff_Healey"
+      "The Canadian Encyclopedia — Jeff Healey Band": "https://thecanadianencyclopedia.ca/en/article/jeff-healey-band",
+      "Billboard Canada — Five Questions With… Tom Stephen": "https://ca.billboard.com/fyi/five-questions-%E2%80%A6-tom-stephen",
+      "Wikipedia — Jeff Healey Band": "https://en.wikipedia.org/wiki/The_Jeff_Healey_Band"
     },
     "CoreMembers": [
       {
         "Name": "Jeff Healey",
-        "YearsActive": "1985–2000 (Jeff Healey Band); 1981–2008 (overall)",
+        "YearsActive": "1985–2000",
         "Roles": [
-          "Lead vocals",
-          "Guitar",
-          "Songwriter",
-          "Band leader"
+          "Singer",
+          "Guitarist",
+          "Songwriter"
         ],
         "Instruments": [
           "Guitar",
           "Vocals"
         ],
         "Albums": [
-          "See the Light (1988)",
-          "Hell to Pay (1990)",
-          "Feel This (1992)",
-          "Cover to Cover (1995)",
-          "Get Me Some (2000)"
+          "See the Light",
+          "Hell to Pay",
+          "Feel This",
+          "Cover to Cover",
+          "Get Me Some"
         ],
         "Bio": {
-          "Birth": "March 25, 1966 — Toronto, Ontario, Canada",
-          "Death": "March 2, 2008 — Toronto, Ontario, Canada",
-          "Nationality": "Canadian",
-          "Roles": [
-            "Guitarist",
-            "Singer",
-            "Songwriter"
-          ],
-          "Instruments": [
-            "Guitar",
-            "Vocals"
-          ],
-          "FullText": "Norman Jeffrey “Jeff” Healey (March 25, 1966 — Toronto, Ontario, Canada; March 2, 2008 — Toronto, Ontario, Canada) was a Canadian guitarist, singer, and songwriter whose work with the Jeff Healey Band helped bring blues‑rock into late‑1980s and early‑1990s mainstream radio. Blinded in early childhood by retinoblastoma, Healey developed an instantly recognizable approach: he played the guitar flat across his lap, using the horizontal position to execute wide bends, strong vibrato, and rapid single‑note runs while keeping his phrasing rooted in blues and soul.\n\nHealey began playing guitar when he was very young and was already performing publicly as a child; at nine he appeared on TVOntario’s children’s program “Cucumber,” an early sign of the confidence that later defined his stage presence. As a teenager he formed the Toronto bar band Blue Direction, learning the craft of working rooms: building a set, reading crowds, and making familiar songs feel personal. Those formative gigs shaped his view of lead guitar as a storytelling voice rather than a display of speed for its own sake.\n\nIn the mid‑1980s Healey connected with bassist Joe Rockman and drummer Tom Stephen, and the trio became the core of the Jeff Healey Band. Their reputation was forged in Toronto’s club circuit, where the group could stretch material, shift dynamics quickly, and let Healey’s lap‑style lead work function as both the lead instrument and a second vocalist. The band became a frequent presence at blues‑friendly venues such as Grossman’s Tavern, building a local following strong enough to attract industry attention.\n\nArista Records signed the band in 1988, and the debut album “See the Light” was released on September 13, 1988. The record introduced Healey’s sound to a wide audience without sanding down the band’s identity: blues‑based grooves, concise rock songwriting, and a lead guitar tone that could turn warm and lyrical or biting and aggressive. The album produced major singles, including “Angel Eyes” (written by John Hiatt and Fred Koller), which became the band’s biggest international hit and reached the top five on the U.S. Billboard Hot 100.\n\n“See the Light” also tied the band to one of the era’s best‑known movie soundtracks. Healey appeared on screen in the 1989 film “Road House” as Cody, performing with the band as the house act in the movie’s bar scenes. It was an unusually prominent placement for a working blues‑rock trio, and it put Healey’s playing in front of an audience far beyond the club circuit. The scenes captured something essential about the group: they sounded like a road‑ready unit, not a studio construction, with Rockman and Stephen driving the pocket while Healey sang and led.\n\nRather than plateau after the debut, the Jeff Healey Band followed with “Hell to Pay,” released on May 29, 1990. The album was recorded at Le Studio in Morin‑Heights, Quebec, and it broadened the band’s profile. It is remembered for its guest list—collaborators including George Harrison, Jeff Lynne, and Mark Knopfler appeared on the record—and for its smart choice of material. “I Think I Love You Too Much,” written by Knopfler, became one of the defining singles of the band’s peak era and highlighted Healey’s ability to combine hard‑edged tone with melodic clarity.\n\nThe early 1990s kept the band visible and productive. Albums like “Feel This” (1992) and “Cover to Cover” (1995) reflect the realities of the period for blues‑based rock acts: staying current in production and song selection while preserving the identity that brought fans in. Healey’s playing remained the anchor—melodic, often ferocious, and rooted in the idea that a solo should advance the song. Just as important was the trio chemistry: Rockman and Stephen were tight enough to support arena‑scale choruses and flexible enough for extended blues improvisation onstage.\n\nBy the end of the decade and into 2000, Healey’s interests widened further. Under the Jeff Healey Band name, “Get Me Some” (2000) captured a later‑period version of the trio’s chemistry, and Healey increasingly devoted time to jazz. He became known as a passionate collector and historian of early jazz recordings, amassing a large archive of 78 rpm records and sharing them through radio programming in Toronto and beyond. That dual identity—blues‑rock frontman and jazz curator—helped explain his range as both a guitarist and a musical thinker.\n\nHealey’s life was also marked by recurring health battles. He underwent major surgery in January 2007 to remove metastatic cancer tissue from both lungs after earlier sarcoma treatments. He died in Toronto on March 2, 2008, from sarcoma at age 41. His legacy remains unusually multifaceted: an instantly identifiable guitarist, a songwriter and vocalist who delivered major hits without abandoning musicianship, and a bandleader whose trio work remains a reference point for modern blues‑rock players.",
+          "FullText": "Norman Jeffrey “Jeff” Healey (March 25, 1966 – March 2, 2008) became one of Canada’s most distinctive modern blues-rock artists by combining a fearless, high-volume guitar attack with a playing position that looked as unusual as it sounded: he laid the guitar flat across his lap and fretted with an open-handed technique that let him bend and vibrato notes with extreme control. Blind from early childhood due to retinoblastoma, Healey adapted the instrument in a way that turned necessity into identity. The lap-held position wasn’t a gimmick; it shaped his tone, his phrasing, and the way he built momentum. Lines could snap like a horn section, then melt into wide, vocal-like vibrato, and he could move from traditional blues language to hard-rock drive without changing his fundamental touch.\n\nHealey came up in Toronto and was already performing publicly as a child, eventually becoming a fixture in the city’s blues ecosystem. The scene rewarded players who could hold a room on feel alone, and Healey’s combination of emotional directness and technical command made him stand out quickly. In the mid-1980s he formed a trio with bassist Joe Rockman and drummer Tom Stephen that operated as a classic power trio—tight rhythm section, a singer-guitarist at the center, arrangements designed to hit hard in a room. The Jeff Healey Band’s calling card was the way Healey made the guitar function as both lead voice and rhythmic engine. His solos often sounded like conversations: short, emphatic phrases that built into longer runs, with dynamics suggesting he was reacting to the band in real time. That live-first approach mattered because their reputation was forged on stage, where the trio could stretch without losing the pocket.\n\nThe band’s breakthrough came with See the Light (1988), a debut on Arista that captured the trio’s punch and introduced them to a broad audience. The album delivered radio-facing hooks and blues credibility in the same package, anchored by the crossover hit “Angel Eyes.” Healey’s playing was the immediate headline—fast, bright, and aggressive—but the deeper hook was musicality. He could phrase a melody so it felt inevitable, then explode into a run that reminded listeners this was a virtuoso leading a working band, not a sideman passing through. Around the same period, the band’s visibility expanded through their appearance as the house band in the 1989 film Road House, which put Healey on screen and underscored how naturally the trio’s barroom power translated to a cinematic setting.\n\nWith Hell to Pay (1990), the Jeff Healey Band scaled up. The production leaned into arena-ready rock, and the album became notable not only for its energy but also for the guest list attached to their cover of “While My Guitar Gently Weeps,” which featured contributions from George Harrison and Jeff Lynne, with Mark Knopfler also appearing on the album. Those collaborations positioned Healey as a guitarist respected across generations—someone who could share space with rock royalty while still sounding unmistakably like himself. Feel This (1992) followed with a harder, early-’90s rock posture, and by then the trio had proven they could adapt to shifting radio aesthetics without losing the essential chemistry of bass, drums, and Healey’s lap-style fire.\n\nIn the mid-1990s, Healey used Cover to Cover (1995) to underline his roots. The record’s concept—an album of covers—was a way of showing range rather than retreat. Healey could play blues standards with authority, reinterpret rock material with bite, and make familiar melodies feel newly urgent through tone and timing. That ability to refresh well-known songs is part of why he remained a compelling live artist: audiences could hear the band’s identity in the way they attacked a groove, not just in the written material.\n\nAfter a long gap, Get Me Some (2000) served as the Jeff Healey Band’s final studio album and a reminder of what made the trio durable. The record returned to a leaner, performance-forward feel and emphasized Healey’s mature command of dynamics—when to let the band breathe, when to surge, and how to make a short phrase hit as hard as a long solo. Even late in the band’s run, the basics still held: Healey’s tone was immediate, his rhythmic sense kept the guitar connected to the groove, and the trio format kept everything honest.\n\nHealey’s broader legacy is rooted in uniqueness without isolation. He played in a way few others could imitate, yet he was never only about technique. He built songs, supported vocal melodies, and treated the guitar as part of the band’s storytelling. In that sense, the Jeff Healey Band were the perfect vehicle: a tight, working unit that could deliver radio hooks, blues credibility, and explosive lead playing in the same three minutes. Healey’s influence persists wherever players search for ways to make the guitar speak—not just with speed, but with personality, dynamics, and unmistakable voice.\n\nBeyond the band’s core catalog, Healey’s musicianship had depth that went past blues-rock. He was a serious student of early jazz and traditional American popular music, building a reputation as an avid collector of vintage 78 rpm records and as a broadcaster who shared that passion on radio. That love of older forms also fed back into his rock playing: you can hear the way he phrases like a horn, the way he builds a solo the way a jazz player builds a chorus, and the way he treats the band’s groove as the primary engine rather than a backdrop for flash. For listeners, the thrill was twofold—the visceral hit of a loud, hooky trio, and the sense that the guitarist at the center was drawing from a much wider musical memory than the average bar-band shredder.\n\nBy the late 1990s and early 2000s, even as the Jeff Healey Band’s recording schedule slowed, Healey remained active as a performer and recording artist, and the band’s earlier work continued to circulate as an example of modern electric blues that could compete with mainstream rock. His death in 2008 closed the story too early, but it also fixed the Jeff Healey Band in a particular frame: a band that arrived with something genuinely new—a world-class guitarist with a singular method—and proved, album after album, that the novelty wasn’t the point. The point was the sound: direct, melodic blues-rock played with uncommon intensity and heart.",
           "Sources": [
+            {
+              "Title": "About Jeff Healey",
+              "Publisher": "The Official Jeff Healey Site",
+              "Url": "https://jeffhealey.com/about/"
+            },
+            {
+              "Title": "Jeff Healey — Artist Overview",
+              "Publisher": "AllMusic",
+              "Url": "https://www.allmusic.com/artist/mn0000226634"
+            },
+            {
+              "Title": "Jeff Healey Band",
+              "Publisher": "The Canadian Encyclopedia",
+              "Url": "https://thecanadianencyclopedia.ca/en/article/jeff-healey-band"
+            },
             {
               "Title": "Jeff Healey",
               "Publisher": "Wikipedia",
               "Url": "https://en.wikipedia.org/wiki/Jeff_Healey"
-            },
-            {
-              "Title": "Jeff Healey — Biography",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/jeff-healey-mn0000226634"
-            },
-            {
-              "Title": "The Jeff Healey Band — Artist Page",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/the-jeff-healey-band-mn0000075308"
             }
           ]
         }
       },
       {
         "Name": "Joe Rockman",
-        "YearsActive": "1985–2000 (Jeff Healey Band)",
+        "YearsActive": "1985–2000",
         "Roles": [
-          "Bass",
-          "Songwriter"
+          "Bassist",
+          "Co-founder"
         ],
         "Instruments": [
-          "Bass guitar"
+          "Bass"
         ],
         "Albums": [
-          "See the Light (1988)",
-          "Hell to Pay (1990)",
-          "Feel This (1992)",
-          "Cover to Cover (1995)",
-          "Get Me Some (2000)"
+          "See the Light",
+          "Hell to Pay",
+          "Feel This",
+          "Cover to Cover",
+          "Get Me Some"
         ],
         "Bio": {
-          "Birth": "January 1, 1957 — Toronto, Ontario, Canada",
-          "Death": "",
-          "Nationality": "Canadian",
-          "Roles": [
-            "Bassist",
-            "Songwriter"
-          ],
-          "Instruments": [
-            "Bass guitar"
-          ],
-          "FullText": "Joe Rockman (born January 1, 1957 — Toronto, Ontario, Canada) is a Canadian bassist best known as the co‑founding low‑end anchor of the Jeff Healey Band. In the trio format that defined the group’s core identity, Rockman’s role was unusually exposed: without a second guitarist or a keyboardist to fill harmonic space, the bass had to carry both groove and structure. Rockman did that with a tight, economical style that kept the band’s blues foundation intact while allowing Jeff Healey’s lap‑style lead guitar to roam.\n\nRockman met Healey in the mid‑1980s Toronto scene and became central to the band’s transition from club attraction to international touring act. The Jeff Healey Band’s early reputation was built on live dynamics—quiet verses that could explode into chorus power, and extended sections where Healey could stretch out instrumentally. Rockman’s job in that environment was to make those transitions feel inevitable. On slower blues material, he leaned into warm, supportive lines that left room for Healey’s vocal phrasing. On faster rock cuts, he locked with drummer Tom Stephen to give the band the “push” it needed to compete on radio alongside harder‑edged contemporary rock.\n\nWhen the band signed to Arista and recorded “See the Light” (1988), Rockman’s playing translated cleanly to the studio. The debut established a sound built on three pillars: Healey’s guitar and vocal front line, Stephen’s driving backbeat, and Rockman’s steady, song‑first bass foundation. Because the group came up as a working live band, the recorded performances retained an “on stage” sense of momentum; Rockman’s lines often function as a guide rail through the arrangements, keeping choruses wide and confident while the lead guitar supplies the fireworks.\n\nRockman’s contributions were not limited to performance. He is credited as a co‑writer (with Healey and Stephen) on songs such as “Full Circle,” reflecting how the band’s rhythm section participated in shaping the group’s material rather than simply supporting it. Across the Arista years and beyond—through “Hell to Pay” (1990), “Feel This” (1992), “Cover to Cover” (1995), and the later “Get Me Some” (2000)—Rockman remained part of what made the Jeff Healey Band feel like a true unit. Even on albums with famous guest appearances, the core trio’s feel is what holds the music together, and Rockman’s bass is the center of that feel.\n\nRockman’s legacy is best understood inside the band context: he is the player who makes the Jeff Healey Band’s three‑piece identity sound larger than its headcount. Healey’s technique could be explosive and unpredictable in the moment, and Stephen’s drumming emphasized forward motion; Rockman balanced those forces with a centered pulse and clear harmonic choices. For listeners, that balance is a big reason the band could move naturally from blues tradition to radio‑ready rock without sounding like a compromise. For musicians, his work is a lesson in how a bassist can drive the song, fill space intelligently, and still leave room for a dominant lead instrument to tell the story.",
+          "FullText": "Joe Rockman is the bassist and co-founder of the Jeff Healey Band, a role that placed him at the structural center of one of the late-1980s blues-rock era’s most distinctive power trios. Based in Toronto, Rockman helped shape the band’s identity from the start: a hard-grooving rhythm section built to support a guitarist with a singular voice. Where Jeff Healey’s lap-held lead playing provided the fireworks, Rockman’s job was to make the band feel inevitable—locking the time, defining the harmonic movement, and giving the songs a steady pulse that could survive both radio arrangements and extended live workouts.\n\nThe Jeff Healey Band’s early reputation was built in clubs, and that environment favors bass players who can do more than simply follow the guitar. Rockman’s playing is best understood as an engine: he keeps the low end firm, but he also nudges the groove, creating forward motion that lets a trio sound larger than its parts. In a power trio, the bassist often has to split the difference between rhythm guitar and low-frequency anchor, and Rockman’s lines frequently do exactly that—thickening the chordal feel while still leaving space for Healey to phrase freely. That balance was crucial because Healey’s approach could be explosive and dynamic; the band needed a foundation that would not wobble when the guitarist pushed the volume and intensity.\n\nOn the band’s debut album, See the Light (1988), that chemistry is audible: the bass and drums keep a tight, driving pocket that lets Healey’s solos feel like extensions of the song rather than interruptions. As the band grew into an international touring act, Rockman remained part of the trio’s continuity through their major releases—Hell to Pay (1990), Feel This (1992), and the roots-forward Cover to Cover (1995)—even as the production choices and radio climate shifted around them. Those albums highlight the practical musicianship required of a long-running trio: adjusting tone and feel to match different eras of rock production while still sounding like the same band.\n\nRockman also appears in the band’s writing credits. Across the official album documentation, his name turns up on compositions alongside Healey and Tom Stephen, reflecting how trio bands often build material from rehearsal-room dynamics rather than from a single isolated songwriter. In that model, bass parts are not afterthoughts; they are often foundational to the riff or rhythmic hook. The result is a catalog where the bass lines are integral to the songs’ identity, not merely supportive.\n\nAfter the band’s initial peak, Rockman’s significance became even clearer in the way the Jeff Healey Band’s legacy has been curated. In later reflections posted through the official Jeff Healey channels, Rockman is consistently described as a co-founder and key part of the band’s story—a reminder that the group’s impact wasn’t only the lead guitar spectacle. It was the trio as a unit: the way the rhythm section made Healey’s phrasing land, the way the songs stayed compact and hooky, and the way the band could sound like a full room of music with only three players.\n\nSeen through that lens, Rockman’s musicianship is the kind that power trios depend on. He helped the band make the jump from Toronto clubs to international stages, and he stayed with the project through the records that defined their identity. For listeners who come to the Jeff Healey Band for the guitar hero moments, Rockman’s work is the reason those moments feel musical rather than chaotic: he makes the changes clear, keeps the groove steady, and ensures the band always has a floor to land on.",
           "Sources": [
             {
-              "Title": "Jeff Healey",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Jeff_Healey"
+              "Title": "Jeff Healey Band",
+              "Publisher": "The Canadian Encyclopedia",
+              "Url": "https://thecanadianencyclopedia.ca/en/article/jeff-healey-band"
             },
             {
-              "Title": "The Jeff Healey Band — Artist Page",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/the-jeff-healey-band-mn0000075308"
+              "Title": "Hell To Pay — Album Credits",
+              "Publisher": "The Official Jeff Healey Site",
+              "Url": "https://jeffhealey.com/album/hell-to-pay/"
+            },
+            {
+              "Title": "Feel This — Album Credits",
+              "Publisher": "The Official Jeff Healey Site",
+              "Url": "https://jeffhealey.com/album/feel-this/"
+            },
+            {
+              "Title": "Joe Rockman on ‘Road House: The Lost Soundtrack’",
+              "Publisher": "The Official Jeff Healey Site",
+              "Url": "https://jeffhealey.com/2024/06/joe-rockman-on-road-house-the-lost-soundtrack/"
             }
           ]
         }
       },
       {
         "Name": "Tom Stephen",
-        "YearsActive": "1985–2000 (Jeff Healey Band)",
+        "YearsActive": "1985–2000",
         "Roles": [
-          "Drums",
-          "Co‑manager"
+          "Drummer",
+          "Co-founder",
+          "Manager"
         ],
         "Instruments": [
           "Drums"
         ],
         "Albums": [
-          "See the Light (1988)",
-          "Hell to Pay (1990)",
-          "Feel This (1992)",
-          "Cover to Cover (1995)",
-          "Get Me Some (2000)"
+          "See the Light",
+          "Hell to Pay",
+          "Feel This",
+          "Cover to Cover",
+          "Get Me Some"
         ],
         "Bio": {
-          "Birth": "February 2, 1955 — New Brunswick, Canada",
-          "Death": "February 20, 2023",
-          "Nationality": "Canadian",
-          "Roles": [
-            "Drummer",
-            "Manager"
-          ],
-          "Instruments": [
-            "Drums"
-          ],
-          "FullText": "Tom Stephen (born February 2, 1955 — New Brunswick, Canada; died February 20, 2023) was a Canadian drummer best known as the drummer, co‑founder, and on‑the‑ground organizer of the Jeff Healey Band. In a power‑trio where the lead guitarist and singer was a major focal point, Stephen’s job was to keep the music moving: crisp timekeeping for radio‑friendly songs, flexible dynamics for blues jams, and enough intensity to make the band sound big on stage.\n\nStephen met Jeff Healey in the mid‑1980s Toronto scene and quickly became part of the trio that also included bassist Joe Rockman. Those early years in Toronto clubs were a proving ground. The Jeff Healey Band’s reputation was built on nightly performances, fast adjustments to different rooms, and the ability to shift between straight‑ahead blues, rock hooks, and extended instrumental passages. Stephen’s drumming helped make those shifts feel natural. He could play with a tight, driving backbeat when the song needed to land hard, then open up the feel when Healey moved into long, melodic solos.\n\nAs the band’s profile grew, Stephen also took on responsibilities beyond the kit. He served as the band’s manager for periods of their career and helped guide the group through the practical realities of a fast international rise—touring logistics, industry relationships, and the day‑to‑day work of keeping a working band functional. A 2019 “Five Questions” interview with Billboard Canada highlights that dual identity: drummer on stage and manager in the background, involved from the band’s formative years through the peak era that followed the multi‑platinum debut “See the Light” (1988).\n\nOn record, Stephen’s contributions are heard most clearly in the way the band’s arrangements breathe. “See the Light” established the trio’s sound for a wide audience, and Stephen’s drumming sits at the center of that sound: strong groove, clean transitions, and a feel that stays rooted in blues even when the production leans toward pop‑rock radio. On “Hell to Pay” (1990), recorded at Le Studio in Quebec, the band worked in high‑profile company, with guest collaborators appearing on the album; Stephen and Rockman still had to deliver the reliable foundation that made those sessions work. Stephen is also credited as a co‑writer (with Healey and Rockman) on songs such as “Full Circle,” reflecting the group’s collaborative identity.\n\nStephen remained connected to the Jeff Healey Band story long after the initial breakout years. The official Jeff Healey site later marked his death in 2023, noting him as a co‑founder and important part of the band’s history. For fans, Stephen’s legacy is the “engine room” role he played: the steady pulse that let Healey’s distinctive lap‑style guitar approach soar, and the professional discipline that helped the trio function as a touring and recording unit.",
+          "FullText": "Tom Stephen was the drummer and a co-founder of the Jeff Healey Band, and his importance to the group went well beyond keeping time. From the band’s formation in the mid-1980s through their ascent after the multi-platinum success of See the Light (1988), Stephen helped define what the Jeff Healey Band sounded like: a tight, hard-driving blues-rock trio that could support virtuoso lead guitar without sacrificing songcraft or groove. In the power-trio format, drummers have to be both the drummer and, in many ways, the arranger—controlling dynamics, shaping transitions, and filling the space that a second guitar or keyboard might otherwise occupy. Stephen’s playing did that job while keeping the band’s feel direct and danceable.\n\nStephen’s drumming is best understood as a balance between pocket and punch. The Jeff Healey Band could lean into radio-friendly structures, but their best moments still had the urgency of a live blues set—quick tempo lifts, dramatic dropouts, and accents that set up Healey’s solos like a launchpad. That kind of drumming requires discipline. If the groove drifts, the whole trio sounds thin; if the fills are too busy, the song collapses under its own momentum. Stephen found the middle: he hit hard when the arrangement needed power, but he also locked into a steady feel that let the band’s hooks land cleanly.\n\nHis role in the Jeff Healey Band also included leadership offstage. Stephen served as the band’s manager during their rise, helping navigate the leap from Toronto clubs to an international audience in the wake of their Arista debut. That dual responsibility—bandmate and manager—helped shape the group’s reputation as a working unit: organized enough to seize opportunities, but still raw enough to sound like a club band even on big stages. Billboard Canada’s profile work on Stephen emphasizes that behind-the-scenes function, placing him as a co-manager and key operator as the band’s career accelerated.\n\nStephen appears in the band’s documented songwriting as well. The official album materials list him as a co-writer on select tracks alongside Healey and Rockman, reflecting the collaborative nature of trio songwriting—arrangements built from rehearsal-room feel, with drum patterns and rhythmic breaks often acting as part of the hook. The band’s catalog makes that point audible: many songs turn on rhythmic gestures—stops, kicks, and tempo feels—that are inseparable from their identity.\n\nAfter the band’s main commercial period, Stephen remained part of the Jeff Healey story in the way the legacy has been discussed and archived. The official Jeff Healey site has described him explicitly as a co-founder, and it also marked his passing in 2023, noting both the complicated realities of long-running band relationships and the undeniable fact that he was central to the band’s history. For fans revisiting the Jeff Healey Band, Stephen’s contribution is easy to hear: the records swing and hit with the force of a live trio because the drums never sound like a studio construction. They sound like a band in a room.\n\nIn practical terms, Stephen helped make the Jeff Healey Band sustainable. He provided the rhythmic consistency that let Healey’s guitar style remain dynamic without derailing songs, and he helped handle the logistics and management decisions that accompany success. Those two roles—musical anchor and organizational backbone—rarely get equal attention, but together they explain why the Jeff Healey Band were more than a “guitarist plus backing players.” They were a trio with shared ownership of the sound, and Stephen was a key architect of both the band’s groove and the career that carried it to the world.",
           "Sources": [
             {
-              "Title": "Jeff Healey",
-              "Publisher": "Wikipedia",
-              "Url": "https://en.wikipedia.org/wiki/Jeff_Healey"
+              "Title": "Five Questions With… Tom Stephen",
+              "Publisher": "Billboard Canada",
+              "Url": "https://ca.billboard.com/fyi/five-questions-%E2%80%A6-tom-stephen"
             },
             {
-              "Title": "Obituaries, Feb. 23, 2023 (Tom Stephen)",
+              "Title": "Jeff Healey Band",
+              "Publisher": "The Canadian Encyclopedia",
+              "Url": "https://thecanadianencyclopedia.ca/en/article/jeff-healey-band"
+            },
+            {
+              "Title": "Fifteen Years...",
+              "Publisher": "The Official Jeff Healey Site",
+              "Url": "https://jeffhealey.com/2023/03/fifteen-years/"
+            },
+            {
+              "Title": "Obituaries, Feb. 23, 2023",
               "Publisher": "Billboard Canada",
               "Url": "https://ca.billboard.com/fyi/obituaries-feb-23-2023"
-            },
-            {
-              "Title": "The Jeff Healey Band — Artist Page",
-              "Publisher": "AllMusic",
-              "Url": "https://www.allmusic.com/artist/the-jeff-healey-band-mn0000075308"
             }
           ]
         }
       }
     ],
-    "NonCoreMembers": [
-      {
-        "Name": "George Harrison",
-        "Roles": [
-          "Guest musician/vocalist"
-        ],
-        "YearsActive": "1990 (guest on “Hell to Pay” sessions)",
-        "Overview": "High‑profile guest collaborator associated with the band’s 1990 album “Hell to Pay,” which featured major guest appearances."
-      },
-      {
-        "Name": "Mark Knopfler",
-        "Roles": [
-          "Songwriter",
-          "Guest collaborator"
-        ],
-        "YearsActive": "1990",
-        "Overview": "Wrote the hit “I Think I Love You Too Much” for the band and is among the notable collaborators connected to “Hell to Pay.”"
-      },
-      {
-        "Name": "Jeff Lynne",
-        "Roles": [
-          "Guest collaborator"
-        ],
-        "YearsActive": "1990",
-        "Overview": "Appeared as a guest collaborator on “Hell to Pay,” part of the album’s widely noted guest list."
-      }
-    ],
-    "References": [
-      {
-        "Title": "The Jeff Healey Band — Artist Page",
-        "Publisher": "AllMusic",
-        "Url": "https://www.allmusic.com/artist/the-jeff-healey-band-mn0000075308"
-      },
-      {
-        "Title": "Jeff Healey — Biography",
-        "Publisher": "AllMusic",
-        "Url": "https://www.allmusic.com/artist/jeff-healey-mn0000226634"
-      },
-      {
-        "Title": "Jeff Healey",
-        "Publisher": "Wikipedia",
-        "Url": "https://en.wikipedia.org/wiki/Jeff_Healey"
-      },
-      {
-        "Title": "Feel This — Album Notes",
-        "Publisher": "The Official Jeff Healey Site",
-        "Url": "https://jeffhealey.com/album/feel-this/"
-      },
-      {
-        "Title": "Cover to Cover — Album Notes",
-        "Publisher": "The Official Jeff Healey Site",
-        "Url": "https://jeffhealey.com/album/cover-to-cover/"
-      },
-      {
-        "Title": "Get Me Some — Album Notes",
-        "Publisher": "The Official Jeff Healey Site",
-        "Url": "https://jeffhealey.com/album/get-me-some/"
-      },
-      {
-        "Title": "Obituaries, Feb. 23, 2023 (Tom Stephen)",
-        "Publisher": "Billboard Canada",
-        "Url": "https://ca.billboard.com/fyi/obituaries-feb-23-2023"
-      }
-    ]
+    "NonCoreMembers": []
   },
   {
     "ArtistID": "jefferson-airplane",
