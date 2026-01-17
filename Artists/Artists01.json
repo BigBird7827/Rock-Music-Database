@@ -9298,26 +9298,327 @@
     {
       "ArtistID": "april-wine",
       "Name": "April Wine",
-      "Type": "",
+      "Type": "Band",
       "Origin": {
-        "City": "",
-        "Region": "",
-        "Country": ""
+        "City": "Waverley",
+        "Region": "Nova Scotia",
+        "Country": "Canada"
       },
-      "YearsActive": [],
-      "Genres": [],
-      "Labels": [],
-      "Overview": "",
-      "NotableAlbums": [],
-      "SignatureSongs": [],
-      "Achievements": [],
+      "YearsActive": [
+        "1969–1986",
+        "1992–present"
+      ],
+      "Genres": [
+        "Hard rock",
+        "Arena rock",
+        "Classic rock",
+        "Pop rock"
+      ],
+      "Labels": [
+        "Aquarius",
+        "Capitol",
+        "MCA"
+      ],
+      "Overview": "April Wine are a Canadian rock band formed in late 1969 in Waverley, Nova Scotia, who became one of the defining radio-and-touring acts of Canadian classic rock in the 1970s and early 1980s. After relocating to Montreal and signing with Aquarius Records, the group built its reputation the hard way—constant road work across Canada paired with a steady run of albums that blended riff-driven hard rock with melodic, chorus-first writing. Their early breakthrough came with the 1972 album On Record, which produced major Canadian hits with covers of Hot Chocolate’s “You Could Have Been a Lady” and Elton John and Bernie Taupin’s “Bad Side of the Moon,” positioning April Wine as a band that could compete on FM playlists while still sounding tough and live.\n\nIn the mid-1970s, April Wine’s profile climbed rapidly as they became a reliable seller in Canada and a formidable concert draw. Stand Back (1975) and subsequent records strengthened a formula that audiences understood immediately: muscular guitar rock, hook-heavy choruses, and ballads that felt sincere rather than soft. By the end of the decade, albums like Harder ... Faster (1979) helped cement the band’s arena-ready identity, while the 1981 album The Nature of the Beast marked their commercial peak in the United States—reaching the Top 25 of the Billboard 200 and earning U.S. platinum certification—while also becoming a multi-platinum fixture in Canada. The single “Just Between You and Me,” written by Myles Goodwyn, became their signature U.S. hit and helped introduce April Wine to a broader international audience.\n\nApril Wine’s first long run ended in the mid-1980s, but the band returned in the early 1990s and continued as a touring institution built around their classic catalog. Their legacy has been reinforced by major national honours, including induction into the Canadian Music Hall of Fame (2010) and recognition by Canada’s Walk of Fame’s Canada’s Rock of Fame program (2023). With over five decades of history, April Wine remain a touchstone for Canadian rock: a band whose best-known songs were built for radio, but whose longevity was earned onstage.",
+      "NotableAlbums": [
+        {
+          "Title": "On Record",
+          "Year": "1972",
+          "Notes": "Breakthrough Canadian success; featured hit singles “You Could Have Been a Lady” and “Bad Side of the Moon.”"
+        },
+        {
+          "Title": "Stand Back",
+          "Year": "1975",
+          "Notes": "Major Canadian breakthrough; helped establish the band as a national touring draw."
+        },
+        {
+          "Title": "Harder ... Faster",
+          "Year": "1979",
+          "Notes": "Late-1970s peak-era album; includes “I Like to Rock” and the Canadian/U.S. hit “Roller.”"
+        },
+        {
+          "Title": "The Nature of the Beast",
+          "Year": "1981",
+          "Notes": "Commercial peak; Top 25 on the Billboard 200 and U.S. platinum; includes “Just Between You and Me.”"
+        },
+        {
+          "Title": "Power Play",
+          "Year": "1982",
+          "Notes": "Follow-up to The Nature of the Beast; includes the single “Enough Is Enough.”"
+        }
+      ],
+      "SignatureSongs": [
+        {
+          "Title": "Just Between You and Me",
+          "Year": "1981",
+          "Notes": "Signature U.S. hit; peaked at No. 21 on the Billboard Hot 100."
+        },
+        {
+          "Title": "I Like to Rock",
+          "Year": "1980",
+          "Notes": "Concert staple and classic-rock anthem from the late-1970s/early-1980s era."
+        },
+        {
+          "Title": "Roller",
+          "Year": "1979",
+          "Notes": "One of the band’s best-known rock singles; a staple of classic-rock radio."
+        },
+        {
+          "Title": "You Could Have Been a Lady",
+          "Year": "1972",
+          "Notes": "Breakthrough Canadian hit from On Record; cover of Hot Chocolate."
+        },
+        {
+          "Title": "Sign of the Gypsy Queen",
+          "Year": "1981",
+          "Notes": "Hit single from The Nature of the Beast; a key track in the band’s peak era."
+        }
+      ],
+      "Achievements": [
+        {
+          "Year": "2010",
+          "Title": "Inducted into the Canadian Music Hall of Fame",
+          "Details": "Honoured during the 2010 JUNO broadcast for their impact and longevity in Canadian rock."
+        },
+        {
+          "Year": "2023",
+          "Title": "Inducted into Canada’s Walk of Fame / Canada’s Rock of Fame",
+          "Details": "Recognized as one of the era-defining Canadian rock acts in the program’s mega-induction ceremony."
+        },
+        {
+          "Year": "1981",
+          "Title": "The Nature of the Beast breaks through in the U.S.",
+          "Details": "The album reached the Top 25 on the Billboard 200 and was certified platinum in the United States."
+        },
+        {
+          "Year": "1981",
+          "Title": "“Just Between You and Me” becomes the band’s biggest U.S. hit",
+          "Details": "The single peaked at No. 21 on the Billboard Hot 100."
+        }
+      ],
       "KeyFacts": [],
       "ExternalLinks": {
-        "Official Site": "",
-        "Wikipedia": "",
-        "Discography": ""
+        "Official Website": "https://aprilwine.ca/",
+        "Wikipedia": "https://en.wikipedia.org/wiki/April_Wine",
+        "Discography": "https://en.wikipedia.org/wiki/April_Wine_discography"
       },
-      "CoreMembers": [],
+      "CoreMembers": [
+        {
+          "Name": "Myles Goodwyn",
+          "Roles": [
+            "Lead vocals",
+            "Guitar",
+            "Songwriter"
+          ],
+          "Years": "1969–2023",
+          "Overview": "Founding leader, principal songwriter, and defining voice of April Wine.",
+          "Bio": {
+            "FullName": "Myles Francis Goodwyn",
+            "Birth": {
+              "Date": "June 23, 1948",
+              "Place": "Woodstock, New Brunswick, Canada"
+            },
+            "Nationality": "Canadian",
+            "Roles": [
+              "Musician",
+              "Songwriter"
+            ],
+            "Instruments": [
+              "Vocals",
+              "Guitar"
+            ],
+            "FullText": "Myles Francis Goodwyn (June 23, 1948 – December 3, 2023) was the voice, principal songwriter, and defining musical architect of April Wine. Born in Woodstock, New Brunswick, and raised in Nova Scotia, Goodwyn carried an East Coast directness into a career that ultimately helped set the tone for Canadian arena rock. From the band’s earliest days, he did more than sing and play guitar: he steered the group’s sound, curated its live identity, and wrote the songs that let April Wine move from a hard‑touring regional act to a national staple and, at its peak, a band with meaningful U.S. chart presence. His work is the connective tissue across lineup changes and across the band’s long arc from late‑1960s roots to decades of classic‑rock longevity.\n\nApril Wine formed in late 1969 in Nova Scotia and quickly gravitated toward Montreal, where the group’s career would accelerate through recording and relentless touring. In that early period, Goodwyn’s gifts were already apparent: a melodic sensibility that could turn riffs into hooks, and a vocal approach that blended grit with tuneful clarity—ideal for radio without sacrificing rock impact. As the band’s catalog expanded through the early 1970s, April Wine’s profile rose with a combination of original songs and carefully chosen covers that fit their strengths. Goodwyn’s leadership through those years mattered because the group was evolving quickly: the demands of touring, shifting personnel, and the pressure to produce records that could compete nationally required a steady artistic center.\n\nBy the mid‑1970s, April Wine had become one of Canada’s most reliable hitmakers in rock, and Goodwyn’s songwriting increasingly defined what people meant when they said “April Wine.” Albums such as Stand Back and later releases in the late 1970s and early 1980s captured a band that could do multiple things well: punchy rockers built for arenas, mid‑tempo grooves designed to sit comfortably on FM radio, and ballads that carried real emotional weight. Goodwyn wrote with a craftsman’s instincts—choruses that arrived cleanly, guitar lines that served the song, and lyrics that were direct enough to connect with large audiences. That balance—accessibility without abandoning edge—is one reason April Wine’s music stayed in rotation long after the first wave of hits.\n\nThe commercial peak of that approach arrived with The Nature of the Beast (1981), which brought April Wine their strongest U.S. album performance and produced “Just Between You and Me,” a single that became the group’s signature U.S. hit. The song’s success was not an accident; it reflects Goodwyn’s ability to write a chorus that feels inevitable, then deliver it with a vocal that sounds both confident and a little vulnerable. It is also a reminder that his talents weren’t limited to one style. On the same record and in the surrounding years, the band delivered driving rock songs, radio ballads, and stage‑ready anthems. Goodwyn’s job was to keep those pieces coherent so the audience still recognized the band no matter which gear they were in.\n\nBehind the scenes, Goodwyn was also a long‑term steward of April Wine as a working organization. Canadian touring circuits are demanding, and the band’s reputation for consistency—show after show, year after year—required more than musical ability. It required discipline, decision‑making, and an understanding of how to keep a rock band functional. Even when the original run ended in the mid‑1980s and the group later returned, Goodwyn remained the key link to the band’s identity. In the 1990s and 2000s, April Wine continued to perform and record, and Goodwyn’s presence reassured fans that the essential voice of the group was still there.\n\nGoodwyn’s broader legacy is also reflected in the recognition he received within Canadian music culture. As a songwriter, he was acknowledged for shaping a distinctly Canadian strand of rock that still stood comfortably beside international peers. Those honours—along with the band’s later institutional recognitions—underline what fans already knew: April Wine wasn’t a one‑album success or a regional curiosity. It was a durable act, and Goodwyn was central to that durability.\n\nIn his later years, Goodwyn faced health challenges and eventually stepped back from full touring, but his association with April Wine remained strong. His death in December 2023 marked the end of an era for the band, yet the songs he wrote remain the foundation of its setlists and the reason multiple generations discover April Wine in the first place. When listeners hear the opening of “Just Between You and Me,” the swagger of “I Like to Rock,” or the confident choruses of the group’s best‑known records, they’re hearing Goodwyn’s core gift: writing rock music that is built to last and then delivering it with a voice that made those hooks feel personal.",
+            "HonoursAndMilestones": [
+              "Principal songwriter and lead vocalist of April Wine.",
+              "Recognized for songwriting contributions within Canadian music culture."
+            ],
+            "FunFacts": [
+              "Wrote “Just Between You and Me,” April Wine’s signature U.S. hit."
+            ],
+            "Sources": [
+              {
+                "Title": "Myles Goodwyn",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Myles_Goodwyn"
+              },
+              {
+                "Title": "Myles Goodwyn",
+                "Publisher": "Canadian Songwriters Hall of Fame",
+                "Url": "https://www.cshf.ca/songwriter/myles-goodwyn/"
+              },
+              {
+                "Title": "April Wine | Biography, Songs, & Albums",
+                "Publisher": "AllMusic",
+                "Url": "https://www.allmusic.com/artist/april-wine-mn0000593772"
+              },
+              {
+                "Title": "April Wine",
+                "Publisher": "The Canadian Encyclopedia",
+                "Url": "https://thecanadianencyclopedia.ca/en/article/april-wine"
+              },
+              {
+                "Title": "April Wine",
+                "Publisher": "Canadian Music Hall of Fame",
+                "Url": "https://canadianmusichalloffame.ca/inductee/april-wine/"
+              },
+              {
+                "Title": "April Wine Official",
+                "Publisher": "April Wine",
+                "Url": "https://aprilwine.ca/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Brian Greenway",
+          "Roles": [
+            "Guitar",
+            "Harmonica",
+            "Vocals"
+          ],
+          "Years": "1977–1986; 1992–present",
+          "Overview": "Joined during the band’s peak era and became its longest-serving onstage member.",
+          "Bio": {
+            "FullName": "Brian Gilbert Greenway",
+            "Birth": {
+              "Date": "October 1, 1951",
+              "Place": "Hawkesbury, Ontario, Canada"
+            },
+            "Nationality": "Canadian",
+            "Roles": [
+              "Musician"
+            ],
+            "Instruments": [
+              "Guitar",
+              "Harmonica",
+              "Vocals"
+            ],
+            "FullText": "Brian Gilbert Greenway (born October 1, 1951) is widely recognized as the longest‑serving onstage member of April Wine and one of the key musicians of the band’s most commercially successful era. Born in Hawkesbury, Ontario, Greenway arrived in April Wine in 1977, at a moment when the group already had strong momentum but needed the kind of multi‑tool player who could deepen the band’s palette without distracting from its identity. Greenway fit that role immediately. A guitarist with a sharp sense of phrasing, a harmonica player capable of adding bite and color, and a vocalist who could take or share lead lines, he expanded what April Wine could do both in the studio and in front of large audiences.\n\nGreenway’s early career included work in other Canadian rock contexts, which helped prepare him for the demands of a band that toured heavily and needed reliable performance night after night. When he joined April Wine, the group was transitioning from a successful Canadian act into a band with increasingly ambitious international goals. That meant longer tours, tighter stagecraft, and a need to make the live show dynamic enough to carry an arena. Greenway’s contribution in that environment was practical and musical: he brought an additional guitar voice that allowed thicker arrangements and better live reproduction of studio parts, and he also brought stage presence—the kind that reads well from a distance in large venues.\n\nMusically, Greenway’s value is in how he complements rather than competes. April Wine’s catalog is built around memorable riffs and choruses, and Greenway’s guitar work often reinforces those hooks with rhythmic precision and melodic fills. His harmonica added another recognizable texture that could lift a mid‑tempo song or give a rocker extra grit. Vocally, he helped the band create a broader range of harmonies and lead options, which mattered as April Wine balanced heavier songs with radio‑ready ballads. In the classic lineup era, those subtle additions made the band sound bigger and more versatile without losing the straightforward appeal that made their singles succeed.\n\nGreenway also navigated the band’s changing eras. After the first long run ended in the mid‑1980s, April Wine later returned, and Greenway became a critical bridge between the classic years and the band’s continuing life as a touring institution. In reunion and later touring periods, audiences came for the hits, but they also came for the feeling of continuity—seeing musicians who had been part of the original momentum. Greenway’s ongoing presence provided that continuity. As the industry shifted and classic rock became less about new chart entries and more about the live experience and catalog value, that stability became a major part of April Wine’s ability to remain active.\n\nOver the years, Greenway has been associated with April Wine’s recognition within Canadian music history, including formal honours that reflect how central the band is to the country’s rock narrative. Those honours do not attach to one person alone, but Greenway’s long tenure makes him one of the most visible representatives of the group’s legacy. For fans, his playing is tied to the era when April Wine became an arena‑level draw; for later listeners, he represents the band’s ability to keep those songs alive onstage with professionalism and respect for the material.\n\nWhat makes Greenway’s role especially important is that it is not confined to flashy moments. It is the consistency: the ability to deliver parts cleanly, support the songs, and make the ensemble sound coherent across decades. In a band with major personalities and a catalog that spans multiple styles within rock, that skill is essential. Greenway has spent much of his career doing exactly that—serving the songs, serving the show, and helping April Wine remain April Wine for audiences who discovered the band in the 1970s and for those who found the music later through classic‑rock radio and reissues.",
+            "HonoursAndMilestones": [
+              "Joined April Wine in 1977 and remained a central member across multiple eras."
+            ],
+            "FunFacts": [
+              "Known for adding harmonica and additional vocal range to the classic April Wine live sound."
+            ],
+            "Sources": [
+              {
+                "Title": "Brian Greenway",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Brian_Greenway"
+              },
+              {
+                "Title": "April Wine",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/April_Wine"
+              },
+              {
+                "Title": "April Wine",
+                "Publisher": "Canadian Music Hall of Fame",
+                "Url": "https://canadianmusichalloffame.ca/inductee/april-wine/"
+              },
+              {
+                "Title": "April Wine Official",
+                "Publisher": "April Wine",
+                "Url": "https://aprilwine.ca/"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jerry Mercer",
+          "Roles": [
+            "Drums"
+          ],
+          "Years": "1973–1986; 1992–2009",
+          "Overview": "Veteran drummer whose feel and consistency powered April Wine’s touring years.",
+          "Bio": {
+            "FullName": "Gerald Mercer",
+            "Birth": {
+              "Date": "April 27, 1939",
+              "Place": "Newfoundland (then the Dominion of Newfoundland)"
+            },
+            "Nationality": "Canadian",
+            "Roles": [
+              "Drummer"
+            ],
+            "Instruments": [
+              "Drums"
+            ],
+            "FullText": "Gerald “Jerry” Mercer (born April 27, 1939) is the drummer most closely associated with April Wine’s rise from a successful Canadian rock band into an arena‑level touring act. Born in Newfoundland (then the Dominion of Newfoundland), Mercer built a working musician’s career that gave him endurance, feel, and the kind of practical professionalism that becomes invaluable when a band’s schedule turns relentless. His path included prominent work in other Canadian rock groups before he became part of April Wine’s core rhythm engine, and that experience shaped the way he approached the job: keep the groove authoritative, keep the songs moving, and make the band sound dependable in every room.\n\nWhen Mercer joined April Wine during the band’s early‑to‑mid‑1970s evolution, the group was moving quickly—recording regularly, touring hard, and refining a sound that could compete on radio while still delivering the weight listeners expected from hard rock. In that context, the drummer’s role is more than timekeeping. The drummer sets the emotional temperature of the performance: how hard the chorus hits, how tense the bridge feels, how big the ending sounds. Mercer’s style is built around a firm backbeat and a steady pocket, with fills that emphasize transitions and build intensity without pulling focus away from vocals and riffs.\n\nIn the studio, that approach contributes to recordings that feel like a real band playing together. April Wine’s best‑known material has a live‑performance energy even when it is tightly produced, and the drum parts often provide the scaffolding that holds big guitars and layered vocals in place. Mercer’s ability to keep tempo strong while still sounding human—cymbal work that breathes, snare accents that give shape, and dynamics that respond to the song’s structure—helped April Wine’s records translate effectively to the stage. That translation matters because April Wine’s audience expected the concert versions to feel as powerful as the radio versions.\n\nOnstage, Mercer’s contribution becomes even clearer. April Wine’s setlists traditionally balance driving rock songs with slower, more melodic material. Keeping a room engaged across that range requires control. A drummer has to hit hard enough to make the rockers feel like events, then pull back to support ballads without letting the performance sag. Mercer’s drumming supported that pacing. Over long tours, that steadiness also protects the band: it lets guitarists and singers take risks, knowing the rhythm section will keep the song grounded.\n\nMercer’s long association with April Wine also reflects the band’s broader story of endurance. The group’s first run ended in the mid‑1980s, and later reunion and touring periods required musicians who could deliver the classic catalog with authority. Mercer returned during reunion phases as part of that classic continuity, reinforcing the band’s connection to the years when the hits were made and when April Wine became a major presence on Canadian rock radio. For audiences, his presence helped signal that they weren’t just hearing a tribute to the past—they were hearing the real rhythm behind it.\n\nBeyond his work with April Wine, Mercer’s career is a reminder that Canadian rock history is built by working musicians who spent years on the road making the circuits function. That role often gets less attention than the singers and songwriters, but it is essential to how bands actually succeed. Mercer’s contribution to April Wine is exactly that kind of essential work: durable, musical, and geared toward making every performance feel confident and complete.",
+            "HonoursAndMilestones": [
+              "Key drummer during April Wine’s peak touring years."
+            ],
+            "FunFacts": [
+              "Associated with multiple notable Canadian rock acts in addition to April Wine."
+            ],
+            "Sources": [
+              {
+                "Title": "Jerry Mercer",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jerry_Mercer"
+              },
+              {
+                "Title": "April Wine",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/April_Wine"
+              },
+              {
+                "Title": "History",
+                "Publisher": "April Wine",
+                "Url": "https://www.aprilwine.ca/history/history.php"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Jim Clench",
+          "Roles": [
+            "Bass",
+            "Vocals"
+          ],
+          "Years": "1971–1975; 1992–2007",
+          "Overview": "Bassist and vocalist who played key roles in April Wine’s early years and later reunion era.",
+          "Bio": {
+            "FullName": "James Patrick Clench",
+            "Birth": {
+              "Date": "May 1, 1949",
+              "Place": "Canada"
+            },
+            "Nationality": "Canadian",
+            "Roles": [
+              "Musician"
+            ],
+            "Instruments": [
+              "Bass",
+              "Vocals"
+            ],
+            "FullText": "James Patrick “Jim” Clench (May 1, 1949 – November 3, 2010) was a Canadian bassist, vocalist, and songwriter whose career intersected with some of the most visible chapters of Canadian rock. He is best known for his work with April Wine and Bachman–Turner Overdrive, and his presence in those contexts illustrates the value of a musician who can do multiple jobs well: anchor the low end, contribute vocals, and move between bands without losing identity or professionalism. In April Wine’s story, Clench is one of the pivotal early members who helped the band stabilize and grow during years when lineup changes were common and the touring circuit demanded constant strength.\n\nClench entered April Wine during the early 1970s, a period when the band was transitioning from its initial formation into a more nationally visible act. Those early years are critical for any rock band: the songs are being refined in real time, the stage show is being built, and the group has to become tight enough to support recording schedules and sustained touring. As a bassist and vocalist, Clench contributed to that tightening. The bass in a hard‑rock band is not only about low frequency; it is about momentum. A good bass player locks with the drums to create the feel that lets guitars and vocals sit on top. In that sense, Clench’s role was foundational.\n\nClench’s career is also defined by mobility. Musicians who can step into different ensembles without disrupting chemistry are valuable, and Clench proved to be that kind of player. His later association with Bachman–Turner Overdrive places him in the lineage of major Canadian rock exports, and it underscores that his abilities were recognized beyond a single band. For listeners, that crossover is meaningful because it highlights the interconnected nature of the Canadian rock ecosystem of the 1970s and 1980s: bands shared stages, toured together, and sometimes shared members who carried skills from one context to another.\n\nWithin April Wine’s narrative, Clench also represents continuity through change. The band’s classic identity is often linked to particular eras and lineups, but the reality is that April Wine’s success was built by a series of working configurations that evolved as the group’s ambitions grew. Players like Clench helped those transitions work. Even when he was not in the lineup, his earlier contributions remained part of the band’s DNA, because the catalog and reputation established in the early‑to‑mid‑1970s set the stage for the larger breakthroughs that followed.\n\nClench reappears in the April Wine story during later reunion periods as well, reflecting how legacy rock bands often rely on key former members when reconnecting with audiences. Reunion performances are not only nostalgia; they are tests of whether the music still holds and whether the band can deliver it. The presence of musicians associated with earlier chapters helps authenticate those returns, and Clench’s involvement in those phases tied the later version of April Wine back to its formative decades.\n\nClench died in Montreal on November 3, 2010. His legacy lives in the records and in the broader outline of Canadian rock history, where he stands as an example of a versatile band musician who helped multiple major acts function at a high level. For April Wine fans, he remains part of the group’s foundational story—one of the players who contributed to the band’s ability to outlast trends and become a permanent fixture of Canadian classic rock.",
+            "HonoursAndMilestones": [
+              "Worked with April Wine and Bachman–Turner Overdrive."
+            ],
+            "FunFacts": [
+              "Rejoined April Wine during the 1990s reunion era and toured extensively."
+            ],
+            "Sources": [
+              {
+                "Title": "Jim Clench",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/Jim_Clench"
+              },
+              {
+                "Title": "April Wine",
+                "Publisher": "Wikipedia",
+                "Url": "https://en.wikipedia.org/wiki/April_Wine"
+              },
+              {
+                "Title": "April Wine",
+                "Publisher": "Canadian Music Hall of Fame",
+                "Url": "https://canadianmusichalloffame.ca/inductee/april-wine/"
+              }
+            ]
+          }
+        }
+      ],
       "NonCoreMembers": []
     },
     {
